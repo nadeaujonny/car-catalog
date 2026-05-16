@@ -1,0 +1,46 @@
+Brand: mclaren
+Referer header: https://cars.mclaren.com/
+Found 24 image entries across 6 models.
+
+[1/24] artura/artura/front_three_quarter  cached (245314 bytes)
+[2/24] artura/artura/rear_three_quarter  cached (295777 bytes)
+[3/24] artura/artura/side_profile  cached (240963 bytes)
+[4/24] artura/artura/interior_dashboard  cached (255436 bytes)
+[5/24] artura-spider/artura-spider/front_three_quarter  cached (175983 bytes)
+[6/24] artura-spider/artura-spider/rear_three_quarter  cached (325082 bytes)
+[7/24] artura-spider/artura-spider/side_profile  cached (203119 bytes)
+[8/24] artura-spider/artura-spider/interior_dashboard  cached (260339 bytes)
+[9/24] 750s/750s-coupe/front_three_quarter  cached (94924 bytes)
+[10/24] 750s/750s-coupe/rear_three_quarter  cached (190985 bytes)
+[11/24] 750s/750s-coupe/side_profile  cached (150182 bytes)
+[12/24] 750s/750s-coupe/interior_dashboard  cached (222265 bytes)
+[13/24] 750s-spider/750s-spider/front_three_quarter  cached (188411 bytes)
+[14/24] 750s-spider/750s-spider/rear_three_quarter  cached (141000 bytes)
+[15/24] 750s-spider/750s-spider/side_profile  cached (120449 bytes)
+[16/24] 750s-spider/750s-spider/interior_dashboard  cached (270302 bytes)
+[17/24] 750s-le-mans-special-edition/750s-le-mans-special-edition/front_three_quarter  cached (1602408 bytes)
+[18/24] 750s-le-mans-special-edition/750s-le-mans-special-edition/rear_three_quarter  cached (575168 bytes)
+[19/24] 750s-le-mans-special-edition/750s-le-mans-special-edition/side_profile  cached (544797 bytes)
+[20/24] 750s-le-mans-special-edition/750s-le-mans-special-edition/interior_dashboard  cached (122083 bytes)
+[21/24] gts/gts/front_three_quarter  cached (266360 bytes)
+[22/24] gts/gts/rear_three_quarter  cached (194912 bytes)
+[23/24] gts/gts/side_profile  cached (139227 bytes)
+[24/24] gts/gts/interior_dashboard  cached (222763 bytes)
+
+Updated catalog/data/mclaren.json and data/mclaren.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  mclaren
+Total images attempted: 24
+Successful:             24 (100.0%)
+Failed:                 0
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  (none)
+
+Models with zero successful images: 0 of 6

@@ -1,0 +1,26 @@
+{
+  "brand_slug": "subaru",
+  "notes": "subaru.com/vehicles/<model> consumer site. Solterra is the EV; Trailseeker and Uncharted are 2026 additions (Trailseeker is the Outback successor for off-road trim, Uncharted is a new compact EV). Subaru's CDN at s7d1.scene7.com/is/image/scomv2/ uses 3-letter model codes (OBK/CTK/FOR/BRZ/WRX/SOL/TSK/UNC/ASC/IMP) in the URL path, NOT the consumer model slug. Without slug_variants the slug filter rejects 100% of candidates for 8 of 10 models (only BRZ and WRX self-match). Phase A3 investigation (session 7) added slug_variants for trailseeker only — see reports/subaru_angle_patterns_session7.md for why the others were intentionally left at their structural baseline. Subaru also serves extension-less Scene7 URLs (e.g. `...?$2000w$` with no `.jpg`); the production scraper's `<img src>` extension check rejects these, so the alt-text-carrying <img> tag inside <picture> is filtered out and only the <source srcset> entries (which bypass the check) survive — meaning slug-matching cannot benefit from <img alt> text on this brand. The MY26_<code>_jelly_3247x1224 file (BRZ/WRX/OBK/FOR/CTK/SOL/ASC/IMP/UNC) is a studio cut-out SIDE PROFILE, not a front-3/4 — visually confirmed by downloading and inspecting all 8. The 9 existing positional-fallback successes on BRZ/WRX (currently labeled front_three_quarter) are actually side_profile cuts saved under the wrong angle. Fixing this requires a scrape_image_urls.mjs change to teach pickByPosition about brand patterns; out of scope for Phase A3.",
+  "model_pages": {
+    "impreza": "https://www.subaru.com/vehicles/impreza",
+    "crosstrek": "https://www.subaru.com/vehicles/crosstrek",
+    "forester": "https://www.subaru.com/vehicles/forester",
+    "outback": "https://www.subaru.com/vehicles/outback",
+    "ascent": "https://www.subaru.com/vehicles/ascent",
+    "brz": "https://www.subaru.com/vehicles/brz",
+    "wrx": "https://www.subaru.com/vehicles/wrx",
+    "solterra": "https://www.subaru.com/vehicles/solterra",
+    "trailseeker": "https://www.subaru.com/vehicles/trailseeker",
+    "uncharted": "https://www.subaru.com/vehicles/uncharted"
+  },
+  "slug_variants": {
+    "trailseeker": ["trailseeker", "tsk"]
+  },
+  "angle_url_patterns": {
+    "front_three_quarter": [
+      "_overview_hero",
+      "_hero_md_sm"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

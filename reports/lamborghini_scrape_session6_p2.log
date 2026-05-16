@@ -1,0 +1,45 @@
+Reset 12 image entries with needs_scraping:true to their model page URLs.
+Brand: lamborghini
+Models in JSON: 3
+Models with page URLs: 3
+Playwright fallback: enabled
+
+Scraping 3 model pages…
+
+  fetch https://www.lamborghini.com/en-en/models/revuelto  …  static ok (4 raw, 2 slug-matching)
+    playwright https://www.lamborghini.com/en-en/models/revuelto  …  ok (39 raw candidates)
+  fetch https://www.lamborghini.com/en-en/models/temerario  …  static ok (4 raw, 2 slug-matching)
+    playwright https://www.lamborghini.com/en-en/models/temerario  …  ok (42 raw candidates)
+  fetch https://www.lamborghini.com/en-en/models/urus/urus-se  …  static ok (4 raw, 2 slug-matching)
+    playwright https://www.lamborghini.com/en-en/models/urus/urus-se  …  ok (42 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          lamborghini
+Pages attempted:                3
+Pages failed:                   0
+Pages escalated to Playwright:  3 of 3
+  Playwright successes:         3
+  Playwright failures:          0
+Image entries rewritten:        5
+  via text/URL pattern match:   5
+  via positional fallback:      0
+Image entries unchanged:        7
+
+Sample rewrites:
+  [7.0] revuelto/revuelto/interior_dashboard
+        → https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/0_facelift_2025/model_details_new/revuelto_2/Revuelto_03-Interior-H_Chapter-Main_Still-B-optim.jpg
+  [7.0] temerario/temerario/front_three_quarter
+        → https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/0_facelift_2025/model_details_new/temerario_2/aero/Temerario_01-Aero-H_Card-Front-last.jpg
+  [7.0] temerario/temerario/rear_three_quarter
+        → https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/0_facelift_2025/model_details_new/temerario_2/still_exterior/Temerario_02-Exterior-H_Card-Rear-last-optim.jpg
+  [7.0] temerario/temerario/interior_dashboard
+        → https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/0_facelift_2025/model_details_new/temerario_2/Temerario_04-Interior-H_Chapter-Main_Still-B-optim.jpg
+  [7.0] urus-se/urus-se/interior_dashboard
+        → https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/0_facelift_2025/model_details_new/urus_se_2/Urus_03-Interior-H_Card-Tamburo_Loop-optim.jpg
+
+Models with unresolved angles:
+  revuelto: 3 entries  (e.g. revuelto/front_three_quarter, revuelto/rear_three_quarter, revuelto/side_profile)
+  temerario: 1 entries  (e.g. temerario/side_profile)
+  urus-se: 3 entries  (e.g. urus-se/front_three_quarter, urus-se/rear_three_quarter, urus-se/side_profile)

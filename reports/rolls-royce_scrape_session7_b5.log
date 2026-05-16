@@ -1,0 +1,70 @@
+Reset 38 image entries with needs_scraping:true to their model page URLs.
+Brand: rolls-royce
+Models in JSON: 7
+Models with page URLs: 7
+Playwright fallback: enabled
+
+Scraping 7 model pages…
+
+  fetch https://www.rolls-roycemotorcars.com/en_US/showroom/phantom.html  …  static ok (318 raw, 229 slug-matching)
+  fetch https://www.rolls-roycemotorcars.com/en_US/showroom/ghost.html  …  static ok (269 raw, 168 slug-matching)
+  fetch https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-ghost.html  …  static ok (405 raw, 0 slug-matching)
+    playwright https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-ghost.html  …  ok (455 raw candidates)
+  fetch https://www.rolls-roycemotorcars.com/en_US/showroom/spectre.html  …  static ok (405 raw, 300 slug-matching)
+  fetch https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-spectre.html  …  static ok (378 raw, 0 slug-matching)
+    playwright https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-spectre.html  …  ok (396 raw candidates)
+  fetch https://www.rolls-roycemotorcars.com/en_US/showroom/cullinan.html  …  static ok (245 raw, 122 slug-matching)
+  fetch https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-cullinan.html  …  static ok (258 raw, 0 slug-matching)
+    playwright https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-cullinan.html  …  ok (337 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          rolls-royce
+Pages attempted:                7
+Pages failed:                   0
+Pages escalated to Playwright:  3 of 7
+  Playwright successes:         3
+  Playwright failures:          0
+Image entries rewritten:        15
+  via text/URL pattern match:   15
+  via brand-specific angle:     0
+  via positional fallback:      0
+Brand-specific angle matches:   0
+Resolution upgrades:            4 URLs preferred larger variants
+Image entries unchanged:        23
+
+Sample rewrites:
+  [7.0] phantom/phantom/front_three_quarter
+        → https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/phantom-100/page-components/phantom/phantom-discover/D-Expanding-image-mask-01-P100.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg
+  [7.0] phantom/phantom/rear_three_quarter
+        → https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/phantom-100/page-components/phantom/phantom-discover/D-Regular-image-02-P100.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg
+  [30.0] phantom/phantom/side_profile
+        → https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/phantom-100/page-components/phantom/phantom-discover/D-Regular-image-01-P100.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg
+  [7.0] phantom/phantom/interior_dashboard
+        → https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/phantom-100/page-components/phantom/phantom-discover/D-Expanding-image-fade-02-P100-EXTRA.png/jcr:content/renditions/cq5dam.web.1920.png
+  [7.0] phantom/phantom-extended/front_three_quarter
+        → https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/phantom-100/page-components/phantom/phantom-discover/D-Expanding-image-mask-01-P100.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg
+  [7.0] phantom/phantom-extended/rear_three_quarter
+        → https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/phantom-100/page-components/phantom/phantom-discover/D-Regular-image-02-P100.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg
+  [30.0] phantom/phantom-extended/side_profile
+        → https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/phantom-100/page-components/phantom/phantom-discover/D-Regular-image-01-P100.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg
+  [7.0] phantom/phantom-extended/interior_dashboard
+        → https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/phantom-100/page-components/phantom/phantom-discover/D-Expanding-image-fade-02-P100-EXTRA.png/jcr:content/renditions/cq5dam.web.1920.png
+  [9.8] ghost/ghost/side_profile
+        → https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/1-0-home/page-properties/ghost-series-2-campaign/main-menu-side-nav/D-SIDE-NAV-GSII.jpg/jcr:content/renditions/original
+  [9.8] ghost/ghost-extended/side_profile
+        → https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/1-0-home/page-properties/ghost-series-2-campaign/main-menu-side-nav/D-SIDE-NAV-GSII.jpg/jcr:content/renditions/original
+  [7.0] spectre/spectre/front_three_quarter
+        → https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/spectre-discover/page-components/comp-update-dec-24/D-IMAGE-SPECTRE-DISCOVER%20(2).jpg/jcr:content/renditions/cq5dam.web.1920.jpeg
+  [9.1] spectre/spectre/side_profile
+        → https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/1-0-home/page-properties/bb-spectre-side-nav/T-SIDE-NAV-BBS.jpg/jcr:content/renditions/original
+
+Models with unresolved angles:
+  phantom: 1 entries  (e.g. phantom-extended/interior_rear_seats)
+  ghost: 7 entries  (e.g. ghost/front_three_quarter, ghost/rear_three_quarter, ghost/interior_dashboard)
+  ghost-black-badge: 4 entries  (e.g. black-badge-ghost/front_three_quarter, black-badge-ghost/rear_three_quarter, black-badge-ghost/side_profile)
+  spectre: 1 entries  (e.g. spectre/rear_three_quarter)
+  spectre-black-badge: 4 entries  (e.g. black-badge-spectre/front_three_quarter, black-badge-spectre/rear_three_quarter, black-badge-spectre/side_profile)
+  cullinan: 2 entries  (e.g. cullinan/front_three_quarter, cullinan/rear_three_quarter)
+  cullinan-black-badge: 4 entries  (e.g. black-badge-cullinan/front_three_quarter, black-badge-cullinan/rear_three_quarter, black-badge-cullinan/side_profile)

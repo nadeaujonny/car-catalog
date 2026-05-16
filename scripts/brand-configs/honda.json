@@ -1,0 +1,28 @@
+{
+  "brand_slug": "honda",
+  "model_pages": {
+    "civic":           "https://automobiles.honda.com/civic-sedan",
+    "civic-hatchback": "https://automobiles.honda.com/civic-hatchback",
+    "civic-si":        "https://automobiles.honda.com/civic-si-sedan",
+    "civic-type-r":    "https://automobiles.honda.com/civic-type-r",
+    "accord":          "https://automobiles.honda.com/accord-sedan",
+    "prelude":         "https://automobiles.honda.com/prelude",
+    "hr-v":            "https://automobiles.honda.com/2026/hr-v",
+    "cr-v":            "https://automobiles.honda.com/cr-v",
+    "passport":        "https://automobiles.honda.com/passport",
+    "pilot":           "https://automobiles.honda.com/pilot",
+    "prologue":        "https://automobiles.honda.com/prologue",
+    "ridgeline":       "https://automobiles.honda.com/ridgeline",
+    "odyssey":         "https://automobiles.honda.com/odyssey"
+  },
+  "slug_variants": {
+    "civic":         ["civic-sedan", "civic_sedan", "civic"],
+    "civic-hatchback": ["civic-hatchback", "civic_hatchback"],
+    "civic-si":      ["civic-si-sedan", "civic-si", "civic_si"],
+    "civic-type-r":  ["civic-type-r", "civic-typer", "civic_type_r", "type-r", "type_r"],
+    "accord":        ["accord-sedan", "accord_sedan", "accord"],
+    "hr-v":          ["hr-v", "hrv"],
+    "cr-v":          ["cr-v", "crv"]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|VehicleCards|Vehicle-Selector|non-?VLP|Future-Vehicles|nav[/_-]?jelly|All-Vehicles\\/|favicon|sprite|icon|logo|seal|emblem|swatch|color-?swatch|360\\/.*0001\\.png|small\\/honda)"
+}

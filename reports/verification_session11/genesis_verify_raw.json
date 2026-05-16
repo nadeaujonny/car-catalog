@@ -1,0 +1,18 @@
+{
+  "brand": "Genesis",
+  "brand_slug": "genesis",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 8,
+  "trim_count": 39,
+  "total_images": 94,
+  "needs_scraping": 17,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 0,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [],
+  "fyis": []
+}

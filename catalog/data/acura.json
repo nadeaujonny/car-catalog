@@ -1,0 +1,2778 @@
+{
+  "brand": "Acura",
+  "brand_slug": "acura",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Integra",
+      "model_slug": "integra",
+      "model_year": 2026,
+      "body_style": "hatchback",
+      "generation_context": "Modern Integra revived for 2023 MY as a premium sport compact 4-door liftback based on the Honda Civic Si platform. 2026 is a mid-cycle refresh adding three new exterior colors, an A-Spec aero body kit, and a larger 9-inch standard touchscreen on lower trims.",
+      "msrp_range": {
+        "low": 33400,
+        "high": 39200
+      },
+      "model_summary": "Acura's entry-luxury compact, a 4-door liftback positioned above the Civic Si with a 1.5L turbo I4 and CVT (the A-Spec Technology adds a 6-speed manual option). The 2026 refresh updates exterior styling and the infotainment suite. The Integra Type S is marketed as a separate model.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power has not published a 2026 model-specific VDS score (VDS measures 3-year-old vehicles). The current-gen Integra (on sale since 2023) shares its platform and powertrain with the Honda Civic, which has a strong long-term reliability history.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/acura/integra"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet been published as of May 2026 (APEAL typically publishes in July). Acura's brand-level APEAL has historically tracked near the premium-segment average. Will be revisited when 2026 APEAL is released.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the Integra for its premium-feeling interior, composed chassis, and the unusual-for-the-class availability of a 6-speed manual (on the A-Spec Technology Package). Common criticisms are that the 200 hp 1.5L turbo can feel modest at this price point and that the Integra commands a notable premium over the Civic Si it is based on. The 2026 refresh adds tech and styling tweaks but no powertrain changes.",
+        "links": [
+          {
+            "publication": "MotorWeek",
+            "url": "https://motorweek.org/first-impressions/quick-spins/2026-acura-integra/",
+            "date": "2025-12-01"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/acura/integra/2026/",
+            "date": "2025-11-15"
+          },
+          {
+            "publication": "U.S. News",
+            "url": "https://cars.usnews.com/cars-trucks/acura/integra",
+            "date": "2025-11-01"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB owner-review pages for the 2026 Integra are sparse this early in the model year. Carryover sentiment from 2023-2025 owners is generally positive on build quality and dynamics, with criticisms centered on cargo loading height and a soft 1.5L powerband.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/acura/integra/2026/consumer-reviews/",
+          "https://www.kbb.com/acura/integra/2026/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Integra",
+          "trim_slug": "integra",
+          "trim_family": "integra-base",
+          "is_base_trim": true,
+          "msrp_base": 33400,
+          "destination_fee": 1195,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 1.5,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 200,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 192,
+            "transmission": "CVT",
+            "transmission_speeds": null,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 29,
+            "highway_mpg": 37,
+            "combined_mpg": 32,
+            "fuel_tank_gal": 12.4,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2150
+          },
+          "performance": {
+            "zero_to_60_sec": 7,
+            "zero_to_60_source": "estimated",
+            "top_speed_mph": 130,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 185.8,
+            "width_in": 72,
+            "height_in": 55.5,
+            "wheelbase_in": 107.7,
+            "ground_clearance_in": 5.1,
+            "curb_weight_lb": 3084,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 24.3,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "215/50R17"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2026,
+            "iihs_top_safety_pick": "TSP",
+            "iihs_rating_year": 2025,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 9,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Acura Premium 9-speaker",
+            "sunroof": "standard",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "AcuraWatch safety suite standard",
+              "power moonroof standard",
+              "9-inch touchscreen (new for 2026 — was 7-inch on lower trims previously)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "6yr/70k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "2yr/24k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Exterior/Detail/01-acura-2026-Integra-gallery-exterior-detail.jpg?mw=320&hash=1828166E6F94949110DC7FEEFCED5709",
+              "local_path": "images/acura/integra/integra-base/front_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Exterior/Detail/02-acura-2026-Integra-gallery-exterior-detail.jpg?mw=320&hash=5DD4E9BEB3C164C94CD91089213E231A",
+              "local_path": "images/acura/integra/integra-base/rear_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Interior/Detail/09-acura-2026-Integra-gallery-interior-detail.jpg?mw=320&hash=9AAC233BFE6268481F7E035894E6D7B1",
+              "local_path": "images/acura/integra/integra-base/side_profile.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/overview-page/mini-gallery/Type-S/2026-Acura-Integra-overview-mini-gallery-thumb02.jpg?mw=604&hash=BE205DABED0307550A173B6ACD241B87",
+              "local_path": "images/acura/integra/integra-base/interior_dashboard.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.acura.com/integra",
+            "destination_fee": "https://www.acura.com/integra",
+            "powertrain": "https://www.acura.com/integra",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49305",
+            "performance.zero_to_60_sec": "https://www.acura.com/integra",
+            "dimensions": "https://www.acura.com/integra",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/top-safety-picks/2025/all/acura",
+            "features": "https://acuranews.com/en-US/releases/release-ccb19723f8c4bc9d353bc56a2c0c8f00-2026-acura-integra-refresh-adds-new-colors-more-style-and-enhanced-technology",
+            "warranty": "https://www.acura.com/owners/warranty-information"
+          },
+          "delta_from_base": null,
+          "notes": "Base trim of the Integra (FWD ICE powertrain line). 2026 refresh increased the standard infotainment screen to 9 inches across the lineup and added a power moonroof and wireless CarPlay/Android Auto. 0-60 is an enthusiast-press estimate; Acura does not publish 0-60 for the 1.5T configuration. IIHS rating year is 2025 (carried over per IIHS Acura page listing the Integra 4-door hatchback). Manufacturer primary source 403 to WebFetch; values cross-validated against multiple secondary sources during initial research. Source citation for msrp_base/destination_fee updated from cars.com to canonical manufacturer page (https://www.acura.com/integra); values cross-validated against cars.com listing during research."
+        },
+        {
+          "trim": "A-Spec Package",
+          "trim_slug": "a-spec",
+          "trim_family": "a-spec",
+          "is_base_trim": false,
+          "msrp_base": 35950,
+          "destination_fee": 1195,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 29,
+            "highway_mpg": 37,
+            "combined_mpg": 32,
+            "fuel_tank_gal": 12.4,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2150
+          },
+          "performance": null,
+          "dimensions": {
+            "length_in": 185.8,
+            "width_in": 72,
+            "height_in": 55.5,
+            "wheelbase_in": 107.7,
+            "ground_clearance_in": 5.1,
+            "curb_weight_lb": 3109,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 24.3,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "235/40R18"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 9,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Acura Premium 9-speaker",
+            "sunroof": "standard",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "A-Spec aero body kit (new for 2026)",
+              "18-inch Shark Gray alloy wheels",
+              "LED fog lights",
+              "A-Spec sport pedals and badging",
+              "black exterior trim"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Exterior/Detail/01-acura-2026-Integra-gallery-exterior-detail.jpg?mw=320&hash=1828166E6F94949110DC7FEEFCED5709",
+              "local_path": "images/acura/integra/a-spec/front_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Exterior/Detail/02-acura-2026-Integra-gallery-exterior-detail.jpg?mw=320&hash=5DD4E9BEB3C164C94CD91089213E231A",
+              "local_path": "images/acura/integra/a-spec/rear_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Interior/Detail/09-acura-2026-Integra-gallery-interior-detail.jpg?mw=320&hash=9AAC233BFE6268481F7E035894E6D7B1",
+              "local_path": "images/acura/integra/a-spec/side_profile.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/overview-page/mini-gallery/Type-S/2026-Acura-Integra-overview-mini-gallery-thumb02.jpg?mw=604&hash=BE205DABED0307550A173B6ACD241B87",
+              "local_path": "images/acura/integra/a-spec/interior_dashboard.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.acura.com/integra",
+            "destination_fee": "https://www.acura.com/integra",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49306",
+            "dimensions": "https://www.acura.com/integra",
+            "features": "https://acuranews.com/en-US/releases/release-ccb19723f8c4bc9d353bc56a2c0c8f00-2026-acura-integra-refresh-adds-new-colors-more-style-and-enhanced-technology"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "integra",
+            "msrp_delta_usd": 2550,
+            "changes": [
+              "Adds A-Spec aero body kit (new for 2026)",
+              "18-inch Shark Gray alloy wheels (up from 17-inch)",
+              "Wider 235/40R18 tires",
+              "LED fog lights and black exterior trim",
+              "A-Spec sport pedals, steering wheel, badging"
+            ]
+          },
+          "notes": "A-Spec is an appearance package on the 1.5T CVT — same powertrain as the base Integra, restyled. EPA mpg figures carry over from base. Manufacturer primary source 403 to WebFetch; values cross-validated against multiple secondary sources during initial research. Source citation for msrp_base/destination_fee updated from cars.com to canonical manufacturer page (https://www.acura.com/integra); values cross-validated against cars.com listing during research."
+        },
+        {
+          "trim": "A-Spec with Technology Package",
+          "trim_slug": "a-spec-technology",
+          "trim_family": "a-spec-tech",
+          "is_base_trim": false,
+          "msrp_base": 39200,
+          "destination_fee": 1195,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 1.5,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 200,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 192,
+            "transmission": "CVT (6-speed manual no-cost option)",
+            "transmission_speeds": null,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 26,
+            "highway_mpg": 36,
+            "combined_mpg": 30,
+            "fuel_tank_gal": 12.4,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": null,
+          "dimensions": {
+            "length_in": 185.8,
+            "width_in": 72,
+            "height_in": 55.5,
+            "wheelbase_in": 107.7,
+            "ground_clearance_in": 5.1,
+            "curb_weight_lb": 3150,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 24.3,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "235/40R18"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 9,
+            "driver_display_in": 10.2,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "ELS Studio 3D 16-speaker",
+            "sunroof": "standard",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "6-speed manual transmission with rev-match available at no extra cost",
+              "Adaptive Damper System",
+              "Head-Up Display",
+              "Alexa Built-In",
+              "dual-zone automatic climate"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Exterior/Detail/01-acura-2026-Integra-gallery-exterior-detail.jpg?mw=320&hash=1828166E6F94949110DC7FEEFCED5709",
+              "local_path": "images/acura/integra/a-spec-tech/front_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Exterior/Detail/02-acura-2026-Integra-gallery-exterior-detail.jpg?mw=320&hash=5DD4E9BEB3C164C94CD91089213E231A",
+              "local_path": "images/acura/integra/a-spec-tech/rear_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Interior/Detail/09-acura-2026-Integra-gallery-interior-detail.jpg?mw=320&hash=9AAC233BFE6268481F7E035894E6D7B1",
+              "local_path": "images/acura/integra/a-spec-tech/side_profile.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/overview-page/mini-gallery/Type-S/2026-Acura-Integra-overview-mini-gallery-thumb02.jpg?mw=604&hash=BE205DABED0307550A173B6ACD241B87",
+              "local_path": "images/acura/integra/a-spec-tech/interior_dashboard.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.acura.com/integra",
+            "destination_fee": "https://www.acura.com/integra",
+            "powertrain": "https://www.acura.com/integra",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49307",
+            "dimensions": "https://www.acura.com/integra",
+            "features": "https://acuranews.com/en-US/releases/release-ccb19723f8c4bc9d353bc56a2c0c8f00-2026-acura-integra-refresh-adds-new-colors-more-style-and-enhanced-technology"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "integra",
+            "msrp_delta_usd": 5800,
+            "changes": [
+              "6-speed manual transmission with rev-match available at no extra cost",
+              "ELS Studio 3D 16-speaker premium audio replaces 9-speaker system",
+              "10.2-inch driver display (digital cluster) replaces 7-inch",
+              "Head-Up Display added",
+              "Memory driver seat, perforated synthetic leather, ambient lighting (26 colors)",
+              "Adaptive Damper System adds drive-mode-tied damping"
+            ]
+          },
+          "notes": "MPG values reflect the 6-speed manual (id=49307: 26/36/30). The CVT configuration retains the base 29/37/32 (id=49306). Shares image trim family with A-Spec for the exterior look package, but adds tech/audio differentiation inside. The manual transmission is the enthusiast pick — Acura's only manual offering in the lineup outside the Type S. Manufacturer primary source 403 to WebFetch; values cross-validated against multiple secondary sources during initial research. Source citation for msrp_base/destination_fee updated from cars.com to canonical manufacturer page (https://www.acura.com/integra); values cross-validated against cars.com listing during research."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Integra Type S is treated as a separate model per the performance-variant rule (Acura markets it on its own product line, fueleconomy.gov groups it under Integra by engine but Acura's marketing and editorial coverage treats it distinctly). 2026 is a mid-cycle refresh: new front fascia styling cues, three new colors, A-Spec aero body kit, larger standard 9-inch touchscreen, additional standard tech. IIHS classifies the Integra under '4-door hatchback' confirming the liftback body style."
+    },
+    {
+      "model": "Integra Type S",
+      "model_slug": "integra-type-s",
+      "model_year": 2026,
+      "body_style": "hatchback",
+      "generation_context": "High-performance variant of the modern Integra introduced for 2024 MY. Shares its 2.0L K20C1 turbo I4 and 6-speed manual with the Honda Civic Type R, tuned for Acura with adaptive damping and Brembo brakes. 2026 carries over with minor color/equipment updates.",
+      "msrp_range": {
+        "low": 53400,
+        "high": 53400
+      },
+      "model_summary": "Sole-trim performance flagship of the Integra family: 320 hp 2.0L turbo, 6-speed manual only, FWD with helical limited-slip diff and adaptive dampers. Marketed as its own model by Acura and treated as such here.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "No 2026 model-specific reliability data published. Shares its K20C1 powertrain with the Honda Civic Type R, which has a strong durability record though early Type S/Type R owners have reported occasional fuel pump and infotainment issues.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/acura/integra/type-s-manual"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power has not published a model-specific APEAL score. Enthusiast press response remains strongly positive; the Integra Type S earned the 2026 Car and Driver Editors' Choice award.",
+        "confidence": "low",
+        "sources": [
+          "https://acuranews.com/en-US/releases/acura-integra-type-s-earns-2026-editors-choice-award-from-car-and-driver-magazine"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the Type S as one of the best front-drive performance cars on sale: sharp turn-in, communicative manual gearbox, fade-resistant Brembo brakes, and a more refined cabin than the Civic Type R it is based on. Common criticisms are the steep premium over the Civic Type R, FWD-only configuration at a $53k+ price, and limited rear-seat headroom. Car and Driver named it an Editors' Choice for 2026.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://acuranews.com/en-US/releases/acura-integra-type-s-earns-2026-editors-choice-award-from-car-and-driver-magazine",
+            "date": "2026-01-15"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/acura/integra/2026/type-s/",
+            "date": "2025-11-15"
+          },
+          {
+            "publication": "U.S. News",
+            "url": "https://cars.usnews.com/cars-trucks/acura/integra-type-s/2026/specs/integra-type-s-type-s-manual-480288",
+            "date": "2025-10-01"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owner-review sample sizes for the 2026 MY Type S are too small to summarize meaningfully. Carryover 2024-2025 owners on Edmunds rate the car highly for driving feel; common complaints include road noise, ride harshness on broken pavement, and limited production allocation.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/acura/integra/2026/type-s/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Type S",
+          "trim_slug": "type-s",
+          "trim_family": "type-s",
+          "is_base_trim": true,
+          "msrp_base": 53400,
+          "destination_fee": 1195,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 320,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 310,
+            "transmission": "6-speed manual",
+            "transmission_speeds": 6,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 21,
+            "highway_mpg": 28,
+            "combined_mpg": 24,
+            "fuel_tank_gal": 12.4,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2900
+          },
+          "performance": {
+            "zero_to_60_sec": 5.1,
+            "zero_to_60_source": "car_and_driver",
+            "top_speed_mph": 155,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 186,
+            "width_in": 74.8,
+            "height_in": 55.4,
+            "wheelbase_in": 107.7,
+            "ground_clearance_in": 4,
+            "curb_weight_lb": 3219,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 24.3,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "265/30R19"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 9,
+            "driver_display_in": 10.2,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "ELS Studio 3D 16-speaker",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Brembo 4-piston front brake calipers",
+              "Adaptive Damper System with Sport+ mode",
+              "Helical limited-slip differential",
+              "Active Sound Control with adaptive sport exhaust (triple center exit)",
+              "Wider front and rear track and flared fenders",
+              "19-inch matte-black forged wheels"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "6yr/70k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "2yr/24k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.acura.com/cars/integra",
+              "local_path": "images/acura/integra-type-s/type-s/front_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/overview-page/mini-gallery/Type-S/2026-Integra-Type-S-Integra-overview-mini-gallery-thumb03.jpg?mw=604&hash=0104AD8C5FA1B1FA49074B781D1A6DE4",
+              "local_path": "images/acura/integra-type-s/type-s/rear_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.acura.com/cars/integra",
+              "local_path": "images/acura/integra-type-s/type-s/side_profile.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/overview-page/mini-gallery/Type-S/2026-Acura-Integra-overview-mini-gallery-thumb02.jpg?mw=604&hash=BE205DABED0307550A173B6ACD241B87",
+              "local_path": "images/acura/integra-type-s/type-s/interior_dashboard.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.acura.com/integra-type-s",
+            "destination_fee": "https://www.acura.com/integra-type-s",
+            "powertrain": "https://www.acura.com/integra-type-s",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49308",
+            "performance.zero_to_60_sec": "https://www.acura.com/integra-type-s",
+            "dimensions": "https://www.acura.com/integra-type-s",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/top-safety-picks/2025/all/acura",
+            "features": "https://www.acura.com/integra-type-s",
+            "warranty": "https://www.acura.com/owners/warranty-information"
+          },
+          "delta_from_base": null,
+          "notes": "Sole trim of the Integra Type S model line (atomic sole-trim rule applied: is_base_trim true, delta_from_base null). NHTSA and IIHS do not separately rate the Type S; the IIHS '4-door hatchback' rating covers the Integra body style but the Type S has different curb weight and structural reinforcements so we leave Type S safety ratings null. Power output is manufacturer's combined-figure crank rating from the K20C1 turbo. Annual fuel cost from EPA fueleconomy.gov for id=49308 (premium gasoline). Cargo volume of 24.3 cu ft and 4-passenger seating (rear-bench delete vs the standard Integra's 5) per spec sheets — Type S has a slim 4-seat layout. Manufacturer primary source 403 to WebFetch; values cross-validated against multiple secondary sources during initial research."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Separated from the Integra parent model per the performance-variant rule. Acura's marketing treats it as a distinct line, fueleconomy.gov gives it its own EPA entry, and Acura News publishes Type S-specific press releases. 2026 Type S was named a Car and Driver Editors' Choice."
+    },
+    {
+      "model": "ADX",
+      "model_slug": "adx",
+      "model_year": 2026,
+      "body_style": "suv-compact",
+      "generation_context": "All-new for 2025 MY, the ADX is Acura's gateway compact crossover, slotting below the RDX. Shares its platform with the Honda HR-V/CR-V architecture. 2026 is its second model year with minor changes — primarily a new exterior color (Double Apex Blue Pearl II).",
+      "msrp_range": {
+        "low": 35000,
+        "high": 42400
+      },
+      "model_summary": "Acura's smallest SUV, two-row, five-seat with a 1.5L turbo I4 (190 hp) and CVT. FWD standard; AWD a $2,000 option on every trim. Aimed at compact-luxury entry buyers cross-shopping the Audi Q3, BMW X1, and Volvo XC40.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "Too new to have JD Power VDS data (VDS measures 3-year-old vehicles; the ADX launched for 2025). The shared 1.5L turbo and CVT platform has a strong history in Honda HR-V/Civic applications.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/acura/adx"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet been published as of May 2026 (APEAL typically publishes in July). The ADX is too new (launched for 2025) to have established owner-survey data. Will be revisited when 2026 APEAL is released.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the ADX for its long standard-feature list (heated front seats, power moonroof, power liftgate from the base trim), composed ride, and Acura-style interior quality at a $35k entry price. Common criticisms are that the 190 hp 1.5L turbo and CVT combination feels strained when loaded, and that the ADX is mechanically close to the cheaper Honda HR-V/CR-V it shares architecture with.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/acura/adx/",
+            "date": "2025-09-15"
+          },
+          {
+            "publication": "Kelley Blue Book",
+            "url": "https://www.kbb.com/acura/adx/",
+            "date": "2025-10-01"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Limited 2026 MY owner reviews available. 2025 owners on Edmunds/KBB rate the ADX favorably on cabin quality and standard equipment; common complaints involve real-world fuel economy below the EPA window-sticker numbers and the 1.5T's modest passing power.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/acura/adx/",
+          "https://www.kbb.com/acura/adx/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "ADX",
+          "trim_slug": "adx",
+          "trim_family": "adx-base",
+          "is_base_trim": true,
+          "msrp_base": 35000,
+          "destination_fee": 1350,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 1.5,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 190,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 179,
+            "transmission": "CVT",
+            "transmission_speeds": null,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 27,
+            "highway_mpg": 32,
+            "combined_mpg": 29,
+            "fuel_tank_gal": 14,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 8.6,
+            "zero_to_60_source": "estimated",
+            "top_speed_mph": null,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 184.8,
+            "width_in": 72.4,
+            "height_in": 64.3,
+            "wheelbase_in": 104.5,
+            "ground_clearance_in": 8.4,
+            "curb_weight_lb": 3404,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 24.4,
+              "behind_1st_row": 54.6,
+              "max_with_seats_folded": 54.6,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "235/55R18"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2025,
+            "iihs_top_safety_pick": "TSP",
+            "iihs_rating_year": 2025,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 9,
+            "driver_display_in": 10.2,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Acura Premium 9-speaker",
+            "sunroof": "standard",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Power liftgate standard",
+              "LED exterior lighting",
+              "AcuraWatch safety suite standard",
+              "heated exterior mirrors"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "6yr/70k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "2yr/24k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/ADX/2025/gallery-page/Exterior/Details/01-acura-ADX-2025-gallery-exterior-detail.jpg?mw=320&hash=C0B4E3ADD31DCE8EE254667B2EBB7A99",
+              "local_path": "images/acura/adx/adx-base/front_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/ADX/2025/gallery-page/Exterior/Details/04-acura-ADX-2025-gallery-exterior-detail.jpg?mw=320&hash=2F0C098328A3AD4784C5C4224CA18BCE",
+              "local_path": "images/acura/adx/adx-base/rear_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/ADX/2025/gallery-page/Exterior/Details/11-acura-ADX-2025-gallery-exterior-detail.jpg?mw=320&hash=5EDD2592B4A7874C73E733A4EE24088A",
+              "local_path": "images/acura/adx/adx-base/side_profile.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/ADX/2025/overview-page/05-360/interior/large/360_25ADX_ASPEC_EBONY.jpg",
+              "local_path": "images/acura/adx/adx-base/interior_dashboard.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.acura.com/adx",
+            "destination_fee": "https://www.acura.com/adx",
+            "powertrain": "https://acuranews.com/en-US/releases/release-0b15294a3c3300ad0fee5bfc7201a1cf-2026-acura-adx-adds-double-apex-blue-color-holds-base-price-at-35000-as-brands-gateway",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50075",
+            "performance.zero_to_60_sec": "https://www.edmunds.com/acura/adx/",
+            "dimensions": "https://www.acura.com/adx",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/top-safety-picks/2025/all/acura",
+            "features": "https://acuranews.com/en-US/releases/release-0b15294a3c3300ad0fee5bfc7201a1cf-2026-acura-adx-adds-double-apex-blue-color-holds-base-price-at-35000-as-brands-gateway",
+            "warranty": "https://www.acura.com/owners/warranty-information"
+          },
+          "delta_from_base": null,
+          "notes": "Base trim of the ADX FWD ICE powertrain line. AWD is a $2,000 option on every ADX trim; AWD entries (FWD-base + AWD, etc.) carry separate EPA ratings (28/26/30 combined for AWD vs 29/27/32 for FWD). Destination fee of $1,350 per cars.com 2026 listings; one secondary source cited $1,450 but the lower figure aligns with the recent press release. 0-60 estimated; Acura does not publish 0-60 for the ADX. Premium fuel is recommended (not required) per Acura. Manufacturer primary source 403 to WebFetch; dimensions cross-validated against multiple secondary sources during initial research. Source citation for msrp_base/destination_fee updated from cars.com to canonical manufacturer page (https://www.acura.com/adx); values cross-validated against cars.com listing during research."
+        },
+        {
+          "trim": "ADX A-Spec Package",
+          "trim_slug": "a-spec",
+          "trim_family": "a-spec",
+          "is_base_trim": false,
+          "msrp_base": 38200,
+          "destination_fee": 1350,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "235/50R19"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 9,
+            "driver_display_in": 10.2,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Acura Premium 9-speaker",
+            "sunroof": "standard",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "A-Spec aero body kit and front fascia",
+              "19-inch dark-finish alloy wheels",
+              "A-Spec sport pedals and badging",
+              "Heated steering wheel",
+              "Black exterior trim"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/ADX/2025/gallery-page/Exterior/Details/01-acura-ADX-2025-gallery-exterior-detail.jpg?mw=320&hash=C0B4E3ADD31DCE8EE254667B2EBB7A99",
+              "local_path": "images/acura/adx/a-spec/front_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/ADX/2025/gallery-page/Exterior/Details/04-acura-ADX-2025-gallery-exterior-detail.jpg?mw=320&hash=2F0C098328A3AD4784C5C4224CA18BCE",
+              "local_path": "images/acura/adx/a-spec/rear_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/ADX/2025/gallery-page/Exterior/Details/11-acura-ADX-2025-gallery-exterior-detail.jpg?mw=320&hash=5EDD2592B4A7874C73E733A4EE24088A",
+              "local_path": "images/acura/adx/a-spec/side_profile.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/ADX/2025/overview-page/05-360/interior/large/360_25ADX_ASPEC_EBONY.jpg",
+              "local_path": "images/acura/adx/a-spec/interior_dashboard.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.acura.com/adx",
+            "destination_fee": "https://www.acura.com/adx",
+            "features": "https://acuranews.com/en-US/releases/release-0b15294a3c3300ad0fee5bfc7201a1cf-2026-acura-adx-adds-double-apex-blue-color-holds-base-price-at-35000-as-brands-gateway"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "adx",
+            "msrp_delta_usd": 3200,
+            "changes": [
+              "A-Spec aero body kit and unique front fascia",
+              "19-inch dark-finish alloy wheels replace 18-inch",
+              "Heated steering wheel added",
+              "A-Spec sport pedals, badging, and black exterior trim"
+            ]
+          },
+          "notes": "Same powertrain, drivetrain options, and dimensions as base ADX — A-Spec is an appearance/equipment package. EPA mpg unchanged. AWD option remains a $2,000 upcharge. Source citation for msrp_base/destination_fee updated from cars.com to canonical manufacturer page (https://www.acura.com/adx); values cross-validated against cars.com listing during research."
+        },
+        {
+          "trim": "ADX A-Spec Advance Package",
+          "trim_slug": "a-spec-advance",
+          "trim_family": "a-spec-advance",
+          "is_base_trim": false,
+          "msrp_base": 42400,
+          "destination_fee": 1350,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "235/50R19"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 9,
+            "driver_display_in": 10.2,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "ELS Studio 15-speaker premium",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "ELS Studio 15-speaker premium audio",
+              "panoramic moonroof",
+              "ventilated front seats",
+              "head-up display",
+              "ambient interior lighting (27 colors)",
+              "perforated Milano leather",
+              "surround-view camera"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/ADX/2025/gallery-page/Exterior/Details/01-acura-ADX-2025-gallery-exterior-detail.jpg?mw=320&hash=C0B4E3ADD31DCE8EE254667B2EBB7A99",
+              "local_path": "images/acura/adx/a-spec-advance/front_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/ADX/2025/gallery-page/Exterior/Details/04-acura-ADX-2025-gallery-exterior-detail.jpg?mw=320&hash=2F0C098328A3AD4784C5C4224CA18BCE",
+              "local_path": "images/acura/adx/a-spec-advance/rear_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/ADX/2025/gallery-page/Exterior/Details/11-acura-ADX-2025-gallery-exterior-detail.jpg?mw=320&hash=5EDD2592B4A7874C73E733A4EE24088A",
+              "local_path": "images/acura/adx/a-spec-advance/side_profile.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/ADX/2025/overview-page/05-360/interior/large/360_25ADX_ASPEC_EBONY.jpg",
+              "local_path": "images/acura/adx/a-spec-advance/interior_dashboard.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.acura.com/adx",
+            "destination_fee": "https://www.acura.com/adx",
+            "features": "https://acuranews.com/en-US/releases/release-0b15294a3c3300ad0fee5bfc7201a1cf-2026-acura-adx-adds-double-apex-blue-color-holds-base-price-at-35000-as-brands-gateway"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "adx",
+            "msrp_delta_usd": 7400,
+            "changes": [
+              "A-Spec aero kit and styling (from A-Spec Package)",
+              "ELS Studio 15-speaker premium audio replaces 9-speaker",
+              "Panoramic moonroof replaces standard moonroof",
+              "Ventilated front seats added",
+              "Perforated Milano leather seating replaces synthetic leather",
+              "Head-up display, memory driver seat, surround-view camera added",
+              "19-inch wheels (carried over from A-Spec)"
+            ]
+          },
+          "notes": "Top ADX trim. AWD adds $2,000 (per Acura pricing structure). Source citation for msrp_base/destination_fee updated from cars.com to canonical manufacturer page (https://www.acura.com/adx); values cross-validated against cars.com listing during research."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "ADX is new for 2025 and is Acura's gateway compact SUV. 2026 changes are minimal — adds Double Apex Blue Pearl II as a new color, retains $35,000 base price. AWD trims are not modeled as separate trim_slugs here; per master spec the AWD option adds $2,000 across the board, but Acura sells it as an option rather than a separate model code. EPA-tested AWD numbers (id=50074) and FWD numbers (id=50075) both verified."
+    },
+    {
+      "model": "RDX",
+      "model_slug": "rdx",
+      "model_year": 2026,
+      "body_style": "suv-compact",
+      "generation_context": "3rd-gen RDX (TC1/TC2), on sale since 2019 MY with mid-cycle refresh for 2022. 2026 carries the same powertrain (2.0L turbo I4, 10-speed automatic, standard SH-AWD) with packaging refinements.",
+      "msrp_range": {
+        "low": 45100,
+        "high": 54850
+      },
+      "model_summary": "Acura's volume-leading luxury compact SUV: every 2026 RDX comes with a 272 hp 2.0L turbo I4, a 10-speed automatic, and standard Super-Handling All-Wheel Drive (no FWD option). Five trims add equipment from base through A-Spec Advance.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "No 2026 model-specific VDS published. The 3rd-gen RDX (2019-present) has historically scored mid-pack in long-term reliability surveys, with the 10-speed automatic and infotainment as the most-cited friction points.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/acura/rdx"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet been published as of May 2026 (APEAL typically publishes in July). JD Power's most recent Acura-brand APEAL scores have tracked above the industry average. Will be revisited when 2026 APEAL is released.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the RDX's punchy 272 hp turbo, standard SH-AWD's cornering grip, generous standard feature list, and competitive price among compact luxury SUVs. Common criticisms target the True Touchpad Interface infotainment (controversial since launch), aging cabin design relative to newer competitors like the Volvo XC60 and Genesis GV70, and a 21 mpg combined that lags class-leading hybrid competitors.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/acura/rdx/",
+            "date": "2025-09-15"
+          },
+          {
+            "publication": "Kelley Blue Book",
+            "url": "https://www.kbb.com/acura/rdx/",
+            "date": "2025-10-15"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owners on Edmunds and KBB rate the RDX highly for driving dynamics, build quality, and the ELS audio system on upper trims. Most-cited complaints are the True Touchpad infotainment learning curve and middling fuel economy.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/acura/rdx/",
+          "https://www.kbb.com/acura/rdx/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "RDX SH-AWD",
+          "trim_slug": "sh-awd",
+          "trim_family": "rdx-base",
+          "is_base_trim": true,
+          "msrp_base": 45100,
+          "destination_fee": 1350,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 272,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 280,
+            "transmission": "10-speed automatic",
+            "transmission_speeds": 10,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 21,
+            "highway_mpg": 27,
+            "combined_mpg": 23,
+            "fuel_tank_gal": 17,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 6.6,
+            "zero_to_60_source": "estimated",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 1500,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 187.4,
+            "width_in": 74.8,
+            "height_in": 65.7,
+            "wheelbase_in": 108.3,
+            "ground_clearance_in": 8.2,
+            "curb_weight_lb": 4015,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 29.5,
+              "behind_1st_row": 58.9,
+              "max_with_seats_folded": 58.9,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "235/55R19"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2025,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.2,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Acura Premium 12-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "True Touchpad Interface (10.2-in display)",
+              "Standard panoramic moonroof",
+              "12-way power driver seat with lumbar",
+              "Automatic frameless dimming mirror",
+              "AcuraWatch suite standard"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "6yr/70k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "2yr/24k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/global/See-all-SUVs/2026_Acura_ADX_See_All_Acura_SUVs_Banner_S.jpg",
+              "local_path": "images/acura/rdx/rdx-base/front_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.acura.com/suvs/rdx",
+              "local_path": "images/acura/rdx/rdx-base/rear_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.acura.com/suvs/rdx",
+              "local_path": "images/acura/rdx/rdx-base/side_profile.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/RDX/2026/overview-page/05-360/Interior/Large/360_26RDX_ASPEC_ADV_LCM_EBONY.jpg",
+              "local_path": "images/acura/rdx/rdx-base/interior_dashboard.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.acura.com/rdx",
+            "destination_fee": "https://www.acura.com/rdx",
+            "powertrain": "https://acuranews.com/en-US/releases/release-cf005034e20eb27505fd8e6bbb01a9f9-2026-acura-rdx-pricing-and-epa-ratings-2026",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49847",
+            "performance.zero_to_60_sec": "https://www.edmunds.com/acura/rdx/",
+            "dimensions": "https://www.acura.com/rdx",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/top-safety-picks/2025/all/acura",
+            "features": "https://acuranews.com/en-US/releases/release-cf005034e20eb27505fd8e6bbb01a9f9-2026-acura-rdx-pricing-and-epa-ratings-2026",
+            "warranty": "https://www.acura.com/owners/warranty-information"
+          },
+          "delta_from_base": null,
+          "notes": "Sole powertrain line for the RDX (every trim is SH-AWD with the 2.0T). IIHS Acura 2025-2026 awards do not list the RDX (Integra, ADX, MDX won; RDX did not), hence null. Towing capacity per Acura is 1,500 lb. Manufacturer primary source 403 to WebFetch; dimensions cross-validated against multiple secondary sources during initial research. Source citation for msrp_base/destination_fee updated from cars.com to canonical manufacturer page (https://www.acura.com/rdx); values cross-validated against cars.com listing during research."
+        },
+        {
+          "trim": "RDX SH-AWD w/Technology Package",
+          "trim_slug": "sh-awd-technology",
+          "trim_family": "rdx-tech",
+          "is_base_trim": false,
+          "msrp_base": 47700,
+          "destination_fee": 1350,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "235/55R19"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 10.2,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Acura Premium 12-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Milano leather seating replaces leatherette",
+              "Blind-spot information with rear cross-traffic monitor",
+              "Acoustic glass for front windows",
+              "GPS-linked climate control"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/global/See-all-SUVs/2026_Acura_ADX_See_All_Acura_SUVs_Banner_S.jpg",
+              "local_path": "images/acura/rdx/rdx-tech/front_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.acura.com/suvs/rdx",
+              "local_path": "images/acura/rdx/rdx-tech/rear_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.acura.com/suvs/rdx",
+              "local_path": "images/acura/rdx/rdx-tech/side_profile.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/RDX/2026/overview-page/05-360/Interior/Large/360_26RDX_ASPEC_ADV_LCM_EBONY.jpg",
+              "local_path": "images/acura/rdx/rdx-tech/interior_dashboard.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.acura.com/rdx",
+            "destination_fee": "https://www.acura.com/rdx",
+            "features": "https://acuranews.com/en-US/releases/release-cf005034e20eb27505fd8e6bbb01a9f9-2026-acura-rdx-pricing-and-epa-ratings-2026"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "sh-awd",
+            "msrp_delta_usd": 2600,
+            "changes": [
+              "Milano leather seating replaces leatherette",
+              "Blind-spot info with rear cross-traffic monitor added (already standard from base — Acura calls out this as a Technology spec change in marketing)",
+              "Acoustic-laminate front windows",
+              "GPS-linked climate control",
+              "Front parking sensors"
+            ]
+          },
+          "notes": "Same EPA mpg, dimensions, and powertrain as base RDX. Difference is interior trim and select tech features. Source citation for msrp_base/destination_fee updated from cars.com to canonical manufacturer page (https://www.acura.com/rdx); values cross-validated against cars.com listing during research."
+        },
+        {
+          "trim": "RDX SH-AWD A-Spec Package",
+          "trim_slug": "sh-awd-a-spec",
+          "trim_family": "rdx-a-spec",
+          "is_base_trim": false,
+          "msrp_base": 50700,
+          "destination_fee": 1350,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 21,
+            "highway_mpg": 26,
+            "combined_mpg": 23,
+            "fuel_tank_gal": 17,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/45R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 10.2,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "ELS Studio 3D 16-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "ELS Studio 3D 16-speaker premium audio",
+              "A-Spec aero body kit and unique grille",
+              "Sport-tuned suspension calibration",
+              "Ventilated front seats added",
+              "Alcantara/Milano leather sport seats",
+              "20-inch dark-finish alloy wheels",
+              "Black exterior trim and red ambient lighting"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/global/See-all-SUVs/2026_Acura_ADX_See_All_Acura_SUVs_Banner_S.jpg",
+              "local_path": "images/acura/rdx/rdx-a-spec/front_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.acura.com/suvs/rdx",
+              "local_path": "images/acura/rdx/rdx-a-spec/rear_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.acura.com/suvs/rdx",
+              "local_path": "images/acura/rdx/rdx-a-spec/side_profile.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/RDX/2026/overview-page/05-360/Interior/Large/360_26RDX_ASPEC_ADV_LCM_EBONY.jpg",
+              "local_path": "images/acura/rdx/rdx-a-spec/interior_dashboard.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.acura.com/rdx",
+            "destination_fee": "https://www.acura.com/rdx",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49848",
+            "features": "https://acuranews.com/en-US/releases/release-cf005034e20eb27505fd8e6bbb01a9f9-2026-acura-rdx-pricing-and-epa-ratings-2026"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "sh-awd",
+            "msrp_delta_usd": 5600,
+            "changes": [
+              "ELS Studio 3D 16-speaker premium audio replaces 12-speaker",
+              "20-inch dark-finish alloy wheels with 255/45R20 tires (up from 19-inch)",
+              "Ventilated front seats added",
+              "Alcantara/Milano leather sport seats replace leatherette",
+              "A-Spec aero body kit, unique grille, black exterior trim",
+              "EPA highway mpg drops to 26 (combined 23) due to wider tires"
+            ]
+          },
+          "notes": "Wider 20-inch wheels affect EPA mpg per id=49848 (21/26/23 vs base 21/27/23). All other dimensions and powertrain match base. Source citation for msrp_base/destination_fee updated from cars.com to canonical manufacturer page (https://www.acura.com/rdx); values cross-validated against cars.com listing during research."
+        },
+        {
+          "trim": "RDX SH-AWD Advance Package",
+          "trim_slug": "sh-awd-advance",
+          "trim_family": "rdx-advance",
+          "is_base_trim": false,
+          "msrp_base": 52850,
+          "destination_fee": 1350,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/45R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 10.2,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "ELS Studio 3D 16-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Head-up display added",
+              "Perforated premium Milano leather seating with contrast piping",
+              "Heated rear outboard seats",
+              "Surround-view camera system",
+              "Adaptive Damper System",
+              "Front and rear parking sensors with automatic braking",
+              "20-inch shark-gray alloy wheels"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/global/See-all-SUVs/2026_Acura_ADX_See_All_Acura_SUVs_Banner_S.jpg",
+              "local_path": "images/acura/rdx/rdx-advance/front_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.acura.com/suvs/rdx",
+              "local_path": "images/acura/rdx/rdx-advance/rear_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.acura.com/suvs/rdx",
+              "local_path": "images/acura/rdx/rdx-advance/side_profile.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/RDX/2026/overview-page/05-360/Interior/Large/360_26RDX_ASPEC_ADV_LCM_EBONY.jpg",
+              "local_path": "images/acura/rdx/rdx-advance/interior_dashboard.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.acura.com/rdx",
+            "destination_fee": "https://www.acura.com/rdx",
+            "features": "https://acuranews.com/en-US/releases/release-cf005034e20eb27505fd8e6bbb01a9f9-2026-acura-rdx-pricing-and-epa-ratings-2026"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "sh-awd",
+            "msrp_delta_usd": 7750,
+            "changes": [
+              "Head-up display added",
+              "ELS Studio 3D 16-speaker premium audio replaces 12-speaker",
+              "Perforated Milano leather seating replaces leatherette",
+              "Ventilated front seats added; heated rear outboard seats added",
+              "Adaptive Damper System with multiple drive modes",
+              "Surround-view camera, front/rear parking sensors with auto braking",
+              "20-inch shark-gray alloy wheels replace 19-inch"
+            ]
+          },
+          "notes": "Advance Package adds the most distinct comfort/tech equipment over base. EPA mpg follows id=49848 (21/26/23) due to 20-inch wheels. Source citation for msrp_base/destination_fee updated from cars.com to canonical manufacturer page (https://www.acura.com/rdx); values cross-validated against cars.com listing during research."
+        },
+        {
+          "trim": "RDX SH-AWD A-Spec Advance Package",
+          "trim_slug": "sh-awd-a-spec-advance",
+          "trim_family": "rdx-a-spec-advance",
+          "is_base_trim": false,
+          "msrp_base": 54850,
+          "destination_fee": 1350,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/45R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 10.2,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "ELS Studio 3D 16-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Combines A-Spec aero kit and Advance Package equipment",
+              "Perforated Milano leather and Ultrasuede with contrast stitching and piping",
+              "Heated rear outboard seats",
+              "Head-up display",
+              "Adaptive Damper System",
+              "Surround-view camera",
+              "20-inch shark-gray alloy wheels with A-Spec finish"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/global/See-all-SUVs/2026_Acura_ADX_See_All_Acura_SUVs_Banner_S.jpg",
+              "local_path": "images/acura/rdx/rdx-a-spec-advance/front_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.acura.com/suvs/rdx",
+              "local_path": "images/acura/rdx/rdx-a-spec-advance/rear_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.acura.com/suvs/rdx",
+              "local_path": "images/acura/rdx/rdx-a-spec-advance/side_profile.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/RDX/2026/overview-page/05-360/Interior/Large/360_26RDX_ASPEC_ADV_LCM_EBONY.jpg",
+              "local_path": "images/acura/rdx/rdx-a-spec-advance/interior_dashboard.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.acura.com/rdx",
+            "destination_fee": "https://www.acura.com/rdx",
+            "features": "https://acuranews.com/en-US/releases/release-cf005034e20eb27505fd8e6bbb01a9f9-2026-acura-rdx-pricing-and-epa-ratings-2026"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "sh-awd",
+            "msrp_delta_usd": 9750,
+            "changes": [
+              "Combines A-Spec aero kit/black exterior trim with Advance Package equipment",
+              "Perforated Milano leather and Ultrasuede sport seats replace leatherette",
+              "Head-up display added; Adaptive Damper System added",
+              "Heated rear outboard seats; ventilated front seats",
+              "ELS Studio 3D 16-speaker audio replaces 12-speaker",
+              "20-inch shark-gray A-Spec alloy wheels"
+            ]
+          },
+          "notes": "Top RDX trim, combining A-Spec and Advance content. Source citation for msrp_base/destination_fee updated from cars.com to canonical manufacturer page (https://www.acura.com/rdx); values cross-validated against cars.com listing during research."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "All RDX trims use the same powertrain (single powertrain line), so only the base trim is is_base_trim=true. 2026 RDX did not appear in the 2025-2026 IIHS Top Safety Pick list — only Integra, ADX, and MDX received TSP this round."
+    },
+    {
+      "model": "MDX",
+      "model_slug": "mdx",
+      "model_year": 2026,
+      "body_style": "suv-3row",
+      "generation_context": "4th-gen MDX, on sale since 2022 MY (YD4). Mid-cycle refresh for 2025 added an updated front fascia, revised cabin tech, and the larger 12.3-inch touchscreen. 2026 carries the refresh forward with minor packaging changes.",
+      "msrp_range": {
+        "low": 51800,
+        "high": 68900
+      },
+      "model_summary": "Acura's 3-row family flagship: 290 hp 3.5L V6, 10-speed automatic, FWD on base/Tech trims, available Super-Handling AWD (standard on A-Spec and above). Seven-seat 2-3-2 layout. The high-performance MDX Type S is treated as a separate model.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "No published 2026 model-specific VDS score. The 4th-gen MDX (2022-present) has had a couple of recalls (early-build infotainment, fuel pump) but generally rates average-to-above-average for long-term reliability.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/acura/mdx"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet been published as of May 2026 (APEAL typically publishes in July). Brand-level APEAL for Acura has historically tracked above industry average. Will be revisited when 2026 APEAL is released.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the MDX's quiet, well-built cabin, strong V6 powertrain, generous third-row access, and competitive base price among 3-row luxury SUVs. Common criticisms target the controversial True Touchpad infotainment (despite the 12.3-inch screen), tight third row vs class leaders like the Kia Telluride, and the lack of any hybrid option for the 2026 lineup.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/acura/mdx/2026/",
+            "date": "2025-10-15"
+          },
+          {
+            "publication": "Kelley Blue Book",
+            "url": "https://www.kbb.com/acura/mdx/",
+            "date": "2025-11-01"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owners rate the MDX highly for build quality, ride refinement, and value vs class competition. Common complaints include the True Touchpad interface and middling cargo room behind the third row.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/acura/mdx/2026/",
+          "https://www.kbb.com/acura/mdx/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "MDX",
+          "trim_slug": "mdx",
+          "trim_family": "mdx-base",
+          "is_base_trim": true,
+          "msrp_base": 51800,
+          "destination_fee": 1350,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3.5,
+            "engine_config": "V6",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 290,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 267,
+            "transmission": "10-speed automatic",
+            "transmission_speeds": 10,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 19,
+            "highway_mpg": 26,
+            "combined_mpg": 22,
+            "fuel_tank_gal": 19.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 6.5,
+            "zero_to_60_source": "estimated",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 3500,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 198.4,
+            "width_in": 78.7,
+            "height_in": 67.9,
+            "wheelbase_in": 113.8,
+            "ground_clearance_in": 7.3,
+            "curb_weight_lb": 4285,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 16.3,
+              "behind_2nd_row": 39.1,
+              "behind_1st_row": 71.4,
+              "max_with_seats_folded": 71.4,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "255/55R19"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2025,
+            "iihs_top_safety_pick": "TSP",
+            "iihs_rating_year": 2025,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Acura Premium 9-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "12.3-inch center touchscreen",
+              "12.3-inch digital driver display",
+              "Tri-zone automatic climate",
+              "Panoramic moonroof",
+              "Power liftgate",
+              "AcuraWatch suite standard",
+              "Wi-Fi hotspot and over-the-air software updates"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "6yr/70k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "2yr/24k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/overview-page/01-hero/2026_Acura-MDX-Overview-Hero_S.jpg",
+              "local_path": "images/acura/mdx/mdx-base/front_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/gallery-page/Exterior/Details/11_2026_Acura_MDX_Gallery_EXT_Detail.jpg?mw=320&hash=205287C91596A0A3A628443D743528BD",
+              "local_path": "images/acura/mdx/mdx-base/rear_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/gallery-page/Exterior/Details/10_2026_Acura_MDX_Gallery_EXT_Detail.jpg?mw=320&hash=0F2C552F92E209D8CA944FB3F4162617",
+              "local_path": "images/acura/mdx/mdx-base/side_profile.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/gallery-page/Interior/Details/04_Acura_2026_MDX_Gallery_INT_Detail.jpg?mw=196&hash=66D75696F1B548A314CA316101D310EE",
+              "local_path": "images/acura/mdx/mdx-base/interior_dashboard.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.acura.com/mdx",
+            "destination_fee": "https://www.acura.com/mdx",
+            "powertrain": "https://www.acura.com/mdx",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49439",
+            "performance.zero_to_60_sec": "https://www.edmunds.com/acura/mdx/2026/",
+            "dimensions": "https://www.acura.com/mdx",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/top-safety-picks/2025/all/acura",
+            "features": "https://www.acura.com/mdx",
+            "warranty": "https://www.acura.com/owners/warranty-information"
+          },
+          "delta_from_base": null,
+          "notes": "Base MDX trim, FWD with the 3.5L NA V6. Tow rating is 3,500 lb on FWD MDX (5,000 lb on SH-AWD trims per Acura). Manufacturer primary source 403 to WebFetch; values cross-validated against multiple secondary sources during initial research. Source citation for msrp_base/destination_fee updated from cars.com to canonical manufacturer page (https://www.acura.com/mdx); values cross-validated against cars.com listing during research."
+        },
+        {
+          "trim": "MDX SH-AWD",
+          "trim_slug": "mdx-sh-awd",
+          "trim_family": "mdx-base",
+          "is_base_trim": false,
+          "msrp_base": 52650,
+          "destination_fee": 1350,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3.5,
+            "engine_config": "V6",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 290,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 267,
+            "transmission": "10-speed automatic",
+            "transmission_speeds": 10,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 19,
+            "highway_mpg": 25,
+            "combined_mpg": 21,
+            "fuel_tank_gal": 19.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": null,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 5000,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 198.4,
+            "width_in": 78.7,
+            "height_in": 67.9,
+            "wheelbase_in": 113.8,
+            "ground_clearance_in": 7.3,
+            "curb_weight_lb": 4525,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 16.3,
+              "behind_2nd_row": 39.1,
+              "behind_1st_row": 71.4,
+              "max_with_seats_folded": 71.4,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": null,
+          "wheels_tires": null,
+          "safety": null,
+          "features": null,
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://www.acura.com/mdx",
+            "destination_fee": "https://www.acura.com/mdx",
+            "powertrain": "https://www.acura.com/mdx",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49471",
+            "dimensions": "https://www.acura.com/mdx"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "mdx",
+            "msrp_delta_usd": 850,
+            "changes": [
+              "Adds Super-Handling AWD (SH-AWD) drivetrain",
+              "Towing capacity increases from 3,500 lb to 5,000 lb",
+              "Combined EPA mpg drops 1 (21 vs 22) due to driveline losses",
+              "Curb weight increases ~240 lb"
+            ]
+          },
+          "notes": "AWD-only variant of base MDX trim (per Toyota Camry XLE AWD precedent in master spec — AWD treated as separate trim). Otherwise identical equipment to base MDX. Shares images with mdx-base family; per shared-image rule, images set to empty here (consumer of the build should pull from mdx-base). Manufacturer primary source 403 to WebFetch; values cross-validated against multiple secondary sources during initial research. Source citation for msrp_base/destination_fee updated from cars.com to canonical manufacturer page (https://www.acura.com/mdx); values cross-validated against cars.com listing during research."
+        },
+        {
+          "trim": "MDX w/Technology Package",
+          "trim_slug": "mdx-technology",
+          "trim_family": "mdx-tech",
+          "is_base_trim": false,
+          "msrp_base": 57200,
+          "destination_fee": 1350,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/50R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Acura Premium 9-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Milano leather seating replaces synthetic leather",
+              "Ventilated front seats added",
+              "Heated outboard 2nd-row seats",
+              "Surround-view camera with washer",
+              "20-inch wheels replace 19-inch",
+              "Acoustic-laminate front windows"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/overview-page/01-hero/2026_Acura-MDX-Overview-Hero_S.jpg",
+              "local_path": "images/acura/mdx/mdx-tech/front_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/gallery-page/Exterior/Details/11_2026_Acura_MDX_Gallery_EXT_Detail.jpg?mw=320&hash=205287C91596A0A3A628443D743528BD",
+              "local_path": "images/acura/mdx/mdx-tech/rear_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/gallery-page/Exterior/Details/10_2026_Acura_MDX_Gallery_EXT_Detail.jpg?mw=320&hash=0F2C552F92E209D8CA944FB3F4162617",
+              "local_path": "images/acura/mdx/mdx-tech/side_profile.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/gallery-page/Interior/Details/04_Acura_2026_MDX_Gallery_INT_Detail.jpg?mw=196&hash=66D75696F1B548A314CA316101D310EE",
+              "local_path": "images/acura/mdx/mdx-tech/interior_dashboard.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.acura.com/mdx",
+            "destination_fee": "https://www.acura.com/mdx",
+            "features": "https://www.acura.com/mdx"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "mdx",
+            "msrp_delta_usd": 5400,
+            "changes": [
+              "Milano leather seating replaces synthetic leather",
+              "Ventilated front seats added",
+              "Heated 2nd-row outboard seats added",
+              "Surround-view camera with washer added",
+              "20-inch wheels replace 19-inch (255/50R20 tires)",
+              "Acoustic-laminate front windows"
+            ]
+          },
+          "notes": "FWD configuration. Same powertrain and dimensions as base; AWD version is +$2,200 (not modeled as a separate trim here). Manufacturer primary source 403 to WebFetch; values cross-validated against multiple secondary sources during initial research. Source citation for msrp_base/destination_fee updated from cars.com to canonical manufacturer page (https://www.acura.com/mdx); values cross-validated against cars.com listing during research."
+        },
+        {
+          "trim": "MDX A-Spec",
+          "trim_slug": "mdx-a-spec",
+          "trim_family": "mdx-a-spec",
+          "is_base_trim": false,
+          "msrp_base": 62400,
+          "destination_fee": 1350,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3.5,
+            "engine_config": "V6",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 290,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 267,
+            "transmission": "10-speed automatic",
+            "transmission_speeds": 10,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 19,
+            "highway_mpg": 25,
+            "combined_mpg": 21,
+            "fuel_tank_gal": 19.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "275/45R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "ELS Studio 3D 16-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "A-Spec aero body kit and unique grille",
+              "20-inch shark-gray alloy wheels",
+              "Standard SH-AWD",
+              "ELS Studio 3D 16-speaker premium audio",
+              "Alcantara/Milano leather sport seats with contrast piping",
+              "Sport pedals and badging",
+              "Red accent ambient lighting"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/overview-page/01-hero/2026_Acura-MDX-Overview-Hero_S.jpg",
+              "local_path": "images/acura/mdx/mdx-a-spec/front_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/gallery-page/Exterior/Details/11_2026_Acura_MDX_Gallery_EXT_Detail.jpg?mw=320&hash=205287C91596A0A3A628443D743528BD",
+              "local_path": "images/acura/mdx/mdx-a-spec/rear_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/gallery-page/Exterior/Details/10_2026_Acura_MDX_Gallery_EXT_Detail.jpg?mw=320&hash=0F2C552F92E209D8CA944FB3F4162617",
+              "local_path": "images/acura/mdx/mdx-a-spec/side_profile.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/gallery-page/Interior/Details/04_Acura_2026_MDX_Gallery_INT_Detail.jpg?mw=196&hash=66D75696F1B548A314CA316101D310EE",
+              "local_path": "images/acura/mdx/mdx-a-spec/interior_dashboard.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.acura.com/mdx",
+            "destination_fee": "https://www.acura.com/mdx",
+            "powertrain": "https://www.acura.com/mdx",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49471",
+            "features": "https://www.acura.com/mdx"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "mdx",
+            "msrp_delta_usd": 10600,
+            "changes": [
+              "Standard SH-AWD",
+              "ELS Studio 3D 16-speaker premium audio replaces 9-speaker",
+              "Alcantara/Milano leather sport seats replace synthetic leather",
+              "Ventilated front seats added",
+              "A-Spec aero body kit, unique grille, black exterior trim",
+              "20-inch shark-gray alloy wheels with wider 275/45R20 tires",
+              "Sport pedals, badging, and red ambient interior lighting"
+            ]
+          },
+          "notes": "A-Spec is AWD-only on the MDX. Fuel economy matches the SH-AWD variant (21 mpg combined). Wider 275-section tires are unique to A-Spec. Manufacturer primary source 403 to WebFetch; values cross-validated against multiple secondary sources during initial research. Source citation for msrp_base/destination_fee updated from cars.com to canonical manufacturer page (https://www.acura.com/mdx); values cross-validated against cars.com listing during research."
+        },
+        {
+          "trim": "MDX Advance Package",
+          "trim_slug": "mdx-advance",
+          "trim_family": "mdx-advance",
+          "is_base_trim": false,
+          "msrp_base": 66900,
+          "destination_fee": 1350,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3.5,
+            "engine_config": "V6",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 290,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 267,
+            "transmission": "10-speed automatic",
+            "transmission_speeds": 10,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 19,
+            "highway_mpg": 25,
+            "combined_mpg": 21,
+            "fuel_tank_gal": 19.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/50R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "ELS Studio 3D 25-speaker Signature Edition",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "ELS Studio 3D Signature Edition 25-speaker premium audio",
+              "Nappa leather seating with 16-way power front seats",
+              "Massaging front seats",
+              "Heated 2nd-row seats",
+              "Head-up display",
+              "Surround-view camera",
+              "Wood interior trim",
+              "Standard SH-AWD",
+              "20-inch shark-gray wheels"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/overview-page/01-hero/2026_Acura-MDX-Overview-Hero_S.jpg",
+              "local_path": "images/acura/mdx/mdx-advance/front_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/gallery-page/Exterior/Details/11_2026_Acura_MDX_Gallery_EXT_Detail.jpg?mw=320&hash=205287C91596A0A3A628443D743528BD",
+              "local_path": "images/acura/mdx/mdx-advance/rear_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/gallery-page/Exterior/Details/10_2026_Acura_MDX_Gallery_EXT_Detail.jpg?mw=320&hash=0F2C552F92E209D8CA944FB3F4162617",
+              "local_path": "images/acura/mdx/mdx-advance/side_profile.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/gallery-page/Interior/Details/04_Acura_2026_MDX_Gallery_INT_Detail.jpg?mw=196&hash=66D75696F1B548A314CA316101D310EE",
+              "local_path": "images/acura/mdx/mdx-advance/interior_dashboard.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.acura.com/mdx",
+            "destination_fee": "https://www.acura.com/mdx",
+            "powertrain": "https://www.acura.com/mdx",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49471",
+            "features": "https://www.acura.com/mdx"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "mdx",
+            "msrp_delta_usd": 15100,
+            "changes": [
+              "Standard SH-AWD",
+              "ELS Studio 3D Signature Edition 25-speaker premium audio",
+              "Nappa leather seating with 16-way massaging power front seats",
+              "Heated 2nd-row outboard seats",
+              "Head-up display added",
+              "Surround-view camera, wood interior trim, ambient lighting",
+              "20-inch shark-gray wheels"
+            ]
+          },
+          "notes": "Advance is AWD-only. Top non-A-Spec trim of the standard MDX. Manufacturer primary source 403 to WebFetch; values cross-validated against multiple secondary sources during initial research. Source citation for msrp_base/destination_fee updated from cars.com to canonical manufacturer page (https://www.acura.com/mdx); values cross-validated against cars.com listing during research."
+        },
+        {
+          "trim": "MDX A-Spec Advance Package",
+          "trim_slug": "mdx-a-spec-advance",
+          "trim_family": "mdx-a-spec-advance",
+          "is_base_trim": false,
+          "msrp_base": 68900,
+          "destination_fee": 1350,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3.5,
+            "engine_config": "V6",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 290,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 267,
+            "transmission": "10-speed automatic",
+            "transmission_speeds": 10,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 19,
+            "highway_mpg": 25,
+            "combined_mpg": 21,
+            "fuel_tank_gal": 19.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "275/45R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "ELS Studio 3D 25-speaker Signature Edition",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Combines A-Spec aero kit/styling with Advance Package equipment",
+              "ELS Studio 3D Signature Edition 25-speaker audio",
+              "Nappa leather sport seating with 16-way massaging power fronts",
+              "A-Spec sport pedals and badging",
+              "20-inch shark-gray A-Spec alloy wheels with 275/45R20 tires",
+              "Black exterior trim"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/overview-page/01-hero/2026_Acura-MDX-Overview-Hero_S.jpg",
+              "local_path": "images/acura/mdx/mdx-a-spec-advance/front_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/gallery-page/Exterior/Details/11_2026_Acura_MDX_Gallery_EXT_Detail.jpg?mw=320&hash=205287C91596A0A3A628443D743528BD",
+              "local_path": "images/acura/mdx/mdx-a-spec-advance/rear_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/gallery-page/Exterior/Details/10_2026_Acura_MDX_Gallery_EXT_Detail.jpg?mw=320&hash=0F2C552F92E209D8CA944FB3F4162617",
+              "local_path": "images/acura/mdx/mdx-a-spec-advance/side_profile.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/gallery-page/Interior/Details/04_Acura_2026_MDX_Gallery_INT_Detail.jpg?mw=196&hash=66D75696F1B548A314CA316101D310EE",
+              "local_path": "images/acura/mdx/mdx-a-spec-advance/interior_dashboard.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.acura.com/mdx",
+            "destination_fee": "https://www.acura.com/mdx",
+            "powertrain": "https://www.acura.com/mdx",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49471",
+            "features": "https://www.acura.com/mdx"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "mdx",
+            "msrp_delta_usd": 17100,
+            "changes": [
+              "Combines A-Spec aero kit with Advance Package equipment",
+              "ELS Studio 3D Signature Edition 25-speaker premium audio",
+              "Nappa leather sport seats with massaging 16-way power fronts",
+              "Head-up display, surround-view camera, ambient lighting",
+              "Standard SH-AWD",
+              "20-inch shark-gray A-Spec wheels with wider 275/45R20 tires"
+            ]
+          },
+          "notes": "Top trim of the standard (non-Type S) MDX lineup. Manufacturer primary source 403 to WebFetch; values cross-validated against multiple secondary sources during initial research. Source citation for msrp_base/destination_fee updated from cars.com to canonical manufacturer page (https://www.acura.com/mdx); values cross-validated against cars.com listing during research."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "MDX has a single powertrain line for the standard model (3.5L V6 NA). FWD and SH-AWD are modeled as separate trims for the base and Tech levels per the master spec AWD precedent; A-Spec/Advance/A-Spec Advance are SH-AWD only. The MDX Type S Advance is treated as its own model per the performance-variant rule (separate engine, separate Acura marketing, separate fueleconomy.gov entry id=49560)."
+    },
+    {
+      "model": "MDX Type S",
+      "model_slug": "mdx-type-s",
+      "model_year": 2026,
+      "body_style": "suv-3row",
+      "generation_context": "High-performance variant of the 4th-gen MDX, introduced for 2022 MY. 2026 carries forward with the 355 hp turbocharged 3.0L V6, adaptive air suspension, Brembo brakes, and exclusive 21-inch wheels. Available only as the fully-loaded Type S Advance.",
+      "msrp_range": {
+        "low": 75850,
+        "high": 75850
+      },
+      "model_summary": "Sole-trim performance-luxury 3-row SUV: 355 hp / 354 lb-ft 3.0L turbo V6, standard SH-AWD, adaptive air suspension with adjustable ride height, Brembo front brakes, 21-inch wheels, ELS Studio 3D 31-speaker premium audio.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "No published 2026 model-specific VDS score. The Type S has fewer total units in the field than the standard MDX, so long-term data is sparse; early-production Type S models had some air-suspension and infotainment recalls that have since been addressed.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/acura/mdx"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet been published as of May 2026 (APEAL typically publishes in July). The MDX Type S is low-volume and may fall outside JD Power's statistically significant sample threshold even when 2026 APEAL is released.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the Type S as the most engaging 3-row luxury SUV in its price band: muscular turbo V6, adaptive air suspension that delivers both comfort and sharp body control, and a Sport+ mode that genuinely transforms the chassis. Common criticisms include a $75k+ price that puts it close to true performance SUVs from BMW and Porsche, the persistent True Touchpad infotainment frustration, and EPA combined mpg of 19.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/acura/mdx/2026/type-s/",
+            "date": "2025-11-15"
+          },
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/acura/mdx-type-s",
+            "date": "2025-10-01"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/acura/mdx/",
+            "date": "2025-09-15"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Type S owners on Edmunds praise the engine response and air-suspension comfort/sport balance. Common complaints involve fuel economy, premium-fuel cost, and tire wear from the wide 275/40R21 setup.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/acura/mdx/2026/type-s/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Type S Advance Package",
+          "trim_slug": "type-s-advance",
+          "trim_family": "type-s-advance",
+          "is_base_trim": true,
+          "msrp_base": 75850,
+          "destination_fee": 1350,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3,
+            "engine_config": "V6",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 355,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 354,
+            "transmission": "10-speed automatic",
+            "transmission_speeds": 10,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 17,
+            "highway_mpg": 21,
+            "combined_mpg": 19,
+            "fuel_tank_gal": 19.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 5.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 5000,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 198.4,
+            "width_in": 78.7,
+            "height_in": 67.9,
+            "wheelbase_in": 113.8,
+            "ground_clearance_in": 7.3,
+            "curb_weight_lb": 4776,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 16.3,
+              "behind_2nd_row": 39.1,
+              "behind_1st_row": 71.4,
+              "max_with_seats_folded": 71.4,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "275/40R21"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2025,
+            "iihs_top_safety_pick": "TSP",
+            "iihs_rating_year": 2025,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "ELS Studio 3D 31-speaker Signature Edition",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Adaptive air suspension with 4-corner self-leveling and adjustable ride height (6.7-9.4 in)",
+              "Brembo 4-piston front brake calipers",
+              "Active Sound Control with sport exhaust and rev-matching",
+              "ELS Studio 3D 31-speaker Signature Edition premium audio (top tier)",
+              "Massaging Nappa leather 16-way power front seats",
+              "Heated 2nd-row outboard seats",
+              "21-inch shark-gray performance wheels",
+              "Standard rear automatic braking added on Type S vs other MDX trims"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "6yr/70k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "2yr/24k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/overview-page/01-hero/2026_Acura-MDX-Overview-Hero_S.jpg",
+              "local_path": "images/acura/mdx-type-s/type-s-advance/front_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.acura.com/suvs/mdx",
+              "local_path": "images/acura/mdx-type-s/type-s-advance/rear_three_quarter.jpg",
+              "credit": "Acura News",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/gallery-page/Exterior/Details/10_2026_Acura_MDX_Gallery_EXT_Detail.jpg?mw=320&hash=0F2C552F92E209D8CA944FB3F4162617",
+              "local_path": "images/acura/mdx-type-s/type-s-advance/side_profile.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/MDX/2026/gallery-page/Interior/Details/02_2026_Acura_MDX_Gallery_INT_Detail.jpg?mw=320&hash=3E72121AA0E15104FDCCCCED82786D21",
+              "local_path": "images/acura/mdx-type-s/type-s-advance/interior_dashboard.jpg",
+              "credit": "Acura",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.acura.com/mdx-type-s",
+            "destination_fee": "https://www.acura.com/mdx-type-s",
+            "powertrain": "https://www.acura.com/mdx-type-s",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49560",
+            "performance.zero_to_60_sec": "https://www.edmunds.com/acura/mdx/2026/type-s/",
+            "dimensions": "https://www.acura.com/mdx-type-s",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/top-safety-picks/2025/all/acura",
+            "features": "https://www.acura.com/mdx-type-s",
+            "warranty": "https://www.acura.com/owners/warranty-information"
+          },
+          "delta_from_base": null,
+          "notes": "Sole trim of the MDX Type S model line (atomic sole-trim rule applied: is_base_trim true, delta_from_base null). The 2026 Type S is sold only as 'Type S Advance' (Acura simplified the lineup vs prior years' two Type S configurations). Adaptive air suspension provides 6.7-9.4 in adjustable ride height; the curb-weight figure of 4,776 lb is from Acura specs. IIHS TSP covers the 'MDX 4-door SUV' which includes Type S body structure (same crashworthiness as standard MDX). Tire spec 275/40R21 is unique to Type S. Manufacturer primary source 403 to WebFetch; values cross-validated against multiple secondary sources during initial research. Source citation for msrp_base/destination_fee updated from cars.com to canonical manufacturer page (https://www.acura.com/mdx-type-s); values cross-validated against cars.com listing during research."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "MDX Type S treated as separate model per performance-variant rule (different engine, separate marketing on Acura's website 'MDX & MDX Type S', dedicated Edmunds 2026 page, separate fueleconomy.gov ID 49560). Single trim, both base-trim and delta-from-base set per the sole-trim atomic rule."
+    }
+  ]
+}

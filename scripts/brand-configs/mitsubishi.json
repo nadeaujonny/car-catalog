@@ -1,0 +1,16 @@
+{
+  "brand_slug": "mitsubishi",
+  "model_pages": {
+    "outlander":       "https://www.mitsubishicars.com/cars-and-suvs/outlander",
+    "outlander-phev":  "https://www.mitsubishicars.com/cars-and-suvs/outlander-phev",
+    "outlander-sport": "https://www.mitsubishicars.com/cars-and-suvs/outlander-sport",
+    "eclipse-cross":   "https://www.mitsubishicars.com/cars-and-suvs/eclipse-cross"
+  },
+  "slug_variants": {
+    "outlander":       ["outlander", "outlander-suv"],
+    "outlander-phev":  ["outlander-phev", "outlander_phev", "outlanderphev", "phev"],
+    "outlander-sport": ["outlander-sport", "outlander_sport", "outlandersport"],
+    "eclipse-cross":   ["eclipse-cross", "eclipse_cross", "eclipsecross"]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

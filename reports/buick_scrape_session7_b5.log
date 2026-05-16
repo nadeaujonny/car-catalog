@@ -1,0 +1,55 @@
+Reset 48 image entries with needs_scraping:true to their model page URLs.
+Brand: buick
+Models in JSON: 4
+Models with page URLs: 4
+Playwright fallback: enabled
+
+Scraping 4 model pages…
+
+  fetch https://www.buick.com/suvs/encore-gx  …  static ok (804 raw, 476 slug-matching)
+  fetch https://www.buick.com/suvs/envista  …  static ok (804 raw, 474 slug-matching)
+  fetch https://www.buick.com/suvs/envision  …  static ok (751 raw, 421 slug-matching)
+  fetch https://www.buick.com/suvs/enclave  …  static ok (745 raw, 415 slug-matching)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          buick
+Pages attempted:                4
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 4
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        48
+  via text/URL pattern match:   48
+  via brand-specific angle:     0
+  via positional fallback:      0
+Brand-specific angle matches:   0
+Resolution upgrades:            41 URLs preferred larger variants
+Image entries unchanged:        0
+
+Sample rewrites:
+  [25.0] encore-gx/preferred/front_three_quarter
+        → https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/03-images/2026-encore-gx-mov-trim-walk-avenir-grille-front-fascia-s-1600x2000-25BUGX95014-v4.jpg?imwidth=1920
+  [23.5] encore-gx/preferred/rear_three_quarter
+        → https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/02-images/2026-encore-gx-mov-gallery-preview-2000x1000-25BUGX95016.jpg?imwidth=960
+  [13.0] encore-gx/preferred/side_profile
+        → https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/03-images/2026-encore-gx-mov-trim-walk-st-18in-black-wheels-s-1600x2000-ST-exterior-02-v2.jpg?imwidth=1920
+  [35.5] encore-gx/preferred/interior_dashboard
+        → https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/02-images/2026-encore-gx-mov-gallery-preview-2000x1000-25BUGX95022.jpg?imwidth=960
+  [25.0] encore-gx/sport-touring/front_three_quarter
+        → https://www.buick.com/content/dam/buick/na/us/en/index/compare/encore-gx/01-images/my26-buick-encore-gx-mov-headtohead-s-2000x1000-Buick_Encore_Preferred_exterior_01.jpg?imwidth=1920
+  [17.5] encore-gx/sport-touring/rear_three_quarter
+        → https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/04-images/2026-encore-gx--mov-gallery-preview-SS-2000x1000-sx016-FINAL.jpg?imwidth=960
+  [13.0] encore-gx/sport-touring/side_profile
+        → https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/03-images/2026-encore-gx-mov-trim-walk-preferred-18in-wheels-s-1600x2000-Preferred-exterior-02-v2.jpg?imwidth=1920
+  [11.4] encore-gx/sport-touring/interior_dashboard
+        → https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/03-images/2026-encore-gx-mov-trim-walk-preferred-infotainment-display-l-1920x1080-Preferred-interior-02-v3.jpg?imwidth=3000
+  [23.9] encore-gx/avenir/front_three_quarter
+        → https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/03-images/2026-encore-gx-mov-trim-walk-avenir-grille-front-fascia-s-1600x2000-25BUGX95014-v4.jpg?imwidth=800
+  [11.0] encore-gx/avenir/rear_three_quarter
+        → https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/02-images/2026-encore-gx-mov-design-40-60-split-seats-1600x2000-25BUGX95023.jpg?imwidth=1920
+  [11.9] encore-gx/avenir/side_profile
+        → https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/03-images/2026-encore-gx-mov-trim-walk-st-18in-black-wheels-s-1600x2000-ST-exterior-02-v2.jpg?imwidth=800
+  [11.4] encore-gx/avenir/interior_dashboard
+        → https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/03-images/2026-encore-gx-mov-trim-walk-preferred-infotainment-display-l-1920x1080-Preferred-interior-02-v3.jpg?imwidth=2400

@@ -1,0 +1,53 @@
+Reset 24 image entries with needs_scraping:true to their model page URLs.
+Brand: lucid
+Models in JSON: 2
+Models with page URLs: 2
+Playwright fallback: enabled
+
+Scraping 2 model pages…
+
+  fetch https://lucidmotors.com/air  …  static ok (527 raw candidates)
+  fetch https://lucidmotors.com/gravity  …  static ok (248 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          lucid
+Pages attempted:                2
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 2
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        20
+  via text/URL pattern match:   20
+  via positional fallback:      0
+Image entries unchanged:        4
+
+Sample rewrites:
+  [7.0] air/pure/front_three_quarter
+        → https://images.ctfassets.net/5ky6szwjj7ya/7BW7STmZyOnxgGwi8a98Qn/97c28ab6a50cb1d0e9e197ef03f96a17/lucid-air-desktop-06.webp?q=50
+  [7.0] air/pure/rear_three_quarter
+        → https://images.ctfassets.net/5ky6szwjj7ya/lucid-air-desktop-09_2x.webp/385ff840a595fcb7c1b0f3e1508c069e/lucid-air-desktop-09_2x.webp?q=50
+  [7.0] air/pure/side_profile
+        → https://lucidmotors.com/media/image/main-nav/lucid-motors-nav-pre-owned-about-av-02-desktop_1x.webp
+  [19.0] air/pure/interior_dashboard
+        → https://images.ctfassets.net/5ky6szwjj7ya/6kv4ZHUqkQ8qroFmsDbu3m/e001febcf63c39b652ce0b46cd05d1d0/lucid-air-desktop-14_2x.webp?q=50
+  [7.0] air/touring/front_three_quarter
+        → https://images.ctfassets.net/5ky6szwjj7ya/7BW7STmZyOnxgGwi8a98Qn/97c28ab6a50cb1d0e9e197ef03f96a17/lucid-air-desktop-06.webp?q=50
+  [7.0] air/touring/rear_three_quarter
+        → https://images.ctfassets.net/5ky6szwjj7ya/lucid-air-desktop-09_2x.webp/385ff840a595fcb7c1b0f3e1508c069e/lucid-air-desktop-09_2x.webp?q=50
+  [7.0] air/touring/side_profile
+        → https://lucidmotors.com/media/image/main-nav/lucid-motors-nav-pre-owned-about-av-02-desktop_1x.webp
+  [19.0] air/touring/interior_dashboard
+        → https://images.ctfassets.net/5ky6szwjj7ya/6kv4ZHUqkQ8qroFmsDbu3m/e001febcf63c39b652ce0b46cd05d1d0/lucid-air-desktop-14_2x.webp?q=50
+  [7.0] air/grand-touring/front_three_quarter
+        → https://images.ctfassets.net/5ky6szwjj7ya/7BW7STmZyOnxgGwi8a98Qn/97c28ab6a50cb1d0e9e197ef03f96a17/lucid-air-desktop-06.webp?q=50
+  [7.0] air/grand-touring/rear_three_quarter
+        → https://images.ctfassets.net/5ky6szwjj7ya/lucid-air-desktop-09_2x.webp/385ff840a595fcb7c1b0f3e1508c069e/lucid-air-desktop-09_2x.webp?q=50
+  [7.0] air/grand-touring/side_profile
+        → https://lucidmotors.com/media/image/main-nav/lucid-motors-nav-pre-owned-about-av-02-desktop_1x.webp
+  [19.0] air/grand-touring/interior_dashboard
+        → https://images.ctfassets.net/5ky6szwjj7ya/6kv4ZHUqkQ8qroFmsDbu3m/e001febcf63c39b652ce0b46cd05d1d0/lucid-air-desktop-14_2x.webp?q=50
+
+Models with unresolved angles:
+  gravity: 4 entries  (e.g. touring/rear_three_quarter, touring/side_profile, grand-touring/rear_three_quarter)

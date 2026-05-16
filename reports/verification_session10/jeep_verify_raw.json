@@ -1,0 +1,219 @@
+{
+  "brand": "Jeep",
+  "brand_slug": "jeep",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "model_count": 12,
+  "trim_count": 55,
+  "total_images": 220,
+  "needs_scraping": 220,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 40,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "wrangler/sport-s",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "wrangler/willys",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "wrangler/rubicon",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "wrangler/rubicon-x",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "wrangler-4xe/willys-4xe",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "wrangler-4xe/sahara-4xe",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "wrangler-4xe/rubicon-4xe",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "wrangler-4xe/rubicon-x-4xe",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "gladiator/sport-s",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "gladiator/willys",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "gladiator/sahara",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "gladiator/mojave",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "gladiator/rubicon",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "gladiator/mojave-x",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "gladiator/rubicon-x",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "grand-cherokee/laredo-x",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "grand-cherokee/limited",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "grand-cherokee/limited-reserve",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "grand-cherokee/overland",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "grand-cherokee/summit",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "grand-cherokee/summit-reserve",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "grand-cherokee-l/laredo-x",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "grand-cherokee-l/limited",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "grand-cherokee-l/limited-reserve",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "grand-cherokee-l/overland",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "grand-cherokee-l/summit",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "grand-cherokee-l/summit-reserve",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "grand-cherokee-4xe/trailhawk-4xe",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "grand-cherokee-4xe/summit-4xe",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "compass/latitude-altitude",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "compass/limited",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "compass/limited-altitude",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "compass/trailhawk",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "cherokee/laredo",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "cherokee/limited",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "cherokee/overland",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "grand-wagoneer/limited-altitude",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "grand-wagoneer/summit-obsidian",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "grand-wagoneer-l/limited-altitude-l",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "grand-wagoneer-l/summit-obsidian-l",
+      "value": 5
+    }
+  ],
+  "fyis": []
+}

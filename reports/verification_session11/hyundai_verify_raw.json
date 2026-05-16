@@ -1,0 +1,24 @@
+{
+  "brand": "Hyundai",
+  "brand_slug": "hyundai",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "model_count": 14,
+  "trim_count": 71,
+  "total_images": 152,
+  "needs_scraping": 152,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 1,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "tucson/xrt",
+      "value": 5
+    }
+  ],
+  "fyis": []
+}

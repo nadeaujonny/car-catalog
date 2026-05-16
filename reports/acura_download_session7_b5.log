@@ -1,0 +1,97 @@
+Brand: acura
+Referer header: https://www.acura.com/
+Found 72 image entries across 6 models.
+
+[1/72] integra/integra/front_three_quarter  ok (5663 bytes, image/avif)
+[2/72] integra/integra/rear_three_quarter  ok (8131 bytes, image/avif)
+[3/72] integra/integra/side_profile  ok (7066 bytes, image/webp)
+[4/72] integra/integra/interior_dashboard  ok (23100 bytes, image/webp)
+[5/72] integra/a-spec/front_three_quarter  ok (5663 bytes, image/avif)
+[6/72] integra/a-spec/rear_three_quarter  ok (8131 bytes, image/avif)
+[7/72] integra/a-spec/side_profile  ok (7066 bytes, image/webp)
+[8/72] integra/a-spec/interior_dashboard  ok (23100 bytes, image/webp)
+[9/72] integra/a-spec-technology/front_three_quarter  ok (5663 bytes, image/avif)
+[10/72] integra/a-spec-technology/rear_three_quarter  ok (8131 bytes, image/avif)
+[11/72] integra/a-spec-technology/side_profile  ok (7066 bytes, image/webp)
+[12/72] integra/a-spec-technology/interior_dashboard  ok (23100 bytes, image/webp)
+[13/72] integra-type-s/type-s/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[14/72] integra-type-s/type-s/rear_three_quarter  ok (18828 bytes, image/webp)
+[15/72] integra-type-s/type-s/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[16/72] integra-type-s/type-s/interior_dashboard  ok (23100 bytes, image/webp)
+[17/72] adx/adx/front_three_quarter  ok (6039 bytes, image/avif)
+[18/72] adx/adx/rear_three_quarter  ok (7303 bytes, image/avif)
+[19/72] adx/adx/side_profile  ok (4540 bytes, image/avif)
+[20/72] adx/adx/interior_dashboard  ok (72356 bytes, image/avif)
+[21/72] adx/a-spec/front_three_quarter  ok (6039 bytes, image/avif)
+[22/72] adx/a-spec/rear_three_quarter  ok (7303 bytes, image/avif)
+[23/72] adx/a-spec/side_profile  ok (4540 bytes, image/avif)
+[24/72] adx/a-spec/interior_dashboard  ok (72356 bytes, image/avif)
+[25/72] adx/a-spec-advance/front_three_quarter  ok (6039 bytes, image/avif)
+[26/72] adx/a-spec-advance/rear_three_quarter  ok (7303 bytes, image/avif)
+[27/72] adx/a-spec-advance/side_profile  ok (4540 bytes, image/avif)
+[28/72] adx/a-spec-advance/interior_dashboard  ok (72356 bytes, image/avif)
+[29/72] rdx/sh-awd/front_three_quarter  ok (36556 bytes, image/avif)
+[30/72] rdx/sh-awd/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[31/72] rdx/sh-awd/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[32/72] rdx/sh-awd/interior_dashboard  ok (220342 bytes, image/jpeg)
+[33/72] rdx/sh-awd-technology/front_three_quarter  ok (36556 bytes, image/avif)
+[34/72] rdx/sh-awd-technology/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[35/72] rdx/sh-awd-technology/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[36/72] rdx/sh-awd-technology/interior_dashboard  ok (220342 bytes, image/jpeg)
+[37/72] rdx/sh-awd-a-spec/front_three_quarter  ok (36556 bytes, image/avif)
+[38/72] rdx/sh-awd-a-spec/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[39/72] rdx/sh-awd-a-spec/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[40/72] rdx/sh-awd-a-spec/interior_dashboard  ok (220342 bytes, image/jpeg)
+[41/72] rdx/sh-awd-advance/front_three_quarter  ok (36556 bytes, image/avif)
+[42/72] rdx/sh-awd-advance/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[43/72] rdx/sh-awd-advance/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[44/72] rdx/sh-awd-advance/interior_dashboard  ok (220342 bytes, image/jpeg)
+[45/72] rdx/sh-awd-a-spec-advance/front_three_quarter  ok (36556 bytes, image/avif)
+[46/72] rdx/sh-awd-a-spec-advance/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[47/72] rdx/sh-awd-a-spec-advance/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[48/72] rdx/sh-awd-a-spec-advance/interior_dashboard  ok (220342 bytes, image/jpeg)
+[49/72] mdx/mdx/front_three_quarter  ok (8597 bytes, image/avif)
+[50/72] mdx/mdx/rear_three_quarter  ok (2292 bytes, image/avif)
+[51/72] mdx/mdx/side_profile  ok (2460 bytes, image/avif)
+[52/72] mdx/mdx/interior_dashboard  ok (2205 bytes, image/avif)
+[53/72] mdx/mdx-technology/front_three_quarter  ok (8597 bytes, image/avif)
+[54/72] mdx/mdx-technology/rear_three_quarter  ok (2292 bytes, image/avif)
+[55/72] mdx/mdx-technology/side_profile  ok (2460 bytes, image/avif)
+[56/72] mdx/mdx-technology/interior_dashboard  ok (2205 bytes, image/avif)
+[57/72] mdx/mdx-a-spec/front_three_quarter  ok (8597 bytes, image/avif)
+[58/72] mdx/mdx-a-spec/rear_three_quarter  ok (2292 bytes, image/avif)
+[59/72] mdx/mdx-a-spec/side_profile  ok (2460 bytes, image/avif)
+[60/72] mdx/mdx-a-spec/interior_dashboard  ok (2205 bytes, image/avif)
+[61/72] mdx/mdx-advance/front_three_quarter  ok (8597 bytes, image/avif)
+[62/72] mdx/mdx-advance/rear_three_quarter  ok (2292 bytes, image/avif)
+[63/72] mdx/mdx-advance/side_profile  ok (2460 bytes, image/avif)
+[64/72] mdx/mdx-advance/interior_dashboard  ok (2205 bytes, image/avif)
+[65/72] mdx/mdx-a-spec-advance/front_three_quarter  ok (8597 bytes, image/avif)
+[66/72] mdx/mdx-a-spec-advance/rear_three_quarter  ok (2292 bytes, image/avif)
+[67/72] mdx/mdx-a-spec-advance/side_profile  ok (2460 bytes, image/avif)
+[68/72] mdx/mdx-a-spec-advance/interior_dashboard  ok (2205 bytes, image/avif)
+[69/72] mdx-type-s/type-s-advance/front_three_quarter  ok (8597 bytes, image/avif)
+[70/72] mdx-type-s/type-s-advance/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[71/72] mdx-type-s/type-s-advance/side_profile  ok (2460 bytes, image/avif)
+[72/72] mdx-type-s/type-s-advance/interior_dashboard  ok (6127 bytes, image/avif)
+
+Updated catalog/data/acura.json and data/acura.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  acura
+Total images attempted: 72
+Successful:             59 (81.9%)
+Failed:                 13
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 13
+
+Models with zero successful images: 0 of 6
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html; charset=utf-8)] x13 — e.g. https://www.acura.com/cars/integra

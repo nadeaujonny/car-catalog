@@ -1,0 +1,40 @@
+{
+  "brand_slug": "rolls-royce",
+  "notes": "rolls-roycemotorcars.com/en_US consumer site. Lineup is small (7 models). Black Badge variants are performance-styling versions of the parent model. Phase B (2026-05): Black Badge pages migrated from /showroom/<model>/black-badge.html to /showroom/black-badge-<model>.html (404 on old paths).",
+  "model_pages": {
+    "phantom": "https://www.rolls-roycemotorcars.com/en_US/showroom/phantom.html",
+    "ghost": "https://www.rolls-roycemotorcars.com/en_US/showroom/ghost.html",
+    "ghost-black-badge": "https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-ghost.html",
+    "spectre": "https://www.rolls-roycemotorcars.com/en_US/showroom/spectre.html",
+    "spectre-black-badge": "https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-spectre.html",
+    "cullinan": "https://www.rolls-roycemotorcars.com/en_US/showroom/cullinan.html",
+    "cullinan-black-badge": "https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-cullinan.html"
+  },
+  "slug_variants": {
+    "ghost-black-badge": [
+      "ghost-black-badge",
+      "ghost-blackbadge",
+      "ghostbb",
+      "bb-ghost",
+      "bb-ghost-sii",
+      "bbgsii"
+    ],
+    "spectre-black-badge": [
+      "spectre-black-badge",
+      "spectre-blackbadge",
+      "spectrebb",
+      "bb-spectre",
+      "bbs"
+    ],
+    "cullinan-black-badge": [
+      "cullinan-black-badge",
+      "cullinan-blackbadge",
+      "cullinanbb",
+      "bb-cullinan",
+      "bb-cullinan-s2",
+      "bb_cullinan_s2",
+      "bbcsii"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

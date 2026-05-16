@@ -1,0 +1,75 @@
+Reset 220 image entries with needs_scraping:true to their model page URLs.
+Brand: jeep
+Models in JSON: 12
+Models with page URLs: 10
+Playwright fallback: enabled
+
+Scraping 10 model pages…
+
+  fetch https://www.jeep.com/wrangler/gallery.html  …  static ok (58 raw, 54 slug-matching)
+  fetch https://www.jeep.com/wrangler/wrangler-4xe.html  …  static ok (14 raw, 0 slug-matching)
+    playwright https://www.jeep.com/wrangler/wrangler-4xe.html  …  ok but 0 candidates
+  fetch https://www.jeep.com/twelve4twelve/wrangler-moab-392.html  …  static ok (9 raw, 5 slug-matching)
+  fetch https://www.jeep.com/gladiator/gallery.html  …  static ok (58 raw, 54 slug-matching)
+  fetch https://www.jeep.com/grand-cherokee/gallery.html  …  static ok (58 raw, 54 slug-matching)
+  fetch https://www.jeep.com/2026/grand-cherokee/grand-cherokee-4xe.html  …  static ok (24 raw, 0 slug-matching)
+    playwright https://www.jeep.com/2026/grand-cherokee/grand-cherokee-4xe.html  …  ok but 0 candidates
+  fetch https://www.jeep.com/compass/gallery.html  …  static ok (58 raw, 54 slug-matching)
+  fetch https://www.jeep.com/cherokee/gallery.html  …  static ok (58 raw, 54 slug-matching)
+  fetch https://www.jeep.com/wagoneer/grand-wagoneer/gallery.html  …  static ok (58 raw, 54 slug-matching)
+  fetch https://www.jeep.com/recon.html  …  static ok (93 raw, 89 slug-matching)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          jeep
+Pages attempted:                10
+Pages failed:                   2
+  - https://www.jeep.com/wrangler/wrangler-4xe.html  (no candidates after static + playwright)
+  - https://www.jeep.com/2026/grand-cherokee/grand-cherokee-4xe.html  (no candidates after static + playwright)
+Pages escalated to Playwright:  2 of 10
+  Playwright successes:         0
+  Playwright failures:          2
+Image entries rewritten:        137
+  via text/URL pattern match:   137
+  via brand-specific angle:     0
+  via positional fallback:      0
+Brand-specific angle matches:   0
+Resolution upgrades:            137 URLs preferred larger variants
+Image entries unchanged:        83
+
+Sample rewrites:
+  [9.5] wrangler/sport/front_three_quarter
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-exterior-image-2-desktop-v1.jpg.image.1440.jpg
+  [17.5] wrangler/sport/rear_three_quarter
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-exterior-image-7-desktop-v1.jpg.image.1440.jpg
+  [10.4] wrangler/sport/interior_dashboard
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-interior-image-1-desktop.jpg.image.2880.jpg
+  [9.5] wrangler/sport-s/front_three_quarter
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-exterior-image-2-desktop-v1.jpg.image.1440.jpg
+  [17.5] wrangler/sport-s/rear_three_quarter
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-exterior-image-7-desktop-v1.jpg.image.1440.jpg
+  [10.4] wrangler/sport-s/interior_dashboard
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-interior-image-1-desktop.jpg.image.2880.jpg
+  [9.5] wrangler/willys/front_three_quarter
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-exterior-image-2-desktop-v1.jpg.image.1440.jpg
+  [17.5] wrangler/willys/rear_three_quarter
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-exterior-image-7-desktop-v1.jpg.image.1440.jpg
+  [10.4] wrangler/willys/interior_dashboard
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-interior-image-1-desktop.jpg.image.2880.jpg
+  [9.5] wrangler/sahara/front_three_quarter
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-exterior-image-2-desktop-v1.jpg.image.1440.jpg
+  [17.5] wrangler/sahara/rear_three_quarter
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-exterior-image-7-desktop-v1.jpg.image.1440.jpg
+  [10.4] wrangler/sahara/interior_dashboard
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-interior-image-1-desktop.jpg.image.2880.jpg
+
+Models with unresolved angles:
+  wrangler: 6 entries  (e.g. sport/side_profile, sport-s/side_profile, willys/side_profile)
+  wrangler-4xe: 20 entries  (e.g. sport-s-4xe/front_three_quarter, sport-s-4xe/rear_three_quarter, sport-s-4xe/side_profile)
+  wrangler-moab-392: 4 entries  (e.g. moab-392/front_three_quarter, moab-392/rear_three_quarter, moab-392/side_profile)
+  grand-cherokee: 16 entries  (e.g. laredo/rear_three_quarter, laredo/interior_dashboard, laredo-x/rear_three_quarter)
+  grand-cherokee-l: 16 entries  (e.g. laredo/rear_three_quarter, laredo/interior_dashboard, laredo-x/rear_three_quarter)
+  grand-cherokee-4xe: 12 entries  (e.g. limited-4xe/front_three_quarter, limited-4xe/rear_three_quarter, limited-4xe/side_profile)
+  compass: 5 entries  (e.g. latitude/side_profile, latitude-altitude/side_profile, limited/side_profile)
+  cherokee: 4 entries  (e.g. cherokee/interior_dashboard, laredo/interior_dashboard, limited/interior_dashboard)

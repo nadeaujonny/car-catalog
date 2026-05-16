@@ -1,0 +1,60 @@
+Reset 72 image entries with needs_scraping:true to their model page URLs.
+Brand: acura
+Models in JSON: 6
+Models with page URLs: 4
+Playwright fallback: enabled
+
+Scraping 4 model pages…
+
+  fetch https://www.acura.com/cars/integra  …  static ok (965 raw, 868 slug-matching)
+  fetch https://www.acura.com/suvs/adx  …  static ok (775 raw, 706 slug-matching)
+  fetch https://www.acura.com/suvs/rdx  …  static ok (706 raw, 591 slug-matching)
+  fetch https://www.acura.com/suvs/mdx  …  static ok (850 raw, 718 slug-matching)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          acura
+Pages attempted:                4
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 4
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        59
+  via text/URL pattern match:   59
+  via brand-specific angle:     0
+  via positional fallback:      0
+Brand-specific angle matches:   0
+Resolution upgrades:            33 URLs preferred larger variants
+Image entries unchanged:        13
+
+Sample rewrites:
+  [13.5] integra/integra/front_three_quarter
+        → https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Exterior/Detail/01-acura-2026-Integra-gallery-exterior-detail.jpg?mw=320&hash=1828166E6F94949110DC7FEEFCED5709
+  [13.5] integra/integra/rear_three_quarter
+        → https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Exterior/Detail/02-acura-2026-Integra-gallery-exterior-detail.jpg?mw=320&hash=5DD4E9BEB3C164C94CD91089213E231A
+  [5.5] integra/integra/side_profile
+        → https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Interior/Detail/09-acura-2026-Integra-gallery-interior-detail.jpg?mw=320&hash=9AAC233BFE6268481F7E035894E6D7B1
+  [32.5] integra/integra/interior_dashboard
+        → https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/overview-page/mini-gallery/Type-S/2026-Acura-Integra-overview-mini-gallery-thumb02.jpg?mw=604&hash=BE205DABED0307550A173B6ACD241B87
+  [13.5] integra/a-spec/front_three_quarter
+        → https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Exterior/Detail/01-acura-2026-Integra-gallery-exterior-detail.jpg?mw=320&hash=1828166E6F94949110DC7FEEFCED5709
+  [13.5] integra/a-spec/rear_three_quarter
+        → https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Exterior/Detail/02-acura-2026-Integra-gallery-exterior-detail.jpg?mw=320&hash=5DD4E9BEB3C164C94CD91089213E231A
+  [5.5] integra/a-spec/side_profile
+        → https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Interior/Detail/09-acura-2026-Integra-gallery-interior-detail.jpg?mw=320&hash=9AAC233BFE6268481F7E035894E6D7B1
+  [32.5] integra/a-spec/interior_dashboard
+        → https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/overview-page/mini-gallery/Type-S/2026-Acura-Integra-overview-mini-gallery-thumb02.jpg?mw=604&hash=BE205DABED0307550A173B6ACD241B87
+  [13.5] integra/a-spec-technology/front_three_quarter
+        → https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Exterior/Detail/01-acura-2026-Integra-gallery-exterior-detail.jpg?mw=320&hash=1828166E6F94949110DC7FEEFCED5709
+  [13.5] integra/a-spec-technology/rear_three_quarter
+        → https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Exterior/Detail/02-acura-2026-Integra-gallery-exterior-detail.jpg?mw=320&hash=5DD4E9BEB3C164C94CD91089213E231A
+  [5.5] integra/a-spec-technology/side_profile
+        → https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Interior/Detail/09-acura-2026-Integra-gallery-interior-detail.jpg?mw=320&hash=9AAC233BFE6268481F7E035894E6D7B1
+  [32.5] integra/a-spec-technology/interior_dashboard
+        → https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/overview-page/mini-gallery/Type-S/2026-Acura-Integra-overview-mini-gallery-thumb02.jpg?mw=604&hash=BE205DABED0307550A173B6ACD241B87
+
+Models with unresolved angles:
+  integra-type-s: 2 entries  (e.g. type-s/front_three_quarter, type-s/side_profile)
+  rdx: 10 entries  (e.g. sh-awd/rear_three_quarter, sh-awd/side_profile, sh-awd-technology/rear_three_quarter)
+  mdx-type-s: 1 entries  (e.g. type-s-advance/rear_three_quarter)

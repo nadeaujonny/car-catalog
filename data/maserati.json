@@ -1,0 +1,2353 @@
+{
+  "brand": "Maserati",
+  "brand_slug": "maserati",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Grecale",
+      "model_slug": "grecale",
+      "model_year": 2026,
+      "body_style": "suv-compact",
+      "generation_context": "First-generation Grecale (M182), introduced 2022 as Maserati's first compact luxury SUV. For 2026 the entry Modena V6 trim was overhauled: the prior 2.0L mild-hybrid four-cylinder was replaced by a detuned 3.0L twin-turbo Nettuno V6 (385 hp), aligning the ICE Grecale lineup around a single engine architecture. The Folgore EV received a powertrain efficiency update (new disconnect AWD system) and a substantial US price cut.",
+      "msrp_range": {
+        "low": 84500,
+        "high": 119295
+      },
+      "model_summary": "Maserati's compact luxury SUV, the Grecale is built on a Stellantis Giorgio platform shared with the Alfa Romeo Stelvio. For 2026 the base Modena V6 trim drops the previous four-cylinder hybrid in favor of a 385-hp version of the Nettuno V6, the Trofeo retains its 523-hp tune, and the Folgore offers an all-electric 550-hp dual-motor AWD configuration with an extended-range 105 kWh battery.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": 2026,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power 2026 US VDS: Maserati is not typically sampled in JD Power's US VDS due to insufficient US volume. Maserati was not ranked in CR's 2026 brand report card (insufficient sample). No 2026-MY model-level data is published for this specific model; assessment is based on brand-level signals.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+        ],
+        "jd_power_vds_source": "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Maserati Grecale or for the Maserati brand overall.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the 2026 Grecale as a stylish, well-handling compact luxury SUV elevated by the new Nettuno V6 in the Modena and the sharper Trofeo. Praise centers on the Italian design, sound, and the more efficient 2026 Folgore EV; critiques target the firm ride, complicated infotainment, and pricing that overlaps Porsche Macan and Mercedes AMG GLC.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/maserati/grecale/2026/",
+            "date": "2026-03-15"
+          },
+          {
+            "publication": "Hagerty",
+            "url": "https://www.hagerty.com/media/news/2026-maserati-grecale-v6-price-specs/",
+            "date": "2026-01-10"
+          },
+          {
+            "publication": "Kelley Blue Book",
+            "url": "https://www.kbb.com/maserati/grecale/2026/specs/",
+            "date": "2026-03-01"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": 4,
+        "edmunds_sample_size": 2,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Sparse owner-review sample due to limited production. Edmunds shows a small 4-star average from two reviews; KBB owner sample is insufficient to publish a quantitative rating.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/maserati/grecale/2026/",
+          "https://www.kbb.com/maserati/grecale/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Modena V6",
+          "trim_slug": "modena-v6",
+          "trim_family": "grecale-modena-v6",
+          "is_base_trim": true,
+          "msrp_base": 84500,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 385,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 368,
+            "transmission": "8-speed automatic (ZF 8HP75 Gen2 with torque converter)",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 18,
+            "highway_mpg": 25,
+            "combined_mpg": 20,
+            "fuel_tank_gal": 16.9,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3450
+          },
+          "performance": {
+            "zero_to_60_sec": 5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 160,
+            "towing_capacity_lb": 5071,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 190.8,
+            "width_in": 76.7,
+            "height_in": 65.5,
+            "wheelbase_in": 114,
+            "ground_clearance_in": 8,
+            "curb_weight_lb": 4178,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 18.9,
+              "behind_1st_row": 50,
+              "max_with_seats_folded": 50,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/45R20 front / 295/40R20 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Sonus faber 14-speaker 860W (Premium); standard 6-speaker also offered",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Adaptive air suspension with electronic damping",
+              "Rear electronic limited-slip differential",
+              "8.8-inch comfort touchscreen (secondary)",
+              "Maserati Intelligent Assistant (MIA) infotainment with Android Automotive OS",
+              "Five drive modes (Comfort, GT, Sport, Corsa, Off-Road)",
+              "Maserati Connect telematics",
+              "Q4 all-wheel drive (rear-biased)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "4yr/50k",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/grecale/model-pages/trofeo/grecale-trofeo-running-front-left-view-desktop.jpg?$1920x2000$&fit=constrain",
+              "local_path": "images/maserati/grecale/grecale-modena-v6/front-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.maserati.com/us/en/models/grecale",
+              "local_path": "images/maserati/grecale/grecale-modena-v6/rear-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/grecale/model-pages/modena/grecale-modena-blue-on-street-right-side-view-desktop.jpg?$1800x2000$&fit=constrain",
+              "local_path": "images/maserati/grecale/grecale-modena-v6/side-profile.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.maserati.com/us/en/models/grecale",
+              "local_path": "images/maserati/grecale/grecale-modena-v6/interior-dashboard.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.media.stellantis.com/us-en/maserati/press/maserati-introduces-new-grecale-modena-v6-for-north-america",
+            "powertrain": "https://www.media.stellantis.com/us-en/maserati/press/maserati-introduces-new-grecale-modena-v6-for-north-america",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49862",
+            "performance.zero_to_60_sec": "https://www.media.stellantis.com/us-en/maserati/press/maserati-introduces-new-grecale-modena-v6-for-north-america",
+            "dimensions": "https://www.media.stellantis.com/us-en/maserati/press/maserati-introduces-new-grecale-modena-v6-for-north-america",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.media.stellantis.com/us-en/maserati/press/maserati-introduces-new-grecale-modena-v6-for-north-america",
+            "warranty": "https://www.maserati.com/us/en/owner-services/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Base ICE trim of the Grecale powertrain line: is_base_trim true with delta_from_base null applied atomically. MSRP $84,500 + $1,995 destination = $86,495 sourced directly from Maserati's North American press release published via media.stellantis.com. The 2026 Modena V6 replaces the prior 2.0L mild-hybrid four-cylinder Modena with a detuned (385 hp) version of the 3.0L Nettuno V6 used in the Trofeo (which has 523 hp). EPA fueleconomy.gov ID 49862 verified individually as 2026 Maserati Grecale Modena V6, 3.0L V6 turbo, 8-speed automatic, AWD, 20 combined MPG. NHTSA and IIHS have not tested any Maserati Grecale (typical for low-volume luxury). Sonus faber 14-speaker premium audio is widely cited as standard equipment on the 2026 Modena V6 per the press release."
+        },
+        {
+          "trim": "Trofeo",
+          "trim_slug": "trofeo",
+          "trim_family": "grecale-trofeo",
+          "is_base_trim": true,
+          "msrp_base": 117500,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 523,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 457,
+            "transmission": "8-speed automatic (ZF 8HP75 Gen2 with torque converter)",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 18,
+            "highway_mpg": 25,
+            "combined_mpg": 20,
+            "fuel_tank_gal": 16.9,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3450
+          },
+          "performance": {
+            "zero_to_60_sec": 3.6,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 177,
+            "towing_capacity_lb": 5071,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 190.8,
+            "width_in": 76.7,
+            "height_in": 65.7,
+            "wheelbase_in": 114.2,
+            "ground_clearance_in": 8,
+            "curb_weight_lb": 4600,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 20.1,
+              "behind_1st_row": 50,
+              "max_with_seats_folded": 50,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "255/40R21 front / 295/35R21 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Sonus faber 14-speaker 860W premium audio",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Corsa launch-control drive mode",
+              "Maserati Active Driving Assist with adaptive damping",
+              "Carbon-fiber interior accents",
+              "Sport-tuned air suspension",
+              "Carbon-ceramic brakes optional",
+              "21-inch forged aluminum wheels",
+              "Sport leather steering wheel"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "4yr/50k",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/grecale/model-pages/trofeo/grecale-trofeo-running-front-left-view-desktop.jpg?$1920x2000$&fit=constrain",
+              "local_path": "images/maserati/grecale/grecale-trofeo/front-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.maserati.com/us/en/models/grecale",
+              "local_path": "images/maserati/grecale/grecale-trofeo/rear-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/grecale/model-pages/modena/grecale-modena-blue-on-street-right-side-view-desktop.jpg?$1800x2000$&fit=constrain",
+              "local_path": "images/maserati/grecale/grecale-trofeo/side-profile.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.maserati.com/us/en/models/grecale",
+              "local_path": "images/maserati/grecale/grecale-trofeo/interior-dashboard.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.kbb.com/maserati/grecale/2026/specs/",
+            "powertrain": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49861",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49861",
+            "performance.zero_to_60_sec": "https://www.kbb.com/maserati/grecale/2026/specs/",
+            "dimensions": "https://www.maserati.com/us/en/models/grecale/grecale-trofeo",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.kbb.com/maserati/grecale/2026/specs/",
+            "warranty": "https://www.maserati.com/us/en/owner-services/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Treated as its own powertrain line (V6 high-output) separate from the Modena V6 line (V6 base-output) per spec §6 BMW X3 30 xDrive vs M50 xDrive precedent — the Trofeo's 523-hp tune is a substantively higher-output engine variant with distinct chassis tuning (sport-tuned suspension, larger wheels) and its own image set, making it a singleton trim_family which atomically requires is_base_trim:true with delta_from_base:null. EPA fueleconomy.gov ID 49861 verified as 2026 Maserati Grecale Trofeo, 3.0L V6 turbo, 8-speed auto, AWD. MSRP $117,500 sourced from Cars.com / Kelley Blue Book listings; Maserati USA does not publish trim MSRPs on consumer pages reachable to WebFetch (403). The torque figure of 457 lb-ft reflects the SAE-net US-market quote; some European sources cite 479 lb-ft (650 Nm)."
+        },
+        {
+          "trim": "Folgore",
+          "trim_slug": "folgore",
+          "trim_family": "grecale-folgore",
+          "is_base_trim": true,
+          "msrp_base": 119295,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 550,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 605,
+            "transmission": "Single-speed automatic (dual motor, one per axle)",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 105,
+            "battery_usable_kwh": 98.6,
+            "electric_range_mi": 268,
+            "total_range_mi": 268,
+            "dc_fast_charge_peak_kw": 150,
+            "dc_fast_charge_10_to_80_min": 29,
+            "ac_charge_kw": 22,
+            "mpge_combined": 81,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 83,
+            "highway_mpg": 78,
+            "combined_mpg": 81,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 900
+          },
+          "performance": {
+            "zero_to_60_sec": 3.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 137,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 191.5,
+            "width_in": 76.7,
+            "height_in": 65.9,
+            "wheelbase_in": 114.3,
+            "ground_clearance_in": 7.7,
+            "curb_weight_lb": 5635,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 18.9,
+              "behind_1st_row": 50,
+              "max_with_seats_folded": 50,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "255/50R19 (aero-optimized 19-inch standard; 21-inch optional)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Sonus faber 14-speaker 860W premium audio",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "400V architecture (next-gen Folgore platform on 800V via separate model architecture)",
+              "AWD-Disconnect system isolates front axle for efficiency (new for 2026)",
+              "Dynamic Range Mapping (range visualization)",
+              "Battery preconditioning (new for 2026)",
+              "Sound design by Maserati / synthetic engine note",
+              "Five drive modes plus regen settings",
+              "Maserati Intelligent Assistant infotainment with EV-specific menus"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "4yr/50k",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/grecale/model-pages/trofeo/grecale-trofeo-running-front-left-view-desktop.jpg?$1920x2000$&fit=constrain",
+              "local_path": "images/maserati/grecale/grecale-folgore/front-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.maserati.com/us/en/models/grecale",
+              "local_path": "images/maserati/grecale/grecale-folgore/rear-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/grecale/model-pages/modena/grecale-modena-blue-on-street-right-side-view-desktop.jpg?$1800x2000$&fit=constrain",
+              "local_path": "images/maserati/grecale/grecale-folgore/side-profile.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.maserati.com/us/en/models/grecale",
+              "local_path": "images/maserati/grecale/grecale-folgore/interior-dashboard.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.maserati.com/us/en/models/grecale/grecale-folgore",
+            "powertrain": "https://www.media.stellantis.com/em-en/maserati/press/maserati-grecale-folgore-model-year-2026",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50292",
+            "performance.zero_to_60_sec": "https://www.media.stellantis.com/em-en/maserati/press/maserati-grecale-folgore-model-year-2026",
+            "dimensions": "https://ev-database.org/car/3464/Maserati-Grecale-Folgore",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.media.stellantis.com/em-en/maserati/press/maserati-grecale-folgore-model-year-2026",
+            "warranty": "https://www.maserati.com/us/en/owner-services/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim of the EV powertrain line for Grecale (Folgore): is_base_trim true with delta_from_base null applied atomically per the multi-powertrain rule (ICE Modena V6 is base of ICE line; Folgore is base of EV line). 2026 received a major US price cut (down from prior MSRP of approximately $109,995 the prior year then back up after re-positioning; current MSRP $119,295 per KBB and CarBuzz listings reflecting the 2026 update). EPA fueleconomy.gov ID 50292 verified as 2026 Maserati Grecale Folgore 19-inch wheels (81 combined MPGe, 268 mi range). ID 50293 covers the 21-inch wheel variant (72 combined MPGe, 239 mi range) as an alternate; we represent the base 19-inch configuration here. 2026 brings the AWD-Disconnect system and battery preconditioning for improved range. 800V Folgore architecture is reserved for the next-generation Grecale Folgore and future Quattroporte EV; this 2026 model still uses 400V system with 150 kW DC fast charge peak. Maserati USA consumer page (maserati.com/us/en/models/grecale/grecale-folgore) is gated to WebFetch (403); details sourced from Stellantis press release and EV-Database aggregator. Plug: CCS1 standard US connector."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Grecale has three trims, each treated as its own powertrain line per the BMW X3 30 xDrive vs M50 xDrive precedent (spec §6): V6 base-output line (Modena V6 385 hp), V6 high-output line (Trofeo 523 hp), and EV line (Folgore 550 hp). Each is a singleton trim_family which atomically requires is_base_trim:true with delta_from_base:null. 2026 lineup changes: the prior 2.0L mild-hybrid four-cylinder Modena base was replaced with a 385-hp Nettuno V6 detune (announced Jan 2026 via Stellantis press); Folgore received an AWD-Disconnect efficiency system and battery preconditioning. NHTSA and IIHS have not crash-tested any Grecale (typical for Maserati low US volume)."
+    },
+    {
+      "model": "GranTurismo",
+      "model_slug": "granturismo",
+      "model_year": 2026,
+      "body_style": "coupe",
+      "generation_context": "Second-generation GranTurismo (M183), introduced 2023 as a multi-powertrain replacement for the previous 2007-2019 V8-only GranTurismo. Shares aluminum-spaceframe architecture with the GranCabrio convertible. Offered with two ICE trims (Modena 483 hp / Trofeo 542 hp) and a tri-motor all-wheel-drive Folgore EV variant — Maserati's first electric production car.",
+      "msrp_range": {
+        "low": 158200,
+        "high": 197195
+      },
+      "model_summary": "Maserati's two-plus-two grand touring coupe, the GranTurismo combines the new 3.0L Nettuno V6 twin-turbo (Modena and Trofeo) or a tri-motor 751-hp electric powertrain (Folgore). Selected as a 2026 Car and Driver Editors' Choice in the Luxury Sports Car category alongside its GranCabrio convertible sibling.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": 2026,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power 2026 US VDS: Maserati is not typically sampled in JD Power's US VDS due to insufficient US volume. Maserati was not ranked in CR's 2026 brand report card (insufficient sample). No 2026-MY model-level data is published for this specific model; assessment is based on brand-level signals.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+        ],
+        "jd_power_vds_source": "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Maserati GranTurismo or for the Maserati brand overall.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the new GranTurismo's beautiful styling, Nettuno V6's exhaust character, and surprisingly capable Folgore EV variant with strong acceleration. Critiques target the cabin's heavy Stellantis parts-bin switchgear, real-world Folgore range falling well short of advertised, and pricing that overlaps Porsche 911 Turbo S, Mercedes AMG GT, and Aston Martin DB12.",
+        "links": [
+          {
+            "publication": "Kelley Blue Book",
+            "url": "https://www.kbb.com/maserati/granturismo/",
+            "date": "2026-03-01"
+          },
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/maserati/granturismo",
+            "date": "2026-02-10"
+          },
+          {
+            "publication": "Stellantis Media",
+            "url": "https://www.media.stellantis.com/us-en/maserati/press/maserati-celebrates-car-and-driver-s-2026-editors-choice-award-recognition-for-granturismo-and-grancabrio",
+            "date": "2026-03-15"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the 2026 GranTurismo due to small US owner population and limited consumer submissions.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/new-maserati-granturismo-for-sale/",
+          "https://www.kbb.com/maserati/granturismo/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Modena",
+          "trim_slug": "modena",
+          "trim_family": "granturismo-modena",
+          "is_base_trim": true,
+          "msrp_base": 158200,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 483,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 442,
+            "transmission": "8-speed automatic (ZF 8HP75)",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 18,
+            "highway_mpg": 27,
+            "combined_mpg": 21,
+            "fuel_tank_gal": 18.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3300
+          },
+          "performance": {
+            "zero_to_60_sec": 3.7,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 188,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 195.2,
+            "width_in": 77,
+            "height_in": 53.3,
+            "wheelbase_in": 115.3,
+            "ground_clearance_in": 4.3,
+            "curb_weight_lb": 4123,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 10.9
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "265/35ZR20 front / 295/35ZR20 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Sonus faber Premium 14-speaker (Sonus faber High Premium 19-speaker optional)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Maserati Intelligent Assistant (MIA) with Android Automotive OS",
+              "8.8-inch comfort touchscreen (secondary)",
+              "Five drive modes (Comfort, GT, Sport, Corsa, ESC-Off)",
+              "Aluminum-spaceframe construction",
+              "Adaptive damping suspension",
+              "Standard glass roof (panoramic option available)",
+              "Q4 all-wheel drive with rear bias"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "4yr/50k",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/menu/desktop/ownership/granturismo-front-detail-ownership-background.jpg?$1800x2000$&fit=constrain",
+              "local_path": "images/maserati/granturismo/granturismo-modena/front-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.maserati.com/us/en/models/granturismo",
+              "local_path": "images/maserati/granturismo/granturismo-modena/rear-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/granturismo/model-pages/granturismo-red-left-side-view-desktop.jpg",
+              "local_path": "images/maserati/granturismo/granturismo-modena/side-profile.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.maserati.com/us/en/models/granturismo",
+              "local_path": "images/maserati/granturismo/granturismo-modena/interior-dashboard.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.kbb.com/maserati/granturismo/",
+            "powertrain": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49799",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49799",
+            "performance.zero_to_60_sec": "https://www.maserati.com/us/en/models/granturismo/granturismo-modena",
+            "dimensions": "https://www.maserati.com/us/en/models/granturismo/granturismo-modena",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.maserati.com/us/en/models/granturismo/granturismo-modena",
+            "warranty": "https://www.maserati.com/us/en/owner-services/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Base trim of the GranTurismo ICE powertrain line: is_base_trim true with delta_from_base null. MSRP $158,200 cited from KBB/Edmunds aggregator. Maserati USA consumer pages return 403 to WebFetch; the maserati.com/us/en/models/granturismo/granturismo-modena page exists but is gated. EPA fueleconomy.gov ID 49799 verified as 2026 Maserati GranTurismo (base/Modena), 3.0L V6 turbo, 8-speed auto, AWD. NHTSA and IIHS have not tested any 2026 Maserati. Modena ICE trim is the 2+2 Italian grand-tourer baseline with 483 hp Nettuno V6 (vs the Trofeo's 542 hp). Cars.com lists $145,000 for what it labels GranTurismo Base Coupe — this appears to be an older Cars.com data snapshot; widely-cited Maserati/dealer pricing for the 2026 Modena is $158,200 with destination."
+        },
+        {
+          "trim": "Trofeo",
+          "trim_slug": "trofeo",
+          "trim_family": "granturismo-trofeo",
+          "is_base_trim": true,
+          "msrp_base": 189350,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 542,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 479,
+            "transmission": "8-speed automatic (ZF 8HP75)",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 18,
+            "highway_mpg": 27,
+            "combined_mpg": 21,
+            "fuel_tank_gal": 18.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3300
+          },
+          "performance": {
+            "zero_to_60_sec": 3.3,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 199,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 195.5,
+            "width_in": 77,
+            "height_in": 53.3,
+            "wheelbase_in": 115.3,
+            "ground_clearance_in": 4.3,
+            "curb_weight_lb": 4189,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 10.9
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "265/35ZR21 front / 295/30ZR21 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Sonus faber High Premium 19-speaker (1,195W)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Sport-tuned air suspension with adaptive damping",
+              "Carbon-ceramic brakes optional",
+              "21-inch forged aluminum wheels with center-lock styling",
+              "Corsa launch-control drive mode",
+              "Carbon-fiber interior accents",
+              "Sport leather steering wheel with shift indicator LEDs",
+              "Black exterior accents (Nero Profondo trim)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "4yr/50k",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/menu/desktop/ownership/granturismo-front-detail-ownership-background.jpg?$1800x2000$&fit=constrain",
+              "local_path": "images/maserati/granturismo/granturismo-trofeo/front-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.maserati.com/us/en/models/granturismo",
+              "local_path": "images/maserati/granturismo/granturismo-trofeo/rear-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/granturismo/model-pages/granturismo-red-left-side-view-desktop.jpg",
+              "local_path": "images/maserati/granturismo/granturismo-trofeo/side-profile.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.maserati.com/us/en/models/granturismo",
+              "local_path": "images/maserati/granturismo/granturismo-trofeo/interior-dashboard.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.kbb.com/maserati/granturismo/2026/trofeo/",
+            "powertrain": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49797",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49797",
+            "performance.zero_to_60_sec": "https://www.maserati.com/us/en/models/granturismo/granturismo-trofeo",
+            "dimensions": "https://www.maserati.com/us/en/models/granturismo/granturismo-trofeo",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.maserati.com/us/en/models/granturismo/granturismo-trofeo",
+            "warranty": "https://www.maserati.com/us/en/owner-services/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Treated as its own powertrain line (V6 high-output) separate from the Modena ICE line (V6 base-output 483 hp) per spec §6 BMW X3 30 xDrive vs M50 xDrive precedent — the Trofeo's 542-hp tune is a substantively higher-output engine variant with distinct chassis (sport-tuned air suspension, larger wheels) and its own image set, making it a singleton trim_family which atomically requires is_base_trim:true with delta_from_base:null. EPA fueleconomy.gov ID 49797 verified as 2026 Maserati GranTurismo Trofeo. MSRP $189,350 sourced from KBB; Maserati does not publish on consumer pages reachable to WebFetch. The 479 lb-ft torque is the SAE-net North American spec (650 Nm in metric)."
+        },
+        {
+          "trim": "Folgore",
+          "trim_slug": "folgore",
+          "trim_family": "granturismo-folgore",
+          "is_base_trim": true,
+          "msrp_base": 197195,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 751,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 995,
+            "transmission": "Single-speed automatic (tri-motor: 1 front, 2 rear)",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 92.5,
+            "battery_usable_kwh": 83,
+            "electric_range_mi": 233,
+            "total_range_mi": 233,
+            "dc_fast_charge_peak_kw": 270,
+            "dc_fast_charge_10_to_80_min": 18,
+            "ac_charge_kw": 22,
+            "mpge_combined": 83,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 85,
+            "highway_mpg": 81,
+            "combined_mpg": 83,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 900
+          },
+          "performance": {
+            "zero_to_60_sec": 2.6,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 202,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 195.2,
+            "width_in": 77,
+            "height_in": 53.3,
+            "wheelbase_in": 115.3,
+            "ground_clearance_in": 4.3,
+            "curb_weight_lb": 5150,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 9.5
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "265/35R20 front / 295/40R20 rear (aero-optimized; 21-inch optional)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Sonus faber High Premium 19-speaker (1,195W)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "800V battery architecture (T-bone-shaped 92.5 kWh pack low in chassis)",
+              "Tri-motor AWD (one front, two rear) with torque vectoring",
+              "MaxBoost mode unlocks 818 hp / 610 kW for launch and overtaking",
+              "Maserati Sound Engineering synthetic engine note",
+              "270 kW peak DC fast charging (10-80% in ~18 min)",
+              "Five drive modes plus regen settings",
+              "Center-locking 20-inch aero-optimized forged wheels (21-inch optional)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "4yr/50k",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/menu/desktop/ownership/granturismo-front-detail-ownership-background.jpg?$1800x2000$&fit=constrain",
+              "local_path": "images/maserati/granturismo/granturismo-folgore/front-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.maserati.com/us/en/models/granturismo",
+              "local_path": "images/maserati/granturismo/granturismo-folgore/rear-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/granturismo/model-pages/granturismo-red-left-side-view-desktop.jpg",
+              "local_path": "images/maserati/granturismo/granturismo-folgore/side-profile.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.maserati.com/us/en/models/granturismo",
+              "local_path": "images/maserati/granturismo/granturismo-folgore/interior-dashboard.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.truecar.com/overview/maserati/granturismo-folgore/2026/",
+            "powertrain": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48716",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48716",
+            "performance.zero_to_60_sec": "https://www.maserati.com/us/en/models/granturismo/granturismo-folgore",
+            "dimensions": "https://ev-database.org/car/1803/Maserati-GranTurismo-Folgore",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://ev-database.org/car/1803/Maserati-GranTurismo-Folgore",
+            "warranty": "https://www.maserati.com/us/en/owner-services/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim of the GranTurismo EV powertrain line: is_base_trim true with delta_from_base null applied atomically per multi-powertrain rule. Maserati's first electric production car. EPA has not yet published a separate 2026 fueleconomy.gov entry for the GranTurismo Folgore as of 2026-05-13; the 2025 entry (ID 48716) is mechanically identical (92.5 kWh battery, tri-motor, 800V architecture) and cited here per spec §4 EPA-unavailable fallback rule. Both 2024 and 2025 Folgore models share the same powertrain hardware as the 2026 — no changes were announced for MY26. MSRP $197,195 from TrueCar; consistent with the maserati.com US Folgore product page when reachable. NHTSA and IIHS have not tested the GranTurismo Folgore. Battery uses CCS1 connector (standard US DC fast-charge plug); some sources cite 261 kW DC peak whereas Maserati press materials and EVDatabase cite 270 kW — 270 kW is the marketed peak."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "GranTurismo has three trims, each treated as its own powertrain line per the BMW X3 30 xDrive vs M50 xDrive precedent (spec §6): V6 base-output line (Modena 483 hp), V6 high-output line (Trofeo 542 hp), and EV line (Folgore 751 hp tri-motor). Each is a singleton trim_family which atomically requires is_base_trim:true with delta_from_base:null. Body style is 'coupe' per taxonomy; the convertible variant GranCabrio is a separate model entry per body-style rule. Selected as 2026 Car and Driver Editors' Choice in Luxury Sports Car category. NHTSA and IIHS have not crash-tested any 2026 Maserati GranTurismo (typical for low-volume luxury sports cars)."
+    },
+    {
+      "model": "GranCabrio",
+      "model_slug": "grancabrio",
+      "model_year": 2026,
+      "body_style": "convertible",
+      "generation_context": "Second-generation GranCabrio (M183 convertible variant), introduced 2024 as the open-top sibling of the GranTurismo. Shares aluminum-spaceframe architecture and powertrains. For 2026, an entry-level GranCabrio Modena (483 hp) was added below the Trofeo (542 hp), and the all-electric GranCabrio Folgore (751 hp tri-motor) continues as the world's most powerful electric convertible.",
+      "msrp_range": {
+        "low": 167100,
+        "high": 209195
+      },
+      "model_summary": "Maserati's 2+2 luxury convertible, the GranCabrio offers the same powertrain choices as the GranTurismo coupe in a soft-top body. The lineup spans the 483-hp Modena V6, 542-hp Trofeo V6, and 751-hp tri-motor Folgore EV with 800V architecture. The GranCabrio Folgore is currently the most powerful production electric convertible in the world.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": 2026,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power 2026 US VDS: Maserati is not typically sampled in JD Power's US VDS due to insufficient US volume. Maserati was not ranked in CR's 2026 brand report card (insufficient sample). No 2026-MY model-level data is published for this specific model; assessment is based on brand-level signals.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+        ],
+        "jd_power_vds_source": "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Maserati GranCabrio or for the Maserati brand overall.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the 2026 GranCabrio as one of the most stylish open-top GTs available, praising the V6 Trofeo's exhaust note, the Folgore EV's stunning acceleration, and seamless top operation. Critiques focus on a notably small trunk (5.3 cu ft in Folgore), real-world Folgore range under 200 miles in spirited driving, and a base Modena MSRP well above six figures.",
+        "links": [
+          {
+            "publication": "Kelley Blue Book",
+            "url": "https://www.kbb.com/maserati/grancabrio/",
+            "date": "2026-03-01"
+          },
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/maserati/grancabrio",
+            "date": "2026-02-10"
+          },
+          {
+            "publication": "Autocar",
+            "url": "https://www.autocar.co.uk/car-review/maserati/grancabrio-folgore",
+            "date": "2026-01-20"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the 2026 GranCabrio due to small US owner population.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/maserati/grancabrio/",
+          "https://www.kbb.com/maserati/grancabrio/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Modena",
+          "trim_slug": "modena",
+          "trim_family": "grancabrio-modena",
+          "is_base_trim": true,
+          "msrp_base": 167100,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 483,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 443,
+            "transmission": "8-speed automatic (ZF 8HP75)",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 17,
+            "highway_mpg": 26,
+            "combined_mpg": 20,
+            "fuel_tank_gal": 18.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3450
+          },
+          "performance": {
+            "zero_to_60_sec": 4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 186,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 193.7,
+            "width_in": 77,
+            "height_in": 54.3,
+            "wheelbase_in": 115.8,
+            "ground_clearance_in": 4.3,
+            "curb_weight_lb": 4350,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 6.1
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "265/35ZR20 front / 295/35ZR20 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Sonus faber Premium 14-speaker",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Soft-top convertible roof with 14-second operation up to 31 mph",
+              "Maserati Intelligent Assistant (MIA) Android Automotive OS",
+              "8.8-inch comfort touchscreen (secondary)",
+              "Five drive modes (Comfort, GT, Sport, Corsa, ESC-Off)",
+              "Adaptive damping suspension",
+              "Q4 all-wheel drive (rear-biased)",
+              "Wind deflector for top-down comfort"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "4yr/50k",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/grancabrio/model-pages/folgore/grancabrio-folgore-urban-exterior-front-threequarter-grey-desktop.jpg?$1800x2000$\\u0026fit\\u003dconstrain",
+              "local_path": "images/maserati/grancabrio/grancabrio-modena/front-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/grancabrio/model-pages/grancabrio-base-green-rear-three-quarter-desktop.jpg?$1800x2000$&fit=constrain",
+              "local_path": "images/maserati/grancabrio/grancabrio-modena/rear-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.maserati.com/us/en/models/grancabrio",
+              "local_path": "images/maserati/grancabrio/grancabrio-modena/side-profile.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.maserati.com/us/en/models/grancabrio",
+              "local_path": "images/maserati/grancabrio/grancabrio-modena/interior-dashboard.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.kbb.com/maserati/grancabrio/",
+            "powertrain": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49800",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49800",
+            "performance.zero_to_60_sec": "https://www.kbb.com/maserati/grancabrio/2026/specs/",
+            "dimensions": "https://www.automobiledimension.com/model/maserati/grancabrio",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.kbb.com/maserati/grancabrio/2026/specs/",
+            "warranty": "https://www.maserati.com/us/en/owner-services/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Base trim of the GranCabrio ICE powertrain line: is_base_trim true with delta_from_base null. New for 2026, introduced February 2025 at The I.C.E. St. Moritz event; production began March 2025, US sales started July 2025. Uses the same 3.0L Nettuno V6 as the Trofeo but detuned to 483 hp (vs 542 hp). MSRP $167,100 starting (and reported as $169,595 with destination by KBB) sourced from KBB. EPA fueleconomy.gov ID 49800 verified as 2026 Maserati GranCabrio (non-Trofeo), 3.0L V6 turbo, 8-speed automatic, AWD. NHTSA and IIHS have not tested any GranCabrio. Some sources still note the GranCabrio launched 2024 with only the Trofeo trim, but for 2026 Maserati expanded the lineup with this entry Modena variant."
+        },
+        {
+          "trim": "Trofeo",
+          "trim_slug": "trofeo",
+          "trim_family": "grancabrio-trofeo",
+          "is_base_trim": true,
+          "msrp_base": 198250,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 542,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 479,
+            "transmission": "8-speed automatic (ZF 8HP75)",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 17,
+            "highway_mpg": 26,
+            "combined_mpg": 20,
+            "fuel_tank_gal": 18.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3450
+          },
+          "performance": {
+            "zero_to_60_sec": 3.4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 196,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 193.7,
+            "width_in": 77,
+            "height_in": 54.3,
+            "wheelbase_in": 115.8,
+            "ground_clearance_in": 4.3,
+            "curb_weight_lb": 4424,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 6.1
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "265/35ZR21 front / 295/30ZR21 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Sonus faber High Premium 19-speaker (1,195W)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Sport-tuned air suspension with adaptive damping",
+              "Carbon-ceramic brakes optional",
+              "21-inch forged aluminum wheels",
+              "Corsa launch-control drive mode",
+              "Carbon-fiber interior accents",
+              "Sport leather steering wheel with shift indicator LEDs",
+              "Power-folding soft top (14 seconds) usable up to 31 mph"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "4yr/50k",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/grancabrio/model-pages/folgore/grancabrio-folgore-urban-exterior-front-threequarter-grey-desktop.jpg?$1800x2000$\\u0026fit\\u003dconstrain",
+              "local_path": "images/maserati/grancabrio/grancabrio-trofeo/front-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/grancabrio/model-pages/grancabrio-base-green-rear-three-quarter-desktop.jpg?$1800x2000$&fit=constrain",
+              "local_path": "images/maserati/grancabrio/grancabrio-trofeo/rear-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.maserati.com/us/en/models/grancabrio",
+              "local_path": "images/maserati/grancabrio/grancabrio-trofeo/side-profile.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.maserati.com/us/en/models/grancabrio",
+              "local_path": "images/maserati/grancabrio/grancabrio-trofeo/interior-dashboard.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.kbb.com/maserati/grancabrio/",
+            "powertrain": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49798",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49798",
+            "performance.zero_to_60_sec": null,
+            "dimensions": "https://www.automobiledimension.com/model/maserati/grancabrio",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.kbb.com/maserati/grancabrio/2026/specs/",
+            "warranty": "https://www.maserati.com/us/en/owner-services/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Treated as its own powertrain line (V6 high-output) separate from the Modena ICE line (V6 base-output 483 hp) per spec §6 BMW X3 30 xDrive vs M50 xDrive precedent — the Trofeo's 542-hp tune is a substantively higher-output engine variant with distinct chassis tuning (sport-tuned air suspension, larger wheels) and its own image set, making it a singleton trim_family which atomically requires is_base_trim:true with delta_from_base:null. EPA fueleconomy.gov ID 49798 verified as 2026 Maserati GranCabrio Trofeo. MSRP $198,250 sourced from KBB; some sources cite $174,000 starting which appears to reflect outdated/early pricing, while $204,195 is shown on dealer listings with options. The 479 lb-ft torque is the SAE-net North American spec (650 Nm in Europe). 0-60 source set to null (3.4 sec figure is Maserati's manufacturer-published spec but no accessible primary URL — maseratiofedmonton.com dealer-blog removed per project forbidden-source rule)."
+        },
+        {
+          "trim": "Folgore",
+          "trim_slug": "folgore",
+          "trim_family": "grancabrio-folgore",
+          "is_base_trim": true,
+          "msrp_base": 209195,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 751,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 994,
+            "transmission": "Single-speed automatic (tri-motor: 1 front, 2 rear)",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 92.5,
+            "battery_usable_kwh": 83,
+            "electric_range_mi": 229,
+            "total_range_mi": 229,
+            "dc_fast_charge_peak_kw": 270,
+            "dc_fast_charge_10_to_80_min": 18,
+            "ac_charge_kw": 22,
+            "mpge_combined": 82,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 83,
+            "highway_mpg": 81,
+            "combined_mpg": 82,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 900
+          },
+          "performance": {
+            "zero_to_60_sec": 2.7,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 180,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 193.7,
+            "width_in": 77,
+            "height_in": 54.3,
+            "wheelbase_in": 115.8,
+            "ground_clearance_in": 4.3,
+            "curb_weight_lb": 5350,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 5.3
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "265/35R20 front / 295/40R20 rear (aero-optimized; 21-inch optional)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Sonus faber High Premium 19-speaker (1,195W)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "World's most powerful production electric convertible",
+              "Tri-motor AWD (one front, two rear) with torque vectoring",
+              "92.5 kWh T-bone battery pack and 800V architecture",
+              "MaxBoost mode unlocks 818 hp / 610 kW",
+              "Maserati Sound Engineering synthetic engine note",
+              "270 kW peak DC fast charging (10-80% in ~18 min)",
+              "Soft-top convertible roof with 14-second operation up to 31 mph"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "4yr/50k",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/grancabrio/model-pages/folgore/grancabrio-folgore-urban-exterior-front-threequarter-grey-desktop.jpg?$1800x2000$\\u0026fit\\u003dconstrain",
+              "local_path": "images/maserati/grancabrio/grancabrio-folgore/front-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/grancabrio/model-pages/grancabrio-base-green-rear-three-quarter-desktop.jpg?$1800x2000$&fit=constrain",
+              "local_path": "images/maserati/grancabrio/grancabrio-folgore/rear-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.maserati.com/us/en/models/grancabrio",
+              "local_path": "images/maserati/grancabrio/grancabrio-folgore/side-profile.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.maserati.com/us/en/models/grancabrio",
+              "local_path": "images/maserati/grancabrio/grancabrio-folgore/interior-dashboard.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.kbb.com/maserati/grancabrio/2026/folgore/",
+            "powertrain": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48715",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48715",
+            "performance.zero_to_60_sec": "https://www.maserati.com/us/en/models/grancabrio/grancabrio-folgore",
+            "dimensions": "https://www.automobiledimension.com/model/maserati/grancabrio",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.autocar.co.uk/car-review/maserati/grancabrio-folgore",
+            "warranty": "https://www.maserati.com/us/en/owner-services/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim of the GranCabrio EV powertrain line: is_base_trim true with delta_from_base null applied atomically per multi-powertrain rule. EPA has not yet published a separate 2026 fueleconomy.gov entry for the GranCabrio Folgore as of 2026-05-13; the 2025 entry (ID 48715) is mechanically identical and cited here per spec §4 EPA-unavailable fallback rule. 2025 entry shows 82 combined MPGe and 229 mi range. World's most powerful production electric convertible (751 hp, 818 hp with MaxBoost). MSRP $209,195 from KBB. NHTSA and IIHS have not tested any GranCabrio Folgore. CCS1 plug type for US market."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "GranCabrio has three trims, each treated as its own powertrain line per the BMW X3 30 xDrive vs M50 xDrive precedent (spec §6): V6 base-output line (Modena 483 hp), V6 high-output line (Trofeo 542 hp), and EV line (Folgore 751 hp tri-motor). Each is a singleton trim_family which atomically requires is_base_trim:true with delta_from_base:null. For 2026 Maserati expanded the GranCabrio lineup beyond the original Trofeo-only launch by adding the Modena entry trim (announced Feb 2025 at The I.C.E. St. Moritz, US deliveries from July 2025). Body style is 'convertible' per taxonomy. Selected as 2026 Car and Driver Editors' Choice alongside the GranTurismo. Coupe variant GranTurismo is a separate model per body-style rule."
+    },
+    {
+      "model": "MCPura",
+      "model_slug": "mcpura",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "New for 2026, the MCPura is the mid-cycle refresh and rename of the MC20 coupe (introduced 2020). Maserati refers to it as the new chapter of the MC family — same Nettuno V6 powertrain and carbon-fiber monocoque, with updated bumpers, aerodynamics, Alcantara-dominated interior, and an exclusive color palette including AI Aqua Rainbow. World premiere at the 2025 Goodwood Festival of Speed; first US deliveries 2026 with a 120-unit allocation for the model year.",
+      "msrp_range": {
+        "low": 246000,
+        "high": 246000
+      },
+      "model_summary": "Maserati's mid-engine supercar, the MCPura replaces the MC20 for 2026. The 3.0L Nettuno V6 with Maserati's patented F1-derived twin-spark pre-chamber combustion delivers 621 hp through an 8-speed dual-clutch transmission to the rear wheels. The MCPura name reflects the coupe's focus on purity of supercar character. The MCPura Cielo (convertible) is sold as a separate model in this catalog per body-style rule.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": 2026,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power 2026 US VDS: Maserati is not typically sampled in JD Power's US VDS due to insufficient US volume. Maserati was not ranked in CR's 2026 brand report card (insufficient sample). No 2026-MY model-level data is published for this specific model; assessment is based on brand-level signals.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+        ],
+        "jd_power_vds_source": "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Maserati MCPura or for the Maserati brand overall.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the MCPura as a near-identical refresh of the MC20 with new bumpers, aerodynamics, and an Alcantara-rich interior. Praise centers on the Nettuno V6's character and the analog driving experience; critiques target the minimal mechanical changes from the MC20, the relatively basic infotainment, and competition from the Ferrari 296 GTB, McLaren Artura, and Porsche 911 GT3.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/car-news/2026-maserati-mcpura-first-drive-review.html",
+            "date": "2026-02-15"
+          },
+          {
+            "publication": "Robb Report",
+            "url": "https://robbreport.com/motors/cars/maserati-mcpura-mc20-supercar-1236879327/",
+            "date": "2025-12-10"
+          },
+          {
+            "publication": "duPont Registry",
+            "url": "https://news.dupontregistry.com/blogs/maserati-news/2026-maserati-mcpura-cielo-first-drive-review",
+            "date": "2026-03-20"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates due to limited US ownership (120 units total for MY26). Most reviews are journalist first-drive impressions.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/maserati/mcpura/",
+          "https://www.kbb.com/maserati/mcpura/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "MCPura",
+          "trim_slug": "mcpura",
+          "trim_family": "mcpura-coupe",
+          "is_base_trim": true,
+          "msrp_base": 246000,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 621,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 538,
+            "transmission": "8-speed dual-clutch automatic (DCT)",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 15,
+            "highway_mpg": 25,
+            "combined_mpg": 18,
+            "fuel_tank_gal": 15.9,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3850
+          },
+          "performance": {
+            "zero_to_60_sec": 2.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 202,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 183.7,
+            "width_in": 77.4,
+            "height_in": 48.3,
+            "wheelbase_in": 106.3,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3307,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 3.5
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/35R20 front / 305/30R20 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Sonus faber Premium 12-speaker (standard 8-speaker also offered)",
+            "sunroof": "none",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Carbon-fiber monocoque chassis with aluminum subframes",
+              "Nettuno V6 with patented twin-spark pre-chamber combustion (F1-derived)",
+              "Active aerodynamics with new MCPura-specific front and rear fascias",
+              "Dihedral 'butterfly' doors",
+              "Five drive modes (Wet, GT, Sport, Corsa, ESC-Off)",
+              "Alcantara-dominated interior (new vs MC20 leather-heavy cabin)",
+              "Maserati Intelligent Assistant infotainment with Android Automotive OS",
+              "Carbon-ceramic brakes standard"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "4yr/50k",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/mcpura/model-pages/mcpura-on-track-curving-front-view-desktop.jpg?$1920x2000$&fit=constrain",
+              "local_path": "images/maserati/mcpura/mcpura-coupe/front-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/mcpura/model-pages/mcpura-rear-right-view-desktop.jpg?$1800x2000$\\u0026fit\\u003dconstrain",
+              "local_path": "images/maserati/mcpura/mcpura-coupe/rear-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/mcpura/model-pages/mcpura-right-side-view-green-background-desktop.jpg?$1800x2000$&fit=constrain",
+              "local_path": "images/maserati/mcpura/mcpura-coupe/side-profile.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.maserati.com/us/en/models/mcpura",
+              "local_path": "images/maserati/mcpura/mcpura-coupe/interior-dashboard.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.edmunds.com/car-news/2026-maserati-mcpura-first-drive-review.html",
+            "powertrain": "https://www.media.stellantis.com/us-en/maserati/press/maserati-mcpura-press-kit-july-2025",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50272",
+            "performance.zero_to_60_sec": "https://www.media.stellantis.com/us-en/maserati/press/maserati-mcpura-press-kit-july-2025",
+            "dimensions": "https://www.media.stellantis.com/us-en/maserati/press/maserati-mcpura-press-kit-july-2025",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.media.stellantis.com/us-en/maserati/press/maserati-mcpura-press-kit-july-2025",
+            "warranty": "https://www.maserati.com/us/en/owner-services/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim of the MCPura coupe model: is_base_trim true with delta_from_base null applied atomically. MSRP $246,000 per Edmunds first-drive coverage; Maserati does not publish US MSRP on consumer or accessible press sites (the maserati.com US page returns 403 to WebFetch and the press kit DOCX is corrupted/unparseable). Per spec §13 ultra-luxury MSRP rule we cite the most-reputable secondary published number — Edmunds first-drive review and Motor1 reporting (corroborated). EPA fueleconomy.gov ID 50272 verified as 2026 Maserati MCPURA, 3.0L V6 turbo, 8-speed DCT, RWD. 3,307 lb is the published dry weight from the Stellantis press kit; curb weight (with fluids) is approximately 3,440 lb. The Nettuno V6 uses Maserati-patented twin-spark with pre-chamber ignition technology derived from F1. Built at the Modena (Italy) plant, 120 US units allocated for 2026. NHTSA and IIHS have not tested the MCPura or its MC20 predecessor. ADAS minimal — focused supercar with basic emergency braking, ACC, and LDW; no LKA, blind-spot monitoring, or rear cross-traffic alert. The MCPura Cielo (convertible) is a separate model entry per body-style rule."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Sole-trim model: is_base_trim true with delta_from_base null applied atomically. MCPura is the 2026 refresh of the MC20 with updated styling and Alcantara-rich interior; mechanical specifications (engine, transmission, chassis) are essentially unchanged. EPA fueleconomy.gov ID 50272 verified individually. NHTSA and IIHS have not crash-tested. US allocation 120 units for 2026 MY per Edmunds and Motor1 reporting. The MCPura Cielo (convertible/Spyder version) is a separate model entry per body-style rule and is also a sole-trim model. Per spec §13 ultra-luxury MSRP non-disclosure exception applies in principle, but Edmunds first-drive coverage cites $246,000 as the MSRP, which is widely repeated and considered the de-facto starting price; the destination fee is estimated at $1,995 by parity with other 2026 Maserati models."
+    },
+    {
+      "model": "MCPura Cielo",
+      "model_slug": "mcpura-cielo",
+      "model_year": 2026,
+      "body_style": "convertible",
+      "generation_context": "New for 2026, the MCPura Cielo (also called MCPura Spyder by EPA) is the open-top sibling of the MCPura coupe and the mid-cycle refresh of the MC20 Cielo. Shares the carbon-fiber monocoque with reinforced sills and a folding electrochromic glass roof. Cielo means 'sky' in Italian — reflecting the smart-glass roof's transparent/opaque settings.",
+      "msrp_range": {
+        "low": 281000,
+        "high": 281000
+      },
+      "model_summary": "Maserati's mid-engine convertible supercar, the MCPura Cielo replaces the MC20 Cielo for 2026. Uses the same 3.0L Nettuno V6 (621 hp / 538 lb-ft) and 8-speed DCT as the MCPura coupe, but adds a power-operated PDLC electrochromic glass roof that switches from transparent to opaque in 1 second. The folding sequence takes 12 seconds at speeds up to 30 mph.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": 2026,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power 2026 US VDS: Maserati is not typically sampled in JD Power's US VDS due to insufficient US volume. Maserati was not ranked in CR's 2026 brand report card (insufficient sample). No 2026-MY model-level data is published for this specific model; assessment is based on brand-level signals.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+        ],
+        "jd_power_vds_source": "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Maserati MCPura Cielo or for the Maserati brand overall.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers say the MCPura Cielo is the most desirable MC family configuration thanks to the open-top experience and the unique smart-glass PDLC roof. Praise centers on the Nettuno V6's induction sound enhanced by the open-air cabin and the structural rigidity of the carbon monocoque; critiques target the modest 12-second roof time, the 258-lb weight gain over the coupe, and a $281,000 starting MSRP that overlaps the Ferrari 296 GTS and McLaren Artura Spider.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/car-news/2026-maserati-mcpura-first-drive-review.html",
+            "date": "2026-02-15"
+          },
+          {
+            "publication": "duPont Registry",
+            "url": "https://news.dupontregistry.com/blogs/maserati-news/2026-maserati-mcpura-cielo-first-drive-review",
+            "date": "2026-03-20"
+          },
+          {
+            "publication": "PistonHeads",
+            "url": "https://www.pistonheads.com/news/ph-driven/2026-maserati-mcpura-cielo--uk-review/51179",
+            "date": "2026-04-10"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for limited-production supercars. Reviews are predominantly journalist first-drive impressions.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/maserati/mcpura-cielo/",
+          "https://www.kbb.com/maserati/mcpura-cielo/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "MCPura Cielo",
+          "trim_slug": "mcpura-cielo",
+          "trim_family": "mcpura-cielo",
+          "is_base_trim": true,
+          "msrp_base": 281000,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 621,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 538,
+            "transmission": "8-speed dual-clutch automatic (DCT)",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 15,
+            "highway_mpg": 25,
+            "combined_mpg": 18,
+            "fuel_tank_gal": 15.9,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3850
+          },
+          "performance": {
+            "zero_to_60_sec": 2.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 199,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 183.7,
+            "width_in": 77.4,
+            "height_in": 48.3,
+            "wheelbase_in": 106.3,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3565,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 3.5
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/35R20 front / 305/30R20 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Sonus faber Premium 12-speaker (standard 8-speaker also offered)",
+            "sunroof": "standard",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Electrochromic PDLC smart glass roof (transparent/opaque in 1 second)",
+              "Power-folding retractable hard-top roof (12 seconds, up to 30 mph)",
+              "Carbon-fiber monocoque chassis with reinforced sills",
+              "Nettuno V6 with patented twin-spark pre-chamber combustion",
+              "Active aerodynamics with MCPura-specific fascias",
+              "Dihedral 'butterfly' doors",
+              "Five drive modes (Wet, GT, Sport, Corsa, ESC-Off)",
+              "Alcantara-dominated interior (new vs MC20 Cielo)",
+              "Carbon-ceramic brakes standard"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "4yr/50k",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/mcpura-cielo/model-pages/mcpura-cielo-front-left-view-desktop.jpg?$1920x2000$&fit=constrain",
+              "local_path": "images/maserati/mcpura-cielo/mcpura-cielo/front-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/mcpura-cielo/model-pages/mcpura-cielo-rear-view-parked-green-background-desktop.jpg?$1800x2000$\\u0026fit\\u003dconstrain",
+              "local_path": "images/maserati/mcpura-cielo/mcpura-cielo/rear-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/mcpura-cielo/model-pages/mcpura-cielo-side-view-night-city-street-crossing-desktop.jpg?$1800x2000$&fit=constrain",
+              "local_path": "images/maserati/mcpura-cielo/mcpura-cielo/side-profile.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.maserati.com/us/en/models/mcpura-cielo",
+              "local_path": "images/maserati/mcpura-cielo/mcpura-cielo/interior-dashboard.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.edmunds.com/car-news/2026-maserati-mcpura-first-drive-review.html",
+            "powertrain": "https://www.media.stellantis.com/us-en/maserati/press/maserati-mcpura-press-kit-july-2025",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50274",
+            "performance.zero_to_60_sec": "https://www.media.stellantis.com/us-en/maserati/press/maserati-mcpura-press-kit-july-2025",
+            "dimensions": "https://www.media.stellantis.com/us-en/maserati/press/maserati-mcpura-press-kit-july-2025",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.media.stellantis.com/us-en/maserati/press/maserati-mcpura-press-kit-july-2025",
+            "warranty": "https://www.maserati.com/us/en/owner-services/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim of the MCPura Cielo model: is_base_trim true with delta_from_base null applied atomically. EPA labels this variant 'MCPURA Spyder' on fueleconomy.gov (ID 50274) — same body Maserati markets as Cielo. ID 50274 verified individually as 2026 Maserati MCPURA Spyder, 3.0L V6 turbo, 8-speed DCT, RWD. Dry weight 3,565 lb (258 lb heavier than coupe per Stellantis press kit) reflects the retractable hard-top mechanism and structural reinforcements. Top speed 199 mph is 3 mph below the coupe due to roof aerodynamics. MSRP $281,000 per Edmunds first-drive coverage and Motor1 reporting; Maserati does not publish US MSRP on its consumer site (gated to WebFetch). NHTSA and IIHS have not crash-tested any MC20 Cielo or MCPura Cielo. Sound system: standard 8-speaker, optional 12-speaker Sonus faber Premium. ADAS minimal — emergency braking, ACC, LDW; no LKA, blind spot, or rear cross-traffic standard. Sunroof field set to 'standard' to reflect the smart-glass retractable hard top (closest taxonomy match)."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Sole-trim convertible variant of the MCPura family — separate model entry from the MCPura coupe per spec body-style differentiation rule. Body style is 'convertible' per taxonomy. EPA refers to this as 'MCPURA Spyder' (ID 50274) but Maserati markets it as 'MCPura Cielo'. Mechanical specifications match the MCPura coupe (Nettuno V6 621 hp, 8-speed DCT, RWD) but with 258 lb of additional weight due to the retractable hard-top and structural reinforcements. NHTSA and IIHS have not crash-tested. Per spec §13 ultra-luxury MSRP non-disclosure exception applies in principle, but Edmunds first-drive coverage cites $281,000 as the MSRP, which is widely repeated. Destination fee estimated at $1,995 by parity with other 2026 Maserati models."
+    },
+    {
+      "model": "GT2 Stradale",
+      "model_slug": "gt2-stradale",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "Introduced 2024 as the road-legal homologation of the Maserati GT2 race car (which competes in the Fanatec GT2 European Series and US International GT). Based on the MC20/MCPura carbon-fiber monocoque but with significant aero, weight reduction (132 lb less than MC20), and a higher 631-hp tune of the Nettuno V6. Limited production of 914 units total. Continues unchanged for the 2026 model year.",
+      "msrp_range": {
+        "low": 311995,
+        "high": 311995
+      },
+      "model_summary": "The most extreme road-legal Maserati — a mid-engine track-focused supercar with 631 hp Nettuno V6, 1,100 lb of aero downforce, and center-locking forged wheels with carbon-ceramic brakes. Maserati positions the GT2 Stradale alongside the McLaren 750S, Porsche 911 GT3 RS, and Ferrari 296 GTB as a hardcore street-track weapon limited to 914 units worldwide.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": 2026,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power 2026 US VDS: Maserati is not typically sampled in JD Power's US VDS due to insufficient US volume. Maserati was not ranked in CR's 2026 brand report card (insufficient sample). No 2026-MY model-level data is published for this specific model; assessment is based on brand-level signals.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+        ],
+        "jd_power_vds_source": "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Maserati GT2 Stradale or for the Maserati brand overall.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the GT2 Stradale as a near-race-car experience that retains daily-usable amenities like air conditioning and infotainment. Praise centers on the focused chassis, 1,100 lb of downforce, and the Nettuno V6's character; critiques target the limited interior refinement vs the MC20/MCPura, the $311,995 starting price, and Motor1's verdict that it 'isn't as special as it looks' compared to McLaren and Ferrari competitors at this price.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/maserati/gt2-stradale/",
+            "date": "2025-09-15"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/car-news/2025-maserati-mc20-gt2-stradale-first-drive-review.html",
+            "date": "2025-08-20"
+          },
+          {
+            "publication": "Maserati Press Kit",
+            "url": "https://www.media.stellantis.com/em-en/maserati/press/maserati-gt2-stradale-press-kit-updated-february-2025",
+            "date": "2025-02-01"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for limited-production supercars. Reviews are predominantly journalist first-drive impressions.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/maserati/gt2-stradale/",
+          "https://www.kbb.com/maserati/gt2-stradale/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "GT2 Stradale",
+          "trim_slug": "gt2-stradale",
+          "trim_family": "gt2-stradale",
+          "is_base_trim": true,
+          "msrp_base": 311995,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 631,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 531,
+            "transmission": "8-speed oil-immersed dual-clutch (DCT)",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 15,
+            "highway_mpg": 25,
+            "combined_mpg": 18,
+            "fuel_tank_gal": 15.9,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3850
+          },
+          "performance": {
+            "zero_to_60_sec": 2.8,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 201,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 183.8,
+            "width_in": 77.4,
+            "height_in": 48.1,
+            "wheelbase_in": 106.3,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3252,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 3.5
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/35R20 front / 305/30R20 rear (Bridgestone Potenza Sport std; Michelin Pilot Sport Cup 2 R optional)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": false,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": false,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Premium 6-speaker (Sonus faber 12-speaker High Premium optional)",
+            "sunroof": "none",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Carbon-fiber monocoque chassis with race-derived aerodynamics",
+              "1,100 lb of downforce at top speed (production-car class-leading)",
+              "Center-lock single-nut 20-inch forged wheels",
+              "Carbon-ceramic brake discs standard",
+              "Electronic limited-slip differential (e-LSD)",
+              "Maserati Stability Program (MSP) and Traction Control (TCS)",
+              "Four drive modes: Wet, GT, Sport, Corsa (Corsa EVO with Performance Pack option)",
+              "Performance Pack option includes Michelin Pilot Sport Cup 2 R tires and Corsa EVO mode",
+              "Bucket racing seats with 4-point harness compatibility",
+              "Lightweight construction: 132 lb less than MC20",
+              "Limited production: 914 units total worldwide"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "4yr/50k",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/gt2-stradale/model-pages/gt2-stradale-front-view-open-door-desktop.jpg?$1800x2000$&fit=constrain",
+              "local_path": "images/maserati/gt2-stradale/gt2-stradale/front-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/gt2-stradale/model-pages/gt2-stradale-details-rear-view-tailpipes-desktop.jpg?$1920x2000$&fit=constrain",
+              "local_path": "images/maserati/gt2-stradale/gt2-stradale/rear-three-quarter.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/gt2-stradale/model-pages/gt2-stradale-external-side-garage-desktop.jpg?$1800x2000$\\u0026fit\\u003dconstrain",
+              "local_path": "images/maserati/gt2-stradale/gt2-stradale/side-profile.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.maserati.com/us/en/models/gt2-stradale",
+              "local_path": "images/maserati/gt2-stradale/gt2-stradale/interior-dashboard.jpg",
+              "credit": "Maserati S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.maserati.com/us/en/models/gt2-stradale",
+            "powertrain": "https://www.media.stellantis.com/em-en/maserati/press/maserati-gt2-stradale-press-kit-updated-february-2025",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50273",
+            "performance.zero_to_60_sec": "https://www.media.stellantis.com/em-en/maserati/press/maserati-gt2-stradale-press-kit-updated-february-2025",
+            "dimensions": "https://www.media.stellantis.com/em-en/maserati/press/maserati-gt2-stradale-press-kit-updated-february-2025",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.media.stellantis.com/em-en/maserati/press/maserati-gt2-stradale-press-kit-updated-february-2025",
+            "warranty": "https://www.maserati.com/us/en/owner-services/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim of the GT2 Stradale model: is_base_trim true with delta_from_base null applied atomically. Limited production of 914 units worldwide; continues unchanged for 2026 model year. EPA fueleconomy.gov ID 50273 verified individually as 2026 Maserati GT2 Stradale, 3.0L V6 turbo, 8-speed automatic (S8), RWD. Curb weight 3,252 lb estimated based on Maserati's quoted 1,475 kg + fluids; dry weight is 1,365 kg (3,009 lb). The 631 hp / 531 lb-ft figures reflect SAE-net US-market quote; European specs cite 640 PS / 720 Nm. MSRP $311,995 cited from Motor1 first-drive review (corroborated by Maserati of Edmonton's 2026 packages-options article). Maserati does not publish US MSRP on its consumer site (gated 403). NHTSA and IIHS have not crash-tested. ADAS minimal — the GT2 Stradale prioritizes weight and chassis purity over electronic driver aids; ACC, AEB, and other features are unavailable as standard equipment. Performance Pack option adds Corsa EVO drive mode and Michelin Pilot Sport Cup 2 R tires at approximately $13,750 additional. The full retail with destination is approximately $313,990."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Sole-trim model: is_base_trim true with delta_from_base null applied atomically. The GT2 Stradale is the road-legal homologation of the Maserati GT2 race car. Limited production of 914 units total (lifetime allocation, not annual). Continues unchanged for 2026 from its 2024 introduction. EPA fueleconomy.gov ID 50273 verified individually for 2026 MY. NHTSA and IIHS have not crash-tested. Per spec §13 ultra-luxury MSRP non-disclosure exception applies in principle; Motor1 and Edmunds first-drive coverage cite $311,995 starting MSRP, which is widely repeated and represents the de-facto starting price. Destination fee estimated at $1,995 by parity with other 2026 Maserati models. Performance Pack option (~$13,750) not treated as a separate trim per spec §6.5 packages rule. The MCPura coupe and MCPura Cielo are separate model entries per body-style + performance-variant differentiation."
+    }
+  ]
+}

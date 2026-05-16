@@ -1,0 +1,52 @@
+{
+  "brand_slug": "tesla",
+  "notes": "Session 14: tier3_endpoints attempt Tesla configurator JSON API (typically 403'd by anti-bot — known structural ceiling); tier2_endpoints map to NetCarShow which currently has no 2026 Tesla photography (URLs redirect to brand landing — post-fetch MY check skips them). Tesla remains at structural ceiling under the §A relaxation; this config is what an operator would write when the relaxation later becomes useful (e.g., when Tesla configurator anti-bot relaxes, or when NetCarShow publishes 2026 Tesla press kits).",
+  "model_pages": {
+    "model-3": "https://www.tesla.com/model3",
+    "model-3-performance": "https://www.tesla.com/model3",
+    "model-y": "https://www.tesla.com/modely",
+    "model-y-performance": "https://www.tesla.com/modely",
+    "model-s": "https://www.tesla.com/models",
+    "model-s-plaid": "https://www.tesla.com/models",
+    "model-x": "https://www.tesla.com/modelx",
+    "model-x-plaid": "https://www.tesla.com/modelx",
+    "cybertruck": "https://www.tesla.com/cybertruck",
+    "cybertruck-cyberbeast": "https://www.tesla.com/cybertruck"
+  },
+  "slug_variants": {
+    "model-3": ["model-3", "model3", "model_3"],
+    "model-3-performance": ["model-3-performance", "model3-performance", "model3p"],
+    "model-y": ["model-y", "modely", "model_y"],
+    "model-y-performance": ["model-y-performance", "modely-performance", "modelyp"],
+    "model-s": ["model-s", "models", "model_s"],
+    "model-s-plaid": ["model-s-plaid", "models-plaid", "modelsplaid"],
+    "model-x": ["model-x", "modelx", "model_x"],
+    "model-x-plaid": ["model-x-plaid", "modelx-plaid", "modelxplaid"],
+    "cybertruck-cyberbeast": ["cybertruck-cyberbeast", "cyberbeast"]
+  },
+  "tier3_endpoints": {
+    "model-3": "https://www.tesla.com/configurator/api/v3/?model=m3",
+    "model-3-performance": "https://www.tesla.com/configurator/api/v3/?model=m3",
+    "model-y": "https://www.tesla.com/configurator/api/v3/?model=my",
+    "model-y-performance": "https://www.tesla.com/configurator/api/v3/?model=my",
+    "model-s": "https://www.tesla.com/configurator/api/v3/?model=ms",
+    "model-s-plaid": "https://www.tesla.com/configurator/api/v3/?model=ms",
+    "model-x": "https://www.tesla.com/configurator/api/v3/?model=mx",
+    "model-x-plaid": "https://www.tesla.com/configurator/api/v3/?model=mx",
+    "cybertruck": "https://www.tesla.com/configurator/api/v3/?model=ct",
+    "cybertruck-cyberbeast": "https://www.tesla.com/configurator/api/v3/?model=ct"
+  },
+  "tier2_endpoints": {
+    "model-3": ["https://www.netcarshow.com/tesla/2026-model_3/"],
+    "model-3-performance": ["https://www.netcarshow.com/tesla/2026-model_3/"],
+    "model-y": ["https://www.netcarshow.com/tesla/2026-model_y/"],
+    "model-y-performance": ["https://www.netcarshow.com/tesla/2026-model_y/"],
+    "model-s": ["https://www.netcarshow.com/tesla/2026-model_s/"],
+    "model-s-plaid": ["https://www.netcarshow.com/tesla/2026-model_s/"],
+    "model-x": ["https://www.netcarshow.com/tesla/2026-model_x/"],
+    "model-x-plaid": ["https://www.netcarshow.com/tesla/2026-model_x/"],
+    "cybertruck": ["https://www.netcarshow.com/tesla/2026-cybertruck/"],
+    "cybertruck-cyberbeast": ["https://www.netcarshow.com/tesla/2026-cybertruck/"]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb|-thb\\.jpg|ncslogo|mi\\.[0-9]+\\.svg|ex\\.[0-9]+\\.svg|mg\\.ph)"
+}

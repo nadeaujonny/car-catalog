@@ -1,0 +1,924 @@
+
+========================================
+### model: sorento
+### page:  https://www.kia.com/us/en/sorento
+### variants for this model: ["sorento"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 57
+Unique by URL: 57
+
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-seltos-mm-large-desktop-static.png
+    alt: Kia Seltos
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-seltos-mm-large-desktop-hover.png
+    alt: Kia Seltos
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sportage-mm-large-desktop-static.png
+    alt: Kia Sportage
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sportage-mm-large-desktop-hover.png
+    alt: Kia Sportage
+MATCH[sorento]: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sorento-mm-large-desktop-static.png
+    alt: Kia Sorento
+MATCH[sorento]: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sorento-mm-large-desktop-hover.png
+    alt: Kia Sorento
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-carnival-mpv-mm-large-desktop-static.png
+    alt: Kia Carnival MPV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-carnival-mpv-mm-large-desktop-hover.png
+    alt: Kia Carnival MPV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-tellurice-ice-mm-large-desktop-static.png
+    alt: Kia Telluride
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-tellurice-ice-mm-large-desktop-hover.png
+    alt: Kia Telluride
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-hev-mm-large-desktop-static.png
+    alt: Kia Niro
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-hev-mm-large-desktop-hover.png
+    alt: Kia Niro
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-hev-mm-large-desktop-static.png
+    alt: Kia Sportage Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-hev-mm-large-desktop-hover.png
+    alt: Kia Sportage Hybrid
+MATCH[sorento]: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-hev-mm-large-desktop-static.png
+    alt: Kia Sorento Hybrid
+MATCH[sorento]: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-hev-mm-large-desktop-hover.png
+    alt: Kia Sorento Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-ev-mmm-large-desktop-static.png
+    alt: Kia Niro EV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-ev-mmm-large-desktop-hover.png
+    alt: Kia Niro EV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-phev-mm-large-desktop-static.png
+    alt: Kia Sportage Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-phev-mm-large-desktop-hover.png
+    alt: Kia Sportage Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-carnival-hybrid-mm-large-desktop-static.png
+    alt: Kia Carnival MPV Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-carnival-hybrid-mm-large-desktop-hover.png
+    alt: Kia Carnival MPV Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev6-mm-large-desktop-static.png
+    alt: Kia EV6
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev6-mm-large-desktop-hover.png
+    alt: Kia EV6
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-telluride-hev-mm-large-desktop-static.png
+    alt: 2027 Telluride Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-telluride-hev-mm-large-desktop-hover.png
+    alt: 2027 Telluride Hybrid
+MATCH[sorento]: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-phev-mm-large-desktop-static.png
+    alt: Kia Sorento Plug-in Hybrid
+MATCH[sorento]: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-phev-mm-large-desktop-hover.png
+    alt: Kia Sorento Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev9-mm-large-desktop-static.png
+    alt: Kia EV9
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev9-mm-large-desktop-hover.png
+    alt: Kia EV9
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4-mm-large-desktop-static.png
+    alt: Kia K4
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4-mm-large-desktop-hover.png
+    alt: Kia K4
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4hb-mm-large-desktop-static.png
+    alt: Kia K4 Hatchback
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4hb-mm-large-desktop-hover.png
+    alt: Kia K4 Hatchback
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/kia-k5-mm-large-desktop-static.png
+    alt: Kia K5
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/kia-k5-mm-large-desktop-hover.png
+    alt: Kia K5
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-sp3-static.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-sp3-hover.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-ev3-static.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-ev3-hover.png
+    alt: 
+MATCH[sorento]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sorento/2026/mep/hero/375-hero-my26-sorento-ice.jpg
+    alt: 2026 Kia Sorento, three-quarter driver&#39;s side view, driving on a road by the lake in the mountains
+MATCH[sorento]: https://www.kia.com/us/en/vehicles/sorento/2026/_jcr_content/root/responsivegrid/fiftyfifty_copy_2142591181.coreimg.jpeg/1756939320741/my26-sorento-ice-5050-x-pro.jpeg
+    alt: 2026 Kia Sorento, three-quarter view, driving through a river making a big splash
+MATCH[sorento]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sorento/2026/mep/hero/1920-hero-my26-sorento-ice.jpg
+    alt: 
+MATCH[sorento]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sorento/2026/mep/hero/1440-hero-my26-sorento-ice.jpg
+    alt: 
+MATCH[sorento]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sorento/2026/mep/hero/1024-hero-my26-sorento-ice.jpg
+    alt: 
+MATCH[sorento]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sorento/2026/mep/hero/812-hero-my26-sorento-ice.jpg
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:XXL
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:XL
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:L
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:Landscape
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:M
+    alt: 
+MATCH[sorento]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sorento/2026/mep/flexible-logo-banner/1920-flexible-text-cross-sell.jpg
+    alt: 
+MATCH[sorento]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sorento/2026/mep/flexible-logo-banner/1440-flexible-text-cross-sell.jpg
+    alt: 
+MATCH[sorento]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sorento/2026/mep/flexible-logo-banner/1024-flexible-text-cross-sell.jpg
+    alt: 
+MATCH[sorento]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sorento/2026/mep/flexible-logo-banner/812-flexible--text-cross-sell.jpg
+    alt: 
+MATCH[sorento]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sorento/2026/mep/flexible-logo-banner/768-flexible--text-cross-sell.jpg
+    alt: 
+MATCH[sorento]: https://www.kia.com/content/dam/kia/us/en/vehicles/sorento/2026/mep/in-page-gallery/exterior/my26-sorento-ice-gallery-ext3.jpg
+    alt: naked
+
+SUMMARY for sorento: matched=18, missed=39, total=57
+
+========================================
+### model: k5
+### page:  https://www.kia.com/us/en/k5
+### variants for this model: ["k5"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 83
+Unique by URL: 63
+
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-seltos-mm-large-desktop-static.png
+    alt: Kia Seltos
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-seltos-mm-large-desktop-hover.png
+    alt: Kia Seltos
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sportage-mm-large-desktop-static.png
+    alt: Kia Sportage
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sportage-mm-large-desktop-hover.png
+    alt: Kia Sportage
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sorento-mm-large-desktop-static.png
+    alt: Kia Sorento
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sorento-mm-large-desktop-hover.png
+    alt: Kia Sorento
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-carnival-mpv-mm-large-desktop-static.png
+    alt: Kia Carnival MPV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-carnival-mpv-mm-large-desktop-hover.png
+    alt: Kia Carnival MPV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-tellurice-ice-mm-large-desktop-static.png
+    alt: Kia Telluride
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-tellurice-ice-mm-large-desktop-hover.png
+    alt: Kia Telluride
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-hev-mm-large-desktop-static.png
+    alt: Kia Niro
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-hev-mm-large-desktop-hover.png
+    alt: Kia Niro
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-hev-mm-large-desktop-static.png
+    alt: Kia Sportage Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-hev-mm-large-desktop-hover.png
+    alt: Kia Sportage Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-hev-mm-large-desktop-static.png
+    alt: Kia Sorento Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-hev-mm-large-desktop-hover.png
+    alt: Kia Sorento Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-ev-mmm-large-desktop-static.png
+    alt: Kia Niro EV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-ev-mmm-large-desktop-hover.png
+    alt: Kia Niro EV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-phev-mm-large-desktop-static.png
+    alt: Kia Sportage Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-phev-mm-large-desktop-hover.png
+    alt: Kia Sportage Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-carnival-hybrid-mm-large-desktop-static.png
+    alt: Kia Carnival MPV Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-carnival-hybrid-mm-large-desktop-hover.png
+    alt: Kia Carnival MPV Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev6-mm-large-desktop-static.png
+    alt: Kia EV6
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev6-mm-large-desktop-hover.png
+    alt: Kia EV6
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-telluride-hev-mm-large-desktop-static.png
+    alt: 2027 Telluride Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-telluride-hev-mm-large-desktop-hover.png
+    alt: 2027 Telluride Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-phev-mm-large-desktop-static.png
+    alt: Kia Sorento Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-phev-mm-large-desktop-hover.png
+    alt: Kia Sorento Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev9-mm-large-desktop-static.png
+    alt: Kia EV9
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev9-mm-large-desktop-hover.png
+    alt: Kia EV9
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4-mm-large-desktop-static.png
+    alt: Kia K4
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4-mm-large-desktop-hover.png
+    alt: Kia K4
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4hb-mm-large-desktop-static.png
+    alt: Kia K4 Hatchback
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4hb-mm-large-desktop-hover.png
+    alt: Kia K4 Hatchback
+MATCH[k5]: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/kia-k5-mm-large-desktop-static.png
+    alt: Kia K5
+MATCH[k5]: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/kia-k5-mm-large-desktop-hover.png
+    alt: Kia K5
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-sp3-static.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-sp3-hover.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-ev3-static.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-ev3-hover.png
+    alt: 
+MATCH[k5]: https://www.kia.com/us/en/vehicles/k5/2026/_jcr_content/root/responsivegrid/fiftyfifty.coreimg.jpeg/1751312434981/my26-k5-fifty-fifty-trim-highlight-gt.jpeg
+    alt: 2026 Kia K5 Sedan, three-quarter driver&#39;s-side view, driving on a motion-blurred open roadway with scenic trees and mountains in the distance.
+MATCH[k5]: https://www.kia.com/us/en/vehicles/k5/2026/_jcr_content/root/responsivegrid/fiftyfifty_1549638346.coreimg.jpeg/1744754184872/my26-k5-amci-thumbnail-v3.jpeg
+    alt: 
+MATCH[k5]: https://s7d2.scene7.com/is/image/kiamotors/my26-k5-mep-hero-v2:XXL?$LandscapeAsset_1920x750$&fmt=jpg&qlt=100
+    alt: 
+MISS: https://www.kia.com/us/en/0&resMode=sharp2&op_usm=1.75
+    alt: 
+MISS: https://www.kia.com/us/en/0.9
+    alt: 
+MISS: https://www.kia.com/us/en/1
+    alt: 
+MISS: https://www.kia.com/us/en/0&dpr=on
+    alt: 
+MISS: https://www.kia.com/us/en/2
+    alt: 
+MATCH[k5]: https://s7d2.scene7.com/is/image/kiamotors/my26-k5-mep-hero-v2:XL?$LandscapeAsset_1440x730$&fmt=jpg&qlt=100
+    alt: 
+MATCH[k5]: https://s7d2.scene7.com/is/image/kiamotors/my26-k5-mep-hero-v2:L?$LandscapeAsset_1024x645$&fmt=jpg&qlt=100
+    alt: 
+MATCH[k5]: https://s7d2.scene7.com/is/image/kiamotors/my26-k5-mep-hero-v2:Landscape?$LandscapeAsset_812x565$&fmt=jpg&qlt=100
+    alt: 
+MATCH[k5]: https://s7d2.scene7.com/is/image/kiamotors/my26-k5-mep-hero-v2:M?$LandscapeAsset_768x605$&fmt=jpg&qlt=100
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:XXL
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:XL
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:L
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:Landscape
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:M
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sportage/2026/mep/flexible-logo-banner/1920-flexible-logo-bg.jpg
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sportage/2026/mep/flexible-logo-banner/1440-flexible-logo-bg.jpg
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sportage/2026/mep/flexible-logo-banner/1024-flexible-logo-bg.jpg
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sportage/2026/mep/flexible-logo-banner/812-flexible-logo-bg.jpg
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sportage/2026/mep/flexible-logo-banner/768-flexible-logo-bg.jpg
+    alt: 
+MATCH[k5]: https://www.kia.com/content/dam/kia/us/en/vehicles/k5/2026/mep/in-page-gallery-v2/my26_k5-mep-gallery-ext2.jpg
+    alt: naked
+
+SUMMARY for k5: matched=10, missed=53, total=63
+
+========================================
+### model: ev6
+### page:  https://www.kia.com/us/en/ev6
+### variants for this model: ["ev6"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 86
+Unique by URL: 66
+
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-seltos-mm-large-desktop-static.png
+    alt: Kia Seltos
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-seltos-mm-large-desktop-hover.png
+    alt: Kia Seltos
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sportage-mm-large-desktop-static.png
+    alt: Kia Sportage
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sportage-mm-large-desktop-hover.png
+    alt: Kia Sportage
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sorento-mm-large-desktop-static.png
+    alt: Kia Sorento
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sorento-mm-large-desktop-hover.png
+    alt: Kia Sorento
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-carnival-mpv-mm-large-desktop-static.png
+    alt: Kia Carnival MPV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-carnival-mpv-mm-large-desktop-hover.png
+    alt: Kia Carnival MPV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-tellurice-ice-mm-large-desktop-static.png
+    alt: Kia Telluride
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-tellurice-ice-mm-large-desktop-hover.png
+    alt: Kia Telluride
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-hev-mm-large-desktop-static.png
+    alt: Kia Niro
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-hev-mm-large-desktop-hover.png
+    alt: Kia Niro
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-hev-mm-large-desktop-static.png
+    alt: Kia Sportage Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-hev-mm-large-desktop-hover.png
+    alt: Kia Sportage Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-hev-mm-large-desktop-static.png
+    alt: Kia Sorento Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-hev-mm-large-desktop-hover.png
+    alt: Kia Sorento Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-ev-mmm-large-desktop-static.png
+    alt: Kia Niro EV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-ev-mmm-large-desktop-hover.png
+    alt: Kia Niro EV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-phev-mm-large-desktop-static.png
+    alt: Kia Sportage Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-phev-mm-large-desktop-hover.png
+    alt: Kia Sportage Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-carnival-hybrid-mm-large-desktop-static.png
+    alt: Kia Carnival MPV Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-carnival-hybrid-mm-large-desktop-hover.png
+    alt: Kia Carnival MPV Hybrid
+MATCH[ev6]: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev6-mm-large-desktop-static.png
+    alt: Kia EV6
+MATCH[ev6]: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev6-mm-large-desktop-hover.png
+    alt: Kia EV6
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-telluride-hev-mm-large-desktop-static.png
+    alt: 2027 Telluride Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-telluride-hev-mm-large-desktop-hover.png
+    alt: 2027 Telluride Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-phev-mm-large-desktop-static.png
+    alt: Kia Sorento Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-phev-mm-large-desktop-hover.png
+    alt: Kia Sorento Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev9-mm-large-desktop-static.png
+    alt: Kia EV9
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev9-mm-large-desktop-hover.png
+    alt: Kia EV9
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4-mm-large-desktop-static.png
+    alt: Kia K4
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4-mm-large-desktop-hover.png
+    alt: Kia K4
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4hb-mm-large-desktop-static.png
+    alt: Kia K4 Hatchback
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4hb-mm-large-desktop-hover.png
+    alt: Kia K4 Hatchback
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/kia-k5-mm-large-desktop-static.png
+    alt: Kia K5
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/kia-k5-mm-large-desktop-hover.png
+    alt: Kia K5
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-sp3-static.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-sp3-hover.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-ev3-static.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-ev3-hover.png
+    alt: 
+MATCH[ev6]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/ev6/2025/mep/awards/5-star-safety-ratings.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/vehicles/ev9/2024/mep-full/callout/mep-column-control-award-blade-warranty-white.png
+    alt: 
+MATCH[ev6]: https://www.kia.com/us/en/vehicles/ev6/2025/_jcr_content/root/responsivegrid/fiftyfifty.coreimg.jpeg/1757096584718/my26-ev6-trim-highlight.jpeg
+    alt: 2025 Kia EV6 GT-Line AWD in Runway Red
+MATCH[ev6]: https://www.kia.com/us/en/vehicles/ev6/2025/_jcr_content/root/responsivegrid/mediatext_copy_copy.coreimg.jpeg/1744065334946/my26-ev6-capability-and-perforamance.jpeg
+    alt: 2025 Kia EV6, front view, driving on a curved road in the desert featuring sleek headlights
+MATCH[ev6]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/ev6/2025/mep/column-control/kia-column-control-chargepoint-home-charger.jpg
+    alt: ChargePoint Home Charger
+MATCH[ev6]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/ev6/2025/mep/column-control/kia-column-control-ampure-go-portable-charger.jpg
+    alt: Ampure Go Portable Charger
+MATCH[ev6]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/ev6/2025/mep/column-control/kia-column-control-explore-the-electrified-lineup_720.jpg
+    alt: Three Kia vehicles parked next to each other in a building
+MATCH[ev6]: https://s7d2.scene7.com/is/image/kiamotors/my26-ev6-hero:XXL?$LandscapeAsset_1920x750$&fmt=jpg&qlt=100
+    alt: 
+MISS: https://www.kia.com/us/en/0&resMode=sharp2&op_usm=1.75
+    alt: 
+MISS: https://www.kia.com/us/en/0.9
+    alt: 
+MISS: https://www.kia.com/us/en/1
+    alt: 
+MISS: https://www.kia.com/us/en/0&dpr=on
+    alt: 
+MISS: https://www.kia.com/us/en/2
+    alt: 
+MATCH[ev6]: https://s7d2.scene7.com/is/image/kiamotors/my26-ev6-hero:XL?$LandscapeAsset_1440x730$&fmt=jpg&qlt=100
+    alt: 
+MATCH[ev6]: https://s7d2.scene7.com/is/image/kiamotors/my26-ev6-hero:L?$LandscapeAsset_1024x645$&fmt=jpg&qlt=100
+    alt: 
+MATCH[ev6]: https://s7d2.scene7.com/is/image/kiamotors/my26-ev6-hero:Landscape?$LandscapeAsset_812x565$&fmt=jpg&qlt=100
+    alt: 
+MATCH[ev6]: https://s7d2.scene7.com/is/image/kiamotors/my26-ev6-hero:M?$LandscapeAsset_768x605$&fmt=jpg&qlt=100
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:XXL
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:XL
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:L
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:Landscape
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:M
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/kia_alt-fuel_cross-link_background:XL
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/kia_alt-fuel_cross-link_background:L
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/kia_alt-fuel_cross-link_background:M
+    alt: 
+MATCH[ev6]: https://www.kia.com/content/dam/kia/us/en/vehicles/ev6/2025/mep/in-page-gallery/my26-ev6-in-page-gallery_asset-carousel-1.jpg
+    alt: naked
+
+SUMMARY for ev6: matched=14, missed=52, total=66
+
+========================================
+### model: sorento-hybrid
+### page:  https://www.kia.com/us/en/sorento-hybrid
+### variants for this model: ["sorento-hybrid","sorentohybrid","sorento-hev"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 52
+Unique by URL: 52
+
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-seltos-mm-large-desktop-static.png
+    alt: Kia Seltos
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-seltos-mm-large-desktop-hover.png
+    alt: Kia Seltos
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sportage-mm-large-desktop-static.png
+    alt: Kia Sportage
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sportage-mm-large-desktop-hover.png
+    alt: Kia Sportage
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sorento-mm-large-desktop-static.png
+    alt: Kia Sorento
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sorento-mm-large-desktop-hover.png
+    alt: Kia Sorento
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-carnival-mpv-mm-large-desktop-static.png
+    alt: Kia Carnival MPV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-carnival-mpv-mm-large-desktop-hover.png
+    alt: Kia Carnival MPV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-tellurice-ice-mm-large-desktop-static.png
+    alt: Kia Telluride
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-tellurice-ice-mm-large-desktop-hover.png
+    alt: Kia Telluride
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-hev-mm-large-desktop-static.png
+    alt: Kia Niro
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-hev-mm-large-desktop-hover.png
+    alt: Kia Niro
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-hev-mm-large-desktop-static.png
+    alt: Kia Sportage Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-hev-mm-large-desktop-hover.png
+    alt: Kia Sportage Hybrid
+MATCH[sorento-hybrid]: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-hev-mm-large-desktop-static.png
+    alt: Kia Sorento Hybrid
+MATCH[sorento-hybrid]: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-hev-mm-large-desktop-hover.png
+    alt: Kia Sorento Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-ev-mmm-large-desktop-static.png
+    alt: Kia Niro EV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-ev-mmm-large-desktop-hover.png
+    alt: Kia Niro EV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-phev-mm-large-desktop-static.png
+    alt: Kia Sportage Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-phev-mm-large-desktop-hover.png
+    alt: Kia Sportage Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-carnival-hybrid-mm-large-desktop-static.png
+    alt: Kia Carnival MPV Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-carnival-hybrid-mm-large-desktop-hover.png
+    alt: Kia Carnival MPV Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev6-mm-large-desktop-static.png
+    alt: Kia EV6
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev6-mm-large-desktop-hover.png
+    alt: Kia EV6
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-telluride-hev-mm-large-desktop-static.png
+    alt: 2027 Telluride Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-telluride-hev-mm-large-desktop-hover.png
+    alt: 2027 Telluride Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-phev-mm-large-desktop-static.png
+    alt: Kia Sorento Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-phev-mm-large-desktop-hover.png
+    alt: Kia Sorento Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev9-mm-large-desktop-static.png
+    alt: Kia EV9
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev9-mm-large-desktop-hover.png
+    alt: Kia EV9
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4-mm-large-desktop-static.png
+    alt: Kia K4
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4-mm-large-desktop-hover.png
+    alt: Kia K4
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4hb-mm-large-desktop-static.png
+    alt: Kia K4 Hatchback
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4hb-mm-large-desktop-hover.png
+    alt: Kia K4 Hatchback
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/kia-k5-mm-large-desktop-static.png
+    alt: Kia K5
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/kia-k5-mm-large-desktop-hover.png
+    alt: Kia K5
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-sp3-static.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-sp3-hover.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-ev3-static.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-ev3-hover.png
+    alt: 
+MATCH[sorento-hybrid]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sorento-hev/2026/mep/global-hero/375-hero-my26-sorento-hev.jpg
+    alt: 2026 Kia Sorento Hybrid in blue, three-quarter front view, parked in front of the mountains
+MATCH[sorento-hybrid]: https://www.kia.com/us/en/vehicles/sorento-hybrid/2026/_jcr_content/root/responsivegrid/fiftyfifty.coreimg.jpeg/1758738400581/my26-sorento-hev-5050-performance-feel-the-turbo-hybrid-edge.jpeg
+    alt: 2026 Kia Sorento Hybrid, three-quarter front view, with the headlights on driving through snow
+MATCH[sorento-hev]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sorento-hev/2026/mep/global-hero/1920-hero-my26-sorento-hev.jpg
+    alt: 
+MATCH[sorento-hev]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sorento-hev/2026/mep/global-hero/1440-hero-my26-sorento-hev.jpg
+    alt: 
+MATCH[sorento-hev]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sorento-hev/2026/mep/global-hero/1024-hero-my26-sorento-hev.jpg
+    alt: 
+MATCH[sorento-hev]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sorento-hev/2026/mep/global-hero/768-hero-my26-sorento-hev.jpg
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:XXL
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:XL
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:L
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:Landscape
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:M
+    alt: 
+MATCH[sorento-hev]: https://www.kia.com/content/dam/kia/us/en/vehicles/sorento-hev/2026/mep/in-page-gallery/my26-sorento-hev-mep-gallery-ext1.jpg
+    alt: naked
+
+SUMMARY for sorento-hybrid: matched=9, missed=43, total=52
+
+========================================
+### model: k4-hatchback
+### page:  https://www.kia.com/us/en/k4-hatchback
+### variants for this model: ["k4-hatchback","k4hatchback","k4_hatchback","k4hb"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 71
+Unique by URL: 67
+
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-seltos-mm-large-desktop-static.png
+    alt: Kia Seltos
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-seltos-mm-large-desktop-hover.png
+    alt: Kia Seltos
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sportage-mm-large-desktop-static.png
+    alt: Kia Sportage
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sportage-mm-large-desktop-hover.png
+    alt: Kia Sportage
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sorento-mm-large-desktop-static.png
+    alt: Kia Sorento
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sorento-mm-large-desktop-hover.png
+    alt: Kia Sorento
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-carnival-mpv-mm-large-desktop-static.png
+    alt: Kia Carnival MPV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-carnival-mpv-mm-large-desktop-hover.png
+    alt: Kia Carnival MPV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-tellurice-ice-mm-large-desktop-static.png
+    alt: Kia Telluride
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-tellurice-ice-mm-large-desktop-hover.png
+    alt: Kia Telluride
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-hev-mm-large-desktop-static.png
+    alt: Kia Niro
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-hev-mm-large-desktop-hover.png
+    alt: Kia Niro
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-hev-mm-large-desktop-static.png
+    alt: Kia Sportage Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-hev-mm-large-desktop-hover.png
+    alt: Kia Sportage Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-hev-mm-large-desktop-static.png
+    alt: Kia Sorento Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-hev-mm-large-desktop-hover.png
+    alt: Kia Sorento Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-ev-mmm-large-desktop-static.png
+    alt: Kia Niro EV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-ev-mmm-large-desktop-hover.png
+    alt: Kia Niro EV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-phev-mm-large-desktop-static.png
+    alt: Kia Sportage Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-phev-mm-large-desktop-hover.png
+    alt: Kia Sportage Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-carnival-hybrid-mm-large-desktop-static.png
+    alt: Kia Carnival MPV Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-carnival-hybrid-mm-large-desktop-hover.png
+    alt: Kia Carnival MPV Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev6-mm-large-desktop-static.png
+    alt: Kia EV6
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev6-mm-large-desktop-hover.png
+    alt: Kia EV6
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-telluride-hev-mm-large-desktop-static.png
+    alt: 2027 Telluride Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-telluride-hev-mm-large-desktop-hover.png
+    alt: 2027 Telluride Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-phev-mm-large-desktop-static.png
+    alt: Kia Sorento Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-phev-mm-large-desktop-hover.png
+    alt: Kia Sorento Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev9-mm-large-desktop-static.png
+    alt: Kia EV9
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev9-mm-large-desktop-hover.png
+    alt: Kia EV9
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4-mm-large-desktop-static.png
+    alt: Kia K4
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4-mm-large-desktop-hover.png
+    alt: Kia K4
+MATCH[k4-hatchback]: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4hb-mm-large-desktop-static.png
+    alt: Kia K4 Hatchback
+MATCH[k4-hatchback]: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4hb-mm-large-desktop-hover.png
+    alt: Kia K4 Hatchback
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/kia-k5-mm-large-desktop-static.png
+    alt: Kia K5
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/kia-k5-mm-large-desktop-hover.png
+    alt: Kia K5
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-sp3-static.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-sp3-hover.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-ev3-static.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-ev3-hover.png
+    alt: 
+MATCH[k4-hatchback]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/k4-hatchback/2026/global-hero/kia-hero-v2375-hero-myxx-vehicle.jpg
+    alt: An Exterior Shot of the Golden Yellow 2026 K4 Hatchback GT-Line Turbo out in the desert roads.
+MATCH[k4-hatchback]: https://www.kia.com/us/en/vehicles/k4-hatchback/2026/_jcr_content/root/responsivegrid/fiftyfifty_copy_2142.coreimg.jpeg/1775593543217/my26-ev6-mep-5050-trim-highlight-v2.jpeg
+    alt: Standing Shot of the 2026 K4 Hatchback GT-Line turbo in Grey.
+MATCH[k4-hatchback]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/k4-hatchback/2026/global-hero/kia-hero-v21920-hero-myxx-vehicle.jpg
+    alt: 
+MATCH[k4-hatchback]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/k4-hatchback/2026/global-hero/kia-hero-v21440-hero-myxx-vehicle.jpg
+    alt: 
+MATCH[k4-hatchback]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/k4-hatchback/2026/global-hero/kia-hero-v21024-hero-myxx-vehicle.jpg
+    alt: 
+MATCH[k4-hatchback]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/k4-hatchback/2026/global-hero/kia-hero-v2812-hero-myxx-vehicle.jpg
+    alt: 
+MISS: https://www.kia.com/us/en/:XXL
+    alt: 
+MISS: https://www.kia.com/us/en/:XL
+    alt: 
+MISS: https://www.kia.com/us/en/:L
+    alt: 
+MISS: https://www.kia.com/us/en/:Landscape
+    alt: 
+MISS: https://www.kia.com/us/en/:M
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:XXL
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:XL
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:L
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:Landscape
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:M
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sportage-phev/2026/mep/flexible-logo-banner/1920-flex-logo-bg.jpg
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sportage-phev/2026/mep/flexible-logo-banner/1440-flex-logo-bg.jpg
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sportage-phev/2026/mep/flexible-logo-banner/1024-flex-logo-bg.jpg
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sportage-phev/2026/mep/flexible-logo-banner/812-flex-logo-bg.jpg
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/vehicles/sportage-phev/2026/mep/flexible-logo-banner/768-flex-logo-bg.jpg
+    alt: 
+MATCH[k4-hatchback]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/k4-hatchback/2026/logo-banner/1920-flexible-logo-award.jpg
+    alt: 
+MATCH[k4-hatchback]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/k4-hatchback/2026/logo-banner/1440-flexible-logo-award.jpg
+    alt: 
+MATCH[k4-hatchback]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/k4-hatchback/2026/logo-banner/1024-flexible-logo-award.jpg
+    alt: 
+MATCH[k4-hatchback]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/k4-hatchback/2026/logo-banner/812-flexible-logo-award.jpg
+    alt: 
+MATCH[k4-hatchback]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/k4-hatchback/2026/logo-banner/768-flexible-logo-award.jpg
+    alt: 
+MATCH[k4-hatchback]: https://www.kia.com/content/dam/kia/us/en/vehicles/k4-hatchback/2026/in-page-gallery/my26-k4hb-mep-gallery-01.jpg
+    alt: naked
+
+SUMMARY for k4-hatchback: matched=14, missed=53, total=67
+
+========================================
+### model: niro-hybrid
+### page:  https://www.kia.com/us/en/niro
+### variants for this model: ["niro-hybrid","nirohybrid","niro-hev"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 53
+Unique by URL: 53
+
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-seltos-mm-large-desktop-static.png
+    alt: Kia Seltos
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-seltos-mm-large-desktop-hover.png
+    alt: Kia Seltos
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sportage-mm-large-desktop-static.png
+    alt: Kia Sportage
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sportage-mm-large-desktop-hover.png
+    alt: Kia Sportage
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sorento-mm-large-desktop-static.png
+    alt: Kia Sorento
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sorento-mm-large-desktop-hover.png
+    alt: Kia Sorento
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-carnival-mpv-mm-large-desktop-static.png
+    alt: Kia Carnival MPV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-carnival-mpv-mm-large-desktop-hover.png
+    alt: Kia Carnival MPV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-tellurice-ice-mm-large-desktop-static.png
+    alt: Kia Telluride
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-tellurice-ice-mm-large-desktop-hover.png
+    alt: Kia Telluride
+MATCH[niro-hev]: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-hev-mm-large-desktop-static.png
+    alt: Kia Niro
+MATCH[niro-hev]: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-hev-mm-large-desktop-hover.png
+    alt: Kia Niro
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-hev-mm-large-desktop-static.png
+    alt: Kia Sportage Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-hev-mm-large-desktop-hover.png
+    alt: Kia Sportage Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-hev-mm-large-desktop-static.png
+    alt: Kia Sorento Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-hev-mm-large-desktop-hover.png
+    alt: Kia Sorento Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-ev-mmm-large-desktop-static.png
+    alt: Kia Niro EV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-ev-mmm-large-desktop-hover.png
+    alt: Kia Niro EV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-phev-mm-large-desktop-static.png
+    alt: Kia Sportage Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-phev-mm-large-desktop-hover.png
+    alt: Kia Sportage Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-carnival-hybrid-mm-large-desktop-static.png
+    alt: Kia Carnival MPV Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-carnival-hybrid-mm-large-desktop-hover.png
+    alt: Kia Carnival MPV Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev6-mm-large-desktop-static.png
+    alt: Kia EV6
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev6-mm-large-desktop-hover.png
+    alt: Kia EV6
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-telluride-hev-mm-large-desktop-static.png
+    alt: 2027 Telluride Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-telluride-hev-mm-large-desktop-hover.png
+    alt: 2027 Telluride Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-phev-mm-large-desktop-static.png
+    alt: Kia Sorento Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-phev-mm-large-desktop-hover.png
+    alt: Kia Sorento Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev9-mm-large-desktop-static.png
+    alt: Kia EV9
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev9-mm-large-desktop-hover.png
+    alt: Kia EV9
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4-mm-large-desktop-static.png
+    alt: Kia K4
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4-mm-large-desktop-hover.png
+    alt: Kia K4
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4hb-mm-large-desktop-static.png
+    alt: Kia K4 Hatchback
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4hb-mm-large-desktop-hover.png
+    alt: Kia K4 Hatchback
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/kia-k5-mm-large-desktop-static.png
+    alt: Kia K5
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/kia-k5-mm-large-desktop-hover.png
+    alt: Kia K5
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-sp3-static.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-sp3-hover.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-ev3-static.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-ev3-hover.png
+    alt: 
+MATCH[niro-hybrid]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/niro/2026/mep/global-hero/375-hero-my26-niro-hev-v2.jpg
+    alt: 2026 Kia Niro Hybrid in green, three-quarter back view, driving on a road by a hill
+MATCH[niro-hev]: https://www.kia.com/us/en/vehicles/niro/2026/_jcr_content/root/responsivegrid/fiftyfifty_copy.coreimg.jpeg/1764947637177/my26-niro-hev-5050-hybrid-technology.jpeg
+    alt: 2026 Kia Niro Hybrid, three-quarter front view, driving on a road in the mountains
+MATCH[niro-hybrid]: https://www.kia.com/us/en/vehicles/niro/2026/_jcr_content/root/responsivegrid/fiftyfifty_copy_copy.coreimg.jpeg/1767380762140/my26-niro-hev-5050-trim-highlight-ex.jpeg
+    alt: 2026 Kia Niro Hybrid EX in blue, three-quarter front view, parked by a cliff in the mountains
+MATCH[niro-hev]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/niro/2026/mep/global-hero/1920-hero-my26-niro-hev.jpg
+    alt: 
+MATCH[niro-hev]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/niro/2026/mep/global-hero/1440-hero-my26-niro-hev.jpg
+    alt: 
+MATCH[niro-hev]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/niro/2026/mep/global-hero/1024-hero-my26-niro-hev.jpg
+    alt: 
+MATCH[niro-hev]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/niro/2026/mep/global-hero/768-hero-my26-niro-hev.jpg
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/vehicles/niro/2026/mep/flexible-logo-banner/1920-flex-logo-bg.jpg
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/vehicles/niro/2026/mep/flexible-logo-banner/1440-flex-logo-bg.jpg
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/vehicles/niro/2026/mep/flexible-logo-banner/1024-flex-logo-bg.jpg
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/vehicles/niro/2026/mep/flexible-logo-banner/812-flex-logo-bg.jpg
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/vehicles/niro/2026/mep/flexible-logo-banner/768-flex-logo-bg.jpg
+    alt: 
+MATCH[niro-hev]: https://www.kia.com/content/dam/kia/us/en/vehicles/niro/2026/mep/inpagegallery/my26-niro-hev-gallery-ext1.jpg
+    alt: naked
+
+SUMMARY for niro-hybrid: matched=10, missed=43, total=53
+
+========================================
+### model: carnival-hybrid
+### page:  https://www.kia.com/us/en/carnival-mpv-hybrid
+### variants for this model: ["carnival-hybrid","carnivalhybrid","carnival-mpv-hybrid","carnival-hev"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 82
+Unique by URL: 62
+
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-seltos-mm-large-desktop-static.png
+    alt: Kia Seltos
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-seltos-mm-large-desktop-hover.png
+    alt: Kia Seltos
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sportage-mm-large-desktop-static.png
+    alt: Kia Sportage
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sportage-mm-large-desktop-hover.png
+    alt: Kia Sportage
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sorento-mm-large-desktop-static.png
+    alt: Kia Sorento
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-sorento-mm-large-desktop-hover.png
+    alt: Kia Sorento
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-carnival-mpv-mm-large-desktop-static.png
+    alt: Kia Carnival MPV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-carnival-mpv-mm-large-desktop-hover.png
+    alt: Kia Carnival MPV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-tellurice-ice-mm-large-desktop-static.png
+    alt: Kia Telluride
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-tellurice-ice-mm-large-desktop-hover.png
+    alt: Kia Telluride
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-hev-mm-large-desktop-static.png
+    alt: Kia Niro
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-hev-mm-large-desktop-hover.png
+    alt: Kia Niro
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-hev-mm-large-desktop-static.png
+    alt: Kia Sportage Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-hev-mm-large-desktop-hover.png
+    alt: Kia Sportage Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-hev-mm-large-desktop-static.png
+    alt: Kia Sorento Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-hev-mm-large-desktop-hover.png
+    alt: Kia Sorento Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-ev-mmm-large-desktop-static.png
+    alt: Kia Niro EV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-ev-mmm-large-desktop-hover.png
+    alt: Kia Niro EV
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-phev-mm-large-desktop-static.png
+    alt: Kia Sportage Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sportage-phev-mm-large-desktop-hover.png
+    alt: Kia Sportage Plug-in Hybrid
+MATCH[carnival-hybrid]: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-carnival-hybrid-mm-large-desktop-static.png
+    alt: Kia Carnival MPV Hybrid
+MATCH[carnival-hybrid]: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-carnival-hybrid-mm-large-desktop-hover.png
+    alt: Kia Carnival MPV Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev6-mm-large-desktop-static.png
+    alt: Kia EV6
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev6-mm-large-desktop-hover.png
+    alt: Kia EV6
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-telluride-hev-mm-large-desktop-static.png
+    alt: 2027 Telluride Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-telluride-hev-mm-large-desktop-hover.png
+    alt: 2027 Telluride Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-phev-mm-large-desktop-static.png
+    alt: Kia Sorento Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-phev-mm-large-desktop-hover.png
+    alt: Kia Sorento Plug-in Hybrid
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev9-mm-large-desktop-static.png
+    alt: Kia EV9
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev9-mm-large-desktop-hover.png
+    alt: Kia EV9
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4-mm-large-desktop-static.png
+    alt: Kia K4
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4-mm-large-desktop-hover.png
+    alt: Kia K4
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4hb-mm-large-desktop-static.png
+    alt: Kia K4 Hatchback
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4hb-mm-large-desktop-hover.png
+    alt: Kia K4 Hatchback
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/kia-k5-mm-large-desktop-static.png
+    alt: Kia K5
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/kia-k5-mm-large-desktop-hover.png
+    alt: Kia K5
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-sp3-static.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-sp3-hover.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-ev3-static.png
+    alt: 
+MISS: https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-ev3-hover.png
+    alt: 
+MATCH[carnival-mpv-hybrid]: https://www.kia.com/us/en/vehicles/carnival-mpv-hybrid/2026/_jcr_content/root/responsivegrid/fiftyfifty.coreimg.jpeg/1748009929849/my26-carnival-hev-trim-highlight-sx-prestige.jpeg
+    alt: 2026 Kia Carnival MPV Hybrid SX Dark Edition, SUV-inspired minivan
+MATCH[carnival-mpv-hybrid]: https://www.kia.com/us/en/vehicles/carnival-mpv-hybrid/2026/_jcr_content/root/responsivegrid/fiftyfifty_copy.coreimg.jpeg/1762270925457/my26-carnival-hev-performance-discover-the-hybrid-way.jpeg
+    alt: 2026 Kia Carnival MPV Hybrid, three-quarter driver&#39;s-side view, driving on a road in the mountains featuring the signature vertical LED headlights
+MATCH[carnival-hev]: https://s7d2.scene7.com/is/image/kiamotors/my25-carnival-hev-hero-v4:XXL?$LandscapeAsset_1920x750$&fmt=jpg&qlt=100
+    alt: 
+MISS: https://www.kia.com/us/en/0&resMode=sharp2&op_usm=1.75
+    alt: 
+MISS: https://www.kia.com/us/en/0.9
+    alt: 
+MISS: https://www.kia.com/us/en/1
+    alt: 
+MISS: https://www.kia.com/us/en/0&dpr=on
+    alt: 
+MISS: https://www.kia.com/us/en/2
+    alt: 
+MATCH[carnival-hev]: https://s7d2.scene7.com/is/image/kiamotors/my25-carnival-hev-hero-v4:XL?$LandscapeAsset_1440x730$&fmt=jpg&qlt=100
+    alt: 
+MATCH[carnival-hev]: https://s7d2.scene7.com/is/image/kiamotors/my25-carnival-hev-hero-v4:L?$LandscapeAsset_1024x645$&fmt=jpg&qlt=100
+    alt: 
+MATCH[carnival-hev]: https://s7d2.scene7.com/is/image/kiamotors/my25-carnival-hev-hero-v4:Landscape?$LandscapeAsset_812x565$&fmt=jpg&qlt=100
+    alt: 
+MATCH[carnival-hev]: https://s7d2.scene7.com/is/image/kiamotors/my25-carnival-hev-hero-v4:M?$LandscapeAsset_768x605$&fmt=jpg&qlt=100
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:XXL
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:XL
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:L
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:Landscape
+    alt: 
+MISS: https://s7d2.scene7.com/is/image/kiamotors/Personalization_Dark-BG:M
+    alt: 
+MATCH[carnival-hev]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/carnival-hev/2026/mep/logo-banner/1920-flexible-logo-bg.jpg
+    alt: 
+MATCH[carnival-hev]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/carnival-hev/2026/mep/logo-banner/1440-flexible-logo-bg.jpg
+    alt: 
+MATCH[carnival-hev]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/carnival-hev/2026/mep/logo-banner/1024-flexible-logo-bg.jpg
+    alt: 
+MATCH[carnival-hev]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/carnival-hev/2026/mep/logo-banner/768-flexible-logo-bg.jpg
+    alt: 
+MATCH[carnival-hev]: https://www.kia.com/us/content/dam/kia/us/en/vehicles/carnival-hev/2026/mep/logo-banner/812-flexible-logo-bg.jpg
+    alt: 
+
+SUMMARY for carnival-hybrid: matched=14, missed=48, total=62

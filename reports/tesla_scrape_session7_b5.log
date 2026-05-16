@@ -1,0 +1,52 @@
+Reset 64 image entries with needs_scraping:true to their model page URLs.
+Brand: tesla
+Models in JSON: 10
+Models with page URLs: 5
+Playwright fallback: enabled
+
+Scraping 5 model pages…
+
+  fetch https://www.tesla.com/model3  …  static FAIL (403)
+    playwright https://www.tesla.com/model3  …  ok but 0 candidates
+  fetch https://www.tesla.com/modely  …  static FAIL (403)
+    playwright https://www.tesla.com/modely  …  ok but 0 candidates
+  fetch https://www.tesla.com/models  …  static FAIL (403)
+    playwright https://www.tesla.com/models  …  ok but 0 candidates
+  fetch https://www.tesla.com/modelx  …  static FAIL (403)
+    playwright https://www.tesla.com/modelx  …  ok but 0 candidates
+  fetch https://www.tesla.com/cybertruck  …  static FAIL (403)
+    playwright https://www.tesla.com/cybertruck  …  ok but 0 candidates
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          tesla
+Pages attempted:                5
+Pages failed:                   5
+  - https://www.tesla.com/model3  (403)
+  - https://www.tesla.com/modely  (403)
+  - https://www.tesla.com/models  (403)
+  - https://www.tesla.com/modelx  (403)
+  - https://www.tesla.com/cybertruck  (403)
+Pages escalated to Playwright:  5 of 5
+  Playwright successes:         0
+  Playwright failures:          5
+Image entries rewritten:        0
+  via text/URL pattern match:   0
+  via brand-specific angle:     0
+  via positional fallback:      0
+Brand-specific angle matches:   0
+Resolution upgrades:            0 URLs preferred larger variants
+Image entries unchanged:        64
+
+Models with unresolved angles:
+  model-3: 12 entries  (e.g. standard-rwd/front_three_quarter, standard-rwd/rear_three_quarter, standard-rwd/side_profile)
+  model-3-performance: 4 entries  (e.g. performance/front_three_quarter, performance/rear_three_quarter, performance/side_profile)
+  model-y: 16 entries  (e.g. standard-rwd/front_three_quarter, standard-rwd/rear_three_quarter, standard-rwd/side_profile)
+  model-y-performance: 4 entries  (e.g. performance/front_three_quarter, performance/rear_three_quarter, performance/side_profile)
+  model-s: 4 entries  (e.g. model-s/front_three_quarter, model-s/rear_three_quarter, model-s/side_profile)
+  model-s-plaid: 4 entries  (e.g. plaid/front_three_quarter, plaid/rear_three_quarter, plaid/side_profile)
+  model-x: 4 entries  (e.g. model-x/front_three_quarter, model-x/rear_three_quarter, model-x/side_profile)
+  model-x-plaid: 4 entries  (e.g. plaid/front_three_quarter, plaid/rear_three_quarter, plaid/side_profile)
+  cybertruck: 8 entries  (e.g. awd-standard/front_three_quarter, awd-standard/rear_three_quarter, awd-standard/side_profile)
+  cybertruck-cyberbeast: 4 entries  (e.g. cyberbeast/front_three_quarter, cyberbeast/rear_three_quarter, cyberbeast/side_profile)

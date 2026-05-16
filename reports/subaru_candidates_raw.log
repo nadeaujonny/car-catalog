@@ -1,0 +1,74 @@
+# Subaru candidate dump (STATIC fetch) — generated 2026-05-15T05:12:35.073Z
+# Loaded slug_variants for: (none — subaru.json declares slug_variants: {})
+# NOTE: subaru.com per-model pages return JS-rendered HTML; static fetch is expected to return 0 candidates.
+#       See scripts/diag_subaru_playwright.mjs for the JS-rendered probe (primary source of truth).
+
+========================================================================
+# MODEL: outback
+# URL:   https://www.subaru.com/vehicles/outback
+========================================================================
+# finalUrl: https://www.subaru.com/vehicles/outback
+# html bytes: 457977
+# raw candidates (deduped by URL): 0
+# slug-matching (variant for "outback"): 0
+# host histogram:
+# top URL-path tokens:
+# first 40 raw candidates (URL + first 100 chars of alt):
+
+# any-model-name mentions on this page (URL+alt):
+
+========================================================================
+# MODEL: forester
+# URL:   https://www.subaru.com/vehicles/forester
+========================================================================
+# finalUrl: https://www.subaru.com/vehicles/forester
+# html bytes: 470926
+# raw candidates (deduped by URL): 0
+# slug-matching (variant for "forester"): 0
+# host histogram:
+# top URL-path tokens:
+# first 40 raw candidates (URL + first 100 chars of alt):
+
+# any-model-name mentions on this page (URL+alt):
+
+========================================================================
+# MODEL: crosstrek
+# URL:   https://www.subaru.com/vehicles/crosstrek
+========================================================================
+# finalUrl: https://www.subaru.com/vehicles/crosstrek
+# html bytes: 469352
+# raw candidates (deduped by URL): 0
+# slug-matching (variant for "crosstrek"): 0
+# host histogram:
+# top URL-path tokens:
+# first 40 raw candidates (URL + first 100 chars of alt):
+
+# any-model-name mentions on this page (URL+alt):
+
+========================================================================
+# MODEL: solterra
+# URL:   https://www.subaru.com/vehicles/solterra
+========================================================================
+# finalUrl: https://www.subaru.com/vehicles/solterra
+# html bytes: 462066
+# raw candidates (deduped by URL): 0
+# slug-matching (variant for "solterra"): 0
+# host histogram:
+# top URL-path tokens:
+# first 40 raw candidates (URL + first 100 chars of alt):
+
+# any-model-name mentions on this page (URL+alt):
+
+========================================================================
+# MODEL: wrx
+# URL:   https://www.subaru.com/vehicles/wrx
+========================================================================
+# finalUrl: https://www.subaru.com/vehicles/wrx
+# html bytes: 451363
+# raw candidates (deduped by URL): 0
+# slug-matching (variant for "wrx"): 0
+# host histogram:
+# top URL-path tokens:
+# first 40 raw candidates (URL + first 100 chars of alt):
+
+# any-model-name mentions on this page (URL+alt):

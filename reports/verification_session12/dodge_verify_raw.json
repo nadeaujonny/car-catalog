@@ -1,0 +1,67 @@
+{
+  "brand": "Dodge",
+  "brand_slug": "dodge",
+  "researched_at": "2026-05-15",
+  "schema_version": "1.1",
+  "model_count": 3,
+  "trim_count": 15,
+  "total_images": 60,
+  "needs_scraping": 16,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 12,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "coupe base trim has null trunk_cuft",
+      "where": "charger-daytona/scat-pack-coupe"
+    },
+    {
+      "title": "coupe base trim has non-null behind_2nd_row",
+      "where": "charger-daytona/scat-pack-coupe"
+    },
+    {
+      "title": "coupe base trim has null trunk_cuft",
+      "where": "charger-daytona/scat-pack-sedan"
+    },
+    {
+      "title": "coupe base trim has non-null behind_2nd_row",
+      "where": "charger-daytona/scat-pack-sedan"
+    },
+    {
+      "title": "coupe base trim has null trunk_cuft",
+      "where": "charger-sixpack/rt-coupe"
+    },
+    {
+      "title": "coupe base trim has non-null behind_2nd_row",
+      "where": "charger-sixpack/rt-coupe"
+    },
+    {
+      "title": "coupe base trim has null trunk_cuft",
+      "where": "charger-sixpack/rt-sedan"
+    },
+    {
+      "title": "coupe base trim has non-null behind_2nd_row",
+      "where": "charger-sixpack/rt-sedan"
+    },
+    {
+      "title": "coupe base trim has null trunk_cuft",
+      "where": "charger-sixpack/scat-pack-coupe"
+    },
+    {
+      "title": "coupe base trim has non-null behind_2nd_row",
+      "where": "charger-sixpack/scat-pack-coupe"
+    },
+    {
+      "title": "coupe base trim has null trunk_cuft",
+      "where": "charger-sixpack/scat-pack-sedan"
+    },
+    {
+      "title": "coupe base trim has non-null behind_2nd_row",
+      "where": "charger-sixpack/scat-pack-sedan"
+    }
+  ],
+  "fyis": []
+}

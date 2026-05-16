@@ -1,0 +1,18 @@
+{
+  "brand": "Alfa Romeo",
+  "brand_slug": "alfa-romeo",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "model_count": 3,
+  "trim_count": 7,
+  "total_images": 28,
+  "needs_scraping": 28,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 0,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [],
+  "fyis": []
+}

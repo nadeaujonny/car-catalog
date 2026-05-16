@@ -1,0 +1,84 @@
+Brand: ferrari
+Referer header: https://www.ferrari.com/
+Found 48 image entries across 12 models.
+
+[1/48] roma-spider/roma-spider/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[2/48] roma-spider/roma-spider/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[3/48] roma-spider/roma-spider/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[4/48] roma-spider/roma-spider/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[5/48] amalfi/amalfi/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[6/48] amalfi/amalfi/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[7/48] amalfi/amalfi/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[8/48] amalfi/amalfi/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[9/48] 296-gtb/296-gtb/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[10/48] 296-gtb/296-gtb/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[11/48] 296-gtb/296-gtb/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[12/48] 296-gtb/296-gtb/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[13/48] 296-gts/296-gts/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[14/48] 296-gts/296-gts/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[15/48] 296-gts/296-gts/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[16/48] 296-gts/296-gts/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[17/48] 296-speciale/296-speciale/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[18/48] 296-speciale/296-speciale/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[19/48] 296-speciale/296-speciale/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[20/48] 296-speciale/296-speciale/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[21/48] 296-speciale-a/296-speciale-a/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[22/48] 296-speciale-a/296-speciale-a/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[23/48] 296-speciale-a/296-speciale-a/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[24/48] 296-speciale-a/296-speciale-a/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[25/48] 12cilindri/12cilindri/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[26/48] 12cilindri/12cilindri/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[27/48] 12cilindri/12cilindri/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[28/48] 12cilindri/12cilindri/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[29/48] 12cilindri-spider/12cilindri-spider/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[30/48] 12cilindri-spider/12cilindri-spider/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[31/48] 12cilindri-spider/12cilindri-spider/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[32/48] 12cilindri-spider/12cilindri-spider/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[33/48] 849-testarossa/849-testarossa/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[34/48] 849-testarossa/849-testarossa/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[35/48] 849-testarossa/849-testarossa/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[36/48] 849-testarossa/849-testarossa/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[37/48] 849-testarossa-spider/849-testarossa-spider/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[38/48] 849-testarossa-spider/849-testarossa-spider/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[39/48] 849-testarossa-spider/849-testarossa-spider/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[40/48] 849-testarossa-spider/849-testarossa-spider/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[41/48] purosangue/purosangue/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[42/48] purosangue/purosangue/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[43/48] purosangue/purosangue/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[44/48] purosangue/purosangue/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[45/48] f80/f80/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[46/48] f80/f80/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[47/48] f80/f80/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[48/48] f80/f80/interior_dashboard  ok (173425 bytes, image/jpeg)
+
+Updated catalog/data/ferrari.json and data/ferrari.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  ferrari
+Total images attempted: 48
+Successful:             1 (2.1%)
+Failed:                 47
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 47
+
+Models with zero successful images: 11 of 12
+  - roma-spider (4 attempted)
+  - amalfi (4 attempted)
+  - 296-gtb (4 attempted)
+  - 296-gts (4 attempted)
+  - 296-speciale (4 attempted)
+  - 296-speciale-a (4 attempted)
+  - 12cilindri (4 attempted)
+  - 12cilindri-spider (4 attempted)
+  - 849-testarossa (4 attempted)
+  - 849-testarossa-spider (4 attempted)
+  - purosangue (4 attempted)
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html; charset=utf-8)] x47 — e.g. https://www.ferrari.com/en-EN/auto/ferrari-roma-spider

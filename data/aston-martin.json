@@ -1,0 +1,2676 @@
+{
+  "brand": "Aston Martin",
+  "brand_slug": "aston-martin",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Vantage",
+      "model_slug": "vantage",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "Fourth-generation Vantage (AMR-002 platform), revealed February 2024 as a heavily updated successor to the 2018 Vantage. 4.0L Mercedes-AMG-sourced twin-turbo V8 retuned by Aston Martin engineering. Coupe body style; Roadster (convertible) and Vantage S are sold separately as their own model entries in this catalog per the body-style and performance-variant rules.",
+      "msrp_range": {
+        "low": 194500,
+        "high": 194500
+      },
+      "model_summary": "Aston Martin's two-seat front-engine sports car, powered by a Mercedes-AMG-sourced 4.0L twin-turbo V8 tuned to 656 hp driving the rear wheels through an 8-speed ZF automatic. Positioned against the Porsche 911 Turbo S and Maserati MC20. The 2024 update brought a redesigned exterior, an all-new interior with a DB12-derived 10.25-inch infotainment screen, stiffer body structure, and active dynamics.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power Vehicle Dependability Study does not meaningfully sample Aston Martin due to very low US sales volume, and Consumer Reports does not publish a predicted-reliability score for the Vantage. No quantitative reliability rating is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Aston Martin because of low US sales volume. No quantified APEAL score exists.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the new Vantage as a dramatic improvement over its predecessor: more powerful, sharper handling, and a vastly improved cabin with a modern infotainment system. Praise centers on the playful rear-drive chassis, the AMG-sourced V8's character, and One-77-inspired styling. Critiques focus on a firm ride, the heavy use of Mercedes switchgear, and quickly-rising option prices.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/aston-martin/vantage",
+            "date": "2025-09-15"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/aston-martin/vantage/",
+            "date": "2025-08-20"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/aston-martin/vantage/",
+            "date": "2025-10-05"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the Vantage due to small US owner population and limited consumer submissions. No quantitative star rating is available.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/aston-martin/vantage/",
+          "https://www.kbb.com/aston-martin/vantage/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Vantage Coupe",
+          "trim_slug": "vantage-coupe",
+          "trim_family": "vantage-coupe",
+          "is_base_trim": true,
+          "msrp_base": 194500,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 4,
+            "engine_config": "V8",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 656,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 590,
+            "transmission": "8-speed automatic (ZF 8HP, rear-mid-mounted)",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 15,
+            "highway_mpg": 22,
+            "combined_mpg": 18,
+            "fuel_tank_gal": 19.3,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3850
+          },
+          "performance": {
+            "zero_to_60_sec": 3.4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 202,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 176.9,
+            "width_in": 78,
+            "height_in": 50.2,
+            "wheelbase_in": 106.5,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3847,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 12
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "275/35ZR21 front / 325/30ZR21 rear (Michelin Pilot Sport S 5)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Aston Martin Premium Audio 11-speaker (Bowers & Wilkins 15-speaker optional)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Adaptive damping (Bilstein DTX)",
+              "Electronic rear differential (E-Diff) with dynamic torque vectoring",
+              "Carbon ceramic brakes optional",
+              "Hand-stitched leather interior",
+              "Aston Martin Online Services / OTA updates",
+              "Five drive modes (Wet, Sport, Sport+, Track, Individual)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---vantage-coupe/exterior/overlays/exterior-front-01.jpg?mw=1920&rev=-1&hash=59C4AE8E38890AAF609EA6DD51295FE0",
+              "local_path": "images/aston-martin/vantage/vantage-coupe/front-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---vantage-coupe/exterior/tiles/03_rear.jpg?mw=1920&rev=-1&hash=1B9F0287F6441FFE171607C928B718FC",
+              "local_path": "images/aston-martin/vantage/vantage-coupe/rear-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.astonmartin.com/-/media/models---vantage-coupe/exterior/tiles/02_side.jpg?mw=1920&rev=-1&hash=8E07D68E6D7645BD833C9CD2521B0B6C",
+              "local_path": "images/aston-martin/vantage/vantage-coupe/side-profile.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.astonmartin.com/-/media/models---vantage-coupe/interior/tiles/01_styling.jpg?mw=1920&rev=-1&hash=6C4BB19B0322D074203E5B6FEBBCDE87",
+              "local_path": "images/aston-martin/vantage/vantage-coupe/interior-dashboard.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.caranddriver.com/aston-martin/vantage",
+            "powertrain": "https://www.astonmartin.com/en-us/models/vantage-coupe",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49773",
+            "performance.zero_to_60_sec": "https://www.astonmartin.com/en-us/models/vantage-coupe",
+            "dimensions": "https://www.astonmartin.com/en-us/models/vantage-coupe",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/ASTON%20MARTIN",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.astonmartin.com/en-us/models/vantage-coupe",
+            "warranty": "https://www.astonmartin.com/en-us/owners"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: this is the single Vantage Coupe configuration; is_base_trim true with delta_from_base null applied atomically. Aston Martin does not publish US MSRP on its consumer or press sites; per spec §4 dealer sites, content farms (Carbuzz, Motor1, Autoblog, Cars Frenzy), and Wikipedia/Wikimedia are forbidden as primary MSRP sources. KBB-cited starting MSRP is approximately $191,000-$194,500 but cannot be cited per spec. EPA fueleconomy.gov ID 49773 verified as 2026 Aston Martin Vantage, 4.0L V8 turbo, 8-speed automatic, RWD. Horsepower 656 hp reflects SAE-net figure widely reported by US press; the astonmartin.com/en-us spec table shows 680 PS / 670 BHP (European/PS measurement) on the same engine — both reflect the same physical output measured under different standards. NHTSA and IIHS have not crash-tested any Aston Martin model. Vantage Roadster is a separate model entry per body-style differentiation rule (convertible vs coupe). Vantage S is a separate model entry per performance-variant rule (own marketing page, distinct chassis tuning, higher hp). Sound system: standard 11-speaker Aston Martin Premium Audio; Bowers & Wilkins 15-speaker available. MSRP source: Car and Driver editorial Vantage review page lists base price $194,500 (low end of $194,500–$214,500 range) per §4.6 scoped policy; manufacturer does not publish US MSRP. Cross-checked against MotorTrend Vantage page which publishes the same $194,500–$214,500 range."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Vantage Coupe is the sole base model in this entry. Vantage Roadster and Vantage S are separate model entries per body-style/performance-variant rules. The 2024 redesign carried unchanged into the 2026 model year with no powertrain change. Aston Martin USA does not publish MSRP on consumer or press subdomains; per spec §4 third-party retail sites are not permitted as sole MSRP source, so msrp_base and destination_fee are null. NHTSA/IIHS do not publish ratings for Aston Martin. JD Power and Consumer Reports do not publish reliability scores for low-volume luxury brands."
+    },
+    {
+      "model": "Vantage S",
+      "model_slug": "vantage-s",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "Performance-focused variant of the fourth-generation Vantage; revealed July 9, 2025. Available in Coupe and Roadster body styles. The Vantage S nameplate returns for the first time since 2018. The Coupe is captured here; the Roadster is included in the same model entry as a step-up trim since astonmartin.com presents both under the same Vantage S model page.",
+      "msrp_range": {
+        "low": 199500,
+        "high": 199500
+      },
+      "model_summary": "Performance-focused Vantage variant with the same Mercedes-AMG-sourced 4.0L twin-turbo V8 retuned to 671 hp (680 PS), revised adaptive dampers (stiffer front, softer rear), recalibrated steering, new aero (front splitter, bonnet blades, rear lip spoiler producing 111 kg total downforce at Vmax), and bespoke 21-inch forged wheels. Available in Coupe and Roadster.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not sample Aston Martin due to low US sales volume. No quantitative reliability rating is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Aston Martin because of low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently rate the Vantage S a meaningful step up from the standard Vantage: the 14-hp engine increase is less talked-about than the chassis revisions, which deliver sharper turn-in, better mid-corner balance, and a more progressive limit. Praise centers on the rear-wheel-drive playfulness, the AMG V8's character, and the cleaner, more aggressive aero treatment. Critiques focus on a firm ride and the high price relative to the standard Vantage.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/car-news/2026-aston-martin-vantage-s-first-drive-review.html",
+            "date": "2025-12-10"
+          },
+          {
+            "publication": "Hagerty",
+            "url": "https://www.hagerty.com/media/new-car-reviews/2026-aston-martin-vantage-s-the-potent-and-playful-british-sports-car-evolved/",
+            "date": "2025-11-22"
+          },
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/aston-martin/vantage",
+            "date": "2026-01-18"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not yet publish meaningful owner-review aggregates for the Vantage S due to the recency of US deliveries (Q4 2025) and very small owner population.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/aston-martin/vantage-s/",
+          "https://www.kbb.com/aston-martin/vantage/2026/s/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Vantage S Coupe",
+          "trim_slug": "vantage-s-coupe",
+          "trim_family": "vantage-s-coupe",
+          "is_base_trim": true,
+          "msrp_base": 199500,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 4,
+            "engine_config": "V8",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 671,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 590,
+            "transmission": "8-speed automatic (ZF 8HP, rear-mid-mounted)",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 15,
+            "highway_mpg": 22,
+            "combined_mpg": 18,
+            "fuel_tank_gal": 19.3,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3850
+          },
+          "performance": {
+            "zero_to_60_sec": 3.3,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 202,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 176.9,
+            "width_in": 78,
+            "height_in": 50.2,
+            "wheelbase_in": 106.5,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3847,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 12
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "275/35ZR21 front / 325/30ZR21 rear (Michelin Pilot Sport S 5, bespoke compound)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Aston Martin Premium Audio 11-speaker (Bowers & Wilkins 15-speaker optional)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Revised adaptive damping (stiffer front, softer rear vs. standard Vantage)",
+              "New front splitter and rear lip spoiler (44 kg rear downforce at Vmax)",
+              "Bonnet blades and hand-forged 'S' badging",
+              "Recalibrated steering and accelerator pedal feel",
+              "Electronic rear differential (E-Diff) with dynamic torque vectoring",
+              "Carbon ceramic brakes optional",
+              "Bespoke 'S' interior trim package"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---vantage-s/final/final-overlays/chassis-overlay-front.jpg?mw=1920&rev=-1&hash=C515C8FB87D15E9E87BE8EF8708C2762",
+              "local_path": "images/aston-martin/vantage-s/vantage-s-coupe/front-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---vantage-s/final/final-tiles/rear-tile.jpg?mw=1920&rev=-1&hash=C1FA3FEB545D56A5405A1FFB102EFFD2",
+              "local_path": "images/aston-martin/vantage-s/vantage-s-coupe/rear-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.astonmartin.com/-/media/models---vantage-s/final/final-overlays/chassis-side-overlay.jpg?mw=1920&rev=-1&hash=CCA74949A153F46EF4339B149FC237CE",
+              "local_path": "images/aston-martin/vantage-s/vantage-s-coupe/side-profile.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.astonmartin.com/-/media/models---vantage-s/final/interior-scroller-hd.jpg?rev=-1",
+              "local_path": "images/aston-martin/vantage-s/vantage-s-coupe/interior-dashboard.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.caranddriver.com/aston-martin/vantage",
+            "powertrain": "https://www.astonmartin.com/en-us/our-world/news/2025/7/9/aston-martin-vantage-s-the-peak-of-sports-car-performance",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/bymodel/2026_Aston_Martin.shtml",
+            "performance.zero_to_60_sec": "https://www.astonmartin.com/en-us/our-world/news/2025/7/9/aston-martin-vantage-s-the-peak-of-sports-car-performance",
+            "dimensions": "https://www.astonmartin.com/en-us/models/vantage-s",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/ASTON%20MARTIN",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.astonmartin.com/en-us/models/vantage-s",
+            "warranty": "https://www.astonmartin.com/en-us/owners"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model treated as its own family per performance-variant rule. Aston Martin Vantage S press release confirms 680 PS / 671 hp (14 hp over standard Vantage's 656 hp), 0-60 in 3.3 sec (0.1 sec faster than standard), 202 mph top speed unchanged. Aston Martin does not publish US MSRP; per spec §4 dealer-cited starting MSRP near $196,000 cannot be used as sole primary source. EPA has not published a separate ID for Vantage S — it shares the Vantage 4.0L V8 8AT RWD platform and the fueleconomy.gov model-browse page is cited until EPA publishes a discrete Vantage S entry. Roadster version of Vantage S exists but is sold under the same vantage-s model page (Aston groups both body styles together); a separate body-style entry was considered but not split here because Aston Martin's marketing presents 'Vantage S Roadster' as a body variant within Vantage S rather than a distinct model (unlike Vantage Coupe/Roadster which are presented as separate sub-models). MSRP source: Car and Driver editorial Vantage review page lists Vantage S Coupe Base: $199,500 per §4.6 scoped policy; manufacturer does not publish US MSRP. Hagerty editorial article cites ~$196,000 from Aston PR — minor disagreement reflects whether destination/handling included; Car and Driver figure used as primary."
+        },
+        {
+          "trim": "Vantage S Roadster",
+          "trim_slug": "vantage-s-roadster",
+          "trim_family": "vantage-s-roadster",
+          "is_base_trim": false,
+          "msrp_base": null,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": {
+            "zero_to_60_sec": 3.4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 202,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 176.9,
+            "width_in": 78,
+            "height_in": 50.2,
+            "wheelbase_in": 106.5,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3979,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 7.6
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": null,
+          "safety": null,
+          "features": null,
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---vantage-s/final/final-overlays/chassis-overlay-front.jpg?mw=1920&rev=-1&hash=C515C8FB87D15E9E87BE8EF8708C2762",
+              "local_path": "images/aston-martin/vantage-s/vantage-s-roadster/front-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---vantage-s/final/final-tiles/rear-tile.jpg?mw=1920&rev=-1&hash=C1FA3FEB545D56A5405A1FFB102EFFD2",
+              "local_path": "images/aston-martin/vantage-s/vantage-s-roadster/rear-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.astonmartin.com/-/media/models---vantage-s/final/final-overlays/chassis-side-overlay.jpg?mw=1920&rev=-1&hash=CCA74949A153F46EF4339B149FC237CE",
+              "local_path": "images/aston-martin/vantage-s/vantage-s-roadster/side-profile.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.astonmartin.com/-/media/models---vantage-s/final/interior-scroller-hd.jpg?rev=-1",
+              "local_path": "images/aston-martin/vantage-s/vantage-s-roadster/interior-dashboard.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.astonmartin.com/en-us/models/vantage-s",
+            "powertrain": "https://www.astonmartin.com/en-us/our-world/news/2025/7/9/aston-martin-vantage-s-the-peak-of-sports-car-performance",
+            "performance.zero_to_60_sec": "https://www.astonmartin.com/en-us/models/vantage-roadster",
+            "dimensions": "https://www.astonmartin.com/en-us/models/vantage-roadster"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "vantage-s-coupe",
+            "msrp_delta_usd": null,
+            "changes": [
+              "Convertible (Z-fold soft top) body style replacing fixed coupe roof; opens in 6.8 seconds, closes in 6.8 seconds",
+              "Curb weight increases approximately 132 lb (60 kg) due to convertible structure and roof mechanism",
+              "0-60 mph slightly slower at 3.4 sec (vs. 3.3 sec coupe) due to weight gain",
+              "Trunk volume reduced (approximately 7.6 cu ft vs. 12.0 cu ft) to accommodate folded roof stack",
+              "Weight distribution shifts to 49% front / 51% rear (vs. 50/50 coupe)",
+              "Same powertrain, transmission, drivetrain, wheels/tires, and standard equipment as Vantage S Coupe"
+            ]
+          },
+          "notes": "Roadster body style of Vantage S. Powertrain identical to coupe (671 hp, 590 lb-ft, RWD); only chassis/body-related dimensions and performance change. Singleton trim_family vantage-s-roadster carries the 4 required image angles. Aston Martin does not publish discrete US MSRP for this body style. MSRP not findable from allowed editorial sources as of 2026-05-15. Car and Driver Vantage page lists a model-range top of $214,500 (likely corresponds to Vantage S Roadster as the most expensive Vantage configuration) but does not explicitly label that figure to this variant; per §4.6 scoped policy the value must be unambiguously attributed to be cited, so msrp_base remains null."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Vantage S is split as a separate model from Vantage Coupe per performance-variant rule: Aston Martin gives Vantage S its own dedicated marketing page (astonmartin.com/en-us/models/vantage-s), its own July 2025 press release, and a distinct chassis tuning + power calibration. Two trims represent Coupe and Roadster body styles within Vantage S since Aston groups them under the same model page. The standard Vantage Roadster (656 hp) is in its own model entry."
+    },
+    {
+      "model": "Vantage Roadster",
+      "model_slug": "vantage-roadster",
+      "model_year": 2026,
+      "body_style": "convertible",
+      "generation_context": "Convertible (open-top) variant of the fourth-generation Vantage; revealed February 2024 alongside the coupe. Z-fold fabric roof, 4.0L Mercedes-AMG twin-turbo V8 tuned to 656 hp. Vantage Roadster is split as a separate model entry per body-style differentiation rule (convertible vs coupe). The S-tuned Roadster is included under Vantage S.",
+      "msrp_range": {
+        "low": 200000,
+        "high": 200000
+      },
+      "model_summary": "Convertible counterpart to the Vantage Coupe, with the same Mercedes-AMG 4.0L twin-turbo V8 producing 656 hp through an 8-speed ZF automatic to the rear wheels. Z-fold soft top operates in under 7 seconds at speeds up to 31 mph. Trades approximately 130 lb of weight and some torsional rigidity for open-top motoring.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not sample Aston Martin due to low US sales volume. No quantitative reliability rating is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Aston Martin because of low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the Vantage Roadster as preserving virtually all of the coupe's character while adding open-top theater. The Z-fold roof operation is among the fastest in the segment, and structural reinforcements keep flex modest. Critiques focus on the slight weight penalty, reduced trunk volume, and minor 0-60 time loss.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/car-news/2026-aston-martin-vantage-roadster-first-drive-review.html",
+            "date": "2025-06-15"
+          },
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/aston-martin/vantage",
+            "date": "2025-09-15"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the Vantage Roadster due to small US owner population.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/aston-martin/vantage/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Vantage Roadster",
+          "trim_slug": "vantage-roadster",
+          "trim_family": "vantage-roadster",
+          "is_base_trim": true,
+          "msrp_base": 200000,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 4,
+            "engine_config": "V8",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 656,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 590,
+            "transmission": "8-speed automatic (ZF 8HP, rear-mid-mounted)",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 15,
+            "highway_mpg": 22,
+            "combined_mpg": 18,
+            "fuel_tank_gal": 19.3,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3850
+          },
+          "performance": {
+            "zero_to_60_sec": 3.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 202,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 176.9,
+            "width_in": 78,
+            "height_in": 50.2,
+            "wheelbase_in": 106.5,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3979,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 7.6
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "275/35ZR21 front / 325/30ZR21 rear (Michelin Pilot Sport S 5)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Aston Martin Premium Audio 11-speaker (Bowers & Wilkins 15-speaker optional)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Z-fold fabric convertible roof (opens/closes in 6.8 seconds, operable up to 31 mph)",
+              "Adaptive damping (Bilstein DTX)",
+              "Electronic rear differential (E-Diff) with dynamic torque vectoring",
+              "Carbon ceramic brakes optional",
+              "Hand-stitched leather interior",
+              "Reinforced structure with additional roll-over protection"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---ng-vantage-roadster/vr-redesign/overlays/exterior/front-overlay-1.jpg?mw=1920&rev=-1&hash=3AA5E794566D77D63C4AD664AD57C97C",
+              "local_path": "images/aston-martin/vantage-roadster/vantage-roadster/front-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---ng-vantage-roadster/vr-redesign/overlays/exterior/rear-overlay-1.jpg?mw=1920&rev=-1&hash=DB7F1BFD159EBE7BFBDBB83B8B81E64A",
+              "local_path": "images/aston-martin/vantage-roadster/vantage-roadster/rear-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.astonmartin.com/-/media/models---ng-vantage-roadster/vr-redesign/tiles/exterior/side-tile.jpg?mw=1920&rev=-1&hash=F1579BFD0E241BD47F6234EABD028A97",
+              "local_path": "images/aston-martin/vantage-roadster/vantage-roadster/side-profile.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.astonmartin.com/-/media/models---ng-vantage-roadster/vr-redesign/heroes/interior-hero-desk.jpg?rev=-1",
+              "local_path": "images/aston-martin/vantage-roadster/vantage-roadster/interior-dashboard.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.caranddriver.com/aston-martin/vantage",
+            "powertrain": "https://www.astonmartin.com/en-us/models/vantage-roadster",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49773",
+            "performance.zero_to_60_sec": "https://www.astonmartin.com/en-us/models/vantage-roadster",
+            "dimensions": "https://www.astonmartin.com/en-us/models/vantage-roadster",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/ASTON%20MARTIN",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.astonmartin.com/en-us/models/vantage-roadster",
+            "warranty": "https://www.astonmartin.com/en-us/owners"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model; is_base_trim true with delta_from_base null applied atomically. Powertrain identical to Vantage Coupe (656 hp 4.0L V8 twin-turbo, 8AT, RWD). EPA does not separately rate the Roadster — same Vantage ID 49773 is used, which is the platform's single EPA entry for 2026. The Vantage S Roadster (671 hp variant) is captured under the Vantage S model entry. Aston Martin does not publish US MSRP; dealer-reported MSRPs (~$206,000-$240,000) cannot be cited per spec §4. MSRP source: Car and Driver editorial Vantage review page lists Vantage Roadster Base: $200,000 (C/D estimate) per §4.6 scoped policy; manufacturer does not publish US MSRP."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Vantage Roadster split as a separate model from Vantage Coupe per body-style differentiation rule. Roadster shares the Vantage Coupe powertrain and dimensions (chassis-wise) but differs in weight (+132 lb), trunk capacity, and 0-60 (3.5 vs 3.4 sec). Aston Martin USA does not publish MSRP."
+    },
+    {
+      "model": "DB12",
+      "model_slug": "db12",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "Successor to the DB11, revealed May 2023 and on sale from late 2023. Marketed as the world's first 'Super Tourer'. 4.0L Mercedes-AMG-sourced M177 twin-turbo V8 retuned by Aston Martin to 671 hp. Coupe captured here; DB12 Volante (convertible) and DB12 S (performance variant) are separate model entries per body-style and performance-variant rules.",
+      "msrp_range": {
+        "low": 265500,
+        "high": 265500
+      },
+      "model_summary": "Two-door, 2+2 grand tourer with a 4.0L Mercedes-AMG-sourced twin-turbo V8 producing 671 hp and 590 lb-ft of torque through an 8-speed ZF automatic to the rear wheels with an electronic differential. Replaces the DB11 with a new bonded-aluminum body structure, a new 10.25-inch infotainment system, and substantial chassis upgrades.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not sample Aston Martin due to low US sales volume. No quantitative reliability rating is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Aston Martin because of low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently rate the DB12 as a significant improvement over the DB11, with markedly better chassis dynamics, a more cohesive interior, and an infotainment system that finally matches the price tag. Praise centers on the bonded-aluminum structure's torsional stiffness, the AMG V8's responsiveness, and the GT-leaning ride. Critiques focus on the heavy use of Mercedes switchgear, ergonomic quirks, and the gearbox's occasional reluctance to downshift smoothly.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/aston-martin/db12",
+            "date": "2025-10-12"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/aston-martin/db12/",
+            "date": "2025-08-22"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/aston-martin/db12/",
+            "date": "2025-09-30"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the DB12 due to small US owner population.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/aston-martin/db12/",
+          "https://www.kbb.com/aston-martin/db12/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "DB12 Coupe",
+          "trim_slug": "db12-coupe",
+          "trim_family": "db12-coupe",
+          "is_base_trim": true,
+          "msrp_base": 265500,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 4,
+            "engine_config": "V8",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 671,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 590,
+            "transmission": "8-speed automatic (ZF 8HP, rear-mid-mounted)",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 15,
+            "highway_mpg": 22,
+            "combined_mpg": 17,
+            "fuel_tank_gal": 20.6,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4050
+          },
+          "performance": {
+            "zero_to_60_sec": 3.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 202,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 186,
+            "width_in": 78,
+            "height_in": 51,
+            "wheelbase_in": 110.4,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3942,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 9.25
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "275/35ZR21 front / 325/30ZR21 rear (Michelin Pilot Sport S 5)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Aston Martin Premium Audio 11-speaker (Bowers & Wilkins 15-speaker optional)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Bonded-aluminum body structure (7% stiffer than DB11)",
+              "Adaptive damping (Bilstein DTX) with five drive modes",
+              "Electronic rear differential (E-Diff) with dynamic torque vectoring",
+              "Carbon ceramic brakes optional",
+              "Hand-stitched bespoke leather interior with semi-aniline option",
+              "Apple CarPlay Ultra (added May 2025)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---db12/aug-2024-updates/scrollable-image-stills---engineering-desktop/engineering_still_desktop_db12_stills_ext_1201_front_7-8_dyn_rgb.jpg?rev=-1",
+              "local_path": "images/aston-martin/db12/db12-coupe/front-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---db12/db12_stills_ext_1202_rear_dyn_rgb_desktop-1.jpg?mw=1920&rev=7137765f21a54975bea1bcdc7acac115&hash=341B73E77DCE7711FBB38DEC8A28D9CD",
+              "local_path": "images/aston-martin/db12/db12-coupe/rear-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.astonmartin.com/en-us/models/db12",
+              "local_path": "images/aston-martin/db12/db12-coupe/side-profile.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.astonmartin.com/-/media/models---db12/aug-2024-updates/scrollable-image-stills---interior-desktop/interior_still_image_desktop_20240829131206.jpg?rev=-1",
+              "local_path": "images/aston-martin/db12/db12-coupe/interior-dashboard.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.caranddriver.com/aston-martin/db12",
+            "powertrain": "https://www.astonmartin.com/en-us/models/db12",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49780",
+            "performance.zero_to_60_sec": "https://www.astonmartin.com/en-us/models/db12",
+            "dimensions": "https://www.astonmartin.com/en-us/models/db12",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/ASTON%20MARTIN",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.astonmartin.com/en-us/models/db12",
+            "warranty": "https://www.astonmartin.com/en-us/owners"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: only one DB12 Coupe configuration; is_base_trim true with delta_from_base null applied atomically. DB12 Volante (convertible) is a separate model entry per body-style rule. DB12 S (performance variant, 690 hp) is a separate model entry per performance-variant rule. Aston Martin does not publish US MSRP; dealer-reported figures (~$252,000-$265,000) cannot be cited per spec §4. EPA ID 49780 verified as 2026 Aston Martin DB12 V8, 4.0L 8AT RWD. Apple CarPlay Ultra added via OTA update in May 2025 (US debut). MSRP source: Car and Driver editorial DB12 review page lists 2026 DB12 starting price at $265,500 (low end of model-wide $265,500–$380,507 range) per §4.6 scoped policy; manufacturer does not publish US MSRP."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "DB12 (Coupe) is sole-trim. DB12 Volante and DB12 S split as separate models. The 60th Anniversary editions referenced on astonmartin.com are limited-run special editions on top of the DB12 Volante and Vanquish Volante platforms; treated as packages/options rather than separate model entries per spec §6.5."
+    },
+    {
+      "model": "DB12 S",
+      "model_slug": "db12-s",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "Performance-focused halo variant of the DB12, revealed October 8, 2025. Same 4.0L Mercedes-AMG twin-turbo V8 retuned to 690 hp (700 PS) with shift times cut to 120 ms, carbon ceramic brakes standard, and revised aerodynamics. Coupe and Volante body styles offered; the Coupe is captured as the base trim with Volante as the step-up to match the model's published structure. First deliveries Q1 2026.",
+      "msrp_range": {
+        "low": 300100,
+        "high": 300100
+      },
+      "model_summary": "Top-of-the-DB12-range performance variant with 690 hp from the same 4.0L Mercedes-AMG twin-turbo V8, plus carbon ceramic brakes, a recalibrated 8-speed ZF gearbox with 120-millisecond shifts, a new dual-element front splitter, functional bonnet louvres, and a fixed carbon-fiber rear spoiler. 0-60 in 3.4 seconds.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not sample Aston Martin due to low US sales volume. No quantitative reliability rating is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Aston Martin because of low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the DB12 S as the most focused front-engine GT Aston Martin currently builds: sharper steering, more aggressive throttle calibration, and the addition of standard carbon ceramic brakes reduce unsprung weight. Reviewers note the S sits on a knife-edge between GT and supercar character, with critique focused on the absence of an electrified system to match the segment trend.",
+        "links": [
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-news/first-look/top-db-tree-behold-new-690bhp-aston-martin-db12-s",
+            "date": "2025-10-09"
+          },
+          {
+            "publication": "Robb Report",
+            "url": "https://robbreport.com/motors/cars/aston-martin-db12-revealed-1237241512/",
+            "date": "2025-10-08"
+          },
+          {
+            "publication": "duPont Registry",
+            "url": "https://news.dupontregistry.com/blogs/reviews/review-2026-aston-martin-db12-s",
+            "date": "2026-02-15"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not yet publish owner-review aggregates for the DB12 S — first US deliveries Q1 2026.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/aston-martin/db12-s/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "DB12 S Coupe",
+          "trim_slug": "db12-s-coupe",
+          "trim_family": "db12-s-coupe",
+          "is_base_trim": true,
+          "msrp_base": 300100,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 4,
+            "engine_config": "V8",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 690,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 590,
+            "transmission": "8-speed automatic (ZF 8HP, recalibrated for 120 ms shifts)",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 15,
+            "highway_mpg": 22,
+            "combined_mpg": 17,
+            "fuel_tank_gal": 20.6,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4050
+          },
+          "performance": {
+            "zero_to_60_sec": 3.4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 202,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 186,
+            "width_in": 78,
+            "height_in": 51,
+            "wheelbase_in": 110.4,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3883,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 9.25
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "275/35ZR21 front / 325/30ZR21 rear (Michelin Pilot Sport S 5)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Aston Martin Premium Audio 11-speaker (Bowers & Wilkins 15-speaker optional)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Carbon ceramic brakes standard (saves 27 kg / 60 lb unsprung)",
+              "Recalibrated 8-speed ZF gearbox (120 ms shift times, 43% faster than DB12)",
+              "Dual-element front splitter and functional bonnet louvres",
+              "Fixed carbon-fiber rear spoiler",
+              "Quad exhaust tailpipes",
+              "S-specific interior with red anodized accents",
+              "Stiffer adaptive damper tuning vs. standard DB12"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---db12-s/final-images/overlays/front-tile-new-final.jpg?mw=1920&rev=-1&hash=EC32AF21C60C0833E11FA13659183E25",
+              "local_path": "images/aston-martin/db12-s/db12-s-coupe/front-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---db12-s/final-images/tiles/rear-tile.jpg?mw=1920&rev=-1&hash=847854BB4D2F319A406835A0DEE6F588",
+              "local_path": "images/aston-martin/db12-s/db12-s-coupe/rear-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.astonmartin.com/-/media/models---db12-s/final-images/tiles/side-tile.jpg?mw=1920&rev=-1&hash=349026A37197A38A1A4C3487239943BE",
+              "local_path": "images/aston-martin/db12-s/db12-s-coupe/side-profile.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.astonmartin.com/-/media/models---db12-s/final-images/heros/interior-hero-desktop.jpg?rev=-1",
+              "local_path": "images/aston-martin/db12-s/db12-s-coupe/interior-dashboard.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.caranddriver.com/aston-martin/db12",
+            "powertrain": "https://www.astonmartin.com/en-us/our-world/news/2025/10/8/aston-martin-db12-s-the-new-pinnacle-of-performance-and-style",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/bymodel/2026_Aston_Martin.shtml",
+            "performance.zero_to_60_sec": "https://www.astonmartin.com/en-us/our-world/news/2025/10/8/aston-martin-db12-s-the-new-pinnacle-of-performance-and-style",
+            "dimensions": "https://www.astonmartin.com/en-us/models/db12-s",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/ASTON%20MARTIN",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.astonmartin.com/en-us/models/db12-s",
+            "warranty": "https://www.astonmartin.com/en-us/owners"
+          },
+          "delta_from_base": null,
+          "notes": "Sole base trim for DB12 S Coupe family. The carbon-ceramic brakes (standard on S) reduce unsprung weight by 27 kg/60 lb vs. the DB12; weight estimate of 3,883 lb reflects this saving but specific Aston-published curb weight for the S has not been confirmed in primary sources. EPA has not published a discrete entry for DB12 S — same 4.0L V8 RWD platform as DB12 (ID 49780) so the same fuel-economy figures are applied with the fueleconomy.gov model-browse page cited until EPA publishes a separate DB12 S entry. Aston Martin does not publish US MSRP. MSRP source: Car and Driver editorial DB12 review specifications table lists 2026 Aston Martin DB12 S Coupe Base: $300,100 per §4.6 scoped policy; manufacturer does not publish US MSRP."
+        },
+        {
+          "trim": "DB12 S Volante",
+          "trim_slug": "db12-s-volante",
+          "trim_family": "db12-s-volante",
+          "is_base_trim": false,
+          "msrp_base": null,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": {
+            "zero_to_60_sec": 3.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 202,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 186,
+            "width_in": 78,
+            "height_in": 51,
+            "wheelbase_in": 110.4,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 4090,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 7.4
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": null,
+          "safety": null,
+          "features": null,
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---db12-s/final-images/overlays/front-tile-new-final.jpg?mw=1920&rev=-1&hash=EC32AF21C60C0833E11FA13659183E25",
+              "local_path": "images/aston-martin/db12-s/db12-s-volante/front-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---db12-s/final-images/tiles/rear-tile.jpg?mw=1920&rev=-1&hash=847854BB4D2F319A406835A0DEE6F588",
+              "local_path": "images/aston-martin/db12-s/db12-s-volante/rear-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.astonmartin.com/-/media/models---db12-s/final-images/tiles/side-tile.jpg?mw=1920&rev=-1&hash=349026A37197A38A1A4C3487239943BE",
+              "local_path": "images/aston-martin/db12-s/db12-s-volante/side-profile.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.astonmartin.com/-/media/models---db12-s/final-images/heros/interior-hero-desktop.jpg?rev=-1",
+              "local_path": "images/aston-martin/db12-s/db12-s-volante/interior-dashboard.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.astonmartin.com/en-us/models/db12-s",
+            "powertrain": "https://www.astonmartin.com/en-us/our-world/news/2025/10/8/aston-martin-db12-s-the-new-pinnacle-of-performance-and-style",
+            "performance.zero_to_60_sec": "https://www.astonmartin.com/en-us/our-world/news/2025/10/8/aston-martin-db12-s-the-new-pinnacle-of-performance-and-style",
+            "dimensions": "https://www.astonmartin.com/en-us/models/db12-s"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "db12-s-coupe",
+            "msrp_delta_usd": null,
+            "changes": [
+              "Convertible (K-fold fabric roof) body style replacing fixed coupe roof; opens/closes at speeds up to 31 mph",
+              "Curb weight increases approximately 207 lb (95 kg) due to convertible structure and roof mechanism",
+              "0-60 mph slightly slower at 3.5 sec (vs. 3.4 sec coupe) due to weight gain",
+              "Trunk volume reduced to approximately 7.4 cu ft (vs. 9.25 cu ft) to accommodate folded roof stack",
+              "Same powertrain (690 hp), transmission, drivetrain, and standard equipment as DB12 S Coupe",
+              "Same carbon ceramic brakes, aero, and S-specific interior trim"
+            ]
+          },
+          "notes": "Volante body style of DB12 S. Powertrain identical to coupe. Singleton trim_family carries its own 4 required images. Weight estimate based on the +95 kg Volante gain noted on the DB12 Volante platform; specific Aston-published curb weight for DB12 S Volante not confirmed in primary sources. Aston Martin does not publish US MSRP. MSRP not findable from allowed editorial sources as of 2026-05-15. Car and Driver's DB12 review page lists the model-range top at $380,507 (which likely corresponds to DB12 S Volante as the most expensive DB12 variant) but does not explicitly attribute that figure to this trim, so msrp_base remains null per §4.6 attribution requirement."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "DB12 S split as a separate model from DB12 per performance-variant rule. Two body-style trims (Coupe and Volante) within the model since both share the same press release and US marketing page. First customer deliveries Q1 2026."
+    },
+    {
+      "model": "DB12 Volante",
+      "model_slug": "db12-volante",
+      "model_year": 2026,
+      "body_style": "convertible",
+      "generation_context": "Convertible variant of the DB12, revealed August 2023. K-fold fabric roof, 4.0L Mercedes-AMG twin-turbo V8 tuned to 671 hp. Split as a separate model from DB12 Coupe per body-style differentiation rule.",
+      "msrp_range": {
+        "low": null,
+        "high": null
+      },
+      "model_summary": "Open-top counterpart to the DB12 Coupe, with the same 671-hp twin-turbo V8 and 8-speed ZF automatic driving the rear wheels. K-fold fabric roof opens or closes in about 14-16 seconds at speeds up to 31 mph. Approximately 213 lb (95 kg) heavier than the coupe due to structural reinforcement and roof mechanism.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not sample Aston Martin due to low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Aston Martin because of low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the DB12 Volante as preserving the coupe's character while adding open-top theater. The K-fold roof is among the better-isolated convertible designs in the segment. Critiques focus on the weight penalty (approximately 200 lb), reduced trunk volume, and minor decreases in chassis rigidity.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/aston-martin/db12",
+            "date": "2025-07-10"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/aston-martin/db12/",
+            "date": "2025-09-22"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the DB12 Volante.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/aston-martin/db12/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "DB12 Volante",
+          "trim_slug": "db12-volante",
+          "trim_family": "db12-volante",
+          "is_base_trim": true,
+          "msrp_base": null,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 4,
+            "engine_config": "V8",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 671,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 590,
+            "transmission": "8-speed automatic (ZF 8HP, rear-mid-mounted)",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 15,
+            "highway_mpg": 22,
+            "combined_mpg": 17,
+            "fuel_tank_gal": 20.6,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4050
+          },
+          "performance": {
+            "zero_to_60_sec": 3.6,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 202,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 186,
+            "width_in": 78,
+            "height_in": 51,
+            "wheelbase_in": 110.4,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 4151,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 7.4
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "275/35ZR21 front / 325/30ZR21 rear (Michelin Pilot Sport S 5)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Aston Martin Premium Audio 11-speaker (Bowers & Wilkins 15-speaker optional)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "K-fold fabric convertible roof (operates at speeds up to 31 mph)",
+              "Bonded-aluminum structure reinforced for open-top body",
+              "Adaptive damping (Bilstein DTX) with five drive modes",
+              "Electronic rear differential (E-Diff) with dynamic torque vectoring",
+              "Carbon ceramic brakes optional",
+              "Hand-stitched bespoke leather interior",
+              "60th Anniversary Edition available as limited package"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.astonmartin.com/en-us/models/db12-volante",
+              "local_path": "images/aston-martin/db12-volante/db12-volante/front-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.astonmartin.com/en-us/models/db12-volante",
+              "local_path": "images/aston-martin/db12-volante/db12-volante/rear-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.astonmartin.com/-/media/models---db12-volante/exterior/tiles/final/tile_side_strake_shot_23-copy.jpg?mw=1920&rev=-1&hash=80CB45059E5942772A42BA2B9402913C",
+              "local_path": "images/aston-martin/db12-volante/db12-volante/side-profile.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.astonmartin.com/-/media/models---db12-volante/interior/tiles/final/final_audio_desktop_tile.jpg?mw=1920&rev=-1&hash=AB697A6D972E6A8C6582F92CE78B8BE1",
+              "local_path": "images/aston-martin/db12-volante/db12-volante/interior-dashboard.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.astonmartin.com/en-us/models/db12",
+            "powertrain": "https://www.astonmartin.com/en-us/models/db12",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49780",
+            "performance.zero_to_60_sec": "https://www.astonmartin.com/en-us/models/db12",
+            "dimensions": "https://www.astonmartin.com/en-us/models/db12",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/ASTON%20MARTIN",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.astonmartin.com/en-us/models/db12",
+            "warranty": "https://www.astonmartin.com/en-us/owners"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: only one DB12 Volante configuration; is_base_trim true with delta_from_base null applied atomically. The 60th Anniversary Edition is a limited-run option/package on top of the DB12 Volante per spec §6.5 and is not split as a separate trim. EPA uses the same DB12 V8 ID 49780 for both coupe and Volante (EPA does not separately rate the open-top variant). Aston Martin does not publish US MSRP; dealer-cited starting MSRP ~$269,000-$339,000 cannot be cited per spec §4. MSRP not findable from allowed editorial sources as of 2026-05-15. Car and Driver's DB12 page publishes a model-range of $265,500–$380,507 but does not separately label a 2026 DB12 Volante base figure; MotorTrend's DB12 spec table provides 2025 model-year prices only. Per §4.6 attribution requirement msrp_base remains null."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "DB12 Volante is the convertible body style split per body-style differentiation rule. Curb weight approximately 95 kg (~210 lb) heavier than DB12 Coupe due to convertible structure. 0-60 of 3.6 sec confirmed by Aston Martin DB12 marketing page."
+    },
+    {
+      "model": "Vanquish",
+      "model_slug": "vanquish",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "Third-generation Vanquish, revealed September 2, 2024 as Aston Martin's V12 flagship. Reintroduces the Vanquish nameplate after a 2018 hiatus. All-new bonded-aluminum platform; the only structural similarity to its predecessor is the 5.2-litre V12 displacement, with new block, heads, twin turbos, fuel injection, and exhaust. Two-door 2+2 GT coupe with 824 hp.",
+      "msrp_range": {
+        "low": 436500,
+        "high": 436500
+      },
+      "model_summary": "Aston Martin's V12 flagship grand tourer, powered by a new 5.2L twin-turbo V12 producing 824 hp and 738 lb-ft of torque through an 8-speed ZF rear-mid-mounted automatic to the rear wheels. 0-60 in 3.3 seconds and a top speed of 214 mph make it the marque's fastest series-production vehicle. Hand-built bonded-aluminum chassis with full carbon-fiber body panels.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not sample Aston Martin due to low US sales volume. No quantitative reliability rating is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Aston Martin because of low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the new Vanquish as a triumphant return for the V12 flagship — fast, beautifully made, and a deliberate counterpoint to industry electrification trends. Praise centers on the 5.2L V12's character, the carbon-ceramic-equipped chassis, and the bespoke craftsmanship. Critiques focus on the predictable thirst (16 mpg combined, gas guzzler tax applies), an interior that shares too much switchgear with cheaper Mercedes models, and the limited 1,000-unit-per-year production making cars hard to source.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/aston-martin/vanquish",
+            "date": "2025-11-08"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/aston-martin/vanquish/",
+            "date": "2025-10-22"
+          },
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/aston-martin/vanquish",
+            "date": "2025-12-15"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the Vanquish due to limited production and small US owner population.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/aston-martin/vanquish/",
+          "https://www.kbb.com/aston-martin/vanquish/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Vanquish Coupe",
+          "trim_slug": "vanquish-coupe",
+          "trim_family": "vanquish-coupe",
+          "is_base_trim": true,
+          "msrp_base": 436500,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 5.2,
+            "engine_config": "V12",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 824,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 738,
+            "transmission": "8-speed automatic (ZF 8HP, rear-mid-mounted)",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 13,
+            "highway_mpg": 21,
+            "combined_mpg": 16,
+            "fuel_tank_gal": 21.7,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4300
+          },
+          "performance": {
+            "zero_to_60_sec": 3.3,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 214,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 190.9,
+            "width_in": 78,
+            "height_in": 50.8,
+            "wheelbase_in": 113.6,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3911,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 8.76
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "275/35ZR21 front / 325/30ZR21 rear (Michelin Pilot Sport S 5, bespoke compound)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Bowers & Wilkins 15-speaker (standard on Vanquish)",
+            "sunroof": "none",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Bonded-aluminum chassis with carbon-fiber body panels",
+              "Carbon ceramic brakes standard (410mm front, 360mm rear)",
+              "Bilstein DTX adaptive dampers with five drive modes",
+              "Electronic rear differential (E-Diff) with dynamic torque vectoring",
+              "Quad exhaust outlets",
+              "Bespoke nappa leather and full Q customization program available",
+              "Production limited to under 1,000 examples per year",
+              "Gas Guzzler tax applies (EPA classification)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---vanquish/final-images/exterior/tiles/front-tile.jpg?mw=1920&rev=-1&hash=844BAA02140BE220E9F803FC18819F9C",
+              "local_path": "images/aston-martin/vanquish/vanquish-coupe/front-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---vanquish/final-images/exterior/tiles/rear-tile.jpg?mw=1920&rev=-1&hash=51411A8CA7F276E6FB48F6C237726831",
+              "local_path": "images/aston-martin/vanquish/vanquish-coupe/rear-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.astonmartin.com/-/media/models---vanquish/final-images/exterior/tiles/side-tile.jpg?mw=1920&rev=-1&hash=D0E4FA97DEAA84039995F638D09065C1",
+              "local_path": "images/aston-martin/vanquish/vanquish-coupe/side-profile.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.astonmartin.com/-/media/models---vanquish/final-images/interior/tiles/audio-tile.jpg?mw=1920&rev=-1&hash=1575B0619059E8E9373513A0C5EEE9BE",
+              "local_path": "images/aston-martin/vanquish/vanquish-coupe/interior-dashboard.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.caranddriver.com/aston-martin/vanquish",
+            "powertrain": "https://www.astonmartin.com/en-us/models/vanquish",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49165",
+            "performance.zero_to_60_sec": "https://www.astonmartin.com/en-us/models/vanquish",
+            "dimensions": "https://www.astonmartin.com/en-us/models/vanquish",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/ASTON%20MARTIN",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.astonmartin.com/en-us/models/vanquish",
+            "warranty": "https://www.astonmartin.com/en-us/owners"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: only one Vanquish Coupe configuration; is_base_trim true with delta_from_base null applied atomically. Vanquish Volante (convertible) is a separate model entry per body-style rule. No Vanquish S has been confirmed by Aston Martin press as of 2026-05-12 — Carscoops reported a spied 'Vanquish S' prototype in May 2026 but no official announcement; not included in this catalog. EPA ID 49165 verified as 2026 Aston Martin Vanquish, 5.2L V12 twin-turbo, 8AT, RWD, with Gas Guzzler classification. Aston Martin does not publish US MSRP; dealer-cited figures (~$464,000-$498,000) cannot be cited per spec §4. MSRP source: Car and Driver editorial Vanquish review page lists 2026 starting MSRP $436,500 (low end of $436,500–$489,700 model range) per §4.6 scoped policy; manufacturer does not publish US MSRP. Cross-checked against MotorTrend which publishes the same $436,500–$489,700 range."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Vanquish (Coupe) is sole-trim. Vanquish Volante is a separate model entry per body-style rule. 60th Anniversary Volante is a limited-run package on top of Vanquish Volante (not split). Production capped at under 1,000 units per year globally."
+    },
+    {
+      "model": "Vanquish Volante",
+      "model_slug": "vanquish-volante",
+      "model_year": 2026,
+      "body_style": "convertible",
+      "generation_context": "Convertible variant of the third-generation Vanquish, revealed March 25, 2025 as 'the world's fastest, most powerful front-engine convertible.' K-fold fabric roof, 5.2L twin-turbo V12 producing the same 824 hp as the coupe. Approximately 80 mm longer wheelbase and 95 kg heavier than the coupe.",
+      "msrp_range": {
+        "low": 489700,
+        "high": 489700
+      },
+      "model_summary": "Open-top counterpart to the Vanquish Coupe, with the same 5.2L twin-turbo V12 producing 824 hp and 738 lb-ft. K-fold fabric roof opens in 14 seconds and closes in 16 seconds, operable up to 31 mph. Marketed as the fastest and most powerful front-engine production convertible in the world (214 mph top speed).",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not sample Aston Martin due to low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Aston Martin because of low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the Vanquish Volante as a tour-de-force of the open-top GT format — virtually no compromise vs. the coupe in straight-line performance, with a roof system among the best in the segment. Critiques focus on the weight gain (+95 kg), small trunk, and predictable thirst from the V12.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/aston-martin/vanquish",
+            "date": "2025-11-08"
+          },
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/aston-martin/vanquish",
+            "date": "2025-12-15"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the Vanquish Volante.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/aston-martin/vanquish/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Vanquish Volante",
+          "trim_slug": "vanquish-volante",
+          "trim_family": "vanquish-volante",
+          "is_base_trim": true,
+          "msrp_base": 489700,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 5.2,
+            "engine_config": "V12",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 824,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 738,
+            "transmission": "8-speed automatic (ZF 8HP, rear-mid-mounted)",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 13,
+            "highway_mpg": 20,
+            "combined_mpg": 16,
+            "fuel_tank_gal": 21.7,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4300
+          },
+          "performance": {
+            "zero_to_60_sec": 3.4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 214,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 190.9,
+            "width_in": 78,
+            "height_in": 50.8,
+            "wheelbase_in": 116.8,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 4120,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 6.5
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "275/35ZR21 front / 325/30ZR21 rear (Michelin Pilot Sport S 5, bespoke compound)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Bowers & Wilkins 15-speaker",
+            "sunroof": "none",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "K-fold fabric convertible roof (opens in 14 sec, closes in 16 sec, operable up to 31 mph)",
+              "Wheelbase 80 mm longer than coupe (for roof stack packaging)",
+              "Bonded-aluminum chassis with carbon-fiber body panels",
+              "Carbon ceramic brakes standard",
+              "Bilstein DTX adaptive dampers with five drive modes",
+              "Electronic rear differential (E-Diff) with dynamic torque vectoring",
+              "Bespoke nappa leather and full Q customization program available",
+              "60th Anniversary Edition available as limited package",
+              "Gas Guzzler tax applies (EPA classification)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---vanquish-volante/final-images/tiles/exterior/front-tile-final-new.jpg?mw=1920&rev=-1&hash=4974DAD26AEAA45897954577377DE0FF",
+              "local_path": "images/aston-martin/vanquish-volante/vanquish-volante/front-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---vanquish-volante/final-images/tiles/exterior/rear-tile-final.jpg?mw=1920&rev=-1&hash=9740F831862BBCBE35F45C5448F33850",
+              "local_path": "images/aston-martin/vanquish-volante/vanquish-volante/rear-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.astonmartin.com/-/media/models---vanquish-volante/final-images/tiles/exterior/side-tile-final.jpg?mw=1920&rev=-1&hash=046E2B37CF07D2885E9629D3A0046E18",
+              "local_path": "images/aston-martin/vanquish-volante/vanquish-volante/side-profile.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.astonmartin.com/-/media/models---vanquish-volante/final-images/tiles/interior/center-console-tile-final.jpg?mw=1920&rev=-1&hash=4D8407141C2D72BBBF9D496F08833650",
+              "local_path": "images/aston-martin/vanquish-volante/vanquish-volante/interior-dashboard.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.caranddriver.com/aston-martin/vanquish",
+            "powertrain": "https://www.astonmartin.com/en-us/our-world/news/2025/3/25/aston-martin-vanquish-volante-the-world-s-fastest-most-powerful-front-engine-convertible",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49166",
+            "performance.zero_to_60_sec": "https://www.astonmartin.com/en-us/our-world/news/2025/3/25/aston-martin-vanquish-volante-the-world-s-fastest-most-powerful-front-engine-convertible",
+            "dimensions": "https://www.astonmartin.com/en-us/our-world/news/2025/3/25/aston-martin-vanquish-volante-the-world-s-fastest-most-powerful-front-engine-convertible",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/ASTON%20MARTIN",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.astonmartin.com/en-us/models/vanquish",
+            "warranty": "https://www.astonmartin.com/en-us/owners"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: only one Vanquish Volante configuration; is_base_trim true with delta_from_base null applied atomically. The Vanquish Volante press release confirms: same 824 hp/738 lb-ft as coupe, 0-60 mph in 3.4 sec, 214 mph top speed, K-fold roof 14/16 sec, wheelbase +80 mm vs. coupe (113.6 + 3.15 = 116.8 in), +95 kg curb weight vs. coupe. EPA ID 49166 verified as 2026 Aston Martin Vanquish Volante (separate entry from coupe), 5.2L V12, 8AT, RWD. Aston Martin does not publish US MSRP. MSRP source: Car and Driver editorial Vanquish review page lists 2026 model-range top of $489,700 corresponding to the convertible Volante (Vanquish is offered only as a single 'well-equipped' Coupe at $436,500 and Volante at $489,700 per the article) per §4.6 scoped policy; manufacturer does not publish US MSRP. MotorTrend Vanquish page publishes the same $436,500–$489,700 range, confirming the Volante figure."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Vanquish Volante split as a separate model from Vanquish Coupe per body-style differentiation rule. Wheelbase is 80 mm longer than coupe — unusual for a convertible variant; this allows the K-fold roof stack to package without sacrificing the rear deck profile. 60th Anniversary Edition is a limited package (~60 examples globally), treated per spec §6.5 as an option set."
+    },
+    {
+      "model": "DBX707",
+      "model_slug": "dbx707",
+      "model_year": 2026,
+      "body_style": "suv-midsize",
+      "generation_context": "First-generation DBX, introduced 2020; DBX707 high-performance variant added in 2022 as the SUV range's standard offering after the base DBX was discontinued. 4.0L Mercedes-AMG-sourced twin-turbo V8 retuned to 697 hp (707 PS). For 2026, the DBX S replaced the base DBX entirely in the US lineup, leaving the DBX707 and the new DBX S as the two SUV offerings. The base DBX (550 hp) is no longer sold new in the US.",
+      "msrp_range": {
+        "low": 276500,
+        "high": 276500
+      },
+      "model_summary": "High-performance 5-seat luxury SUV powered by a 4.0L Mercedes-AMG-sourced twin-turbo V8 producing 697 hp and 663 lb-ft of torque through a 9-speed wet-clutch automatic gearbox to all four wheels. 0-60 in 3.1 seconds and 193 mph top speed make it among the fastest production SUVs sold in the US. Adaptive air suspension and carbon-ceramic brakes are standard.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not sample Aston Martin due to low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Aston Martin because of low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently describe the DBX707 as the most engaging luxury SUV to drive — credible 911-pace acceleration, surprisingly composed handling for a 4,950-lb vehicle, and a tactile interior overhaul applied in 2024 with proper physical climate controls. Critiques focus on the firm low-speed ride, mediocre cargo capacity vs. competitors, and the heavy use of Mercedes infotainment.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/aston-martin/dbx",
+            "date": "2025-09-18"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/aston-martin/dbx707/",
+            "date": "2025-10-25"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/aston-martin/dbx707/",
+            "date": "2025-07-15"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the DBX707 due to small US owner population.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/aston-martin/dbx707/",
+          "https://www.kbb.com/aston-martin/dbx/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "DBX707",
+          "trim_slug": "dbx707",
+          "trim_family": "dbx707",
+          "is_base_trim": true,
+          "msrp_base": 276500,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 4,
+            "engine_config": "V8",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 697,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 663,
+            "transmission": "9-speed automatic (wet-clutch, magnesium-cased)",
+            "transmission_speeds": 9,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 15,
+            "highway_mpg": 20,
+            "combined_mpg": 17,
+            "fuel_tank_gal": 23.8,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4050
+          },
+          "performance": {
+            "zero_to_60_sec": 3.1,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 193,
+            "towing_capacity_lb": 5950,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 198.4,
+            "width_in": 78.7,
+            "height_in": 66.1,
+            "wheelbase_in": 120.5,
+            "ground_clearance_in": 7.5,
+            "curb_weight_lb": 4950,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 22.5,
+              "behind_1st_row": 54,
+              "max_with_seats_folded": 54,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "285/40R22 front / 325/35R22 rear (Pirelli P Zero); 23-inch optional"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Aston Martin Premium Audio 14-speaker (Bowers & Wilkins 23-speaker optional)",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Adaptive air suspension with electronic dampers (5 ride heights, 7.5\" GT mode / 9.3\" off-road)",
+              "Carbon ceramic brakes standard (420mm front, 390mm rear)",
+              "Hot-V twin-turbo configuration",
+              "Active center differential and electronic rear differential",
+              "Six drive modes (GT, Sport, Sport+, Individual, Terrain, Wet)",
+              "Active anti-roll bars (eARC)",
+              "Tow rating 5,950 lb (2,700 kg) — class-leading among performance SUVs",
+              "Cargo capacity 22.5 cu ft (638 L) behind 2nd row",
+              "2024 mid-cycle refresh: new gear selector, physical climate controls, updated interior"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.astonmartin.com/en-us/models/dbx707",
+              "local_path": "images/aston-martin/dbx707/dbx707/front-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---dbx707/dbx707-25my---november-2024-refresh/exterior/tiles/dbx-rear-tile-2.jpg?mw=1920&rev=-1&hash=CDBB215D2235CC1A12EF6A5157B77A37",
+              "local_path": "images/aston-martin/dbx707/dbx707/rear-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.astonmartin.com/en-us/models/dbx707",
+              "local_path": "images/aston-martin/dbx707/dbx707/side-profile.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.astonmartin.com/-/media/models---dbx707/dbx707-25my---november-2024-refresh/interior/tiles/dbx-connectivity-alt-tile.jpg?mw=1920&rev=-1&hash=D7402DB0FC59431B9E31428E65AD8BA1",
+              "local_path": "images/aston-martin/dbx707/dbx707/interior-dashboard.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.caranddriver.com/aston-martin/dbx",
+            "powertrain": "https://www.astonmartin.com/en-us/models/dbx707",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49891",
+            "performance.zero_to_60_sec": "https://www.astonmartin.com/en-us/models/dbx707",
+            "dimensions": "https://www.astonmartin.com/en-us/models/dbx707",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/ASTON%20MARTIN",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.astonmartin.com/en-us/models/dbx707",
+            "warranty": "https://www.astonmartin.com/en-us/owners"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: only one DBX707 configuration; is_base_trim true with delta_from_base null applied atomically. DBX S (727 PS / 717 hp) is a separate model entry per performance-variant rule. The non-707 base DBX (550 hp) is no longer sold new in the US for 2026 — confirmed by astonmartin.com/en-us SUV lineup showing only DBX707 and DBX S. EPA ID 49891 verified as 2026 Aston Martin DBX 707, 4.0L V8 turbo, 9AT, AWD. Tow rating 5,950 lb / 2,700 kg per Aston Martin DBX707 page. Aston Martin does not publish US MSRP; dealer-cited starting MSRP (~$253,000-$262,500) cannot be cited per spec §4. MSRP source: Car and Driver editorial DBX review page lists 2026 DBX 707 starting MSRP at $276,500 (low end of $276,500–$282,000 model range) per §4.6 scoped policy; manufacturer does not publish US MSRP."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "DBX707 is sole-trim. The DBX (base, 550 hp) was discontinued in the US after the 2024 model year; DBX707 became the entry into the DBX range, joined by DBX S in 2026. DBX707 carries a 2024 mid-cycle refresh that added physical climate controls and a redesigned center console."
+    },
+    {
+      "model": "DBX S",
+      "model_slug": "dbx-s",
+      "model_year": 2026,
+      "body_style": "suv-midsize",
+      "generation_context": "New flagship variant of the DBX SUV, revealed April 30, 2025. Builds on the DBX707 platform with turbochargers borrowed from the upcoming Valhalla hypercar (larger compressor wheels), an additional 30 PS / 20 hp, weight-reduction options (carbon roof, magnesium wheels, polycarbonate grille — up to 47 kg saved), and faster steering. First deliveries Q4 2025.",
+      "msrp_range": {
+        "low": 274500,
+        "high": 274500
+      },
+      "model_summary": "Top-of-DBX-range performance SUV with the same 4.0L Mercedes-AMG-sourced twin-turbo V8 retuned to 717 hp (727 PS) using Valhalla-derived turbochargers. 0-60 in 3.1 seconds, 193 mph top speed unchanged from DBX707. Optional weight-reduction package can shed up to 47 kg via carbon fiber roof, magnesium wheels, and polycarbonate grille.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not sample Aston Martin due to low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Aston Martin because of low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the DBX S as the most engaging luxury SUV currently available — meaningfully sharper than the DBX707 thanks to a faster steering ratio, tighter damper tuning, and the optional lightweighting kit. Praise centers on the engagement-to-mass ratio and the Valhalla-derived turbo technology. Critiques focus on the cost of the lightweight options and the absence of a hybrid system.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/car-news/2026-aston-martin-dbx-s-first-drive-review.html",
+            "date": "2025-12-08"
+          },
+          {
+            "publication": "Hagerty",
+            "url": "https://www.hagerty.com/media/new-car-reviews/first-drive-2026-aston-martin-dbx-s-adds-aggression-and-loses-weight/",
+            "date": "2025-11-15"
+          },
+          {
+            "publication": "The Drive",
+            "url": "https://www.thedrive.com/car-reviews/2026-aston-martin-dbx-s-first-drive-review",
+            "date": "2026-01-20"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not yet publish meaningful owner-review aggregates for the DBX S — first US deliveries Q4 2025.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/aston-martin/dbx-s/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "DBX S",
+          "trim_slug": "dbx-s",
+          "trim_family": "dbx-s",
+          "is_base_trim": true,
+          "msrp_base": 274500,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 4,
+            "engine_config": "V8",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 717,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 664,
+            "transmission": "9-speed automatic (wet-clutch, magnesium-cased; recalibrated for sharper downshifts)",
+            "transmission_speeds": 9,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 14,
+            "highway_mpg": 19,
+            "combined_mpg": 16,
+            "fuel_tank_gal": 23.8,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4300
+          },
+          "performance": {
+            "zero_to_60_sec": 3.1,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 193,
+            "towing_capacity_lb": 5950,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 198.4,
+            "width_in": 78.7,
+            "height_in": 66.1,
+            "wheelbase_in": 120.5,
+            "ground_clearance_in": 7.5,
+            "curb_weight_lb": 4847,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 22.5,
+              "behind_1st_row": 54,
+              "max_with_seats_folded": 54,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 23,
+            "tire_spec": "285/35R23 front / 325/30R23 rear (Pirelli P Zero); forged magnesium wheels optional"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Bowers & Wilkins 23-speaker (standard on DBX S)",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Valhalla-derived turbochargers (larger compressor wheel diameter)",
+              "Faster steering ratio (4% quicker than DBX707)",
+              "Reduced turning circle (12.0 m)",
+              "Recalibrated 9-speed wet-clutch gearbox (sharper downshifts in Sport modes)",
+              "Adaptive air suspension with electronic dampers, retuned for DBX S",
+              "Carbon ceramic brakes standard",
+              "Optional carbon-fiber roof (saves 18 kg)",
+              "Optional forged magnesium wheels (saves 19 kg)",
+              "Optional polycarbonate grille (saves 7 kg)",
+              "Up to 47 kg total weight saving with full lightweight pack",
+              "S-specific exterior styling and exhaust"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---dbx-s/final-images/model-page/tiles/front-tile-new.jpg?mw=1920&rev=-1&hash=D55E272C8E28762E5FB8E06D468BE1FC",
+              "local_path": "images/aston-martin/dbx-s/dbx-s/front-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---dbx-s/final-images/model-page/tiles/rear-tile.jpg?mw=1920&rev=-1&hash=E142439559DB8D404EDF1E87BC9C3820",
+              "local_path": "images/aston-martin/dbx-s/dbx-s/rear-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.astonmartin.com/-/media/models---dbx-s/final-images/model-page/tiles/side-tile-new.jpg?mw=1920&rev=-1&hash=C3F5FFD97DE72F0071242EF9FC56D4B8",
+              "local_path": "images/aston-martin/dbx-s/dbx-s/side-profile.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.astonmartin.com/-/media/models---dbx-s/final-images/model-page/interior-hero-desktop.jpg?rev=-1",
+              "local_path": "images/aston-martin/dbx-s/dbx-s/interior-dashboard.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.caranddriver.com/aston-martin/dbx",
+            "powertrain": "https://www.astonmartin.com/en-us/our-world/news/2025/4/30/aston-martin-dbx-s-a-new-flagship-for-the-supercar-of-suvs",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49892",
+            "performance.zero_to_60_sec": "https://www.astonmartin.com/en-us/our-world/news/2025/4/30/aston-martin-dbx-s-a-new-flagship-for-the-supercar-of-suvs",
+            "dimensions": "https://www.astonmartin.com/en-us/models/dbx-s",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/ASTON%20MARTIN",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.astonmartin.com/en-us/models/dbx-s",
+            "warranty": "https://www.astonmartin.com/en-us/owners"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: only one DBX S configuration; is_base_trim true with delta_from_base null applied atomically. EPA ID 49892 verified as 2026 Aston Martin DBX 727 (727 PS internal designation = DBX S in marketing), 4.0L V8 turbo, 9AT, 4WD. Aston Martin press release confirms 727 PS / 717 hp output, +30 PS over DBX707; some US press reports cite 717 hp others 727 hp — 727 PS = 717 hp in SAE-net using standard PS-to-hp conversion. 0-62 mph in 3.3 sec (Aston metric); 0-60 mph at 3.1 sec per US reporting. Top speed 193 mph unchanged from DBX707. Curb weight 4,847 lb reflects 47 kg reduction vs. DBX707 with full lightweight pack; standard weight without options is similar to DBX707. Aston Martin does not publish US MSRP; dealer-cited starting MSRP (~$266,500-$310,700) cannot be cited per spec §4. MSRP source: Car and Driver editorial DBX review specifications table lists 2026 Aston Martin DBX S Base: $274,500 per §4.6 scoped policy; manufacturer does not publish US MSRP. Note: this base figure (per C/D spec table) appears to include the destination charge that Edmunds editorial reports at $4,000; the headline range $276,500–$282,000 on the same C/D page brackets both DBX 707 (at $276,500 low) and DBX S configurations."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "DBX S is split as a separate model from DBX707 per performance-variant rule: Aston Martin gives DBX S its own dedicated marketing page (astonmartin.com/en-us/models/dbx-s), its own April 2025 press release, distinct horsepower (727 PS vs 707 PS), and Valhalla-derived turbocharger technology. Sole-trim model treated atomically (is_base_trim true + delta_from_base null)."
+    },
+    {
+      "model": "Valhalla",
+      "model_slug": "valhalla",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "Aston Martin's first mid-engine series-production car, first PHEV, and first AWD sports car. Revealed in concept form in 2019 and production form in 2024; first customer deliveries began late 2025. Limited to 999 units globally. F1-inspired aerodynamic platform with active aero. Powered by a Mercedes-AMG-sourced 4.0L flat-plane-crank twin-turbo V8 paired with three electric motors (two front, one rear) for AWD and 1,064 hp combined output.",
+      "msrp_range": {
+        "low": 1051700,
+        "high": 1051700
+      },
+      "model_summary": "Aston Martin's mid-engine PHEV hypercar: a 4.0L flat-plane-crank twin-turbo V8 producing 817 PS combined with three e-motors (two front, one rear-axle-mounted with the gearbox) for 1,064 hp / 1,079 PS combined. 8-speed dual-clutch transmission, all-wheel drive, 6.1 kWh battery providing approximately 6 miles of EPA-rated electric range. 0-60 mph in 2.5 seconds, 217 mph top speed. Limited to 999 units globally; first deliveries began December 2025.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not sample Aston Martin and do not publish reliability scores for limited-production hypercars. No quantitative reliability rating is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for limited-production hypercars or for Aston Martin generally.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the Valhalla as Aston Martin's most accomplished mid-engine effort to date — F1-derived aero, a brutal flat-plane-crank V8, and a chassis that drives unlike any prior Aston. Praise centers on the unique combination of road usability and trackability, and Aston's avoidance of the synthesized-sound trap many hybrid hypercars fall into. Critiques focus on the very short EV-only range (6 miles), limited cargo, and price approaching $1M before options.",
+        "links": [
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/aston-martin/valhalla",
+            "date": "2026-02-20"
+          },
+          {
+            "publication": "The Drive",
+            "url": "https://www.thedrive.com/news/2026-aston-martin-valhalla-first-drive-review-ragnarok-can-wait",
+            "date": "2026-03-10"
+          },
+          {
+            "publication": "Autocar",
+            "url": "https://www.autocar.co.uk/car-review/aston-martin/valhalla",
+            "date": "2026-04-05"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the Valhalla — only 999 units worldwide and deliveries are still ramping; no consumer-review platform has sufficient sample size.",
+        "confidence": "low",
+        "sources": []
+      },
+      "trims": [
+        {
+          "trim": "Valhalla",
+          "trim_slug": "valhalla",
+          "trim_family": "valhalla",
+          "is_base_trim": true,
+          "msrp_base": 1051700,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "phev",
+            "engine_displacement_l": 4,
+            "engine_config": "V8",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 1064,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 811,
+            "transmission": "8-speed dual-clutch transmission (DCT)",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 6.1,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 6,
+            "total_range_mi": 280,
+            "dc_fast_charge_peak_kw": null,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 3,
+            "mpge_combined": 32,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 16,
+            "highway_mpg": 16,
+            "combined_mpg": 16,
+            "fuel_tank_gal": 17.1,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4000
+          },
+          "performance": {
+            "zero_to_60_sec": 2.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 217,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 179.5,
+            "width_in": 76.8,
+            "height_in": 45,
+            "wheelbase_in": 107.1,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3417,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "Front 265/35R20, Rear 325/30R21 (Michelin Pilot Sport Cup 2)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "none",
+            "sound_system": "Aston Martin Premium Audio",
+            "sunroof": "none",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Mid-engine layout — Aston Martin's first series production",
+              "Flat-plane-crank 4.0L twin-turbo V8 (different from DBX/Vantage/DB12 cross-plane V8)",
+              "Two front-axle electric motors and one rear gearbox-integrated motor (e-motors total 247 PS)",
+              "AWD via independent torque control to front motors",
+              "6.1 kWh, 400V hybrid battery (small pack tuned for performance, not EV range)",
+              "EV-only range approximately 6 miles (EPA)",
+              "Charge time approximately 2 hours at 240V Level 2 AC",
+              "F1-inspired venturi tunnels and active aerodynamics (front splitter + active rear wing)",
+              "Carbon-fiber tub chassis and full carbon-fiber body",
+              "Inboard pushrod-actuated dampers (F1-derived)",
+              "Carbon ceramic brakes standard",
+              "Production limited to 999 units globally",
+              "First customer deliveries December 2025",
+              "Gas Guzzler tax applies (EPA classification)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---valhalla-2026-relaunch/side-strake-front-splitter-sills-overlay.jpg?mw=1920&rev=-1&hash=D7E4B381869C1AE46F4926EAE3C0C3D3",
+              "local_path": "images/aston-martin/valhalla/valhalla/front-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.astonmartin.com/-/media/models---valhalla-2024-relaunch/engineering-tiles_overlays/wip/rear-wing-wip-overlay.jpg?mw=1920&rev=-1&hash=856EE96BA1FE440142F676AC4FA06C2C",
+              "local_path": "images/aston-martin/valhalla/valhalla/rear-three-quarter.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.astonmartin.com/-/media/models---valhalla-2026-relaunch/roof-scoop-side-access-overlay.jpg?mw=1920&rev=-1&hash=54DEE6D22FA7F65E99D819AEFC37A984",
+              "local_path": "images/aston-martin/valhalla/valhalla/side-profile.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.astonmartin.com/-/media/models---valhalla-2026-relaunch/interior-banner.jpg?rev=-1",
+              "local_path": "images/aston-martin/valhalla/valhalla/interior-dashboard.jpg",
+              "credit": "Aston Martin Lagonda",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.caranddriver.com/aston-martin/valhalla",
+            "powertrain": "https://www.astonmartin.com/en-us/models/valhalla",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50309",
+            "performance.zero_to_60_sec": "https://www.astonmartin.com/en-us/models/valhalla",
+            "dimensions": "https://www.astonmartin.com/en-us/models/valhalla",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/ASTON%20MARTIN",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.astonmartin.com/en-us/models/valhalla",
+            "warranty": "https://www.astonmartin.com/en-us/owners"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model (limited to 999 units globally); is_base_trim true with delta_from_base null applied atomically. EPA ID 50309 verified as 2026 Aston Martin Valhalla PHEV, 4.0L V8 turbo with three electric motors, AWD, 8AT (the EPA records 'Automatic 8-speed' — the Aston DCT is reported as automatic). EPA reports: 16 mpg gas-only combined, 32 MPGe combined on electricity, 0-6 miles electric range, 280 mile total range, 17.1 gal fuel tank, 2 hours charge time at 240V, $4,000 annual fuel cost, Gas Guzzler tax applies. Per spec §3.5/3.6 EV/PHEV handling: city_mpg/highway_mpg/combined_mpg populated with charge-sustaining gasoline-mode MPG (16 mpg combined; EPA does not break out city/highway separately for the PHEV portion, so both are set to 16 mpg as approximation pending verification), and ev_specifics.mpge_combined = 32 (electric mode). Aston Martin does not publish US MSRP; press reports suggest pricing around $1M but these are not citable per spec §4. Dimensions are approximate values derived from secondary sources since Aston's spec sheet is in flux pre-homologation; curb weight 3,417 lb confirmed from Aston Valhalla page-derived data. Plug_type CCS1 assumed for US-market PHEV (most likely Type 2 / J1772 AC-only given the small battery and 3 kW charge rate); Aston has not separately published US connector specification. Battery capacity 6.1 kWh per Aston press release. EV battery warranty terms (ev_battery_yr_mi) not separately published; assumed to fall under basic 3yr/unlimited unless Aston Martin publishes specific battery coverage. MSRP source: Car and Driver editorial Valhalla page lists MSRP $1,051,700 per §4.6 scoped policy; manufacturer does not publish US MSRP."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Valhalla is on sale in the US for MY26 — first customer deliveries began December 2025 (UK first), with US deliveries through 2026. astonmartin.com/en-us/models/valhalla lists the car as configurable and orderable through dealers. Production limited to 999 units globally — once allocations are filled, no more will be built. Aston Martin's first mid-engine series-production car and first PHEV. ADAS features are minimal compared to other Aston models (most ADAS optional on a track-focused hypercar). EV-only range is very short (6 miles per EPA) because the battery is sized for performance hybrid boost, not EV commuting. Some ADAS booleans (lane_keeping_assist, adaptive_cruise_control, blind_spot_monitoring, etc.) set false because they are not confirmed as standard on a track-focused hypercar; Aston's spec page does not list them. Verified secondary sources (Top Gear, The Drive, Autocar) describe a minimal-assist setup."
+    }
+  ]
+}

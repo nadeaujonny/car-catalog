@@ -1,0 +1,43 @@
+{
+  "brand_slug": "aston-martin",
+  "notes": "Per PROJECT_STATE.md: astonmartin.com/en-us consumer site is accessible to WebFetch; press.astonmartin.com returned ECONNREFUSED during Phase 1. Consumer-site URLs used here. Phase B (2026-05-14): vantage path was 404; site renamed the base Vantage coupe page to /en-us/models/vantage-coupe — updated and verified OK.",
+  "model_pages": {
+    "vantage": "https://www.astonmartin.com/en-us/models/vantage-coupe",
+    "vantage-s": "https://www.astonmartin.com/en-us/models/vantage-s",
+    "vantage-roadster": "https://www.astonmartin.com/en-us/models/vantage-roadster",
+    "db12": "https://www.astonmartin.com/en-us/models/db12",
+    "db12-s": "https://www.astonmartin.com/en-us/models/db12-s",
+    "db12-volante": "https://www.astonmartin.com/en-us/models/db12-volante",
+    "vanquish": "https://www.astonmartin.com/en-us/models/vanquish",
+    "vanquish-volante": "https://www.astonmartin.com/en-us/models/vanquish-volante",
+    "dbx707": "https://www.astonmartin.com/en-us/models/dbx707",
+    "dbx-s": "https://www.astonmartin.com/en-us/models/dbx-s",
+    "valhalla": "https://www.astonmartin.com/en-us/models/valhalla"
+  },
+  "slug_variants": {
+    "db12": [
+      "db12",
+      "db-12"
+    ],
+    "db12-s": [
+      "db12-s",
+      "db-12-s",
+      "db12s"
+    ],
+    "db12-volante": [
+      "db12-volante",
+      "db-12-volante"
+    ],
+    "dbx707": [
+      "dbx707",
+      "dbx-707",
+      "dbx_707"
+    ],
+    "dbx-s": [
+      "dbx-s",
+      "dbxs",
+      "dbx_s"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

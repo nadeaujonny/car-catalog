@@ -1,0 +1,20 @@
+{
+  "brand_slug": "maserati",
+  "notes": "maserati.com/us/en is the consumer site (per session 3, returned 403 to WebFetch; 48 image entries flagged needs_scraping). Stellantis press fallback: media.stellantis.com/us-en/maserati or media.maserati.com. Model pages were verified via WebSearch on maserati.com/us/en.",
+  "model_pages": {
+    "grecale":       "https://www.maserati.com/us/en/models/grecale",
+    "granturismo":   "https://www.maserati.com/us/en/models/granturismo",
+    "grancabrio":    "https://www.maserati.com/us/en/models/grancabrio",
+    "mcpura":        "https://www.maserati.com/us/en/models/mcpura",
+    "mcpura-cielo":  "https://www.maserati.com/us/en/models/mcpura-cielo",
+    "gt2-stradale":  "https://www.maserati.com/us/en/models/gt2-stradale"
+  },
+  "slug_variants": {
+    "granturismo":  ["granturismo", "gran-turismo", "gran_turismo"],
+    "grancabrio":   ["grancabrio", "gran-cabrio", "gran_cabrio"],
+    "mcpura":       ["mcpura", "mc-pura", "mc_pura"],
+    "mcpura-cielo": ["mcpura-cielo", "mc-pura-cielo", "mcpura_cielo", "mc_pura_cielo", "mcpuracielo"],
+    "gt2-stradale": ["gt2-stradale", "gt2_stradale", "gt2stradale"]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

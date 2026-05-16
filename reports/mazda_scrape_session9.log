@@ -1,0 +1,80 @@
+Reset 83 image entries with needs_scraping:true to their model page URLs.
+Brand: mazda
+Models in JSON: 12
+Models with page URLs: 12
+Playwright fallback: enabled
+Brand-specific angle patterns: 4 regex(es) across 2 angle(s) — front_three_quarter, side_profile
+
+Scraping 12 model pages…
+
+  fetch https://www.mazdausa.com/vehicles/mazda3-sedan  …  static ok (264 raw, 122 slug-matching)
+  fetch https://www.mazdausa.com/vehicles/mazda3-hatchback  …  static ok (246 raw, 104 slug-matching)
+  fetch https://www.mazdausa.com/vehicles/cx-30  …  static ok (296 raw, 154 slug-matching)
+  fetch https://www.mazdausa.com/vehicles/cx-5  …  static ok (598 raw, 276 slug-matching)
+  fetch https://www.mazdausa.com/vehicles/cx-50  …  static ok (319 raw, 187 slug-matching)
+  fetch https://www.mazdausa.com/vehicles/cx-50-hybrid  …  static ok (295 raw, 145 slug-matching)
+  fetch https://www.mazdausa.com/vehicles/cx-70  …  static ok (312 raw, 169 slug-matching)
+  fetch https://www.mazdausa.com/vehicles/cx-70-phev  …  static ok (238 raw, 88 slug-matching)
+  fetch https://www.mazdausa.com/vehicles/cx-90  …  static ok (285 raw, 155 slug-matching)
+  fetch https://www.mazdausa.com/vehicles/cx-90-phev  …  static ok (273 raw, 111 slug-matching)
+  fetch https://www.mazdausa.com/vehicles/mx-5-miata  …  static ok (298 raw, 162 slug-matching)
+  fetch https://www.mazdausa.com/vehicles/mx-5-miata-rf  …  static ok (284 raw, 90 slug-matching)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          mazda
+Pages attempted:                12
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 12
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        53
+  via text/URL pattern match:   38
+  via brand-specific angle:     15
+  via positional fallback:      0
+Brand-specific angle matches:   15
+Resolution upgrades:            47 URLs preferred larger variants
+Extension-less URLs accepted:   0 candidate(s) (would have been rejected by old IMG_EXT_RE filter)
+Image entries via ext-less URL: 19
+Image entries unchanged:        31
+
+Sample rewrites:
+  [B6.0] mazda3-sedan/2-5-s/front_three_quarter
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-sedan/04_btv/001_trims/34-jellies/b_2.5-s-select-sport/2024-m3-select-sport-platinum-quartz.png
+  [11.0] mazda3-sedan/2-5-s/interior_dashboard
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-sedan/01_vlp/002_design/c_small-gallery/desktop/2026-m3-sedan-desktop-gallery-002.jpg?w={width}
+  [B6.0] mazda3-sedan/2-5-turbo-premium-plus/front_three_quarter
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-sedan/04_btv/001_trims/34-jellies/b_2.5-s-select-sport/2024-m3-select-sport-platinum-quartz.png
+  [11.0] mazda3-sedan/2-5-turbo-premium-plus/interior_dashboard
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-sedan/01_vlp/002_design/c_small-gallery/desktop/2026-m3-sedan-desktop-gallery-002.jpg?w={width}
+  [B5.3] mazda3-hatchback/2-5-s/front_three_quarter
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-hatchback/04_btv/001_trims/34-jellies/01_2.5-s/2026-mazda-3-hatchback-2.5-s?w=480
+  [11.3] mazda3-hatchback/2-5-s/rear_three_quarter
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-hatchback/01_vlp/005_safety/b_safety-large-carousel/2026-mazda-3-hatchback-safety-rear-cross-traffic-alert?w=1800
+  [6.9] mazda3-hatchback/2-5-s/interior_dashboard
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-hatchback/04_btv/003_interior/interior-360s/01_2.5-s/41w-jet-black-mica---black-cloth/i360-my25-m3hb-jetblackmica-blackcloth-1.jpg
+  [B5.3] mazda3-hatchback/2-5-s-premium/front_three_quarter
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-hatchback/04_btv/001_trims/34-jellies/01_2.5-s/2026-mazda-3-hatchback-2.5-s?w=480
+  [11.3] mazda3-hatchback/2-5-s-premium/rear_three_quarter
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-hatchback/01_vlp/005_safety/b_safety-large-carousel/2026-mazda-3-hatchback-safety-rear-cross-traffic-alert?w=1800
+  [6.9] mazda3-hatchback/2-5-s-premium/interior_dashboard
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-hatchback/04_btv/003_interior/interior-360s/01_2.5-s/41w-jet-black-mica---black-cloth/i360-my25-m3hb-jetblackmica-blackcloth-1.jpg
+  [B5.3] mazda3-hatchback/2-5-turbo-premium-plus/front_three_quarter
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-hatchback/04_btv/001_trims/34-jellies/01_2.5-s/2026-mazda-3-hatchback-2.5-s?w=480
+  [11.3] mazda3-hatchback/2-5-turbo-premium-plus/rear_three_quarter
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-hatchback/01_vlp/005_safety/b_safety-large-carousel/2026-mazda-3-hatchback-safety-rear-cross-traffic-alert?w=1800
+
+Models with unresolved angles:
+  mazda3-sedan: 4 entries  (e.g. 2-5-s/rear_three_quarter, 2-5-s/side_profile, 2-5-turbo-premium-plus/rear_three_quarter)
+  mazda3-hatchback: 3 entries  (e.g. 2-5-s/side_profile, 2-5-s-premium/side_profile, 2-5-turbo-premium-plus/side_profile)
+  cx-30: 2 entries  (e.g. 2-5-s/side_profile, 2-5-turbo-aire-edition/side_profile)
+  cx-5: 1 entries  (e.g. 2-5-s/rear_three_quarter)
+  cx-50: 2 entries  (e.g. 2-5-s-select/side_profile, 2-5-turbo/side_profile)
+  cx-50-hybrid: 1 entries  (e.g. hybrid-preferred/side_profile)
+  cx-70: 4 entries  (e.g. 3-3-turbo-preferred/rear_three_quarter, 3-3-turbo-preferred/side_profile, 3-3-turbo-s-premium/rear_three_quarter)
+  cx-70-phev: 2 entries  (e.g. phev-sc/rear_three_quarter, phev-sc/side_profile)
+  cx-90: 4 entries  (e.g. 3-3-turbo-select/rear_three_quarter, 3-3-turbo-select/side_profile, 3-3-turbo-s-premium-sport/rear_three_quarter)
+  cx-90-phev: 2 entries  (e.g. phev-preferred/rear_three_quarter, phev-preferred/side_profile)
+  mx-5-miata: 2 entries  (e.g. sport/side_profile, grand-touring-6at/side_profile)
+  mx-5-miata-rf: 4 entries  (e.g. grand-touring-6mt/rear_three_quarter, grand-touring-6mt/side_profile, grand-touring-6at/rear_three_quarter)

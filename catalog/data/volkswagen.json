@@ -1,0 +1,3746 @@
+{
+  "brand": "Volkswagen",
+  "brand_slug": "volkswagen",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Jetta",
+      "model_slug": "jetta",
+      "model_year": 2026,
+      "body_style": "sedan",
+      "generation_context": "7th-gen (MK7/A7), introduced 2019; mid-cycle refresh 2025; carryover for 2026 with standard wireless App-Connect and rear-seat pretensioners",
+      "msrp_range": {
+        "low": 23995,
+        "high": 29995
+      },
+      "model_summary": "Compact sedan with a single 1.5L turbo-4 powertrain across the standard lineup. Aimed at value-oriented buyers; the GLI Autobahn is split off as a separate performance-model entry per the perf-variant rule. Standard IQ.DRIVE driver-assistance suite and 2-year complimentary maintenance.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power and Consumer Reports have not yet published model-specific 2026 predicted-reliability scores; the 7th-gen Jetta has had a generally average reliability track record per CR historical data.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/volkswagen/jetta",
+          "https://www.consumerreports.org/cars/volkswagen/jetta/2026/overview/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Volkswagen Jetta or for the Volkswagen brand overall.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the 2026 Jetta as a quiet, roomy, fuel-efficient compact sedan that punches above its modest price; Edmunds rates it 6.6/10 noting comfortable highway manners but a basic interior and modest performance compared to class leaders.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/volkswagen/jetta/2026/",
+            "date": "2025-09-01"
+          },
+          {
+            "publication": "KBB",
+            "url": "https://www.kbb.com/volkswagen/jetta/2026/",
+            "date": "2025-08-15"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": 4,
+        "edmunds_sample_size": 35,
+        "kbb_star_rating": 4.4,
+        "kbb_sample_size": 88,
+        "summary": "Owners praise comfort, value, fuel economy and styling; common complaints are interior plastic quality and a basic infotainment experience versus rivals.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.edmunds.com/volkswagen/jetta/2026/consumer-reviews/",
+          "https://www.kbb.com/volkswagen/jetta/2026/consumer-reviews/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "S",
+          "trim_slug": "s",
+          "trim_family": "jetta-standard",
+          "is_base_trim": true,
+          "msrp_base": 23995,
+          "destination_fee": 1275,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 1.5,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 158,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 184,
+            "transmission": "8-speed automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 29,
+            "highway_mpg": 40,
+            "combined_mpg": 34,
+            "fuel_tank_gal": 13.2,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 1750
+          },
+          "performance": {
+            "zero_to_60_sec": 7.6,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 186.5,
+            "width_in": 70.8,
+            "height_in": 57.7,
+            "wheelbase_in": 105.7,
+            "ground_clearance_in": 5.5,
+            "curb_weight_lb": 3058,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 14.1
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 16,
+            "tire_spec": "205/60R16"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2026,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": 2025,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": 8,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "4-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "IQ.DRIVE standard driver-assistance suite",
+              "Digital Cockpit driver display",
+              "LED headlights"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "7yr/100k",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "2yr/20k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.vw.com/en/models/jetta.html",
+              "local_path": "images/volkswagen/jetta/jetta-standard/front-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.vw.com/en/models/jetta.html",
+              "local_path": "images/volkswagen/jetta/jetta-standard/rear-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.vw.com/en/models/jetta.html",
+              "local_path": "images/volkswagen/jetta/jetta-standard/side-profile.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_MY26Jetta_InteriorGallery_Overview?Zml0PWNyb3AlMkMxJndpZD0yNTYwJmhlaT0xNDQwJmZtdD13ZWJwJnFsdD03OSZiZmM9b2ZmJjJjYjg=",
+              "local_path": "images/volkswagen/jetta/jetta-standard/interior-dashboard.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.vw.com/press-kits/304",
+            "powertrain": "https://www.vw.com/en/models/jetta.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49269",
+            "performance.zero_to_60_sec": "https://www.vw.com/en/models/jetta.html",
+            "dimensions": "https://www.vw.com/en/models/jetta.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/VOLKSWAGEN/JETTA",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/volkswagen/jetta-4-door-sedan/2026",
+            "features": "https://www.vw.com/en/models/jetta.html",
+            "warranty": "https://www.vw.com/en/owners-and-services/ownership-benefits/carefree-coverage.html"
+          },
+          "delta_from_base": null,
+          "notes": "S trim is the EPA 'Jetta' entry (id=49269) returning 29/40/34 — slightly different from the other trims (id=49270, 29/40/33) because of wheel/tire spec differences. IIHS has not designated the 2026 Jetta as a Top Safety Pick; pedestrian-prevention scored Marginal in IIHS testing. Image URLs are vw.com consumer-page placeholders pending follow-up CDN scrape — media.vw.com is JS-rendered and does not expose direct asset URLs to WebFetch."
+        },
+        {
+          "trim": "Sport",
+          "trim_slug": "sport",
+          "trim_family": "jetta-standard",
+          "is_base_trim": false,
+          "msrp_base": 25305,
+          "destination_fee": 1275,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 29,
+            "highway_mpg": 40,
+            "combined_mpg": 33,
+            "fuel_tank_gal": 13.2,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 1800
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "205/55R17"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Black exterior styling (mirrors, badges, roof option)",
+              "Sport-tuned interior accents",
+              "Larger 10.25-in Digital Cockpit"
+            ]
+          },
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://media.vw.com/press-kits/304",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49270",
+            "features": "https://www.vw.com/en/models/jetta.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "s",
+            "msrp_delta_usd": 1310,
+            "changes": [
+              "17-inch alloy wheels (vs 16-inch on S)",
+              "Black-out styling pack: black mirrors, black badging, black roof option",
+              "Larger 10.25-inch Digital Cockpit Pro driver display",
+              "6-speaker audio (vs 4-speaker)",
+              "Heated front seats added",
+              "Remote start added"
+            ]
+          },
+          "notes": "Sport, SE, and SEL share EPA entry id=49270 (29/40/33) due to larger wheel sizes vs S. Image set shared with S; see model-level notes."
+        },
+        {
+          "trim": "SE",
+          "trim_slug": "se",
+          "trim_family": "jetta-standard",
+          "is_base_trim": false,
+          "msrp_base": 26985,
+          "destination_fee": 1275,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 29,
+            "highway_mpg": 40,
+            "combined_mpg": 33,
+            "fuel_tank_gal": 13.2,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 1800
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "205/55R17"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "standard",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Standard sunroof new for 2026",
+              "V-Tex leatherette upholstery",
+              "Power driver's seat"
+            ]
+          },
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://media.vw.com/press-kits/304",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49270",
+            "features": "https://www.vw.com/en/models/jetta.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "s",
+            "msrp_delta_usd": 2990,
+            "changes": [
+              "Standard sunroof (new for 2026 on SE)",
+              "V-Tex leatherette upholstery (vs cloth)",
+              "Power driver's seat",
+              "Wireless phone charging added",
+              "Heated front seats and remote start added",
+              "Larger 10.25-inch Digital Cockpit Pro",
+              "17-inch alloy wheels"
+            ]
+          },
+          "notes": "Sunroof became standard on SE for MY2026."
+        },
+        {
+          "trim": "SEL",
+          "trim_slug": "sel",
+          "trim_family": "jetta-standard",
+          "is_base_trim": false,
+          "msrp_base": 29995,
+          "destination_fee": 1275,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 29,
+            "highway_mpg": 40,
+            "combined_mpg": 33,
+            "fuel_tank_gal": 13.2,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 1800
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "205/55R17"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "premium Volkswagen 8-speaker",
+            "sunroof": "standard",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Perforated leather seating",
+              "Heated rear seats",
+              "Premium VW 8-speaker audio new for 2026",
+              "Memory driver seat",
+              "Ambient interior lighting"
+            ]
+          },
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://media.vw.com/press-kits/304",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49270",
+            "features": "https://www.vw.com/en/models/jetta.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "s",
+            "msrp_delta_usd": 6000,
+            "changes": [
+              "Premium Volkswagen 8-speaker audio (new for 2026)",
+              "Perforated leather seating (vs cloth)",
+              "Heated AND ventilated front seats",
+              "Heated rear seats",
+              "Heated steering wheel",
+              "Memory driver seat with power adjust",
+              "Wireless phone charging and remote start",
+              "17-inch wheels and standard sunroof"
+            ]
+          },
+          "notes": ""
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Jetta GLI Autobahn is split off as a separate model per the perf-variant rule (vw.com markets it on its own model page at vw.com/en/models/jetta-gli.html). Image entries for the four standard trims are vw.com consumer-page URLs flagged needs_scraping — vw.com and media.vw.com both JS-render, so direct image asset URLs were not extractable to WebFetch."
+    },
+    {
+      "model": "Jetta GLI",
+      "model_slug": "jetta-gli",
+      "model_year": 2026,
+      "body_style": "sedan",
+      "generation_context": "GLI performance variant of 7th-gen Jetta, MQB-platform sport sedan",
+      "msrp_range": {
+        "low": 33745,
+        "high": 33745
+      },
+      "model_summary": "Sport sedan based on the Jetta with VW's EA888 2.0L turbo-four (228 hp), sport-tuned suspension with adaptive damping (DCC), torque-vectoring XDS+, and either a 6-speed manual or 7-speed DSG. Sole trim is the GLI Autobahn; both transmissions carry the same MSRP for 2026.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "No 2026 model-specific predicted-reliability scores published as of research date. GLI shares core mechanicals with Jetta and Golf GTI.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/volkswagen"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Volkswagen Jetta GLI or for the Volkswagen brand overall.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers regard the 2026 Jetta GLI as a remarkably affordable sport sedan that drives with the same EA888 turbo-four and DCC adaptive dampers found in the Golf GTI; Car and Driver clocked the GLI at 5.6 seconds 0-60 with the DSG and praised its everyday usability, while Edmunds rates it 6.1/10 noting its smaller infotainment screen and dated cabin versus newer rivals.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/volkswagen/jetta-gli",
+            "date": "2025-09-01"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/volkswagen/jetta-gli/2026/",
+            "date": "2025-09-15"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": 5,
+        "edmunds_sample_size": 37,
+        "kbb_star_rating": 4.2,
+        "kbb_sample_size": null,
+        "summary": "Owners give the GLI consistently high marks for value, driving dynamics, and EA888 power; common complaints are infotainment quirks and limited rear visibility.",
+        "confidence": "high",
+        "sources": [
+          "https://www.edmunds.com/volkswagen/jetta-gli/2026/consumer-reviews/",
+          "https://www.kbb.com/volkswagen/jetta-gli/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Autobahn",
+          "trim_slug": "autobahn",
+          "trim_family": "jetta-gli",
+          "is_base_trim": true,
+          "msrp_base": 33745,
+          "destination_fee": 1275,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 228,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 258,
+            "transmission": "6-speed manual or 7-speed DSG dual-clutch automatic (same MSRP)",
+            "transmission_speeds": 7,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 26,
+            "highway_mpg": 35,
+            "combined_mpg": 29,
+            "fuel_tank_gal": 13.2,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2050
+          },
+          "performance": {
+            "zero_to_60_sec": 5.6,
+            "zero_to_60_source": "car_and_driver",
+            "top_speed_mph": 130,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 186.5,
+            "width_in": 70.8,
+            "height_in": 57.7,
+            "wheelbase_in": 105.6,
+            "ground_clearance_in": 5.2,
+            "curb_weight_lb": 3236,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 14.1
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/40R18"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2026,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": 2025,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "premium VW 8-speaker",
+            "sunroof": "standard",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "DCC adaptive chassis control",
+              "XDS+ electronic torque-vectoring front differential",
+              "Vienna perforated leather sport seats",
+              "Sport-tuned suspension",
+              "GLI-specific honeycomb grille and red brake calipers",
+              "Dual-exit chrome exhaust"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "7yr/100k",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "2yr/20k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.vw.com/en/models/jetta-gli.html",
+              "local_path": "images/volkswagen/jetta-gli/jetta-gli/front-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.vw.com/en/models/jetta-gli.html",
+              "local_path": "images/volkswagen/jetta-gli/jetta-gli/rear-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.vw.com/en/models/jetta-gli.html",
+              "local_path": "images/volkswagen/jetta-gli/jetta-gli/side-profile.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.vw.com/en/models/jetta-gli.html",
+              "local_path": "images/volkswagen/jetta-gli/jetta-gli/interior-dashboard.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.vw.com/press-kits/304",
+            "powertrain": "https://www.vw.com/en/models/jetta-gli.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49267",
+            "performance.zero_to_60_sec": "https://www.caranddriver.com/volkswagen/jetta-gli",
+            "dimensions": "https://www.vw.com/en/models/jetta-gli.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/VOLKSWAGEN/JETTA",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/volkswagen/jetta-4-door-sedan/2026",
+            "features": "https://www.vw.com/en/models/jetta-gli.html",
+            "warranty": "https://www.vw.com/en/owners-and-services/ownership-benefits/carefree-coverage.html"
+          },
+          "delta_from_base": null,
+          "notes": "Sole trim of the Jetta GLI model — sole-trim atomic rule applied: is_base_trim true + delta_from_base null. Both the 6-speed manual (EPA id=49268, 26/36/29) and 7-speed DSG (id=49267, 26/35/29) are priced at $33,745; primary fuel_economy values reflect the DSG, manual differs only in highway MPG. Image URLs are vw.com consumer-page placeholders flagged needs_scraping. NHTSA rating shared with base Jetta. IIHS has not designated 2026 Jetta GLI as TSP."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Split as a separate model per perf-variant rule — vw.com lists Jetta GLI on its own model page distinct from Jetta. Sole-trim model."
+    },
+    {
+      "model": "Golf GTI",
+      "model_slug": "golf-gti",
+      "model_year": 2026,
+      "body_style": "hatchback",
+      "generation_context": "Mk8.5 GTI (mid-cycle facelift of 8th-gen Golf), Slovakia-built; only Golf body sold in US is GTI/R for current MY",
+      "msrp_range": {
+        "low": 34590,
+        "high": 41645
+      },
+      "model_summary": "The Golf GTI is the iconic compact hot hatch — 2.0L EA888 turbo-four with 241 hp, 7-speed DSG dual-clutch only (manual dropped for Mk8.5 in US), FWD with VAQ torque-vectoring front differential, and DCC adaptive dampers on upper trims. Mk8.5 refresh brought a new 12.9-inch infotainment screen and dial-based volume/climate controls. Named 2026 MotorTrend Car of the Year (jointly with Golf R) and Car and Driver 10Best.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "No 2026 model-specific predicted-reliability scores; Consumer Reports historical scores for Mk7/Mk8 GTI have been average. CR has a 2026 Road Test Report.",
+        "confidence": "low",
+        "sources": [
+          "https://www.consumerreports.org/cars/volkswagen/gti/2026/road-test-report/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "Strong sentiment in reviews; no specific 2026 APEAL number published.",
+        "confidence": "low",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "MotorTrend named the 2026 Golf GTI/R joint Car of the Year, and Car and Driver re-listed it among the 10Best — reviewers cite the GTI's sharp handling balance, useful hatchback packaging, and Mk8.5's restored physical controls as standout traits; common criticisms center on the lack of a manual transmission for the US market and modest power vs more-expensive rivals.",
+        "links": [
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/volkswagen/gti/2026",
+            "date": "2025-11-10"
+          },
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/volkswagen/gti",
+            "date": "2025-12-15"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/volkswagen/golf-gti/2026/",
+            "date": "2025-10-01"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Specific 2026 owner-rating sample is small; Mk8/8.5 GTI generation has historically scored 4+/5 on KBB and Edmunds.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/volkswagen/golf-gti/2026/consumer-reviews/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "S",
+          "trim_slug": "s",
+          "trim_family": "golf-gti",
+          "is_base_trim": true,
+          "msrp_base": 34590,
+          "destination_fee": 1275,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 241,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 273,
+            "transmission": "7-speed DSG dual-clutch automatic",
+            "transmission_speeds": 7,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 24,
+            "highway_mpg": 32,
+            "combined_mpg": 27,
+            "fuel_tank_gal": 13.2,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2200
+          },
+          "performance": {
+            "zero_to_60_sec": 5.7,
+            "zero_to_60_source": "car_and_driver",
+            "top_speed_mph": 130,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 168.9,
+            "width_in": 70.4,
+            "height_in": 57.6,
+            "wheelbase_in": 103.6,
+            "ground_clearance_in": 5.5,
+            "curb_weight_lb": 3170,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 19.9,
+              "behind_1st_row": 34.5,
+              "max_with_seats_folded": 34.5,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/40R18 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": "TSP",
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.9,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "8-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "12.9-inch touchscreen with restored physical volume/climate controls (Mk8.5 refresh)",
+              "GTI plaid cloth sport seats",
+              "VAQ torque-vectoring front differential",
+              "Drive Mode Select (Eco/Comfort/Sport/Individual)",
+              "Dual-zone Climatronic",
+              "IQ.DRIVE driver-assistance suite standard"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "7yr/100k",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "2yr/20k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_MY26GolfGTI_sunroof?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xOTIwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJmI3NzA=",
+              "local_path": "images/volkswagen/golf-gti/golf-gti/front-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.vw.com/en/models/golf-gti.html",
+              "local_path": "images/volkswagen/golf-gti/golf-gti/rear-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.vw.com/en/models/golf-gti.html",
+              "local_path": "images/volkswagen/golf-gti/golf-gti/side-profile.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_MY26GolfGTI_displayScreen?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xOTIwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJmI3NzA=",
+              "local_path": "images/volkswagen/golf-gti/golf-gti/interior-dashboard.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.vw.com/press-kits/2026-golf-gti-press-kit",
+            "powertrain": "https://www.vw.com/en/models/golf-gti.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49303",
+            "performance.zero_to_60_sec": "https://www.caranddriver.com/volkswagen/gti",
+            "dimensions": "https://www.vw.com/en/models/golf-gti.html",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/volkswagen/golf-gti-4-door-hatchback/2026",
+            "features": "https://www.vw.com/en/models/golf-gti.html",
+            "warranty": "https://www.vw.com/en/owners-and-services/ownership-benefits/carefree-coverage.html"
+          },
+          "delta_from_base": null,
+          "notes": "2026 GTI/R named joint MotorTrend Car of the Year. NHTSA had not yet rated the 2026 Mk8.5 Golf at research time. EPA fuel_type for GTI is regular per Find.do; premium recommended by VW for max output."
+        },
+        {
+          "trim": "SE",
+          "trim_slug": "se",
+          "trim_family": "golf-gti",
+          "is_base_trim": false,
+          "msrp_base": 37635,
+          "destination_fee": 1275,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/40R18 (black diamond-turned 5-spoke)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.9,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon 8-speaker premium",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "KESSY keyless access and push-button start",
+              "Vienna leather sport seats",
+              "Panoramic sunroof",
+              "Harman Kardon premium audio",
+              "Black diamond-turned 18-inch wheels"
+            ]
+          },
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://media.vw.com/press-kits/2026-golf-gti-press-kit",
+            "features": "https://www.vw.com/en/models/golf-gti.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "s",
+            "msrp_delta_usd": 3045,
+            "changes": [
+              "KESSY keyless access with push-button start",
+              "Vienna leather sport seats (vs plaid cloth)",
+              "Panoramic sunroof",
+              "Harman Kardon premium audio (vs standard 8-speaker)",
+              "Power driver's seat",
+              "Black diamond-turned 18-inch wheels (cosmetic delta)"
+            ]
+          },
+          "notes": ""
+        },
+        {
+          "trim": "Autobahn",
+          "trim_slug": "autobahn",
+          "trim_family": "golf-gti",
+          "is_base_trim": false,
+          "msrp_base": 41645,
+          "destination_fee": 1275,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "235/35R19 summer (Mk5-inspired 'horseshoe' design)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.9,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon 8-speaker premium",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "DCC adaptive chassis control with 15 driver-selectable damper settings",
+              "Head-up display",
+              "Vienna leather sport seats with 12-way power driver adjust and memory",
+              "Three-zone Climatronic with rear-passenger controls",
+              "Heated outboard rear seats",
+              "Ventilated front seats",
+              "19-inch Mk5-tribute 'horseshoe' wheels",
+              "Summer tires standard"
+            ]
+          },
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://media.vw.com/press-kits/2026-golf-gti-press-kit",
+            "features": "https://www.vw.com/en/models/golf-gti.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "s",
+            "msrp_delta_usd": 7055,
+            "changes": [
+              "DCC adaptive damper control",
+              "Head-up display",
+              "Ventilated front seats and heated rear outboard seats",
+              "12-way power driver seat with memory",
+              "Three-zone Climatronic with rear controls",
+              "19-inch summer tires (vs 18-inch all-season)",
+              "Harman Kardon premium audio, panoramic sunroof",
+              "Vienna leather sport seats"
+            ]
+          },
+          "notes": ""
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "All three trims share the same powertrain — performance deltas are limited to DCC adaptive damping on Autobahn. Mk8 manual transmission was dropped for US market starting 2024 MY and not reinstated for Mk8.5. Image entries flagged needs_scraping (vw.com consumer pages). Trim pricing for SE and Autobahn sourced from press-kit summaries; Edmunds and KBB confirm same."
+    },
+    {
+      "model": "Golf R",
+      "model_slug": "golf-r",
+      "model_year": 2026,
+      "body_style": "hatchback",
+      "generation_context": "Mk8.5 Golf R (mid-cycle facelift), highest-performance Golf for the US; Black Edition trim dropped for 2026 — single trim with optional Euro Style Package",
+      "msrp_range": {
+        "low": 49455,
+        "high": 49455
+      },
+      "model_summary": "The all-wheel-drive Golf R is the performance flagship of the Golf line — EA888 evo4 2.0L turbo-four tuned to 328 hp / 295 lb-ft, mated exclusively to a 7-speed DSG dual-clutch (US 6-speed manual dropped after MY24), with 4Motion AWD featuring an electronically controlled rear differential that can shuffle torque between rear wheels. New Graphite Gray Metallic paint and an optional Euro Style Package (Akrapovic titanium exhaust, ArtVelours sport seats, manually adjustable front seats — a weight-reduction option) are new for 2026.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "No 2026 model-specific predicted-reliability scores published. Shares EA888 / DSG powertrain family with GTI.",
+        "confidence": "low",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Volkswagen Golf R or for the Volkswagen brand overall.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently rate the Golf R as one of the most balanced all-weather performance hatchbacks on sale — Car and Driver and MotorTrend praise the 4Motion AWD's torque vectoring, blistering 0-60 (Car and Driver tested 3.9 sec), and refined daily-driver manners; the 2026 Mk8.5 specifically earned joint Car of the Year honors with the GTI. Common criticisms are the dropped manual transmission and aging interior plastics vs the price.",
+        "links": [
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/volkswagen/golf-r/2026",
+            "date": "2025-11-10"
+          },
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/volkswagen/golf-r",
+            "date": "2025-10-15"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/volkswagen/golf-r/2026/",
+            "date": "2025-09-22"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Specific 2026 owner-rating samples are small; Mk8 Golf R has scored 4+/5 historically on KBB / Edmunds.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/volkswagen/golf-r/2026/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Golf R",
+          "trim_slug": "golf-r",
+          "trim_family": "golf-r",
+          "is_base_trim": true,
+          "msrp_base": 49455,
+          "destination_fee": 1275,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 328,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 295,
+            "transmission": "7-speed DSG dual-clutch automatic",
+            "transmission_speeds": 7,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 22,
+            "highway_mpg": 31,
+            "combined_mpg": 25,
+            "fuel_tank_gal": 14.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2750
+          },
+          "performance": {
+            "zero_to_60_sec": 3.9,
+            "zero_to_60_source": "car_and_driver",
+            "top_speed_mph": 155,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 168.9,
+            "width_in": 70.4,
+            "height_in": 57.6,
+            "wheelbase_in": 103.6,
+            "ground_clearance_in": 5.5,
+            "curb_weight_lb": 3461,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 19.9,
+              "behind_1st_row": 34.5,
+              "max_with_seats_folded": 34.5,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "235/35R19 summer"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": "TSP",
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.9,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon 8-speaker premium",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "4Motion AWD with R-tuned electronically controlled rear differential (torque vectoring between rear wheels)",
+              "R-Performance driving modes including Drift and Special (Nürburgring map)",
+              "Adaptive DCC dampers",
+              "Nappa leather sport seats with R-blue accents",
+              "R-specific 12.9-inch infotainment with Performance Monitor",
+              "Three-zone Climatronic",
+              "Heated rear seats",
+              "Head-up display",
+              "Brembo-style front brakes with blue R calipers",
+              "Available Euro Style Package ($3,795): Akrapovic titanium exhaust, manually adjustable seats, deletes sunroof for weight savings"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "7yr/100k",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "2yr/20k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.vw.com/en/models/golf-r.html",
+              "local_path": "images/volkswagen/golf-r/golf-r/front-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.vw.com/en/models/golf-r.html",
+              "local_path": "images/volkswagen/golf-r/golf-r/rear-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.vw.com/en/models/golf-r.html",
+              "local_path": "images/volkswagen/golf-r/golf-r/side-profile.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.vw.com/en/models/golf-r.html",
+              "local_path": "images/volkswagen/golf-r/golf-r/interior-dashboard.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.vw.com/en/models/golf-r.html",
+            "powertrain": "https://www.vw.com/en/models/golf-r.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49302",
+            "performance.zero_to_60_sec": "https://www.caranddriver.com/volkswagen/golf-r",
+            "dimensions": "https://www.vw.com/en/models/golf-r.html",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/volkswagen/golf-r-4-door-hatchback/2026",
+            "features": "https://www.vw.com/en/models/golf-r.html",
+            "warranty": "https://www.vw.com/en/owners-and-services/ownership-benefits/carefree-coverage.html"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model — sole-trim atomic rule applied: is_base_trim true + delta_from_base null. Black Edition trim from 2025 dropped for 2026. Optional Euro Style Package ($3,795) is treated as an option per spec §6.5, not a separate trim. EPA premium gasoline required."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Single-trim model with optional Euro Style Package. Mk8 manual transmission dropped for US Golf R after 2024 MY. Joint 2026 MotorTrend Car of the Year with Golf GTI."
+    },
+    {
+      "model": "Taos",
+      "model_slug": "taos",
+      "model_year": 2026,
+      "body_style": "suv-compact",
+      "generation_context": "1st-gen Taos, introduced 2022; mid-cycle refresh 2025 with new 1.5T engine and 8-speed automatic, carryover for 2026 with wireless charging upgraded to 15W and rear-seat pretensioners standard",
+      "msrp_range": {
+        "low": 26500,
+        "high": 35900
+      },
+      "model_summary": "Subcompact SUV slotting below Tiguan. 1.5L turbo-4 with 174 hp paired to an 8-speed automatic (refresh replaced the older 1.5T/CVT). FWD or 4Motion AWD; AWD adds independent rear suspension and a touch more ground clearance. Trims: S, SE, SE Black, SEL.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "Consumer Reports historically rated Taos average; no published 2026 predicted-reliability number. JD Power lists Taos but without a model-specific 2026 score.",
+        "confidence": "low",
+        "sources": [
+          "https://www.consumerreports.org/cars/volkswagen/taos/2026/overview/",
+          "https://www.jdpower.com/cars/expert-reviews/2026-volkswagen-taos-review"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Volkswagen Taos or for the Volkswagen brand overall.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the refreshed Taos as a more refined subcompact SUV with improved interior tech and the new 8-speed automatic addressing the previous CVT's drone — Edmunds rates it 7.1/10, praising spaciousness, fuel economy, and value but noting modest acceleration and lingering interior plastic quality.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/volkswagen/taos/2026/",
+            "date": "2025-09-10"
+          },
+          {
+            "publication": "KBB",
+            "url": "https://www.kbb.com/volkswagen/taos/2026/",
+            "date": "2025-08-20"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": 4,
+        "edmunds_sample_size": 42,
+        "kbb_star_rating": 3.9,
+        "kbb_sample_size": 46,
+        "summary": "Owners appreciate styling, comfort, and fuel economy; common complaints are interior plastic quality, ventilation/A-C performance, and modest acceleration.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.edmunds.com/volkswagen/taos/2026/consumer-reviews/",
+          "https://www.kbb.com/volkswagen/taos/2026/consumer-reviews/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "S",
+          "trim_slug": "s",
+          "trim_family": "taos-standard",
+          "is_base_trim": true,
+          "msrp_base": 26500,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 1.5,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 174,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 184,
+            "transmission": "8-speed automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 28,
+            "highway_mpg": 36,
+            "combined_mpg": 31,
+            "fuel_tank_gal": 13.2,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 1950
+          },
+          "performance": {
+            "zero_to_60_sec": 8.6,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 1000,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 175.9,
+            "width_in": 72.5,
+            "height_in": 65.1,
+            "wheelbase_in": 105.9,
+            "ground_clearance_in": 6.5,
+            "curb_weight_lb": 3181,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 27.9,
+              "behind_1st_row": 65.9,
+              "max_with_seats_folded": 65.9,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "205/60R17 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": 2025,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": 8,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "IQ.DRIVE driver-assistance suite standard",
+              "Digital Cockpit driver display",
+              "App-Connect with wireless Apple CarPlay/Android Auto",
+              "15W wireless phone charging (upgraded for 2026)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "7yr/100k",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "2yr/20k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.vw.com/en/models/taos.html",
+              "local_path": "images/volkswagen/taos/taos-standard/front-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_MY26Taos_Exterior_Rearview?Zml0PWNyb3AlMkMxJndpZD0xOTIwJmhlaT0xMDgwJmZtdD13ZWJwJnFsdD03OSZiZmM9b2ZmJmJmMTc=",
+              "local_path": "images/volkswagen/taos/taos-standard/rear-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.vw.com/en/models/taos.html",
+              "local_path": "images/volkswagen/taos/taos-standard/side-profile.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_MY26Taos_Interior_Dashboard?Zml0PWNyb3AlMkMxJndpZD0xOTIwJmhlaT0xMDgwJmZtdD13ZWJwJnFsdD03OSZiZmM9b2ZmJmJmMTc=",
+              "local_path": "images/volkswagen/taos/taos-standard/interior-dashboard.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.vw.com/press-kits/2026-taos-press-kit",
+            "powertrain": "https://www.vw.com/en/models/taos.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49467",
+            "dimensions": "https://www.vw.com/en/models/taos.html",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/volkswagen/taos-4-door-suv/2026",
+            "features": "https://www.vw.com/en/models/taos.html",
+            "warranty": "https://www.vw.com/en/owners-and-services/ownership-benefits/carefree-coverage.html"
+          },
+          "delta_from_base": null,
+          "notes": "S 4Motion AWD adds $1,700 to MSRP ($28,200) — handled per spec §6.4 as an option within trim, not a separate trim. IIHS rated Marginal moderate-overlap and Poor V2V crash-prevention for 2025 Taos — no 2026 Top Safety Pick award. NHTSA has not rated 2026 Taos at research time."
+        },
+        {
+          "trim": "SE",
+          "trim_slug": "se",
+          "trim_family": "taos-standard",
+          "is_base_trim": false,
+          "msrp_base": 29260,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "215/55R18"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Panoramic sunroof",
+              "V-Tex leatherette seating",
+              "Power driver seat",
+              "Heated steering wheel",
+              "Remote start",
+              "10.25-inch Digital Cockpit Pro",
+              "18-inch alloy wheels"
+            ]
+          },
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://media.vw.com/press-kits/2026-taos-press-kit",
+            "features": "https://www.vw.com/en/models/taos.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "s",
+            "msrp_delta_usd": 2760,
+            "changes": [
+              "Panoramic sunroof",
+              "V-Tex leatherette upholstery (vs cloth)",
+              "Heated front seats + heated steering wheel",
+              "Power 8-way driver seat",
+              "Remote start",
+              "Larger 10.25-inch Digital Cockpit Pro",
+              "18-inch alloy wheels (vs 17-inch)"
+            ]
+          },
+          "notes": "SE 4Motion adds $1,700 ($30,960)."
+        },
+        {
+          "trim": "SE Black",
+          "trim_slug": "se-black",
+          "trim_family": "taos-standard",
+          "is_base_trim": false,
+          "msrp_base": 31510,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "235/45R19 (black wheels)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Black exterior package: black roof, black roof rails, gunmetal trim and exhaust tips, black spoiler, black SE badge",
+              "Gloss black interior trim and black scuff plates",
+              "19-inch black alloy wheels",
+              "Otherwise equipped like SE"
+            ]
+          },
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://media.vw.com/press-kits/2026-taos-press-kit",
+            "features": "https://www.vw.com/en/models/taos.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "s",
+            "msrp_delta_usd": 5010,
+            "changes": [
+              "Black-out exterior trim package (roof, rails, mirrors, exhaust tips, badges)",
+              "19-inch black alloy wheels (vs 17-inch on S)",
+              "Panoramic sunroof",
+              "Heated front seats + heated steering wheel",
+              "V-Tex leatherette and power driver seat",
+              "Remote start and 10.25-inch Digital Cockpit Pro"
+            ]
+          },
+          "notes": "SE Black 4Motion adds $1,700 ($33,210)."
+        },
+        {
+          "trim": "SEL",
+          "trim_slug": "sel",
+          "trim_family": "taos-standard",
+          "is_base_trim": false,
+          "msrp_base": 35900,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 1.5,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 174,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 184,
+            "transmission": "8-speed automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 25,
+            "highway_mpg": 33,
+            "combined_mpg": 28,
+            "fuel_tank_gal": 14.5,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2150
+          },
+          "performance": {
+            "zero_to_60_sec": 8.4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 1000,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 175.9,
+            "width_in": 72.5,
+            "height_in": 65.1,
+            "wheelbase_in": 105.9,
+            "ground_clearance_in": 7.6,
+            "curb_weight_lb": 3430,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 24.9,
+              "behind_1st_row": 60.2,
+              "max_with_seats_folded": 60.2,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "235/45R19"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "premium VW 8-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "4Motion AWD standard",
+              "Premium VW 8-speaker audio",
+              "Perforated leather seating",
+              "Heated and ventilated front seats",
+              "Heated rear seats",
+              "Memory driver seat",
+              "Adaptive front lighting",
+              "Independent rear suspension (4Motion-only)"
+            ]
+          },
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://media.vw.com/press-kits/2026-taos-press-kit",
+            "powertrain": "https://www.vw.com/en/models/taos.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49543",
+            "dimensions": "https://www.vw.com/en/models/taos.html",
+            "features": "https://www.vw.com/en/models/taos.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "s",
+            "msrp_delta_usd": 9400,
+            "changes": [
+              "4Motion AWD standard (FWD not offered on SEL)",
+              "Independent rear suspension and 7.6-in ground clearance (vs 6.5)",
+              "Perforated leather seating, heated AND ventilated front seats, heated rear seats",
+              "Memory driver seat",
+              "Premium VW 8-speaker audio",
+              "Panoramic sunroof, heated steering wheel, remote start",
+              "Adaptive front lighting"
+            ]
+          },
+          "notes": "SEL is AWD-only — has different EPA listing (id=49543, 25/33/28) and different suspension (independent rear). Treated as its own row given the powertrain delta (drivetrain change) plus full feature delta."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "AWD is a $1,700 option on S/SE/SE Black per VW marketing; SEL is AWD-standard. 4Motion adds independent rear suspension. Image entries flagged needs_scraping (vw.com consumer pages)."
+    },
+    {
+      "model": "Tiguan",
+      "model_slug": "tiguan",
+      "model_year": 2026,
+      "body_style": "suv-compact",
+      "generation_context": "3rd-gen Tiguan, all-new for 2025 on MQB-evo platform; carryover for 2026 with addition of new top-trim SEL R-Line Turbo (268 hp). 3rd row no longer offered in US (now Atlas territory).",
+      "msrp_range": {
+        "low": 30805,
+        "high": 43085
+      },
+      "model_summary": "All-new 3rd-gen compact SUV, 5-seat only (3rd row dropped from US lineup). Two powertrain levels: a standard 2.0L turbo-4 with 201 hp on S/SE/SE R-Line Black trims and a new uprated 268-hp version (same EA888 evo4) standard on SEL R-Line Turbo. All trims use an 8-speed automatic; FWD standard with 4Motion AWD optional ($1,500) on lower trims and standard on SEL R-Line Turbo.",
+      "reliability": {
+        "jd_power_vds_score": 301,
+        "jd_power_vds_year": 2026,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power 2026 US VDS for the Volkswagen brand: 301 PP100 (industry avg 204). Ranked LAST in 2026 VDS (worst of all brands ranked). Up 16 PP100 from 285 in 2025 - quality has deteriorated. Ranked 16th of 25 in CR 2026 brand rankings - middle of pack but Taos and Jetta are least-reliable in their segments. No 2026-MY model-level data is published for this specific model; assessment is based on brand-level signals.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds",
+          "https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/"
+        ],
+        "jd_power_vds_source": "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Volkswagen Tiguan or for the Volkswagen brand overall.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the all-new Tiguan as a more premium, more refined compact SUV with a quieter cabin and improved tech — Kelley Blue Book praises the new SEL R-Line Turbo for adding genuine performance to the segment, though some reviewers note that the move away from a 3rd row sacrifices a value differentiator versus rivals like the Honda CR-V and Toyota RAV4.",
+        "links": [
+          {
+            "publication": "KBB",
+            "url": "https://www.kbb.com/car-news/driving-the-2026-volkswagen-tiguan-sel-r-line-turbo/",
+            "date": "2025-09-25"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/volkswagen/tiguan/2026/",
+            "date": "2025-08-15"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owner review sample sizes too small at research time (new gen).",
+        "confidence": "low",
+        "sources": []
+      },
+      "trims": [
+        {
+          "trim": "S",
+          "trim_slug": "s",
+          "trim_family": "tiguan-standard",
+          "is_base_trim": true,
+          "msrp_base": 30805,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 201,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 207,
+            "transmission": "8-speed automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 26,
+            "highway_mpg": 34,
+            "combined_mpg": 29,
+            "fuel_tank_gal": 14.5,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2050
+          },
+          "performance": {
+            "zero_to_60_sec": 8,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 1500,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 184.4,
+            "width_in": 72.4,
+            "height_in": 66.8,
+            "wheelbase_in": 110.1,
+            "ground_clearance_in": 7,
+            "curb_weight_lb": 3563,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 30.5,
+              "behind_1st_row": 69.8,
+              "max_with_seats_folded": 69.8,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "235/60R17"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.9,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Standard 12.9-inch touchscreen",
+              "Digital Cockpit driver display",
+              "myVW+ connected services",
+              "IQ.DRIVE driver-assistance suite standard"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "7yr/100k",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "2yr/20k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_USP_MY26Tiguan_Exterior?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xOTIwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJmI3NzA=",
+              "local_path": "images/volkswagen/tiguan/tiguan-standard/front-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.vw.com/en/models/tiguan.html",
+              "local_path": "images/volkswagen/tiguan/tiguan-standard/rear-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_USP_MY26Tiguan_Interior?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xOTIwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJmI3NzA=",
+              "local_path": "images/volkswagen/tiguan/tiguan-standard/side-profile.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_USP_MY26Tiguan_Interior?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xMjgwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJjcxZTM=",
+              "local_path": "images/volkswagen/tiguan/tiguan-standard/interior-dashboard.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.vw.com/press-kits/2026-tiguan-press-kit",
+            "powertrain": "https://www.vw.com/en/models/tiguan.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49469",
+            "dimensions": "https://www.vw.com/en/models/tiguan.html",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/volkswagen/tiguan-4-door-suv/2026",
+            "features": "https://www.vw.com/en/models/tiguan.html",
+            "warranty": "https://www.vw.com/en/owners-and-services/ownership-benefits/carefree-coverage.html"
+          },
+          "delta_from_base": null,
+          "notes": "S 4Motion AWD is a $1,500 option ($32,305) — EPA id=49468 (25/32/28). IIHS rated 2026 Tiguan Poor for moderate-overlap rear-passenger metric, so no TSP award."
+        },
+        {
+          "trim": "SE",
+          "trim_slug": "se",
+          "trim_family": "tiguan-standard",
+          "is_base_trim": false,
+          "msrp_base": 35080,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "235/50R19"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.9,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Panoramic sunroof",
+              "V-Tex leatherette seats",
+              "Heated steering wheel",
+              "Power driver seat",
+              "19-inch alloy wheels"
+            ]
+          },
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://media.vw.com/press-kits/2026-tiguan-press-kit",
+            "features": "https://www.vw.com/en/models/tiguan.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "s",
+            "msrp_delta_usd": 4275,
+            "changes": [
+              "Panoramic sunroof",
+              "V-Tex leatherette (vs cloth)",
+              "Heated steering wheel",
+              "Power 8-way driver seat",
+              "19-inch alloy wheels (vs 17-inch)"
+            ]
+          },
+          "notes": "SE 4Motion is $1,500 option ($36,580)."
+        },
+        {
+          "trim": "SE R-Line Black",
+          "trim_slug": "se-r-line-black",
+          "trim_family": "tiguan-r-line",
+          "is_base_trim": false,
+          "msrp_base": 42251,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/45R20 (black wheels)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 15,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon premium",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "R-Line exterior treatment with black-out trim",
+              "Larger 15-inch infotainment screen",
+              "Head-up display",
+              "Harman Kardon premium audio",
+              "Leather seating with diamond-stitch pattern",
+              "Ventilated front seats",
+              "Memory driver seat",
+              "20-inch black wheels"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_USP_MY26Tiguan_Exterior?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xOTIwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJmI3NzA=",
+              "local_path": "images/volkswagen/tiguan/tiguan-r-line/front-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.vw.com/en/models/tiguan.html",
+              "local_path": "images/volkswagen/tiguan/tiguan-r-line/rear-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_USP_MY26Tiguan_Interior?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xOTIwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJmI3NzA=",
+              "local_path": "images/volkswagen/tiguan/tiguan-r-line/side-profile.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_USP_MY26Tiguan_Interior?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xMjgwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJjcxZTM=",
+              "local_path": "images/volkswagen/tiguan/tiguan-r-line/interior-dashboard.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.kbb.com/volkswagen/tiguan/2026/se-r-line-black/",
+            "features": "https://www.vw.com/en/models/tiguan.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "s",
+            "msrp_delta_usd": 11446,
+            "changes": [
+              "R-Line exterior styling with black-out trim",
+              "15-inch infotainment screen (vs 12.9-inch)",
+              "Harman Kardon premium audio",
+              "Diamond-stitch leather seating",
+              "Heated AND ventilated front seats",
+              "Head-up display",
+              "Memory driver seat",
+              "Panoramic sunroof and 20-inch black wheels"
+            ]
+          },
+          "notes": "SE R-Line Black 4Motion is $1,500 option ($43,751). Uses same 201-hp 2.0T as S/SE."
+        },
+        {
+          "trim": "SEL R-Line Turbo",
+          "trim_slug": "sel-r-line-turbo",
+          "trim_family": "tiguan-r-line",
+          "is_base_trim": false,
+          "msrp_base": 43085,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 268,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 258,
+            "transmission": "8-speed automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 22,
+            "highway_mpg": 29,
+            "combined_mpg": 25,
+            "fuel_tank_gal": 15.6,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2400
+          },
+          "performance": {
+            "zero_to_60_sec": 5.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 1500,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 184.4,
+            "width_in": 72.4,
+            "height_in": 66.8,
+            "wheelbase_in": 110.1,
+            "ground_clearance_in": 7,
+            "curb_weight_lb": 4010,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 30.5,
+              "behind_1st_row": 69.8,
+              "max_with_seats_folded": 69.8,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/45R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 15,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon premium",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "268-hp EA888 evo4 2.0T (uprated)",
+              "4Motion AWD standard",
+              "R-Line exterior + R-specific badging",
+              "Nappa leather seating with massage function",
+              "Massaging and ventilated front seats",
+              "DCC adaptive damping available",
+              "Head-up display",
+              "15-inch infotainment with Harman Kardon premium audio"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_USP_MY26Tiguan_Exterior?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xMjgwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJjcxZTM=",
+              "local_path": "images/volkswagen/tiguan/tiguan-r-line/turbo-front-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.vw.com/en/models/tiguan.html",
+            "powertrain": "https://www.vw.com/en/models/tiguan.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49545",
+            "dimensions": "https://www.vw.com/en/models/tiguan.html",
+            "features": "https://www.vw.com/en/models/tiguan.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "s",
+            "msrp_delta_usd": 12280,
+            "changes": [
+              "Uprated 268-hp EA888 turbo-four (vs 201 hp) — +67 hp",
+              "4Motion AWD standard",
+              "Nappa leather with massage and ventilation",
+              "15-inch infotainment + Harman Kardon premium audio",
+              "Head-up display",
+              "R-Line styling, 20-inch wheels, panoramic sunroof",
+              "Heated steering wheel, memory driver seat, power-folding mirrors"
+            ]
+          },
+          "notes": "Top trim and only one with uprated 268-hp engine. Shares trim_family with SE R-Line Black (R-Line styling) per spec §7. EPA id=49545 (22/29/25)."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "All-new 3rd-gen Tiguan in US for 2025 MY carried to 2026 with addition of SEL R-Line Turbo. US Tiguan no longer offers 3rd row (vs prior gen). All FWD trims have EPA id=49469 (26/34/29); 4Motion S/SE/SE R-Line Black has id=49468 (25/32/28) per pre-pricing assumption — 4Motion variants confirmed via fueleconomy.gov."
+    },
+    {
+      "model": "Atlas",
+      "model_slug": "atlas",
+      "model_year": 2026,
+      "body_style": "suv-3row",
+      "generation_context": "Atlas 1.5-gen (2024 mid-cycle refresh adopted single 2.0T engine and new interior); final year of this generation before 2027 redesign debuted at NY Auto Show",
+      "msrp_range": {
+        "low": 39310,
+        "high": 54630
+      },
+      "model_summary": "Volkswagen's largest US-market SUV — 3-row family hauler with a 2.0L EA888 turbo-four (269 hp / 273 lb-ft) and 8-speed automatic across all trims; FWD on SE/SE Tech, 4Motion AWD standard from Peak Edition up. Trims: SE, SE w/ Technology, Peak Edition, SEL, SEL Premium R-Line. 5,000-lb towing.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "No 2026 model-specific predicted-reliability scores; current-gen Atlas (post-2024 refresh) has been rated below-average by CR historically; JD Power 2024 IQS rated Atlas above-average for VW.",
+        "confidence": "low",
+        "sources": [
+          "https://www.consumerreports.org/cars/volkswagen/atlas/2026/overview/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Volkswagen Atlas or for the Volkswagen brand overall.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers regard the 2026 Atlas as a spacious and family-friendly 3-row with refined ride quality and a roomy 3rd row that rivals struggle to match; common criticisms are the 2.0T turbo-four's modest performance under load (replacing the older VR6) and that the all-new 2027 successor is already on the way.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/volkswagen/atlas/2026/",
+            "date": "2025-08-30"
+          },
+          {
+            "publication": "KBB",
+            "url": "https://www.kbb.com/volkswagen/atlas/",
+            "date": "2025-09-15"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owner-review samples for current refreshed gen are small; current-gen Atlas typically scores 4+ overall on KBB.",
+        "confidence": "low",
+        "sources": []
+      },
+      "trims": [
+        {
+          "trim": "SE",
+          "trim_slug": "se",
+          "trim_family": "atlas-standard",
+          "is_base_trim": true,
+          "msrp_base": 39310,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 269,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 273,
+            "transmission": "8-speed automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 20,
+            "highway_mpg": 27,
+            "combined_mpg": 23,
+            "fuel_tank_gal": 18.6,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2600
+          },
+          "performance": {
+            "zero_to_60_sec": 7.6,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 5000,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 200.7,
+            "width_in": 78.3,
+            "height_in": 70.4,
+            "wheelbase_in": 117.3,
+            "ground_clearance_in": 6.3,
+            "curb_weight_lb": 4248,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 20.6,
+              "behind_2nd_row": 55.5,
+              "behind_1st_row": 96.6,
+              "max_with_seats_folded": 96.6,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "245/60R18"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2026,
+            "iihs_top_safety_pick": "TSP",
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "7-passenger 2nd-row bench (8-passenger available)",
+              "IQ.DRIVE semi-automated suite with Travel Assist",
+              "12-inch touchscreen",
+              "App-Connect wireless"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "7yr/100k",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "2yr/20k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.vw.com/en/models/atlas.html",
+              "local_path": "images/volkswagen/atlas/atlas-standard/front-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_MY26Atlas_Content_IIHSTopSafetyPick2026?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0yNTYwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJmMxOTM=",
+              "local_path": "images/volkswagen/atlas/atlas-standard/rear-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.vw.com/en/models/atlas.html",
+              "local_path": "images/volkswagen/atlas/atlas-standard/side-profile.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_Atlas_Slider-Interior?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTE0NDAmaGVpPTE0NDAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmZmFmYQ==",
+              "local_path": "images/volkswagen/atlas/atlas-standard/interior-dashboard.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.vw.com/en/models/atlas.html",
+            "powertrain": "https://www.vw.com/en/models/atlas.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49465",
+            "dimensions": "https://www.vw.com/en/models/atlas.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/VOLKSWAGEN/ATLAS",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/volkswagen/atlas-4-door-suv/2026",
+            "features": "https://www.vw.com/en/models/atlas.html",
+            "warranty": "https://www.vw.com/en/owners-and-services/ownership-benefits/carefree-coverage.html"
+          },
+          "delta_from_base": null,
+          "notes": "SE 4Motion AWD is $1,800 option ($41,110) — EPA id=49540 (20/26/22)."
+        },
+        {
+          "trim": "SE with Technology",
+          "trim_slug": "se-with-technology",
+          "trim_family": "atlas-standard",
+          "is_base_trim": false,
+          "msrp_base": 43730,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/50R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Panoramic sunroof",
+              "V-Tex leatherette",
+              "Remote start",
+              "Trailer hitch",
+              "Illuminated grille bar and illuminated VW emblems (front and rear)",
+              "Universal home remote",
+              "20-inch alloy wheels"
+            ]
+          },
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://media.vw.com/press-kits/2026-atlas-press-kit",
+            "features": "https://www.vw.com/en/models/atlas.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "se",
+            "msrp_delta_usd": 4420,
+            "changes": [
+              "Panoramic sunroof",
+              "Remote start",
+              "Illuminated grille bar and front/rear VW emblems",
+              "Trailer hitch and universal home remote",
+              "20-inch wheels (vs 18-inch)",
+              "V-Tex leatherette upholstery"
+            ]
+          },
+          "notes": "SE w/ Tech 4Motion is $1,800 option ($45,530)."
+        },
+        {
+          "trim": "Peak Edition",
+          "trim_slug": "peak-edition",
+          "trim_family": "atlas-standard",
+          "is_base_trim": false,
+          "msrp_base": 47545,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 269,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 273,
+            "transmission": "8-speed automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 19,
+            "highway_mpg": 25,
+            "combined_mpg": 21,
+            "fuel_tank_gal": 18.6,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2850
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "255/65R18 all-terrain"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "4Motion AWD standard",
+              "Off-road styling pack with unique grille and lower-body cladding",
+              "All-terrain 18-inch wheels",
+              "Skid plates and roof rails",
+              "Peak Edition badging",
+              "Off-Road driving mode"
+            ]
+          },
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://media.vw.com/press-kits/2026-atlas-press-kit",
+            "powertrain": "https://www.vw.com/en/models/atlas.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49542",
+            "features": "https://www.vw.com/en/models/atlas.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "se",
+            "msrp_delta_usd": 8235,
+            "changes": [
+              "4Motion AWD standard with Off-Road driving mode",
+              "Off-road styling pack (unique grille, lower cladding, skid plates, roof rails)",
+              "All-terrain 18-inch wheels",
+              "Panoramic sunroof and remote start",
+              "V-Tex leatherette upholstery",
+              "Peak Edition badging"
+            ]
+          },
+          "notes": "Peak Edition is the off-road-themed trim; 4Motion standard. EPA id=49542 (19/25/21)."
+        },
+        {
+          "trim": "SEL",
+          "trim_slug": "sel",
+          "trim_family": "atlas-standard",
+          "is_base_trim": false,
+          "msrp_base": 49620,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 269,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 273,
+            "transmission": "8-speed automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 19,
+            "highway_mpg": 25,
+            "combined_mpg": 21,
+            "fuel_tank_gal": 18.6,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2850
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/50R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "premium VW 8-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "4Motion AWD standard",
+              "Perforated leather seating",
+              "Heated AND ventilated front seats",
+              "Heated 2nd row outboard seats",
+              "Memory driver seat",
+              "Head-up display",
+              "Premium VW 8-speaker audio"
+            ]
+          },
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://www.edmunds.com/volkswagen/atlas/2026/",
+            "powertrain": "https://www.vw.com/en/models/atlas.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49539",
+            "features": "https://www.vw.com/en/models/atlas.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "se",
+            "msrp_delta_usd": 10310,
+            "changes": [
+              "4Motion AWD standard",
+              "Perforated leather seating",
+              "Heated AND ventilated front seats; heated 2nd-row outboard seats",
+              "Memory driver seat",
+              "Head-up display",
+              "Premium VW 8-speaker audio",
+              "Panoramic sunroof, 20-inch wheels"
+            ]
+          },
+          "notes": "EPA id=49539 (19/25/21)."
+        },
+        {
+          "trim": "SEL Premium R-Line",
+          "trim_slug": "sel-premium-r-line",
+          "trim_family": "atlas-r-line",
+          "is_base_trim": true,
+          "msrp_base": 54630,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "275/45R21"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon premium",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "R-Line sport exterior styling and unique grille",
+              "21-inch wheels",
+              "Perforated Vienna leather seating",
+              "Massaging front seats",
+              "Stainless pedal covers",
+              "Harman Kardon premium audio",
+              "Automated parking assist",
+              "Surround-view camera (360°)"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.vw.com/en/models/atlas.html",
+              "local_path": "images/volkswagen/atlas/atlas-r-line/front-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_MY26Atlas_Content_IIHSTopSafetyPick2026?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0yNTYwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJmMxOTM=",
+              "local_path": "images/volkswagen/atlas/atlas-r-line/rear-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.vw.com/en/models/atlas.html",
+              "local_path": "images/volkswagen/atlas/atlas-r-line/side-profile.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_Atlas_Slider-Interior?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTE0NDAmaGVpPTE0NDAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmZmFmYQ==",
+              "local_path": "images/volkswagen/atlas/atlas-r-line/interior-dashboard.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.vw.com/press-kits/2026-atlas-press-kit",
+            "features": "https://www.vw.com/en/models/atlas.html"
+          },
+          "delta_from_base": null,
+          "notes": "Sole trim of the atlas-r-line trim_family (R-Line styling tier within Atlas lineup). is_base_trim true and delta_from_base null per spec §6.2 sole-trim atomic rule. MSRP cross-checked against Edmunds and KBB."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "All trims share 2.0T 269 hp powertrain; 4Motion AWD optional on SE/SE Tech ($1,800) and standard from Peak Edition up. 2027 Atlas is all-new (NY Auto Show debut) — 2026 is final year of current gen. Image entries flagged needs_scraping."
+    },
+    {
+      "model": "Atlas Cross Sport",
+      "model_slug": "atlas-cross-sport",
+      "model_year": 2026,
+      "body_style": "suv-midsize",
+      "generation_context": "2-row variant of Atlas, refreshed 2024 with single 2.0T engine; carryover for 2026",
+      "msrp_range": {
+        "low": 38300,
+        "high": 53620
+      },
+      "model_summary": "2-row sibling of the Atlas — shorter rear overhang and sloping coupe-style roofline; 5-seat configuration with up to 77.6 cu ft of cargo. Same 2.0L turbo-four (269 hp / 273 lb-ft) and 8-speed automatic. Trims: SE, SE w/ Technology, SEL, SEL R-Line Black, SEL Premium R-Line.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "No 2026 model-specific predicted-reliability scores published.",
+        "confidence": "low",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Volkswagen Atlas Cross Sport or for the Volkswagen brand overall.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers note the Atlas Cross Sport offers most of the Atlas's space and comfort with a sportier profile, but the 2-row configuration trades real cargo and 3rd-row utility for style — Edmunds rates it competitive among midsize 2-row crossovers; KBB cites the IIHS Top Safety Pick award as a plus.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/volkswagen/atlas-cross-sport/2026/",
+            "date": "2025-08-25"
+          },
+          {
+            "publication": "KBB",
+            "url": "https://www.kbb.com/volkswagen/atlas-cross-sport/",
+            "date": "2025-09-10"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owner-review samples small for current 2026 MY.",
+        "confidence": "low",
+        "sources": []
+      },
+      "trims": [
+        {
+          "trim": "SE",
+          "trim_slug": "se",
+          "trim_family": "atlas-cross-sport-standard",
+          "is_base_trim": true,
+          "msrp_base": 38300,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 269,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 273,
+            "transmission": "8-speed automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 20,
+            "highway_mpg": 27,
+            "combined_mpg": 23,
+            "fuel_tank_gal": 18.6,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2600
+          },
+          "performance": {
+            "zero_to_60_sec": 7.4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 5000,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 195.5,
+            "width_in": 78.3,
+            "height_in": 67.8,
+            "wheelbase_in": 117.3,
+            "ground_clearance_in": 6.3,
+            "curb_weight_lb": 4341,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 40.3,
+              "behind_1st_row": 77.6,
+              "max_with_seats_folded": 77.6,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "245/60R18"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2026,
+            "iihs_top_safety_pick": "TSP",
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "IQ.DRIVE semi-automated suite with Travel Assist",
+              "12-inch touchscreen",
+              "App-Connect wireless"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "7yr/100k",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "2yr/20k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_MY26ACS_Content_IIHSTopSafetyPick-1?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0yNTYwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJmMxOTM=",
+              "local_path": "images/volkswagen/atlas-cross-sport/atlas-cross-sport-standard/front-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.vw.com/en/models/atlas-cross-sport.html",
+              "local_path": "images/volkswagen/atlas-cross-sport/atlas-cross-sport-standard/rear-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.vw.com/en/models/atlas-cross-sport.html",
+              "local_path": "images/volkswagen/atlas-cross-sport/atlas-cross-sport-standard/side-profile.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.vw.com/en/models/atlas-cross-sport.html",
+              "local_path": "images/volkswagen/atlas-cross-sport/atlas-cross-sport-standard/interior-dashboard.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.vw.com/en/models/atlas-cross-sport.html",
+            "powertrain": "https://www.vw.com/en/models/atlas-cross-sport.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49466",
+            "dimensions": "https://www.vw.com/en/models/atlas-cross-sport.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/VOLKSWAGEN/ATLAS%20CROSS%20SPORT",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/volkswagen/atlas-cross-sport-4-door-suv/2026",
+            "features": "https://www.vw.com/en/models/atlas-cross-sport.html",
+            "warranty": "https://www.vw.com/en/owners-and-services/ownership-benefits/carefree-coverage.html"
+          },
+          "delta_from_base": null,
+          "notes": "SE 4Motion AWD is $1,800 option — EPA id=49541 (20/26/22)."
+        },
+        {
+          "trim": "SE with Technology",
+          "trim_slug": "se-with-technology",
+          "trim_family": "atlas-cross-sport-standard",
+          "is_base_trim": false,
+          "msrp_base": 42720,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/50R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Panoramic sunroof",
+              "V-Tex leatherette",
+              "Remote start",
+              "Illuminated grille bar and VW emblems",
+              "Trailer hitch",
+              "20-inch alloy wheels"
+            ]
+          },
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://www.vw.com/en/models/atlas-cross-sport.html",
+            "features": "https://www.vw.com/en/models/atlas-cross-sport.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "se",
+            "msrp_delta_usd": 4420,
+            "changes": [
+              "Panoramic sunroof",
+              "V-Tex leatherette upholstery",
+              "Remote start",
+              "Illuminated grille and emblems",
+              "Trailer hitch",
+              "20-inch wheels (vs 18-inch)"
+            ]
+          },
+          "notes": ""
+        },
+        {
+          "trim": "SEL",
+          "trim_slug": "sel",
+          "trim_family": "atlas-cross-sport-standard",
+          "is_base_trim": false,
+          "msrp_base": 48610,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 269,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 273,
+            "transmission": "8-speed automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 20,
+            "highway_mpg": 26,
+            "combined_mpg": 22,
+            "fuel_tank_gal": 18.6,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2700
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/50R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "premium VW 8-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "4Motion AWD standard",
+              "Perforated leather seats",
+              "Heated AND ventilated front seats",
+              "Heated 2nd row outboard seats",
+              "Memory driver seat",
+              "Head-up display",
+              "Premium VW 8-speaker audio"
+            ]
+          },
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://www.vw.com/en/models/atlas-cross-sport.html",
+            "powertrain": "https://www.vw.com/en/models/atlas-cross-sport.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49541",
+            "features": "https://www.vw.com/en/models/atlas-cross-sport.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "se",
+            "msrp_delta_usd": 10310,
+            "changes": [
+              "4Motion AWD standard",
+              "Perforated leather with heated AND ventilated front seats",
+              "Heated 2nd-row outboard seats",
+              "Memory driver seat",
+              "Head-up display",
+              "Premium VW 8-speaker audio",
+              "Panoramic sunroof and 20-inch wheels"
+            ]
+          },
+          "notes": "EPA id=49541 (20/26/22)."
+        },
+        {
+          "trim": "SEL R-Line Black",
+          "trim_slug": "sel-r-line-black",
+          "trim_family": "atlas-cross-sport-r-line",
+          "is_base_trim": false,
+          "msrp_base": 50560,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/50R20 (black wheels)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "premium VW 8-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "R-Line styling with all-black exterior trim",
+              "Black 20-inch wheels",
+              "Otherwise mirrors SEL spec"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_MY26ACS_Content_IIHSTopSafetyPick-1?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0yNTYwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJmMxOTM=",
+              "local_path": "images/volkswagen/atlas-cross-sport/atlas-cross-sport-r-line/front-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.vw.com/en/models/atlas-cross-sport.html",
+              "local_path": "images/volkswagen/atlas-cross-sport/atlas-cross-sport-r-line/rear-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.vw.com/en/models/atlas-cross-sport.html",
+              "local_path": "images/volkswagen/atlas-cross-sport/atlas-cross-sport-r-line/side-profile.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.vw.com/en/models/atlas-cross-sport.html",
+              "local_path": "images/volkswagen/atlas-cross-sport/atlas-cross-sport-r-line/interior-dashboard.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.vw.com/en/models/atlas-cross-sport.html",
+            "features": "https://www.vw.com/en/models/atlas-cross-sport.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "se",
+            "msrp_delta_usd": 12260,
+            "changes": [
+              "R-Line all-black exterior styling",
+              "Black 20-inch wheels",
+              "4Motion AWD standard",
+              "Perforated leather, heated+ventilated front seats, heated 2nd row",
+              "Head-up display, memory driver seat",
+              "Premium VW 8-speaker audio and panoramic sunroof"
+            ]
+          },
+          "notes": ""
+        },
+        {
+          "trim": "SEL Premium R-Line",
+          "trim_slug": "sel-premium-r-line",
+          "trim_family": "atlas-cross-sport-r-line",
+          "is_base_trim": false,
+          "msrp_base": 53620,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "275/45R21"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon premium",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "R-Line sport exterior with unique grille",
+              "21-inch wheels",
+              "Perforated Vienna leather",
+              "Massaging front seats",
+              "Stainless pedal covers",
+              "Harman Kardon premium audio",
+              "Automated parking assist",
+              "Surround-view 360° camera"
+            ]
+          },
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://www.kbb.com/volkswagen/atlas-cross-sport/2026/sel-premium-r-line-4motion/",
+            "features": "https://www.vw.com/en/models/atlas-cross-sport.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "se",
+            "msrp_delta_usd": 15320,
+            "changes": [
+              "R-Line sport exterior with unique grille",
+              "21-inch wheels (vs 18-inch on SE)",
+              "Vienna perforated leather with massaging front seats",
+              "Harman Kardon premium audio (vs 6-speaker)",
+              "Automated parking and surround-view 360° camera",
+              "Heated+ventilated front seats, heated 2nd row, head-up display",
+              "Panoramic sunroof and remote start"
+            ]
+          },
+          "notes": ""
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "All trims share 2.0T 269 hp powertrain; 4Motion optional ($1,800) on SE/SE Tech and standard on SEL/SEL R-Line Black/SEL Premium R-Line. EPA Cross Sport AWD trims (id=49541) get 20/26/22. Image entries flagged needs_scraping."
+    },
+    {
+      "model": "ID.4",
+      "model_slug": "id-4",
+      "model_year": 2026,
+      "body_style": "suv-compact",
+      "generation_context": "1st-gen ID.4 on MEB platform, US Chattanooga-built; 2026 simplifies lineup to a single 82-kWh battery (smaller 62-kWh dropped), keeps 282 hp RWD and 335 hp AWD configurations",
+      "msrp_range": {
+        "low": 45095,
+        "high": 57655
+      },
+      "model_summary": "Volkswagen's mainstream EV SUV — single 82-kWh battery for 2026 (the smaller 62-kWh option dropped), 282 hp single-motor RWD with 291-mile range or 335 hp dual-motor AWD with 263-mile range. Trims: Pro (RWD), Pro AWD, Pro S (RWD), Pro S AWD, Pro S Plus (RWD), Pro S Plus AWD. Standard 12.9-inch touchscreen, IQ.DRIVE assistance, and 2-year Electrify America Pass+ membership.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "Consumer Reports flagged earlier ID.4 model years for infotainment/software issues; 2024-26 vehicles benefit from substantial software updates. No 2026 predicted-reliability score yet.",
+        "confidence": "low",
+        "sources": [
+          "https://cars.usnews.com/cars-trucks/volkswagen/id-4/reliability"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Volkswagen ID.4 or for the Volkswagen brand overall.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the 2026 ID.4's spacious interior, comfortable ride, and improved infotainment over earlier model years; common criticisms are slow DC-fast-charging compared with newer competitors and a still-clunky climate-control interface despite Mk8.5-style improvements.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/volkswagen/id-4/2026/",
+            "date": "2025-09-20"
+          },
+          {
+            "publication": "KBB",
+            "url": "https://www.kbb.com/volkswagen/id4/",
+            "date": "2025-08-15"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "2026-specific owner-rating sample is small; current-gen ID.4 has rated 3.5-4.0 on KBB owner reviews after software-related complaints in earlier MYs.",
+        "confidence": "low",
+        "sources": []
+      },
+      "trims": [
+        {
+          "trim": "Pro",
+          "trim_slug": "pro",
+          "trim_family": "id4-standard",
+          "is_base_trim": true,
+          "msrp_base": 45095,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 282,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 402,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 82,
+            "battery_usable_kwh": 77,
+            "electric_range_mi": 291,
+            "total_range_mi": 291,
+            "dc_fast_charge_peak_kw": 175,
+            "dc_fast_charge_10_to_80_min": 28,
+            "ac_charge_kw": 11,
+            "mpge_combined": 113,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 122,
+            "highway_mpg": 104,
+            "combined_mpg": 113,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 650
+          },
+          "performance": {
+            "zero_to_60_sec": 7.7,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 99,
+            "towing_capacity_lb": 2700,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 180.5,
+            "width_in": 72.9,
+            "height_in": 64.8,
+            "wheelbase_in": 108.9,
+            "ground_clearance_in": 6.1,
+            "curb_weight_lb": 4559,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 30.3,
+              "behind_1st_row": 64.2,
+              "max_with_seats_folded": 64.2,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "235/55R19"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2026,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.9,
+            "driver_display_in": 5.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "12.9-inch standard touchscreen",
+              "5.3-inch driver display (ID. Cockpit)",
+              "IQ.DRIVE driver-assistance suite",
+              "Plug & Charge with Electrify America (2-year complimentary Pass+ membership)",
+              "V-Tex leatherette",
+              "Wireless charging"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "7yr/100k",
+            "roadside_yr_mi": "3yr/36k",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": "2yr/20k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_ID4_front-lights-tile?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTEwODAmaGVpPTEwODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmM2Q5YQ==",
+              "local_path": "images/volkswagen/id-4/id4-standard/front-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.vw.com/en/models/id-4.html",
+              "local_path": "images/volkswagen/id-4/id4-standard/rear-three-quarter.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.vw.com/en/models/id-4.html",
+              "local_path": "images/volkswagen/id-4/id4-standard/side-profile.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.vw.com/en/models/id-4.html",
+              "local_path": "images/volkswagen/id-4/id4-standard/interior-dashboard.jpg",
+              "credit": "Volkswagen of America",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.vw.com/en/models/id-4.html",
+            "powertrain": "https://www.vw.com/en/models/id-4.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49987",
+            "performance.zero_to_60_sec": "https://www.vw.com/en/models/id-4.html",
+            "dimensions": "https://www.vw.com/en/models/id-4.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/VOLKSWAGEN/ID.4",
+            "features": "https://www.vw.com/en/models/id-4.html",
+            "warranty": "https://www.vw.com/en/owners-and-services/ownership-benefits/carefree-coverage.html"
+          },
+          "delta_from_base": null,
+          "notes": "Base trim of the ID.4 EV powertrain line (only powertrain line — entire model is EV). Pro AWD is +$3,000 ($48,095) with 335-hp dual-motor and 263-mile range (EPA id=49988, 108/96/102 MPGe)."
+        },
+        {
+          "trim": "Pro AWD",
+          "trim_slug": "pro-awd",
+          "trim_family": "id4-standard",
+          "is_base_trim": false,
+          "msrp_base": 48095,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 335,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 545,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 82,
+            "battery_usable_kwh": 77,
+            "electric_range_mi": 263,
+            "total_range_mi": 263,
+            "dc_fast_charge_peak_kw": 175,
+            "dc_fast_charge_10_to_80_min": 28,
+            "ac_charge_kw": 11,
+            "mpge_combined": 102,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 108,
+            "highway_mpg": 96,
+            "combined_mpg": 102,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 750
+          },
+          "performance": {
+            "zero_to_60_sec": 5.4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 99,
+            "towing_capacity_lb": 2700,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 180.5,
+            "width_in": 72.9,
+            "height_in": 65.2,
+            "wheelbase_in": 108.8,
+            "ground_clearance_in": 6.9,
+            "curb_weight_lb": 4824,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 30.3,
+              "behind_1st_row": 64.2,
+              "max_with_seats_folded": 64.2,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "235/55R19"
+          },
+          "safety": null,
+          "features": null,
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://www.vw.com/en/models/id-4.html",
+            "powertrain": "https://www.vw.com/en/models/id-4.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49988",
+            "dimensions": "https://www.vw.com/en/models/id-4.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "pro",
+            "msrp_delta_usd": 3000,
+            "changes": [
+              "AWD-electric (dual motor) standard",
+              "Higher combined output: 335 hp / 545 lb-ft (vs 282 hp / 402 lb-ft)",
+              "0-60 in 5.4 sec (vs 7.7 sec)",
+              "Range reduced to 263 mi (vs 291 mi RWD) — EPA 102 MPGe combined",
+              "Slightly more ground clearance (6.9 in vs 6.1)"
+            ]
+          },
+          "notes": "Adds dual-motor AWD; same battery and DC charging spec. EPA id=49988."
+        },
+        {
+          "trim": "Pro S",
+          "trim_slug": "pro-s",
+          "trim_family": "id4-standard",
+          "is_base_trim": false,
+          "msrp_base": 50195,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "235/50R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.9,
+            "driver_display_in": 5.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon premium",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "Panoramic fixed glass roof",
+              "Harman Kardon premium audio (with subwoofer)",
+              "Ventilated and massaging front seats",
+              "Memory driver seat",
+              "Head-up display with augmented-reality navigation",
+              "20-inch alloy wheels"
+            ]
+          },
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://www.vw.com/en/models/id-4.html",
+            "features": "https://www.vw.com/en/models/id-4.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "pro",
+            "msrp_delta_usd": 5100,
+            "changes": [
+              "Panoramic fixed glass roof",
+              "Harman Kardon premium audio (vs 6-speaker)",
+              "Ventilated and massaging front seats",
+              "Memory driver seat",
+              "AR head-up display",
+              "20-inch wheels (vs 19-inch)"
+            ]
+          },
+          "notes": "Pro S AWD adds $3,000 ($53,195)."
+        },
+        {
+          "trim": "Pro S Plus",
+          "trim_slug": "pro-s-plus",
+          "trim_family": "id4-standard",
+          "is_base_trim": false,
+          "msrp_base": 57655,
+          "destination_fee": 1475,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "235/45R21"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.9,
+            "driver_display_in": 5.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon premium",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "21-inch wheels",
+              "Perforated leather seating (with massaging front seats)",
+              "Heat pump (improved cold-weather range)",
+              "Memory driver seat with multi-driver profiles",
+              "Surround-view camera (360°)",
+              "Smart Park (automated parking assist)"
+            ]
+          },
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://www.vw.com/en/models/id-4.html",
+            "features": "https://www.vw.com/en/models/id-4.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "pro",
+            "msrp_delta_usd": 12560,
+            "changes": [
+              "21-inch wheels (vs 19-inch)",
+              "Perforated leather seating with massage",
+              "Heat pump for improved cold-weather range",
+              "Surround-view 360° camera",
+              "Smart Park automated parking",
+              "Harman Kardon premium audio",
+              "Panoramic glass roof, AR head-up display"
+            ]
+          },
+          "notes": "Pro S Plus AWD adds $3,000 ($60,655)."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Single powertrain line (all EV) — Pro is the sole base trim per multi-powertrain rule. RWD/AWD treated as one option on each trim per spec §6.4 (RWD/AWD priced as $3,000 step within each trim, not a body-or-platform difference). For 2026 the smaller 62-kWh battery and 201-hp Standard trim was dropped; all 2026 trims use the 82-kWh battery. Native NACS plug not yet adopted on 2026 ID.4 (CCS1); VW has announced NACS adapter availability via Electrify America. ID.Buzz is NOT on 2026 catalog — VW skipped MY2026 for the ID.Buzz US/Canada (paused production after MY25, expected to return MY27)."
+    }
+  ]
+}

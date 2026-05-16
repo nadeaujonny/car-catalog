@@ -1,0 +1,172 @@
+# Ferrari candidate dump (PLAYWRIGHT) — generated 2026-05-15T05:14:18.607Z
+# Loaded slug_variants for: 296-gtb, 296-gts, 296-speciale, 296-speciale-a, 12cilindri, 12cilindri-spider, 849-testarossa, 849-testarossa-spider
+
+========================================================================
+# MODEL: roma-spider
+# URL:   https://www.ferrari.com/en-EN/auto/ferrari-roma-spider
+# variants: ["roma-spider"]
+========================================================================
+# finalUrl: https://www.ferrari.com/en-EN/auto/ferrari-roma-spider
+# html bytes (rendered): 811651
+# total DOM <img> after render+scroll: 50
+# visible DOM <img>: 20
+# visible+plausible DOM <img>: 8
+# candidates from extractCandidates(rendered HTML): 8
+# candidates derived from DOM <img> walk (deduped): 8
+# union (HTML-regex + DOM-walk): 8
+# slug-matching union candidates: 0
+# host histogram (union):
+#      8  ferrari-view.thron.com
+# top URL-path tokens (union):
+#      8  api
+#      8  xcontents
+#      8  resources
+#      8  delivery
+#      8  getthumbnail
+#      8  ferrari
+#      8  0x0
+#      1  3f926358
+#      1  a1d3
+#      1  9ac4
+#      1  a3f02422518c
+#      1  664a46bf
+#      1  ad6d
+#      1  45ed
+#      1  b03f
+#      1  04eb0d47cbe7
+#      1  d8e8
+#      1  85fe
+#      1  10b2b7870f91
+#      1  1942c464
+#      1  b86b
+#      1  4b47
+#      1  13969ab5fbb6
+#      1  18121dfe
+#      1  488b
+#      1  947b
+#      1  b9ccd65a5fd8
+#      1  391035cc
+#      1  59b2
+#      1  45ac
+#      1  eab8c1e2ae04
+#      1  6718c619
+#      1  84bb
+#      1  41e2
+#      1  9b67
+#      1  6b6b5836cbb3
+#      1  99ddfdb1
+#      1  db41
+#      1  8bf5
+#      1  abf26ca9da08
+# candidates whose URL or alt contains the model name: 0
+# first 40 union candidates (URL + first 120 chars of alt + source):
+  - https://ferrari-view.thron.com/api/xcontents/resources/delivery/getThumbnail/ferrari/0x0/3f926358-a1d3-4415-9ac4-a3f02422518c.jpg?v=139
+      alt: ""
+      source: img@src
+  - https://ferrari-view.thron.com/api/xcontents/resources/delivery/getThumbnail/ferrari/0x0/664a46bf-ad6d-45ed-b03f-04eb0d47cbe7.jpg?v=139
+      alt: ""
+      source: img@src
+  - https://ferrari-view.thron.com/api/xcontents/resources/delivery/getThumbnail/ferrari/0x0/55775180-d8e8-4524-85fe-10b2b7870f91.jpg?v=139
+      alt: ""
+      source: img@src
+  - https://ferrari-view.thron.com/api/xcontents/resources/delivery/getThumbnail/ferrari/0x0/1942c464-b86b-4b47-9158-13969ab5fbb6.jpg?v=139
+      alt: ""
+      source: img@src
+  - https://ferrari-view.thron.com/api/xcontents/resources/delivery/getThumbnail/ferrari/0x0/18121dfe-1949-488b-947b-b9ccd65a5fd8.jpg?v=139
+      alt: ""
+      source: img@src
+  - https://ferrari-view.thron.com/api/xcontents/resources/delivery/getThumbnail/ferrari/0x0/391035cc-59b2-45ac-9576-eab8c1e2ae04.jpg?v=139
+      alt: ""
+      source: img@src
+  - https://ferrari-view.thron.com/api/xcontents/resources/delivery/getThumbnail/ferrari/0x0/6718c619-84bb-41e2-9b67-6b6b5836cbb3.jpg?v=139
+      alt: ""
+      source: img@src
+  - https://ferrari-view.thron.com/api/xcontents/resources/delivery/getThumbnail/ferrari/0x0/99ddfdb1-db41-4115-8bf5-abf26ca9da08.jpg?v=139
+      alt: ""
+      source: img@src
+
+# any-model-name mentions on this page (union URL+alt):
+
+========================================================================
+# MODEL: amalfi
+# URL:   https://www.ferrari.com/en-EN/auto/ferrari-amalfi
+# variants: ["amalfi"]
+========================================================================
+# finalUrl: https://www.ferrari.com/en-EN/auto/ferrari-amalfi
+# html bytes (rendered): 586711
+# total DOM <img> after render+scroll: 28
+# visible DOM <img>: 19
+# visible+plausible DOM <img>: 0
+# candidates from extractCandidates(rendered HTML): 0
+# candidates derived from DOM <img> walk (deduped): 0
+# union (HTML-regex + DOM-walk): 0
+# slug-matching union candidates: 0
+# host histogram (union):
+# top URL-path tokens (union):
+# candidates whose URL or alt contains the model name: 0
+# first 40 union candidates (URL + first 120 chars of alt + source):
+
+# any-model-name mentions on this page (union URL+alt):
+
+========================================================================
+# MODEL: 296-gtb
+# URL:   https://www.ferrari.com/en-EN/auto/296-gtb
+# variants: ["296-gtb","296gtb"]
+========================================================================
+# finalUrl: https://www.ferrari.com/en-EN/auto/296-gtb
+# html bytes (rendered): 839256
+# total DOM <img> after render+scroll: 67
+# visible DOM <img>: 19
+# visible+plausible DOM <img>: 0
+# candidates from extractCandidates(rendered HTML): 0
+# candidates derived from DOM <img> walk (deduped): 0
+# union (HTML-regex + DOM-walk): 0
+# slug-matching union candidates: 0
+# host histogram (union):
+# top URL-path tokens (union):
+# candidates whose URL or alt contains the model name: 0
+# first 40 union candidates (URL + first 120 chars of alt + source):
+
+# any-model-name mentions on this page (union URL+alt):
+
+========================================================================
+# MODEL: 12cilindri
+# URL:   https://www.ferrari.com/en-EN/auto/ferrari-12cilindri
+# variants: ["12cilindri","12-cilindri","twelve-cilindri"]
+========================================================================
+# finalUrl: https://www.ferrari.com/en-EN/auto/ferrari-12cilindri
+# html bytes (rendered): 828030
+# total DOM <img> after render+scroll: 50
+# visible DOM <img>: 13
+# visible+plausible DOM <img>: 0
+# candidates from extractCandidates(rendered HTML): 0
+# candidates derived from DOM <img> walk (deduped): 0
+# union (HTML-regex + DOM-walk): 0
+# slug-matching union candidates: 0
+# host histogram (union):
+# top URL-path tokens (union):
+# candidates whose URL or alt contains the model name: 0
+# first 40 union candidates (URL + first 120 chars of alt + source):
+
+# any-model-name mentions on this page (union URL+alt):
+
+========================================================================
+# MODEL: purosangue
+# URL:   https://www.ferrari.com/en-EN/auto/ferrari-purosangue
+# variants: ["purosangue"]
+========================================================================
+# finalUrl: https://www.ferrari.com/en-EN/auto/ferrari-purosangue
+# html bytes (rendered): 864425
+# total DOM <img> after render+scroll: 77
+# visible DOM <img>: 19
+# visible+plausible DOM <img>: 0
+# candidates from extractCandidates(rendered HTML): 0
+# candidates derived from DOM <img> walk (deduped): 0
+# union (HTML-regex + DOM-walk): 0
+# slug-matching union candidates: 0
+# host histogram (union):
+# top URL-path tokens (union):
+# candidates whose URL or alt contains the model name: 0
+# first 40 union candidates (URL + first 120 chars of alt + source):
+
+# any-model-name mentions on this page (union URL+alt):

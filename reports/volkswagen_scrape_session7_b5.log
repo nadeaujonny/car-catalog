@@ -1,0 +1,73 @@
+Reset 49 image entries with needs_scraping:true to their model page URLs.
+Brand: volkswagen
+Models in JSON: 9
+Models with page URLs: 9
+Playwright fallback: enabled
+
+Scraping 9 model pages…
+
+  fetch https://www.vw.com/en/models/jetta.html  …  static ok (1107 raw, 0 slug-matching)
+    playwright https://www.vw.com/en/models/jetta.html  …  ok (587 raw candidates)
+  fetch https://www.vw.com/en/models/jetta-gli.html  …  static ok (1107 raw, 108 slug-matching)
+  fetch https://www.vw.com/en/models/golf-gti.html  …  static ok (1215 raw, 108 slug-matching)
+  fetch https://www.vw.com/en/models/golf-r.html  …  static ok (1215 raw, 36 slug-matching)
+  fetch https://www.vw.com/en/models/taos.html  …  static ok (1107 raw, 0 slug-matching)
+    playwright https://www.vw.com/en/models/taos.html  …  ok (587 raw candidates)
+  fetch https://www.vw.com/en/models/tiguan.html  …  static ok (1161 raw, 72 slug-matching)
+  fetch https://www.vw.com/en/models/atlas.html  …  static ok (1233 raw, 288 slug-matching)
+  fetch https://www.vw.com/en/models/atlas-cross-sport.html  …  static ok (1179 raw, 18 slug-matching)
+  fetch https://www.vw.com/en/models/id-4.html  …  static ok (1557 raw, 1215 slug-matching)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          volkswagen
+Pages attempted:                9
+Pages failed:                   0
+Pages escalated to Playwright:  2 of 9
+  Playwright successes:         2
+  Playwright failures:          0
+Image entries rewritten:        16
+  via text/URL pattern match:   16
+  via brand-specific angle:     0
+  via positional fallback:      0
+Brand-specific angle matches:   0
+Resolution upgrades:            0 URLs preferred larger variants
+Image entries unchanged:        33
+
+Sample rewrites:
+  [7.4] golf-gti/s/front_three_quarter
+        → https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_MY26GolfGTI_sunroof?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xOTIwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJmI3NzA=
+  [7.4] golf-gti/s/interior_dashboard
+        → https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_MY26GolfGTI_displayScreen?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xOTIwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJmI3NzA=
+  [7.4] tiguan/s/front_three_quarter
+        → https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_USP_MY26Tiguan_Exterior?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xOTIwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJmI3NzA=
+  [7.4] tiguan/s/side_profile
+        → https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_USP_MY26Tiguan_Interior?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xOTIwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJmI3NzA=
+  [7.1] tiguan/s/interior_dashboard
+        → https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_USP_MY26Tiguan_Interior?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xMjgwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJjcxZTM=
+  [7.4] tiguan/se-r-line-black/front_three_quarter
+        → https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_USP_MY26Tiguan_Exterior?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xOTIwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJmI3NzA=
+  [7.4] tiguan/se-r-line-black/side_profile
+        → https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_USP_MY26Tiguan_Interior?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xOTIwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJmI3NzA=
+  [7.1] tiguan/se-r-line-black/interior_dashboard
+        → https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_USP_MY26Tiguan_Interior?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xMjgwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJjcxZTM=
+  [7.1] tiguan/sel-r-line-turbo/front_three_quarter
+        → https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_USP_MY26Tiguan_Exterior?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xMjgwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJjcxZTM=
+  [15.8] atlas/se/rear_three_quarter
+        → https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_MY26Atlas_Content_IIHSTopSafetyPick2026?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0yNTYwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJmMxOTM=
+  [7.4] atlas/se/interior_dashboard
+        → https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_Atlas_Slider-Interior?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTE0NDAmaGVpPTE0NDAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmZmFmYQ==
+  [15.8] atlas/sel-premium-r-line/rear_three_quarter
+        → https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_MY26Atlas_Content_IIHSTopSafetyPick2026?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0yNTYwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJmMxOTM=
+
+Models with unresolved angles:
+  jetta: 4 entries  (e.g. s/front_three_quarter, s/rear_three_quarter, s/side_profile)
+  jetta-gli: 4 entries  (e.g. autobahn/front_three_quarter, autobahn/rear_three_quarter, autobahn/side_profile)
+  golf-gti: 2 entries  (e.g. s/rear_three_quarter, s/side_profile)
+  golf-r: 4 entries  (e.g. golf-r/front_three_quarter, golf-r/rear_three_quarter, golf-r/side_profile)
+  taos: 4 entries  (e.g. s/front_three_quarter, s/rear_three_quarter, s/side_profile)
+  tiguan: 2 entries  (e.g. s/rear_three_quarter, se-r-line-black/rear_three_quarter)
+  atlas: 4 entries  (e.g. se/front_three_quarter, se/side_profile, sel-premium-r-line/front_three_quarter)
+  atlas-cross-sport: 6 entries  (e.g. se/rear_three_quarter, se/side_profile, se/interior_dashboard)
+  id-4: 3 entries  (e.g. pro/rear_three_quarter, pro/side_profile, pro/interior_dashboard)

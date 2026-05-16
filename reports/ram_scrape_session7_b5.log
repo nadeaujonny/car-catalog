@@ -1,0 +1,60 @@
+Reset 88 image entries with needs_scraping:true to their model page URLs.
+Brand: ram
+Models in JSON: 3
+Models with page URLs: 3
+Playwright fallback: enabled
+Brand-specific angle patterns: 3 regex(es) across 1 angle(s) — front_three_quarter
+
+Scraping 3 model pages…
+
+  fetch https://www.ramtrucks.com/ram-1500.html  …  static ok (32 raw, 28 slug-matching)
+  fetch https://www.ramtrucks.com/ram-2500.html  …  static ok (35 raw, 31 slug-matching)
+  fetch https://www.ramtrucks.com/ram-3500.html  …  static ok (14 raw, 10 slug-matching)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          ram
+Pages attempted:                3
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 3
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        29
+  via text/URL pattern match:   14
+  via brand-specific angle:     15
+  via positional fallback:      0
+Brand-specific angle matches:   15
+Resolution upgrades:            29 URLs preferred larger variants
+Image entries unchanged:        59
+
+Sample rewrites:
+  [B9.0] ram-1500/tradesman/front_three_quarter
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg
+  [B9.0] ram-1500/express/front_three_quarter
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg
+  [B9.0] ram-1500/big-horn/front_three_quarter
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg
+  [B9.0] ram-1500/warlock/front_three_quarter
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg
+  [B9.0] ram-1500/laramie/front_three_quarter
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg
+  [B9.0] ram-1500/rebel/front_three_quarter
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg
+  [B9.0] ram-1500/limited/front_three_quarter
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg
+  [B9.0] ram-1500/limited-longhorn/front_three_quarter
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg
+  [B9.0] ram-1500/rho/front_three_quarter
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg
+  [B9.0] ram-1500/tungsten/front_three_quarter
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg
+  [16.0] ram-2500/tradesman/front_three_quarter
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-lunar-vlp-desktop.jpg
+  [31.0] ram-2500/tradesman/side_profile
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-special-editions-2500-warlock-desktop.jpg
+
+Models with unresolved angles:
+  ram-1500: 30 entries  (e.g. tradesman/rear_three_quarter, tradesman/side_profile, tradesman/interior_dashboard)
+  ram-2500: 14 entries  (e.g. tradesman/rear_three_quarter, tradesman/interior_dashboard, big-horn/rear_three_quarter)
+  ram-3500: 15 entries  (e.g. tradesman/rear_three_quarter, tradesman/side_profile, tradesman/interior_dashboard)

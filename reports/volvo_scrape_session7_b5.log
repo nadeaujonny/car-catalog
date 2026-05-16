@@ -1,0 +1,64 @@
+Reset 95 image entries with needs_scraping:true to their model page URLs.
+Brand: volvo
+Models in JSON: 8
+Models with page URLs: 8
+Playwright fallback: enabled
+
+Scraping 8 model pages…
+
+  fetch https://www.volvocars.com/us/cars/xc40/  …  static ok (444 raw, 204 slug-matching)
+  fetch https://www.volvocars.com/us/cars/xc60/  …  static ok (476 raw, 156 slug-matching)
+  fetch https://www.volvocars.com/us/cars/xc90/  …  static ok (495 raw, 196 slug-matching)
+  fetch https://www.volvocars.com/us/cars/v60-cross-country/  …  static ok (324 raw, 93 slug-matching)
+  fetch https://www.volvocars.com/us/cars/ex30-electric/  …  static ok (441 raw, 201 slug-matching)
+  fetch https://www.volvocars.com/us/cars/ex40-electric/  …  static ok (417 raw, 183 slug-matching)
+  fetch https://www.volvocars.com/us/cars/ex90-electric/  …  static ok (439 raw, 163 slug-matching)
+  fetch https://www.volvocars.com/us/cars/es90/  …  static FAIL (404)
+    playwright https://www.volvocars.com/us/cars/es90/  …  ok but 0 candidates
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          volvo
+Pages attempted:                8
+Pages failed:                   1
+  - https://www.volvocars.com/us/cars/es90/  (404)
+Pages escalated to Playwright:  1 of 8
+  Playwright successes:         0
+  Playwright failures:          1
+Image entries rewritten:        86
+  via text/URL pattern match:   86
+  via brand-specific angle:     0
+  via positional fallback:      0
+Brand-specific angle matches:   0
+Resolution upgrades:            86 URLs preferred larger variants
+Image entries unchanged:        9
+
+Sample rewrites:
+  [17.4] xc40/b4-core-fwd/front_three_quarter
+        → https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt1187c111a71ae018/6849135314f6c3412c4cf5ee/Exterior-bento-front-4x5-XC40-mhev.jpg?branch=prod_alias&quality=85&format=auto&iar=0&w=1920
+  [17.4] xc40/b4-core-fwd/rear_three_quarter
+        → https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/bltb775b7b7418b95d9/6849138a8f5b4ed921029815/Exterior-bento-rear-4x5-XC40-mhev.jpg?branch=prod_alias&quality=85&format=auto&iar=0&w=1920
+  [9.8] xc40/b4-core-fwd/side_profile
+        → https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt034ddcfc72af2eb0/684913adaed0277ba92932ef/my26_xc40_ext_side_rim_close_up_4x3.jpg?branch=prod_alias&quality=85&format=auto&iar=0&w=3840
+  [21.4] xc40/b4-core-fwd/interior_dashboard
+        → https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt21de79b346688733/685d5bbb947f79faf352022e/XC40_BE_4x5_3.jpg?branch=prod_alias&quality=85&format=auto&iar=0&w=1920
+  [17.4] xc40/b4-plus-fwd/front_three_quarter
+        → https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt969b46e27039a331/685d5bbb506eeff63959d018/XC40_BE_4x5.jpg?branch=prod_alias&quality=85&format=auto&iar=0&w=1920
+  [17.0] xc40/b5-core-awd/front_three_quarter
+        → https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt1187c111a71ae018/6849135314f6c3412c4cf5ee/Exterior-bento-front-4x5-XC40-mhev.jpg?branch=prod_alias&quality=85&format=auto&iar=0&w=3840
+  [17.0] xc40/b5-plus-awd/front_three_quarter
+        → https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt969b46e27039a331/685d5bbb506eeff63959d018/XC40_BE_4x5.jpg?branch=prod_alias&quality=85&format=auto&iar=0&w=3840
+  [16.6] xc40/b5-ultra-awd/front_three_quarter
+        → https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt1187c111a71ae018/6849135314f6c3412c4cf5ee/Exterior-bento-front-4x5-XC40-mhev.jpg?branch=prod_alias&quality=85&format=auto&iar=0&w=1200
+  [17.4] xc40/b5-ultra-black-edition-awd/front_three_quarter
+        → https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt1187c111a71ae018/6849135314f6c3412c4cf5ee/Exterior-bento-front-4x5-XC40-mhev.jpg?branch=prod_alias&quality=85&format=auto&iar=0&w=1920
+  [17.4] xc40/b5-ultra-black-edition-awd/rear_three_quarter
+        → https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/bltb775b7b7418b95d9/6849138a8f5b4ed921029815/Exterior-bento-rear-4x5-XC40-mhev.jpg?branch=prod_alias&quality=85&format=auto&iar=0&w=1920
+  [9.8] xc40/b5-ultra-black-edition-awd/side_profile
+        → https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt034ddcfc72af2eb0/684913adaed0277ba92932ef/my26_xc40_ext_side_rim_close_up_4x3.jpg?branch=prod_alias&quality=85&format=auto&iar=0&w=3840
+  [21.4] xc40/b5-ultra-black-edition-awd/interior_dashboard
+        → https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt21de79b346688733/685d5bbb947f79faf352022e/XC40_BE_4x5_3.jpg?branch=prod_alias&quality=85&format=auto&iar=0&w=1920
+
+Models with unresolved angles:
+  es90: 9 entries  (e.g. single-motor/front_three_quarter, single-motor/rear_three_quarter, single-motor/side_profile)

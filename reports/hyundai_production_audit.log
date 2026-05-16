@@ -1,0 +1,97 @@
+# Production-equivalent candidate audit — 2026-05-15T05:20:52.398Z
+
+========== venue (27 cands) ==========
+  front_three_quarter (vehicle-browse-hero): 0 URLs / 0 bases
+  front_three_quarter (vlp-hero NOT ev/hev): 9 URLs / 1 bases
+    - 2026-venue-vlp-hero
+  side_profile (ev-vlp-hero or hev-vlp-hero): 0 URLs / 0 bases
+  side_profile (slug-trim-color-001): 0 URLs / 0 bases
+
+========== elantra (31 cands) ==========
+  front_three_quarter (vehicle-browse-hero): 0 URLs / 0 bases
+  front_three_quarter (vlp-hero NOT ev/hev): 9 URLs / 1 bases
+    - 2026-elantra-vlp-hero
+  side_profile (ev-vlp-hero or hev-vlp-hero): 0 URLs / 0 bases
+  side_profile (slug-trim-color-001): 0 URLs / 0 bases
+
+========== elantra-n (42 cands) ==========
+  front_three_quarter (vehicle-browse-hero): 0 URLs / 0 bases
+  front_three_quarter (vlp-hero NOT ev/hev): 0 URLs / 0 bases
+  side_profile (ev-vlp-hero or hev-vlp-hero): 0 URLs / 0 bases
+  side_profile (slug-trim-color-001): 0 URLs / 0 bases
+
+========== sonata (84 cands) ==========
+  front_three_quarter (vehicle-browse-hero): 0 URLs / 0 bases
+  front_three_quarter (vlp-hero NOT ev/hev): 9 URLs / 2 bases
+    - 2026-sonata-ice-vlp-hero
+    - 2026-sonata-ice-vlp-hero-360
+  side_profile (ev-vlp-hero or hev-vlp-hero): 9 URLs / 1 bases
+    - 2026-sonata-hev-vlp-hero
+  side_profile (slug-trim-color-001): 0 URLs / 0 bases
+
+========== kona (26 cands) ==========
+  front_three_quarter (vehicle-browse-hero): 0 URLs / 0 bases
+  front_three_quarter (vlp-hero NOT ev/hev): 0 URLs / 0 bases
+  side_profile (ev-vlp-hero or hev-vlp-hero): 0 URLs / 0 bases
+  side_profile (slug-trim-color-001): 0 URLs / 0 bases
+
+========== tucson (55 cands) ==========
+  front_three_quarter (vehicle-browse-hero): 0 URLs / 0 bases
+  front_three_quarter (vlp-hero NOT ev/hev): 9 URLs / 2 bases
+    - 2026-tucson-vlp-hero
+    - 2026-tucson-vlp-hero-v2
+  side_profile (ev-vlp-hero or hev-vlp-hero): 0 URLs / 0 bases
+  side_profile (slug-trim-color-001): 0 URLs / 0 bases
+
+========== santa-cruz (42 cands) ==========
+  front_three_quarter (vehicle-browse-hero): 0 URLs / 0 bases
+  front_three_quarter (vlp-hero NOT ev/hev): 0 URLs / 0 bases
+  side_profile (ev-vlp-hero or hev-vlp-hero): 0 URLs / 0 bases
+  side_profile (slug-trim-color-001): 0 URLs / 0 bases
+
+========== santa-fe (51 cands) ==========
+  front_three_quarter (vehicle-browse-hero): 0 URLs / 0 bases
+  front_three_quarter (vlp-hero NOT ev/hev): 9 URLs / 1 bases
+    - 2026-santa-fe-vlp-hero-gse
+  side_profile (ev-vlp-hero or hev-vlp-hero): 0 URLs / 0 bases
+  side_profile (slug-trim-color-001): 0 URLs / 0 bases
+
+========== palisade (14 cands) ==========
+  front_three_quarter (vehicle-browse-hero): 0 URLs / 0 bases
+  front_three_quarter (vlp-hero NOT ev/hev): 0 URLs / 0 bases
+  side_profile (ev-vlp-hero or hev-vlp-hero): 0 URLs / 0 bases
+  side_profile (slug-trim-color-001): 0 URLs / 0 bases
+
+========== ioniq-5 (47 cands) ==========
+  front_three_quarter (vehicle-browse-hero): 0 URLs / 0 bases
+  front_three_quarter (vlp-hero NOT ev/hev): 9 URLs / 3 bases
+    - 2026-ioniq-5-ev-vlp-hero-sse
+    - 2026-ioniq-5-ev-vlp-hero-sse-360
+    - 2026-ioniq-5-ev-vlp-hero
+  side_profile (ev-vlp-hero or hev-vlp-hero): 9 URLs / 3 bases
+    - 2026-ioniq-5-ev-vlp-hero-sse
+    - 2026-ioniq-5-ev-vlp-hero-sse-360
+    - 2026-ioniq-5-ev-vlp-hero
+  side_profile (slug-trim-color-001): 0 URLs / 0 bases
+
+========== ioniq-5-n (39 cands) ==========
+  front_three_quarter (vehicle-browse-hero): 0 URLs / 0 bases
+  front_three_quarter (vlp-hero NOT ev/hev): 9 URLs / 1 bases
+    - 2025-ioniq-5n-ev-vlp-hero
+  side_profile (ev-vlp-hero or hev-vlp-hero): 9 URLs / 1 bases
+    - 2025-ioniq-5n-ev-vlp-hero
+  side_profile (slug-trim-color-001): 0 URLs / 0 bases
+
+========== ioniq-6-n (16 cands) ==========
+  front_three_quarter (vehicle-browse-hero): 0 URLs / 0 bases
+  front_three_quarter (vlp-hero NOT ev/hev): 0 URLs / 0 bases
+  side_profile (ev-vlp-hero or hev-vlp-hero): 0 URLs / 0 bases
+  side_profile (slug-trim-color-001): 0 URLs / 0 bases
+
+========== ioniq-9 (71 cands) ==========
+  front_three_quarter (vehicle-browse-hero): 0 URLs / 0 bases
+  front_three_quarter (vlp-hero NOT ev/hev): 9 URLs / 1 bases
+    - 2026-ioniq-9-ev-vlp-hero
+  side_profile (ev-vlp-hero or hev-vlp-hero): 9 URLs / 1 bases
+    - 2026-ioniq-9-ev-vlp-hero
+  side_profile (slug-trim-color-001): 0 URLs / 0 bases

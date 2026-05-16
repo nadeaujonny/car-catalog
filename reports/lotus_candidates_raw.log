@@ -1,0 +1,133 @@
+# Lotus candidate dump — generated 2026-05-15T05:13:25.229Z
+# Loaded slug_variants for: emira, eletre, emeya
+
+========================================================================
+# MODEL: emira    (source: consumer)
+# URL:   https://www.lotuscars.com/en-US/emira
+========================================================================
+# finalUrl: https://www.lotuscars.com/en-US/emira    (status 200)
+# html bytes: 439596
+# raw candidates (deduped by URL): 0
+# slug-matching (variant for "emira"): 0
+# host histogram:
+# top URL-path tokens:
+# candidates whose URL or alt contains the model slug "emira": 0
+# first 40 raw candidates (URL + first 100 chars of alt):
+
+========================================================================
+# MODEL: eletre    (source: consumer)
+# URL:   https://www.lotuscars.com/en-US/eletre
+========================================================================
+# finalUrl: https://www.lotuscars.com/en-US/eletre    (status 200)
+# html bytes: 361930
+# raw candidates (deduped by URL): 0
+# slug-matching (variant for "eletre"): 0
+# host histogram:
+# top URL-path tokens:
+# candidates whose URL or alt contains the model slug "eletre": 0
+# first 40 raw candidates (URL + first 100 chars of alt):
+
+========================================================================
+# MODEL: emeya    (source: consumer)
+# URL:   https://www.lotuscars.com/en-US/emeya
+========================================================================
+# finalUrl: https://www.lotuscars.com/en-US/emeya    (status 200)
+# html bytes: 356260
+# raw candidates (deduped by URL): 0
+# slug-matching (variant for "emeya"): 0
+# host histogram:
+# top URL-path tokens:
+# candidates whose URL or alt contains the model slug "emeya": 0
+# first 40 raw candidates (URL + first 100 chars of alt):
+
+========================================================================
+# MODEL: emira    (source: press-media)
+# URL:   https://media.lotuscars.com/en/press/galleries/emira
+========================================================================
+# finalUrl: https://www.lotuscars.com/en/press    (status 200)
+# html bytes: 362159
+# raw candidates (deduped by URL): 0
+# slug-matching (variant for "emira"): 0
+# host histogram:
+# top URL-path tokens:
+# candidates whose URL or alt contains the model slug "emira": 0
+# first 40 raw candidates (URL + first 100 chars of alt):
+
+========================================================================
+# MODEL: eletre    (source: press-media)
+# URL:   https://media.lotuscars.com/en/press/galleries/eletre
+========================================================================
+# finalUrl: https://www.lotuscars.com/en/press    (status 200)
+# html bytes: 362159
+# raw candidates (deduped by URL): 0
+# slug-matching (variant for "eletre"): 0
+# host histogram:
+# top URL-path tokens:
+# candidates whose URL or alt contains the model slug "eletre": 0
+# first 40 raw candidates (URL + first 100 chars of alt):
+
+========================================================================
+# MODEL: emeya    (source: press-media)
+# URL:   https://media.lotuscars.com/en/press/galleries/emeya
+========================================================================
+# finalUrl: https://www.lotuscars.com/en/press    (status 200)
+# html bytes: 362159
+# raw candidates (deduped by URL): 0
+# slug-matching (variant for "emeya"): 0
+# host histogram:
+# top URL-path tokens:
+# candidates whose URL or alt contains the model slug "emeya": 0
+# first 40 raw candidates (URL + first 100 chars of alt):
+
+========================================================================
+# MODEL: emira    (source: press-en)
+# URL:   https://www.lotuscars.com/en/press/galleries/emira
+========================================================================
+# finalUrl: https://www.lotuscars.com/en/press/galleries/emira    (status 200)
+# html bytes: 225813
+# raw candidates (deduped by URL): 0
+# slug-matching (variant for "emira"): 0
+# host histogram:
+# top URL-path tokens:
+# candidates whose URL or alt contains the model slug "emira": 0
+# first 40 raw candidates (URL + first 100 chars of alt):
+
+========================================================================
+# MODEL: eletre    (source: press-en)
+# URL:   https://www.lotuscars.com/en/press/galleries/eletre
+========================================================================
+# finalUrl: https://www.lotuscars.com/en/press/galleries/eletre    (status 200)
+# html bytes: 224259
+# raw candidates (deduped by URL): 0
+# slug-matching (variant for "eletre"): 0
+# host histogram:
+# top URL-path tokens:
+# candidates whose URL or alt contains the model slug "eletre": 0
+# first 40 raw candidates (URL + first 100 chars of alt):
+
+========================================================================
+# MODEL: emeya    (source: press-en)
+# URL:   https://www.lotuscars.com/en/press/galleries/emeya
+========================================================================
+# finalUrl: https://www.lotuscars.com/en/press/galleries/emeya    (status 200)
+# html bytes: 225815
+# raw candidates (deduped by URL): 0
+# slug-matching (variant for "emeya"): 0
+# host histogram:
+# top URL-path tokens:
+# candidates whose URL or alt contains the model slug "emeya": 0
+# first 40 raw candidates (URL + first 100 chars of alt):
+
+========================================================================
+# MODEL: _press_root    (source: press-root)
+# URL:   https://www.lotuscars.com/en/press
+========================================================================
+# finalUrl: https://www.lotuscars.com/en/press    (status 200)
+# html bytes: 362159
+# raw candidates (deduped by URL): 0
+# slug-matching variant for "emira" on press root: 0
+# slug-matching variant for "eletre" on press root: 0
+# slug-matching variant for "emeya" on press root: 0
+# host histogram:
+# top URL-path tokens:
+# first 40 raw candidates (URL + first 100 chars of alt):

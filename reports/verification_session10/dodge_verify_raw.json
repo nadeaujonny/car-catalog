@@ -1,0 +1,128 @@
+{
+  "brand": "Dodge",
+  "brand_slug": "dodge",
+  "researched_at": "2026-05-15",
+  "schema_version": "1.1",
+  "model_count": 3,
+  "trim_count": 15,
+  "total_images": 60,
+  "needs_scraping": 16,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 12,
+  "warning_count": 12,
+  "fyi_count": 0,
+  "blockers": [
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[1].trims[0].sources.msrp_base (charger-sixpack/rt-coupe)",
+      "value": "https://www.prnewswire.com/news-releases/sixpack-powered-2026-dodge-charger-rt-delivers-most-entry-level-horsepower-of-any-muscle-car-expands-charger-multi-energy-lineup-302708303.html"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[1].trims[0].sources.powertrain (charger-sixpack/rt-coupe)",
+      "value": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[1].trims[0].sources.performance.zero_to_60_sec (charger-sixpack/rt-coupe)",
+      "value": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[1].trims[0].sources.dimensions (charger-sixpack/rt-coupe)",
+      "value": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[1].trims[0].sources.features (charger-sixpack/rt-coupe)",
+      "value": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[1].trims[1].sources.msrp_base (charger-sixpack/rt-sedan)",
+      "value": "https://www.prnewswire.com/news-releases/sixpack-powered-2026-dodge-charger-rt-delivers-most-entry-level-horsepower-of-any-muscle-car-expands-charger-multi-energy-lineup-302708303.html"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[1].trims[1].sources.powertrain (charger-sixpack/rt-sedan)",
+      "value": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[1].trims[1].sources.performance.zero_to_60_sec (charger-sixpack/rt-sedan)",
+      "value": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[1].trims[1].sources.dimensions (charger-sixpack/rt-sedan)",
+      "value": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[1].trims[1].sources.features (charger-sixpack/rt-sedan)",
+      "value": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[1].trims[4].sources.dimensions (charger-sixpack/scat-pack-coupe)",
+      "value": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[1].trims[5].sources.dimensions (charger-sixpack/scat-pack-sedan)",
+      "value": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car"
+    }
+  ],
+  "warnings": [
+    {
+      "title": "coupe base trim has null trunk_cuft",
+      "where": "charger-daytona/scat-pack-coupe"
+    },
+    {
+      "title": "coupe base trim has non-null behind_2nd_row",
+      "where": "charger-daytona/scat-pack-coupe"
+    },
+    {
+      "title": "coupe base trim has null trunk_cuft",
+      "where": "charger-daytona/scat-pack-sedan"
+    },
+    {
+      "title": "coupe base trim has non-null behind_2nd_row",
+      "where": "charger-daytona/scat-pack-sedan"
+    },
+    {
+      "title": "coupe base trim has null trunk_cuft",
+      "where": "charger-sixpack/rt-coupe"
+    },
+    {
+      "title": "coupe base trim has non-null behind_2nd_row",
+      "where": "charger-sixpack/rt-coupe"
+    },
+    {
+      "title": "coupe base trim has null trunk_cuft",
+      "where": "charger-sixpack/rt-sedan"
+    },
+    {
+      "title": "coupe base trim has non-null behind_2nd_row",
+      "where": "charger-sixpack/rt-sedan"
+    },
+    {
+      "title": "coupe base trim has null trunk_cuft",
+      "where": "charger-sixpack/scat-pack-coupe"
+    },
+    {
+      "title": "coupe base trim has non-null behind_2nd_row",
+      "where": "charger-sixpack/scat-pack-coupe"
+    },
+    {
+      "title": "coupe base trim has null trunk_cuft",
+      "where": "charger-sixpack/scat-pack-sedan"
+    },
+    {
+      "title": "coupe base trim has non-null behind_2nd_row",
+      "where": "charger-sixpack/scat-pack-sedan"
+    }
+  ],
+  "fyis": []
+}

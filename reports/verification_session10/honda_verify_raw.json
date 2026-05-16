@@ -1,0 +1,170 @@
+{
+  "brand": "Honda",
+  "brand_slug": "honda",
+  "researched_at": "2026-05-11",
+  "schema_version": "1.0",
+  "model_count": 13,
+  "trim_count": 53,
+  "total_images": 212,
+  "needs_scraping": 0,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 25,
+  "warning_count": 3,
+  "fyi_count": 0,
+  "blockers": [
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[0].sources.msrp_base (civic/lx)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-honda-civic-511911/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[1].sources.msrp_base (civic/sport)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-honda-civic-511911/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[2].sources.msrp_base (civic/sport-hybrid)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-honda-civic-511911/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[3].sources.msrp_base (civic/sport-touring-hybrid)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-honda-civic-511911/"
+    },
+    {
+      "title": "Forbidden source (autoblog.com) in professional_reviews.links",
+      "where": "models[0].professional_reviews.links[1] (civic)",
+      "value": "https://www.autoblog.com/reviews/is-the-2026-honda-civic-sport-touring-hybrid-the-best-compact-sedan-made-today",
+      "publication": "Autoblog"
+    },
+    {
+      "title": "Forbidden source (cars.com) in professional_reviews.links",
+      "where": "models[0].professional_reviews.links[2] (civic)",
+      "value": "https://www.cars.com/research/honda-civic-2026/",
+      "publication": "Cars.com"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[2].trims[0].sources.fuel_economy (civic-si/si)",
+      "value": "https://carbuzz.com/2026-honda-civic-si-0-60-by-the-numbers/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[2].trims[0].sources.performance.zero_to_60_sec (civic-si/si)",
+      "value": "https://carbuzz.com/2026-honda-civic-si-0-60-by-the-numbers/"
+    },
+    {
+      "title": "Forbidden source (autoblog.com) in sources map",
+      "where": "models[2].trims[0].sources.features (civic-si/si)",
+      "value": "https://www.autoblog.com/cars/honda/civic-si/2026"
+    },
+    {
+      "title": "Forbidden source (autoblog.com) in professional_reviews.links",
+      "where": "models[2].professional_reviews.links[0] (civic-si)",
+      "value": "https://www.autoblog.com/cars/honda/civic-si/2026",
+      "publication": "Autoblog"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in professional_reviews.links",
+      "where": "models[2].professional_reviews.links[1] (civic-si)",
+      "value": "https://carbuzz.com/2026-honda-civic-si-0-60-by-the-numbers/",
+      "publication": "CarBuzz"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[3].trims[0].sources.msrp_base (civic-type-r/type-r)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-honda-civic-type-r-520190/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[3].trims[0].sources.performance.zero_to_60_sec (civic-type-r/type-r)",
+      "value": "https://carbuzz.com/cars/honda/civic-type-r/2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[3].trims[0].sources.dimensions (civic-type-r/type-r)",
+      "value": "https://www.cars.com/research/honda-civic_type_r-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in professional_reviews.links",
+      "where": "models[3].professional_reviews.links[1] (civic-type-r)",
+      "value": "https://www.cars.com/research/honda-civic_type_r-2026/",
+      "publication": "Cars.com"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in professional_reviews.links",
+      "where": "models[3].professional_reviews.links[2] (civic-type-r)",
+      "value": "https://carbuzz.com/cars/honda/civic-type-r/2026/",
+      "publication": "CarBuzz"
+    },
+    {
+      "title": "Forbidden source (cars.com) in professional_reviews.links",
+      "where": "models[4].professional_reviews.links[0] (accord)",
+      "value": "https://www.cars.com/articles/the-2026-honda-accord-hybrid-makes-you-want-to-skip-an-suv-review-522958/",
+      "publication": "Cars.com"
+    },
+    {
+      "title": "Forbidden source (autoblog.com) in professional_reviews.links",
+      "where": "models[6].professional_reviews.links[0] (hr-v)",
+      "value": "https://www.autoblog.com/cars/honda/hr-v/2026",
+      "publication": "Autoblog"
+    },
+    {
+      "title": "Forbidden source (cars.com) in professional_reviews.links",
+      "where": "models[7].professional_reviews.links[1] (cr-v)",
+      "value": "https://www.cars.com/research/honda-cr-v-2026/",
+      "publication": "Cars.com"
+    },
+    {
+      "title": "Forbidden source (cars.com) in professional_reviews.links",
+      "where": "models[8].professional_reviews.links[2] (passport)",
+      "value": "https://www.cars.com/research/honda-passport-2026/",
+      "publication": "Cars.com"
+    },
+    {
+      "title": "Forbidden source (cars.com) in professional_reviews.links",
+      "where": "models[9].professional_reviews.links[1] (pilot)",
+      "value": "https://www.cars.com/research/honda-pilot-2026/",
+      "publication": "Cars.com"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[10].trims[0].sources.msrp_base (prologue/ex)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-honda-prologue-518045/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[10].trims[1].sources.msrp_base (prologue/touring)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-honda-prologue-518045/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[10].trims[2].sources.msrp_base (prologue/elite)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-honda-prologue-518045/"
+    },
+    {
+      "title": "Forbidden source (autoblog.com) in professional_reviews.links",
+      "where": "models[10].professional_reviews.links[1] (prologue)",
+      "value": "https://www.autoblog.com/cars/honda/prologue/2026",
+      "publication": "Autoblog"
+    }
+  ],
+  "warnings": [
+    {
+      "title": "suv-3row base trim has non-null trunk_cuft",
+      "where": "pilot/sport"
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "prologue/ex",
+      "value": "fuel_economy"
+    },
+    {
+      "title": "EV base trim has null fuel_economy.combined_mpg while ev_specifics.mpge_combined populated (spec §3.6 v1.1 mirror)",
+      "where": "prologue/ex"
+    }
+  ],
+  "fyis": []
+}

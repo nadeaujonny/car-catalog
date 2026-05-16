@@ -1,0 +1,22 @@
+{
+  "brand_slug": "volvo",
+  "notes": "volvocars.com/us/cars/<model> consumer site. EX-line is the pure-EV branding (EX30, EX40, EX90); XC-line is hybrid/ICE. ES90 is the new electric sedan; V60 Cross Country is the wagon variant. ES90 US pricing not yet announced (see PROJECT_STATE.md). Phase B 2026-05-14: EX-line pages moved to /cars/<model>-electric/ — ex30/ex40/ex90 updated and verified OK. es90 still has no live US page (es90 and es90-electric both redirect to /us/ homepage); kept unchanged, flagged for human review.",
+  "model_pages": {
+    "xc40": "https://www.volvocars.com/us/cars/xc40/",
+    "xc60": "https://www.volvocars.com/us/cars/xc60/",
+    "xc90": "https://www.volvocars.com/us/cars/xc90/",
+    "v60-cross-country": "https://www.volvocars.com/us/cars/v60-cross-country/",
+    "ex30": "https://www.volvocars.com/us/cars/ex30-electric/",
+    "ex40": "https://www.volvocars.com/us/cars/ex40-electric/",
+    "ex90": "https://www.volvocars.com/us/cars/ex90-electric/",
+    "es90": "https://www.volvocars.com/us/cars/es90/"
+  },
+  "slug_variants": {
+    "v60-cross-country": [
+      "v60-cross-country",
+      "v60cc",
+      "v60-cc"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

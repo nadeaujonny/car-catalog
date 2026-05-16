@@ -1,0 +1,28 @@
+{
+  "brand": "BMW",
+  "brand_slug": "bmw",
+  "researched_at": "2026-05-15",
+  "schema_version": "1.1",
+  "model_count": 30,
+  "trim_count": 74,
+  "total_images": 284,
+  "needs_scraping": 20,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 2,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "m4-coupe/m4-competition-xdrive-coupe family=m4-coupe-xdrive",
+      "value": 2
+    },
+    {
+      "title": "EV base trim has null fuel_economy.combined_mpg while ev_specifics.mpge_combined populated (spec §3.6 v1.1 mirror)",
+      "where": "ix3/ix3-50-xdrive"
+    }
+  ],
+  "fyis": []
+}

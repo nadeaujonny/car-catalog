@@ -1,0 +1,73 @@
+﻿Reset 0 image entries with needs_scraping:true to their model page URLs.
+Brand: honda
+Models in JSON: 13
+Models with page URLs: 13
+Playwright fallback: DISABLED via --no-playwright
+
+Scraping 13 model pages…
+
+  fetch https://automobiles.honda.com/civic-sedan  …  static ok (467 raw candidates)
+  fetch https://automobiles.honda.com/civic-hatchback  …  static ok (238 raw candidates)
+  fetch https://automobiles.honda.com/civic-si-sedan  …  static ok (203 raw candidates)
+  fetch https://automobiles.honda.com/civic-type-r  …  static ok (368 raw candidates)
+  fetch https://automobiles.honda.com/accord-sedan  …  static ok (394 raw candidates)
+  fetch https://automobiles.honda.com/prelude  …  static ok (274 raw candidates)
+  fetch https://automobiles.honda.com/2026/hr-v  …  static ok (231 raw candidates)
+  fetch https://automobiles.honda.com/cr-v  …  static ok (275 raw candidates)
+  fetch https://automobiles.honda.com/passport  …  static ok (440 raw candidates)
+  fetch https://automobiles.honda.com/pilot  …  static ok (361 raw candidates)
+  fetch https://automobiles.honda.com/prologue  …  static ok (398 raw candidates)
+  fetch https://automobiles.honda.com/ridgeline  …  static ok (274 raw candidates)
+  fetch https://automobiles.honda.com/odyssey  …  static ok (278 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          honda
+Pages attempted:                13
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 13
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        141
+  via text/URL pattern match:   141
+  via positional fallback:      0
+Image entries unchanged:        71
+
+Sample rewrites:
+  [24.4] civic/lx/front_three_quarter
+        → https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/civic-sedan/Full-Gallery-OP/Exterior/Modal/2026-honda-civic-sedan-sport-rallye-red-front-three-quarter-13.jpg?sc_lang=en&mw=1439&hash=1758033394BDD232781CBBB9FA82592C
+  [21.5] civic/lx/rear_three_quarter
+        → https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/civic-sedan/Mini-Gallery-Landing-OP/2026-honda-civic-sedan-sport-meteorite-gray-metallic-rear-01.jpg?sc_lang=en&mw=767&hash=5EE0E9C460D4EE5DD80E30D819CD80CD
+  [12.4] civic/lx/side_profile
+        → https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/civic-sedan/Full-Gallery-OP/Exterior/Modal/2026-honda-civic-sedan-lx-rallye-red-rear-profile-09.jpg?sc_lang=en&mw=1439&hash=E53E1291CAE6F70D0AC535ACFB153A6B
+  [33.4] civic/lx/interior_dashboard
+        → https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/civic-sedan/Full-Gallery-OP/Interior/Modal/2026-honda-civic-sedan-sport-touring-hybrid-dashboard-center-console-05.jpg?sc_lang=en&mw=1439&hash=E502F0A7061D38F1D0D5643DBCC9006A
+  [24.4] civic/sport/front_three_quarter
+        → https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/civic-sedan/Full-Gallery-OP/Exterior/Modal/2026-honda-civic-sedan-sport-rallye-red-front-three-quarter-13.jpg?sc_lang=en&mw=2000&hash=38409002267FBED361FEBEE26A553480
+  [12.4] civic/sport/side_profile
+        → https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/civic-sedan/Full-Gallery-OP/Exterior/Modal/2026-honda-civic-sedan-lx-rallye-red-rear-profile-09.jpg?sc_lang=en&mw=2000&hash=54FE6CC0EFD3D130C37D0AABC8590C94
+  [10.4] civic/sport/rear_three_quarter
+        → https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/civic-sedan/Full-Gallery-OP/Exterior/Modal/2026-honda-civic-sedan-sport-meteorite-gray-metallic-rear-02.jpg?sc_lang=en&mw=1439&hash=3D62B2DE1798704BB9762419249C082D
+  [33.4] civic/sport/interior_dashboard
+        → https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/civic-sedan/Full-Gallery-OP/Interior/Modal/2026-honda-civic-sedan-sport-touring-hybrid-dashboard-center-console-05.jpg?sc_lang=en&mw=2000&hash=BCC3384C3F71944F43CDDD7B1AEFE89F
+  [24.4] civic/sport-hybrid/front_three_quarter
+        → https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/civic-sedan/Full-Gallery-OP/Exterior/Modal/2026-honda-civic-sedan-sport-rallye-red-front-three-quarter-13.jpg?sc_lang=en&mw=1439&hash=1758033394BDD232781CBBB9FA82592C
+  [12.4] civic/sport-hybrid/side_profile
+        → https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/civic-sedan/Full-Gallery-OP/Exterior/Modal/2026-honda-civic-sedan-lx-rallye-red-rear-profile-09.jpg?sc_lang=en&mw=1439&hash=E53E1291CAE6F70D0AC535ACFB153A6B
+  [21.5] civic/sport-hybrid/rear_three_quarter
+        → https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/civic-sedan/Mini-Gallery-Landing-OP/2026-honda-civic-sedan-sport-meteorite-gray-metallic-rear-01.jpg?sc_lang=en&mw=767&hash=5EE0E9C460D4EE5DD80E30D819CD80CD
+  [33.4] civic/sport-hybrid/interior_dashboard
+        → https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/civic-sedan/Full-Gallery-OP/Interior/Modal/2026-honda-civic-sedan-sport-touring-hybrid-dashboard-center-console-05.jpg?sc_lang=en&mw=1439&hash=E502F0A7061D38F1D0D5643DBCC9006A
+
+Models with unresolved angles:
+  civic-hatchback: 7 entries  (e.g. sport/front_three_quarter, sport/side_profile, sport-hybrid/front_three_quarter)
+  civic-type-r: 2 entries  (e.g. type-r/front_three_quarter, type-r/side_profile)
+  accord: 6 entries  (e.g. se/rear_three_quarter, ex-l-hybrid/rear_three_quarter, sport-l-hybrid/front_three_quarter)
+  prelude: 2 entries  (e.g. hybrid-two-tone/front_three_quarter, hybrid-two-tone/rear_three_quarter)
+  hr-v: 2 entries  (e.g. sport/rear_three_quarter, ex-l/rear_three_quarter)
+  cr-v: 6 entries  (e.g. ex/rear_three_quarter, ex-l/side_profile, ex-l/rear_three_quarter)
+  pilot: 21 entries  (e.g. sport/front_three_quarter, sport/rear_three_quarter, sport/side_profile)
+  prologue: 6 entries  (e.g. ex/rear_three_quarter, ex/side_profile, touring/side_profile)
+  ridgeline: 7 entries  (e.g. sport/side_profile, rtl/front_three_quarter, rtl/side_profile)
+  odyssey: 12 entries  (e.g. ex-l/front_three_quarter, ex-l/rear_three_quarter, ex-l/side_profile)

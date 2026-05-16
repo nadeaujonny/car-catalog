@@ -1,0 +1,102 @@
+{
+  "brand": "Mercedes-Benz",
+  "brand_slug": "mercedes-benz",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 25,
+  "trim_count": 78,
+  "total_images": 317,
+  "needs_scraping": 317,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 15,
+  "warning_count": 1,
+  "fyi_count": 0,
+  "blockers": [
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[0].trims[0].sources.dimensions (cla/cla-250-plus)",
+      "value": "https://carbuzz.com/cars/mercedes-benz/cla/2026/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[0].trims[1].sources.dimensions (cla/cla-350-4matic)",
+      "value": "https://carbuzz.com/cars/mercedes-benz/cla/2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[1].trims[0].sources.dimensions (c-class/c-300)",
+      "value": "https://www.cars.com/research/mercedes_benz-c_class-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[1].trims[3].sources.dimensions (c-class/amg-c-63-s-e-performance)",
+      "value": "https://www.cars.com/research/mercedes_benz-amg_c_63-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in owner_reviews.sources",
+      "where": "models[1].owner_reviews.sources[2] (c-class)",
+      "value": "https://www.cars.com/research/mercedes_benz-c_class-2026/consumer-reviews/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in owner_reviews.sources",
+      "where": "models[4].owner_reviews.sources[2] (e-class-sedan)",
+      "value": "https://www.cars.com/research/mercedes_benz-e_class-2026/consumer-reviews/"
+    },
+    {
+      "title": "Forbidden source (motor1.com) in professional_reviews.links",
+      "where": "models[8].professional_reviews.links[2] (amg-gt-coupe)",
+      "value": "https://www.motor1.com/reviews/794594/2026-mercedes-amg-gt63-s-e-performance-review/",
+      "publication": "Motor1"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[10].trims[3].sources.performance.zero_to_60_sec (sl-roadster/maybach-sl-680-monogram-series)",
+      "value": "https://www.cars.com/research/mercedes_benz-maybach_sl_680_monogram_series-2026/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in professional_reviews.links",
+      "where": "models[10].professional_reviews.links[3] (sl-roadster)",
+      "value": "https://carbuzz.com/2026-mercedes-maybach-sl-test-drive-review/",
+      "publication": "CarBuzz"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[11].trims[0].sources.dimensions (gla-suv/gla-250)",
+      "value": "https://carbuzz.com/cars/mercedes-benz/gla-250/2026/specs-and-trims/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in professional_reviews.links",
+      "where": "models[12].professional_reviews.links[2] (glb-suv)",
+      "value": "https://www.cars.com/research/mercedes_benz-glb_250-2026/",
+      "publication": "Cars.com"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[14].trims[0].sources.dimensions (glc-coupe/glc-300-4matic-coupe)",
+      "value": "https://carbuzz.com/cars/mercedes-benz/glc-class-coupe/2026/specs-and-trims/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[14].trims[1].sources.dimensions (glc-coupe/amg-glc-43-4matic-coupe)",
+      "value": "https://carbuzz.com/cars/mercedes-benz/amg-glc-43-coupe/2026/specs-and-trims/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[19].trims[0].sources.dimensions (g-class/g-550)",
+      "value": "https://carbuzz.com/cars/mercedes-benz/g-class/2026/specs-and-trims/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[19].trims[2].sources.dimensions (g-class/amg-g-63)",
+      "value": "https://carbuzz.com/cars/mercedes-benz/amg-g63/2026/specs-and-trims/"
+    }
+  ],
+  "warnings": [
+    {
+      "title": "PHEV base trim has null fuel_economy.combined_mpg (charge-sustaining MPG missing)",
+      "where": "e-class-wagon/amg-e-53-hybrid-4matic-plus-wagon"
+    }
+  ],
+  "fyis": []
+}

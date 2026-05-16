@@ -1,0 +1,15 @@
+{
+  "brand_slug": "lotus",
+  "notes": "lotuscars.com/en-US is the consumer site and is WebFetch-accessible (verified 2026-05-13). Image assets live on media.lotuscars.com which 301-redirects to lotuscars.com/en/press/galleries/<model>; press fallback root is lotuscars.com/en/press. Three US models: Emira (ICE sports car), Eletre (EV SUV, Carbon-only trim), Emeya (EV sedan, R-only trim). Evija (electric hypercar) correctly excluded from catalog.",
+  "model_pages": {
+    "emira": "https://www.lotuscars.com/en-US/emira",
+    "eletre": "https://www.lotuscars.com/en-US/eletre",
+    "emeya": "https://www.lotuscars.com/en-US/emeya"
+  },
+  "slug_variants": {
+    "emira": ["emira", "emira-v6", "emira-turbo", "emira-i4"],
+    "eletre": ["eletre", "eletre-carbon", "carbon hero", "carbon interior", "carbon"],
+    "emeya": ["emeya", "emeya-r", "alphapdp", "alpha-pdp", "alpha pdp"]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

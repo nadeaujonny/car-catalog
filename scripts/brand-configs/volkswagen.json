@@ -1,0 +1,42 @@
+{
+  "brand_slug": "volkswagen",
+  "notes": "vw.com/en/models/<model> consumer site. ID.4 is the EV. Performance variants (Jetta GLI, Golf GTI, Golf R, Atlas Cross Sport) have separate pages.",
+  "model_pages": {
+    "jetta": "https://www.vw.com/en/models/jetta.html",
+    "jetta-gli": "https://www.vw.com/en/models/jetta-gli.html",
+    "golf-gti": "https://www.vw.com/en/models/golf-gti.html",
+    "golf-r": "https://www.vw.com/en/models/golf-r.html",
+    "taos": "https://www.vw.com/en/models/taos.html",
+    "tiguan": "https://www.vw.com/en/models/tiguan.html",
+    "atlas": "https://www.vw.com/en/models/atlas.html",
+    "atlas-cross-sport": "https://www.vw.com/en/models/atlas-cross-sport.html",
+    "id-4": "https://www.vw.com/en/models/id-4.html"
+  },
+  "slug_variants": {
+    "jetta-gli": [
+      "jetta-gli",
+      "jettagli",
+      "gli"
+    ],
+    "golf-gti": [
+      "golf-gti",
+      "golfgti",
+      "gti"
+    ],
+    "golf-r": [
+      "golf-r",
+      "golfr"
+    ],
+    "atlas-cross-sport": [
+      "atlas-cross-sport",
+      "atlas-crosssport",
+      "cross-sport"
+    ],
+    "id-4": [
+      "id-4",
+      "id4",
+      "id_4"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

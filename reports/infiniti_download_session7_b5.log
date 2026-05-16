@@ -1,0 +1,54 @@
+Brand: infiniti
+Referer header: https://www.infinitiusa.com/
+Found 32 image entries across 2 models.
+
+[1/32] qx60/pure-fwd/front_three_quarter  ok (157776 bytes, image/webp)
+[2/32] qx60/pure-fwd/rear_three_quarter  ok (177380 bytes, image/webp)
+[3/32] qx60/pure-fwd/side_profile  ok (52688 bytes, image/webp)
+[4/32] qx60/pure-fwd/interior_dashboard  ok (191492 bytes, image/webp)
+[5/32] qx60/luxe-fwd/front_three_quarter  ok (157776 bytes, image/webp)
+[6/32] qx60/luxe-fwd/rear_three_quarter  ok (177380 bytes, image/webp)
+[7/32] qx60/luxe-fwd/side_profile  ok (52688 bytes, image/webp)
+[8/32] qx60/luxe-fwd/interior_dashboard  ok (191492 bytes, image/webp)
+[9/32] qx60/sport/front_three_quarter  ok (157776 bytes, image/webp)
+[10/32] qx60/sport/rear_three_quarter  ok (177380 bytes, image/webp)
+[11/32] qx60/sport/side_profile  ok (52688 bytes, image/webp)
+[12/32] qx60/sport/interior_dashboard  ok (191492 bytes, image/webp)
+[13/32] qx60/autograph/front_three_quarter  ok (157776 bytes, image/webp)
+[14/32] qx60/autograph/rear_three_quarter  ok (177380 bytes, image/webp)
+[15/32] qx60/autograph/side_profile  ok (52688 bytes, image/webp)
+[16/32] qx60/autograph/interior_dashboard  ok (191492 bytes, image/webp)
+[17/32] qx80/pure-rwd/front_three_quarter  ok (191624 bytes, image/webp)
+[18/32] qx80/pure-rwd/rear_three_quarter  ok (81216 bytes, image/webp)
+[19/32] qx80/pure-rwd/side_profile  ok (37136 bytes, image/webp)
+[20/32] qx80/pure-rwd/interior_dashboard  ok (95660 bytes, image/webp)
+[21/32] qx80/luxe-rwd/front_three_quarter  ok (191624 bytes, image/webp)
+[22/32] qx80/luxe-rwd/rear_three_quarter  ok (81216 bytes, image/webp)
+[23/32] qx80/luxe-rwd/side_profile  ok (37136 bytes, image/webp)
+[24/32] qx80/luxe-rwd/interior_dashboard  ok (95660 bytes, image/webp)
+[25/32] qx80/sport/front_three_quarter  ok (191624 bytes, image/webp)
+[26/32] qx80/sport/rear_three_quarter  ok (81216 bytes, image/webp)
+[27/32] qx80/sport/side_profile  ok (37136 bytes, image/webp)
+[28/32] qx80/sport/interior_dashboard  ok (95660 bytes, image/webp)
+[29/32] qx80/autograph/front_three_quarter  ok (191624 bytes, image/webp)
+[30/32] qx80/autograph/rear_three_quarter  ok (81216 bytes, image/webp)
+[31/32] qx80/autograph/side_profile  ok (37136 bytes, image/webp)
+[32/32] qx80/autograph/interior_dashboard  ok (95660 bytes, image/webp)
+
+Updated catalog/data/infiniti.json and data/infiniti.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  infiniti
+Total images attempted: 32
+Successful:             32 (100.0%)
+Failed:                 0
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  (none)
+
+Models with zero successful images: 0 of 2

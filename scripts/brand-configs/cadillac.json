@@ -1,0 +1,69 @@
+{
+  "brand_slug": "cadillac",
+  "notes": "cadillac.com consumer site is the primary source. Cadillac uses /<model> path tokens for most models. Some EV models use /<model>-ev or distinct paths. 2026-05 URL audit: V-Series models migrated to /<base-model>/v-series sub-path (lyriq-v -> /electric/lyriq/v-series, optiq-v -> /electric/optiq/v-series, escalade-v -> /suvs/escalade/v-series). escalade-esv no longer has a dedicated page; ESV is now presented on the shared /suvs/escalade page. ct4-v and ct5-v (non-Blackwing V trims) have NO dedicated consumer overview page on cadillac.com - only the Blackwing variants do; pointed both at their cadillac.com configurator pages (the only working model-specific manufacturer URLs).",
+  "model_pages": {
+    "ct4": "https://www.cadillac.com/sedans/ct4",
+    "ct4-v": "https://www.cadillac.com/shopping/configurator/car/2026/ct4v/ct4v",
+    "ct4-v-blackwing": "https://www.cadillac.com/sedans/ct4-v-blackwing",
+    "ct5": "https://www.cadillac.com/sedans/ct5",
+    "ct5-v": "https://www.cadillac.com/shopping/configurator/car/2026/ct5v/ct5v",
+    "ct5-v-blackwing": "https://www.cadillac.com/sedans/ct5-v-blackwing",
+    "xt5": "https://www.cadillac.com/suvs/xt5",
+    "lyriq": "https://www.cadillac.com/electric/lyriq",
+    "lyriq-v": "https://www.cadillac.com/electric/lyriq/v-series",
+    "optiq": "https://www.cadillac.com/electric/optiq",
+    "optiq-v": "https://www.cadillac.com/electric/optiq/v-series",
+    "vistiq": "https://www.cadillac.com/electric/vistiq",
+    "escalade-iq": "https://www.cadillac.com/electric/escalade-iq",
+    "escalade-iql": "https://www.cadillac.com/electric/escalade-iql",
+    "escalade": "https://www.cadillac.com/suvs/escalade",
+    "escalade-esv": "https://www.cadillac.com/suvs/escalade",
+    "escalade-v": "https://www.cadillac.com/suvs/escalade/v-series",
+    "celestiq": "https://www.cadillac.com/electric/celestiq"
+  },
+  "slug_variants": {
+    "ct4-v": [
+      "ct4-v",
+      "ct4v",
+      "ct4_v"
+    ],
+    "ct4-v-blackwing": [
+      "ct4-v-blackwing",
+      "ct4v-blackwing",
+      "ct4-blackwing"
+    ],
+    "ct5-v": [
+      "ct5-v",
+      "ct5v",
+      "ct5_v"
+    ],
+    "ct5-v-blackwing": [
+      "ct5-v-blackwing",
+      "ct5v-blackwing",
+      "ct5-blackwing"
+    ],
+    "escalade-v": [
+      "escalade-v",
+      "escaladev",
+      "escalade-v-series"
+    ],
+    "lyriq-v": [
+      "lyriq-v",
+      "lyriqv"
+    ],
+    "optiq-v": [
+      "optiq-v",
+      "optiqv"
+    ],
+    "escalade-iq": [
+      "escalade-iq",
+      "escaladeiq"
+    ],
+    "escalade-iql": [
+      "escalade-iql",
+      "escaladeiql",
+      "escalade-iq-l"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

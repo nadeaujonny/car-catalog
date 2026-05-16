@@ -1,0 +1,110 @@
+Reset 20 image entries with needs_scraping:true to their model page URLs.
+Brand: bmw
+Models in JSON: 30
+Models with page URLs: 30
+Playwright fallback: enabled
+
+Scraping 30 model pages…
+
+  fetch https://www.bmwusa.com/vehicles/2-series/2-series-coupe/bmw-2er-coupe.html  …  static ok (129 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/2-series/bmw-gran-coupe/bmw-2-series-gran-coupe.html  …  static ok (139 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/3-series/3-series-sedan/bmw-3-series-sedan.html  …  static ok (126 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/4-series/4-series-coupe/bmw-4-series-coupe.html  …  static ok (115 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/4-series/4-series-convertible/bmw-4-series-convertible.html  …  static ok (125 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/4-series/4-series-gran-coupe/bmw-4-series-gran-coupe.html  …  static ok (135 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/5-series/sedan/bmw-5-series-sedan-overview.html  …  static ok (125 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/7-series/sedan/bmw-7-series-sedan.html  …  static ok (173 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/x-series/x1/bmw-x1.html  …  static ok (145 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/x-series/x2/bmw-x2-overview.html  …  static ok (149 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/x-series/x3/bmw-x3.html  …  static ok (149 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/x-series/x5/bmw-x5.html  …  static ok (153 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/x-series/x6/bmw-x6.html  …  static ok (145 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/x-series/x7/bmw-x7.html  …  static ok (161 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/x-models/x7/suv/alpina.html  …  static ok (52 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/m-series/xm/bmw-xm.html  …  static ok (171 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/z-series/z4-roadster/bmw-z4-roadster.html  …  static ok (103 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/m-series/bmw-2-series-m-models/bmw-m2-coupe.html  …  static ok (255 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/m-series/m3-series/bmw-m3-sedan.html  …  static ok (212 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/m-series/m4-series/bmw-m4-coupe.html  …  static ok (236 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/m-series/m4-series/bmw-m4-convertible.html  …  static ok (189 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/m-series/m5-series/bmw-m5-sedan.html  …  static ok (176 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/m-series/m5-series/bmw-m5-touring.html  …  static ok (196 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/m-series/bmw-x5-m/bmw-x5-m-modelle.html  …  static ok (167 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/m-series/x6-m/bmw-x6-m-models.html  …  static ok (172 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/bmw-i-series/i4/bmw-i4-gran-coupe.html  …  static ok (187 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/bmw-i-series/i5/bmw-i5-overview.html  …  static ok (149 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/i-series/i7/bmw-i7-limousine.html  …  static ok (171 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/bmw-i-series/ix/bmw-ix.html  …  static ok (179 raw candidates)
+  fetch https://www.bmwusa.com/vehicles/x-series/ix3/bmw-ix3.html  …  static ok (169 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          bmw
+Pages attempted:                30
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 30
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        33
+  via text/URL pattern match:   33
+  via positional fallback:      0
+Image entries unchanged:        251
+
+Sample rewrites:
+  [5.0] 2-series-coupe/230i/rear_three_quarter
+        → https://bmw.scene7.com/is/image/BMW/BMW-MY26-2Coupe-230i-back-retouched:3to2?fmt=webp&wid=2560&hei=1707
+  [5.0] 2-series-coupe/230i-xdrive/rear_three_quarter
+        → https://bmw.scene7.com/is/image/BMW/BMW-MY26-2Coupe-230i-back-retouched:3to2?fmt=webp&wid=1504&hei=1003
+  [5.0] 2-series-coupe/m240i/rear_three_quarter
+        → https://bmw.scene7.com/is/image/BMW/BMW-MY26-2Coupe-230i-back-retouched:3to2?fmt=webp&wid=2560&hei=1707
+  [5.0] 2-series-coupe/m240i-xdrive/rear_three_quarter
+        → https://bmw.scene7.com/is/image/BMW/BMW-MY26-2Coupe-230i-back-retouched:3to2?fmt=webp&wid=1504&hei=1003
+  [7.0] 3-series/330i/front_three_quarter
+        → https://bmw.scene7.com/is/image/BMW/BMW-MY25-3series-DI24_000206956_G20_330i_Front-Retouched:3to2?fmt=webp&wid=2560&hei=1707
+  [7.0] 3-series/330i-xdrive/front_three_quarter
+        → https://bmw.scene7.com/is/image/BMW/BMW-MY25-3series-DI24_000206956_G20_330i_Front-Retouched:3to2?fmt=webp&wid=1504&hei=1003
+  [7.0] 3-series/m340i/front_three_quarter
+        → https://bmw.scene7.com/is/image/BMW/BMW-MY25-3series-DI24_000206956_G20_330i_Front-Retouched:3to2?fmt=webp&wid=2560&hei=1707
+  [7.0] 3-series/m340i-xdrive/front_three_quarter
+        → https://bmw.scene7.com/is/image/BMW/BMW-MY25-3series-DI24_000206956_G20_330i_Front-Retouched:3to2?fmt=webp&wid=1504&hei=1003
+  [7.0] 4-series-coupe/430i-coupe/front_three_quarter
+        → https://bmw.scene7.com/is/image/BMW/BMW-MY27-4Coupe-DI23_000192901_LSQ_0033_G22_MPA_Front_Detail_Firered-Retouched:3to2?fmt=webp&wid=2560&hei=1707
+  [7.0] 4-series-coupe/430i-xdrive-coupe/front_three_quarter
+        → https://bmw.scene7.com/is/image/BMW/BMW-MY27-4Coupe-DI23_000192901_LSQ_0033_G22_MPA_Front_Detail_Firered-Retouched:3to2?fmt=webp&wid=1504&hei=1003
+  [7.0] 4-series-coupe/m440i-coupe/front_three_quarter
+        → https://bmw.scene7.com/is/image/BMW/BMW-MY27-4Coupe-DI23_000192901_LSQ_0033_G22_MPA_Front_Detail_Firered-Retouched:3to2?fmt=webp&wid=2560&hei=1707
+  [7.0] 4-series-coupe/m440i-xdrive-coupe/front_three_quarter
+        → https://bmw.scene7.com/is/image/BMW/BMW-MY27-4Coupe-DI23_000192901_LSQ_0033_G22_MPA_Front_Detail_Firered-Retouched:3to2?fmt=webp&wid=1504&hei=1003
+
+Models with unresolved angles:
+  2-series-coupe: 13 entries  (e.g. 230i/front_three_quarter, 230i/side_profile, 230i/interior_dashboard)
+  2-series-gran-coupe: 12 entries  (e.g. 228-gran-coupe/front_three_quarter, 228-gran-coupe/rear_three_quarter, 228-gran-coupe/side_profile)
+  3-series: 7 entries  (e.g. 330i/rear_three_quarter, 330i/wheel_detail, 330i/interior_dashboard)
+  4-series-coupe: 6 entries  (e.g. 430i-coupe/interior_dashboard, 430i-coupe/side_profile, 430i-coupe/rear_three_quarter)
+  4-series-convertible: 6 entries  (e.g. 430i-convertible/interior_dashboard, 430i-convertible/side_profile, 430i-convertible/rear_three_quarter)
+  4-series-gran-coupe: 13 entries  (e.g. 430i-gran-coupe/front_three_quarter, 430i-gran-coupe/side_profile, 430i-gran-coupe/rear_three_quarter)
+  5-series: 13 entries  (e.g. 530i/front_three_quarter, 530i/rear_three_quarter, 530i/side_profile)
+  7-series: 11 entries  (e.g. 740i/front_three_quarter, 740i/side_profile, 740i/interior_dashboard)
+  x1: 10 entries  (e.g. xdrive28i/front_three_quarter, xdrive28i/rear_three_quarter, xdrive28i/side_profile)
+  x2: 9 entries  (e.g. xdrive28i/front_three_quarter, xdrive28i/side_profile, xdrive28i/rear_three_quarter)
+  x3: 11 entries  (e.g. 30-xdrive/front_three_quarter, 30-xdrive/rear_three_quarter, 30-xdrive/side_profile)
+  x5: 17 entries  (e.g. sdrive40i/front_three_quarter, sdrive40i/rear_three_quarter, sdrive40i/side_profile)
+  x6: 10 entries  (e.g. x6-xdrive40i/front_three_quarter, x6-xdrive40i/rear_three_quarter, x6-xdrive40i/side_profile)
+  x7: 8 entries  (e.g. xdrive40i/front_three_quarter, xdrive40i/rear_three_quarter, xdrive40i/side_profile)
+  alpina-xb7: 1 entries  (e.g. alpina-xb7/rear_three_quarter)
+  xm: 5 entries  (e.g. xm-label/front_three_quarter, xm-label/rear_three_quarter, xm-label/side_profile)
+  z4: 9 entries  (e.g. z4-sdrive30i/front_three_quarter, z4-sdrive30i/side_profile, z4-sdrive30i/rear_three_quarter)
+  m2: 2 entries  (e.g. m2-coupe/front_three_quarter, m2-coupe/side_profile)
+  m3: 8 entries  (e.g. m3-manual/front_three_quarter, m3-manual/side_profile, m3-manual/interior_dashboard)
+  m4-coupe: 4 entries  (e.g. m4-coupe/rear_three_quarter, m4-coupe/side_profile, m4-coupe/interior_dashboard)
+  m4-convertible: 5 entries  (e.g. competition-xdrive-convertible/front_three_quarter, competition-xdrive-convertible/rear_three_quarter, competition-xdrive-convertible/side_profile)
+  m5-sedan: 3 entries  (e.g. m5-sedan/front_three_quarter, m5-sedan/side_profile, m5-sedan/interior_dashboard)
+  m5-touring: 4 entries  (e.g. m5-touring/front_three_quarter, m5-touring/rear_three_quarter, m5-touring/side_profile)
+  x5-m-competition: 6 entries  (e.g. x5-m-competition/front_three_quarter, x5-m-competition/rear_three_quarter, x5-m-competition/side_profile)
+  x6-m-competition: 6 entries  (e.g. x6-m-competition/front_three_quarter, x6-m-competition/rear_three_quarter, x6-m-competition/side_profile)
+  i4: 12 entries  (e.g. i4-edrive40/front_three_quarter, i4-edrive40/side_profile, i4-edrive40/rear_three_quarter)
+  i5: 9 entries  (e.g. edrive40/front_three_quarter, edrive40/side_profile, edrive40/interior_dashboard)
+  i7: 13 entries  (e.g. edrive50/front_three_quarter, edrive50/side_profile, edrive50/rear_three_quarter)
+  ix: 14 entries  (e.g. ix-xdrive45/front_three_quarter, ix-xdrive45/rear_three_quarter, ix-xdrive45/side_profile)
+  ix3: 4 entries  (e.g. ix3-50-xdrive/front_three_quarter, ix3-50-xdrive/rear_three_quarter, ix3-50-xdrive/side_profile)

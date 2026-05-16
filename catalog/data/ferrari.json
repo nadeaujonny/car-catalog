@@ -1,0 +1,2737 @@
+{
+  "brand": "Ferrari",
+  "brand_slug": "ferrari",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Roma Spider",
+      "model_slug": "roma-spider",
+      "model_year": 2026,
+      "body_style": "convertible",
+      "generation_context": "Type F169; introduced March 2023 as the open-top counterpart to the Ferrari Roma coupe. 2026 is widely reported as the final model year for the Roma family — the Amalfi (introduced July 2025) is the announced successor, with the Amalfi Spider following in 2027. The Roma Spider remains in production and on EPA's 2026 list while Amalfi US deliveries ramp up.",
+      "msrp_range": {
+        "low": 279965,
+        "high": 279965
+      },
+      "model_summary": "Front-mid-engine 2+ grand-touring convertible with a soft folding fabric roof and twin-turbo 3.9L V8 producing 612 hp. Single-trim in the US market; the Roma coupe was discontinued in 2024 and the Roma Spider continues as the family's only body style for 2026 alongside the new Amalfi which replaces it longer term.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not meaningfully sample Ferrari due to low US volume — no published reliability score for the Roma Spider. The 3.9L F154 twin-turbo V8 is a widely used Ferrari/Maserati engine family with a long production record, but there is no formal predicted-reliability rating for this car.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Ferrari due to low US volume. Press coverage frames the Roma Spider as having broad emotional appeal as Ferrari's most usable open-top GT, but no quantified APEAL data is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the Roma Spider as an elegant, surprisingly comfortable open-top GT that recaptures the spirit of Ferrari's 1960s 'La Dolce Vita' California Spyder. The soft top design (rare in Ferrari's modern lineup) is praised for low weight and pure aesthetics, with the 612 hp twin-turbo V8 delivering brisk pace without overwhelming the car's grand-tourer character. Common critiques are wind buffeting at speed, modest trunk space, and looming obsolescence as the Amalfi takes over the role.",
+        "links": [
+          {
+            "publication": "MotorWeek",
+            "url": "https://motorweek.org/road-tests/2025-ferrari-roma-spider/",
+            "date": "2025-06-20"
+          },
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/ferrari/roma-spider",
+            "date": "2026-02-10"
+          },
+          {
+            "publication": "Autocar",
+            "url": "https://www.evo.co.uk/ferrari/roma/spider",
+            "date": "2025-04-30"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the Roma Spider due to the very small US owner population. Press-aggregated sentiment is positive on styling, soft-top character, and ride comfort.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/ferrari/roma-spider/",
+          "https://www.kbb.com/ferrari/roma-spider/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Roma Spider",
+          "trim_slug": "roma-spider",
+          "trim_family": "roma-spider",
+          "is_base_trim": true,
+          "msrp_base": 279965,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3.9,
+            "engine_config": "V8",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 612,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 561,
+            "transmission": "8-speed dual-clutch automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 17,
+            "highway_mpg": 22,
+            "combined_mpg": 19,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3650
+          },
+          "performance": {
+            "zero_to_60_sec": 3.4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 199,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 183.3,
+            "width_in": 77.7,
+            "height_in": 51.4,
+            "wheelbase_in": 105.1,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3430,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 9.6
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/35 ZR20 front / 285/35 ZR20 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8.4,
+            "driver_display_in": 16,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "JBL Professional 8-speaker (premium audio optional)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Five-layer soft folding fabric roof (Ferrari's first soft-top in 50+ years on a front-mid-engine V8)",
+              "Roof opens/closes in 13.5 seconds at speeds up to ~37 mph",
+              "Wind deflector behind front seats",
+              "16-inch curved digital instrument cluster + 8.4-inch portrait center touchscreen + 8.8-inch passenger display",
+              "Side Slip Control 6.0 vehicle dynamics system",
+              "Carbon-ceramic brakes optional",
+              "2+ seating layout (token rear seats; usable cargo room behind front seats)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "7yr/unlimited"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/ferrari-roma-spider",
+              "local_path": "images/ferrari/roma-spider/roma-spider/front_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/ferrari-roma-spider",
+              "local_path": "images/ferrari/roma-spider/roma-spider/rear_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ferrari.com/en-EN/auto/ferrari-roma-spider",
+              "local_path": "images/ferrari/roma-spider/roma-spider/side_profile.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://cdn.ferrari.com/cms/network/media/img/resize/640f5b37c03a600022ea5108-ferrari-roma-spider-hmi-focus?",
+              "local_path": "images/ferrari/roma-spider/roma-spider/interior_dashboard.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true,
+              "source_tier": 1,
+              "source_domain": "cdn.ferrari.com",
+              "content_type": "image/avif"
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.caranddriver.com/ferrari/roma",
+            "powertrain": "https://www.ferrari.com/en-EN/auto/ferrari-roma-spider",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49781",
+            "performance.zero_to_60_sec": "https://www.ferrari.com/en-EN/auto/ferrari-roma-spider",
+            "dimensions": "https://www.ferrari.com/en-EN/auto/ferrari-roma-spider",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/FERRARI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/ferrari",
+            "features": "https://www.ferrari.com/en-EN/auto/ferrari-roma-spider",
+            "warranty": "https://www.ferrari.com/en-EN/auto/car-part-services-warranty-maintenance"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base $279,965 filled from Car and Driver per §4.6 scoped policy relaxation for ultra-luxury brands with manufacturer non-disclosure (Ferrari does not publish US MSRP on its consumer site — ferrari.com/en-US returns blank to WebFetch, JS-rendered — or in any accessible primary press release). MSRP source: Car and Driver editorial spec page (per §4.6 scoped policy; manufacturer does not publish US MSRP). Confidence: medium. Destination fee remains null (Ferrari does not publish US destination fee). EPA fueleconomy.gov ID 49781 verified for 2026 Roma Spider (17 city / 22 hwy / 19 combined, premium gas required, $3,650 annual). EPA tank-size field is sourced from Edmunds and was not populated — fuel_tank_gal set to null; Ferrari-published tank capacity is 80 L (≈21.1 gal) but not confirmed via primary source. Length 4,656 mm (183.3 in), width 1,974 mm (77.7 in), height 1,306 mm (51.4 in), wheelbase 2,670 mm (105.1 in), dry weight 1,556 kg / 3,430 lb per Ferrari spec sheets. Curb weight is recorded as the published dry-weight figure (Ferrari publishes dry weight rather than curb weight as primary spec). NHTSA and IIHS have not crash-tested the Roma Spider. ADAS list reflects standard Ferrari ADI 6.0 driver-assistance package available on the Roma family — booleans are based on press materials; some features may require optional package. Image URLs are ferrari.com page URLs with needs_scraping: true flagged for Phase 4 CDN extraction."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Roma coupe production ended in 2024; only the Roma Spider continues for the 2026 model year per EPA fueleconomy.gov listing. Amalfi (introduced July 2025) is the announced Roma successor — coupe orders are now being filled, Amalfi Spider follows in 2027. Body-style mapping: convertible. All images flagged needs_scraping: true. Phase 4 image scrape: persistent low coverage (2.1% as of 2026-05-14) — ferrari.com is JS-rendered and the rendered DOM has no usable <img> candidates (likely shadow-DOM / CSS-background imagery). Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "Amalfi",
+      "model_slug": "amalfi",
+      "model_year": 2026,
+      "body_style": "coupe",
+      "generation_context": "Front-mid-engine 2+ V8 grand-touring coupé unveiled July 1, 2025 in Maranello as the successor to the Ferrari Roma. The Amalfi shares the Roma's underbody structure but every visible body panel except the glass is new, with a clean Daytona SP3/F80-inspired front fascia and a return to physical buttons on the steering wheel. European deliveries began Q1 2026; US deliveries commenced Q2 2026.",
+      "msrp_range": {
+        "low": 266810,
+        "high": 266810
+      },
+      "model_summary": "Front-mid-engine 2+ grand tourer producing 631 hp from an updated F154 twin-turbo 3.9L V8. Single-trim US lineup with extensive personalization options. Replaces the Ferrari Roma coupe; an Amalfi Spider variant was unveiled March 2026 with deliveries scheduled for 2027.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not meaningfully sample Ferrari due to low US volume — no published reliability data. The Amalfi is a first-year design but shares its underbody and twin-turbo V8 family with the Roma, which has a multi-year production record.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Ferrari. Press coverage frames the Amalfi as a refinement of the Roma's already-strong appeal, with no quantified APEAL data available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the Amalfi as a meaningful evolution of the Roma rather than a clean-sheet design, with cleaner Daytona SP3-inspired sheet metal, more responsive throttle calibration, and a welcome return to physical buttons on the steering wheel after the Roma's capacitive controls. The 631 hp twin-turbo V8 delivers genuinely effortless pace in a refined grand-touring package. Common critiques are the very evolutionary styling (some reviewers call it 'a Roma facelift') and unchanged 2+ seating that remains essentially symbolic for adults.",
+        "links": [
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-news/first-look/romas-replacement-meet-new-ferrari-amalfi-now-buttons",
+            "date": "2025-07-01"
+          },
+          {
+            "publication": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2025-12-22/ferrari-amalfi-new-262-000-v-8-is-a-win-for-the-automaker",
+            "date": "2025-12-22"
+          },
+          {
+            "publication": "Robb Report",
+            "url": "https://robbreport.com/motors/cars/2027-ferrari-amalfi-revealed-1236855982/",
+            "date": "2025-07-02"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "US customer deliveries began Q2 2026, so Edmunds and KBB owner-review pages have no meaningful submissions. Carryover sentiment from the Roma is broadly positive on cabin quality and daily usability.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/ferrari/amalfi/",
+          "https://www.kbb.com/ferrari/amalfi/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Amalfi",
+          "trim_slug": "amalfi",
+          "trim_family": "amalfi",
+          "is_base_trim": true,
+          "msrp_base": 266810,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3.9,
+            "engine_config": "V8",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 631,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 561,
+            "transmission": "8-speed dual-clutch automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": null,
+            "highway_mpg": null,
+            "combined_mpg": null,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 3.3,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 199,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 183.5,
+            "width_in": 77.7,
+            "height_in": 51.2,
+            "wheelbase_in": 105.1,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3240,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 9.6
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/35 R20 front / 285/35 R20 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 15.6,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Burmester 14-speaker premium (optional)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Return to physical steering-wheel buttons (replacing Roma's capacitive haptic controls)",
+              "Triple-display HMI: 15.6\" curved digital cluster + 10.25\" landscape center touchscreen + 8.8\" passenger display",
+              "Iconic red 'engine start' button reintroduced on the steering wheel",
+              "Daytona SP3 / F80-inspired front fascia with clean body-colored grille",
+              "Side Slip Control 6.1 vehicle dynamics integrated with new ABS Evo",
+              "Active rear spoiler with multiple positions (low-drag / medium / max downforce)",
+              "Tipo F154 BD evolution of the twin-turbo V8 with redesigned camshafts and exhaust manifolds",
+              "Carbon-ceramic brakes optional"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "7yr/unlimited"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/ferrari-amalfi",
+              "local_path": "images/ferrari/amalfi/amalfi/front_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": false
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/ferrari-amalfi",
+              "local_path": "images/ferrari/amalfi/amalfi/rear_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ferrari.com/en-EN/auto/ferrari-amalfi",
+              "local_path": "images/ferrari/amalfi/amalfi/side_profile.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ferrari.com/en-EN/auto/ferrari-amalfi",
+              "local_path": "images/ferrari/amalfi/amalfi/interior_dashboard.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.caranddriver.com/ferrari/amalfi",
+            "powertrain": "https://www.ferrari.com/en-EN/corporate/articles/ferrari-amalfi",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&year1=2026&year2=2026&make=Ferrari&srchtyp=newMake&pageno=1",
+            "performance.zero_to_60_sec": "https://www.ferrari.com/en-EN/corporate/articles/ferrari-amalfi",
+            "dimensions": "https://www.ferrari.com/en-EN/corporate/articles/ferrari-amalfi",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/FERRARI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/ferrari",
+            "features": "https://www.ferrari.com/en-EN/corporate/articles/ferrari-amalfi",
+            "warranty": "https://www.ferrari.com/en-EN/auto/car-part-services-warranty-maintenance"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base $266,810 filled from Car and Driver per §4.6 scoped policy relaxation for ultra-luxury brands with manufacturer non-disclosure (Ferrari does not publish US MSRP on its consumer site — ferrari.com/en-US returns blank to WebFetch, JS-rendered — or in any accessible primary press release). MSRP source: Car and Driver editorial spec page (per §4.6 scoped policy; manufacturer does not publish US MSRP). Confidence: medium. Destination fee remains null (Ferrari does not publish US destination fee). EPA fueleconomy.gov has NOT published a discrete 2026 entry for the Amalfi as of 2026-05-12 — source set to model browse page; fuel_economy values left null (US deliveries began Q2 2026 and EPA test data has not yet been posted). The 3.9L twin-turbo V8 (Tipo F154 BD evolution) produces 640 PS / 631 hp at 7,500 rpm; max torque 760 Nm / 561 lb-ft. 0-100 km/h in 3.3 seconds; top speed >320 km/h (≈199 mph) per Ferrari. Dimensions: length 4,660 mm (183.5 in), width 1,974 mm (77.7 in), height 1,301 mm (51.2 in), wheelbase 2,670 mm (105.1 in), dry weight 1,470 kg (≈3,240 lb) per Ferrari. Curb weight is recorded as the published dry-weight figure. Tank capacity 80 L (≈21.1 gal) per Ferrari but not from a primary US-market spec sheet — fuel_tank_gal left null. Trunk volume 272 L = 9.6 cu ft. NHTSA and IIHS have not crash-tested the Amalfi. Image URLs are ferrari.com page URLs with needs_scraping: true. Amalfi Spider (unveiled March 12, 2026) is a separate model line with deliveries starting 2027 — excluded from 2026 lineup."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Single-trim model in the 2026 US lineup, with US deliveries from Q2 2026 onward. Amalfi Spider variant unveiled March 2026 but US deliveries scheduled for 2027 — excluded. Body-style mapping: coupe. All images flagged needs_scraping: true. Phase 4 image scrape: persistent low coverage (2.1% as of 2026-05-14) — ferrari.com is JS-rendered and the rendered DOM has no usable <img> candidates (likely shadow-DOM / CSS-background imagery). Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "296 GTB",
+      "model_slug": "296-gtb",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "Type F171; introduced June 2021. Ferrari's first six-cylinder road car since the Dino in 1973 and the first plug-in hybrid Ferrari with a V6 engine. The 296 GTB (Berlinetta) is the closed-roof version; the GTS retractable-hardtop variant followed in 2022 and the 296 Speciale higher-performance version in 2025.",
+      "msrp_range": {
+        "low": 338250,
+        "high": 338250
+      },
+      "model_summary": "Mid-rear-engine 2-seat plug-in hybrid sports car combining a 120° twin-turbo 3.0L V6 with an electric motor between engine and gearbox for 819 hp combined. Single-trim US lineup; the 296 GTS convertible and 296 Speciale/Speciale A performance variants are separate model entries per Ferrari's marketing.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not meaningfully sample Ferrari due to low US volume — no published reliability score. The 296's V6 PHEV powertrain is a Ferrari-developed architecture with multiple years of production history starting 2022, but no formal predicted-reliability data exists.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Ferrari. Press coverage and owner forums frame the 296 as one of Ferrari's most rewarding mid-engine cars in years.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently rank the 296 GTB as Ferrari's most exciting mid-engine V6 since the Dino, praising the rev-happy 120° V6's V12-imitating top-end, the seamless PHEV torque-fill, and a chassis that walks the line between scalpel-sharp and approachable. Common critiques are limited 8 mile EPA-rated all-electric range, capacitive-touch steering wheel controls (a long-running Ferrari complaint), and pricing that crosses heavily into 12-cylinder territory.",
+        "links": [
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/ferrari/296-gtb",
+            "date": "2026-01-15"
+          },
+          {
+            "publication": "Evo",
+            "url": "https://www.evo.co.uk/ferrari/296/gtb",
+            "date": "2025-08-20"
+          },
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/ferrari/296-gtb",
+            "date": "2025-06-12"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the 296 GTB due to the small US owner population and limited consumer-review submissions. Press-aggregated sentiment is overwhelmingly positive on engine character, handling, and daily usability for a mid-engine supercar.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/ferrari/296-gtb/",
+          "https://www.kbb.com/ferrari/296-gtb/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "296 GTB",
+          "trim_slug": "296-gtb",
+          "trim_family": "296-gtb",
+          "is_base_trim": true,
+          "msrp_base": 338250,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "phev",
+            "engine_displacement_l": 3,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 819,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 546,
+            "transmission": "8-speed dual-clutch automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 7.45,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 8,
+            "total_range_mi": null,
+            "dc_fast_charge_peak_kw": null,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 7.2,
+            "mpge_combined": 47,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": null,
+            "highway_mpg": null,
+            "combined_mpg": 18,
+            "fuel_tank_gal": 17.8,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3300
+          },
+          "performance": {
+            "zero_to_60_sec": 2.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 205,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 179,
+            "width_in": 77.1,
+            "height_in": 46.7,
+            "wheelbase_in": 102.4,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3109,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 6.2
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/35 ZR20 front / 305/35 ZR20 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8.8,
+            "driver_display_in": 16,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "JBL Professional premium audio (standard)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Ferrari's first plug-in hybrid V6 — 120° twin-turbo V6 paired with rear-axle MGU-K electric motor",
+              "All-electric eDrive mode capable of full vehicle propulsion to ~84 mph",
+              "Manettino with five drive modes plus separate eManettino with four hybrid modes (eDrive, Hybrid, Performance, Qualify)",
+              "16-inch curved digital instrument cluster",
+              "Side Slip Control 8.0 with 6-axis sensor",
+              "Carbon-ceramic brakes standard",
+              "Optional Assetto Fiorano package: lightweight components, Multimatic dampers, livery"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": "8yr/unlimited",
+            "complimentary_maintenance_yr_mi": "7yr/unlimited"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/296-gtb",
+              "local_path": "images/ferrari/296-gtb/296-gtb/front_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://cdn.ferrari.com/cms/network/media/img/resize/60d0b484a3cd115f9176b3de-ferrari-296-gtb-intro-mob?width=768&height=1024",
+              "local_path": "images/ferrari/296-gtb/296-gtb/rear_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true,
+              "source_tier": 1,
+              "source_domain": "cdn.ferrari.com",
+              "content_type": "image/avif"
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ferrari.com/en-EN/auto/296-gtb",
+              "local_path": "images/ferrari/296-gtb/296-gtb/side_profile.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://cdn.ferrari.com/cms/network/media/img/resize/60d2e5ad3e5563190c9988e3-ferrari-296-gtb-2021-interior-intro-cover-focus-1?",
+              "local_path": "images/ferrari/296-gtb/296-gtb/interior_dashboard.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true,
+              "source_tier": 1,
+              "source_domain": "cdn.ferrari.com",
+              "content_type": "image/avif"
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.caranddriver.com/ferrari/296-gtb",
+            "powertrain": "https://www.ferrari.com/en-EN/auto/296-gtb",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50260",
+            "performance.zero_to_60_sec": "https://www.ferrari.com/en-EN/auto/296-gtb",
+            "dimensions": "https://www.ferrari.com/en-EN/auto/296-gtb",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/FERRARI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/ferrari",
+            "features": "https://www.ferrari.com/en-EN/auto/296-gtb",
+            "warranty": "https://www.ferrari.com/en-EN/auto/car-part-services-warranty-maintenance"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base $338,250 filled from Car and Driver per §4.6 scoped policy relaxation for ultra-luxury brands with manufacturer non-disclosure (Ferrari does not publish US MSRP on its consumer site — ferrari.com/en-US returns blank to WebFetch, JS-rendered — or in any accessible primary press release). MSRP source: Car and Driver editorial spec page (per §4.6 scoped policy; manufacturer does not publish US MSRP). Confidence: medium. Destination fee remains null (Ferrari does not publish US destination fee). EPA fueleconomy.gov ID 50260 verified for 2026 296 GTB: 47 MPGe combined (charge-depleting), 18 MPG combined gas-only (charge-sustaining), 8 mi all-electric range, $3,300 annual fuel cost. Per spec §3.6 PHEV rule: city/highway gas-only MPG are not broken out separately on EPA's PHEV pages — city_mpg/highway_mpg left null, combined_mpg = 18 (gas), mpge_combined = 47 (electric). Tank size 17.8 gal per EPA. Engine 2,992 cc twin-turbo V6 producing 654 hp internal-combustion combined with 165 hp electric motor for 819 hp combined system output (Ferrari rates as 830 cv / 819 hp). Combined torque 546 lb-ft. Dimensions: length 4,546 mm (179.0 in), width 1,958 mm (77.1 in), height 1,187 mm (46.7 in), wheelbase 2,600 mm (102.4 in). Dry weight 1,470 kg / 3,240 lb per Ferrari (3,109 lb commonly cited as a lighter spec). Curb weight 3,109 lb recorded as Ferrari's lighter published value; standard dry weight ~3,240 lb. NHTSA and IIHS have not crash-tested the 296 GTB. Image URLs are ferrari.com page URLs with needs_scraping: true."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Single-trim model. The 296 GTS (folding hardtop convertible) and 296 Speciale / Speciale A (higher-performance variants) are split as separate models per spec §6.4 because Ferrari markets each on its own ferrari.com model page. Body-style mapping: sports-car. All images flagged needs_scraping: true. Phase 4 image scrape: persistent low coverage (2.1% as of 2026-05-14) — ferrari.com is JS-rendered and the rendered DOM has no usable <img> candidates (likely shadow-DOM / CSS-background imagery). Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "296 GTS",
+      "model_slug": "296-gts",
+      "model_year": 2026,
+      "body_style": "convertible",
+      "generation_context": "Type F171; convertible variant of the 296 GTB introduced April 2022 with a retractable hardtop (RHT). Shares powertrain, chassis, and most dimensions with the coupe; gains chassis reinforcements that add ~70 kg over the GTB.",
+      "msrp_range": {
+        "low": null,
+        "high": null
+      },
+      "model_summary": "Mid-rear-engine 2-seat plug-in hybrid convertible based on the 296 GTB, with a 14-second retractable hardtop. 819 hp combined from twin-turbo V6 + electric motor. Single-trim US lineup; performance figures match the GTB despite the added weight.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not meaningfully sample Ferrari — no published reliability data. The 296 GTS shares its mechanical package with the GTB.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Ferrari.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the 296 GTS as preserving virtually all of the GTB's driving character with the added theater of a retractable hardtop, calling it the most well-rounded mid-engine V6 plug-in convertible Ferrari has produced. Common critiques mirror the GTB: limited EV-only range and steering-wheel haptic controls.",
+        "links": [
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/296-gts/first-drive",
+            "date": "2026-01-20"
+          },
+          {
+            "publication": "The Intercooler",
+            "url": "https://www.the-intercooler.com/library/driven/ferrari-296-gts/",
+            "date": "2025-09-10"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the 296 GTS. Press-aggregated sentiment mirrors the GTB.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/ferrari/296-gts/",
+          "https://www.kbb.com/ferrari/296-gts/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "296 GTS",
+          "trim_slug": "296-gts",
+          "trim_family": "296-gts",
+          "is_base_trim": true,
+          "msrp_base": null,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "phev",
+            "engine_displacement_l": 3,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 819,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 546,
+            "transmission": "8-speed dual-clutch automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 7.45,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 7,
+            "total_range_mi": null,
+            "dc_fast_charge_peak_kw": null,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 7.2,
+            "mpge_combined": 48,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": null,
+            "highway_mpg": null,
+            "combined_mpg": 18,
+            "fuel_tank_gal": 17.8,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3500
+          },
+          "performance": {
+            "zero_to_60_sec": 2.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 205,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 179.7,
+            "width_in": 77.1,
+            "height_in": 46.9,
+            "wheelbase_in": 102.4,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3219,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 5.7
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/35 ZR20 front / 305/35 ZR20 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8.8,
+            "driver_display_in": 16,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "JBL Professional premium audio (standard)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Retractable hardtop (RHT) opens / closes in 14 seconds at speeds up to ~28 mph",
+              "Wind deflector behind front seats",
+              "All-electric eDrive mode capable of full vehicle propulsion to ~84 mph",
+              "Manettino + eManettino dual drive-mode controls",
+              "Side Slip Control 8.0",
+              "Carbon-ceramic brakes standard",
+              "Optional Assetto Fiorano package: lightweight components, Multimatic dampers"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": "8yr/unlimited",
+            "complimentary_maintenance_yr_mi": "7yr/unlimited"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/296-gts",
+              "local_path": "images/ferrari/296-gts/296-gts/front_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://cdn.ferrari.com/cms/network/media/img/resize/62592e7efdd5f4093887327a-ferrari-296-gts-intro-mob?width=768&height=1024",
+              "local_path": "images/ferrari/296-gts/296-gts/rear_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true,
+              "source_tier": 1,
+              "source_domain": "cdn.ferrari.com",
+              "content_type": "image/avif"
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ferrari.com/en-EN/auto/296-gts",
+              "local_path": "images/ferrari/296-gts/296-gts/side_profile.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://cdn.ferrari.com/cms/network/media/img/resize/62592fb41ec70c07842d921e-ferrari-296-gts-interior-focus-1?",
+              "local_path": "images/ferrari/296-gts/296-gts/interior_dashboard.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true,
+              "source_tier": 1,
+              "source_domain": "cdn.ferrari.com",
+              "content_type": "image/avif"
+            }
+          ],
+          "sources": {
+            "msrp_base": null,
+            "powertrain": "https://www.ferrari.com/en-EN/auto/296-gts",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50261",
+            "performance.zero_to_60_sec": "https://www.ferrari.com/en-EN/auto/296-gts",
+            "dimensions": "https://www.ferrari.com/en-EN/auto/296-gts",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/FERRARI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/ferrari",
+            "features": "https://www.ferrari.com/en-EN/auto/296-gts",
+            "warranty": "https://www.ferrari.com/en-EN/auto/car-part-services-warranty-maintenance"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base and destination_fee set to null per Ferrari-US no-published-MSRP gap (see brand-level notes). EPA fueleconomy.gov ID 50261 verified for 2026 296 GTS: 48 MPGe combined, 18 MPG combined gas-only, 7 mi all-electric range, $3,500 annual. Per spec §3.6 PHEV rule: city/highway gas-only MPG left null. Dry weight 1,540 kg / 3,395 lb (Ferrari); GTS weighs 70 kg / 154 lb more than GTB due to chassis reinforcements. Length 4,565 mm (179.7 in), width 1,958 mm (77.1 in), height 1,191 mm (46.9 in), wheelbase 2,600 mm (102.4 in). Identical powertrain to 296 GTB: 819 hp combined (654 hp ICE + 165 hp e-motor), 546 lb-ft combined torque, 0-100 km/h 2.9s, top speed >205 mph. NHTSA and IIHS have not crash-tested the 296 GTS. Image URLs are ferrari.com page URLs with needs_scraping: true."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Single-trim convertible counterpart to 296 GTB. Body-style mapping: convertible. All images flagged needs_scraping: true. Phase 4 image scrape: persistent low coverage (2.1% as of 2026-05-14) — ferrari.com is JS-rendered and the rendered DOM has no usable <img> candidates (likely shadow-DOM / CSS-background imagery). Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "296 Speciale",
+      "model_slug": "296-speciale",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "Higher-performance variant of the 296 GTB introduced April 2025 with first US deliveries in Q1 2026. Adds 50 hp over the standard 296 GTB (880 hp combined), 110+ lb lighter, and 20% more downforce. Treated as a separate model per Ferrari's marketing (own ferrari.com page).",
+      "msrp_range": {
+        "low": null,
+        "high": null
+      },
+      "model_summary": "Track-focused Berlinetta variant of the 296 GTB with 880 hp combined output, lighter weight, and dramatically more downforce. Single-trim US lineup. The 296 Speciale A (Aperta) is the open-top counterpart, treated as a separate model.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not meaningfully sample Ferrari. The 296 Speciale is a first-year Speciale-line variant of the existing 296 platform, with no formal reliability data.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Ferrari.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the 296 Speciale as a much sharper, more uncompromising track-day weapon than the standard GTB while still being usable on the road, with a substantially more aggressive aero package (rear wing, underbody, side aero) and 880 hp combined system output. Common critiques are very high pricing (~$464,000 estimated start), limited daily comfort versus the GTB, and the inherent compromise of a 7.45 kWh PHEV battery in a track-focused car.",
+        "links": [
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/ferrari/296-speciale",
+            "date": "2026-03-10"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "US customer deliveries began Q1 2026, so Edmunds and KBB owner-review pages have essentially no submissions.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/ferrari/296-speciale/",
+          "https://www.kbb.com/ferrari/296-speciale/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "296 Speciale",
+          "trim_slug": "296-speciale",
+          "trim_family": "296-speciale",
+          "is_base_trim": true,
+          "msrp_base": null,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "phev",
+            "engine_displacement_l": 3,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 868,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 546,
+            "transmission": "8-speed dual-clutch automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 7.45,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 7,
+            "total_range_mi": 330,
+            "dc_fast_charge_peak_kw": null,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 7.2,
+            "mpge_combined": 44,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": null,
+            "highway_mpg": null,
+            "combined_mpg": 18,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3350
+          },
+          "performance": {
+            "zero_to_60_sec": 2.8,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 205,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 183.1,
+            "width_in": 77.6,
+            "height_in": 46.9,
+            "wheelbase_in": 102.4,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3108,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 6.2
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/35 ZR20 front / 305/35 ZR20 rear (forged alloys standard; carbon fiber wheels optional)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8.8,
+            "driver_display_in": 16,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "JBL Professional premium audio (standard)",
+            "sunroof": "none",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "+50 hp over 296 GTB for 880 cv / 868 hp combined system output",
+              "20% more downforce vs 296 GTB / GTS (435 kg downforce at 250 km/h)",
+              "Lightweight package: -60 kg / -132 lb vs 296 GTB",
+              "Active aerodynamics: rear wing, S-Duct, underbody, side aero",
+              "Carbon-ceramic CCM-R brakes standard",
+              "Multimatic Adaptive Dampers (DSSV)",
+              "ABS Evo with sector-by-sector torque vectoring",
+              "Stripped Alcantara/carbon interior; thinner seat padding; lightweight HVAC"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": "8yr/unlimited",
+            "complimentary_maintenance_yr_mi": "7yr/unlimited"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/296-speciale",
+              "local_path": "images/ferrari/296-speciale/296-speciale/front_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": false
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/296-speciale",
+              "local_path": "images/ferrari/296-speciale/296-speciale/rear_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ferrari.com/en-EN/auto/296-speciale",
+              "local_path": "images/ferrari/296-speciale/296-speciale/side_profile.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ferrari.com/en-EN/auto/296-speciale",
+              "local_path": "images/ferrari/296-speciale/296-speciale/interior_dashboard.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": null,
+            "powertrain": "https://www.ferrari.com/en-EN/auto/296-speciale",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50262",
+            "performance.zero_to_60_sec": "https://www.ferrari.com/en-EN/auto/296-speciale",
+            "dimensions": "https://www.ferrari.com/en-EN/auto/296-speciale",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/FERRARI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/ferrari",
+            "features": "https://www.ferrari.com/en-EN/auto/296-speciale",
+            "warranty": "https://www.ferrari.com/en-EN/auto/car-part-services-warranty-maintenance"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base and destination_fee set to null per Ferrari-US no-published-MSRP gap. Secondary aggregators commonly quote ~$464,000 starting MSRP but per spec §4 no dealer/content-farm citation may stand as sole MSRP source. EPA fueleconomy.gov ID 50262 verified for 2026 296 Speciale: 44 MPGe combined, 18 MPG combined gas-only, 7 mi all-electric range, 330 mi total range, $3,350 annual. Per spec §3.6 PHEV rule: city/highway gas-only MPG left null. 880 cv / 868 hp combined system output (700 hp ICE + 180 hp e-motor) — +50 hp over 296 GTB. Combined torque 546 lb-ft. 0-100 km/h 2.8s, top speed >330 km/h. Length ~4,650 mm (183.1 in), width ~1,970 mm (77.6 in), height ~1,190 mm (46.9 in), wheelbase 2,600 mm (102.4 in). Dry weight 1,410 kg (3,108 lb) per Ferrari — 60 kg / 132 lb lighter than 296 GTB. ADAS booleans set conservatively (LKA, RCTA disabled) because Speciale uses stripped track-focused electronics package; some features may be optional/unavailable on this stripped-out variant. NHTSA and IIHS have not crash-tested the 296 Speciale. Image URLs are ferrari.com page URLs with needs_scraping: true."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Higher-performance variant of the 296 GTB, split as a separate model per spec §6.4 (performance-variant rule — Ferrari markets it on its own ferrari.com model page). The 296 Speciale A (open-top) is a separate model entry. Body-style mapping: sports-car. All images flagged needs_scraping: true. Phase 4 image scrape: persistent low coverage (2.1% as of 2026-05-14) — ferrari.com is JS-rendered and the rendered DOM has no usable <img> candidates (likely shadow-DOM / CSS-background imagery). Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "296 Speciale A",
+      "model_slug": "296-speciale-a",
+      "model_year": 2026,
+      "body_style": "convertible",
+      "generation_context": "Aperta (convertible) variant of the 296 Speciale introduced April 2025 with first US deliveries Q1 2026. Adds the 296 GTS's retractable hardtop to the Speciale's powertrain and aero upgrades.",
+      "msrp_range": {
+        "low": null,
+        "high": null
+      },
+      "model_summary": "Open-top track-focused variant combining the 296 Speciale's 880 hp powertrain and aero with the 296 GTS's retractable hardtop. Single-trim US lineup.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not meaningfully sample Ferrari.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Ferrari.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the 296 Speciale A as offering the full Speciale experience plus open-top theater, with the retractable hardtop adding 50 kg over the closed-roof Speciale. Common critique is that the additional cost over an already-very-expensive 296 Speciale is significant.",
+        "links": [
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/ferrari/296-speciale",
+            "date": "2026-03-10"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "US customer deliveries began Q1 2026, so Edmunds and KBB owner-review pages have essentially no submissions.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/ferrari/296-speciale-a/",
+          "https://www.kbb.com/ferrari/296-speciale-a/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "296 Speciale A",
+          "trim_slug": "296-speciale-a",
+          "trim_family": "296-speciale-a",
+          "is_base_trim": true,
+          "msrp_base": null,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "phev",
+            "engine_displacement_l": 3,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 868,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 546,
+            "transmission": "8-speed dual-clutch automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 7.45,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 7,
+            "total_range_mi": null,
+            "dc_fast_charge_peak_kw": null,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 7.2,
+            "mpge_combined": 44,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": null,
+            "highway_mpg": null,
+            "combined_mpg": 18,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3350
+          },
+          "performance": {
+            "zero_to_60_sec": 2.8,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 205,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 183.1,
+            "width_in": 77.6,
+            "height_in": 46.9,
+            "wheelbase_in": 102.4,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3219,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 5.7
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/35 ZR20 front / 305/35 ZR20 rear (forged alloys standard; carbon fiber wheels optional)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8.8,
+            "driver_display_in": 16,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "JBL Professional premium audio (standard)",
+            "sunroof": "none",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Retractable hardtop (RHT) shared with 296 GTS",
+              "880 cv / 868 hp combined system output",
+              "20% more downforce vs 296 GTS",
+              "Lightweight package: -50 kg / -110 lb vs 296 GTS",
+              "Active aerodynamics: rear wing, S-Duct, underbody, side aero",
+              "Carbon-ceramic CCM-R brakes standard",
+              "Multimatic Adaptive Dampers (DSSV)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": "8yr/unlimited",
+            "complimentary_maintenance_yr_mi": "7yr/unlimited"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/296-speciale-a",
+              "local_path": "images/ferrari/296-speciale-a/296-speciale-a/front_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": false
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/296-speciale-a",
+              "local_path": "images/ferrari/296-speciale-a/296-speciale-a/rear_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ferrari.com/en-EN/auto/296-speciale-a",
+              "local_path": "images/ferrari/296-speciale-a/296-speciale-a/side_profile.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ferrari.com/en-EN/auto/296-speciale-a",
+              "local_path": "images/ferrari/296-speciale-a/296-speciale-a/interior_dashboard.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": null,
+            "powertrain": "https://www.ferrari.com/en-EN/auto/296-speciale-a",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50263",
+            "performance.zero_to_60_sec": "https://www.ferrari.com/en-EN/auto/296-speciale-a",
+            "dimensions": "https://www.ferrari.com/en-EN/auto/296-speciale-a",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/FERRARI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/ferrari",
+            "features": "https://www.ferrari.com/en-EN/auto/296-speciale-a",
+            "warranty": "https://www.ferrari.com/en-EN/auto/car-part-services-warranty-maintenance"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base and destination_fee set to null per Ferrari-US no-published-MSRP gap. EPA fueleconomy.gov ID 50263 verified for 2026 296 Speciale A: 44 MPGe combined, 18 MPG gas-only, 7 mi all-electric range, $3,350 annual. Per spec §3.6 PHEV rule: city/highway gas-only MPG left null. Dry weight 1,460 kg / 3,219 lb per Ferrari — 50 kg / 110 lb lighter than 296 GTS. Otherwise identical specs to 296 Speciale coupe with addition of retractable hardtop. NHTSA and IIHS have not crash-tested the 296 Speciale A. Image URLs are ferrari.com page URLs with needs_scraping: true."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Open-top counterpart to 296 Speciale. Split as a separate model per body-style + performance-variant rules. Body-style mapping: convertible. All images flagged needs_scraping: true. Phase 4 image scrape: persistent low coverage (2.1% as of 2026-05-14) — ferrari.com is JS-rendered and the rendered DOM has no usable <img> candidates (likely shadow-DOM / CSS-background imagery). Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "12Cilindri",
+      "model_slug": "12cilindri",
+      "model_year": 2026,
+      "body_style": "coupe",
+      "generation_context": "Type F167; introduced May 2024 as the successor to the 812 Superfast, marking the continuation of Ferrari's front-engine naturally-aspirated V12 grand-touring tradition. Retains the 6.5L F140 V12 family from the 812 with updated electronics and aero. Pronounced 'dodici-cilindri' (twelve cylinders).",
+      "msrp_range": {
+        "low": null,
+        "high": null
+      },
+      "model_summary": "Front-mid-engine 2-seat naturally-aspirated V12 grand tourer producing 819 hp at 9,250 rpm. Single-trim US lineup; 12Cilindri Spider (retractable hardtop) is a separate model entry per body-style rules.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not meaningfully sample Ferrari due to low US volume. The 6.5L naturally-aspirated F140 V12 is a long-running Ferrari engine family (812 Superfast, FF, F12 Berlinetta) with a multi-decade production record, but no formal predicted-reliability data exists.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Ferrari.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the 12Cilindri as a deliberate continuation of Ferrari's front-engine V12 GT lineage rather than a radical rethink, with reactionary 1970s-inspired styling, a 9,500-rpm naturally-aspirated V12 that emphasizes top-end character, and four-wheel steering that adds shocking agility for a 4.7m-long GT. Common critiques are the very evolutionary styling, polarizing flat-faced front graphic, and steep pricing entry point.",
+        "links": [
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/ferrari/12cilindri",
+            "date": "2025-09-15"
+          },
+          {
+            "publication": "Autocar",
+            "url": "https://www.autocar.co.uk/car-review/ferrari/12cilindri",
+            "date": "2025-12-05"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the 12Cilindri due to the small US owner population.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/ferrari/12cilindri/",
+          "https://www.kbb.com/ferrari/12cilindri/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "12Cilindri",
+          "trim_slug": "12cilindri",
+          "trim_family": "12cilindri",
+          "is_base_trim": true,
+          "msrp_base": null,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 6.5,
+            "engine_config": "V12",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 819,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 500,
+            "transmission": "8-speed dual-clutch automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 12,
+            "highway_mpg": 19,
+            "combined_mpg": 14,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4950
+          },
+          "performance": {
+            "zero_to_60_sec": 2.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 211,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 186.2,
+            "width_in": 78,
+            "height_in": 50.7,
+            "wheelbase_in": 106.3,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3461,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 9.2
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "275/35 ZR21 front / 315/35 ZR21 rear (Michelin Pilot Sport S5 or Goodyear Eagle F1 Supersport)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 15.6,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Burmester 15-speaker premium audio (optional)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Naturally aspirated 6.5L F140 V12 — Ferrari's final pure-ICE V12 generation",
+              "9,500 rpm redline; 819 hp at 9,250 rpm",
+              "Four-wheel steering (independent rear-wheel actuation)",
+              "Active aerodynamics: rear movable flaps replacing fixed rear wing",
+              "Triple-display dashboard: 15.6\" curved digital cluster + 10.25\" landscape center + 8.8\" passenger display",
+              "ABS Evo with brake-by-wire",
+              "Carbon-ceramic CCM-R brakes optional"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "7yr/unlimited"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/ferrari-12cilindri",
+              "local_path": "images/ferrari/12cilindri/12cilindri/front_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/ferrari-12cilindri",
+              "local_path": "images/ferrari/12cilindri/12cilindri/rear_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ferrari.com/en-EN/auto/ferrari-12cilindri",
+              "local_path": "images/ferrari/12cilindri/12cilindri/side_profile.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://cdn.ferrari.com/cms/network/media/img/resize/662cc11c2130a100213ccaaa-ferrari-12cilindri-interior-cockpit-desk?",
+              "local_path": "images/ferrari/12cilindri/12cilindri/interior_dashboard.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true,
+              "source_tier": 1,
+              "source_domain": "cdn.ferrari.com",
+              "content_type": "image/avif"
+            }
+          ],
+          "sources": {
+            "msrp_base": null,
+            "powertrain": "https://www.ferrari.com/en-EN/auto/ferrari-12cilindri",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49775",
+            "performance.zero_to_60_sec": "https://www.ferrari.com/en-EN/auto/ferrari-12cilindri",
+            "dimensions": "https://www.ferrari.com/en-EN/auto/ferrari-12cilindri",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/FERRARI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/ferrari",
+            "features": "https://www.ferrari.com/en-EN/auto/ferrari-12cilindri",
+            "warranty": "https://www.ferrari.com/en-EN/auto/car-part-services-warranty-maintenance"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base and destination_fee set to null per Ferrari-US no-published-MSRP gap. Secondary aggregators commonly quote ~$420,000-$450,000 starting MSRP but per spec §4 no dealer/content-farm citation may stand as sole MSRP source. EPA fueleconomy.gov ID 49775 verified for 2026 12Cilindri: 12 city / 19 highway / 14 combined MPG, premium gas, $4,950 annual. EPA tank size not posted. Engine: 6,496 cc / 6.5L F140 V12, 830 cv / 819 hp at 9,250 rpm, 678 Nm / 500 lb-ft at 7,250 rpm. 0-100 km/h 2.9s, top speed 211 mph per Ferrari. Length 4,733 mm (186.2 in), width 1,981 mm (78.0 in), height 1,288 mm (50.7 in), wheelbase 2,700 mm (106.3 in), dry weight 1,560 kg / 3,440 lb per Ferrari. Curb weight ~3,461 lb commonly cited. Trunk volume 260 L = 9.2 cu ft. NHTSA and IIHS have not crash-tested the 12Cilindri. Image URLs are ferrari.com page URLs with needs_scraping: true."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Single-trim model. 12Cilindri Spider is a separate model entry per body-style rule. Body-style mapping: coupe (front-mid-engine 2-seat GT). All images flagged needs_scraping: true. Phase 4 image scrape: persistent low coverage (2.1% as of 2026-05-14) — ferrari.com is JS-rendered and the rendered DOM has no usable <img> candidates (likely shadow-DOM / CSS-background imagery). Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "12Cilindri Spider",
+      "model_slug": "12cilindri-spider",
+      "model_year": 2026,
+      "body_style": "convertible",
+      "generation_context": "Type F167; Spider variant of the 12Cilindri introduced May 2024 alongside the coupe. Adds a 14-second retractable hardtop (RHT) and chassis reinforcements; otherwise mechanically identical to the 12Cilindri coupe.",
+      "msrp_range": {
+        "low": null,
+        "high": null
+      },
+      "model_summary": "Front-mid-engine 2-seat naturally-aspirated V12 grand-touring convertible producing 819 hp. Retractable hardtop opens/closes in 14 seconds at speeds up to 28 mph. Single-trim US lineup.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not meaningfully sample Ferrari. The 12Cilindri Spider shares its powertrain with the coupe.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Ferrari.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the 12Cilindri Spider as preserving virtually all of the coupe's GT character while adding the dramatic theater of an open-top naturally-aspirated V12. Common critiques are the inevitable weight penalty (~60 kg over the coupe) and slightly compromised rear visibility with the top up.",
+        "links": [
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/ferrari/12cilindri-spider",
+            "date": "2026-02-25"
+          },
+          {
+            "publication": "The Drive",
+            "url": "https://www.thedrive.com/car-reviews/ferrari-12cilindri-spider-review",
+            "date": "2025-11-12"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the 12Cilindri Spider.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/ferrari/12cilindri-spider/",
+          "https://www.kbb.com/ferrari/12cilindri-spider/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "12Cilindri Spider",
+          "trim_slug": "12cilindri-spider",
+          "trim_family": "12cilindri-spider",
+          "is_base_trim": true,
+          "msrp_base": null,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 6.5,
+            "engine_config": "V12",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 819,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 500,
+            "transmission": "8-speed dual-clutch automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 12,
+            "highway_mpg": 17,
+            "combined_mpg": 14,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4950
+          },
+          "performance": {
+            "zero_to_60_sec": 2.95,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 211,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 186.2,
+            "width_in": 78,
+            "height_in": 50.7,
+            "wheelbase_in": 106.3,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3571,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 7.8
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "275/35 ZR21 front / 315/35 ZR21 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 15.6,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Burmester 15-speaker premium audio (optional)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Retractable hardtop (RHT) — opens/closes in 14 seconds at speeds up to ~27 mph",
+              "Naturally aspirated 6.5L F140 V12 with 9,500 rpm redline",
+              "Wind deflector for top-down driving",
+              "Four-wheel steering",
+              "Active aerodynamics: rear movable flaps",
+              "Triple-display dashboard",
+              "Carbon-ceramic CCM-R brakes optional"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "7yr/unlimited"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/ferrari-12cilindri-spider",
+              "local_path": "images/ferrari/12cilindri-spider/12cilindri-spider/front_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/ferrari-12cilindri-spider",
+              "local_path": "images/ferrari/12cilindri-spider/12cilindri-spider/rear_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ferrari.com/en-EN/auto/ferrari-12cilindri-spider",
+              "local_path": "images/ferrari/12cilindri-spider/12cilindri-spider/side_profile.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://cdn.ferrari.com/cms/network/media/img/resize/662fb1f657e9750011bc7eef-ferrari-12cilindri-spider-interior-dual-cockpit-desk?",
+              "local_path": "images/ferrari/12cilindri-spider/12cilindri-spider/interior_dashboard.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true,
+              "source_tier": 1,
+              "source_domain": "cdn.ferrari.com",
+              "content_type": "image/avif"
+            }
+          ],
+          "sources": {
+            "msrp_base": null,
+            "powertrain": "https://www.ferrari.com/en-EN/auto/ferrari-12cilindri-spider",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49776",
+            "performance.zero_to_60_sec": "https://www.ferrari.com/en-EN/auto/ferrari-12cilindri-spider",
+            "dimensions": "https://www.ferrari.com/en-EN/auto/ferrari-12cilindri-spider",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/FERRARI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/ferrari",
+            "features": "https://www.ferrari.com/en-EN/auto/ferrari-12cilindri-spider",
+            "warranty": "https://www.ferrari.com/en-EN/auto/car-part-services-warranty-maintenance"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base and destination_fee set to null per Ferrari-US no-published-MSRP gap. EPA fueleconomy.gov ID 49776 verified for 2026 12Cilindri Spider: 12 city / 17 highway / 14 combined MPG, $4,950 annual. Dry weight 1,620 kg / 3,571 lb per Ferrari — ~130 lb / ~60 kg more than coupe. Otherwise identical specs to 12Cilindri coupe. 0-62 mph 2.95s per Ferrari (Spider is 0.05s slower than coupe due to added weight). NHTSA and IIHS have not crash-tested the 12Cilindri Spider. Image URLs are ferrari.com page URLs with needs_scraping: true."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Open-top counterpart to 12Cilindri. Split as separate model per body-style rule. Body-style mapping: convertible. All images flagged needs_scraping: true. Phase 4 image scrape: persistent low coverage (2.1% as of 2026-05-14) — ferrari.com is JS-rendered and the rendered DOM has no usable <img> candidates (likely shadow-DOM / CSS-background imagery). Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "849 Testarossa",
+      "model_slug": "849-testarossa",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "Type F173M; unveiled September 9, 2025 in Maranello as the successor to the SF90 Stradale. Resurrects the historic Testarossa nameplate (originally a 1984-1996 mid-engine Ferrari) on a heavily revised SF90 platform: same dry weight as SF90 but +50 cv (now 1,050 cv combined), all-new 1970s Sports-Prototype-inspired bodywork, new front and rear axle architectures. European deliveries begin Q2-Q3 2026; US deliveries Q3-Q4 2026.",
+      "msrp_range": {
+        "low": 565685,
+        "high": 565685
+      },
+      "model_summary": "Mid-rear-engine 2-seat plug-in hybrid berlinetta and Ferrari's series-production flagship. Combines 4.0L twin-turbo V8 (830 cv / 819 hp) with three electric motors for 1,050 cv / 1,035 hp combined system output. Single-trim US lineup; 849 Testarossa Spider is a separate model.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not meaningfully sample Ferrari. The 849 Testarossa is a first-year design built on a heavily revised SF90 architecture; long-term reliability data is not available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Ferrari.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the 849 Testarossa as a substantial upgrade over the SF90 in handling, performance, and theatrical presence, with new 1970s sports-prototype-inspired styling and a Fiorano lap that is 1.5 seconds quicker than its predecessor. The +50 cv (50 hp) bump to 1,050 cv combined is delivered without any weight penalty. Common critiques are eye-watering price (rumored ~$500,000 entry), allocation-constrained ordering, and that the styling has split opinions among enthusiasts.",
+        "links": [
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/ferrari/849-testarossa",
+            "date": "2026-03-25"
+          },
+          {
+            "publication": "Autocar",
+            "url": "https://www.autocar.co.uk/car-review/ferrari/849-testarossa",
+            "date": "2026-04-12"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Customer deliveries have not yet begun in the US (Q3-Q4 2026 scheduled), so Edmunds and KBB owner-review pages have no submissions.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/ferrari/849-testarossa/",
+          "https://www.kbb.com/ferrari/849-testarossa/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "849 Testarossa",
+          "trim_slug": "849-testarossa",
+          "trim_family": "849-testarossa",
+          "is_base_trim": true,
+          "msrp_base": 565685,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "phev",
+            "engine_displacement_l": 4,
+            "engine_config": "V8",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 1035,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 620,
+            "transmission": "8-speed dual-clutch automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 7.45,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 16,
+            "total_range_mi": null,
+            "dc_fast_charge_peak_kw": null,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 7.2,
+            "mpge_combined": null,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": null,
+            "highway_mpg": null,
+            "combined_mpg": null,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 2.2,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 205,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 185.7,
+            "width_in": 78.7,
+            "height_in": 48.2,
+            "wheelbase_in": 104.3,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3461,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 2.6
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "265/35 R20 front / 325/30 R21 rear (20\" front / 21\" rear staggered)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 16,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Burmester 16-speaker (optional)",
+            "sunroof": "none",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "1,050 cv / 1,035 hp combined — record for a series-production Ferrari",
+              "PHEV system with V8 + 3 electric motors (2 front-axle, 1 rear MGU-K)",
+              "RAC-e front-axle system enables AWD and torque vectoring",
+              "All-electric eDrive mode via twin front motors up to ~25 km (16 mi)",
+              "8-speed dual-clutch transmission",
+              "Fiorano lap: 1:17.5s (1.5s faster than SF90 Stradale)",
+              "Optional Assetto Fiorano lightweight package",
+              "Carbon-ceramic CCM-R brakes standard"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": "8yr/unlimited",
+            "complimentary_maintenance_yr_mi": "7yr/unlimited"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/849-testarossa",
+              "local_path": "images/ferrari/849-testarossa/849-testarossa/front_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": false
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/849-testarossa",
+              "local_path": "images/ferrari/849-testarossa/849-testarossa/rear_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ferrari.com/en-EN/auto/849-testarossa",
+              "local_path": "images/ferrari/849-testarossa/849-testarossa/side_profile.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ferrari.com/en-EN/auto/849-testarossa",
+              "local_path": "images/ferrari/849-testarossa/849-testarossa/interior_dashboard.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.caranddriver.com/reviews/a70175472/2027-ferrari-849-testarossa-drive/",
+            "powertrain": "https://www.ferrari.com/en-EN/auto/849-testarossa",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&year1=2026&year2=2026&make=Ferrari&srchtyp=newMake&pageno=1",
+            "performance.zero_to_60_sec": "https://www.ferrari.com/en-EN/auto/849-testarossa",
+            "dimensions": "https://www.ferrari.com/en-EN/auto/849-testarossa",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/FERRARI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/ferrari",
+            "features": "https://www.ferrari.com/en-EN/auto/849-testarossa",
+            "warranty": "https://www.ferrari.com/en-EN/auto/car-part-services-warranty-maintenance"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base $565,685 filled from Car and Driver per §4.6 scoped policy relaxation for ultra-luxury brands with manufacturer non-disclosure (Ferrari does not publish US MSRP). MSRP source: Car and Driver editorial spec page (per §4.6 scoped policy; manufacturer does not publish US MSRP). Confidence: medium. Note: MotorTrend independently quotes a slightly lower $560,685 base; Car and Driver's $565,685 (from the published specifications panel of their first-drive review) is used as the cited figure. Destination fee remains null. EPA fueleconomy.gov has NOT published a discrete 2026 entry for the 849 Testarossa as of 2026-05-12 — source set to brand model-browse page; fuel_economy values left null (US deliveries scheduled to begin Q3-Q4 2026, EPA test data not yet published). The 3,990 cc twin-turbo F154 V8 produces 830 cv / 819 hp at 7,500 rpm and 842 Nm / 621 lb-ft at 6,500 rpm; three electric motors contribute another 220 cv for 1,050 cv / 1,035 hp combined; combined torque ~620 lb-ft (estimated, manufacturer not specifically publishing combined torque). 0-100 km/h <2.3s, top speed >205 mph, Fiorano lap 1:17.5s per Ferrari. Length 4,718 mm (185.7 in), width 1,999 mm (78.7 in), height 1,225 mm (48.2 in), wheelbase 2,650 mm (104.3 in). Dry weight 1,570 kg / 3,461 lb per Ferrari — matches SF90 Stradale dry weight, best power-to-weight in the Ferrari range at 1.5 kg/cv. PHEV with 7.45 kWh battery, 25 km (~16 mi) all-electric range. NHTSA and IIHS have not crash-tested the 849 Testarossa. Image URLs are ferrari.com page URLs with needs_scraping: true. Replaces SF90 Stradale in the Ferrari lineup."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Successor to the SF90 Stradale (discontinued mid-2025 with the 849 Testarossa announcement). Single-trim model. 849 Testarossa Spider is a separate model entry per body-style rule. US deliveries start Q3-Q4 2026; orders open at US dealers as of mid-2026. Body-style mapping: sports-car. All images flagged needs_scraping: true. Phase 4 image scrape: persistent low coverage (2.1% as of 2026-05-14) — ferrari.com is JS-rendered and the rendered DOM has no usable <img> candidates (likely shadow-DOM / CSS-background imagery). Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "849 Testarossa Spider",
+      "model_slug": "849-testarossa-spider",
+      "model_year": 2026,
+      "body_style": "convertible",
+      "generation_context": "Type F173M; convertible variant of the 849 Testarossa unveiled September 2025 alongside the coupe. Adds a retractable hardtop (RHT) that opens/closes in 14 seconds at speeds up to 45 km/h. ~90 kg / ~200 lb heavier than the coupe due to chassis reinforcements and RHT mechanism.",
+      "msrp_range": {
+        "low": null,
+        "high": null
+      },
+      "model_summary": "Mid-rear-engine 2-seat plug-in hybrid convertible producing 1,050 cv / 1,035 hp combined. Open-top counterpart to the 849 Testarossa coupe with shared powertrain. Single-trim US lineup.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not meaningfully sample Ferrari.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Ferrari.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the 849 Testarossa Spider as preserving virtually all of the coupe's PHEV theater with the added drama of open-top driving and a 14-second retractable hardtop. Common critiques are the inevitable ~200 lb weight penalty and additional cost over an already-very-expensive coupe.",
+        "links": [
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/ferrari/849-testarossa",
+            "date": "2026-03-25"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "US customer deliveries have not yet begun (Q3-Q4 2026 scheduled), so Edmunds and KBB owner-review pages have no submissions.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/ferrari/849-testarossa-spider/",
+          "https://www.kbb.com/ferrari/849-testarossa-spider/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "849 Testarossa Spider",
+          "trim_slug": "849-testarossa-spider",
+          "trim_family": "849-testarossa-spider",
+          "is_base_trim": true,
+          "msrp_base": null,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "phev",
+            "engine_displacement_l": 4,
+            "engine_config": "V8",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 1035,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 620,
+            "transmission": "8-speed dual-clutch automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 7.45,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 16,
+            "total_range_mi": null,
+            "dc_fast_charge_peak_kw": null,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 7.2,
+            "mpge_combined": null,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": null,
+            "highway_mpg": null,
+            "combined_mpg": null,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 2.3,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 205,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 185.7,
+            "width_in": 78.7,
+            "height_in": 46.7,
+            "wheelbase_in": 104.3,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3660,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 2.6
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "265/35 R20 front / 325/30 R21 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 16,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Burmester 16-speaker (optional)",
+            "sunroof": "none",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Retractable hardtop (RHT) opens/closes in 14 seconds at speeds up to 45 km/h",
+              "1,050 cv / 1,035 hp combined — best power-to-weight ratio of any Ferrari Spider",
+              "PHEV system with V8 + 3 electric motors",
+              "AWD-electric (twin front motors provide front-axle drive)",
+              "All-electric eDrive mode",
+              "Optional Assetto Fiorano lightweight package",
+              "Carbon-ceramic CCM-R brakes standard"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": "8yr/unlimited",
+            "complimentary_maintenance_yr_mi": "7yr/unlimited"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/849-testarossa-spider",
+              "local_path": "images/ferrari/849-testarossa-spider/849-testarossa-spider/front_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/849-testarossa-spider",
+              "local_path": "images/ferrari/849-testarossa-spider/849-testarossa-spider/rear_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ferrari.com/en-EN/auto/849-testarossa-spider",
+              "local_path": "images/ferrari/849-testarossa-spider/849-testarossa-spider/side_profile.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ferrari.com/en-EN/auto/849-testarossa-spider",
+              "local_path": "images/ferrari/849-testarossa-spider/849-testarossa-spider/interior_dashboard.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": null,
+            "powertrain": "https://www.ferrari.com/en-EN/auto/849-testarossa-spider",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&year1=2026&year2=2026&make=Ferrari&srchtyp=newMake&pageno=1",
+            "performance.zero_to_60_sec": "https://www.ferrari.com/en-EN/auto/849-testarossa-spider",
+            "dimensions": "https://www.ferrari.com/en-EN/auto/849-testarossa-spider",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/FERRARI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/ferrari",
+            "features": "https://www.ferrari.com/en-EN/auto/849-testarossa-spider",
+            "warranty": "https://www.ferrari.com/en-EN/auto/car-part-services-warranty-maintenance"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base and destination_fee set to null per Ferrari-US no-published-MSRP gap. EPA fueleconomy.gov has NOT published a discrete 2026 entry for the 849 Testarossa Spider — source set to brand model-browse page; fuel_economy left null. Dry weight 1,660 kg / 3,660 lb per Ferrari — ~90 kg / ~200 lb heavier than coupe due to RHT and chassis reinforcements. 0-100 km/h 2.3s, top speed >205 mph. Otherwise mechanically identical to 849 Testarossa coupe. NHTSA and IIHS have not crash-tested the 849 Testarossa Spider. Replaces SF90 Spider. Image URLs are ferrari.com page URLs with needs_scraping: true. MSRP not findable from allowed editorial sources as of 2026-05-15. (Car and Driver's reveal article quotes Euro pricing only — 500,000 euros, ≈$586,000 — and explicitly notes US pricing has not been announced; MotorTrend's first-drive only quotes the coupe's $560,685 figure; no US-specific Spider MSRP has been published by Car and Driver, MotorTrend, Road & Track, Hagerty, or Automobile.)"
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Successor to the SF90 Spider. Split as separate model per body-style rule. US deliveries scheduled Q3-Q4 2026. Body-style mapping: convertible. All images flagged needs_scraping: true. Phase 4 image scrape: persistent low coverage (2.1% as of 2026-05-14) — ferrari.com is JS-rendered and the rendered DOM has no usable <img> candidates (likely shadow-DOM / CSS-background imagery). Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "Purosangue",
+      "model_slug": "purosangue",
+      "model_year": 2026,
+      "body_style": "suv-midsize",
+      "generation_context": "First-generation Purosangue (Italian for 'thoroughbred'); unveiled September 2022 with first deliveries in 2023. Ferrari's first-ever 4-door 4-seat car and first SUV-segment vehicle. Marketed as 'unlike any other' rather than as an SUV, but functionally a midsize luxury performance SUV with a naturally aspirated V12.",
+      "msrp_range": {
+        "low": null,
+        "high": null
+      },
+      "model_summary": "Front-mid-engine 4-door 4-seat performance SUV powered by a 6.5L naturally-aspirated V12 producing 715 hp — the only V12 in its segment. AWD with active suspension and four individual bucket seats. Single-trim US lineup. Production is allocation-constrained; Ferrari caps Purosangue at <20% of total annual volume.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not meaningfully sample Ferrari. The Purosangue is a third-year design built on a Ferrari-proprietary platform with bespoke active-suspension technology — no published reliability data.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Ferrari.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the Purosangue as remarkable for retaining Ferrari driving character in a 4-door, 4-seat package — sharp turn-in, V12 character, and active suspension that makes 2,000+ kg feel scalpel-like. Common critiques are 12 mpg combined EPA fuel economy (worst in segment), strictly 4-seat-only configuration (no rear bench), polarizing rear-hinged 'welcome doors' for back-seat access, and very long delivery wait times due to production caps.",
+        "links": [
+          {
+            "publication": "Autocar",
+            "url": "https://www.autocar.co.uk/car-review/ferrari/purosangue",
+            "date": "2026-02-18"
+          },
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/ferrari/purosangue",
+            "date": "2025-08-12"
+          },
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/ferrari/purosangue",
+            "date": "2024-11-05"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the Purosangue due to small US owner population and limited submissions.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/ferrari/purosangue/",
+          "https://www.kbb.com/ferrari/purosangue/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Purosangue",
+          "trim_slug": "purosangue",
+          "trim_family": "purosangue",
+          "is_base_trim": true,
+          "msrp_base": null,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 6.5,
+            "engine_config": "V12",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 715,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 528,
+            "transmission": "8-speed dual-clutch automatic (AM8)",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 11,
+            "highway_mpg": 15,
+            "combined_mpg": 12,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 5750
+          },
+          "performance": {
+            "zero_to_60_sec": 3.2,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 193,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 195.8,
+            "width_in": 79.8,
+            "height_in": 62.6,
+            "wheelbase_in": 118.8,
+            "ground_clearance_in": 7.1,
+            "curb_weight_lb": 4482,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 16.7,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "255/35 R22 front / 315/30 R23 rear (22\" front / 23\" rear staggered)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 16,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Burmester 21-speaker 3D surround (optional, 14-speaker standard)",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Ferrari's first 4-door 4-seat vehicle",
+              "Rear-hinged 'welcome doors' (rear suicide doors) for back-seat access",
+              "Four individual bucket seats — no rear bench option",
+              "Ferrari Active Suspension Technology (multimatic 48V active dampers replacing anti-roll bars)",
+              "Transaxle layout with rear-mounted gearbox for 49/51 weight distribution",
+              "Four-wheel steering",
+              "8-speed DCT (AM8) with all gears available in 4WD mode",
+              "Carbon-ceramic brakes standard",
+              "Burmester audio with separate dual-display dashboard"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "7yr/unlimited"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/ferrari-purosangue",
+              "local_path": "images/ferrari/purosangue/purosangue/front_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://cdn.ferrari.com/cms/network/media/img/resize/631b4b3e30c90b54c7788e9a-ferrari-purosangue-intro-cover-mob-new-2?width=768&height=1024",
+              "local_path": "images/ferrari/purosangue/purosangue/rear_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true,
+              "source_tier": 1,
+              "source_domain": "cdn.ferrari.com",
+              "content_type": "image/avif"
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ferrari.com/en-EN/auto/ferrari-purosangue",
+              "local_path": "images/ferrari/purosangue/purosangue/side_profile.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://cdn.ferrari.com/cms/network/media/img/resize/631a088b685bbf716dde7324-ferrari-purosangue-interior-focus-3-new?",
+              "local_path": "images/ferrari/purosangue/purosangue/interior_dashboard.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true,
+              "source_tier": 1,
+              "source_domain": "cdn.ferrari.com",
+              "content_type": "image/avif"
+            }
+          ],
+          "sources": {
+            "msrp_base": null,
+            "powertrain": "https://www.ferrari.com/en-EN/auto/ferrari-purosangue",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49801",
+            "performance.zero_to_60_sec": "https://www.ferrari.com/en-EN/auto/ferrari-purosangue",
+            "dimensions": "https://www.ferrari.com/en-EN/auto/ferrari-purosangue",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/FERRARI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/ferrari",
+            "features": "https://www.ferrari.com/en-EN/auto/ferrari-purosangue",
+            "warranty": "https://www.ferrari.com/en-EN/auto/car-part-services-warranty-maintenance"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base and destination_fee set to null per Ferrari-US no-published-MSRP gap; secondary aggregators commonly quote ~$390,000-$430,000 starting MSRP but these are not primary sources. EPA fueleconomy.gov ID 49801 verified for 2026 Purosangue: 11 city / 15 highway / 12 combined MPG, premium gas, $5,750 annual. Engine: 6,496 cc / 6.5L F140 NA V12, 715 hp / 725 cv at 7,750 rpm, 528 lb-ft / 716 Nm at 6,250 rpm. 0-100 km/h 3.3s (0-60 mph 3.2s commonly cited), top speed >310 km/h (193 mph) per Ferrari. Length 4,973 mm (195.8 in), width 2,028 mm (79.8 in), height 1,589 mm (62.6 in), wheelbase 3,018 mm (118.8 in), dry weight 2,033 kg / 4,482 lb per Ferrari. Trunk volume 473 L = 16.7 cu ft behind 2nd row (cargo behind first row with rear bucket seats folded is published variably and not split out for this body style). Ground clearance ~181 mm (~7.1 in) standard, adjustable via lift system. NHTSA and IIHS have not crash-tested the Purosangue. Body-style mapping: suv-midsize (per Ferrari's positioning and physical dimensions — closest taxonomy match for the 4-door 4-seat performance-SUV segment Ferrari is in despite their marketing avoiding the SUV label). Image URLs are ferrari.com page URLs with needs_scraping: true."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Single-trim model. Body-style mapping: suv-midsize (Ferrari markets it as 'unlike any other' rather than as an SUV, but physical dimensions and 4-door 4-seat configuration map to the suv-midsize bucket in our taxonomy). All images flagged needs_scraping: true. Phase 4 image scrape: persistent low coverage (2.1% as of 2026-05-14) — ferrari.com is JS-rendered and the rendered DOM has no usable <img> candidates (likely shadow-DOM / CSS-background imagery). Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "F80",
+      "model_slug": "f80",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "Type F140TT; unveiled October 17, 2024 as Ferrari's 80th-anniversary halo hypercar. Sixth car in Ferrari's flagship 'Icona' / hypercar lineage that includes GTO (1984), F40 (1987), F50 (1995), Enzo (2002), and LaFerrari (2013). Limited to 799 units; production began late 2025, first US customer deliveries began Q1 2026.",
+      "msrp_range": {
+        "low": 3735000,
+        "high": 3735000
+      },
+      "model_summary": "Mid-rear-engine 2-seat hybrid hypercar producing 1,184 hp from a Le Mans-derived 3.0L twin-turbo V6 paired with three electric motors. Limited to 799 units worldwide, all allocated to existing Ferrari clients. Single-trim US lineup with mandatory 18-month resale-restriction holding period. Production runs 2025-2027.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS and Consumer Reports do not sample halo hypercars like the F80 due to extreme low volume. The F80 is a first-year limited-production design with a Le Mans-derived powertrain, no long-term data available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for limited-run hypercars.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently describe the F80 as a successor to the LaFerrari that prioritizes outright performance and Le-Mans-inspired engineering over emotional V12 character — its 3.0L twin-turbo V6 is closely derived from the Ferrari 499P Le Mans Hypercar. Praise focuses on the 2.15-second 0-100 km/h, sophisticated active aero, butterfly doors, and pure focus. Common critiques are the choice of V6 over a more traditional V12 in a halo car, $3.9M+ price, and an 18-month resale restriction.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/car-news/ferrari-f80-first-look.html",
+            "date": "2024-10-17"
+          },
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/ferrari/f80",
+            "date": "2026-04-08"
+          },
+          {
+            "publication": "Evo",
+            "url": "https://www.evo.co.uk/ferrari/f80",
+            "date": "2026-03-15"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for halo hypercars. The F80 has an 18-month resale-restriction holding period from delivery, so no secondary-market data is available either.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/ferrari/f80/",
+          "https://www.kbb.com/ferrari/f80/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "F80",
+          "trim_slug": "f80",
+          "trim_family": "f80",
+          "is_base_trim": true,
+          "msrp_base": 3735000,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "hybrid",
+            "engine_displacement_l": 3,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 1184,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 627,
+            "transmission": "8-speed dual-clutch automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 2.3,
+            "battery_usable_kwh": null,
+            "electric_range_mi": null,
+            "total_range_mi": null,
+            "dc_fast_charge_peak_kw": null,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": null,
+            "mpge_combined": null,
+            "plug_type": null
+          },
+          "fuel_economy": {
+            "city_mpg": 15,
+            "highway_mpg": 20,
+            "combined_mpg": 17,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4050
+          },
+          "performance": {
+            "zero_to_60_sec": 2,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 217,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 190.6,
+            "width_in": 81.1,
+            "height_in": 44.8,
+            "wheelbase_in": 105.1,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3362,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "285/30 R20 front / 345/30 R21 rear (20\" front / 21\" rear; Michelin Cup 2R)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": false,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": false,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": null,
+            "driver_display_in": 10.25,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": null,
+            "sunroof": "none",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Ferrari's 6th 'Icona' / halo hypercar (after GTO, F40, F50, Enzo, LaFerrari)",
+              "Limited production: 799 units worldwide, all allocated",
+              "18-month post-delivery holding period before resale or re-registration",
+              "Powertrain derived from Ferrari 499P Le Mans Hypercar (3.0L F163CF twin-turbo V6)",
+              "ICE alone: ~900 hp at 8,750 rpm; 3 e-motors add ~282 hp combined (2 front + 1 rear MGU-K)",
+              "800V electrical architecture (Ferrari's first 800V system)",
+              "Butterfly doors with carbon-fiber 'aerodynamic' inserts",
+              "Active aerodynamics: rear wing, S-Duct, active diffuser, T-tray underbody",
+              "Carbon-fiber tub chassis with structural battery integration",
+              "Carbon-ceramic CCM-R Plus brakes; F1-spec brake-by-wire",
+              "Strictly 2-seat, with passenger seat thinner/lower than driver's (a 1+1 layout)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": "8yr/unlimited",
+            "complimentary_maintenance_yr_mi": "7yr/unlimited"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ferrari.com/en-EN/auto/f80",
+              "local_path": "images/ferrari/f80/f80/front_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://cdn.ferrari.com/cms/network/media/img/resize/670d2ead4cfd1f0079c40db2-ferrari-f80-aerodynamics-rear-wing-desk?",
+              "local_path": "images/ferrari/f80/f80/rear_three_quarter.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true,
+              "source_tier": 1,
+              "source_domain": "cdn.ferrari.com",
+              "content_type": "image/avif"
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ferrari.com/en-EN/auto/f80",
+              "local_path": "images/ferrari/f80/f80/side_profile.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://cdn.ferrari.com/cms/network/media/img/resize/670d339e1eb0fa00556718b8-ferrari-f80-interior-intro-desk?",
+              "local_path": "images/ferrari/f80/f80/interior_dashboard.jpg",
+              "credit": "Ferrari S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true,
+              "source_tier": 1,
+              "source_domain": "cdn.ferrari.com",
+              "content_type": "image/avif"
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.caranddriver.com/reviews/a65353224/2026-ferrari-f80-drive/",
+            "powertrain": "https://www.ferrari.com/en-EN/corporate/articles/f80-ferraris-new-supercar-corporate",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50044",
+            "performance.zero_to_60_sec": "https://www.ferrari.com/en-EN/corporate/articles/f80-ferraris-new-supercar-corporate",
+            "dimensions": "https://www.ferrari.com/en-EN/corporate/articles/f80-ferraris-new-supercar-corporate",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/FERRARI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/ferrari",
+            "features": "https://www.ferrari.com/en-EN/corporate/articles/f80-ferraris-new-supercar-corporate",
+            "warranty": "https://www.ferrari.com/en-EN/auto/car-part-services-warranty-maintenance"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base $3,735,000 filled from Car and Driver per §4.6 scoped policy relaxation for ultra-luxury brands with manufacturer non-disclosure (Ferrari does not publish a public US MSRP for the F80 — invite-only / allocation-only halo car). MSRP source: Car and Driver editorial first-drive review (per §4.6 scoped policy; manufacturer does not publish US MSRP). Confidence: medium. Destination fee remains null. Powertrain type set to 'hybrid' (HEV) rather than 'phev' per spec §3.4 enumeration: the F80 has a 2.3 kWh battery and is not plug-in chargeable — Ferrari describes it as a high-voltage mild/full hybrid system inspired by the 499P Le Mans Hypercar (not a PHEV). 800V architecture is novel for Ferrari but does not include external charging in production form — plug_type null, mpge_combined null. EPA fueleconomy.gov ID 50044 verified for 2026 F80: 15 city / 20 highway / 17 combined MPG (premium gas, gas-only operation), $4,050 annual fuel cost. ICE 3.0L F163CF twin-turbo V6 produces ~900 hp at 8,750 rpm and 627 lb-ft / 850 Nm; three e-motors add ~282 hp (2 front-axle MGU-K + 1 rear MGU-K) for 1,184 hp total / 1,200 PS / 882 kW combined per Ferrari. AWD-electric (front motors provide front-axle drive). 0-100 km/h 2.15s, 0-200 km/h 5.75s, top speed 350 km/h (217 mph). Length 4,840 mm (190.6 in), width 2,060 mm (81.1 in), height 1,138 mm (44.8 in), wheelbase 2,670 mm (105.1 in), dry weight 1,525 kg / 3,362 lb per Ferrari. ADAS booleans set to false because the F80 is a stripped track-focused hypercar that does not include conventional driver-assistance features in its standard 1+1 hypercar interior layout. Apple CarPlay / Android Auto / sound system / infotainment fields all set to null/none because the F80 interior is intentionally pared back to a driver-display-only Formula-style cockpit. Trunk volume null (no usable cargo area). NHTSA and IIHS have not crash-tested the F80. Image URLs are ferrari.com page URLs with needs_scraping: true. 18-month resale-restriction holding period required by Ferrari for all 799 buyers."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Limited halo hypercar (799 units worldwide); production began late 2025, first US customer deliveries Q1 2026. Allocation-only — Ferrari has not published a public US MSRP. All 799 units allocated to existing high-profile clients. Body-style mapping: sports-car. All images flagged needs_scraping: true. Phase 4 image scrape: persistent low coverage (2.1% as of 2026-05-14) — ferrari.com is JS-rendered and the rendered DOM has no usable <img> candidates (likely shadow-DOM / CSS-background imagery). Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    }
+  ]
+}

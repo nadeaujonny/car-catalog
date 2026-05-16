@@ -1,0 +1,267 @@
+
+================================================================================
+PAGE: cx-5
+================================================================================
+unique cands: 46
+
+--- UN-matched candidates whose URL contains "/vehicles/" or "/siteassets/" (real assets we missed) ---
+unmatched total: 12
+unmatched vehicle-path: 0
+
+--- Per-slug match counts (ALL slugs at once) ---
+     0 mazda3-sedan
+     0 mazda3-hatchback
+     0 cx-30
+    33 cx-5
+     0 cx-50
+     0 cx-50-hybrid
+     0 cx-70
+     0 cx-70-phev
+     1 cx-90
+     0 cx-90-phev
+     0 mx-5-miata
+     0 mx-5-miata-rf
+
+================================================================================
+PAGE: cx-90
+================================================================================
+unique cands: 122
+
+--- UN-matched candidates whose URL contains "/vehicles/" or "/siteassets/" (real assets we missed) ---
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/build-price-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/dealer-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/request-a-quote-white.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/Mazda-Schedule-a-Drive-w?t=45
+     alt: Mazda Schedule a Drive Mazda Schedule a Drive
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/search-inventory-white.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/special-offers-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/raq-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/mazda-interiorswatch-blackleatherette.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/greige_swatch.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/mazda-interiorswatch-blackleather.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/white-nappa-leather.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/black-nappa-leather.png
+unmatched total: 35
+unmatched vehicle-path: 12
+
+--- Per-slug match counts (ALL slugs at once) ---
+     2 mazda3-sedan
+     1 mazda3-hatchback
+     1 cx-30
+     1 cx-5
+     3 cx-50
+     1 cx-50-hybrid
+     2 cx-70
+     1 cx-70-phev
+    75 cx-90
+     5 cx-90-phev
+     4 mx-5-miata
+     2 mx-5-miata-rf
+
+================================================================================
+PAGE: mazda3-sedan
+================================================================================
+unique cands: 103
+
+--- UN-matched candidates whose URL contains "/vehicles/" or "/siteassets/" (real assets we missed) ---
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/build-price-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/dealer-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/request-a-quote-white.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/Mazda-Schedule-a-Drive-w?t=45
+     alt: Mazda Schedule a Drive Mazda Schedule a Drive
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/search-inventory-white.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/special-offers-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/raq-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/interiorswatch-blackcloth.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/interiorswatch-blackleather.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/greige_swatch.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/red_swatch_v2.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/mazda-interiorswatch-stoneleather.png
+unmatched total: 36
+unmatched vehicle-path: 12
+
+--- Per-slug match counts (ALL slugs at once) ---
+    55 mazda3-sedan
+     1 mazda3-hatchback
+     5 cx-30
+     1 cx-5
+     2 cx-50
+     1 cx-50-hybrid
+     2 cx-70
+     1 cx-70-phev
+     2 cx-90
+     2 cx-90-phev
+     4 mx-5-miata
+     2 mx-5-miata-rf
+
+================================================================================
+PAGE: mazda3-hatchback
+================================================================================
+unique cands: 96
+
+--- UN-matched candidates whose URL contains "/vehicles/" or "/siteassets/" (real assets we missed) ---
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/build-price-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/dealer-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/request-a-quote-white.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/Mazda-Schedule-a-Drive-w?t=45
+     alt: Mazda Schedule a Drive Mazda Schedule a Drive
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/search-inventory-white.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/special-offers-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/raq-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/mazda-interiorswatch-blackcloth.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/interiorswatch-blackleather.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/red_swatch_v2.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/mazda-interiorswatch-blackleather.png
+unmatched total: 35
+unmatched vehicle-path: 11
+
+--- Per-slug match counts (ALL slugs at once) ---
+    49 mazda3-sedan
+    48 mazda3-hatchback
+     1 cx-30
+     1 cx-5
+     2 cx-50
+     1 cx-50-hybrid
+     2 cx-70
+     1 cx-70-phev
+     2 cx-90
+     2 cx-90-phev
+     4 mx-5-miata
+     2 mx-5-miata-rf
+
+================================================================================
+PAGE: mx-5-miata-rf
+================================================================================
+unique cands: 106
+
+--- UN-matched candidates whose URL contains "/vehicles/" or "/siteassets/" (real assets we missed) ---
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/build-price-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/dealer-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/request-a-quote-white.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/Mazda-Schedule-a-Drive-w?t=45
+     alt: Mazda Schedule a Drive Mazda Schedule a Drive
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/search-inventory-white.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/special-offers-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/raq-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/interiorswatch-blackleather.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/mazda-interiorswatch-blackleather.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/my24-mx5-rf-tannappaleather.png
+unmatched total: 32
+unmatched vehicle-path: 10
+
+--- Per-slug match counts (ALL slugs at once) ---
+     2 mazda3-sedan
+     1 mazda3-hatchback
+     1 cx-30
+     1 cx-5
+     2 cx-50
+     1 cx-50-hybrid
+     2 cx-70
+     1 cx-70-phev
+     2 cx-90
+     2 cx-90-phev
+    64 mx-5-miata
+    31 mx-5-miata-rf
+
+================================================================================
+PAGE: cx-50-hybrid
+================================================================================
+unique cands: 107
+
+--- UN-matched candidates whose URL contains "/vehicles/" or "/siteassets/" (real assets we missed) ---
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/build-price-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/dealer-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/request-a-quote-white.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/Mazda-Schedule-a-Drive-w?t=45
+     alt: Mazda Schedule a Drive Mazda Schedule a Drive
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/search-inventory-white.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/special-offers-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/raq-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/mazda-interiorswatch-blackleatherette.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/red_swatch_v2.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/black-nappa-leather.png
+unmatched total: 30
+unmatched vehicle-path: 10
+
+--- Per-slug match counts (ALL slugs at once) ---
+     2 mazda3-sedan
+     1 mazda3-hatchback
+     1 cx-30
+     1 cx-5
+    64 cx-50
+    61 cx-50-hybrid
+     2 cx-70
+     1 cx-70-phev
+     3 cx-90
+     2 cx-90-phev
+     4 mx-5-miata
+     2 mx-5-miata-rf
+
+================================================================================
+PAGE: cx-70-phev
+================================================================================
+unique cands: 86
+
+--- UN-matched candidates whose URL contains "/vehicles/" or "/siteassets/" (real assets we missed) ---
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/build-price-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/dealer-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/request-a-quote-white.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/Mazda-Schedule-a-Drive-w?t=45
+     alt: Mazda Schedule a Drive Mazda Schedule a Drive
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/search-inventory-white.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/special-offers-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/raq-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/mazda-interiorswatch-blackleatherette.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/greige_swatch.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/interiorswatch-blackleather.png
+unmatched total: 31
+unmatched vehicle-path: 10
+
+--- Per-slug match counts (ALL slugs at once) ---
+     2 mazda3-sedan
+     1 mazda3-hatchback
+     1 cx-30
+     3 cx-5
+     3 cx-50
+     1 cx-50-hybrid
+    40 cx-70
+    36 cx-70-phev
+     2 cx-90
+     2 cx-90-phev
+     4 mx-5-miata
+     2 mx-5-miata-rf
+
+================================================================================
+PAGE: cx-90-phev
+================================================================================
+unique cands: 110
+
+--- UN-matched candidates whose URL contains "/vehicles/" or "/siteassets/" (real assets we missed) ---
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/build-price-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/search-inventory-white.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/special-offers-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/Mazda-Schedule-a-Drive-w?t=45
+     alt: Mazda Schedule a Drive Mazda Schedule a Drive
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/request-a-quote-white.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/dealer-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/raq-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/mazda-interiorswatch-blackleather.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/greige_swatch.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/white-nappa-leather.png
+  https://www.mazdausa.com/siteassets/vehicles/interior-swatches/black-nappa-leather.png
+unmatched total: 34
+unmatched vehicle-path: 11
+
+--- Per-slug match counts (ALL slugs at once) ---
+     2 mazda3-sedan
+     1 mazda3-hatchback
+     1 cx-30
+     1 cx-5
+     3 cx-50
+     1 cx-50-hybrid
+     2 cx-70
+     1 cx-70-phev
+    64 cx-90
+    47 cx-90-phev
+     4 mx-5-miata
+     2 mx-5-miata-rf

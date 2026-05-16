@@ -1,0 +1,76 @@
+{
+  "brand_slug": "land-rover",
+  "notes": "landroverusa.com/<lineup>/<model> consumer site. Defender variants (90/110/130/Octa) share base /defender/ tree with sub-pages. Range Rover Sport SV is the high-performance variant of Range Rover Sport. Phase B 2026-05-14: Defender pages now canonicalize to /defender/<model>/index.html (was /defender/<model>.html) - updated. The entire Range Rover lineup migrated to the dedicated rangerover.com/en-us/ site; range-rover, range-rover-sport, range-rover-sport-sv, range-rover-velar, range-rover-evoque updated to their rangerover.com pages and verified OK. discovery-sport moved to /discovery/discovery-sport/index.html (was /discovery-sport/index.html) - updated. discovery unchanged. Session 8 (2026-05-15): added L-chassis-code slug_variants — L460 (Range Rover), L461 (Range Rover Sport + SV), L462 (Discovery), L550 (Discovery Sport), L551 (Evoque), L560 (Velar), L663 (all Defender variants). LRDX CDN uses /lNNN/ path segments and LNNN_ filename prefixes, neither of which match human-readable model slugs.",
+  "model_pages": {
+    "defender-90": "https://www.landroverusa.com/defender/defender-90/index.html",
+    "defender-110": "https://www.landroverusa.com/defender/defender-110/index.html",
+    "defender-130": "https://www.landroverusa.com/defender/defender-130/index.html",
+    "defender-octa": "https://www.landroverusa.com/defender/defender-octa/index.html",
+    "discovery": "https://www.landroverusa.com/discovery/index.html",
+    "discovery-sport": "https://www.landroverusa.com/discovery/discovery-sport/index.html",
+    "range-rover": "https://www.rangerover.com/en-us/range-rover/index.html",
+    "range-rover-sport": "https://www.rangerover.com/en-us/range-rover-sport/index.html",
+    "range-rover-sport-sv": "https://www.rangerover.com/en-us/range-rover-sport/sv.html",
+    "range-rover-velar": "https://www.rangerover.com/en-us/range-rover-velar/index.html",
+    "range-rover-evoque": "https://www.rangerover.com/en-us/range-rover-evoque/index.html"
+  },
+  "slug_variants": {
+    "defender-90": [
+      "defender-90",
+      "defender90",
+      "l663"
+    ],
+    "defender-110": [
+      "defender-110",
+      "defender110",
+      "l663"
+    ],
+    "defender-130": [
+      "defender-130",
+      "defender130",
+      "l663"
+    ],
+    "defender-octa": [
+      "defender-octa",
+      "defenderocta",
+      "l663"
+    ],
+    "discovery": [
+      "discovery",
+      "l462"
+    ],
+    "discovery-sport": [
+      "discovery-sport",
+      "discoverysport",
+      "l550"
+    ],
+    "range-rover": [
+      "range-rover",
+      "rangerover",
+      "l460"
+    ],
+    "range-rover-sport": [
+      "range-rover-sport",
+      "rangerover-sport",
+      "rangeroversport",
+      "l461"
+    ],
+    "range-rover-sport-sv": [
+      "range-rover-sport-sv",
+      "rangerover-sport-sv",
+      "rrs-sv",
+      "l461"
+    ],
+    "range-rover-velar": [
+      "range-rover-velar",
+      "velar",
+      "l560"
+    ],
+    "range-rover-evoque": [
+      "range-rover-evoque",
+      "evoque",
+      "l551"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

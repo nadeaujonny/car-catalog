@@ -1,0 +1,62 @@
+﻿Brand: mini
+Found 38 image entries across 7 models.
+
+[1/38] cooper-hardtop-2-door/cooper-c/front_three_quarter  ok (23043 bytes, image/avif)
+[2/38] cooper-hardtop-2-door/cooper-c/rear_three_quarter  ok (6055 bytes, image/avif)
+[3/38] cooper-hardtop-2-door/cooper-c/side_profile  ok (15552 bytes, image/avif)
+[4/38] cooper-hardtop-2-door/cooper-c/interior_dashboard  ok (16766 bytes, image/avif)
+[5/38] cooper-hardtop-2-door/cooper-s/front_three_quarter  ok (43392 bytes, image/webp)
+[6/38] cooper-hardtop-2-door/cooper-s/rear_three_quarter  ok (9578 bytes, image/avif)
+[7/38] cooper-hardtop-4-door/cooper-c/front_three_quarter  ok (20515 bytes, image/avif)
+[8/38] cooper-hardtop-4-door/cooper-c/rear_three_quarter  ok (154762 bytes, image/png)
+[9/38] cooper-hardtop-4-door/cooper-c/side_profile  ok (83706 bytes, image/webp)
+[10/38] cooper-hardtop-4-door/cooper-c/interior_dashboard  cached (56402 bytes)
+[11/38] cooper-hardtop-4-door/cooper-s/front_three_quarter  ok (25762 bytes, image/avif)
+[12/38] cooper-hardtop-4-door/cooper-s/rear_three_quarter  FAIL (wrong-content-type — content-type text/html)
+[13/38] cooper-convertible/cooper-c-convertible/front_three_quarter  ok (22229 bytes, image/avif)
+[14/38] cooper-convertible/cooper-c-convertible/rear_three_quarter  ok (18846 bytes, image/avif)
+[15/38] cooper-convertible/cooper-c-convertible/side_profile  ok (76048 bytes, image/webp)
+[16/38] cooper-convertible/cooper-c-convertible/interior_dashboard  cached (54020 bytes)
+[17/38] cooper-convertible/cooper-s-convertible/front_three_quarter  ok (9657 bytes, image/avif)
+[18/38] cooper-convertible/cooper-s-convertible/rear_three_quarter  FAIL (wrong-content-type — content-type text/html)
+[19/38] jcw-2-door/jcw-2-door/front_three_quarter  ok (104773 bytes, image/png)
+[20/38] jcw-2-door/jcw-2-door/rear_three_quarter  ok (13054 bytes, image/avif)
+[21/38] jcw-2-door/jcw-2-door/side_profile  ok (40541 bytes, image/avif)
+[22/38] jcw-2-door/jcw-2-door/interior_dashboard  ok (46578 bytes, image/avif)
+[23/38] jcw-convertible/jcw-convertible/front_three_quarter  ok (848113 bytes, image/png)
+[24/38] jcw-convertible/jcw-convertible/rear_three_quarter  ok (41236 bytes, image/webp)
+[25/38] jcw-convertible/jcw-convertible/side_profile  ok (94932 bytes, image/avif)
+[26/38] jcw-convertible/jcw-convertible/interior_dashboard  ok (110975 bytes, image/avif)
+[27/38] countryman/countryman-s-all4/front_three_quarter  ok (23241 bytes, image/avif)
+[28/38] countryman/countryman-s-all4/rear_three_quarter  ok (26113 bytes, image/avif)
+[29/38] countryman/countryman-s-all4/side_profile  ok (45282 bytes, image/webp)
+[30/38] countryman/countryman-s-all4/interior_dashboard  cached (83987 bytes)
+[31/38] countryman/countryman-se-all4/front_three_quarter  ok (23241 bytes, image/avif)
+[32/38] countryman/countryman-se-all4/rear_three_quarter  ok (26113 bytes, image/avif)
+[33/38] countryman/countryman-se-all4/side_profile  ok (45282 bytes, image/webp)
+[34/38] countryman/countryman-se-all4/interior_dashboard  cached (83987 bytes)
+[35/38] jcw-countryman-all4/jcw-countryman-all4/front_three_quarter  ok (848113 bytes, image/png)
+[36/38] jcw-countryman-all4/jcw-countryman-all4/rear_three_quarter  ok (41236 bytes, image/webp)
+[37/38] jcw-countryman-all4/jcw-countryman-all4/side_profile  ok (336775 bytes, image/png)
+[38/38] jcw-countryman-all4/jcw-countryman-all4/interior_dashboard  ok (185019 bytes, image/avif)
+
+Updated catalog/data/mini.json and data/mini.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  mini
+Total images attempted: 38
+Successful:             36 (94.7%)
+Failed:                 2
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 2
+
+Models with zero successful images: 0 of 7
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html)] x2 — e.g. https://www.miniusa.com/model/4-door.html

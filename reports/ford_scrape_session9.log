@@ -1,0 +1,100 @@
+Reset 203 image entries with needs_scraping:true to their model page URLs.
+Brand: ford
+Models in JSON: 22
+Models with page URLs: 21
+Playwright fallback: enabled
+
+Scraping 21 model pages…
+
+  fetch https://www.ford.com/cars/mustang/  …  static ok (2199 raw, 1545 slug-matching)
+  fetch https://www.ford.com/cars/mustang/models/dark-horse/  …  static ok (602 raw, 16 slug-matching)
+  fetch https://www.ford.com/cars/mustang/models/dark-horse-sc/  …  static ok (602 raw, 33 slug-matching)
+  fetch https://www.ford.com/performance/mustang-gtd/  …  static ok (1348 raw, 592 slug-matching)
+  fetch https://www.ford.com/suvs/mach-e/  …  static ok (1736 raw, 816 slug-matching)
+  fetch https://www.ford.com/suvs/mach-e/models/rally/  …  static ok (601 raw, 0 slug-matching)
+    playwright https://www.ford.com/suvs/mach-e/models/rally/  …  FAIL (page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ford.com/suvs/mach-e/models/rally/
+Call log:
+[2m  - navigating to "https://www.ford.com/suvs/mach-e/models/rally/", waiting until "domcontentloaded"[22m
+)
+  fetch https://www.ford.com/suvs/bronco-sport/  …  static ok (1794 raw, 1010 slug-matching)
+  fetch https://www.ford.com/suvs/bronco/  …  static ok (1942 raw, 1200 slug-matching)
+  fetch https://www.ford.com/suvs/bronco/models/raptor/  …  static ok (602 raw, 29 slug-matching)
+  fetch https://www.ford.com/suvs-crossovers/escape/  …  static ok (1434 raw, 112 slug-matching)
+  fetch https://www.ford.com/suvs/explorer/  …  static ok (2177 raw, 285 slug-matching)
+  fetch https://www.ford.com/suvs/expedition/  …  static ok (1642 raw, 175 slug-matching)
+  fetch https://www.ford.com/trucks/maverick/  …  static ok (1465 raw, 360 slug-matching)
+  fetch https://www.ford.com/trucks/ranger/  …  static ok (1465 raw, 77 slug-matching)
+  fetch https://www.ford.com/trucks/ranger/models/raptor/  …  static ok (613 raw, 7 slug-matching)
+  fetch https://www.ford.com/trucks/f150/  …  static ok (1590 raw, 797 slug-matching)
+  fetch https://www.ford.com/trucks/f150/models/raptor/  …  static ok (602 raw, 19 slug-matching)
+  fetch https://www.ford.com/trucks/f150-lightning/  …  static ok (1770 raw, 930 slug-matching)
+  fetch https://www.ford.com/trucks/super-duty/f-250/  …  static ok (2023 raw, 321 slug-matching)
+  fetch https://www.ford.com/trucks/super-duty/f-350/  …  static ok (2023 raw, 502 slug-matching)
+  fetch https://www.ford.com/trucks/super-duty/f-450/  …  static ok (2023 raw, 101 slug-matching)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          ford
+Pages attempted:                21
+Pages failed:                   0
+Pages escalated to Playwright:  1 of 21
+  Playwright successes:         0
+  Playwright failures:          1
+Image entries rewritten:        97
+  via text/URL pattern match:   97
+  via brand-specific angle:     0
+  via positional fallback:      0
+Brand-specific angle matches:   0
+Resolution upgrades:            42 URLs preferred larger variants
+Extension-less URLs accepted:   0 candidate(s) (would have been rejected by old IMG_EXT_RE filter)
+Image entries via ext-less URL: 0
+Image entries unchanged:        106
+
+Sample rewrites:
+  [9.0] mustang/ecoboost-fastback/front_three_quarter
+        → https://www.assets.ford.com/adobe/assets/urn:aaid:aem:14184a9e-a19d-4949-8534-358019c289f0/as/26_frd_mst_tld_17A2998.webp?max-quality=75&crop-names=1_16x9&width=3840
+  [17.0] mustang/ecoboost-fastback/rear_three_quarter
+        → https://www.assets.ford.com/adobe/assets/urn:aaid:aem:f9dc36db-faa7-4bb3-8d82-fbeeb89c1f9f/as/26_frd_mst_tld_17A2621.webp?max-quality=75&crop-names=1_16x9&width=3840
+  [32.0] mustang/ecoboost-fastback/side_profile
+        → https://www.assets.ford.com/adobe/assets/urn:aaid:aem:5f76c0e0-9093-4813-a143-3f3ad7653e6a/as/26_frd_mst_tld_17A2783.webp?max-quality=75&crop-names=1_16x7&width=3840
+  [14.0] mustang/ecoboost-fastback/interior_dashboard
+        → https://www.assets.ford.com/adobe/assets/urn:aaid:aem:24ea3fd4-60a8-48df-bcc2-fb4b6efd911d/as/2025_Mustang_Interior_02.webp?max-quality=75&crop-names=1_2x1&width=1920
+  [9.0] mustang/ecoboost-convertible/front_three_quarter
+        → https://www.assets.ford.com/adobe/assets/urn:aaid:aem:14184a9e-a19d-4949-8534-358019c289f0/as/26_frd_mst_tld_17A2998.webp?max-quality=75&crop-names=1_16x9&width=3840
+  [17.0] mustang/ecoboost-convertible/rear_three_quarter
+        → https://www.assets.ford.com/adobe/assets/urn:aaid:aem:f9dc36db-faa7-4bb3-8d82-fbeeb89c1f9f/as/26_frd_mst_tld_17A2621.webp?max-quality=75&crop-names=1_16x9&width=3840
+  [32.0] mustang/ecoboost-convertible/side_profile
+        → https://www.assets.ford.com/adobe/assets/urn:aaid:aem:5f76c0e0-9093-4813-a143-3f3ad7653e6a/as/26_frd_mst_tld_17A2783.webp?max-quality=75&crop-names=1_16x7&width=3840
+  [14.0] mustang/ecoboost-convertible/interior_dashboard
+        → https://www.assets.ford.com/adobe/assets/urn:aaid:aem:24ea3fd4-60a8-48df-bcc2-fb4b6efd911d/as/2025_Mustang_Interior_02.webp?max-quality=75&crop-names=1_2x1&width=1920
+  [9.0] mustang/gt-fastback/front_three_quarter
+        → https://www.assets.ford.com/adobe/assets/urn:aaid:aem:14184a9e-a19d-4949-8534-358019c289f0/as/26_frd_mst_tld_17A2998.webp?max-quality=75&crop-names=1_16x9&width=3840
+  [17.0] mustang/gt-fastback/rear_three_quarter
+        → https://www.assets.ford.com/adobe/assets/urn:aaid:aem:f9dc36db-faa7-4bb3-8d82-fbeeb89c1f9f/as/26_frd_mst_tld_17A2621.webp?max-quality=75&crop-names=1_16x9&width=3840
+  [32.0] mustang/gt-fastback/side_profile
+        → https://www.assets.ford.com/adobe/assets/urn:aaid:aem:5f76c0e0-9093-4813-a143-3f3ad7653e6a/as/26_frd_mst_tld_17A2783.webp?max-quality=75&crop-names=1_16x7&width=3840
+  [14.0] mustang/gt-fastback/interior_dashboard
+        → https://www.assets.ford.com/adobe/assets/urn:aaid:aem:24ea3fd4-60a8-48df-bcc2-fb4b6efd911d/as/2025_Mustang_Interior_02.webp?max-quality=75&crop-names=1_2x1&width=1920
+
+Models with unresolved angles:
+  mustang: 3 entries  (e.g. ecoboost-premium-fastback/front_three_quarter, ecoboost-premium-convertible/front_three_quarter, gt-premium-fastback/front_three_quarter)
+  mustang-dark-horse: 5 entries  (e.g. dark-horse/front_three_quarter, dark-horse/rear_three_quarter, dark-horse/side_profile)
+  mustang-dark-horse-sc: 4 entries  (e.g. dark-horse-sc/front_three_quarter, dark-horse-sc/rear_three_quarter, dark-horse-sc/side_profile)
+  mustang-mach-e: 3 entries  (e.g. select/side_profile, premium/side_profile, gt/side_profile)
+  mustang-mach-e-rally: 4 entries  (e.g. rally/front_three_quarter, rally/rear_three_quarter, rally/side_profile)
+  bronco-sport: 4 entries  (e.g. big-bend/side_profile, heritage/side_profile, outer-banks/side_profile)
+  bronco-raptor: 4 entries  (e.g. bronco-raptor/front_three_quarter, bronco-raptor/rear_three_quarter, bronco-raptor/side_profile)
+  escape: 13 entries  (e.g. active/rear_three_quarter, active/side_profile, active/interior_dashboard)
+  explorer: 11 entries  (e.g. active/front_three_quarter, active/side_profile, active/interior_dashboard)
+  expedition: 8 entries  (e.g. active/front_three_quarter, active/rear_three_quarter, active/side_profile)
+  maverick: 3 entries  (e.g. xl/side_profile, lobo/side_profile, tremor/side_profile)
+  ranger: 6 entries  (e.g. xl/front_three_quarter, xl/rear_three_quarter, xl/side_profile)
+  ranger-raptor: 4 entries  (e.g. ranger-raptor/front_three_quarter, ranger-raptor/rear_three_quarter, ranger-raptor/side_profile)
+  f-150: 8 entries  (e.g. xl/side_profile, stx/front_three_quarter, xlt/front_three_quarter)
+  f-150-raptor: 4 entries  (e.g. f-150-raptor/front_three_quarter, f-150-raptor/rear_three_quarter, f-150-raptor/side_profile)
+  f-150-raptor-r: 4 entries  (e.g. f-150-raptor-r/front_three_quarter, f-150-raptor-r/rear_three_quarter, f-150-raptor-r/side_profile)
+  f-150-lightning: 3 entries  (e.g. flash/front_three_quarter, lariat/front_three_quarter, platinum/front_three_quarter)
+  f-250-super-duty: 7 entries  (e.g. xl/front_three_quarter, xl/rear_three_quarter, xlt/front_three_quarter)
+  f-350-super-duty: 3 entries  (e.g. xl/rear_three_quarter, xl/side_profile, limited/front_three_quarter)
+  f-450-super-duty: 5 entries  (e.g. xl/front_three_quarter, xl/rear_three_quarter, xl/side_profile)

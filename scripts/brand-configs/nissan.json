@@ -1,0 +1,36 @@
+{
+  "brand_slug": "nissan",
+  "notes": "nissanusa.com/vehicles/<model> consumer site. Z NISMO and Armada NISMO are performance variants with separate pages. Phase B (2026-05-14): z canonicalized to /sports-cars/nissan-z.html (was /sports-cars/z.html, REDIR). z-nismo, armada-nismo, and rogue-plug-in-hybrid old paths 404'd; site moved NISMO variants to /<segment>/<model>/nismo.html and Rogue PHEV to a top-level /crossovers-suvs/rogue-plug-in-hybrid.html page — all three updated and verified OK.",
+  "model_pages": {
+    "sentra": "https://www.nissanusa.com/vehicles/cars/sentra.html",
+    "altima": "https://www.nissanusa.com/vehicles/cars/altima.html",
+    "z": "https://www.nissanusa.com/vehicles/sports-cars/nissan-z.html",
+    "z-nismo": "https://www.nissanusa.com/vehicles/sports-cars/nissan-z/nismo.html",
+    "leaf": "https://www.nissanusa.com/vehicles/electric-cars/leaf.html",
+    "kicks": "https://www.nissanusa.com/vehicles/crossovers-suvs/kicks.html",
+    "rogue": "https://www.nissanusa.com/vehicles/crossovers-suvs/rogue.html",
+    "rogue-plug-in-hybrid": "https://www.nissanusa.com/vehicles/crossovers-suvs/rogue-plug-in-hybrid.html",
+    "murano": "https://www.nissanusa.com/vehicles/crossovers-suvs/murano.html",
+    "pathfinder": "https://www.nissanusa.com/vehicles/crossovers-suvs/pathfinder.html",
+    "armada": "https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html",
+    "armada-nismo": "https://www.nissanusa.com/vehicles/crossovers-suvs/armada/nismo.html",
+    "frontier": "https://www.nissanusa.com/vehicles/trucks/frontier.html"
+  },
+  "slug_variants": {
+    "z-nismo": [
+      "z-nismo",
+      "znismo",
+      "z_nismo"
+    ],
+    "armada-nismo": [
+      "armada-nismo",
+      "armadanismo"
+    ],
+    "rogue-plug-in-hybrid": [
+      "rogue-plug-in-hybrid",
+      "rogue-phev",
+      "rogueplugin"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

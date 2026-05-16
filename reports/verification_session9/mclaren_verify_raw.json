@@ -1,0 +1,73 @@
+{
+  "brand": "McLaren",
+  "brand_slug": "mclaren",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "model_count": 6,
+  "trim_count": 6,
+  "total_images": 24,
+  "needs_scraping": 0,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 11,
+  "warning_count": 0,
+  "fyi_count": 0,
+  "blockers": [
+    {
+      "title": "Forbidden source (wikipedia) in sources map",
+      "where": "models[0].trims[0].sources.dimensions (artura/artura)",
+      "value": "https://en.wikipedia.org/wiki/McLaren_Artura"
+    },
+    {
+      "title": "Forbidden source (wikipedia) in sources map",
+      "where": "models[1].trims[0].sources.dimensions (artura-spider/artura-spider)",
+      "value": "https://en.wikipedia.org/wiki/McLaren_Artura"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[2].trims[0].sources.msrp_base (750s/750s-coupe)",
+      "value": "https://www.hagerty.com/media/new-car-reviews/2024-mclaren-750s-first-drive-supercar-state-of-the-art/"
+    },
+    {
+      "title": "Forbidden source (wikipedia) in sources map",
+      "where": "models[2].trims[0].sources.dimensions (750s/750s-coupe)",
+      "value": "https://en.wikipedia.org/wiki/McLaren_750S"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[3].trims[0].sources.msrp_base (750s-spider/750s-spider)",
+      "value": "https://www.hagerty.com/media/new-car-reviews/2024-mclaren-750s-first-drive-supercar-state-of-the-art/"
+    },
+    {
+      "title": "Forbidden source (wikipedia) in sources map",
+      "where": "models[3].trims[0].sources.dimensions (750s-spider/750s-spider)",
+      "value": "https://en.wikipedia.org/wiki/McLaren_750S"
+    },
+    {
+      "title": "msrp_base is null",
+      "where": "models[4].trims[0] (750s-le-mans-special-edition/750s-le-mans-special-edition)"
+    },
+    {
+      "title": "Forbidden source (wikipedia) in sources map",
+      "where": "models[4].trims[0].sources.dimensions (750s-le-mans-special-edition/750s-le-mans-special-edition)",
+      "value": "https://en.wikipedia.org/wiki/McLaren_750S"
+    },
+    {
+      "title": "Forbidden source (hiconsumption.com) in professional_reviews.links",
+      "where": "models[4].professional_reviews.links[1] (750s-le-mans-special-edition)",
+      "value": "https://hiconsumption.com/motors/mclaren-750s-le-mans-special-edition/",
+      "publication": "Hi Consumption"
+    },
+    {
+      "title": "msrp_base is null",
+      "where": "models[5].trims[0] (gts/gts)"
+    },
+    {
+      "title": "Forbidden source (wikipedia) in sources map",
+      "where": "models[5].trims[0].sources.dimensions (gts/gts)",
+      "value": "https://en.wikipedia.org/wiki/McLaren_GT"
+    }
+  ],
+  "warnings": [],
+  "fyis": []
+}

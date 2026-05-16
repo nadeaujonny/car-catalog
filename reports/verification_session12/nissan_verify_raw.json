@@ -1,0 +1,144 @@
+{
+  "brand": "Nissan",
+  "brand_slug": "nissan",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 13,
+  "trim_count": 48,
+  "total_images": 150,
+  "needs_scraping": 150,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 25,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "sentra/sv",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "sentra/sr",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "sentra/sl",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "z/performance",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "z/performance-heritage-edition",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "leaf/sv-plus",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "leaf/platinum-plus",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "kicks/sv",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "rogue/sv",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "rogue/dark-armor",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "rogue/rock-creek",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "rogue/sl",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "rogue/platinum-awd",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "rogue-plug-in-hybrid/platinum",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "murano/sl",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "murano/platinum",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "pathfinder/sl",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "pathfinder/platinum",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "armada/sl",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "armada/pro-4x",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "armada/platinum",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "armada/platinum-reserve",
+      "value": 6
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "frontier/sv-crew-cab",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "frontier/pro-x",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "frontier/sl",
+      "value": 5
+    }
+  ],
+  "fyis": []
+}

@@ -1,0 +1,76 @@
+{
+  "brand": "Aston Martin",
+  "brand_slug": "aston-martin",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 11,
+  "trim_count": 13,
+  "total_images": 52,
+  "needs_scraping": 52,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 12,
+  "warning_count": 0,
+  "fyi_count": 0,
+  "blockers": [
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[1].trims[0].sources.powertrain (vantage-s/vantage-s-coupe)",
+      "value": "https://www.astonmartin.com/en-us/our-world/news/2025/7/9/aston-martin-vantage-s-the-peak-of-sports-car-performance"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[1].trims[0].sources.performance.zero_to_60_sec (vantage-s/vantage-s-coupe)",
+      "value": "https://www.astonmartin.com/en-us/our-world/news/2025/7/9/aston-martin-vantage-s-the-peak-of-sports-car-performance"
+    },
+    {
+      "title": "msrp_base is null",
+      "where": "models[1].trims[1] (vantage-s/vantage-s-roadster)"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[1].trims[1].sources.powertrain (vantage-s/vantage-s-roadster)",
+      "value": "https://www.astonmartin.com/en-us/our-world/news/2025/7/9/aston-martin-vantage-s-the-peak-of-sports-car-performance"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[4].trims[0].sources.powertrain (db12-s/db12-s-coupe)",
+      "value": "https://www.astonmartin.com/en-us/our-world/news/2025/10/8/aston-martin-db12-s-the-new-pinnacle-of-performance-and-style"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[4].trims[0].sources.performance.zero_to_60_sec (db12-s/db12-s-coupe)",
+      "value": "https://www.astonmartin.com/en-us/our-world/news/2025/10/8/aston-martin-db12-s-the-new-pinnacle-of-performance-and-style"
+    },
+    {
+      "title": "msrp_base is null",
+      "where": "models[4].trims[1] (db12-s/db12-s-volante)"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[4].trims[1].sources.powertrain (db12-s/db12-s-volante)",
+      "value": "https://www.astonmartin.com/en-us/our-world/news/2025/10/8/aston-martin-db12-s-the-new-pinnacle-of-performance-and-style"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[4].trims[1].sources.performance.zero_to_60_sec (db12-s/db12-s-volante)",
+      "value": "https://www.astonmartin.com/en-us/our-world/news/2025/10/8/aston-martin-db12-s-the-new-pinnacle-of-performance-and-style"
+    },
+    {
+      "title": "msrp_base is null",
+      "where": "models[5].trims[0] (db12-volante/db12-volante)"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[9].trims[0].sources.powertrain (dbx-s/dbx-s)",
+      "value": "https://www.astonmartin.com/en-us/our-world/news/2025/4/30/aston-martin-dbx-s-a-new-flagship-for-the-supercar-of-suvs"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[9].trims[0].sources.performance.zero_to_60_sec (dbx-s/dbx-s)",
+      "value": "https://www.astonmartin.com/en-us/our-world/news/2025/4/30/aston-martin-dbx-s-a-new-flagship-for-the-supercar-of-suvs"
+    }
+  ],
+  "warnings": [],
+  "fyis": []
+}

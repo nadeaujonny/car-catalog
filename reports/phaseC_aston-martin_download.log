@@ -1,0 +1,76 @@
+Brand: aston-martin
+Found 52 image entries across 11 models.
+
+[1/52] vantage/vantage-coupe/front_three_quarter  ok (50458 bytes, image/webp)
+[2/52] vantage/vantage-coupe/rear_three_quarter  ok (59394 bytes, image/webp)
+[3/52] vantage/vantage-coupe/side_profile  ok (50166 bytes, image/jpeg)
+[4/52] vantage/vantage-coupe/interior_dashboard  ok (31578 bytes, image/webp)
+[5/52] vantage-s/vantage-s-coupe/front_three_quarter  ok (48544 bytes, image/webp)
+[6/52] vantage-s/vantage-s-coupe/rear_three_quarter  ok (31002 bytes, image/webp)
+[7/52] vantage-s/vantage-s-coupe/side_profile  ok (77188 bytes, image/webp)
+[8/52] vantage-s/vantage-s-coupe/interior_dashboard  ok (329056 bytes, image/webp)
+[9/52] vantage-s/vantage-s-roadster/front_three_quarter  ok (48544 bytes, image/webp)
+[10/52] vantage-s/vantage-s-roadster/rear_three_quarter  ok (31002 bytes, image/webp)
+[11/52] vantage-s/vantage-s-roadster/side_profile  ok (77188 bytes, image/webp)
+[12/52] vantage-s/vantage-s-roadster/interior_dashboard  ok (329056 bytes, image/webp)
+[13/52] vantage-roadster/vantage-roadster/front_three_quarter  ok (45614 bytes, image/webp)
+[14/52] vantage-roadster/vantage-roadster/rear_three_quarter  ok (77674 bytes, image/webp)
+[15/52] vantage-roadster/vantage-roadster/side_profile  ok (66994 bytes, image/webp)
+[16/52] vantage-roadster/vantage-roadster/interior_dashboard  ok (179180 bytes, image/webp)
+[17/52] db12/db12-coupe/front_three_quarter  ok (113916 bytes, image/webp)
+[18/52] db12/db12-coupe/rear_three_quarter  ok (464836 bytes, image/webp)
+[19/52] db12/db12-coupe/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[20/52] db12/db12-coupe/interior_dashboard  ok (224800 bytes, image/jpeg)
+[21/52] db12-s/db12-s-coupe/front_three_quarter  ok (32956 bytes, image/webp)
+[22/52] db12-s/db12-s-coupe/rear_three_quarter  ok (20976 bytes, image/webp)
+[23/52] db12-s/db12-s-coupe/side_profile  ok (17428 bytes, image/webp)
+[24/52] db12-s/db12-s-coupe/interior_dashboard  ok (127852 bytes, image/webp)
+[25/52] db12-s/db12-s-volante/front_three_quarter  ok (32956 bytes, image/webp)
+[26/52] db12-s/db12-s-volante/rear_three_quarter  ok (20976 bytes, image/webp)
+[27/52] db12-s/db12-s-volante/side_profile  ok (17428 bytes, image/webp)
+[28/52] db12-s/db12-s-volante/interior_dashboard  ok (127852 bytes, image/webp)
+[29/52] db12-volante/db12-volante/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[30/52] db12-volante/db12-volante/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[31/52] db12-volante/db12-volante/side_profile  ok (46186 bytes, image/webp)
+[32/52] db12-volante/db12-volante/interior_dashboard  ok (53560 bytes, image/webp)
+[33/52] vanquish/vanquish-coupe/front_three_quarter  ok (29466 bytes, image/webp)
+[34/52] vanquish/vanquish-coupe/rear_three_quarter  ok (72000 bytes, image/webp)
+[35/52] vanquish/vanquish-coupe/side_profile  ok (44188 bytes, image/webp)
+[36/52] vanquish/vanquish-coupe/interior_dashboard  ok (75488 bytes, image/webp)
+[37/52] vanquish-volante/vanquish-volante/front_three_quarter  ok (96280 bytes, image/webp)
+[38/52] vanquish-volante/vanquish-volante/rear_three_quarter  ok (83346 bytes, image/webp)
+[39/52] vanquish-volante/vanquish-volante/side_profile  ok (112271 bytes, image/jpeg)
+[40/52] vanquish-volante/vanquish-volante/interior_dashboard  ok (58854 bytes, image/webp)
+[41/52] dbx707/dbx707/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[42/52] dbx707/dbx707/rear_three_quarter  ok (33728 bytes, image/webp)
+[43/52] dbx707/dbx707/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[44/52] dbx707/dbx707/interior_dashboard  ok (41134 bytes, image/webp)
+[45/52] dbx-s/dbx-s/front_three_quarter  ok (38073 bytes, image/jpeg)
+[46/52] dbx-s/dbx-s/rear_three_quarter  ok (26528 bytes, image/webp)
+[47/52] dbx-s/dbx-s/side_profile  ok (22634 bytes, image/webp)
+[48/52] dbx-s/dbx-s/interior_dashboard  ok (88342 bytes, image/webp)
+[49/52] valhalla/valhalla/front_three_quarter  ok (397636 bytes, image/webp)
+[50/52] valhalla/valhalla/rear_three_quarter  ok (46278 bytes, image/webp)
+[51/52] valhalla/valhalla/side_profile  ok (105972 bytes, image/webp)
+[52/52] valhalla/valhalla/interior_dashboard  ok (292756 bytes, image/webp)
+
+Updated catalog/data/aston-martin.json and data/aston-martin.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  aston-martin
+Total images attempted: 52
+Successful:             47 (90.4%)
+Failed:                 5
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 5
+
+Models with zero successful images: 0 of 11
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html; charset=utf-8)] x5 — e.g. https://www.astonmartin.com/en-us/models/db12

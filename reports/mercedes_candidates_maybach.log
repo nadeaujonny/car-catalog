@@ -1,0 +1,450 @@
+
+========================================
+### model: maybach-s-class
+### page:  https://www.mbusa.com/en/vehicles/class/maybach-s-class/sedan
+### variants for this model: ["maybach-s","maybach_s","maybachs","s580z","s680z"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 22
+Unique by URL: 6
+
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my25/s-class/s-maybach/class-page/series/S_maybach-quote-signature.png
+    alt: 
+MISS: https://www.mbusa.com/etc/designs/mb-nafta/images/blank.gif
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-electric.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-shopping.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-account.jpg
+    alt: background
+
+SUMMARY for maybach-s-class: matched=0, missed=6, total=6
+
+========================================
+### model: maybach-gls
+### page:  https://www.mbusa.com/en/vehicles/class/maybach-gls/suv
+### variants for this model: ["maybach-gls","maybachgls","gls600"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 4
+Unique by URL: 4
+
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-electric.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-shopping.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-account.jpg
+    alt: background
+
+SUMMARY for maybach-gls: matched=0, missed=4, total=4
+
+========================================
+### model: maybach-eqs-suv
+### page:  https://www.mbusa.com/en/vehicles/class/maybach-eqs/suv
+### variants for this model: ["maybach-eqs","maybacheqs","maybach_eqs","eqs680"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 22
+Unique by URL: 6
+
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/class-page/EQS-maybach-quote-signature.png
+    alt: 
+MISS: https://www.mbusa.com/etc/designs/mb-nafta/images/blank.gif
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-electric.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-shopping.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-account.jpg
+    alt: background
+
+SUMMARY for maybach-eqs-suv: matched=0, missed=6, total=6
+
+========================================
+### model: e-class-wagon
+### page:  https://www.mbusa.com/en/vehicles/class/e-class/wagon
+### variants for this model: ["e-class-wagon","e_class_wagon","e-wagon","e53w","e53e4w"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 62
+Unique by URL: 40
+
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MATCH[e-class-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-HC-D.jpg
+    alt: E-Class Wagon
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/chevron-left.png
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/chevron-right.png
+    alt: 
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-EH-1.jpg
+    alt: All-Terrain styling
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/plus.png
+    alt: Expand
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/minus.png
+    alt: Collapse
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-EH-2.jpg
+    alt: Distinctive grille
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-EH-3.jpg
+    alt: LED headlamps and taillamps
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-EH-4.jpg
+    alt: Wheels of substance
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-EH-5.jpg
+    alt: Standard Panorama roof
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/left.png
+    alt: Previous
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/right.png
+    alt: Next
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-IH-1.jpg
+    alt: Intuitive touch controls
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-IH-2.jpg
+    alt: Wraparound cockpit
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-IH-3.jpg
+    alt: Burmester 4D Surround Sound
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-IH-4.jpg
+    alt: Luxurious front cabin
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-IH-5.jpg
+    alt: Flexible rear cabin
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-SH-1.jpg
+    alt: Foresight for reversing
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-SH-2.jpg
+    alt: Overhead overview
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-SH-3.jpg
+    alt: Advanced cruising
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-SH-4.jpg
+    alt: Center air bag
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-TH-1.jpg
+    alt: Artificial intelligence, genuine smarts
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-TH-2.jpg
+    alt: Situational awareness
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-TH-3.jpg
+    alt: Virtual trail guide
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-TH-4.jpg
+    alt: Adaptive air suspension
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-EP-AMG.jpg
+    alt: A plug for performance, a place for everything
+MISS: https://www.mbusa.com/content/dam/mb-nafta/ca/myco/my26/e-class/e-sedan/class-page/series-(ncm)/EP-AMG-FRAME.png
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/discover-section.png
+    alt: 
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-HC-M.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-electric.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-shopping.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-account.jpg
+    alt: background
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-MS-LS-01.jpg
+    alt: background
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-MS-LS-02.jpg
+    alt: background
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-MS-M-01.jpg
+    alt: background
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-MS-M-02.jpg
+    alt: background
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-MS-LS-03.jpg
+    alt: background
+MATCH[e-wagon]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-wagon/class-page/series/2026-E-WAGON-MS-LS-04.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/model-spotlight/model_big_bg.png
+    alt: background
+
+SUMMARY for e-class-wagon: matched=27, missed=13, total=40
+
+========================================
+### model: cle-coupe
+### page:  https://www.mbusa.com/en/vehicles/class/cle/coupe
+### variants for this model: ["cle-coupe","cle_coupe","clecoupe","cle300","cle450","cle53"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 62
+Unique by URL: 39
+
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-HC-D.jpg
+    alt: CLE Coupe
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/chevron-left.png
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/chevron-right.png
+    alt: 
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-EH-1.jpg
+    alt: Standard Panorama roof
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/plus.png
+    alt: Expand
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/minus.png
+    alt: Collapse
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-EH-2.jpg
+    alt: Aerodynamic design
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-EH-3.jpg
+    alt: LED lighting
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-EH-4.jpg
+    alt: Spectrum of choice
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-EH-5.jpg
+    alt: AMG styling
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/left.png
+    alt: Previous
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/right.png
+    alt: Next
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-IH-1.jpg
+    alt: Memorable seating
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-IH-2.jpg
+    alt: Extended welcome
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-IH-3.jpg
+    alt: Finely crafted cabin
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-IH-4.jpg
+    alt: Wireless connections
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-IH-5.jpg
+    alt: Immersive audio
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-SH-1.jpg
+    alt: Center air bag
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-SH-2.jpg
+    alt: Hands-free parking
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-SH-3.jpg
+    alt: Foresight for reversing
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-SH-4.jpg
+    alt: Virtual watchdog
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-TH-1.jpg
+    alt: Digital recognition
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-TH-2.jpg
+    alt: Artificial intelligence, genuine smarts
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-TH-3.jpg
+    alt: Situational awareness
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-TH-4.jpg
+    alt: Dolby Atmos
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-EP-AMG.jpg
+    alt: Muscle on every surface
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/EP-AMG-FRAME.png
+    alt: 
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-HC-M.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-electric.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-shopping.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-account.jpg
+    alt: background
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-MS-LR-001.jpg
+    alt: background
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-MS-LR-004.jpg
+    alt: background
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-MS-M-001.jpg
+    alt: background
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-MS-M-002.jpg
+    alt: background
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-MS-LR-003.jpg
+    alt: background
+MATCH[cle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-MS-LR-002.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/model-spotlight/model_big_bg.png
+    alt: background
+
+SUMMARY for cle-coupe: matched=27, missed=12, total=39
+
+========================================
+### model: gle-coupe
+### page:  https://www.mbusa.com/en/vehicles/class/gle/coupe
+### variants for this model: ["gle-coupe","gle_coupe","gle450c","gle53c"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 53
+Unique by URL: 31
+
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MATCH[gle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-coupe/class-page/series-(ncm)/2026-GLE-COUPE-HC-D.jpg
+    alt: GLE Coupe
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/chevron-left.png
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/chevron-right.png
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/plus.png
+    alt: Expand
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/minus.png
+    alt: Collapse
+MATCH[gle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-coupe/class-page/series-(ncm)/2026-GLE-COUPE-EH-2.jpg
+    alt: Standard AMG styling
+MATCH[gle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-coupe/class-page/series-(ncm)/2026-GLE-COUPE-EH-3.jpg
+    alt: Power Panorama roof
+MATCH[gle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-coupe/class-page/series-(ncm)/2026-GLE-COUPE-EH-4.jpg
+    alt: Illuminated running boards
+MATCH[gle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-coupe/class-page/series-(ncm)/2026-GLE-COUPE-EH-5.jpg
+    alt: MANUFAKTUR paintwork
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/left.png
+    alt: Previous
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/right.png
+    alt: Next
+MATCH[gle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-coupe/class-page/series-(ncm)/2026-GLE-COUPE-IH-1.jpg
+    alt: 64-color ambient lighting
+MATCH[gle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-coupe/class-page/series-(ncm)/2026-GLE-COUPE-IH-2.jpg
+    alt: Heated power front seats
+MATCH[gle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-coupe/class-page/series-(ncm)/2026-GLE-COUPE-IH-3.jpg
+    alt: Spacious cabin, spatial sound
+MATCH[gle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-coupe/class-page/series-(ncm)/2026-GLE-COUPE-IH-4.jpg
+    alt: MANUFAKTUR Nappa leather
+MATCH[gle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-coupe/class-page/series-(ncm)/2026-GLE-COUPE-SH-1.jpg
+    alt: Blind Spot Assist with Exit Warning
+MATCH[gle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-coupe/class-page/series-(ncm)/2026-GLE-COUPE-SH-2.jpg
+    alt: Proactive safety
+MATCH[gle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-coupe/class-page/series-(ncm)/2026-GLE-COUPE-SH-3.jpg
+    alt: Surround View and Parking Assist
+MATCH[gle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-coupe/class-page/series-(ncm)/2026-GLE-COUPE-SH-4.jpg
+    alt: GUARD 360° security
+MATCH[gle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-coupe/class-page/series-(ncm)/2026-GLE-COUPE-TH-1.jpg
+    alt: Intelligent cockpit assistant
+MATCH[gle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-coupe/class-page/series-(ncm)/2026-GLE-COUPE-TH-2.jpg
+    alt: Dual digital displays
+MATCH[gle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-coupe/class-page/series-(ncm)/2026-GLE-COUPE-TH-3.jpg
+    alt: Wireless smartphone integration
+MATCH[gle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-coupe/class-page/series-(ncm)/2026-GLE-COUPE-TH-4.jpg
+    alt: AIRMATIC® suspension
+MATCH[gle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-coupe/class-page/series-(ncm)/2026-GLE-COUPE-EP-AMG.jpg
+    alt: Brute finesse
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/foreground-20241118-154111.png
+    alt: 
+MATCH[gle-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-coupe/class-page/series-(ncm)/2026-GLE-COUPE-HC-M.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-electric.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-shopping.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-account.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/model-spotlight/model_big_bg.png
+    alt: background
+
+SUMMARY for gle-coupe: matched=19, missed=12, total=31
+
+========================================
+### model: glc-coupe
+### page:  https://www.mbusa.com/en/vehicles/class/glc/coupe
+### variants for this model: ["glc-coupe","glc_coupe","glc300c","glc43"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 55
+Unique by URL: 33
+
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-HC-D.jpg
+    alt: GLC Coupe
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/chevron-left.png
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/chevron-right.png
+    alt: 
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-EH-1.jpg
+    alt: Power Panorama roof
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/plus.png
+    alt: Expand
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/minus.png
+    alt: Collapse
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-EH-2.jpg
+    alt: Star-pattern grille
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-EH-3.jpg
+    alt: AMG Line and Night Package
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-EH-4.jpg
+    alt: Eleven shades of sporty
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-EH-5.jpg
+    alt: LED headlamps and taillamps
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/left.png
+    alt: Previous
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/right.png
+    alt: Next
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-IH-1.jpg
+    alt: Standard MB Navigation
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-IH-2.jpg
+    alt: Enhanced ambient lighting
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-IH-3.jpg
+    alt: Variety of cabin trims
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-IH-4.jpg
+    alt: Heated power front seats
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-IH-5.jpg
+    alt: Fingerprint recognition
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-SH-1.jpg
+    alt: Surround-view cameras
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-SH-2.jpg
+    alt: Security when you&#39;re away
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-SH-3.jpg
+    alt: New center air bag
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-SH-4.jpg
+    alt: Exit Warning Assist
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-TH-1.jpg
+    alt: 3rd-gen Mercedes-Benz User Experience
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-TH-2.jpg
+    alt: New routines feature
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-TH-3.jpg
+    alt: Digital vehicle key
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-TH-4.jpg
+    alt: Virtual view of terrain
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-SUV-EP-AMG.jpg
+    alt: Hand-built heart, track-born tenacity.
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/foreground-20241118-154111.png
+    alt: 
+MATCH[glc-coupe]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glc-class/glc-coupe/class-page/series-(ncm)/2026-GLC-COUPE-HC-M.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-electric.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-shopping.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-account.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/model-spotlight/model_big_bg.png
+    alt: background
+
+SUMMARY for glc-coupe: matched=21, missed=12, total=33
+
+========================================
+### model: amg-gt-coupe
+### page:  https://www.mbusa.com/en/vehicles/class/amg-gt-2-door/mercedes-amg-gt-2-door-coupe
+### variants for this model: ["amg-gt","amggt","gt55","gt63"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 38
+Unique by URL: 5
+
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MISS: https://www.mbusa.com/etc/designs/mb-nafta/images/blank.gif
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-electric.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-shopping.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-account.jpg
+    alt: background
+
+SUMMARY for amg-gt-coupe: matched=0, missed=5, total=5
+
+========================================
+### model: amg-gt-4-door-coupe
+### page:  https://www.mbusa.com/en/vehicles/class/amg-gt-4-door/mercedes-amg-gt-4-door-coupe
+### variants for this model: ["amg-gt-4door","amggt4door","gt43c4","gt55c4","gt63c4","gt4door"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 28
+Unique by URL: 7
+
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-4-dr/class-page/amg/2026-AMG-GT-4DR-COUPE-CH-1-1-DR.jpg
+    alt: 2026-AMG-GT-4DR-COUPE-CH-1-1-DR.jpg
+MISS: https://www.mbusa.com/etc/designs/mb-nafta/images/blank.gif
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-4-dr/class-page/amg/2026-AMG-GT-4DR-COUPE-CH-1-1-MR.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-electric.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-shopping.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-account.jpg
+    alt: background
+
+SUMMARY for amg-gt-4-door-coupe: matched=0, missed=7, total=7

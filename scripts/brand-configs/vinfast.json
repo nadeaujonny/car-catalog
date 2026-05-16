@@ -1,0 +1,13 @@
+{
+  "brand_slug": "vinfast",
+  "notes": "vinfastauto.us US consumer site. Both currently-sold US models are BEV (VF 8 MY2025, VF 9 MY2024 — verify if MY2025 has shipped). All US-sold VinFast units are Hai Phong (Vietnam) assembled; Chatham County NC plant pushed to 2028 SOP. VF 7 and VF 6 are out of scope (not yet launched US). Brand specs reference 'static-cms-prod.vinfastauto.us' for PDFs and serves images via the same CMS domain.",
+  "model_pages": {
+    "vf-8": "https://vinfastauto.us/vehicles/vf-8",
+    "vf-9": "https://vinfastauto.us/vehicles/vf-9"
+  },
+  "slug_variants": {
+    "vf-8": ["vf-8", "vf_8", "vf8", "vf-8-eco", "vf-8-plus"],
+    "vf-9": ["vf-9", "vf_9", "vf9", "vf-9-eco", "vf-9-plus"]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

@@ -1,0 +1,123 @@
+{
+  "brand": "Mitsubishi",
+  "brand_slug": "mitsubishi",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "model_count": 4,
+  "trim_count": 24,
+  "total_images": 96,
+  "needs_scraping": 96,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 19,
+  "fyi_count": 2,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "outlander/le-fwd",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "outlander/se-fwd",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "outlander/sel-fwd",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "outlander/ralliart-s-awc",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "outlander/trail-edition-s-awc",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "outlander/black-edition-s-awc",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "outlander-phev/se-s-awc",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "outlander-phev/sel-s-awc",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "outlander-phev/black-edition-s-awc",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "outlander-sport/es",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "outlander-sport/le",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "outlander-sport/se",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "outlander-sport/ralliart",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "outlander-sport/trail-edition",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "eclipse-cross/le",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "eclipse-cross/se",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "eclipse-cross/ralliart",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "eclipse-cross/black-edition",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "eclipse-cross/sel",
+      "value": 4
+    }
+  ],
+  "fyis": [
+    {
+      "title": "Null msrp_base — ultra-luxury non-disclosure (documented in notes)",
+      "where": "models[1].trims[1] (outlander-phev/se-s-awc)"
+    },
+    {
+      "title": "Null msrp_base — ultra-luxury non-disclosure (documented in notes)",
+      "where": "models[1].trims[2] (outlander-phev/sel-s-awc)"
+    }
+  ]
+}

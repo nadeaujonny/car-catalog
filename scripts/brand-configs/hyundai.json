@@ -1,0 +1,63 @@
+{
+  "brand_slug": "hyundai",
+  "notes": "hyundaiusa.com/us/en/vehicles/<model> consumer site. EV performance variants (Ioniq 5 N, Ioniq 6 N) have separate pages. Nexo is fuel cell — limited California-only availability. Session B (2026-05-14): the 2026 Nexo is a full redesign whose consumer page is not yet live — hyundaiusa.com/us/en/vehicles/nexo currently 302s to the homepage. nexo repointed to Hyundai's own press site (hyundainews.com) 2026 Nexo overview page; revisit once the consumer page launches.\n\nPhase-3 image-scrape (2026-05-14 session 6): hyundai sits at 0% coverage and the diagnosis is structural, not a slug-variant gap. Slug-matching is healthy (tucson 45/56, elantra 21/32, ioniq-5 33/48, santa-fe 41/52 candidates contain the model slug). The failure mode is the angle-pattern stage in pickBestForAngle: Hyundai's scene7 URLs name images by internal numeric codes (2025-tucson-nx4-0272, 2026-ioniq-5-0901, 2024-santa-fe-mx5-0147, …), section labels (vlp-hero, media-slider, vert-tabs, vertical-tabs), or feature names (bluelink, digital-key, wifi-hotspot) — they NEVER carry an English angle word (front / rear / side / profile / interior / dashboard / cockpit). Alt text is uniformly the literal string \"placeholder\" or empty. So the angle regexes in scrape_image_urls.mjs match zero candidates and 0 images are written even though the slug filter accepts dozens per page. Genesis works on the same s7d1.scene7.com/is/image/hyundai/ CDN because Genesis's filenames carry descriptive English (\"front-driver-angle-studio\", \"profile-passenger-studio\"); Hyundai's consumer site does not.\n\nConfig-only escape hatches are not available — neither slug_variants nor path_blacklist_regex can drive an angle match. Fixing hyundai requires either (a) a per-brand angle-pattern injector in the shared script, (b) an `angle_url_patterns` brand-config key, or (c) accepting low/zero coverage. Path_blacklist tightened in this session to drop the obvious junk classes (future-vehicles concept teasers, hyundai-home solar panels, dkey2touch / digital-key feature shots) so the signal-to-noise improves for any follow-up; this does not lift coverage on its own. See reports/hyundai_phase3_investigation.md.",
+  "model_pages": {
+    "venue": "https://www.hyundaiusa.com/us/en/vehicles/venue",
+    "elantra": "https://www.hyundaiusa.com/us/en/vehicles/elantra",
+    "elantra-n": "https://www.hyundaiusa.com/us/en/vehicles/elantra-n",
+    "sonata": "https://www.hyundaiusa.com/us/en/vehicles/sonata",
+    "kona": "https://www.hyundaiusa.com/us/en/vehicles/kona",
+    "tucson": "https://www.hyundaiusa.com/us/en/vehicles/tucson",
+    "santa-cruz": "https://www.hyundaiusa.com/us/en/vehicles/santa-cruz",
+    "santa-fe": "https://www.hyundaiusa.com/us/en/vehicles/santa-fe",
+    "palisade": "https://www.hyundaiusa.com/us/en/vehicles/palisade",
+    "ioniq-5": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-5",
+    "ioniq-5-n": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-5-n",
+    "ioniq-6-n": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-6-n",
+    "ioniq-9": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-9",
+    "nexo": "https://www.hyundainews.com/models/hyundai-nexo-2026-nexo/overview"
+  },
+  "slug_variants": {
+    "elantra-n": [
+      "elantra-n",
+      "elantran"
+    ],
+    "santa-cruz": [
+      "santa-cruz",
+      "santacruz",
+      "santa_cruz"
+    ],
+    "santa-fe": [
+      "santa-fe",
+      "santafe",
+      "santa_fe"
+    ],
+    "ioniq-5": [
+      "ioniq-5",
+      "ioniq5"
+    ],
+    "ioniq-5-n": [
+      "ioniq-5-n",
+      "ioniq5n",
+      "ioniq-5n"
+    ],
+    "ioniq-6-n": [
+      "ioniq-6-n",
+      "ioniq6n",
+      "ioniq-6n"
+    ],
+    "ioniq-9": [
+      "ioniq-9",
+      "ioniq9"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb|future-vehicles|hyundai-home|home-solar|solar-panels|dkey2touch|digital-key|wifi-hotspot|crater-concept|boulder-mountain|cpo)",
+  "angle_url_patterns": {
+    "front_three_quarter": [
+      "(?<!(?:ev|hev)-)vlp-hero"
+    ],
+    "side_profile": [
+      "(?:^|[-/])(?:ev|hev)-vlp-hero"
+    ]
+  }
+}

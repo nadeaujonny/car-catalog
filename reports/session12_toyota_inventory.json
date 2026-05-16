@@ -1,0 +1,1196 @@
+[
+  {
+    "model": "corolla",
+    "body": "sedan",
+    "totalTrims": 8,
+    "totalImages": 13,
+    "blockers": [
+      "se",
+      "hybrid-xle"
+    ],
+    "families": [
+      {
+        "family": "le-ice",
+        "trims": [
+          {
+            "slug": "le",
+            "images": 4,
+            "isBase": true
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "se-ice",
+        "trims": [
+          {
+            "slug": "se",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "xse-ice",
+        "trims": [
+          {
+            "slug": "xse",
+            "images": 4,
+            "isBase": false
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "le-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-le",
+            "images": 4,
+            "isBase": true
+          },
+          {
+            "slug": "hybrid-le-awd",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "se-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-se",
+            "images": 0,
+            "isBase": false
+          },
+          {
+            "slug": "hybrid-se-awd",
+            "images": 1,
+            "isBase": false
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "xle-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-xle",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      }
+    ]
+  },
+  {
+    "model": "corolla-cross",
+    "body": "suv-compact",
+    "totalTrims": 6,
+    "totalImages": 8,
+    "blockers": [
+      "le",
+      "hybrid-se",
+      "hybrid-xse"
+    ],
+    "families": [
+      {
+        "family": "l-ice",
+        "trims": [
+          {
+            "slug": "l",
+            "images": 2,
+            "isBase": true
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "le-ice",
+        "trims": [
+          {
+            "slug": "le",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "xle-ice",
+        "trims": [
+          {
+            "slug": "xle",
+            "images": 3,
+            "isBase": false
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "s-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-s",
+            "images": 3,
+            "isBase": true
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "se-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-se",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "xse-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-xse",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      }
+    ]
+  },
+  {
+    "model": "corolla-hatchback",
+    "body": "hatchback",
+    "totalTrims": 3,
+    "totalImages": 5,
+    "blockers": [
+      "xse"
+    ],
+    "families": [
+      {
+        "family": "se",
+        "trims": [
+          {
+            "slug": "se",
+            "images": 4,
+            "isBase": true
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "fx",
+        "trims": [
+          {
+            "slug": "fx-edition",
+            "images": 1,
+            "isBase": false
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "xse",
+        "trims": [
+          {
+            "slug": "xse",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      }
+    ]
+  },
+  {
+    "model": "gr-corolla",
+    "body": "hatchback",
+    "totalTrims": 2,
+    "totalImages": 1,
+    "blockers": [
+      "premium-plus"
+    ],
+    "families": [
+      {
+        "family": "core",
+        "trims": [
+          {
+            "slug": "core",
+            "images": 1,
+            "isBase": true
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "premium-plus",
+        "trims": [
+          {
+            "slug": "premium-plus",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      }
+    ]
+  },
+  {
+    "model": "gr-supra",
+    "body": "sports-car",
+    "totalTrims": 3,
+    "totalImages": 1,
+    "blockers": [
+      "3-0-premium",
+      "mkv-final-edition"
+    ],
+    "families": [
+      {
+        "family": "3-0",
+        "trims": [
+          {
+            "slug": "3-0",
+            "images": 1,
+            "isBase": true
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "3-0-premium",
+        "trims": [
+          {
+            "slug": "3-0-premium",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "mkv-final-edition",
+        "trims": [
+          {
+            "slug": "mkv-final-edition",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      }
+    ]
+  },
+  {
+    "model": "gr86",
+    "body": "sports-car",
+    "totalTrims": 3,
+    "totalImages": 1,
+    "blockers": [
+      "premium",
+      "yuzu-edition"
+    ],
+    "families": [
+      {
+        "family": "base",
+        "trims": [
+          {
+            "slug": "base",
+            "images": 1,
+            "isBase": true
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "premium",
+        "trims": [
+          {
+            "slug": "premium",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "yuzu",
+        "trims": [
+          {
+            "slug": "yuzu-edition",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      }
+    ]
+  },
+  {
+    "model": "grand-highlander",
+    "body": "suv-3row",
+    "totalTrims": 11,
+    "totalImages": 3,
+    "blockers": [
+      "xle",
+      "limited",
+      "platinum",
+      "hybrid-xle",
+      "hybrid-limited",
+      "hybrid-nightshade",
+      "hybrid-platinum",
+      "hybrid-max-platinum"
+    ],
+    "families": [
+      {
+        "family": "le-ice",
+        "trims": [
+          {
+            "slug": "le",
+            "images": 1,
+            "isBase": true
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "xle-ice",
+        "trims": [
+          {
+            "slug": "xle",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "limited-ice",
+        "trims": [
+          {
+            "slug": "limited",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "platinum-ice",
+        "trims": [
+          {
+            "slug": "platinum",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "le-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-le",
+            "images": 1,
+            "isBase": true
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "xle-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-xle",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "limited-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-limited",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "nightshade-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-nightshade",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "platinum-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-platinum",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "limited-hybrid-max",
+        "trims": [
+          {
+            "slug": "hybrid-max-limited",
+            "images": 1,
+            "isBase": true
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "platinum-hybrid-max",
+        "trims": [
+          {
+            "slug": "hybrid-max-platinum",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      }
+    ]
+  },
+  {
+    "model": "highlander",
+    "body": "suv-3row",
+    "totalTrims": 7,
+    "totalImages": 7,
+    "blockers": [
+      "hybrid-limited",
+      "hybrid-platinum"
+    ],
+    "families": [
+      {
+        "family": "xle-ice",
+        "trims": [
+          {
+            "slug": "xle",
+            "images": 2,
+            "isBase": true
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "xse-ice",
+        "trims": [
+          {
+            "slug": "xse",
+            "images": 1,
+            "isBase": false
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "limited-ice",
+        "trims": [
+          {
+            "slug": "limited",
+            "images": 1,
+            "isBase": false
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "platinum-ice",
+        "trims": [
+          {
+            "slug": "platinum",
+            "images": 1,
+            "isBase": false
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "xle-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-xle",
+            "images": 2,
+            "isBase": true
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "limited-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-limited",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "platinum-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-platinum",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      }
+    ]
+  },
+  {
+    "model": "land-cruiser",
+    "body": "suv-midsize",
+    "totalTrims": 2,
+    "totalImages": 1,
+    "blockers": [
+      "land-cruiser"
+    ],
+    "families": [
+      {
+        "family": "1958",
+        "trims": [
+          {
+            "slug": "1958",
+            "images": 1,
+            "isBase": true
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "land-cruiser",
+        "trims": [
+          {
+            "slug": "land-cruiser",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      }
+    ]
+  },
+  {
+    "model": "prius",
+    "body": "hatchback",
+    "totalTrims": 9,
+    "totalImages": 18,
+    "blockers": [
+      "phev-xse"
+    ],
+    "families": [
+      {
+        "family": "le-hybrid",
+        "trims": [
+          {
+            "slug": "le",
+            "images": 4,
+            "isBase": true
+          },
+          {
+            "slug": "le-awd",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "xle-hybrid",
+        "trims": [
+          {
+            "slug": "xle",
+            "images": 1,
+            "isBase": false
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "nightshade-hybrid",
+        "trims": [
+          {
+            "slug": "nightshade",
+            "images": 4,
+            "isBase": false
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "limited-hybrid",
+        "trims": [
+          {
+            "slug": "limited",
+            "images": 1,
+            "isBase": false
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "se-phev",
+        "trims": [
+          {
+            "slug": "phev-se",
+            "images": 4,
+            "isBase": true
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "xse-phev",
+        "trims": [
+          {
+            "slug": "phev-xse",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "nightshade-phev",
+        "trims": [
+          {
+            "slug": "phev-nightshade",
+            "images": 3,
+            "isBase": false
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "xse-premium-phev",
+        "trims": [
+          {
+            "slug": "phev-xse-premium",
+            "images": 1,
+            "isBase": false
+          }
+        ],
+        "isBlocker": false
+      }
+    ]
+  },
+  {
+    "model": "rav4",
+    "body": "suv-compact",
+    "totalTrims": 11,
+    "totalImages": 4,
+    "blockers": [
+      "hybrid-se",
+      "hybrid-xle-premium",
+      "hybrid-xse-awd",
+      "phev-se-awd",
+      "phev-xse-awd",
+      "phev-woodland-awd"
+    ],
+    "families": [
+      {
+        "family": "le-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-le",
+            "images": 1,
+            "isBase": true
+          },
+          {
+            "slug": "hybrid-le-awd",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "se-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-se",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "xle-premium-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-xle-premium",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "xse-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-xse-awd",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "limited-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-limited-awd",
+            "images": 1,
+            "isBase": false
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "woodland-hybrid",
+        "trims": [
+          {
+            "slug": "hybrid-woodland-awd",
+            "images": 1,
+            "isBase": false
+          }
+        ],
+        "isBlocker": false
+      },
+      {
+        "family": "se-phev",
+        "trims": [
+          {
+            "slug": "phev-se-awd",
+            "images": 0,
+            "isBase": true
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "xse-phev",
+        "trims": [
+          {
+            "slug": "phev-xse-awd",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "woodland-phev",
+        "trims": [
+          {
+            "slug": "phev-woodland-awd",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "gr-sport-phev",
+        "trims": [
+          {
+            "slug": "phev-gr-sport-awd",
+            "images": 1,
+            "isBase": false
+          }
+        ],
+        "isBlocker": false
+      }
+    ]
+  },
+  {
+    "model": "sequoia",
+    "body": "suv-full-size",
+    "totalTrims": 6,
+    "totalImages": 0,
+    "blockers": [
+      "sr5",
+      "limited",
+      "trd-pro",
+      "1794",
+      "platinum",
+      "capstone"
+    ],
+    "families": [
+      {
+        "family": "sr5",
+        "trims": [
+          {
+            "slug": "sr5",
+            "images": 0,
+            "isBase": true
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "limited",
+        "trims": [
+          {
+            "slug": "limited",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "trd-pro",
+        "trims": [
+          {
+            "slug": "trd-pro",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "1794",
+        "trims": [
+          {
+            "slug": "1794",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "platinum",
+        "trims": [
+          {
+            "slug": "platinum",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "capstone",
+        "trims": [
+          {
+            "slug": "capstone",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      }
+    ]
+  },
+  {
+    "model": "sienna",
+    "body": "minivan",
+    "totalTrims": 6,
+    "totalImages": 0,
+    "blockers": [
+      "le",
+      "xle",
+      "xse",
+      "woodland",
+      "limited",
+      "platinum"
+    ],
+    "families": [
+      {
+        "family": "le",
+        "trims": [
+          {
+            "slug": "le",
+            "images": 0,
+            "isBase": true
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "xle",
+        "trims": [
+          {
+            "slug": "xle",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "xse",
+        "trims": [
+          {
+            "slug": "xse",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "woodland",
+        "trims": [
+          {
+            "slug": "woodland",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "limited",
+        "trims": [
+          {
+            "slug": "limited",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "platinum",
+        "trims": [
+          {
+            "slug": "platinum",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      }
+    ]
+  },
+  {
+    "model": "tacoma",
+    "body": "pickup-midsize",
+    "totalTrims": 8,
+    "totalImages": 0,
+    "blockers": [
+      "sr",
+      "sr5",
+      "trd-prerunner",
+      "trd-sport",
+      "trd-off-road",
+      "limited",
+      "trailhunter",
+      "trd-pro"
+    ],
+    "families": [
+      {
+        "family": "sr-ice",
+        "trims": [
+          {
+            "slug": "sr",
+            "images": 0,
+            "isBase": true
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "sr5-ice",
+        "trims": [
+          {
+            "slug": "sr5",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "trd-prerunner-ice",
+        "trims": [
+          {
+            "slug": "trd-prerunner",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "trd-sport-ice",
+        "trims": [
+          {
+            "slug": "trd-sport",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "trd-offroad-ice",
+        "trims": [
+          {
+            "slug": "trd-off-road",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "limited-ice",
+        "trims": [
+          {
+            "slug": "limited",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "trailhunter-hybrid",
+        "trims": [
+          {
+            "slug": "trailhunter",
+            "images": 0,
+            "isBase": true
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "trd-pro-hybrid",
+        "trims": [
+          {
+            "slug": "trd-pro",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      }
+    ]
+  },
+  {
+    "model": "tundra",
+    "body": "pickup-full-size",
+    "totalTrims": 7,
+    "totalImages": 0,
+    "blockers": [
+      "sr",
+      "sr5",
+      "limited",
+      "platinum",
+      "1794",
+      "trd-pro",
+      "capstone"
+    ],
+    "families": [
+      {
+        "family": "sr-ice",
+        "trims": [
+          {
+            "slug": "sr",
+            "images": 0,
+            "isBase": true
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "sr5-ice",
+        "trims": [
+          {
+            "slug": "sr5",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "limited-ice",
+        "trims": [
+          {
+            "slug": "limited",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "platinum-ice",
+        "trims": [
+          {
+            "slug": "platinum",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "1794-ice",
+        "trims": [
+          {
+            "slug": "1794",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "trd-pro-hybrid",
+        "trims": [
+          {
+            "slug": "trd-pro",
+            "images": 0,
+            "isBase": true
+          }
+        ],
+        "isBlocker": true
+      },
+      {
+        "family": "capstone-hybrid",
+        "trims": [
+          {
+            "slug": "capstone",
+            "images": 0,
+            "isBase": false
+          }
+        ],
+        "isBlocker": true
+      }
+    ]
+  }
+]

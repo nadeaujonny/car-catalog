@@ -1,0 +1,62 @@
+Reset 48 image entries with needs_scraping:true to their model page URLs.
+Brand: maserati
+Models in JSON: 6
+Models with page URLs: 6
+Playwright fallback: enabled
+
+Scraping 6 model pages…
+
+  fetch https://www.maserati.com/us/en/models/grecale  …  static ok (243 raw candidates)
+  fetch https://www.maserati.com/us/en/models/granturismo  …  static ok (251 raw candidates)
+  fetch https://www.maserati.com/us/en/models/grancabrio  …  static ok (251 raw candidates)
+  fetch https://www.maserati.com/us/en/models/mcpura  …  static ok (230 raw candidates)
+  fetch https://www.maserati.com/us/en/models/mcpura-cielo  …  static ok (258 raw candidates)
+  fetch https://www.maserati.com/us/en/models/gt2-stradale  …  static ok (251 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          maserati
+Pages attempted:                6
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 6
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        27
+  via text/URL pattern match:   27
+  via positional fallback:      0
+Image entries unchanged:        21
+
+Sample rewrites:
+  [7.4] grecale/modena-v6/front_three_quarter
+        → https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/grecale/model-pages/trofeo/grecale-trofeo-running-front-left-view-desktop.jpg?$1920x2000$&fit=constrain
+  [6.9] grecale/modena-v6/side_profile
+        → https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/grecale/model-pages/modena/grecale-modena-blue-on-street-right-side-view-desktop.jpg?$1800x2000$&fit=constrain
+  [7.4] grecale/trofeo/front_three_quarter
+        → https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/grecale/model-pages/trofeo/grecale-trofeo-running-front-left-view-desktop.jpg?$1920x2000$&fit=constrain
+  [6.9] grecale/trofeo/side_profile
+        → https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/grecale/model-pages/modena/grecale-modena-blue-on-street-right-side-view-desktop.jpg?$1800x2000$&fit=constrain
+  [7.4] grecale/folgore/front_three_quarter
+        → https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/grecale/model-pages/trofeo/grecale-trofeo-running-front-left-view-desktop.jpg?$1920x2000$&fit=constrain
+  [6.9] grecale/folgore/side_profile
+        → https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/grecale/model-pages/modena/grecale-modena-blue-on-street-right-side-view-desktop.jpg?$1800x2000$&fit=constrain
+  [6.9] granturismo/modena/front_three_quarter
+        → https://maserati.scene7.com/is/image/maserati/maserati/worldwide/menu/desktop/ownership/granturismo-front-detail-ownership-background.jpg?$1800x2000$&fit=constrain
+  [7.2] granturismo/modena/side_profile
+        → https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/granturismo/model-pages/granturismo-red-left-side-view-desktop.jpg
+  [6.9] granturismo/trofeo/front_three_quarter
+        → https://maserati.scene7.com/is/image/maserati/maserati/worldwide/menu/desktop/ownership/granturismo-front-detail-ownership-background.jpg?$1800x2000$&fit=constrain
+  [7.2] granturismo/trofeo/side_profile
+        → https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/granturismo/model-pages/granturismo-red-left-side-view-desktop.jpg
+  [6.9] granturismo/folgore/front_three_quarter
+        → https://maserati.scene7.com/is/image/maserati/maserati/worldwide/menu/desktop/ownership/granturismo-front-detail-ownership-background.jpg?$1800x2000$&fit=constrain
+  [7.2] granturismo/folgore/side_profile
+        → https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/granturismo/model-pages/granturismo-red-left-side-view-desktop.jpg
+
+Models with unresolved angles:
+  grecale: 6 entries  (e.g. modena-v6/rear_three_quarter, modena-v6/interior_dashboard, trofeo/rear_three_quarter)
+  granturismo: 6 entries  (e.g. modena/rear_three_quarter, modena/interior_dashboard, trofeo/rear_three_quarter)
+  grancabrio: 6 entries  (e.g. modena/side_profile, modena/interior_dashboard, trofeo/side_profile)
+  mcpura: 1 entries  (e.g. mcpura/interior_dashboard)
+  mcpura-cielo: 1 entries  (e.g. mcpura-cielo/interior_dashboard)
+  gt2-stradale: 1 entries  (e.g. gt2-stradale/interior_dashboard)

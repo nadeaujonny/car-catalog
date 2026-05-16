@@ -1,0 +1,18 @@
+{
+  "brand": "Rivian",
+  "brand_slug": "rivian",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "model_count": 3,
+  "trim_count": 10,
+  "total_images": 19,
+  "needs_scraping": 19,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 0,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [],
+  "fyis": []
+}

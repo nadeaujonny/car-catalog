@@ -1,0 +1,71 @@
+Reset 17 image entries with needs_scraping:true to their model page URLs.
+Brand: genesis
+Models in JSON: 8
+Models with page URLs: 8
+Playwright fallback: enabled
+
+Scraping 8 model pages…
+
+  fetch https://www.genesis.com/us/en/g70  …  static ok (78 raw, 12 slug-matching)
+  fetch https://www.genesis.com/us/en/g80  …  static ok (89 raw, 8 slug-matching)
+  fetch https://www.genesis.com/us/en/g90  …  static ok (80 raw, 25 slug-matching)
+  fetch https://www.genesis.com/us/en/gv60  …  static ok (89 raw, 7 slug-matching)
+  fetch https://www.genesis.com/us/en/gv70  …  static ok (80 raw, 6 slug-matching)
+  fetch https://www.genesis.com/us/en/electrified-gv70  …  static ok (83 raw, 0 slug-matching)
+    playwright https://www.genesis.com/us/en/electrified-gv70  …  ok (83 raw candidates)
+  fetch https://www.genesis.com/us/en/gv80  …  static ok (81 raw, 1 slug-matching)
+    playwright https://www.genesis.com/us/en/gv80  …  ok (81 raw candidates)
+  fetch https://www.genesis.com/us/en/gv80-coupe  …  static ok (89 raw, 5 slug-matching)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          genesis
+Pages attempted:                8
+Pages failed:                   0
+Pages escalated to Playwright:  2 of 8
+  Playwright successes:         2
+  Playwright failures:          0
+Image entries rewritten:        13
+  via text/URL pattern match:   13
+  via brand-specific angle:     0
+  via positional fallback:      0
+Brand-specific angle matches:   0
+Resolution upgrades:            0 URLs preferred larger variants
+Image entries unchanged:        81
+
+Sample rewrites:
+  [7.5] g70/2-5t-rwd/front_three_quarter
+        → https://s7d1.scene7.com/is/image/hyundai/2025-g70-25t-std-awd-vatnagray-foggraytwotone-gallerydetail-heated-front-seats-racetrack-1:1-1?wid=870&hei=870&fmt=webp
+  [9.5] g70/2-5t-rwd/side_profile
+        → https://s7d1.scene7.com/is/image/hyundai/2026-g70-33t-spt-pst-awd-capriblue-obsidianblackwithredstitching-profile-passenger-studio:24-9?wid=800&hei=300&fmt=webp-alpha
+  [7.5] g70/2-5t-awd/front_three_quarter
+        → https://s7d1.scene7.com/is/image/hyundai/2025-g70-25t-std-awd-vatnagray-foggraytwotone-gallerydetail-heated-front-seats-racetrack-1:9-6?wid=1000&hei=667&fmt=webp
+  [7.5] g70/3-3t-sport-prestige-rwd/front_three_quarter
+        → https://s7d1.scene7.com/is/image/hyundai/2025-g70-25t-std-awd-vatnagray-foggraytwotone-gallerydetail-heated-front-seats-racetrack-1:1-1?wid=870&hei=870&fmt=webp
+  [9.5] g70/3-3t-sport-prestige-rwd/side_profile
+        → https://s7d1.scene7.com/is/image/hyundai/2026-g70-33t-spt-pst-awd-capriblue-obsidianblackwithredstitching-profile-passenger-studio:24-9?wid=800&hei=300&fmt=webp-alpha
+  [7.5] g70/3-3t-sport-prestige-awd/front_three_quarter
+        → https://s7d1.scene7.com/is/image/hyundai/2025-g70-25t-std-awd-vatnagray-foggraytwotone-gallerydetail-heated-front-seats-racetrack-1:9-6?wid=1000&hei=667&fmt=webp
+  [7.5] g70/3-3t-prestige-graphite-rwd/front_three_quarter
+        → https://s7d1.scene7.com/is/image/hyundai/2025-g70-25t-std-awd-vatnagray-foggraytwotone-gallerydetail-heated-front-seats-racetrack-1:1-1?wid=870&hei=870&fmt=webp
+  [9.5] g70/3-3t-prestige-graphite-rwd/side_profile
+        → https://s7d1.scene7.com/is/image/hyundai/2026-g70-33t-spt-pst-awd-capriblue-obsidianblackwithredstitching-profile-passenger-studio:24-9?wid=800&hei=300&fmt=webp-alpha
+  [7.5] g70/3-3t-prestige-graphite-awd/front_three_quarter
+        → https://s7d1.scene7.com/is/image/hyundai/2025-g70-25t-std-awd-vatnagray-foggraytwotone-gallerydetail-heated-front-seats-racetrack-1:9-6?wid=1000&hei=667&fmt=webp
+  [7.5] gv70/2-5t-awd/front_three_quarter
+        → https://s7d1.scene7.com/is/image/hyundai/2026-gv70-35t-spt-pst-awd-ceresblue-obsidianblackmonotone-front-driver-angle-studio-3:16-9?wid=1000&hei=563&fmt=webp
+  [9.5] gv70/2-5t-awd/side_profile
+        → https://s7d1.scene7.com/is/image/hyundai/2026-gv70-35t-spt-pst-awd-ceresblue-obsidianblackmonotone-profile-driver-studio-3:16-9?wid=1000&hei=563&fmt=webp
+  [7.5] gv70/3-5t-sport-advanced-awd/front_three_quarter
+        → https://s7d1.scene7.com/is/image/hyundai/2026-gv70-35t-spt-pst-awd-ceresblue-obsidianblackmonotone-front-driver-angle-studio-3:16-9?wid=1000&hei=563&fmt=webp
+
+Models with unresolved angles:
+  g70: 8 entries  (e.g. 2-5t-rwd/rear_three_quarter, 2-5t-rwd/interior_dashboard, 2-5t-prestige-rwd/interior_dashboard)
+  g80: 13 entries  (e.g. 2-5t-awd/front_three_quarter, 2-5t-awd/rear_three_quarter, 2-5t-awd/side_profile)
+  g90: 12 entries  (e.g. 3-5t-awd/front_three_quarter, 3-5t-awd/rear_three_quarter, 3-5t-awd/side_profile)
+  gv60: 10 entries  (e.g. standard-rwd/front_three_quarter, standard-rwd/rear_three_quarter, standard-rwd/side_profile)
+  gv70: 8 entries  (e.g. 2-5t-awd/rear_three_quarter, 2-5t-awd/interior_dashboard, 2-5t-select-awd/front_three_quarter)
+  electrified-gv70: 6 entries  (e.g. awd/front_three_quarter, awd/rear_three_quarter, awd/side_profile)
+  gv80: 12 entries  (e.g. 2-5t-rwd/front_three_quarter, 2-5t-rwd/rear_three_quarter, 2-5t-rwd/side_profile)
+  gv80-coupe: 12 entries  (e.g. 3-5t-awd/front_three_quarter, 3-5t-awd/rear_three_quarter, 3-5t-awd/side_profile)

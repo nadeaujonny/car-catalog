@@ -1,0 +1,85 @@
+{
+  "brand": "Volvo",
+  "brand_slug": "volvo",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 8,
+  "trim_count": 41,
+  "total_images": 95,
+  "needs_scraping": 95,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 11,
+  "fyi_count": 3,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "xc40/b5-ultra-black-edition-awd",
+      "value": 3
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "xc40/b5-ultra-black-edition-awd",
+      "value": "powertrain,fuel_economy"
+    },
+    {
+      "title": "phev base trim has null ev_specifics",
+      "where": "models[1].trims[8] (xc60/t8-polestar-engineered)"
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "xc60/b5-ultra-black-edition",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "xc60/t8-ultra-black-edition",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "xc60/t8-polestar-engineered",
+      "value": 3
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "xc90/b6-core",
+      "value": "dimensions"
+    },
+    {
+      "title": "ev base trim has null ev_specifics",
+      "where": "models[5].trims[2] (ex40/twin-motor-ultra-black-edition)"
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ex40/twin-motor-ultra-black-edition",
+      "value": 4
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "ex40/twin-motor-ultra-black-edition",
+      "value": "powertrain"
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "ex90/twin-motor-performance-plus",
+      "value": "dimensions"
+    }
+  ],
+  "fyis": [
+    {
+      "title": "Null msrp_base — ultra-luxury non-disclosure (documented in notes)",
+      "where": "models[7].trims[0] (es90/single-motor)"
+    },
+    {
+      "title": "Null msrp_base — ultra-luxury non-disclosure (documented in notes)",
+      "where": "models[7].trims[1] (es90/twin-motor)"
+    },
+    {
+      "title": "Null msrp_base — ultra-luxury non-disclosure (documented in notes)",
+      "where": "models[7].trims[2] (es90/twin-motor-performance)"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+Reset 88 image entries with needs_scraping:true to their model page URLs.
+Brand: bentley
+Models in JSON: 5
+Models with page URLs: 5
+Playwright fallback: enabled
+
+Scraping 5 model pages…
+
+  fetch https://www.bentleymotors.com/en/models/continental-gt.html  …  static ok (240 raw, 17 slug-matching)
+  fetch https://www.bentleymotors.com/en/models/continental-gtc.html  …  static ok (241 raw, 17 slug-matching)
+  fetch https://www.bentleymotors.com/en/models/flying-spur.html  …  static ok (246 raw, 146 slug-matching)
+  fetch https://www.bentleymotors.com/en/models/bentayga.html  …  static ok (341 raw, 298 slug-matching)
+  fetch https://www.bentleymotors.com/en/models/bentayga/bentayga-ewb.html  …  static ok (166 raw, 13 slug-matching)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          bentley
+Pages attempted:                5
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 5
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        88
+  via text/URL pattern match:   88
+  via brand-specific angle:     0
+  via positional fallback:      0
+Brand-specific angle matches:   0
+Resolution upgrades:            0 URLs preferred larger variants
+Image entries unchanged:        0
+
+Sample rewrites:
+  [23.0] continental-gt/continental-gt/front_three_quarter
+        → https://www.bentleymotors.com/content/dam/bm/websites/bmcom/bentleymotors-com/models/27my/gt-speed/BY634_27_GT_Speed_AVP2D_A_8_000_HQ_Calvert_4K_v023x2.jpg/_jcr_content/renditions/original.image_file.300.200.file/BY634_27_GT_Speed_AVP2D_A_8_000_HQ_Calvert_4K_v023x2.jpg
+  [23.0] continental-gt/continental-gt/rear_three_quarter
+        → https://www.bentleymotors.com/content/dam/bm/websites/bmcom/bentleymotors-com/models/27my/gt-speed/BY634_27_GT_Speed_AVP2D_A_4_000_Calvert_4K_v02croppedd.jpg/_jcr_content/renditions/original.image_file.1440.1080.file/BY634_27_GT_Speed_AVP2D_A_4_000_Calvert_4K_v02croppedd.jpg
+  [32.0] continental-gt/continental-gt/side_profile
+        → https://www.bentleymotors.com/content/dam/bm/websites/bmcom/bentleymotors-com/models/27my/gt-s/BY634_27_GT_S_Thunder_LHD_2_AVP2D_A_7_000_Calvert_4K_v02.jpg/_jcr_content/renditions/original.image_file.1440.810.file/BY634_27_GT_S_Thunder_LHD_2_AVP2D_A_7_000_Calvert_4K_v02.jpg
+  [9.0] continental-gt/continental-gt/interior_dashboard
+        → https://www.bentleymotors.com/content/dam/bm/websites/bmcom/bentleymotors-com/models/27my/gt-azure/BY634_27_GT_Azure_Veridian_LHD_3_AVP2D_C_3_000_Calvert_4K_v02portrait.jpg/_jcr_content/renditions/original.image_file.1074.1432.file/BY634_27_GT_Azure_Veridian_LHD_3_AVP2D_C_3_000_Calvert_4K_v02portrait.jpg
+  [23.0] continental-gt/continental-gt-s/front_three_quarter
+        → https://www.bentleymotors.com/content/dam/bm/websites/bmcom/bentleymotors-com/models/27my/gt-speed/BY634_27_GT_Speed_AVP2D_A_8_000_HQ_Calvert_4K_v023x2.jpg/_jcr_content/renditions/original.image_file.300.200.file/BY634_27_GT_Speed_AVP2D_A_8_000_HQ_Calvert_4K_v023x2.jpg
+  [23.0] continental-gt/continental-gt-s/rear_three_quarter
+        → https://www.bentleymotors.com/content/dam/bm/websites/bmcom/bentleymotors-com/models/27my/gt-speed/BY634_27_GT_Speed_AVP2D_A_4_000_Calvert_4K_v02croppedd.jpg/_jcr_content/renditions/original.image_file.1440.1080.file/BY634_27_GT_Speed_AVP2D_A_4_000_Calvert_4K_v02croppedd.jpg
+  [32.0] continental-gt/continental-gt-s/side_profile
+        → https://www.bentleymotors.com/content/dam/bm/websites/bmcom/bentleymotors-com/models/27my/gt-s/BY634_27_GT_S_Thunder_LHD_2_AVP2D_A_7_000_Calvert_4K_v02.jpg/_jcr_content/renditions/original.image_file.1440.810.file/BY634_27_GT_S_Thunder_LHD_2_AVP2D_A_7_000_Calvert_4K_v02.jpg
+  [9.0] continental-gt/continental-gt-s/interior_dashboard
+        → https://www.bentleymotors.com/content/dam/bm/websites/bmcom/bentleymotors-com/models/27my/gt-azure/BY634_27_GT_Azure_Veridian_LHD_3_AVP2D_C_3_000_Calvert_4K_v02portrait.jpg/_jcr_content/renditions/original.image_file.1074.1432.file/BY634_27_GT_Azure_Veridian_LHD_3_AVP2D_C_3_000_Calvert_4K_v02portrait.jpg
+  [23.0] continental-gt/continental-gt-speed/front_three_quarter
+        → https://www.bentleymotors.com/content/dam/bm/websites/bmcom/bentleymotors-com/models/27my/gt-speed/BY634_27_GT_Speed_AVP2D_A_8_000_HQ_Calvert_4K_v023x2.jpg/_jcr_content/renditions/original.image_file.300.200.file/BY634_27_GT_Speed_AVP2D_A_8_000_HQ_Calvert_4K_v023x2.jpg
+  [23.0] continental-gt/continental-gt-speed/rear_three_quarter
+        → https://www.bentleymotors.com/content/dam/bm/websites/bmcom/bentleymotors-com/models/27my/gt-speed/BY634_27_GT_Speed_AVP2D_A_4_000_Calvert_4K_v02croppedd.jpg/_jcr_content/renditions/original.image_file.1440.1080.file/BY634_27_GT_Speed_AVP2D_A_4_000_Calvert_4K_v02croppedd.jpg
+  [32.0] continental-gt/continental-gt-speed/side_profile
+        → https://www.bentleymotors.com/content/dam/bm/websites/bmcom/bentleymotors-com/models/27my/gt-s/BY634_27_GT_S_Thunder_LHD_2_AVP2D_A_7_000_Calvert_4K_v02.jpg/_jcr_content/renditions/original.image_file.1440.810.file/BY634_27_GT_S_Thunder_LHD_2_AVP2D_A_7_000_Calvert_4K_v02.jpg
+  [9.0] continental-gt/continental-gt-speed/interior_dashboard
+        → https://www.bentleymotors.com/content/dam/bm/websites/bmcom/bentleymotors-com/models/27my/gt-azure/BY634_27_GT_Azure_Veridian_LHD_3_AVP2D_C_3_000_Calvert_4K_v02portrait.jpg/_jcr_content/renditions/original.image_file.1074.1432.file/BY634_27_GT_Azure_Veridian_LHD_3_AVP2D_C_3_000_Calvert_4K_v02portrait.jpg

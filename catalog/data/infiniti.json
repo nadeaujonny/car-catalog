@@ -1,0 +1,1366 @@
+{
+  "brand": "Infiniti",
+  "brand_slug": "infiniti",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "QX60",
+      "model_slug": "qx60",
+      "model_year": 2026,
+      "body_style": "suv-3row",
+      "generation_context": "2nd-gen, introduced 2022; 2026 mid-cycle refresh with new exterior styling, Google Built-In infotainment, new SPORT trim replacing SENSORY",
+      "msrp_range": {
+        "low": 51200,
+        "high": 66150
+      },
+      "model_summary": "Mid-size 3-row luxury crossover SUV based on the Nissan Pathfinder platform. The 2026 refresh brings updated exterior styling inspired by the QX80, new 12.3-inch dual screens with Google Built-In, a new SPORT trim with captain's chairs, and continues with the turbocharged 2.0L VC-Turbo I4 / 9-speed automatic combination introduced for the 2025 model year (replacing the prior 3.5L V6).",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": 3,
+        "summary": "Consumer Reports expects about-average reliability based on limited data from the previous generation. JD Power 2025/2026 VDS does not specifically score Infiniti QX60 due to low US volume. RepairPal rates the prior-generation QX60 3.5/5 (ranked 2nd of 19 in luxury full-size SUV class), but that pre-dates the 2025 powertrain swap from V6 to VC-Turbo I4 and the 2026 infotainment overhaul.",
+        "confidence": "low",
+        "sources": [
+          "https://www.consumerreports.org/cars/infiniti/qx60/2026/reliability/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "J.D. Power has not yet released the 2026 U.S. APEAL Study (typically published in July). The QX60 has historically not been sampled at statistically significant volume for standalone model-level APEAL scoring.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/us-automotive-performance-execution-and-layout-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the refreshed 2026 QX60 as luxuriously appointed with notable interior upgrades (Klipsch audio, captain's chairs on SPORT, semi-aniline leather on AUTOGRAPH) and a vastly improved 12.3-inch Google-powered infotainment. Critics, however, note the switch from V6 to turbo I4 trades smoothness for fuel economy without delivering meaningful gains over key German rivals; Edmunds rated it 5.7/10. Strong safety (IIHS TSP+ five years running) and a well-finished cabin are consistent praise points.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/infiniti/qx60/2026/",
+            "date": "2026-01-15"
+          },
+          {
+            "publication": "TFLcar",
+            "url": "https://tflcar.com/2026/01/2026-infiniti-qx60-autograph-full-review/",
+            "date": "2026-01-20"
+          },
+          {
+            "publication": "JD Power",
+            "url": "https://www.jdpower.com/cars/expert-reviews/2026-infiniti-qx60-review-update",
+            "date": "2026-02-01"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": 3,
+        "edmunds_sample_size": 47,
+        "kbb_star_rating": 4,
+        "kbb_sample_size": 5,
+        "summary": "Owner sentiment is mixed: KBB shows 80% recommend rate citing comfort and styling, while Edmunds reviews flag electronics issues (Apple CarPlay disconnects, mirror design problems, intermittent feature failures) and concerns about leather quality on lower trims.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/infiniti/qx60/2026/consumer-reviews/",
+          "https://www.kbb.com/infiniti/qx60/2026/consumer-reviews/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "PURE FWD",
+          "trim_slug": "pure-fwd",
+          "trim_family": "pure",
+          "is_base_trim": true,
+          "msrp_base": 51200,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 268,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 286,
+            "transmission": "9-speed automatic",
+            "transmission_speeds": 9,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 22,
+            "highway_mpg": 28,
+            "combined_mpg": 24,
+            "fuel_tank_gal": 18.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 7.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 6000,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 198.1,
+            "width_in": 77.7,
+            "height_in": 69.7,
+            "wheelbase_in": 114.2,
+            "ground_clearance_in": 6.7,
+            "curb_weight_lb": 4506,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 14.5,
+              "behind_2nd_row": 41.6,
+              "behind_1st_row": 75.4,
+              "max_with_seats_folded": 75.4,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "235/65R18 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": "TSP+",
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "9-speaker audio",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Google Built-In infotainment with Google Maps and Assistant",
+              "tri-zone automatic climate control",
+              "TailorFit-appointed leather seating first two rows",
+              "5 USB-C ports"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/60k",
+            "powertrain_yr_mi": "6yr/70k",
+            "corrosion_yr_mi": "7yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/carousel/2027-infiniti-qx60-front-exterior.jpg",
+              "local_path": "images/infiniti/qx60/pure/front_three_quarter.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/2027-refresh/2027-infiniti-qx60-rear-exterior-rims-wheels.jpg",
+              "local_path": "images/infiniti/qx60/pure/rear_three_quarter.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/carousel/2027-infiniti-qx60-passenger-side-profile.jpg",
+              "local_path": "images/infiniti/qx60/pure/side_profile.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2026/overview/offers/2026-infiniti-qx60-apr-offer.jpg",
+              "local_path": "images/infiniti/qx60/pure/interior_dashboard.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://usa.infinitinews.com/en-US/releases/release-6a11c143b6bc57f003adcd88ac0054b8-new-2026-infiniti-qx60-is-hereon-sale-from-51200",
+            "powertrain": "https://www.infinitiusa.com/vehicles/crossovers/qx60.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49555",
+            "performance": "https://www.infinitiusa.com/vehicles/crossovers/qx60.html",
+            "dimensions": "https://www.infinitiusa.com/vehicles/crossovers/qx60.html",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/infiniti/qx60-4-door-suv/2026",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "features": "https://www.infinitiusa.com/vehicles/crossovers/qx60.html",
+            "warranty": "https://us.owners.infinitiusa.com/owners/navigation/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Base trim of the QX60 line. NHTSA had not yet posted a 2026 QX60 overall rating at the time of research; left null with rating URL set to NHTSA roll-up. ProPILOT Assist not standard on PURE (no adaptive cruise / lane keeping)."
+        },
+        {
+          "trim": "PURE AWD",
+          "trim_slug": "pure-awd",
+          "trim_family": "pure",
+          "is_base_trim": false,
+          "msrp_base": 54300,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 268,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 286,
+            "transmission": "9-speed automatic",
+            "transmission_speeds": 9,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 22,
+            "highway_mpg": 27,
+            "combined_mpg": 24,
+            "fuel_tank_gal": 18.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": null,
+          "safety": null,
+          "features": null,
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://usa.infinitinews.com/en-US/releases/release-6a11c143b6bc57f003adcd88ac0054b8-new-2026-infiniti-qx60-is-hereon-sale-from-51200",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49584"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "pure-fwd",
+            "msrp_delta_usd": 3100,
+            "changes": [
+              "Adds Intelligent All-Wheel Drive ($3,100 upcharge)",
+              "Highway MPG drops 1 mpg (28 → 27) per EPA"
+            ]
+          },
+          "notes": "Drivetrain-only variant of PURE FWD; all other specs identical except drivetrain/fuel economy. Shares trim_family with PURE FWD for image purposes."
+        },
+        {
+          "trim": "LUXE FWD",
+          "trim_slug": "luxe-fwd",
+          "trim_family": "luxe",
+          "is_base_trim": false,
+          "msrp_base": 56800,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 22,
+            "highway_mpg": 28,
+            "combined_mpg": 24,
+            "fuel_tank_gal": 18.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/55R20 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": "TSP+",
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Klipsch 16-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "ProPILOT Assist 1.1 (adaptive cruise + lane centering)",
+              "3D Around View Monitor with Moving Object Detection",
+              "Klipsch 16-speaker audio",
+              "Heated second-row seats",
+              "Climate-controlled front seats (heated + ventilated)"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/carousel/2027-infiniti-qx60-front-exterior.jpg",
+              "local_path": "images/infiniti/qx60/luxe/front_three_quarter.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/2027-refresh/2027-infiniti-qx60-rear-exterior-rims-wheels.jpg",
+              "local_path": "images/infiniti/qx60/luxe/rear_three_quarter.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/carousel/2027-infiniti-qx60-passenger-side-profile.jpg",
+              "local_path": "images/infiniti/qx60/luxe/side_profile.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2026/overview/offers/2026-infiniti-qx60-apr-offer.jpg",
+              "local_path": "images/infiniti/qx60/luxe/interior_dashboard.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://usa.infinitinews.com/en-US/releases/release-6a11c143b6bc57f003adcd88ac0054b8-new-2026-infiniti-qx60-is-hereon-sale-from-51200",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49555",
+            "features": "https://www.infinitiusa.com/vehicles/crossovers/qx60.html",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/infiniti/qx60-4-door-suv/2026"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "pure-fwd",
+            "msrp_delta_usd": 5600,
+            "changes": [
+              "20-inch wheels (vs 18\")",
+              "ProPILOT Assist 1.1 with adaptive cruise & lane centering standard",
+              "Klipsch 16-speaker audio (vs base 9-speaker)",
+              "3D Around View Monitor with Moving Object Detection",
+              "Ventilated front seats and heated second-row seats",
+              "Memory driver's seat"
+            ]
+          },
+          "notes": ""
+        },
+        {
+          "trim": "LUXE AWD",
+          "trim_slug": "luxe-awd",
+          "trim_family": "luxe",
+          "is_base_trim": false,
+          "msrp_base": 59900,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 268,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 286,
+            "transmission": "9-speed automatic",
+            "transmission_speeds": 9,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 22,
+            "highway_mpg": 27,
+            "combined_mpg": 24,
+            "fuel_tank_gal": 18.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": null,
+          "safety": null,
+          "features": null,
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://usa.infinitinews.com/en-US/releases/release-6a11c143b6bc57f003adcd88ac0054b8-new-2026-infiniti-qx60-is-hereon-sale-from-51200",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49584"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "luxe-fwd",
+            "msrp_delta_usd": 3100,
+            "changes": [
+              "Adds Intelligent All-Wheel Drive",
+              "Highway MPG drops 1 mpg per EPA"
+            ]
+          },
+          "notes": ""
+        },
+        {
+          "trim": "SPORT",
+          "trim_slug": "sport",
+          "trim_family": "sport",
+          "is_base_trim": true,
+          "msrp_base": 61700,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 268,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 286,
+            "transmission": "9-speed automatic",
+            "transmission_speeds": 9,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 22,
+            "highway_mpg": 27,
+            "combined_mpg": 24,
+            "fuel_tank_gal": 18.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 6,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/55R20 all-season, gloss black sport-design"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Klipsch Premium",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Second-row captain's chairs (6-passenger layout)",
+              "Removable second-row center console",
+              "Open-pore ash wood trim, dark accents",
+              "Dark gloss-black grille and S badging",
+              "20\" gloss black sport-design wheels"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/carousel/2027-infiniti-qx60-front-exterior.jpg",
+              "local_path": "images/infiniti/qx60/sport/front_three_quarter.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/2027-refresh/2027-infiniti-qx60-rear-exterior-rims-wheels.jpg",
+              "local_path": "images/infiniti/qx60/sport/rear_three_quarter.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/carousel/2027-infiniti-qx60-passenger-side-profile.jpg",
+              "local_path": "images/infiniti/qx60/sport/side_profile.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2026/overview/offers/2026-infiniti-qx60-apr-offer.jpg",
+              "local_path": "images/infiniti/qx60/sport/interior_dashboard.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://usa.infinitinews.com/en-US/releases/release-6a11c143b6bc57f003adcd88ac0054b8-new-2026-infiniti-qx60-is-hereon-sale-from-51200",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49584",
+            "features": "https://www.infinitiusa.com/vehicles/crossovers/qx60/trims/sport.html",
+            "powertrain": "https://www.infinitiusa.com/vehicles/crossovers/qx60.html"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim in 'sport' trim_family (only one trim within this family). New for 2026, replacing the SENSORY trim from 2025. AWD-only — no FWD option. Captain's chairs reduce seat count to 6 from 7."
+        },
+        {
+          "trim": "AUTOGRAPH",
+          "trim_slug": "autograph",
+          "trim_family": "autograph",
+          "is_base_trim": true,
+          "msrp_base": 66150,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 268,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 286,
+            "transmission": "9-speed automatic",
+            "transmission_speeds": 9,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 22,
+            "highway_mpg": 27,
+            "combined_mpg": 24,
+            "fuel_tank_gal": 18.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 6,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/55R20 all-season, polished"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": "TSP+",
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Klipsch Reference Premiere 20-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "ProPILOT Assist 2.1 (hands-free on compatible highways)",
+              "Semi-aniline quilted leather with contrast stitching",
+              "Massaging front seats",
+              "Klipsch Reference Premiere 20-speaker audio",
+              "Color head-up display",
+              "Second-row captain's chairs (6-passenger)"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/carousel/2027-infiniti-qx60-front-exterior.jpg",
+              "local_path": "images/infiniti/qx60/autograph/front_three_quarter.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/2027-refresh/2027-infiniti-qx60-rear-exterior-rims-wheels.jpg",
+              "local_path": "images/infiniti/qx60/autograph/rear_three_quarter.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/carousel/2027-infiniti-qx60-passenger-side-profile.jpg",
+              "local_path": "images/infiniti/qx60/autograph/side_profile.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2026/overview/offers/2026-infiniti-qx60-apr-offer.jpg",
+              "local_path": "images/infiniti/qx60/autograph/interior_dashboard.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://usa.infinitinews.com/en-US/releases/release-6a11c143b6bc57f003adcd88ac0054b8-new-2026-infiniti-qx60-is-hereon-sale-from-51200",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49584",
+            "features": "https://www.infinitiusa.com/vehicles/crossovers/qx60.html",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/infiniti/qx60-4-door-suv/2026"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim in 'autograph' trim_family. Top of the QX60 range; AWD only."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "QX60 received a major refresh for 2026: new exterior styling, new 12.3\" Google Built-In infotainment + 12.3\" driver display, new SPORT trim replacing SENSORY, new 3D Around View Monitor on LUXE+. The 2.0L VC-Turbo I4 powertrain (replacing the prior 3.5L V6) carries over from 2025. Premium fuel required. Image URLs are model-overview consumer-site page URLs flagged needs_scraping; per spec §2e the Phase 4 scrape will follow up. NHTSA had not yet posted a 2026 overall rating at time of research."
+    },
+    {
+      "model": "QX80",
+      "model_slug": "qx80",
+      "model_year": 2026,
+      "body_style": "suv-full-size",
+      "generation_context": "4th-gen (Y63), all-new for 2025; carries over for 2026 with a new SPORT trim addition",
+      "msrp_range": {
+        "low": 83750,
+        "high": 112195
+      },
+      "model_summary": "Infiniti's full-size, body-on-frame luxury flagship SUV, sharing its platform with the Nissan Patrol/Armada. The 2026 model adds a first-ever SPORT trim with darkened exterior treatments and 22-inch wheels. Power comes from a 3.5L twin-turbocharged V6 (450 hp / 516 lb-ft) paired to a 9-speed automatic, with RWD standard on PURE/LUXE and 4WD optional, while SPORT and AUTOGRAPH are 4WD only. Standard tech includes triple 14.3-inch displays, ProPILOT Assist, and IIHS TOP SAFETY PICK+ recognition.",
+      "reliability": {
+        "jd_power_vds_score": 233,
+        "jd_power_vds_year": 2026,
+        "jd_power_vds_source": "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds",
+        "consumer_reports_predicted_reliability": null,
+        "summary": "All-new Y63 4th-generation introduced for 2025; 2026 carries over with NISMO/Platinum Reserve additions. Brand-level Infiniti scored 233 PP100 in the 2026 JD Power VDS — above the 217 PP100 premium-segment average and 204 PP100 overall industry average (i.e., worse-than-average dependability). Consumer Reports flagged Infiniti as 'insufficient data' for brand ranking in the 2026 Annual Auto Reliability Survey. Early Y63 owner reports have not surfaced systemic issues but the new twin-turbo V6 / 9-speed combo has limited track record.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds",
+          "https://www.consumerreports.org/cars/infiniti/qx80/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "J.D. Power has not yet released the 2026 U.S. APEAL Study (typically published in July). The QX80 has historically not been sampled at statistically significant volume for standalone model-level APEAL scoring.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/us-automotive-performance-execution-and-layout-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the QX80's expressive new exterior, lush cabin with semi-aniline leather and quilted seating, and the 450 hp twin-turbo V6 that meaningfully outpaces the prior V8 while improving fuel economy. The new SPORT trim's darkened styling and 22-inch wheels are welcomed by enthusiasts. Critics note real-world fuel economy still trails Cadillac Escalade and Lincoln Navigator hybrids, and the body-on-frame ride remains less polished than crossovers like the Lexus LX 700h. Overall positioning has improved versus the outgoing generation.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/infiniti/qx80/2026/",
+            "date": "2026-01-15"
+          },
+          {
+            "publication": "Kelley Blue Book",
+            "url": "https://www.kbb.com/infiniti/qx80/2026/",
+            "date": "2026-02-10"
+          },
+          {
+            "publication": "U.S. News",
+            "url": "https://cars.usnews.com/cars-trucks/infiniti/qx80",
+            "date": "2026-02-15"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owner-review sample sizes are still small for the all-new 4th-gen QX80. Public sentiment skews positive on styling, power, and interior quality; software/infotainment teething issues are the most common early complaint.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/infiniti/qx80/2026/consumer-reviews/",
+          "https://www.kbb.com/infiniti/qx80/2026/consumer-reviews/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "PURE RWD",
+          "trim_slug": "pure-rwd",
+          "trim_family": "pure",
+          "is_base_trim": true,
+          "msrp_base": 83750,
+          "destination_fee": 2190,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3.5,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 450,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 516,
+            "transmission": "9-speed automatic",
+            "transmission_speeds": 9,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 16,
+            "highway_mpg": 20,
+            "combined_mpg": 18,
+            "fuel_tank_gal": 23,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 5.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 8500,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 210.2,
+            "width_in": 83.2,
+            "height_in": 78.5,
+            "wheelbase_in": 121.1,
+            "ground_clearance_in": 8.4,
+            "curb_weight_lb": 6012,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 22,
+              "behind_2nd_row": 59,
+              "behind_1st_row": 101,
+              "max_with_seats_folded": 101,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 8,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "275/60R20 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": "TSP+",
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 14.3,
+            "driver_display_in": 14.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Klipsch 14-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Triple 14.3-inch displays (instrument cluster, central, climate)",
+              "ProPILOT Assist 1.1 (hands-on adaptive cruise + lane centering)",
+              "Tri-zone automatic climate control",
+              "Power-folding running boards",
+              "Hydraulic Body Motion Control suspension"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/60k",
+            "powertrain_yr_mi": "6yr/70k",
+            "corrosion_yr_mi": "7yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX80/my26/overview/carousel/2026-infiniti-qx80-client-experience-coordinator-xl.jpg",
+              "local_path": "images/infiniti/qx80/pure/front_three_quarter.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX80/my26/overview/highlights/2026-infiniti-qx80-power-folding-rear-seats.jpg",
+              "local_path": "images/infiniti/qx80/pure/rear_three_quarter.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX80/my26/st/build-price-2026-infiniti-qx80.jpg",
+              "local_path": "images/infiniti/qx80/pure/side_profile.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX80/my26/overview/offers/2026-infiniti-qx80-apr-offer.jpg",
+              "local_path": "images/infiniti/qx80/pure/interior_dashboard.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://usa.infinitinews.com/en-US/releases/release-ca09d721ef8d34d2d0cf63a39f011fae-2026-infiniti-qx80-cutting-edge-flagship-boldly-elevated-with-first-ever-sport-grade-release",
+            "powertrain": "https://www.infinitiusa.com/vehicles/suvs/qx80/features/performance.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49556",
+            "performance": "https://www.infinitiusa.com/vehicles/suvs/qx80/features/performance.html",
+            "dimensions": "https://www.infinitiusa.com/vehicles/suvs/qx80/models-specs.html",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/infiniti/qx80-4-door-suv/2026",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "features": "https://www.infinitiusa.com/vehicles/suvs/qx80.html",
+            "warranty": "https://us.owners.infinitiusa.com/owners/navigation/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Base trim. NHTSA has not yet crash-tested the redesigned QX80; rating left null with URL set to NHTSA roll-up per project convention. Curb weight is approximate from Infiniti spec sheet; varies by drivetrain. Ground clearance and width are manufacturer figures."
+        },
+        {
+          "trim": "PURE 4WD",
+          "trim_slug": "pure-4wd",
+          "trim_family": "pure",
+          "is_base_trim": false,
+          "msrp_base": 86850,
+          "destination_fee": 2190,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3.5,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 450,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 516,
+            "transmission": "9-speed automatic",
+            "transmission_speeds": 9,
+            "drivetrain": "4WD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 16,
+            "highway_mpg": 19,
+            "combined_mpg": 17,
+            "fuel_tank_gal": 23,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": null,
+          "safety": null,
+          "features": null,
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://usa.infinitinews.com/en-US/releases/release-ca09d721ef8d34d2d0cf63a39f011fae-2026-infiniti-qx80-cutting-edge-flagship-boldly-elevated-with-first-ever-sport-grade-release",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49585"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "pure-rwd",
+            "msrp_delta_usd": 3100,
+            "changes": [
+              "Adds part-time 4WD with transfer case",
+              "Highway MPG drops 1 mpg per EPA"
+            ]
+          },
+          "notes": ""
+        },
+        {
+          "trim": "LUXE RWD",
+          "trim_slug": "luxe-rwd",
+          "trim_family": "luxe",
+          "is_base_trim": false,
+          "msrp_base": 90850,
+          "destination_fee": 2190,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "275/50R22 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 14.3,
+            "driver_display_in": 14.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Klipsch Premium 17-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Heated second-row outboard seats",
+              "Color head-up display",
+              "22\" alloy wheels",
+              "Quilted semi-aniline leather seating",
+              "Power-deploy running boards"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX80/my26/overview/carousel/2026-infiniti-qx80-client-experience-coordinator-xl.jpg",
+              "local_path": "images/infiniti/qx80/luxe/front_three_quarter.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX80/my26/overview/highlights/2026-infiniti-qx80-power-folding-rear-seats.jpg",
+              "local_path": "images/infiniti/qx80/luxe/rear_three_quarter.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX80/my26/st/build-price-2026-infiniti-qx80.jpg",
+              "local_path": "images/infiniti/qx80/luxe/side_profile.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX80/my26/overview/offers/2026-infiniti-qx80-apr-offer.jpg",
+              "local_path": "images/infiniti/qx80/luxe/interior_dashboard.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://usa.infinitinews.com/en-US/releases/release-ca09d721ef8d34d2d0cf63a39f011fae-2026-infiniti-qx80-cutting-edge-flagship-boldly-elevated-with-first-ever-sport-grade-release",
+            "features": "https://www.infinitiusa.com/vehicles/suvs/qx80.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "pure-rwd",
+            "msrp_delta_usd": 7100,
+            "changes": [
+              "22-inch wheels (vs 20-inch)",
+              "Klipsch Premium 17-speaker audio (vs 14-speaker)",
+              "Color head-up display",
+              "Heated second-row outboard seats",
+              "Power-deploying running boards"
+            ]
+          },
+          "notes": ""
+        },
+        {
+          "trim": "LUXE 4WD",
+          "trim_slug": "luxe-4wd",
+          "trim_family": "luxe",
+          "is_base_trim": false,
+          "msrp_base": 93950,
+          "destination_fee": 2190,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3.5,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 450,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 516,
+            "transmission": "9-speed automatic",
+            "transmission_speeds": 9,
+            "drivetrain": "4WD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 16,
+            "highway_mpg": 19,
+            "combined_mpg": 17,
+            "fuel_tank_gal": 23,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": null,
+          "safety": null,
+          "features": null,
+          "warranty": null,
+          "images": [],
+          "sources": {
+            "msrp_base": "https://usa.infinitinews.com/en-US/releases/release-ca09d721ef8d34d2d0cf63a39f011fae-2026-infiniti-qx80-cutting-edge-flagship-boldly-elevated-with-first-ever-sport-grade-release",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49585"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "luxe-rwd",
+            "msrp_delta_usd": 3100,
+            "changes": [
+              "Adds part-time 4WD with transfer case",
+              "Highway MPG drops 1 mpg per EPA"
+            ]
+          },
+          "notes": ""
+        },
+        {
+          "trim": "SPORT",
+          "trim_slug": "sport",
+          "trim_family": "sport",
+          "is_base_trim": true,
+          "msrp_base": 102645,
+          "destination_fee": 2190,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3.5,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 450,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 516,
+            "transmission": "9-speed automatic",
+            "transmission_speeds": 9,
+            "drivetrain": "4WD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 16,
+            "highway_mpg": 19,
+            "combined_mpg": 17,
+            "fuel_tank_gal": 23,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "275/50R22 all-season, gloss black sport-design"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 14.3,
+            "driver_display_in": 14.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Klipsch Premium 17-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "New for 2026: first-ever QX80 SPORT trim",
+              "Dark chrome exterior trim and gloss-black grille",
+              "22\" gloss black sport-design wheels",
+              "Sport-tuned suspension settings",
+              "Special interior trim with red-stitched leather"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX80/my26/overview/carousel/2026-infiniti-qx80-client-experience-coordinator-xl.jpg",
+              "local_path": "images/infiniti/qx80/sport/front_three_quarter.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX80/my26/overview/highlights/2026-infiniti-qx80-power-folding-rear-seats.jpg",
+              "local_path": "images/infiniti/qx80/sport/rear_three_quarter.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX80/my26/st/build-price-2026-infiniti-qx80.jpg",
+              "local_path": "images/infiniti/qx80/sport/side_profile.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX80/my26/overview/offers/2026-infiniti-qx80-apr-offer.jpg",
+              "local_path": "images/infiniti/qx80/sport/interior_dashboard.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://usa.infinitinews.com/en-US/releases/release-ca09d721ef8d34d2d0cf63a39f011fae-2026-infiniti-qx80-cutting-edge-flagship-boldly-elevated-with-first-ever-sport-grade-release",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49585",
+            "features": "https://www.infinitiusa.com/vehicles/suvs/qx80/trims/sport.html"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim in 'sport' trim_family. New for 2026 — first SPORT grade ever offered on QX80. 4WD only."
+        },
+        {
+          "trim": "AUTOGRAPH",
+          "trim_slug": "autograph",
+          "trim_family": "autograph",
+          "is_base_trim": true,
+          "msrp_base": 112195,
+          "destination_fee": 2190,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3.5,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 450,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 516,
+            "transmission": "9-speed automatic",
+            "transmission_speeds": 9,
+            "drivetrain": "4WD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 16,
+            "highway_mpg": 19,
+            "combined_mpg": 17,
+            "fuel_tank_gal": 23,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "275/50R22 all-season, polished"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": "TSP+",
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 14.3,
+            "driver_display_in": 14.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Klipsch Reference Premiere 24-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "ProPILOT Assist 2.1 (hands-free on compatible highways)",
+              "Massaging front seats",
+              "Second-row captain's chairs (7-passenger; with massage)",
+              "Klipsch Reference Premiere 24-speaker audio",
+              "Open-pore wood and quilted semi-aniline leather throughout",
+              "Power third-row 50/50 split with one-touch fold"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX80/my26/overview/carousel/2026-infiniti-qx80-client-experience-coordinator-xl.jpg",
+              "local_path": "images/infiniti/qx80/autograph/front_three_quarter.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX80/my26/overview/highlights/2026-infiniti-qx80-power-folding-rear-seats.jpg",
+              "local_path": "images/infiniti/qx80/autograph/rear_three_quarter.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX80/my26/st/build-price-2026-infiniti-qx80.jpg",
+              "local_path": "images/infiniti/qx80/autograph/side_profile.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX80/my26/overview/offers/2026-infiniti-qx80-apr-offer.jpg",
+              "local_path": "images/infiniti/qx80/autograph/interior_dashboard.jpg",
+              "credit": "Infiniti USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://usa.infinitinews.com/en-US/releases/release-ca09d721ef8d34d2d0cf63a39f011fae-2026-infiniti-qx80-cutting-edge-flagship-boldly-elevated-with-first-ever-sport-grade-release",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49585",
+            "features": "https://www.infinitiusa.com/vehicles/suvs/qx80.html",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/infiniti/qx80-4-door-suv/2026"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim in 'autograph' trim_family. Top of the QX80 range. Captain's chairs reduce seat count to 7 from 8."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Second model year of the all-new Y63-generation QX80 (launched 2025). 2026 adds a first-ever SPORT trim. NHTSA had not yet posted overall ratings for the redesigned QX80 at time of research. Image URLs are consumer-site page URLs flagged needs_scraping. Curb weight and width are nominal manufacturer figures; exact values per trim were not separately published. Powertrain is the 3.5L VR35DDTT twin-turbo V6 derived from the prior Q50 RED SPORT 400 engine, with hydraulic body motion control and 9-speed automatic standard."
+    }
+  ]
+}

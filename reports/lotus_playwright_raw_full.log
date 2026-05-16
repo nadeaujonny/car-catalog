@@ -1,0 +1,679 @@
+# Lotus FULL Playwright dump — generated 2026-05-15T05:16:02.686Z
+
+========================================================================
+# MODEL: emira    (source: consumer)
+# URL:   https://www.lotuscars.com/en-US/emira
+========================================================================
+# DOM <img> count: 37
+# Network image responses: 52
+
+# All network image responses (status, ct, bytes, URL):
+  [200] image/webp            376018  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/15e0b0ba0f6a416094f853432db123f1?v=fdce58e9
+  [200] image/webp            360158  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/99dc1507812743acaaa03db88d4f069e?v=a691afe5
+  [200] image/webp            351890  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/08f31ff113344d669a8cdadfc1313867?v=eebf87a3
+  [200] image/webp            339672  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/ad9fc441f87b4b92901307915140dc43?v=34673ee1
+  [200] image/webp            321492  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/a0bb8b4823e04e28b50537f8dbb22d45?v=d4f92935
+  [200] image/webp            316212  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/e2521cd2457a43bbb3befa46b36b894c?v=544f538d
+  [200] image/webp            187592  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/c6b15651d3a74075830b9990aedd6fad?v=134b30e1
+  [200] image/jpeg            117650  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/60666105730b4e6281d3bdea936ba262?v=0cc5bf6d
+  [200] image/webp            116100  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/e74d5e12a13d4a0f885a3d128a2825cd?v=013fc35d
+  [200] image/webp            115170  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/37bf6085750a45d5a96c7b6cac8b9929?v=5a96937e
+  [200] image/webp            114254  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/0ca775d0c0f54a4ba0deb3ef35aaa978?v=bbd1f1ea
+  [200] image/webp            111062  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/3e86a72bd8424170b7ab89b7a95ae892?v=fe14109f
+  [200] image/webp            105274  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/a1f3a2190b504cd6a07b535d5cd7cc68?v=b0a311f4
+  [200] image/webp            101276  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9870052023264b64a29922f542e3f42c?v=c8112c47
+  [200] image/webp             94352  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/82cf79e6b6ad4ca5822a7b518dc0425e?v=9095bc46
+  [200] image/webp             89526  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/3ba55fae7dcf43a1a170e57eb8419ca4?v=6953d041
+  [200] image/webp             89336  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/772e54072046432ebe299632af21aa19?v=12e3569f
+  [200] image/webp             81506  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/5ea4a23ba6874e298bde01b60c1d510e?v=dd3590e8
+  [200] image/webp             75810  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/040f3e900a4e42099d974bcccf99a50b?v=0b0922b8
+  [200] image/jpeg             75263  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/96bdd98faf9d4032b821883db5866c31?v=ee6b2cd1
+  [200] image/webp             73548  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9e3f9dfea242456aa9046937bb480564?v=3bd5bba6
+  [200] image/webp             71774  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/a54e65d170804d9d96fdbfafb2d1faf8?v=ccd1fcf4
+  [200] image/webp             70848  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/4c3f4f23f1904f3bbed754b6bcd50be7?v=4bc05c64
+  [200] image/webp             70848  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/4c3f4f23f1904f3bbed754b6bcd50be7?v=cf7f46b4
+  [200] image/webp             67460  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/a27df4e249064275a877ad04c6fbce3c?v=f82fe0f5
+  [200] image/webp             61956  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/dd4f25ae69a34b26b61e3c3daad0a514?v=f6d32efd
+  [200] image/webp             61956  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/dd4f25ae69a34b26b61e3c3daad0a514?v=31f074b3
+  [200] image/webp             61774  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/01d83644b24d47c8b1d36ab385762ca9?v=321a9367
+  [200] image/webp             59300  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/cc4c1d1984044eb3ae56a138f302af4a?v=e016b56b
+  [200] image/webp             58504  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/55d08ab942c34db59ad9e752667eb915?v=b3dafe54
+  [200] image/webp             51992  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9ece3276e55f43a9a530c9b17c7795e9?v=98e3183f
+  [200] image/webp             51234  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/86fb07d117304f1a9357c466b27d8e7e?v=f6cd255d
+  [200] image/webp             50034  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/32f73bccabb14d069afbdbabf8f2ce72?v=20e7b6ac
+  [200] image/webp             44060  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/950cee70f6a443d39c1054e538ec76f5?v=061514ab
+  [200] image/svg+xml            770  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9a1125e3829d401c911322ca043286bc?v=e9d2a0cb
+  [200] image/svg+xml            475  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/43a9a99af30a4ffda067b9b586536c76?v=665ae417
+  [200] image/gif;charset=utf-8      43  https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261280%26900%268%2624%261280%26900%2610%26na&eci=3&event=%7B%7D&event_id=d39ac313-abee-4857-9849-d4bd72be51b1&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=829dd872-3099-4cbb-9193-cc803567025a&pt=Lotus%20Emira%20%E2%80%93%20Reserve%20Now%20%7C%20Lotus%20Cars&tw_document_href=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femira&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1778822164769.504594724196050191&txn_id=onc1l&type=javascript&version=2.3.53
+  [200] image/gif;charset=utf-8      43  https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261280%26900%268%2624%261280%26900%2610%26na&eci=3&event=%7B%7D&event_id=d39ac313-abee-4857-9849-d4bd72be51b1&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=829dd872-3099-4cbb-9193-cc803567025a&pt=Lotus%20Emira%20%E2%80%93%20Reserve%20Now%20%7C%20Lotus%20Cars&tw_document_href=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femira&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1778822164769.504594724196050191&txn_id=onc1l&type=javascript&version=2.3.53
+  [200] image/gif                 42  https://servedby.flashtalking.com/segment/2/read/a;;pixel/?fl=n&s=15231&d=www.lotuscars.com&r=en-US/emira
+  [200] image/gif                 42  https://servedby.flashtalking.com/spot/1/27670;136563;15230/?ftXRef=&ftXValue=&ftXType=&ftXName=&ftXNumItems=&ftXCurrency=&U1=&U2=&U3=&U4=&U5=&U6=&U7=&U8=&U9=&U10=&U11=&U12=&U13=&U14=&U15=&U16=&U17=&U18=&U19=&U20=&ft_referrer=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femira%3F~U1%3DU1_VALUE%26U2%3DU2_VALUE%26U3%3DU3_VALUE%26U4%3DU4_VALUE%26U5%3DU5_VALUE%26U6%3DU6_VALUE%26U7%3DU7_VALUE%26U8%3DU8_VALUE%26U9%3DU9_VALUE%26U10%3DU10_VALUE%26U11%3DU11_VALUE%26U12%3DU12_VALUE%26U13%3DU13_VALUE%26U14%3DU14_VALUE%26U15%3DU15_VALUE%26U16%3DU16_VALUE%26U17%3DU17_VALUE%26U18%3DU18_VALUE%26U19%3DU19_VALUE%26U20%3DU20_VALUE&ns=&cb=982504351
+  [200] image/gif                 42  https://servedby.flashtalking.com/segment/2/read/a;;pixel/?s=15230&d=www.lotuscars.com&r=en-US/emira
+  [200] image/gif                 42  https://ib.adnxs.com/pixie?e=PageView&pi=b24bb31a-50c7-4ee3-b434-2ea6e99f3258&it=1778822164822&v=0.0.45&u=https%3A%2F%2Fservedby.flashtalking.com%2Fcontainer%2F27670%3B136306%3B15230%3Biframe%2F%3FftXRef%3D%26ftXValue%3D%26ftXType%3D%26ftXName%3D%26ftXNumItems%3D%26ftXCurrency%3D%26U1%3D%26U2%3D%26U3%3D%26U4%3D%26U5%3D%26U6%3D%26U7%3D%26U8%3D%26U9%3D%26U10%3D%26U11%3D%26U12%3D%26U13%3D%26U14%3D%26U15%3D%26U16%3D%26U17%3D%26U18%3D%26U19%3D%26U20%3D%26ft_referrer%3Dhttps%253A%252F%252Fwww.lotuscars.com%252Fen-US%252Femira%253F~U1%253DU1_VALUE%2526U2%253DU2_VALUE%2526U3%253DU3_VALUE%2526U4%253DU4_VALUE%2526U5%253DU5_VALUE%2526U6%253DU6_VALUE%2526U7%253DU7_VALUE%2526U8%253DU8_VALUE%2526U9%253DU9_VALUE%2526U10%253DU10_VALUE%2526U11%253DU11_VALUE%2526U12%253DU12_VALUE%2526U13%253DU13_VALUE%2526U14%253DU14_VALUE%2526U15%253DU15_VALUE%2526U16%253DU16_VALUE%2526U17%253DU17_VALUE%2526U18%253DU18_VALUE%2526U19%253DU19_VALUE%2526U20%253DU20_VALUE%26ns%3D%26cb%3D982504351&r=https%3A%2F%2Fwww.lotuscars.com%2F&st=1778822164822&et=1778822164861&if=1&uetmsmid=59143ff7-5d7e-4c2f-8732-8b0792aee73d&asce=0&ascc=0&tcfhl=0&tcfe=0&tcfgdpr=0&tcfc=0
+  [200] image/gif                 42  https://adservice.google.com/ddm/fls/z/dc_pre=CNvBk_rEupQDFbHo_QUdxKYu9A;src=14528875;type=invmedia;cat=pagev0;rcb=8;ord=8698834902115;npa=0;auiddc=*;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe65d0v9183246123z8858689547za20gzb858689547zd858689547xea;gcs=G111;gcd=13r3r3n3n5l1;dma=0;dc_fmt=2;tag_exp=0~115938465~115938469;epver=2;dc_random=1778822165_PK1t7k9Dd0KU25viZXH5y2J6ZTOeH7oIqw;_dc_test=1;~oref=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femira
+  [200] image/gif                 42  https://www.google.com/pagead/1p-user-list/16514751243/?random=1778822165298&cv=11&fst=1778821200000&bg=ffffff&guid=ON&async=1&gtm=45be65d0v9181392897z8858689547za20gzb858689547zd858689547xea&gcd=13r3r3n3n5l1&dma=0&tag_exp=0~115616985~115938465~115938469&u_w=1280&u_h=900&url=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femira&rcb=6&frm=0&tiba=Lotus%20Emira%20%E2%80%93%20Reserve%20Now%20%7C%20Lotus%20Cars&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2113285060.1778822165&uaa=x86&uab=64&uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&rfmt=3&fmt=3&is_vtc=1&cid=CAQSvgEABaugfb79Iv5XRz5jHik1s9TVAhKcfVxEMpx-ww5UHfvUGQSUaalOhDU8q8l6d9jkBbIHUFT7M07UTnlCOqsPSu9DhB2yUR5qKo2YhLPlVnou8GdYRyfytY0TrAU316cw5JXLa5oLiNT2fb1PS-FFooSJCrONs7wqsqKLhGb0OEMTop0kT50WCtltBRtT4QOPnrGW462DUXdwTkU9W5b2D6bC5JWJ2ENnBdByKRaXEcE3aSFxQY_IVCnrIIaj&random=330994375&rmt_tld=0&ipr=y
+  [200] image/gif                 42  https://www.google.com/pagead/1p-conversion/16538021857/?random=429075683&cv=9&fst=1778822165377&num=1&npa=1&label=3XOnCMjNjKkZEOHf-M09&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465925%2C512247838%2C658953496&u_h=900&u_w=1280&ig=1&auid=2113285060.1778822165&frm=2&url=https%3A%2F%2F14528875.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCNvBk_rEupQDFbHo_QUdxKYu9A%3Bsrc%3D14528875%3Btype%3Dinvmedia%3Bcat%3Dpagev0%3Brcb%3D8%3Bord%3D8698834902115%3Bnpa%3D0%3Bauiddc%3D2113285060.1778822165%3Buaa%3Dx86%3Buab%3D64%3Buafvl%3DChromium%253B148.0.7778.96%257CHeadlessChrome%253B148.0.7778.96%257CNot%25252FA)Brand%253B99.0.0.0%3Buamb%3D0%3Buam%3D%3Buap%3DWindows%3Buapv%3D10.0%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKFA%3Bgtm%3D45fe65d0v9183246123z8858689547za20gzb858689547zd858689547xea%3Bgcs%3DG111%3Bgcd%3D13r3r3n3n5l1%3Bdma%3D0%3Bdc_fmt%3D2%3Btag_exp%3D0~115938465~115938469%3Bepver%3D2%3Bdc_random%3D177882&ref=https%3A%2F%2Fwww.lotuscars.com%2F&top=https%3A%2F%2Fwww.lotuscars.com%2F&capi=1&hn=www.googleadservices.com&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCKG4sQIIscGxAgiwwbECCLHDsQIIisWxAgjCybECCLTGsQIIk9qxAgjb3LECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgj02rECCJfUsQIIyduxAgix4bECCLPhsQIIpt2xAgiw3rECCIDbsQJKFWV2ZW50LXNvdXJjZSwgdHJpZ2dlcloDCgEBYgQKAgID&cerd=CgSO4b0t&fsk=ChEI8OWV0AYQ5_LMm-6LzZv8ARIsALhQeTIXj4Jkh9Ac7fheyxA6N746UPiEgqF_yt-DJ1hUkyl1S-d3D_JzkqIaAqKB&pscrd=IhMIveCc-sS6lAMVMVsIBB0wYQHLMgwIA2IICAAQABgAIAAyDAgEYggIABAAGAAgADIMCAdiCAgAEAAYACAAMgwICGIICAAQABgAIAAyDAgJYggIABAAGAAgADIMCApiCAgAEAAYACAAMgwIAmIICAAQABgAIAAyDAgLYggIABAAGAAgADIMCBViCAgAEAAYACAAMgwIH2IICAAQABgAIAAyDAgTYggIABAAGAAgADIMCBJiCAgAEAAYACAAOiVodHRwczovLzE0NTI4ODc1LmZscy5kb3VibGVjbGljay5uZXQvQldDaEFJOE9XVjBBWVEtcVh1cjlxYzdMa3VFaTBBWWxwMVpyTF9PajZNZE9USXA4aWtEbTVZYWVUcXhCTi1abmZEZTZfdUMydkJYSFU4cmZxTHFmaXplQ1V6DAgJYggIABAAGAAgAA&is_vtc=1&vdi=1&cid=CAQSvgEABaugfTk-NCFYb6eQ15g605PVvbXKVJCl4o9b8xFA1Asj5im5r1DApN08YrXKokxzA7utz6rr-r8XwZlG8s7dA72Cj1SvYiW93vV5K2plj9kUsr63-gCp3dMic2xyDnxAcUNx1nkNcOQyP-1MbSarLQgL7Ysi-7NHA8GrpK1hxv6HRZQt_g5eeZlx11HQ1aM67k9Bk6ifmPwRShWAEddiJaD3rGIAgXnryW6MyCeyHXPJAL1GOUdrfGXdGpyn&random=2710183871&resp=GooglemKTybQhCsO
+  [200] image/gif                 42  https://www.google.com/gmp/conversion/_dc_unique_id=9551246833814125230;_dc_ptd=ChEI8OWV0AYQn9r60MW36e_2ARIfAFxADp_XYkvjVU0MtiobOIdEJ40Mz4vEEJCVHDqipA;_dc_time=1778822165;dc_pre=CObCk_rEupQDFQ23jggdH0s39Q;src=14528875;type=invmedia;cat=pagev0;rcb=8;ord=8698834902115;npa=0;auiddc=2113285060.1778822165;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe65d0v9183246123z8858689547za20gzb858689547zd858689547xea;gcs=G111;gcd=13r3r3n3n5l1;dma=0;dc_fmt=3;tag_exp=0~115938465~115938469;epver=2;dc_random=1778822165_PK1t7k9Dd0KU25viZXH5y2J6ZTOeH7oIqw;~oref=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femira?
+  [200] image/gif                 42  https://www.google.com/pagead/1p-user-list/17285024503/?random=1778822165718&cv=11&fst=1778821200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65d0v9226123641z8858689547za20gzb858689547zd858689547xec&gcd=13r3r3n3n5l1&dma=0&tag_exp=0~115616986~115938465~115938468~118128922&u_w=1280&u_h=900&url=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femira&rcb=19&frm=0&tiba=Lotus%20Emira%20%E2%80%93%20Reserve%20Now%20%7C%20Lotus%20Cars&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2113285060.1778822165&uaa=x86&uab=64&uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=LA&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQSvgEABaugfVbwLWoV3PGvolhBKNyXfGUsP4JJViZyNMhnuLRhEY_eaOycasQeOxGrewBh8oufPSBKJH53bU8CezOx_88Mhw7Yh5C80DX-1H5Gi8Lis1OdABTD-cZvOOx-FZJWzDxWX2g8s2AhUuLT1QzPPoBPmzjfzJvj80UmWtHLnjg1ZgvPz6xx1z0yX1mZN6AOIKNzAJNGDogKVAgojUaq1ml-2__W2F2xpqkoLebaCq2FaEA7AiVfbnyFVSZJ&random=4058148687&rmt_tld=0&ipr=y
+  [200] image/gif                 42  https://c.clarity.ms/c.gif?ctsa=mr&CtsSyncId=7320CFDD41F440DB9AC78D14F181BBD2&MUID=13AD1596D26B685C0B3702CCD3E86948
+  [200] image/gif                 23  https://t.teads.tv/track?action=pageView&env=js-gtm&tag_version=8.11.2_56d4338&provider=tag&buyer_pixel_id=11933&referer=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femira&user_session_id=5abeb636-464c-4d22-8423-39ba84add43c&hasConsent=true&cht=timeout
+  [302] image/gif                  0  https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16538021857/?random=429075683&cv=9&fst=1778822165377&num=1&npa=1&label=3XOnCMjNjKkZEOHf-M09&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465925%2C512247838%2C658953496&u_h=900&u_w=1280&ig=1&auid=2113285060.1778822165&frm=2&url=https%3A%2F%2F14528875.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCNvBk_rEupQDFbHo_QUdxKYu9A%3Bsrc%3D14528875%3Btype%3Dinvmedia%3Bcat%3Dpagev0%3Brcb%3D8%3Bord%3D8698834902115%3Bnpa%3D0%3Bauiddc%3D2113285060.1778822165%3Buaa%3Dx86%3Buab%3D64%3Buafvl%3DChromium%253B148.0.7778.96%257CHeadlessChrome%253B148.0.7778.96%257CNot%25252FA)Brand%253B99.0.0.0%3Buamb%3D0%3Buam%3D%3Buap%3DWindows%3Buapv%3D10.0%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKFA%3Bgtm%3D45fe65d0v9183246123z8858689547za20gzb858689547zd858689547xea%3Bgcs%3DG111%3Bgcd%3D13r3r3n3n5l1%3Bdma%3D0%3Bdc_fmt%3D2%3Btag_exp%3D0~115938465~115938469%3Bepver%3D2%3Bdc_random%3D177882&ref=https%3A%2F%2Fwww.lotuscars.com%2F&top=https%3A%2F%2Fwww.lotuscars.com%2F&capi=1&hn=www.googleadservices.com&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCKG4sQIIscGxAgiwwbECCLHDsQIIisWxAgjCybECCLTGsQIIk9qxAgjb3LECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgj02rECCJfUsQIIyduxAgix4bECCLPhsQIIpt2xAgiw3rECCIDbsQJKFWV2ZW50LXNvdXJjZSwgdHJpZ2dlcloDCgEBYgQKAgID&cerd=CgSO4b0t&fsk=ChEI8OWV0AYQ5_LMm-6LzZv8ARIsALhQeTIXj4Jkh9Ac7fheyxA6N746UPiEgqF_yt-DJ1hUkyl1S-d3D_JzkqIaAqKB&pscrd=IhMIveCc-sS6lAMVMVsIBB0wYQHLMgwIA2IICAAQABgAIAAyDAgEYggIABAAGAAgADIMCAdiCAgAEAAYACAAMgwICGIICAAQABgAIAAyDAgJYggIABAAGAAgADIMCApiCAgAEAAYACAAMgwIAmIICAAQABgAIAAyDAgLYggIABAAGAAgADIMCBViCAgAEAAYACAAMgwIH2IICAAQABgAIAAyDAgTYggIABAAGAAgADIMCBJiCAgAEAAYACAAOiVodHRwczovLzE0NTI4ODc1LmZscy5kb3VibGVjbGljay5uZXQvQldDaEFJOE9XVjBBWVEtcVh1cjlxYzdMa3VFaTBBWWxwMVpyTF9PajZNZE9USXA4aWtEbTVZYWVUcXhCTi1abmZEZTZfdUMydkJYSFU4cmZxTHFmaXplQ1V6DAgJYggIABAAGAAgAA
+  [302]                            0  https://c.clarity.ms/c.gif
+  [302]                            0  https://c.bing.com/c.gif?ctsa=mr&CtsSyncId=7320CFDD41F440DB9AC78D14F181BBD2&RedC=c.clarity.ms&MXFR=3B03BAFD9FB9617506E0ADA79BB96FB3
+
+# All DOM <img> (showing src + alt + dims):
+  src: https://t.teads.tv/track?action=pageView&env=js-gtm&tag_version=8.11.2_56d4338&provider=tag&buyer_pixel_id=11933&referer=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femira&user_session_id=5abeb636-464c-4d22-8423-39ba84add43c&hasConsent=true&cht=timeout
+  alt: ""
+  natW=1 natH=1 cssW=0 cssH=0 docY=0 visible=false
+  parent: ".video-js {\n        width: 300px;\n        height: 150px;\n      }\n\n      .vjs-fluid {\n        padding-top: 56.25%\n      }\n    \n      .vjs_video_506-dimensions {\n"
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/43a9a99af30a4ffda067b9b586536c76?v=665ae417
+  alt: "Lotus Centre icon.svg"
+  natW=13 natH=13 cssW=0 cssH=0 docY=0 visible=false
+  parent: "LOTUS CENTRES"
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9a1125e3829d401c911322ca043286bc?v=e9d2a0cb
+  alt: "my lotus login icon.svg"
+  natW=13 natH=13 cssW=0 cssH=0 docY=0 visible=false
+  parent: "MY LOTUS"
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/99dc1507812743acaaa03db88d4f069e?v=a691afe5
+  alt: ""
+  natW=1920 natH=1080 cssW=1181 cssH=590 docY=1642 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/15e0b0ba0f6a416094f853432db123f1?v=fdce58e9
+  alt: ""
+  natW=1920 natH=1080 cssW=1181 cssH=590 docY=1642 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/08f31ff113344d669a8cdadfc1313867?v=eebf87a3
+  alt: ""
+  natW=1920 natH=1080 cssW=1181 cssH=590 docY=1642 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/e2521cd2457a43bbb3befa46b36b894c?v=544f538d
+  alt: ""
+  natW=1920 natH=1080 cssW=1181 cssH=590 docY=1642 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/ad9fc441f87b4b92901307915140dc43?v=34673ee1
+  alt: ""
+  natW=1920 natH=1080 cssW=1181 cssH=590 docY=1642 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/a0bb8b4823e04e28b50537f8dbb22d45?v=d4f92935
+  alt: ""
+  natW=1920 natH=1080 cssW=1181 cssH=590 docY=1642 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/99dc1507812743acaaa03db88d4f069e?v=a691afe5
+  alt: ""
+  natW=1920 natH=1080 cssW=1181 cssH=590 docY=1642 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/15e0b0ba0f6a416094f853432db123f1?v=fdce58e9
+  alt: ""
+  natW=1920 natH=1080 cssW=1181 cssH=590 docY=1642 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/08f31ff113344d669a8cdadfc1313867?v=eebf87a3
+  alt: ""
+  natW=1920 natH=1080 cssW=1181 cssH=590 docY=1642 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/e2521cd2457a43bbb3befa46b36b894c?v=544f538d
+  alt: ""
+  natW=1920 natH=1080 cssW=1181 cssH=590 docY=1642 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/82cf79e6b6ad4ca5822a7b518dc0425e?v=9095bc46
+  alt: "emira-my26-purple-imageslider"
+  natW=1080 natH=800 cssW=639 cssH=486 docY=2564 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/a1f3a2190b504cd6a07b535d5cd7cc68?v=b0a311f4
+  alt: "emira-my26-purple-imageslider"
+  natW=1080 natH=800 cssW=639 cssH=486 docY=2564 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/4c3f4f23f1904f3bbed754b6bcd50be7?v=cf7f46b4
+  alt: ""
+  natW=1080 natH=800 cssW=639 cssH=486 docY=3310 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/dd4f25ae69a34b26b61e3c3daad0a514?v=31f074b3
+  alt: "Emira-MY26-V6SE-green-image-slider-1080x800-desktop"
+  natW=1080 natH=800 cssW=639 cssH=486 docY=3310 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/86fb07d117304f1a9357c466b27d8e7e?v=f6cd255d
+  alt: "emira-racing-line-grey-yellow-image-slider-1080x800-desktop"
+  natW=1080 natH=800 cssW=639 cssH=486 docY=4057 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/32f73bccabb14d069afbdbabf8f2ce72?v=20e7b6ac
+  alt: ""
+  natW=1080 natH=800 cssW=639 cssH=486 docY=4057 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/c6b15651d3a74075830b9990aedd6fad?v=134b30e1
+  alt: "Emira aero 1 desktop.webp"
+  natW=1920 natH=1080 cssW=1280 cssH=900 docY=5159 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/0ca775d0c0f54a4ba0deb3ef35aaa978?v=bbd1f1ea
+  alt: "emira exterior usp3.webp"
+  natW=800 natH=600 cssW=339 cssH=239 docY=6256 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9e3f9dfea242456aa9046937bb480564?v=3bd5bba6
+  alt: "emira exterior usp1.webp"
+  natW=800 natH=600 cssW=339 cssH=239 docY=6256 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/3ba55fae7dcf43a1a170e57eb8419ca4?v=6953d041
+  alt: "emira exterior usp2.webp"
+  natW=800 natH=600 cssW=339 cssH=239 docY=6256 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/3e86a72bd8424170b7ab89b7a95ae892?v=fe14109f
+  alt: "emira interior hero.webp"
+  natW=1920 natH=1080 cssW=1280 cssH=900 docY=7301 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/5ea4a23ba6874e298bde01b60c1d510e?v=dd3590e8
+  alt: "5-list-content-slide-2-desktop.webp"
+  natW=2560 natH=1440 cssW=339 cssH=239 docY=8398 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9870052023264b64a29922f542e3f42c?v=c8112c47
+  alt: "5-list-content-slide-refined finish-desktop.webp"
+  natW=2560 natH=1440 cssW=339 cssH=239 docY=8398 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/a27df4e249064275a877ad04c6fbce3c?v=f82fe0f5
+  alt: "5-list-content-slide-3-desktop.webp"
+  natW=2560 natH=1440 cssW=339 cssH=239 docY=8398 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/01d83644b24d47c8b1d36ab385762ca9?v=321a9367
+  alt: "emira-my26-listcontent-side-desktop.webp"
+  natW=1200 natH=800 cssW=339 cssH=239 docY=9143 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/a54e65d170804d9d96fdbfafb2d1faf8?v=ccd1fcf4
+  alt: "emira-my26-listcontent-front-desktop.webp"
+  natW=1200 natH=800 cssW=339 cssH=239 docY=9143 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9ece3276e55f43a9a530c9b17c7795e9?v=98e3183f
+  alt: "emira-my26-listcontent-rear-desktop.webp"
+  natW=1200 natH=800 cssW=339 cssH=239 docY=9143 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/040f3e900a4e42099d974bcccf99a50b?v=0b0922b8
+  alt: "emira pdp engine.webp"
+  natW=1920 natH=1080 cssW=1280 cssH=900 docY=9820 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/60666105730b4e6281d3bdea936ba262?v=0cc5bf6d
+  alt: "lotus-emira-dark-verdant-25.jpg"
+  natW=1024 natH=683 cssW=521 cssH=358 docY=10976 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/96bdd98faf9d4032b821883db5866c31?v=ee6b2cd1
+  alt: "lotus-emira-dark-verdant-39.jpg"
+  natW=1024 natH=683 cssW=521 cssH=358 docY=10976 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/772e54072046432ebe299632af21aa19?v=12e3569f
+  alt: "Emira exit desktop.webp"
+  natW=1920 natH=1080 cssW=1280 cssH=900 docY=11616 visible=true
+
+  src: https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261280%26900%268%2624%261280%26900%2610%26na&eci=3&event=%7B%7D&event_id=d39ac313-abee-4857-9849-d4bd72be51b1&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=829dd872-3099-4cbb-9193-cc803567025a&pt=Lotus%20Emira%20%E2%80%93%20Reserve%20Now%20%7C%20Lotus%20Cars&tw_document_href=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femira&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1778822164769.504594724196050191&txn_id=onc1l&type=javascript&version=2.3.53
+  alt: ""
+  natW=1 natH=1 cssW=0 cssH=0 docY=0 visible=false
+  parent: "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New windowYou need to enable JavaScript to run this app.\r\n    <iframe :src=\"`https://www.goog"
+
+  src: https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261280%26900%268%2624%261280%26900%2610%26na&eci=3&event=%7B%7D&event_id=d39ac313-abee-4857-9849-d4bd72be51b1&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=829dd872-3099-4cbb-9193-cc803567025a&pt=Lotus%20Emira%20%E2%80%93%20Reserve%20Now%20%7C%20Lotus%20Cars&tw_document_href=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femira&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1778822164769.504594724196050191&txn_id=onc1l&type=javascript&version=2.3.53
+  alt: ""
+  natW=1 natH=1 cssW=0 cssH=0 docY=0 visible=false
+  parent: "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New windowYou need to enable JavaScript to run this app.\r\n    <iframe :src=\"`https://www.goog"
+
+  src: https://map.go.affec.tv/map/af/?gdpr=[GDPR_APPLIES]&gdpr_consent=[GDPR_TCF_CONSENT_STRING]
+  alt: ""
+  natW=0 natH=0 cssW=0 cssH=0 docY=0 visible=false
+  parent: "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New windowYou need to enable JavaScript to run this app.\r\n    <iframe :src=\"`https://www.goog"
+
+
+========================================================================
+# MODEL: eletre    (source: consumer)
+# URL:   https://www.lotuscars.com/en-US/eletre
+========================================================================
+# DOM <img> count: 16
+# Network image responses: 30
+
+# All network image responses (status, ct, bytes, URL):
+  [200] image/webp            198356  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/65fb515f5e45491683fc61722155f829?v=b91aa09a
+  [200] image/webp            193348  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/fd87a66b53414da1b36140c8def51abd?v=3248f443
+  [200] image/webp            184512  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/15c253b1c39c4de4a2bd25254c54ce14?v=2abf0ea4
+  [200] image/webp            175552  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/f71325aafcab41b786169b016c0af91b?v=69bc422e
+  [200] image/webp            171508  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/b8b8702979054c67a74c628ff52caa98?v=2e92e29b
+  [200] image/webp            131082  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/a6a3e03a1de64f22829c15d731d8f9b1?v=0be403d5
+  [200] image/webp            129918  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9711931241bf4471acf0799e352bd65b?v=c8a168b8
+  [200] image/webp            123384  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/853056e02d884de09aa08b79de6acb28?v=9d0c4ced
+  [200] image/webp            111610  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/bc534d91f6894d80ad364b8e0fcde50e?v=65d77bd2
+  [200] image/webp             69084  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/402f7afa13914b69a250a0d965def3a9?v=46a9b148
+  [200] image/webp             30982  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/6333b8db6bf7483c8b58d30d9806a9d4?v=57a42678
+  [200] image/webp             14210  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/69f6ce5bb784496597c5a2e9edb422fc?v=9383a1f5
+  [200] image/svg+xml            770  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9a1125e3829d401c911322ca043286bc?v=e9d2a0cb
+  [200] image/svg+xml            475  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/43a9a99af30a4ffda067b9b586536c76?v=665ae417
+  [200] image/gif;charset=utf-8      43  https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261280%26900%268%2624%261280%26900%2610%26na&eci=3&event=%7B%7D&event_id=655b947b-1eb5-400c-a12e-fc1b90303237&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=8e761d15-7d65-41d0-a35f-175e8043998a&tw_document_href=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Feletre&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1778822187116.608556641334300042&txn_id=onc1l&type=javascript&version=2.3.53
+  [200] image/gif;charset=utf-8      43  https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261280%26900%268%2624%261280%26900%2610%26na&eci=3&event=%7B%7D&event_id=655b947b-1eb5-400c-a12e-fc1b90303237&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=8e761d15-7d65-41d0-a35f-175e8043998a&tw_document_href=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Feletre&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1778822187116.608556641334300042&txn_id=onc1l&type=javascript&version=2.3.53
+  [200] image/gif                 42  https://servedby.flashtalking.com/spot/1/27670;136563;15230/?ftXRef=&ftXValue=&ftXType=&ftXName=&ftXNumItems=&ftXCurrency=&U1=&U2=&U3=&U4=&U5=&U6=&U7=&U8=&U9=&U10=&U11=&U12=&U13=&U14=&U15=&U16=&U17=&U18=&U19=&U20=&ft_referrer=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Feletre%3F~U1%3DU1_VALUE%26U2%3DU2_VALUE%26U3%3DU3_VALUE%26U4%3DU4_VALUE%26U5%3DU5_VALUE%26U6%3DU6_VALUE%26U7%3DU7_VALUE%26U8%3DU8_VALUE%26U9%3DU9_VALUE%26U10%3DU10_VALUE%26U11%3DU11_VALUE%26U12%3DU12_VALUE%26U13%3DU13_VALUE%26U14%3DU14_VALUE%26U15%3DU15_VALUE%26U16%3DU16_VALUE%26U17%3DU17_VALUE%26U18%3DU18_VALUE%26U19%3DU19_VALUE%26U20%3DU20_VALUE&ns=&cb=445100151
+  [200] image/gif                 42  https://servedby.flashtalking.com/segment/2/read/a;;pixel/?s=15230&d=www.lotuscars.com&r=en-US/eletre
+  [200] image/gif                 42  https://servedby.flashtalking.com/segment/2/read/a;;pixel/?fl=n&s=15231&d=www.lotuscars.com&r=en-US/eletre
+  [200] image/gif                 42  https://ib.adnxs.com/pixie?e=PageView&pi=b24bb31a-50c7-4ee3-b434-2ea6e99f3258&it=1778822187194&v=0.0.45&u=https%3A%2F%2Fservedby.flashtalking.com%2Fcontainer%2F27670%3B136306%3B15230%3Biframe%2F%3FftXRef%3D%26ftXValue%3D%26ftXType%3D%26ftXName%3D%26ftXNumItems%3D%26ftXCurrency%3D%26U1%3D%26U2%3D%26U3%3D%26U4%3D%26U5%3D%26U6%3D%26U7%3D%26U8%3D%26U9%3D%26U10%3D%26U11%3D%26U12%3D%26U13%3D%26U14%3D%26U15%3D%26U16%3D%26U17%3D%26U18%3D%26U19%3D%26U20%3D%26ft_referrer%3Dhttps%253A%252F%252Fwww.lotuscars.com%252Fen-US%252Feletre%253F~U1%253DU1_VALUE%2526U2%253DU2_VALUE%2526U3%253DU3_VALUE%2526U4%253DU4_VALUE%2526U5%253DU5_VALUE%2526U6%253DU6_VALUE%2526U7%253DU7_VALUE%2526U8%253DU8_VALUE%2526U9%253DU9_VALUE%2526U10%253DU10_VALUE%2526U11%253DU11_VALUE%2526U12%253DU12_VALUE%2526U13%253DU13_VALUE%2526U14%253DU14_VALUE%2526U15%253DU15_VALUE%2526U16%253DU16_VALUE%2526U17%253DU17_VALUE%2526U18%253DU18_VALUE%2526U19%253DU19_VALUE%2526U20%253DU20_VALUE%26ns%3D%26cb%3D445100151&r=https%3A%2F%2Fwww.lotuscars.com%2F&st=1778822187194&et=1778822187211&if=1&uetmsmid=3f45071b-13b1-4726-a406-442e21a2133a&asce=0&ascc=0&tcfhl=0&tcfe=0&tcfgdpr=0&tcfc=0
+  [200] image/gif                 42  https://adservice.google.com/ddm/fls/z/dc_pre=CLf3-ITFupQDFabh_QUdhw08Hw;src=14528875;type=invmedia;cat=pagev0;rcb=12;ord=9245643477579;npa=0;auiddc=*;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe65d0h1v9183246123z8858689547za20gzb858689547zd858689547xea;gcs=G111;gcd=13r3r3n3n5l1;dma=0;dc_fmt=2;tag_exp=0~115938466~115938469;epver=2;dc_random=1778822187_MM7cX3XAM7hNsdMhSsfP4m17LZhsjJAUew;_dc_test=1;~oref=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Feletre
+  [200] image/gif                 42  https://www.google.com/pagead/1p-conversion/16538021857/?random=1761363359&cv=9&fst=1778822187974&num=1&npa=1&label=3XOnCMjNjKkZEOHf-M09&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465925%2C512247838%2C658953495&u_h=900&u_w=1280&ig=1&auid=67306008.1778822187&frm=2&url=https%3A%2F%2F14528875.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCLf3-ITFupQDFabh_QUdhw08Hw%3Bsrc%3D14528875%3Btype%3Dinvmedia%3Bcat%3Dpagev0%3Brcb%3D12%3Bord%3D9245643477579%3Bnpa%3D0%3Bauiddc%3D67306008.1778822187%3Buaa%3Dx86%3Buab%3D64%3Buafvl%3DChromium%253B148.0.7778.96%257CHeadlessChrome%253B148.0.7778.96%257CNot%25252FA)Brand%253B99.0.0.0%3Buamb%3D0%3Buam%3D%3Buap%3DWindows%3Buapv%3D10.0%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKFA%3Bgtm%3D45fe65d0h1v9183246123z8858689547za20gzb858689547zd858689547xea%3Bgcs%3DG111%3Bgcd%3D13r3r3n3n5l1%3Bdma%3D0%3Bdc_fmt%3D2%3Btag_exp%3D0~115938466~115938469%3Bepver%3D2%3Bdc_random%3D17788&ref=https%3A%2F%2Fwww.lotuscars.com%2F&top=https%3A%2F%2Fwww.lotuscars.com%2F&capi=1&hn=www.googleadservices.com&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCKG4sQIIscGxAgiwwbECCLHDsQIIisWxAgjCybECCLTGsQIIk9qxAgjb3LECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgj02rECCJfUsQIIyduxAgix4bECCLPhsQIIpt2xAgiw3rECCIDbsQJKJ3RyaWdnZXI7bmF2aWdhdGlvbi1zb3VyY2UsIGV2ZW50LXNvdXJjZVoDCgEBYgQKAgID&cerd=CgSN4b0t&fsk=ChEI8OWV0AYQ5_LMm-6LzZv8ARIsALhQeTJviE4d8b3N-dxxUY5d4-K8HJ4Y5g8wTAd7r7ZSNf6TsUvZp1jO71saAomD&pscrd=IhMIvfH_hMW6lAMVn0IIBB0-EjpiMgwIA2IICAAQABgAIAAyDAgEYggIABAAGAAgADIMCAdiCAgAEAAYACAAMgwICGIICAAQABgAIAAyDAgJYggIABAAGAAgADIMCApiCAgAEAAYACAAMgwIAmIICAAQABgAIAAyDAgLYggIABAAGAAgADIMCBViCAgAEAAYACAAMgwIH2IICAAQABgAIAAyDAgTYggIABAAGAAgADIMCBJiCAgAEAAYACAAOiVodHRwczovLzE0NTI4ODc1LmZscy5kb3VibGVjbGljay5uZXQvQlRDaEFJOE9XVjBBWVEtcVh1cjlxYzdMa3VFaXNBWWxwMVp2cW1FdE1HQUIwV0RjYTNjc3E5cWlYbzNxOGtQSUE2cEJQSU9TTnlnVGFpSzN4ckZFMG16DAgJYggIABAAGAAgAA&is_vtc=1&vdi=1&cid=CAQSvgEABaugfeOkizbXo-obJtQqgBxpXJgpM8Fo4dORhnrzQEh0Rcny3fNbCNPYauS6vVYGQClABurXwhud_tOS-jKI12td8Ht8WYV8FrXkyoQ_AQ2wPbgYuTjXPfIHM5VZf7QhyYCmXlRLMvoAeeAB7bTChc4oPle3YzsOLcN6zL2UiGR9uyYqJtg5wPLcX-BQ3qKi5LzVKnz-EwgioyMALwCyx-ofM1xWhWS_TFkwc_K2nRMVG-ZannPsTqEg1ZO_&random=2034773653&resp=GooglemKTybQhCsO
+  [200] image/gif                 42  https://www.google.com/pagead/1p-user-list/16514751243/?random=1778822187893&cv=11&fst=1778821200000&bg=ffffff&guid=ON&async=1&gtm=45be65d0h1v9181392897z8858689547za20gzb858689547zd858689547xea&gcd=13r3r3n3n5l1&dma=0&tag_exp=0~115938466~115938468&u_w=1280&u_h=900&url=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Feletre&rcb=17&frm=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=67306008.1778822187&uaa=x86&uab=64&uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&rfmt=3&fmt=3&is_vtc=1&cid=CAQS0wEABaugfZ91Gs9p84YgajcHCnIq3rITsTXzAbjJXaMUPCNKL43sCisk_rSXJcU3G-DBdR4xRHTxsBpDkWojkMAv7pqAa5m9uSt8RHeBIU__IgBhL-B76ocPORBC4t6rvx1KtiqPR0LyvYvwdEuTz1oIDsX2IKamIXOlsNzA9D89PyeIBUJHYjp2quqpmPydSqfjvw33IesvqbqMIm1z7WTNcUSHRKqJr1tJ_KRGC0QDn702wUr2R3vSPWNqqdHtnEG-7cr2BEDm7Yk_n7hwGa2RiXwB&random=4166515513&rmt_tld=0&ipr=y
+  [200] image/gif                 42  https://www.google.com/gmp/conversion/_dc_unique_id=14231796373817432990;_dc_ptd=ChEI8OWV0AYQn9r60MW36e_2ARIfAFxADp-QQgZimuz4D_sXkkiTnmzFVMujdg00gy1Axg;_dc_time=1778822187;dc_pre=CJnn-ITFupQDFTaOjggdVR4EyQ;src=14528875;type=invmedia;cat=pagev0;rcb=12;ord=9245643477579;npa=0;auiddc=67306008.1778822187;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe65d0h1v9183246123z8858689547za20gzb858689547zd858689547xea;gcs=G111;gcd=13r3r3n3n5l1;dma=0;dc_fmt=3;tag_exp=0~115938466~115938469;epver=2;dc_random=1778822187_MM7cX3XAM7hNsdMhSsfP4m17LZhsjJAUew;~oref=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Feletre?
+  [200] image/gif                 42  https://www.google.com/pagead/1p-user-list/17285024503/?random=1778822188310&cv=11&fst=1778821200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65d0h1v9226123641z8858689547za20gzb858689547zd858689547xec&gcd=13r3r3n3n5l1&dma=0&tag_exp=0~115938466~115938468&u_w=1280&u_h=900&url=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Feletre&rcb=3&frm=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=67306008.1778822187&uaa=x86&uab=64&uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=LA&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQSvgEABaugfdem-0-9O4vGDffGUhOxN2RmAvLQrgNEQEIFRDOheapV9moT8Mgw4745CC0o5FS7lzoTl74WKwFg4iJQNF7gCj_64LDoZHL4hktksUE3qpvNaGMNgHdlRae6uE10f4a444xdL6Fyzr7yhCvn5NVOfwu3R_ZTughBg8kTDgIIjff8Lwn55QzfvEY1v600KDjifxTfKSFq3RQcZYJM0bFO-8xPVu69jqx4OBMXiJN0y6PrFl4UCUksZipf&random=645482317&rmt_tld=0&ipr=y
+  [200] image/gif                 42  https://c.clarity.ms/c.gif?ctsa=mr&CtsSyncId=04D5D1B6652D46F7BC24FE67936B77D6&MUID=355B7338872E67030C366462861166B1
+  [200] image/gif                 23  https://t.teads.tv/track?action=pageView&env=js-gtm&tag_version=8.11.2_56d4338&provider=tag&buyer_pixel_id=11933&referer=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Feletre&user_session_id=bdb05242-4a2a-4375-aa12-c49315084bd2&hasConsent=true&cht=timeout
+  [302] image/gif                  0  https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16538021857/?random=1761363359&cv=9&fst=1778822187974&num=1&npa=1&label=3XOnCMjNjKkZEOHf-M09&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465925%2C512247838%2C658953495&u_h=900&u_w=1280&ig=1&auid=67306008.1778822187&frm=2&url=https%3A%2F%2F14528875.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCLf3-ITFupQDFabh_QUdhw08Hw%3Bsrc%3D14528875%3Btype%3Dinvmedia%3Bcat%3Dpagev0%3Brcb%3D12%3Bord%3D9245643477579%3Bnpa%3D0%3Bauiddc%3D67306008.1778822187%3Buaa%3Dx86%3Buab%3D64%3Buafvl%3DChromium%253B148.0.7778.96%257CHeadlessChrome%253B148.0.7778.96%257CNot%25252FA)Brand%253B99.0.0.0%3Buamb%3D0%3Buam%3D%3Buap%3DWindows%3Buapv%3D10.0%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKFA%3Bgtm%3D45fe65d0h1v9183246123z8858689547za20gzb858689547zd858689547xea%3Bgcs%3DG111%3Bgcd%3D13r3r3n3n5l1%3Bdma%3D0%3Bdc_fmt%3D2%3Btag_exp%3D0~115938466~115938469%3Bepver%3D2%3Bdc_random%3D17788&ref=https%3A%2F%2Fwww.lotuscars.com%2F&top=https%3A%2F%2Fwww.lotuscars.com%2F&capi=1&hn=www.googleadservices.com&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCKG4sQIIscGxAgiwwbECCLHDsQIIisWxAgjCybECCLTGsQIIk9qxAgjb3LECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgj02rECCJfUsQIIyduxAgix4bECCLPhsQIIpt2xAgiw3rECCIDbsQJKJ3RyaWdnZXI7bmF2aWdhdGlvbi1zb3VyY2UsIGV2ZW50LXNvdXJjZVoDCgEBYgQKAgID&cerd=CgSN4b0t&fsk=ChEI8OWV0AYQ5_LMm-6LzZv8ARIsALhQeTJviE4d8b3N-dxxUY5d4-K8HJ4Y5g8wTAd7r7ZSNf6TsUvZp1jO71saAomD&pscrd=IhMIvfH_hMW6lAMVn0IIBB0-EjpiMgwIA2IICAAQABgAIAAyDAgEYggIABAAGAAgADIMCAdiCAgAEAAYACAAMgwICGIICAAQABgAIAAyDAgJYggIABAAGAAgADIMCApiCAgAEAAYACAAMgwIAmIICAAQABgAIAAyDAgLYggIABAAGAAgADIMCBViCAgAEAAYACAAMgwIH2IICAAQABgAIAAyDAgTYggIABAAGAAgADIMCBJiCAgAEAAYACAAOiVodHRwczovLzE0NTI4ODc1LmZscy5kb3VibGVjbGljay5uZXQvQlRDaEFJOE9XVjBBWVEtcVh1cjlxYzdMa3VFaXNBWWxwMVp2cW1FdE1HQUIwV0RjYTNjc3E5cWlYbzNxOGtQSUE2cEJQSU9TTnlnVGFpSzN4ckZFMG16DAgJYggIABAAGAAgAA
+  [302]                            0  https://c.clarity.ms/c.gif
+  [302]                            0  https://c.bing.com/c.gif?ctsa=mr&CtsSyncId=04D5D1B6652D46F7BC24FE67936B77D6&RedC=c.clarity.ms&MXFR=0A1864B1D7CB6117178973EBD3CB6F95
+
+# All DOM <img> (showing src + alt + dims):
+  src: https://t.teads.tv/track?action=pageView&env=js-gtm&tag_version=8.11.2_56d4338&provider=tag&buyer_pixel_id=11933&referer=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Feletre&user_session_id=bdb05242-4a2a-4375-aa12-c49315084bd2&hasConsent=true&cht=timeout
+  alt: ""
+  natW=1 natH=1 cssW=0 cssH=0 docY=0 visible=false
+  parent: ".video-js {\n        width: 300px;\n        height: 150px;\n      }\n\n      .vjs-fluid {\n        padding-top: 56.25%\n      }\n    \n      .vjs_video_4544-dimensions {"
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/43a9a99af30a4ffda067b9b586536c76?v=665ae417
+  alt: "Lotus Centre icon.svg"
+  natW=13 natH=13 cssW=0 cssH=0 docY=0 visible=false
+  parent: "LOTUS CENTRES"
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9a1125e3829d401c911322ca043286bc?v=e9d2a0cb
+  alt: "my lotus login icon.svg"
+  natW=13 natH=13 cssW=0 cssH=0 docY=0 visible=false
+  parent: "MY LOTUS"
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/65fb515f5e45491683fc61722155f829?v=b91aa09a
+  alt: "carbon hero desktop.webp"
+  natW=1920 natH=1080 cssW=1280 cssH=900 docY=0 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9711931241bf4471acf0799e352bd65b?v=c8a168b8
+  alt: "city11.webp"
+  natW=1920 natH=1080 cssW=1280 cssH=900 docY=1429 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/402f7afa13914b69a250a0d965def3a9?v=46a9b148
+  alt: "carbon interior desktop.webp"
+  natW=1920 natH=1080 cssW=1280 cssH=900 docY=3634 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/f71325aafcab41b786169b016c0af91b?v=69bc422e
+  alt: "Interior - Cockpit - Desktop.webp"
+  natW=1034 natH=690 cssW=339 cssH=239 docY=4731 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/15c253b1c39c4de4a2bd25254c54ce14?v=2abf0ea4
+  alt: "Interior - Connectivity - Desktop.webp"
+  natW=1034 natH=690 cssW=339 cssH=239 docY=4731 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/bc534d91f6894d80ad364b8e0fcde50e?v=65d77bd2
+  alt: "Interior - Dolby - Desktop.webp"
+  natW=1034 natH=690 cssW=339 cssH=239 docY=4731 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/fd87a66b53414da1b36140c8def51abd?v=3248f443
+  alt: "city4.webp"
+  natW=1920 natH=1080 cssW=1280 cssH=900 docY=5342 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/b8b8702979054c67a74c628ff52caa98?v=2e92e29b
+  alt: "Support - KMI - Desktop.webp"
+  natW=1034 natH=690 cssW=339 cssH=239 docY=7274 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/853056e02d884de09aa08b79de6acb28?v=9d0c4ced
+  alt: "Support - Lotus Centre - Desktop.webp"
+  natW=1034 natH=690 cssW=339 cssH=239 docY=7274 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/a6a3e03a1de64f22829c15d731d8f9b1?v=0be403d5
+  alt: "Support - Test drive - Desktop.webp"
+  natW=1034 natH=690 cssW=339 cssH=239 docY=7274 visible=true
+
+  src: https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261280%26900%268%2624%261280%26900%2610%26na&eci=3&event=%7B%7D&event_id=655b947b-1eb5-400c-a12e-fc1b90303237&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=8e761d15-7d65-41d0-a35f-175e8043998a&tw_document_href=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Feletre&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1778822187116.608556641334300042&txn_id=onc1l&type=javascript&version=2.3.53
+  alt: ""
+  natW=1 natH=1 cssW=0 cssH=0 docY=0 visible=false
+  parent: "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New windowYou need to enable JavaScript to run this app.\r\n    <iframe :src=\"`https://www.goog"
+
+  src: https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261280%26900%268%2624%261280%26900%2610%26na&eci=3&event=%7B%7D&event_id=655b947b-1eb5-400c-a12e-fc1b90303237&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=8e761d15-7d65-41d0-a35f-175e8043998a&tw_document_href=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Feletre&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1778822187116.608556641334300042&txn_id=onc1l&type=javascript&version=2.3.53
+  alt: ""
+  natW=1 natH=1 cssW=0 cssH=0 docY=0 visible=false
+  parent: "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New windowYou need to enable JavaScript to run this app.\r\n    <iframe :src=\"`https://www.goog"
+
+  src: https://map.go.affec.tv/map/af/?gdpr=[GDPR_APPLIES]&gdpr_consent=[GDPR_TCF_CONSENT_STRING]
+  alt: ""
+  natW=0 natH=0 cssW=0 cssH=0 docY=0 visible=false
+  parent: "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New windowYou need to enable JavaScript to run this app.\r\n    <iframe :src=\"`https://www.goog"
+
+
+========================================================================
+# MODEL: emeya    (source: consumer)
+# URL:   https://www.lotuscars.com/en-US/emeya
+========================================================================
+# DOM <img> count: 23
+# Network image responses: 40
+
+# All network image responses (status, ct, bytes, URL):
+  [200] image/webp            708968  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/478532214df049baad7f26f7ebabacb5?v=f6f293f4
+  [200] image/webp            645070  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/28c7fc7a9bb74cab9cac4525ae309bf9?v=bdbb8ccd
+  [200] image/webp            292346  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/1325a7a101f549018995abccbdd2edf0?v=0a8e2b70
+  [200] image/webp            291524  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/694af9f549b34e9a8b558b8cdcfc9c35?v=9232fdfe
+  [200] image/webp            257404  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/bbab36464b0c466daf46fb03a24b4315?v=11af7c4e
+  [200] image/webp            157144  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/32f98710a44745f089e73bd132423a9e?v=d37cb317
+  [200] image/webp            139334  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/b7b84183f827487fb9c46db650f6634a?v=db40609a
+  [200] image/webp            128798  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/ac37e0a650ef45c0a936ebf2f3fa500e?v=57ef9966
+  [200] image/webp            119082  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/75167abfda47414280b958899f73d8f9?v=ae9876db
+  [200] image/webp             82288  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/0fdac51ab4f14c059952cb8333c7ee51?v=2fac93cd
+  [200] image/webp             79584  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/f3ac1837b130476eac7854e73cb72988?v=f38bca26
+  [200] image/webp             72790  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/52a5fc6e77df455980b0e0b52658e2f6?v=8dfdf2a5
+  [200] image/webp             72254  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/2b215c092bda484d88911db30bd4707f?v=6905302f
+  [200] image/webp             68220  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/34623828b211415f8e229b032341c402?v=cba32e7a
+  [200] image/webp             54904  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/768f007282ba49829656338ea6074e5c?v=d1b490e6
+  [200] image/webp             43872  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/c64ef37c1a1f4e8b82fad06473c36d82?v=55c76fbb
+  [200] image/webp             37820  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/fd2536ae9772452ab6f2e5cb242e1153?v=b1f5c55d
+  [200] image/svg+xml           1030  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/b9d9e62fb3124ff0b88d39590eedc00a?v=18015c6e
+  [200] image/svg+xml            770  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9a1125e3829d401c911322ca043286bc?v=e9d2a0cb
+  [200] image/png                766  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/2df9bc9d84c54e0db036d3e2e0dc2db8?v=80906a7b
+  [200] image/png                753  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/e2e0eb50e1a74b2196f832a85d32b0dc?v=3334fe9e
+  [200] image/png                614  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9748b6833c43465781ac6ccd0e86a939?v=7d6a5073
+  [200] image/svg+xml            475  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/43a9a99af30a4ffda067b9b586536c76?v=665ae417
+  [200] image/png                278  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/dae7f25a30cf4b1eb0b4666071716420?v=c458d4db
+  [200] image/gif;charset=utf-8      43  https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261280%26900%268%2624%261280%26900%2610%26na&eci=3&event=%7B%7D&event_id=d7236ffb-6a82-41ae-9494-880756fc7bd2&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=f0fa31fe-ea6d-44ab-aa1f-6f8f0dc91cd0&tw_document_href=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femeya&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1778822207696.19252864213917802&txn_id=onc1l&type=javascript&version=2.3.53
+  [200] image/gif;charset=utf-8      43  https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261280%26900%268%2624%261280%26900%2610%26na&eci=3&event=%7B%7D&event_id=d7236ffb-6a82-41ae-9494-880756fc7bd2&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=f0fa31fe-ea6d-44ab-aa1f-6f8f0dc91cd0&tw_document_href=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femeya&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1778822207696.19252864213917802&txn_id=onc1l&type=javascript&version=2.3.53
+  [200] image/gif                 42  https://servedby.flashtalking.com/spot/1/27670;136563;15230/?ftXRef=&ftXValue=&ftXType=&ftXName=&ftXNumItems=&ftXCurrency=&U1=&U2=&U3=&U4=&U5=&U6=&U7=&U8=&U9=&U10=&U11=&U12=&U13=&U14=&U15=&U16=&U17=&U18=&U19=&U20=&ft_referrer=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femeya%3F~U1%3DU1_VALUE%26U2%3DU2_VALUE%26U3%3DU3_VALUE%26U4%3DU4_VALUE%26U5%3DU5_VALUE%26U6%3DU6_VALUE%26U7%3DU7_VALUE%26U8%3DU8_VALUE%26U9%3DU9_VALUE%26U10%3DU10_VALUE%26U11%3DU11_VALUE%26U12%3DU12_VALUE%26U13%3DU13_VALUE%26U14%3DU14_VALUE%26U15%3DU15_VALUE%26U16%3DU16_VALUE%26U17%3DU17_VALUE%26U18%3DU18_VALUE%26U19%3DU19_VALUE%26U20%3DU20_VALUE&ns=&cb=919374490
+  [200] image/gif                 42  https://servedby.flashtalking.com/segment/2/read/a;;pixel/?fl=n&s=15231&d=www.lotuscars.com&r=en-US/emeya
+  [200] image/gif                 42  https://servedby.flashtalking.com/segment/2/read/a;;pixel/?s=15230&d=www.lotuscars.com&r=en-US/emeya
+  [200] image/gif                 42  https://ib.adnxs.com/pixie?e=PageView&pi=b24bb31a-50c7-4ee3-b434-2ea6e99f3258&it=1778822207766&v=0.0.45&u=https%3A%2F%2Fservedby.flashtalking.com%2Fcontainer%2F27670%3B136306%3B15230%3Biframe%2F%3FftXRef%3D%26ftXValue%3D%26ftXType%3D%26ftXName%3D%26ftXNumItems%3D%26ftXCurrency%3D%26U1%3D%26U2%3D%26U3%3D%26U4%3D%26U5%3D%26U6%3D%26U7%3D%26U8%3D%26U9%3D%26U10%3D%26U11%3D%26U12%3D%26U13%3D%26U14%3D%26U15%3D%26U16%3D%26U17%3D%26U18%3D%26U19%3D%26U20%3D%26ft_referrer%3Dhttps%253A%252F%252Fwww.lotuscars.com%252Fen-US%252Femeya%253F~U1%253DU1_VALUE%2526U2%253DU2_VALUE%2526U3%253DU3_VALUE%2526U4%253DU4_VALUE%2526U5%253DU5_VALUE%2526U6%253DU6_VALUE%2526U7%253DU7_VALUE%2526U8%253DU8_VALUE%2526U9%253DU9_VALUE%2526U10%253DU10_VALUE%2526U11%253DU11_VALUE%2526U12%253DU12_VALUE%2526U13%253DU13_VALUE%2526U14%253DU14_VALUE%2526U15%253DU15_VALUE%2526U16%253DU16_VALUE%2526U17%253DU17_VALUE%2526U18%253DU18_VALUE%2526U19%253DU19_VALUE%2526U20%253DU20_VALUE%26ns%3D%26cb%3D919374490&r=https%3A%2F%2Fwww.lotuscars.com%2F&st=1778822207766&et=1778822207884&if=1&uetmsmid=ccaa0676-f5d4-4423-9c27-f660f693b1ae&asce=0&ascc=0&tcfhl=0&tcfe=0&tcfgdpr=0&tcfc=0
+  [200] image/gif                 42  https://www.google.com/pagead/1p-user-list/16514751243/?random=1778822208145&cv=11&fst=1778821200000&bg=ffffff&guid=ON&async=1&gtm=45be65d0v9181392897z8858689547za20gzb858689547zd858689547xea&gcd=13r3r3n3n5l1&dma=0&tag_exp=0~115938466~115938468&u_w=1280&u_h=900&url=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femeya&rcb=13&frm=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=301368829.1778822208&uaa=x86&uab=64&uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&rfmt=3&fmt=3&is_vtc=1&cid=CAQSsAEABaugfdHKM7bW_yB2VmZqAbExoe9fCmvZ0GAW0xZ2Am8WF9BzDGEBgxMtdwavHfJ2X91WtTiLIRSPxlT7aMdfXUmgtdau3XskigdH_ETRB--8Nu-7Iym4aWSHkQN0flvvWvMLWitCSA-mGuWRCsLFsysFV3yabwIlFpoWU3ebWPqURrBN9ffRmEX6YoNTWQ6p8rk7nsze108xH2canUTGX8YxXkT4v-si56qAs4KTng&random=3821741010&rmt_tld=0&ipr=y
+  [200] image/gif                 42  https://adservice.google.com/ddm/fls/z/dc_pre=COb3047FupQDFdTw_QUdo6sENA;src=14528875;type=invmedia;cat=pagev0;rcb=14;ord=5372677496535;npa=0;auiddc=*;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe65d0v9183246123z8858689547za20gzb858689547zd858689547xea;gcs=G111;gcd=13r3r3n3n5l1;dma=0;dc_fmt=2;tag_exp=0~115616985~115938466~115938468;epver=2;dc_random=1778822208_jVnsHWlc4v4wvHPhVBCoMNaEvHjTqNqy5A;_dc_test=1;~oref=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femeya
+  [200] image/gif                 42  https://www.google.com/pagead/1p-conversion/16538021857/?random=1750222559&cv=9&fst=1778822208352&num=1&npa=1&label=3XOnCMjNjKkZEOHf-M09&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465926%2C512247839%2C658953496&u_h=900&u_w=1280&ig=1&auid=301368829.1778822208&frm=2&url=https%3A%2F%2F14528875.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCOb3047FupQDFdTw_QUdo6sENA%3Bsrc%3D14528875%3Btype%3Dinvmedia%3Bcat%3Dpagev0%3Brcb%3D14%3Bord%3D5372677496535%3Bnpa%3D0%3Bauiddc%3D301368829.1778822208%3Buaa%3Dx86%3Buab%3D64%3Buafvl%3DChromium%253B148.0.7778.96%257CHeadlessChrome%253B148.0.7778.96%257CNot%25252FA)Brand%253B99.0.0.0%3Buamb%3D0%3Buam%3D%3Buap%3DWindows%3Buapv%3D10.0%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKFA%3Bgtm%3D45fe65d0v9183246123z8858689547za20gzb858689547zd858689547xea%3Bgcs%3DG111%3Bgcd%3D13r3r3n3n5l1%3Bdma%3D0%3Bdc_fmt%3D2%3Btag_exp%3D0~115616985~115938466~115938468%3Bepver%3D2%3Bdc_ran&ref=https%3A%2F%2Fwww.lotuscars.com%2F&top=https%3A%2F%2Fwww.lotuscars.com%2F&capi=1&hn=www.googleadservices.com&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCKG4sQIIscGxAgiwwbECCLHDsQIIisWxAgjCybECCLTGsQIIk9qxAgjb3LECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgj02rECCJfUsQIIyduxAgix4bECCLPhsQIIpt2xAgiw3rECCIDbsQJKFXRyaWdnZXIsIGV2ZW50LXNvdXJjZVoDCgEBYgQKAgID&cerd=CgSN4b0t&fsk=ChEI8OWV0AYQ5_LMm-6LzZv8ARIsALhQeTLNNqXMU8tU9ArBaQzaUMmn1edOWa-xhhFRnhiDPriGYv5o12YlBGEaAslA&pscrd=IhMIxbvbjsW6lAMVyZE6BR2klTIVMgwIA2IICAAQABgAIAAyDAgEYggIABAAGAAgADIMCAdiCAgAEAAYACAAMgwICGIICAAQABgAIAAyDAgJYggIABAAGAAgADIMCApiCAgAEAAYACAAMgwIAmIICAAQABgAIAAyDAgLYggIABAAGAAgADIMCBViCAgAEAAYACAAMgwIH2IICAAQABgAIAAyDAgTYggIABAAGAAgADIMCBJiCAgAEAAYACAAOiVodHRwczovLzE0NTI4ODc1LmZscy5kb3VibGVjbGljay5uZXQvQldDaEFJOE9XVjBBWVEtcVh1cjlxYzdMa3VFaTBBWWxwMVpzLWxDT0JYODB1OWV6UjQxSnd3WXI2MXltU1hNLVdmUm1sRGh3QlUyVzFISnVSMGFMQWptd0F6DAgJYggIABAAGAAgAA&is_vtc=1&vdi=1&cid=CAQSvgEABaugfZgUoZOC9xpBZwcJNwWCTZKLzM1omXYgL5gykY_sG_BA4yQbcKlrWeeWUtsn5vAx8df5-d_oXJnbq1vekna0ETMThGGC46EwYIBIpKIghH3Sj42MBB9Lu1bmYH8xJikGUQ8ilv7y3zAemcoiWnFTRr9X4zRv_ZuxY7_9SFGy7rzihhXpPsgzUwYZGoxqNSExiAphL5i5q8HM8gxnQbLG-v9K6l95JTFCj3qhaxHzADKYhAU88KsoVwEi&random=1709502029&resp=GooglemKTybQhCsO
+  [200] image/gif                 42  https://www.google.com/gmp/conversion/_dc_unique_id=5090750081740043773;_dc_ptd=ChEI8OWV0AYQn9r60MW36e_2ARIfAFxADp9sxfnu5hsY2BH-3eTKMCLaLJ-AgndBJQJpWg;_dc_time=1778822208;cid=CAQSvgEABaugfZST6pIxhLzxY1rGWYwufVkcl3aEz9mFhOyX13S7NCP7K7la0L_sVzC4wc4ND0XtLxCNTwUOPdnkoyeP656r_fnrJKSnQWEh8GvSXDrfPgvehRc6oBIsx-E7bXPt2DhdfokejVA4gfiuMibWua0hx5R7udEQT3ZVYwDZcvF1djmpWOBSw09KT07LuzsrhNgiGldj0sZIf91PJrCTGIGTGvtRey6dve1hK85r4pUoz7ObMTKwKDJrzt9Z;eps=AHas8cANoLHEw_7h4_r2wlSZOmZfV85Qp_tNm_dkl_uPTdDj7cSGod9DW_PqeVQO9wyFM2QJXcoWTzqaISWOeLrUfpqpJzpqEQ6PVlfvWFIOpPdsQg;dc_pre=CLD2047FupQDFVafjggdRKoQwg;src=14528875;type=invmedia;cat=pagev0;rcb=14;ord=5372677496535;npa=0;auiddc=301368829.1778822208;uaa=x86;uab=64;uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe65d0v9183246123z8858689547za20gzb858689547zd858689547xea;gcs=G111;gcd=13r3r3n3n5l1;dma=0;dc_fmt=3;tag_exp=0~115616985~115938466~115938468;epver=2;dc_random=1778822208_jVnsHWlc4v4wvHPhVBCoMNaEvHjTqNqy5A;~oref=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femeya?
+  [200] image/gif                 42  https://www.google.com/pagead/1p-user-list/17285024503/?random=1778822208872&cv=11&fst=1778821200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65d0v9226123641z8858689547za20gzb858689547zd858689547xec&gcd=13r3r3n3n5l1&dma=0&tag_exp=0~115938466~115938469&u_w=1280&u_h=900&url=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femeya&rcb=17&frm=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=301368829.1778822208&uaa=x86&uab=64&uafvl=Chromium%3B148.0.7778.96%7CHeadlessChrome%3B148.0.7778.96%7CNot%252FA)Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=LA&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4QEABaugfVXx3jnzSrXfTjrZRcNxzl3ogrEcqSTRKqpPa9S0D0teZKvBMo25vxuMPgRWkKi2JNHWUZZBJ8HxYeOqm8f4BtnGUIMR5oOTYibsHPyvQr-46KJygODp7LYc9t9vho-QkCkwe1NEXuMNtNwjm3DYsaMhIhLXTdfgSQcQzrODDyko3efUXTh_YuIEUSYePkPq0cL3JrNXkMXEXiwyMbNKBLnPx3VhwLfWGH8BgNS9XUK7JLnks6k6A3hq9Zu4HWI6K85PDlyBqihl2yWeyKd5xCY6GayxnLCmdsNehzw&random=3642604887&rmt_tld=0&ipr=y
+  [200] image/gif                 42  https://c.clarity.ms/c.gif?ctsa=mr&CtsSyncId=FF8DB5C348E4433A9E401CC56E09072B&MUID=138994DB6CB766D72F2783816D8867D0
+  [200] image/gif                 23  https://t.teads.tv/track?action=pageView&env=js-gtm&tag_version=8.11.2_56d4338&provider=tag&buyer_pixel_id=11933&referer=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femeya&user_session_id=8c9f4bd4-869a-4910-93ad-25a479831aca&hasConsent=true&cht=timeout
+  [302] image/gif                  0  https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16538021857/?random=1750222559&cv=9&fst=1778822208352&num=1&npa=1&label=3XOnCMjNjKkZEOHf-M09&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465926%2C512247839%2C658953496&u_h=900&u_w=1280&ig=1&auid=301368829.1778822208&frm=2&url=https%3A%2F%2F14528875.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCOb3047FupQDFdTw_QUdo6sENA%3Bsrc%3D14528875%3Btype%3Dinvmedia%3Bcat%3Dpagev0%3Brcb%3D14%3Bord%3D5372677496535%3Bnpa%3D0%3Bauiddc%3D301368829.1778822208%3Buaa%3Dx86%3Buab%3D64%3Buafvl%3DChromium%253B148.0.7778.96%257CHeadlessChrome%253B148.0.7778.96%257CNot%25252FA)Brand%253B99.0.0.0%3Buamb%3D0%3Buam%3D%3Buap%3DWindows%3Buapv%3D10.0%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKFA%3Bgtm%3D45fe65d0v9183246123z8858689547za20gzb858689547zd858689547xea%3Bgcs%3DG111%3Bgcd%3D13r3r3n3n5l1%3Bdma%3D0%3Bdc_fmt%3D2%3Btag_exp%3D0~115616985~115938466~115938468%3Bepver%3D2%3Bdc_ran&ref=https%3A%2F%2Fwww.lotuscars.com%2F&top=https%3A%2F%2Fwww.lotuscars.com%2F&capi=1&hn=www.googleadservices.com&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCKG4sQIIscGxAgiwwbECCLHDsQIIisWxAgjCybECCLTGsQIIk9qxAgjb3LECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgj02rECCJfUsQIIyduxAgix4bECCLPhsQIIpt2xAgiw3rECCIDbsQJKFXRyaWdnZXIsIGV2ZW50LXNvdXJjZVoDCgEBYgQKAgID&cerd=CgSN4b0t&fsk=ChEI8OWV0AYQ5_LMm-6LzZv8ARIsALhQeTLNNqXMU8tU9ArBaQzaUMmn1edOWa-xhhFRnhiDPriGYv5o12YlBGEaAslA&pscrd=IhMIxbvbjsW6lAMVyZE6BR2klTIVMgwIA2IICAAQABgAIAAyDAgEYggIABAAGAAgADIMCAdiCAgAEAAYACAAMgwICGIICAAQABgAIAAyDAgJYggIABAAGAAgADIMCApiCAgAEAAYACAAMgwIAmIICAAQABgAIAAyDAgLYggIABAAGAAgADIMCBViCAgAEAAYACAAMgwIH2IICAAQABgAIAAyDAgTYggIABAAGAAgADIMCBJiCAgAEAAYACAAOiVodHRwczovLzE0NTI4ODc1LmZscy5kb3VibGVjbGljay5uZXQvQldDaEFJOE9XVjBBWVEtcVh1cjlxYzdMa3VFaTBBWWxwMVpzLWxDT0JYODB1OWV6UjQxSnd3WXI2MXltU1hNLVdmUm1sRGh3QlUyVzFISnVSMGFMQWptd0F6DAgJYggIABAAGAAgAA
+  [302]                            0  https://c.clarity.ms/c.gif
+  [302]                            0  https://c.bing.com/c.gif?ctsa=mr&CtsSyncId=FF8DB5C348E4433A9E401CC56E09072B&RedC=c.clarity.ms&MXFR=3DEC32A6AEC56E6E200225FCAAC560B0
+
+# All DOM <img> (showing src + alt + dims):
+  src: https://t.teads.tv/track?action=pageView&env=js-gtm&tag_version=8.11.2_56d4338&provider=tag&buyer_pixel_id=11933&referer=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femeya&user_session_id=8c9f4bd4-869a-4910-93ad-25a479831aca&hasConsent=true&cht=timeout
+  alt: ""
+  natW=1 natH=1 cssW=0 cssH=0 docY=0 visible=false
+  parent: ".video-js {\n        width: 300px;\n        height: 150px;\n      }\n\n      .vjs-fluid {\n        padding-top: 56.25%\n      }\n    \n      .vjs_video_2993-dimensions {"
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/43a9a99af30a4ffda067b9b586536c76?v=665ae417
+  alt: "Lotus Centre icon.svg"
+  natW=13 natH=13 cssW=0 cssH=0 docY=0 visible=false
+  parent: "LOTUS CENTRES"
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9a1125e3829d401c911322ca043286bc?v=e9d2a0cb
+  alt: "my lotus login icon.svg"
+  natW=13 natH=13 cssW=0 cssH=0 docY=0 visible=false
+  parent: "MY LOTUS"
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/ac37e0a650ef45c0a936ebf2f3fa500e?v=57ef9966
+  alt: "AlphaPDP_Header_Desktop.webp"
+  natW=2560 natH=1440 cssW=1280 cssH=900 docY=1623 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/28c7fc7a9bb74cab9cac4525ae309bf9?v=bdbb8ccd
+  alt: ""
+  natW=2560 natH=1440 cssW=1280 cssH=900 docY=2523 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/478532214df049baad7f26f7ebabacb5?v=f6f293f4
+  alt: ""
+  natW=2560 natH=1440 cssW=1280 cssH=900 docY=2523 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/694af9f549b34e9a8b558b8cdcfc9c35?v=9232fdfe
+  alt: ""
+  natW=2560 natH=1440 cssW=1280 cssH=900 docY=2523 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/b7b84183f827487fb9c46db650f6634a?v=db40609a
+  alt: ""
+  natW=2560 natH=1440 cssW=1280 cssH=900 docY=2523 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9748b6833c43465781ac6ccd0e86a939?v=7d6a5073
+  alt: "charge speed icon"
+  natW=56 natH=56 cssW=56 cssH=56 docY=3746 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/e2e0eb50e1a74b2196f832a85d32b0dc?v=3334fe9e
+  alt: "charge speed icon"
+  natW=56 natH=56 cssW=56 cssH=56 docY=3746 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/bbab36464b0c466daf46fb03a24b4315?v=11af7c4e
+  alt: "AlphaPDP_Interior_Desktop.webp"
+  natW=2560 natH=1440 cssW=1280 cssH=900 docY=5149 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/2df9bc9d84c54e0db036d3e2e0dc2db8?v=80906a7b
+  alt: "charge speed icon"
+  natW=58 natH=56 cssW=56 cssH=56 docY=6045 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/dae7f25a30cf4b1eb0b4666071716420?v=c458d4db
+  alt: "charge speed icon"
+  natW=56 natH=56 cssW=56 cssH=56 docY=6045 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/b9d9e62fb3124ff0b88d39590eedc00a?v=18015c6e
+  alt: "charge speed icon"
+  natW=150 natH=150 cssW=56 cssH=56 docY=6045 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/f3ac1837b130476eac7854e73cb72988?v=f38bca26
+  alt: "AlphaPDP_Carbon1_Tablet.webp"
+  natW=900 natH=600 cssW=521 cssH=358 docY=6291 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/34623828b211415f8e229b032341c402?v=cba32e7a
+  alt: "AlphaPDP_Carbon2_Tablet.webp"
+  natW=901 natH=600 cssW=521 cssH=358 docY=6291 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/75167abfda47414280b958899f73d8f9?v=ae9876db
+  alt: "AlphaPDP_DriveHeader_Desktop.webp"
+  natW=2560 natH=1440 cssW=1280 cssH=900 docY=6857 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/52a5fc6e77df455980b0e0b52658e2f6?v=8dfdf2a5
+  alt: "AlphaPDP_DriveAnother_Desktop.webp"
+  natW=2560 natH=1440 cssW=1280 cssH=900 docY=8046 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/1325a7a101f549018995abccbdd2edf0?v=0a8e2b70
+  alt: "AlphaPDP_Stop_Desktop.webp"
+  natW=2560 natH=1440 cssW=1280 cssH=900 docY=8946 visible=true
+
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/32f98710a44745f089e73bd132423a9e?v=d37cb317
+  alt: "AlphaPDP_Reserve_Desktop.webp"
+  natW=2560 natH=1440 cssW=1280 cssH=900 docY=9846 visible=true
+
+  src: https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261280%26900%268%2624%261280%26900%2610%26na&eci=3&event=%7B%7D&event_id=d7236ffb-6a82-41ae-9494-880756fc7bd2&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=f0fa31fe-ea6d-44ab-aa1f-6f8f0dc91cd0&tw_document_href=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femeya&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1778822207696.19252864213917802&txn_id=onc1l&type=javascript&version=2.3.53
+  alt: ""
+  natW=1 natH=1 cssW=0 cssH=0 docY=0 visible=false
+  parent: "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New windowYou need to enable JavaScript to run this app.\r\n    <iframe :src=\"`https://www.goog"
+
+  src: https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261280%26900%268%2624%261280%26900%2610%26na&eci=3&event=%7B%7D&event_id=d7236ffb-6a82-41ae-9494-880756fc7bd2&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=f0fa31fe-ea6d-44ab-aa1f-6f8f0dc91cd0&tw_document_href=https%3A%2F%2Fwww.lotuscars.com%2Fen-US%2Femeya&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1778822207696.19252864213917802&txn_id=onc1l&type=javascript&version=2.3.53
+  alt: ""
+  natW=1 natH=1 cssW=0 cssH=0 docY=0 visible=false
+  parent: "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New windowYou need to enable JavaScript to run this app.\r\n    <iframe :src=\"`https://www.goog"
+
+  src: https://map.go.affec.tv/map/af/?gdpr=[GDPR_APPLIES]&gdpr_consent=[GDPR_TCF_CONSENT_STRING]
+  alt: ""
+  natW=0 natH=0 cssW=0 cssH=0 docY=0 visible=false
+  parent: "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New windowYou need to enable JavaScript to run this app.\r\n    <iframe :src=\"`https://www.goog"
+
+
+========================================================================
+# MODEL: emira    (source: press-en)
+# URL:   https://www.lotuscars.com/en/press/galleries/emira
+========================================================================
+# DOM <img> count: 3
+# Network image responses: 43
+
+# All network image responses (status, ct, bytes, URL):
+  [200] image/jpeg            161355  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-f45df907d7d94c348757198ecd7eb6cf?expires=2026-05-15T05%3A37%3A08.980Z&signature=trrqeuJcqFQ
+  [200] image/jpeg            159546  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-a15de30a546d4924b4eab51fb21cda6c?expires=2026-05-15T05%3A37%3A08.980Z&signature=FdvzXIbuISw
+  [200] image/jpeg            155771  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-acda084a12d74c5cb3f8074d9cbe9195?expires=2026-05-15T05%3A37%3A08.980Z&signature=c1vxsaorhCo
+  [200] image/jpeg            155366  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-a26a15415ea148b59f45effa551a4873?expires=2026-05-15T05%3A37%3A08.980Z&signature=ahcqEFCoG4Y
+  [200] image/jpeg            147745  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-d085e7dbe99a4375b78d58bf793b2a7e?expires=2026-05-15T05%3A37%3A08.980Z&signature=d0CfbI4UZv4
+  [200] image/jpeg            147354  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-5c339127632c42f380dcd6ad9b0004ca?expires=2026-05-15T05%3A37%3A08.980Z&signature=le4OYB6qvvw
+  [200] image/jpeg            144607  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-58826fa98c954a2d984f6a6ed8f2887c?expires=2026-05-15T05%3A37%3A08.980Z&signature=N5Bwa9k1Mgc
+  [200] image/jpeg            144576  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-0ab77908ac9c4f5ea3c4585624dfce41?expires=2026-05-15T05%3A37%3A08.980Z&signature=uIQsT5cgeaI
+  [200] image/jpeg            143667  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-7e2cfcc586594ab786aefd33959188cf?expires=2026-05-15T05%3A37%3A08.980Z&signature=HFwR5czd2aQ
+  [200] image/jpeg            141784  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-1b2f8e3f48884d428590e2bfb775115e?expires=2026-05-15T05%3A37%3A08.980Z&signature=LvAabk2xLDs
+  [200] image/jpeg            136166  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-e4cea122f2ca4df2b49c05e27d5ae268?expires=2026-05-15T05%3A37%3A08.980Z&signature=L_SwHsbIJ18
+  [200] image/jpeg            134654  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-f62b96a89e2848baac74117c19460185?expires=2026-05-15T05%3A37%3A08.980Z&signature=F121tqL-2VE
+  [200] image/jpeg            132809  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-16562213c1f04e1db96ba0c7f6f250e7?expires=2026-05-15T05%3A37%3A08.980Z&signature=ZPoxu5TSuCs
+  [200] image/jpeg            132279  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-7411632ed01b42e88a2be1753010af8c?expires=2026-05-15T05%3A37%3A08.980Z&signature=agkjboper4s
+  [200] image/jpeg            129465  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-2ed8a3d9936d4607baa066167e7751e4?expires=2026-05-15T05%3A37%3A08.980Z&signature=2UNLGrtfXPQ
+  [200] image/jpeg            129362  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-5894220e60c5411b98b9dd45d0625471?expires=2026-05-15T05%3A37%3A08.980Z&signature=2oPqjQFEnBE
+  [200] image/jpeg            126688  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-99d4dd5c201b417d8f1aa644fb0f2723?expires=2026-05-15T05%3A37%3A08.980Z&signature=dFHIyL13ASk
+  [200] image/jpeg            119773  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-c942fd3350ff466db10115d6edec6da3?expires=2026-05-15T05%3A37%3A08.980Z&signature=YQsMb7Y5vLw
+  [200] image/jpeg            118521  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-bb9899f62f45470a83a181709f8fbc4a?expires=2026-05-15T05%3A37%3A08.980Z&signature=DjLKnmusnWk
+  [200] image/jpeg            118212  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-5d9f36198e40428e802993b3bff9d021?expires=2026-05-15T05%3A37%3A08.980Z&signature=XJYRRURKeO4
+  [200] image/jpeg            116927  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-a4943c19357242359097c14192156be9?expires=2026-05-15T05%3A37%3A08.980Z&signature=aTwz--IVpiM
+  [200] image/jpeg            116779  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-cfb4c674f9ed42aaa7d5c3085dd75baf?expires=2026-05-15T05%3A37%3A08.980Z&signature=JXUCkzemnZQ
+  [200] image/jpeg            116398  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-a793b0e09a504912878cb74cf341d657?expires=2026-05-15T05%3A37%3A08.980Z&signature=5ESHdKUlGRA
+  [200] image/jpeg            115755  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-d888247842e240cdb459f0f8fa47468c?expires=2026-05-15T05%3A37%3A08.980Z&signature=_Sw_tbfnXZI
+  [200] image/jpeg            115654  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-771a75713b53411d8e1f7c8687ef0f9b?expires=2026-05-15T05%3A37%3A08.980Z&signature=FpdRyojEOt0
+  [200] image/jpeg            115319  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-dce432ca203c42cd8a79db87f1506cdb?expires=2026-05-15T05%3A37%3A08.980Z&signature=TwkZcyIx5Eg
+  [200] image/jpeg            114856  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-af1af500c86f4c459c6e37d79438e447?expires=2026-05-15T05%3A37%3A08.980Z&signature=DyQ5YkHgt7A
+  [200] image/jpeg            113078  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-13e008f6ac58428ab03fdc2af3272565?expires=2026-05-15T05%3A37%3A08.980Z&signature=OS-3m-UfCio
+  [200] image/jpeg            102675  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-bda458acd22042039cc66cc9b460ab7f?expires=2026-05-15T05%3A37%3A08.980Z&signature=6YvCwdqd8uA
+  [200] image/jpeg            102555  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-c519cd78ca0647aca7ee0eb95ecdec04?expires=2026-05-15T05%3A37%3A08.980Z&signature=QPl1G2ETSNY
+  [200] image/jpeg             98432  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-05f3d98b48cf43548f2234ff222bd6bd?expires=2026-05-15T05%3A37%3A08.980Z&signature=mAc14yTrcZE
+  [200] image/jpeg             96489  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-823712067ec14999b4fd4e1d5253f26a?expires=2026-05-15T05%3A37%3A08.980Z&signature=tH6PF5olXbY
+  [200] image/jpeg             94825  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-d52e726559e3456f81ee84691f227ea7?expires=2026-05-15T05%3A37%3A08.980Z&signature=IjfcP4y5fyI
+  [200] image/jpeg             88496  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-1ba6a360afb043b3b24e48976640f339?expires=2026-05-15T05%3A37%3A08.980Z&signature=YnkIxLcq7As
+  [200] image/jpeg             77591  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-fe21b402204f4d49894f73bc67c6adba?expires=2026-05-15T05%3A37%3A08.980Z&signature=mo6WdsbtHzM
+  [200] image/jpeg             75195  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-c86ecc5eb48b4ab2b742fd8236f259fc?expires=2026-05-15T05%3A37%3A08.980Z&signature=rajhkmmORQo
+  [200] image/png              19373  https://cdn-ukwest.onetrust.com/logos/static/ot_company_logo.png
+  [200] image/svg+xml           5445  https://cdn-ukwest.onetrust.com/logos/static/powered_by_logo.svg
+  [200] image/svg+xml           3587  https://wlt-p-001.sitecorecontenthub.cloud/api/public/portal/113430%2Fb637c23f%2Flogo.svg?v=67e33bcb
+  [200] image/svg+xml            651  https://cdn-ukwest.onetrust.com/logos/static/ot_close.svg
+  [200] image/svg+xml            497  https://cdn-ukwest.onetrust.com/logos/static/ot_guard_logo.svg
+  [200] image/svg+xml            227  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/7dec4dceddc64c2684729aa44887e8ee?v=fdfde2ce
+  [200] image/png                128  https://wlt-p-001.sitecorecontenthub.cloud/pca-assets/transparency-pattern.png
+
+# All DOM <img> (showing src + alt + dims):
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/7dec4dceddc64c2684729aa44887e8ee?v=fdfde2ce
+  alt: "arrow"
+  natW=21 natH=21 cssW=0 cssH=0 docY=0 visible=false
+  parent: "BACK TO LOTUSCARS.COM"
+
+  src: https://cdn-ukwest.onetrust.com/logos/static/ot_company_logo.png
+  alt: "Company Logo"
+  natW=2042 natH=280 cssW=0 cssH=0 docY=0 visible=false
+
+  src: https://cdn-ukwest.onetrust.com/logos/static/powered_by_logo.svg
+  alt: "Powered by Onetrust Powered by OneTrust Opens in a new Tab"
+  natW=568 natH=53 cssW=0 cssH=0 docY=0 visible=false
+
+
+========================================================================
+# MODEL: eletre    (source: press-en)
+# URL:   https://www.lotuscars.com/en/press/galleries/eletre
+========================================================================
+# DOM <img> count: 3
+# Network image responses: 43
+
+# All network image responses (status, ct, bytes, URL):
+  [200] image/jpeg            144490  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-a6481a1dc548430a89741cce629419e5?expires=2026-05-15T05%3A37%3A14.676Z&signature=AAiJ9BjhbsU
+  [200] image/jpeg            143464  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-d63360d37f3d4e4eba08ce7525e0829d?expires=2026-05-15T05%3A37%3A14.676Z&signature=3cS6FBzF-zs
+  [200] image/jpeg            139888  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-f49c96556c064544ac9d1bcfaf2bc035?expires=2026-05-15T05%3A37%3A14.676Z&signature=0YIgfSrBpiE
+  [200] image/jpeg            136728  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-7eb514f143cd401fbbdae23723f5d178?expires=2026-05-15T05%3A37%3A14.676Z&signature=MI1YXD1JEbQ
+  [200] image/jpeg            132242  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-1a5199cda93e44479e8d949e3fb2fb8f?expires=2026-05-15T05%3A37%3A14.676Z&signature=l6eREy9MVO8
+  [200] image/jpeg            127073  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-868f0178dc7e47f3b44516c85280640b?expires=2026-05-15T05%3A37%3A14.676Z&signature=C00-nXlK-PM
+  [200] image/jpeg            125436  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-1b42001ff0e54733931b8777b4fa49c0?expires=2026-05-15T05%3A37%3A14.676Z&signature=qEVnY4tLYSo
+  [200] image/jpeg            125169  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-81a031146cc148bb9dcd42b9af9a7dd7?expires=2026-05-15T05%3A37%3A14.676Z&signature=4XmZkS_23_k
+  [200] image/jpeg            124457  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-f9ae0467545e4d5b8d5b9adcd8012631?expires=2026-05-15T05%3A37%3A14.676Z&signature=-xDjqha21qQ
+  [200] image/jpeg            122716  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-62df999623ea4164844a1aa16640dfc9?expires=2026-05-15T05%3A37%3A14.676Z&signature=SCWTCnFxRwM
+  [200] image/jpeg            116536  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-fabaaed12efd406b942d34b9fabd21ee?expires=2026-05-15T05%3A37%3A14.676Z&signature=rc1tkb5teQY
+  [200] image/jpeg            110957  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-1df08590f0e740f8b665333db69e1206?expires=2026-05-15T05%3A37%3A14.676Z&signature=8pJmzzBaK4E
+  [200] image/jpeg            106766  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-7760f3c969f247af997083e5d3698f25?expires=2026-05-15T05%3A37%3A14.676Z&signature=eO9jV5Z7TuM
+  [200] image/jpeg            103521  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-5ea41a0cf56944498c59db2986ac9830?expires=2026-05-15T05%3A37%3A14.676Z&signature=T0abzWPXpeo
+  [200] image/jpeg            100940  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-ec2319c3ba0c4cb996fa46cc1dd26c63?expires=2026-05-15T05%3A37%3A14.676Z&signature=p8bnkM6UQ_o
+  [200] image/jpeg            100696  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-d51f6e33d5c0440e9fdefe8528c48e8c?expires=2026-05-15T05%3A37%3A14.676Z&signature=0Odq1ER0y1Q
+  [200] image/jpeg             98423  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-96ea27a2a4934ad592ec01066234798b?expires=2026-05-15T05%3A37%3A14.676Z&signature=5RfYbbKK-zA
+  [200] image/jpeg             97007  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-d68490a7643a457d8d6c60450572173b?expires=2026-05-15T05%3A37%3A14.676Z&signature=8Xa5sLOiM5M
+  [200] image/jpeg             94891  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-bedb0790a22c445890de15f9830d6f30?expires=2026-05-15T05%3A37%3A14.676Z&signature=iitpq40Got8
+  [200] image/jpeg             93326  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-11f7dbc9a01e4579b1ddea0bb409ffa6?expires=2026-05-15T05%3A37%3A14.676Z&signature=CILuie2kPoc
+  [200] image/jpeg             93053  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-e1572de105814ab2a1fd68fc0c832b59?expires=2026-05-15T05%3A37%3A14.676Z&signature=hQ_E4EAAWXg
+  [200] image/jpeg             93036  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-da1cefb338854800a0889bb02568c15e?expires=2026-05-15T05%3A37%3A14.676Z&signature=pQ1kThOyuCs
+  [200] image/jpeg             90955  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-4dce01ccd6eb40138db9d279ce1ab26a?expires=2026-05-15T05%3A37%3A14.676Z&signature=GvAJylMpK1o
+  [200] image/jpeg             89479  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-104834ff2d5148afaab5938634a54cdb?expires=2026-05-15T05%3A37%3A14.676Z&signature=-l88BbNSUpg
+  [200] image/jpeg             89378  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-960b3cbca04945339f64ccf39d6d03bb?expires=2026-05-15T05%3A37%3A14.676Z&signature=4kLAtwuS-xc
+  [200] image/jpeg             89225  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-f6b0a6f26bca47d5974053b741ed3c1e?expires=2026-05-15T05%3A37%3A14.676Z&signature=vjAtytkM29M
+  [200] image/jpeg             87947  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-fea091beb30144da892c1743aeecbdac?expires=2026-05-15T05%3A37%3A14.676Z&signature=5mPm17MqCKM
+  [200] image/jpeg             84977  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-48d3e9f3ab304156a8e685bfb75cf0ed?expires=2026-05-15T05%3A37%3A14.676Z&signature=HAMrTTmFmu8
+  [200] image/jpeg             84764  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-1bc1a260a18e45b091b01cc83066d2c8?expires=2026-05-15T05%3A37%3A14.676Z&signature=0emEA9o-c0Y
+  [200] image/jpeg             84521  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-0a50147c463c4ecea6325d481825d85f?expires=2026-05-15T05%3A37%3A14.676Z&signature=l4Qd89Rh6L0
+  [200] image/jpeg             84473  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-7658810be89e4282b79ae2994db0a054?expires=2026-05-15T05%3A37%3A14.676Z&signature=faO9OmUAnw0
+  [200] image/jpeg             79445  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-7d39ef321463458f93a75aed080582b5?expires=2026-05-15T05%3A37%3A14.676Z&signature=G24ZuD2YBjI
+  [200] image/jpeg             78229  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-6f2bca8eba2e4790999413822d89d699?expires=2026-05-15T05%3A37%3A14.676Z&signature=I1hHJ5yhu-Y
+  [200] image/jpeg             75772  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-bd6c9c377baf4d88aec74aaf9a448ff6?expires=2026-05-15T05%3A37%3A14.676Z&signature=IyuSubNiOtc
+  [200] image/jpeg             71449  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-5f009a02f5444586a892e1f2941f6dd3?expires=2026-05-15T05%3A37%3A14.676Z&signature=4w99CMljG_Q
+  [200] image/jpeg             71049  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-277146ed864b48a18fbb4a6a95be8c4f?expires=2026-05-15T05%3A37%3A14.676Z&signature=q00IqdoHVXM
+  [200] image/png              19373  https://cdn-ukwest.onetrust.com/logos/static/ot_company_logo.png
+  [200] image/svg+xml           5445  https://cdn-ukwest.onetrust.com/logos/static/powered_by_logo.svg
+  [200] image/svg+xml           3587  https://wlt-p-001.sitecorecontenthub.cloud/api/public/portal/113430%2Fb637c23f%2Flogo.svg?v=67e33bcb
+  [200] image/svg+xml            651  https://cdn-ukwest.onetrust.com/logos/static/ot_close.svg
+  [200] image/svg+xml            497  https://cdn-ukwest.onetrust.com/logos/static/ot_guard_logo.svg
+  [200] image/svg+xml            227  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/7dec4dceddc64c2684729aa44887e8ee?v=fdfde2ce
+  [200] image/png                128  https://wlt-p-001.sitecorecontenthub.cloud/pca-assets/transparency-pattern.png
+
+# All DOM <img> (showing src + alt + dims):
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/7dec4dceddc64c2684729aa44887e8ee?v=fdfde2ce
+  alt: "arrow"
+  natW=21 natH=21 cssW=0 cssH=0 docY=0 visible=false
+  parent: "BACK TO LOTUSCARS.COM"
+
+  src: https://cdn-ukwest.onetrust.com/logos/static/ot_company_logo.png
+  alt: "Company Logo"
+  natW=2042 natH=280 cssW=0 cssH=0 docY=0 visible=false
+
+  src: https://cdn-ukwest.onetrust.com/logos/static/powered_by_logo.svg
+  alt: "Powered by Onetrust Powered by OneTrust Opens in a new Tab"
+  natW=568 natH=53 cssW=0 cssH=0 docY=0 visible=false
+
+
+========================================================================
+# MODEL: emeya    (source: press-en)
+# URL:   https://www.lotuscars.com/en/press/galleries/emeya
+========================================================================
+# DOM <img> count: 3
+# Network image responses: 43
+
+# All network image responses (status, ct, bytes, URL):
+  [200] image/jpeg            188888  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-1a9d596ad3e94a96adf3871121c62157?expires=2026-05-15T05%3A37%3A20.256Z&signature=2kTldPB-fOY
+  [200] image/jpeg            153466  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-7711e161f92c498d8643acce3118b438?expires=2026-05-15T05%3A37%3A20.256Z&signature=nj81WzH9FTs
+  [200] image/jpeg            129658  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-b3a5ec4cbd3e4e2088622b0d63733628?expires=2026-05-15T05%3A37%3A20.256Z&signature=cfga9croUP8
+  [200] image/jpeg            129058  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-5bf15f0155b14ef6a3766a18e6143598?expires=2026-05-15T05%3A37%3A20.256Z&signature=cgkd_VUfxGk
+  [200] image/jpeg            126565  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-3cef32963334453fb647caac5017b29c?expires=2026-05-15T05%3A37%3A20.256Z&signature=24VPBnznA9g
+  [200] image/jpeg            126543  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-40c32a8bf63f4d3ca23df244b3ec7279?expires=2026-05-15T05%3A37%3A20.256Z&signature=RYRa5W_JbL4
+  [200] image/jpeg            126329  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-de251e9035684f8f9197cbe7de912f4f?expires=2026-05-15T05%3A37%3A20.256Z&signature=bk2zz4_UmCw
+  [200] image/jpeg            116395  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-a63bbd8467494aafb9947244b1e92670?expires=2026-05-15T05%3A37%3A20.256Z&signature=oY-ZVmrJLB8
+  [200] image/jpeg            115632  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-caa41447ce9c4aa98c374d722e1afe8a?expires=2026-05-15T05%3A37%3A20.256Z&signature=68-LsBPV_4I
+  [200] image/jpeg            115468  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-fec6783c9fa64933b4f81b1722da4d78?expires=2026-05-15T05%3A37%3A20.256Z&signature=3RDQn4uTVyc
+  [200] image/jpeg            113436  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-693e4fdc316747e8b956e8b2b537c726?expires=2026-05-15T05%3A37%3A20.256Z&signature=Uu1qgQrkRoc
+  [200] image/jpeg            113137  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-ea9d38f5d8bc4e7e86ae18311c28734d?expires=2026-05-15T05%3A37%3A20.256Z&signature=VW1hekBICFc
+  [200] image/jpeg            110350  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-cc1c5750c3254acb84bebad0ecd3cb84?expires=2026-05-15T05%3A37%3A20.256Z&signature=7A8D1O-y_TI
+  [200] image/jpeg            109425  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-6a80b066b82b49ab986d3c1e45b4922d?expires=2026-05-15T05%3A37%3A20.256Z&signature=zGGWFivcQHc
+  [200] image/jpeg            108094  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-56522460765746ffbf6069731477e513?expires=2026-05-15T05%3A37%3A20.256Z&signature=-z75f62VW3I
+  [200] image/jpeg            106685  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-3ebeabde8a304121924a696843070dc6?expires=2026-05-15T05%3A37%3A20.256Z&signature=gqSvoUBuluM
+  [200] image/jpeg            106292  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-107abecdac2048b9933aa5caf58646a6?expires=2026-05-15T05%3A37%3A20.256Z&signature=LUvAiFjeQdw
+  [200] image/jpeg            105605  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-50b3acd681b64cf79eeb23f654b15521?expires=2026-05-15T05%3A37%3A20.256Z&signature=49CSU0MRwNk
+  [200] image/jpeg            104760  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-24df9c324db7470087a537c51507983c?expires=2026-05-15T05%3A37%3A20.256Z&signature=Ig4j1TnbCYQ
+  [200] image/jpeg            103964  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-050b68ab335a493eb6b451f1eb4bcfc2?expires=2026-05-15T05%3A37%3A20.256Z&signature=1dgwVW08dks
+  [200] image/jpeg            103173  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-9c014a0708c4418587f4964f089b741c?expires=2026-05-15T05%3A37%3A20.256Z&signature=QhWR8ptDJhw
+  [200] image/jpeg            102233  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-7b7bd432b541454a8c5bd5e22bf971f7?expires=2026-05-15T05%3A37%3A20.256Z&signature=xlrfVUguFco
+  [200] image/jpeg            100154  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-411be1be4b8747cabd6c8725ad22b87b?expires=2026-05-15T05%3A37%3A20.256Z&signature=dKFmurFhOXg
+  [200] image/jpeg             92427  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-3bf9ea56f63c4bae9fef01876a0f33e5?expires=2026-05-15T05%3A37%3A20.256Z&signature=0LYSJovn4kY
+  [200] image/jpeg             85595  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-f1360a7855ba4989b260a192f48efb1b?expires=2026-05-15T05%3A37%3A20.256Z&signature=i-tG0quRmdE
+  [200] image/jpeg             81198  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-57af8ebb5bf245c281b8235232726892?expires=2026-05-15T05%3A37%3A20.256Z&signature=k5ZnBMzi744
+  [200] image/jpeg             65675  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-1533407fd4a1494cb7d4d601351a702b?expires=2026-05-15T05%3A37%3A20.256Z&signature=ks03b1KqqHU
+  [200] image/jpeg             48230  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-c007ddda49784563a1b9564a72b9c8b8?expires=2026-05-15T05%3A37%3A20.256Z&signature=DM_8OARbmCs
+  [200] image/jpeg             40484  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-316ea2c8b1c34a70a6d011d6a265e03d?expires=2026-05-15T05%3A37%3A20.256Z&signature=TYa-xW-jvKg
+  [200] image/jpeg             40251  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-2b95ab33a54344389abdbf0302a237df?expires=2026-05-15T05%3A37%3A20.256Z&signature=bs6DhUTAX50
+  [200] image/jpeg             37970  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-c0dc141a35ca475799c72e66d0f72c94?expires=2026-05-15T05%3A37%3A20.256Z&signature=jpXhDSVIWSc
+  [200] image/jpeg             35574  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-d1b12d59630a44f3becdd040ee4b4cc5?expires=2026-05-15T05%3A37%3A20.256Z&signature=TFLj5B45ds8
+  [200] image/jpeg             35428  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-6d57537312554cd2864e3d0c2c4faeba?expires=2026-05-15T05%3A37%3A20.256Z&signature=1mOsd5Q6lGE
+  [200] image/jpeg             31188  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-7a0bf5de733c4bb2b3555f61199badd7?expires=2026-05-15T05%3A37%3A20.256Z&signature=_pNyXCOHyi8
+  [200] image/jpeg             29382  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-1079be986fc74a25a8c2a9717e03303b?expires=2026-05-15T05%3A37%3A20.256Z&signature=hMSmBXIBrjQ
+  [200] image/png              19373  https://cdn-ukwest.onetrust.com/logos/static/ot_company_logo.png
+  [200] image/jpeg             12278  https://eus-mediadeliveryservice.sitecorecloud.io/api/delivery/v1/wlt-p-001/local-ed613e8578e24fc2ac4d076d7f299485?expires=2026-05-15T05%3A37%3A20.256Z&signature=wNZ04HTmUsM
+  [200] image/svg+xml           5445  https://cdn-ukwest.onetrust.com/logos/static/powered_by_logo.svg
+  [200] image/svg+xml           3587  https://wlt-p-001.sitecorecontenthub.cloud/api/public/portal/113430%2Fb637c23f%2Flogo.svg?v=67e33bcb
+  [200] image/svg+xml            651  https://cdn-ukwest.onetrust.com/logos/static/ot_close.svg
+  [200] image/svg+xml            497  https://cdn-ukwest.onetrust.com/logos/static/ot_guard_logo.svg
+  [200] image/svg+xml            227  https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/7dec4dceddc64c2684729aa44887e8ee?v=fdfde2ce
+  [200] image/png                128  https://wlt-p-001.sitecorecontenthub.cloud/pca-assets/transparency-pattern.png
+
+# All DOM <img> (showing src + alt + dims):
+  src: https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/7dec4dceddc64c2684729aa44887e8ee?v=fdfde2ce
+  alt: "arrow"
+  natW=21 natH=21 cssW=0 cssH=0 docY=0 visible=false
+  parent: "BACK TO LOTUSCARS.COM"
+
+  src: https://cdn-ukwest.onetrust.com/logos/static/ot_company_logo.png
+  alt: "Company Logo"
+  natW=2042 natH=280 cssW=0 cssH=0 docY=0 visible=false
+
+  src: https://cdn-ukwest.onetrust.com/logos/static/powered_by_logo.svg
+  alt: "Powered by Onetrust Powered by OneTrust Opens in a new Tab"
+  natW=568 natH=53 cssW=0 cssH=0 docY=0 visible=false
+

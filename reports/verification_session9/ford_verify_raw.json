@@ -1,0 +1,238 @@
+{
+  "brand": "Ford",
+  "brand_slug": "ford",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "model_count": 22,
+  "trim_count": 74,
+  "total_images": 203,
+  "needs_scraping": 203,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 44,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "mustang/gt-premium-convertible",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "mustang-mach-e/premium",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "bronco-sport/heritage",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "bronco-sport/outer-banks",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "bronco/big-bend",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "bronco/black-diamond",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "bronco/outer-banks",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "bronco/heritage-edition",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "bronco/stroppe-edition",
+      "value": 3
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "bronco/black-diamond",
+      "value": "dimensions"
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "bronco/stroppe-edition",
+      "value": "powertrain,fuel_economy"
+    },
+    {
+      "title": "hybrid base trim has null ev_specifics",
+      "where": "models[9].trims[3] (escape/platinum-hybrid)"
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "escape/st-line",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "escape/platinum-hybrid",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "explorer/st-line",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "expedition/platinum",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "expedition/king-ranch",
+      "value": 4
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "expedition/tremor",
+      "value": "dimensions"
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "expedition/king-ranch",
+      "value": "powertrain"
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "maverick/xlt",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "maverick/lariat",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ranger/xlt",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ranger/lariat",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "f-150/stx",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "f-150/xlt",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "f-150/lariat",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "f-150/tremor",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "f-150/king-ranch",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "f-150/platinum",
+      "value": 5
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "f-150/lariat",
+      "value": "powertrain"
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "f-150/powerboost-hybrid",
+      "value": "dimensions"
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "f-150-lightning/flash",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "f-150-lightning/lariat",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "f-150-lightning/platinum",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "f-250-super-duty/xlt",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "f-250-super-duty/lariat",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "f-250-super-duty/king-ranch",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "f-250-super-duty/platinum",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "f-250-super-duty/limited",
+      "value": 3
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "f-250-super-duty/xl",
+      "value": "fuel_economy"
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "f-350-super-duty/limited",
+      "value": 3
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "f-350-super-duty/xl",
+      "value": "fuel_economy"
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "f-450-super-duty/limited",
+      "value": 3
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "f-450-super-duty/xl",
+      "value": "fuel_economy"
+    }
+  ],
+  "fyis": []
+}

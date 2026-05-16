@@ -1,0 +1,2124 @@
+{
+  "brand": "Mini",
+  "brand_slug": "mini",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Cooper Hardtop 2 Door",
+      "model_slug": "cooper-hardtop-2-door",
+      "model_year": 2026,
+      "body_style": "hatchback",
+      "generation_context": "Fourth-generation Mini Cooper Hardtop (F66 platform, internal Mini designation), launched for MY 2025 as a major redesign of the F56 generation. Shares architecture with the BMW Group front-drive platform underpinning the Countryman and BMW X1/X2. The 2026 model year carries forward the new generation introduced in 2024 with minor equipment-package updates including expanded JCW Style package availability for S models.",
+      "msrp_range": {
+        "low": 29500,
+        "high": 32800
+      },
+      "model_summary": "Two-door front-wheel-drive subcompact hatchback offered with two gasoline turbocharged 4-cylinder engines: the 161 hp Cooper C and 201 hp Cooper S. The 2026 lineup is gasoline-only following the discontinuation of the Cooper SE Electric 2 Door from the US market; the high-performance JCW 2 Door is sold as a separate model. All trims pair a 7-speed dual-clutch automatic transmission with front-wheel drive.",
+      "reliability": {
+        "jd_power_vds_score": 168,
+        "jd_power_vds_year": 2026,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "Mini ranked third overall among mass-market brands in the 2026 J.D. Power U.S. Vehicle Dependability Study (which examines 3-year-old, 2023-model-year vehicles) with 168 problems per 100 vehicles, well below the industry average of 204 PP100. Consumer Reports has not yet published a predicted-reliability score specific to the 2026 Cooper redesign; the prior F56 generation rated above-average in recent years.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.motoringfile.com/2026/03/10/mini-climbs-to-third-in-j-d-power-dependability-study-a-major-milestone-for-quality/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "J.D. Power has not yet released the 2026 U.S. APEAL Study (typically published in July). The 2025 APEAL did not publish a Cooper-specific score given low US volume; expect similar treatment in the forthcoming 2026 study.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/us-automotive-performance-execution-and-layout-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the redesigned interior with its circular OLED display, the playful go-kart handling that remains a Mini hallmark, and the available standard panoramic moonroof. Common critiques center on a firm ride, cramped rear seats, limited cargo capacity versus competing hatchbacks, and the loss of a manual transmission option in the US market.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/mini/cooper",
+            "date": "2025-11-10"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/mini/cooper/2026/",
+            "date": "2025-12-15"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/mini/cooper/2026/",
+            "date": "2026-01-20"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB have not yet published meaningful owner-review aggregates for the 2026 Cooper Hardtop 2 Door. The current F66 generation launched late in 2024 and US owner data remains thin.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/mini/cooper/2026/",
+          "https://www.kbb.com/mini/hardtop-2-door/2026/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Cooper C",
+          "trim_slug": "cooper-c",
+          "trim_family": "cooper-hardtop-2-door",
+          "is_base_trim": true,
+          "msrp_base": 29500,
+          "destination_fee": 1175,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 161,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 184,
+            "transmission": "7-speed dual-clutch automatic",
+            "transmission_speeds": 7,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 27,
+            "highway_mpg": 39,
+            "combined_mpg": 32,
+            "fuel_tank_gal": 11.6,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2150
+          },
+          "performance": {
+            "zero_to_60_sec": 7.4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 152.6,
+            "width_in": 68.7,
+            "height_in": 57.2,
+            "wheelbase_in": 98.2,
+            "ground_clearance_in": 5.1,
+            "curb_weight_lb": 3014,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 8.9,
+              "behind_1st_row": 34.4,
+              "max_with_seats_folded": 34.4,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "205/45R17 all-season runflat"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 9.4,
+            "driver_display_in": null,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Mini Stereo 6-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "9.4-inch circular OLED central display",
+              "Mini Toggle Bar (physical switches below the display)",
+              "Mini Intelligent Personal Assistant voice control",
+              "Mini Experience Modes (8 selectable themes)",
+              "Mini Operating System 9",
+              "LED headlights with adaptive function",
+              "Sport seats with Vescin (leather-free) upholstery",
+              "Personal eSIM 5G connectivity"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "3yr/36k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/mobile/Dimensions_mobile.png.miniusaimg.small.png",
+              "local_path": "images/mini/cooper-hardtop-2-door/cooper-hardtop-2-door/front-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-CrossLinks-02-Desktop.png.miniusaimg.small.png",
+              "local_path": "images/mini/cooper-hardtop-2-door/cooper-hardtop-2-door/rear-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-FAQ%27s-ALL.png",
+              "local_path": "images/mini/cooper-hardtop-2-door/cooper-hardtop-2-door/side-profile.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-Included-02-ALL.png.miniusaimg.small.png",
+              "local_path": "images/mini/cooper-hardtop-2-door/cooper-hardtop-2-door/interior-dashboard.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "destination_fee": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "powertrain": "https://www.miniusa.com/model/2-door.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49227",
+            "performance.zero_to_60_sec": "https://www.miniusa.com/model/2-door.html",
+            "dimensions": "https://www.miniusa.com/model/2-door.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/MINI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.miniusa.com/model/2-door.html",
+            "warranty": "https://www.miniusa.com/owners/service-support/warranties.html"
+          },
+          "delta_from_base": null,
+          "notes": "Base ICE trim of the Cooper Hardtop 2 Door (Cooper SE Electric 2 Door has been dropped from the US market for MY 2026 per press.bmwgroup.com USA release T0450606EN_US dated June 5, 2025). Listed MSRP of $29,500 reflects the entry-level 'Signature' equipment tier; Mini also markets 'Signature Plus' ($31,900) and 'Iconic' ($33,600) equipment packages that bundle Driving Assistant Plus ADAS, Harman Kardon audio, navigation, and other features — these are treated as packages per spec §6.5 rather than separate trims. JCW Style package now optional on Cooper S for 2026 at $1,200 (Cooper) / $1,400 (Countryman). Curb weight from manufacturer-press technical spec sheet for MY 2025 carries forward; 2026 spec sheet not yet posted. EPA fueleconomy.gov ID 49227 verified as 2026 MINI Cooper C 2 Door, 2.0L turbo I4, automatic (AM-S7). NHTSA and IIHS have not crash-tested the 2026 Cooper Hardtop redesign (F66 generation). Adaptive cruise control and blind-spot monitoring are part of the Driving Assistant Plus package — standard on Iconic trim, optional otherwise; set false here for Signature base equipment per spec §3.9. Top speed not published by Mini USA. Sound system: standard 6-speaker; Harman Kardon premium sound available on higher equipment packages."
+        },
+        {
+          "trim": "Cooper S",
+          "trim_slug": "cooper-s",
+          "trim_family": "cooper-hardtop-2-door",
+          "is_base_trim": false,
+          "msrp_base": 32800,
+          "destination_fee": 1175,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 201,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 221,
+            "transmission": "7-speed dual-clutch automatic",
+            "transmission_speeds": 7,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 28,
+            "highway_mpg": 39,
+            "combined_mpg": 32,
+            "fuel_tank_gal": 11.6,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2150
+          },
+          "performance": {
+            "zero_to_60_sec": 6.3,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 152.6,
+            "width_in": 68.7,
+            "height_in": 57.2,
+            "wheelbase_in": 98.2,
+            "ground_clearance_in": 5.1,
+            "curb_weight_lb": 3089,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 8.9,
+              "behind_1st_row": 34.4,
+              "max_with_seats_folded": 34.4,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "205/45R17 all-season runflat (18\" Cross Spoke optional)"
+          },
+          "safety": null,
+          "features": null,
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/mobile/MINI-F66-Overview-DesignSneak-01-Mobile.png.miniusaimg.small.png",
+              "local_path": "images/mini/cooper-hardtop-2-door/cooper-hardtop-2-door/front-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/mobile/MINI-F66-Overview-WhereTo-01-Mobile.png.miniusaimg.small.png",
+              "local_path": "images/mini/cooper-hardtop-2-door/cooper-hardtop-2-door/rear-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "destination_fee": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "powertrain": "https://www.miniusa.com/model/2-door.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49228",
+            "performance.zero_to_60_sec": "https://www.miniusa.com/model/2-door.html",
+            "dimensions": "https://www.miniusa.com/model/2-door.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "cooper-c",
+            "msrp_delta_usd": 3300,
+            "changes": [
+              "Upgrades engine output: 201 hp / 221 lb-ft (vs Cooper C 161 hp / 184 lb-ft) from the same 2.0L turbo I4",
+              "Improves 0-60 mph from 7.4s to 6.3s",
+              "Adds sport-tuned suspension and larger brakes",
+              "Adds dual exhaust outlets with Cooper S-specific styling cues (red 'S' badging, hood scoop)",
+              "Eligible for optional JCW Style package ($1,200) bringing JCW visual elements",
+              "Eligible for optional 18-inch wheel upgrades unavailable on Cooper C"
+            ]
+          },
+          "notes": "Cooper S step-up trim; same body and core platform as Cooper C with higher-output tune of the BMW B48 2.0L turbo I4. Standard 17\" wheels carry over from C; 18\" Cross Spoke option offered. Specs unchanged from base in dimensions, safety equipment, infotainment, and warranty — those blocks left null per spec §6.3. EPA fueleconomy.gov ID 49228 verified as 2026 MINI Cooper S 2 Door, 2.0L turbo I4, automatic (AM-S7), premium gas. Curb weight ~75 lb heavier than Cooper C reflects brake/exhaust upgrades."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Cooper Hardtop 2 Door is the entry-point Mini in the US lineup. The 2026 model year continues the F66 fourth-generation introduced for MY 2025 with minor equipment updates: JCW Style package now optional on Cooper S models, expanded sport-stripe customization, and new 18-inch wheel options. Cooper SE Electric 2 Door has been discontinued from the US market for MY 2026 — Mini's electric offering is now consolidated into the Countryman SE ALL4 (sold separately under the Countryman model entry). High-performance JCW 2 Door is a separate model per performance-variant rule (separate miniusa.com page, distinct engine tune, sport DCT, JCW-specific chassis tuning). Pricing for Signature/Signature Plus/Iconic equipment tiers verified from the press.bmwgroup.com MY 2026 press release dated June 5, 2025; only the base 'Signature' MSRP is stored as msrp_base per spec §6.5. Images: miniusa.com page URLs stored with needs_scraping flag — direct CDN asset URLs not extractable without JS execution; press.bmwgroup.com hosts download-gated mediapool assets not directly usable. Two trims share the cooper-hardtop-2-door trim_family (4 required images on Cooper C base)."
+    },
+    {
+      "model": "Cooper Hardtop 4 Door",
+      "model_slug": "cooper-hardtop-4-door",
+      "model_year": 2026,
+      "body_style": "hatchback",
+      "generation_context": "Fourth-generation Mini Cooper Hardtop 4 Door (F65 platform), launched for MY 2025 as a longer-wheelbase companion to the F66 2-Door. Shares BMW Group front-drive architecture with the Countryman and BMW X1/X2. The 2026 model year continues the new generation with equipment-package updates.",
+      "msrp_range": {
+        "low": 30500,
+        "high": 33800
+      },
+      "model_summary": "Four-door front-wheel-drive subcompact hatchback adding 6.3 inches of length and 2.9 inches of wheelbase over the 2 Door for usable rear-seat access. Offered with two gasoline turbocharged 4-cylinder engines: 161 hp Cooper C and 201 hp Cooper S. There is no JCW 4-Door variant for MY 2026, and no electric variant is sold in the US. All trims use a 7-speed dual-clutch automatic and FWD.",
+      "reliability": {
+        "jd_power_vds_score": 168,
+        "jd_power_vds_year": 2026,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "Mini ranked third overall among mass-market brands in the 2026 J.D. Power U.S. Vehicle Dependability Study (168 PP100 vs 204 industry average). Consumer Reports has not yet published a predicted-reliability score specific to the 2026 Cooper 4 Door redesign.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.motoringfile.com/2026/03/10/mini-climbs-to-third-in-j-d-power-dependability-study-a-major-milestone-for-quality/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "J.D. Power has not yet released the 2026 U.S. APEAL Study (typically published in July). The 2025 APEAL did not publish a Cooper 4 Door-specific score given low US volume.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/us-automotive-performance-execution-and-layout-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consider the 4 Door variant the more practical Cooper, retaining the playful chassis while adding usable rear-passenger space and a slightly larger 13.1-cubic-foot cargo area. Critiques mirror the 2 Door's: firm ride, modest rear-seat room for a 4-door hatch, and the premium positioning relative to similarly-sized subcompacts.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/mini/cooper",
+            "date": "2025-11-10"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/mini/cooper/2026/hatchback/",
+            "date": "2025-12-15"
+          },
+          {
+            "publication": "KBB",
+            "url": "https://www.kbb.com/mini/hardtop-4-door/2026/",
+            "date": "2026-01-10"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB have not yet published meaningful owner-review aggregates for the 2026 Cooper 4 Door. The redesigned F65 generation is too new to have substantial owner-feedback data.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/mini/cooper/2026/hatchback/",
+          "https://www.kbb.com/mini/hardtop-4-door/2026/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Cooper C",
+          "trim_slug": "cooper-c",
+          "trim_family": "cooper-hardtop-4-door",
+          "is_base_trim": true,
+          "msrp_base": 30500,
+          "destination_fee": 1175,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 161,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 184,
+            "transmission": "7-speed dual-clutch automatic",
+            "transmission_speeds": 7,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 28,
+            "highway_mpg": 39,
+            "combined_mpg": 32,
+            "fuel_tank_gal": 11.6,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2150
+          },
+          "performance": {
+            "zero_to_60_sec": 7.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 158.9,
+            "width_in": 68.7,
+            "height_in": 57.6,
+            "wheelbase_in": 101.1,
+            "ground_clearance_in": 5.1,
+            "curb_weight_lb": 3080,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 13.1,
+              "behind_1st_row": 40.7,
+              "max_with_seats_folded": 40.7,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "205/45R17 all-season runflat"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 9.4,
+            "driver_display_in": null,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Mini Stereo 6-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "9.4-inch circular OLED central display",
+              "Mini Toggle Bar",
+              "Mini Intelligent Personal Assistant voice control",
+              "Mini Experience Modes",
+              "Mini Operating System 9",
+              "LED headlights with adaptive function",
+              "Sport seats with cloth and Vescin upholstery",
+              "Personal eSIM 5G connectivity"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "3yr/36k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Tech-Specs-Mobile-v3.png.miniusaimg.small.png",
+              "local_path": "images/mini/cooper-hardtop-4-door/cooper-hardtop-4-door/front-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/mobile/MINI-F65-PDP-Overview-Next-01-Mobile-v2.png.miniusaimg.small.png",
+              "local_path": "images/mini/cooper-hardtop-4-door/cooper-hardtop-4-door/rear-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/mobile/MINI-F65-PDP-Overview-FAQs-Mobile-v2.png",
+              "local_path": "images/mini/cooper-hardtop-4-door/cooper-hardtop-4-door/side-profile.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/mobile/MINI-F65-PDP-Overview-Tech-Safety-Mobile-v3.jpg.miniusaimg.small.jpeg",
+              "local_path": "images/mini/cooper-hardtop-4-door/cooper-hardtop-4-door/interior-dashboard.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "destination_fee": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "powertrain": "https://www.miniusa.com/model/4-door.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49265",
+            "performance.zero_to_60_sec": "https://www.miniusa.com/model/4-door.html",
+            "dimensions": "https://www.miniusa.com/model/4-door.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/MINI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.miniusa.com/model/4-door.html",
+            "warranty": "https://www.miniusa.com/owners/service-support/warranties.html"
+          },
+          "delta_from_base": null,
+          "notes": "Base ICE trim of the Cooper Hardtop 4 Door. Same engine and transmission as Cooper C 2 Door but with stretched 4-door body adding 6.3 inches of length and 2.9 inches of wheelbase, plus rear doors and 5-passenger seating. EPA fueleconomy.gov ID 49265 verified as 2026 MINI Cooper C 4 Door, 2.0L turbo I4, automatic (AM-S7). Curb weight ~3,080 lb estimated from manufacturer tech-spec data (66 lb heavier than 2-door Cooper C reflecting additional doors and stretched body). NHTSA and IIHS have not crash-tested the 2026 Cooper 4 Door (F65 generation). Mini USA equipment-package pricing for MY 2026: Signature $30,500, Signature Plus $32,900, Iconic $34,600 — these are packages, not trims per spec §6.5. Top speed not published. Sound system: 6-speaker standard; Harman Kardon optional on higher packages."
+        },
+        {
+          "trim": "Cooper S",
+          "trim_slug": "cooper-s",
+          "trim_family": "cooper-hardtop-4-door",
+          "is_base_trim": false,
+          "msrp_base": 33800,
+          "destination_fee": 1175,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 201,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 221,
+            "transmission": "7-speed dual-clutch automatic",
+            "transmission_speeds": 7,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 28,
+            "highway_mpg": 39,
+            "combined_mpg": 32,
+            "fuel_tank_gal": 11.6,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2150
+          },
+          "performance": {
+            "zero_to_60_sec": 6.7,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 158.9,
+            "width_in": 68.7,
+            "height_in": 57.6,
+            "wheelbase_in": 101.1,
+            "ground_clearance_in": 5.1,
+            "curb_weight_lb": 3155,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 13.1,
+              "behind_1st_row": 40.7,
+              "max_with_seats_folded": 40.7,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "205/45R17 all-season runflat (18\" optional)"
+          },
+          "safety": null,
+          "features": null,
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/mobile/MINI-F65-PDP-Overview-FS-Mobile-v3.png.miniusaimg.small.png",
+              "local_path": "images/mini/cooper-hardtop-4-door/cooper-hardtop-4-door/front-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.miniusa.com/model/4-door.html",
+              "local_path": "images/mini/cooper-hardtop-4-door/cooper-hardtop-4-door/rear-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "destination_fee": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "powertrain": "https://www.miniusa.com/model/4-door.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49266",
+            "performance.zero_to_60_sec": "https://www.miniusa.com/model/4-door.html",
+            "dimensions": "https://www.miniusa.com/model/4-door.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "cooper-c",
+            "msrp_delta_usd": 3300,
+            "changes": [
+              "Upgrades engine output to 201 hp / 221 lb-ft (vs Cooper C 161 hp / 184 lb-ft)",
+              "Improves 0-60 mph from 7.9s to 6.7s",
+              "Adds sport-tuned suspension and larger brakes",
+              "Adds Cooper S styling cues (red 'S' badging, hood scoop, dual exhaust)",
+              "Eligible for optional JCW Style package ($1,200) bringing JCW visual elements",
+              "Eligible for optional 18-inch wheel upgrades"
+            ]
+          },
+          "notes": "Cooper S step-up trim with higher-output tune of the same 2.0L turbo I4. EPA fueleconomy.gov ID 49266 verified as 2026 MINI Cooper S 4 Door, 2.0L turbo I4, automatic, premium gas. Specs unchanged from base in dimensions, safety equipment, infotainment, and warranty — those blocks left null per spec §6.3. Curb weight 3,155 lb estimated (~75 lb over Cooper C 4 Door reflecting brake/exhaust upgrades)."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Cooper Hardtop 4 Door uses the F65 internal designation (vs F66 for the 2 Door); same architecture stretched for usable rear seats. There is no JCW 4 Door, no Cooper SE Electric 4 Door, and no AWD option in the 2 Door / 4 Door Hardtop lineup. Mini Iconic, Signature Plus, and Signature equipment-package pricing verified from press.bmwgroup.com MY 2026 release; only the base Signature tier MSRP is captured per spec §6.5. Curb weight figures are estimates derived from manufacturer technical-spec sheet (motoringfile-published MY 2025 tech specs) — 2026 figures expected to be identical given carryover powertrain and unchanged body. Images: miniusa.com page URLs flagged needs_scraping. Two trims share the cooper-hardtop-4-door trim_family."
+    },
+    {
+      "model": "Cooper Convertible",
+      "model_slug": "cooper-convertible",
+      "model_year": 2026,
+      "body_style": "convertible",
+      "generation_context": "Fourth-generation Mini Cooper Convertible (F67 platform), the soft-top counterpart to the F66 2-Door Hardtop, launched for MY 2025. Carries forward the new generation into 2026 with minor equipment updates. The Convertible retains a power-folding cloth roof operable up to 18 mph.",
+      "msrp_range": {
+        "low": 34600,
+        "high": 37900
+      },
+      "model_summary": "Two-door front-wheel-drive convertible based on the Cooper Hardtop 2 Door, with a power-folding cloth soft top. Offered with two gasoline turbocharged 4-cylinder engines: 161 hp Cooper C and 201 hp Cooper S. The high-performance JCW Convertible is sold as a separate model. All trims use a 7-speed dual-clutch automatic and FWD.",
+      "reliability": {
+        "jd_power_vds_score": 168,
+        "jd_power_vds_year": 2026,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "Mini ranked third overall among mass-market brands in the 2026 J.D. Power U.S. Vehicle Dependability Study (168 PP100). Consumer Reports has not yet published a predicted-reliability score for the 2026 Convertible specifically.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.motoringfile.com/2026/03/10/mini-climbs-to-third-in-j-d-power-dependability-study-a-major-milestone-for-quality/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "J.D. Power has not yet released the 2026 U.S. APEAL Study (typically published in July). No Cooper Convertible-specific APEAL score has been published in recent years.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/us-automotive-performance-execution-and-layout-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers note the Convertible preserves the Hardtop's playful chassis with the added appeal of open-air motoring, including a power-folding fabric top that opens in 18 seconds at speeds up to 18 mph. Critiques focus on substantially compromised cargo space (5.7 cu ft with top up), reduced rear-seat usability, and limited rear visibility with the top up. The Convertible carries a roughly $5,000 price premium over the equivalent 2 Door Hardtop.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/mini/cooper-convertible",
+            "date": "2025-10-25"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/mini/cooper/2026/convertible/",
+            "date": "2025-12-20"
+          },
+          {
+            "publication": "KBB",
+            "url": "https://www.kbb.com/mini/convertible/2026/",
+            "date": "2026-01-15"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB have not yet published meaningful 2026 owner-review aggregates for the Cooper Convertible. The F67 generation is too new for substantial owner-feedback data.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/mini/cooper/2026/convertible/",
+          "https://www.kbb.com/mini/convertible/2026/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Cooper C Convertible",
+          "trim_slug": "cooper-c-convertible",
+          "trim_family": "cooper-convertible",
+          "is_base_trim": true,
+          "msrp_base": 34600,
+          "destination_fee": 1175,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 161,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 184,
+            "transmission": "7-speed dual-clutch automatic",
+            "transmission_speeds": 7,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 27,
+            "highway_mpg": 37,
+            "combined_mpg": 30,
+            "fuel_tank_gal": 11.6,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2300
+          },
+          "performance": {
+            "zero_to_60_sec": 7.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 152.8,
+            "width_in": 68.7,
+            "height_in": 56.3,
+            "wheelbase_in": 98.2,
+            "ground_clearance_in": 5.1,
+            "curb_weight_lb": 3197,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 5.7,
+              "behind_1st_row": 7.6,
+              "max_with_seats_folded": 7.6,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "205/45R17 all-season runflat"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 9.4,
+            "driver_display_in": null,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Mini Stereo 6-speaker",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "Power-folding cloth convertible roof (opens in 18 seconds at speeds up to 18 mph)",
+              "Sliding sunroof function for partial roof opening",
+              "Always-Open Timer in driver display",
+              "9.4-inch circular OLED central display",
+              "Mini Toggle Bar",
+              "Mini Intelligent Personal Assistant voice control",
+              "Mini Experience Modes",
+              "LED headlights",
+              "Sport seats with Vescin upholstery",
+              "Convertible wind deflector"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "3yr/36k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-convertible/2025/overview/mobile/MINI-F67-Overview-Schematic-Illustration-Mobile.png.miniusaimg.small.png",
+              "local_path": "images/mini/cooper-convertible/cooper-convertible/front-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-convertible/2025/overview/mobile/MINI-F67-Overview-Where-To-Next-01-Mobile-v2.png.miniusaimg.small.png",
+              "local_path": "images/mini/cooper-convertible/cooper-convertible/rear-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-convertible/2025/overview/mobile/MINI-F67-Overview-FAQs-Mobile.png",
+              "local_path": "images/mini/cooper-convertible/cooper-convertible/side-profile.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-convertible/2025/overview/mobile/MINI-F67-Overview-Whats-Included-02-Mobile-v2.png.miniusaimg.small.png",
+              "local_path": "images/mini/cooper-convertible/cooper-convertible/interior-dashboard.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "destination_fee": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "powertrain": "https://www.miniusa.com/model/convertible.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49185",
+            "performance.zero_to_60_sec": "https://www.miniusa.com/model/convertible.html",
+            "dimensions": "https://www.miniusa.com/model/convertible.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/MINI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.miniusa.com/model/convertible.html",
+            "warranty": "https://www.miniusa.com/owners/service-support/warranties.html"
+          },
+          "delta_from_base": null,
+          "notes": "Base Convertible trim with the entry-level Cooper C engine. EPA fueleconomy.gov ID 49185 verified as 2026 MINI Cooper C Convertible, 2.0L turbo I4, automatic, premium gas. Note: NEW press release on June 5, 2025 lists Cooper Convertible Signature MSRP at $34,600 — this matches the consumer-page starting MSRP; the miniusa.com webpage shows '$33,950 starting at' which appears to be an outdated cached figure. Curb weight 3,197 lb reflects added soft-top mechanism mass over the Hardtop. Sunroof field set to 'none' because the convertible roof is a different feature (cloth top); the cloth top's sliding sunroof function is noted in notable_other. Cargo volume 5.7 cu ft (top up) is substantially smaller than the 2 Door Hardtop's 8.9 cu ft. NHTSA and IIHS have not crash-tested the 2026 Cooper Convertible (F67 generation)."
+        },
+        {
+          "trim": "Cooper S Convertible",
+          "trim_slug": "cooper-s-convertible",
+          "trim_family": "cooper-convertible",
+          "is_base_trim": false,
+          "msrp_base": 37900,
+          "destination_fee": 1175,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 201,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 221,
+            "transmission": "7-speed dual-clutch automatic",
+            "transmission_speeds": 7,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 26,
+            "highway_mpg": 36,
+            "combined_mpg": 30,
+            "fuel_tank_gal": 11.6,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2300
+          },
+          "performance": {
+            "zero_to_60_sec": 6.7,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 152.8,
+            "width_in": 68.7,
+            "height_in": 56.3,
+            "wheelbase_in": 98.2,
+            "ground_clearance_in": 5.1,
+            "curb_weight_lb": 3270,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 5.7,
+              "behind_1st_row": 7.6,
+              "max_with_seats_folded": 7.6,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "205/45R17 all-season runflat (18\" optional)"
+          },
+          "safety": null,
+          "features": null,
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-convertible/2025/overview/mobile/MINI-F67-Overview-Where-To-Next-03-Mobile-v2.png.miniusaimg.small.png",
+              "local_path": "images/mini/cooper-convertible/cooper-convertible/front-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.miniusa.com/model/convertible.html",
+              "local_path": "images/mini/cooper-convertible/cooper-convertible/rear-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "destination_fee": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "powertrain": "https://www.miniusa.com/model/convertible.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49186",
+            "performance.zero_to_60_sec": "https://www.miniusa.com/model/convertible.html",
+            "dimensions": "https://www.miniusa.com/model/convertible.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "cooper-c-convertible",
+            "msrp_delta_usd": 3300,
+            "changes": [
+              "Upgrades engine output to 201 hp / 221 lb-ft (vs Cooper C 161 hp / 184 lb-ft)",
+              "Improves 0-60 mph from 7.9s to 6.7s",
+              "Adds sport-tuned suspension and larger brakes",
+              "Adds Cooper S styling cues (red 'S' badging, hood scoop, dual exhaust)",
+              "Eligible for optional JCW Style package ($1,200)",
+              "EPA combined MPG slightly lower (30 vs 30 — identical) but city drops 27→26 reflecting higher state of tune"
+            ]
+          },
+          "notes": "Cooper S Convertible. EPA fueleconomy.gov ID 49186 verified as 2026 MINI Cooper S Convertible, 2.0L turbo I4, automatic, premium gas. Combined MPG ties Cooper C Convertible at 30 mpg (city 26 vs 27, highway 36 vs 37). Curb weight estimate ~3,270 lb. Specs unchanged from base in dimensions, safety equipment, infotainment, and warranty — those blocks left null per spec §6.3."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Cooper Convertible (F67 internal designation) is the soft-top variant of the Hardtop 2 Door. There is no Cooper SE Electric Convertible. The JCW Convertible is sold as a separate model entry per performance-variant rule. The press release announces a base Cooper Convertible Signature MSRP of $34,600 — the miniusa.com consumer page still displayed $33,950 'starting' at time of research; we use the official press-release figure as authoritative. Two trims share the cooper-convertible trim_family with shared imagery flagged needs_scraping. Curb weights are estimates derived from manufacturer technical-spec data."
+    },
+    {
+      "model": "JCW 2 Door",
+      "model_slug": "jcw-2-door",
+      "model_year": 2026,
+      "body_style": "hatchback",
+      "generation_context": "Fourth-generation Mini John Cooper Works 2 Door, the high-performance variant of the F66 Cooper Hardtop 2 Door, launched for MY 2025. Marketed on its own dedicated miniusa.com page; per spec §6.4 performance-variant rule it is treated as a separate model.",
+      "msrp_range": {
+        "low": 38900,
+        "high": 38900
+      },
+      "model_summary": "High-performance two-door front-wheel-drive hatchback powered by a JCW-tuned 2.0L turbocharged 4-cylinder producing 228 hp and 280 lb-ft, mated to a 7-speed sport dual-clutch automatic. Distinguished from the Cooper S by a JCW-specific chassis tune, dynamic damper control, JCW Sport brakes with red calipers, JCW aero, and Chili Red interior/exterior accents. Sole-trim model.",
+      "reliability": {
+        "jd_power_vds_score": 168,
+        "jd_power_vds_year": 2026,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "Mini ranked third overall among mass-market brands in the 2026 J.D. Power U.S. Vehicle Dependability Study (168 PP100). JCW models share the BMW B48 engine architecture cited as Mini's most reliable engine ever per industry analysts. No JCW-specific Consumer Reports score is published.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.motoringfile.com/2026/03/10/mini-climbs-to-third-in-j-d-power-dependability-study-a-major-milestone-for-quality/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "J.D. Power has not yet released the 2026 U.S. APEAL Study (typically published in July). JCW low-volume performance trims have not historically received standalone APEAL scoring.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/us-automotive-performance-execution-and-layout-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the JCW 2 Door's sharper chassis tune, more communicative steering, and the auditory drama of the JCW exhaust over standard Cooper variants. Common critiques focus on the loss of the manual transmission option in the US (DCT-only since the F66 generation), a firm ride that some find unforgiving, and pricing that approaches or exceeds compact sports cars like the Toyota GR Corolla and Volkswagen Golf R while offering FWD-only traction.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/mini/jcw-hardtop",
+            "date": "2025-11-05"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/mini/cooper/2026/jcw-signature/",
+            "date": "2025-12-12"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/mini/jcw/2026/",
+            "date": "2026-01-25"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB have not yet published meaningful owner-review aggregates for the 2026 JCW 2 Door. The F66 JCW launched late in 2024 and US owner data remains thin.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/mini/cooper/2026/jcw-signature/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "JCW 2 Door",
+          "trim_slug": "jcw-2-door",
+          "trim_family": "jcw-2-door",
+          "is_base_trim": true,
+          "msrp_base": 38900,
+          "destination_fee": 1175,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 228,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 280,
+            "transmission": "7-speed sport dual-clutch automatic",
+            "transmission_speeds": 7,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 27,
+            "highway_mpg": 37,
+            "combined_mpg": 30,
+            "fuel_tank_gal": 11.6,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2300
+          },
+          "performance": {
+            "zero_to_60_sec": 5.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 155,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 152.6,
+            "width_in": 68.7,
+            "height_in": 57.2,
+            "wheelbase_in": 98.2,
+            "ground_clearance_in": 5.1,
+            "curb_weight_lb": 3130,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 8.9,
+              "behind_1st_row": 34.4,
+              "max_with_seats_folded": 34.4,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "215/40R18 high-performance summer (Pirelli P Zero or similar)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 9.4,
+            "driver_display_in": null,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Mini Stereo 6-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "JCW-tuned 2.0L TwinPower Turbo engine (228 hp)",
+              "7-speed sport dual-clutch transmission",
+              "JCW Sport brakes with red calipers and JCW logos",
+              "Dynamic Damper Control adaptive suspension",
+              "JCW Sport steering wheel with paddle shifters",
+              "Leather-free JCW Sport seats with Chili Red contrast",
+              "JCW-specific aerodynamic body kit and rear diffuser",
+              "9.4-inch circular OLED central display",
+              "Mini Experience Modes including JCW-specific Sport mode",
+              "Mini Toggle Bar"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "3yr/36k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/mobile/exterior-details/MINI-F66-JCW-ExteriorDetails-01-Mobile.png.miniusaimg.small.png",
+              "local_path": "images/mini/jcw-2-door/jcw-2-door/front-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/mobile/exterior-details/MINI-F66-JCW-ExteriorDetails-03-Mobile.png.miniusaimg.small.png",
+              "local_path": "images/mini/jcw-2-door/jcw-2-door/rear-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/color-picker/Legend%20Gray_Desktop.png",
+              "local_path": "images/mini/jcw-2-door/jcw-2-door/side-profile.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/mobile/MINI-F66-JCW-Interior-Mmobile.jpg.miniusaimg.small.jpeg",
+              "local_path": "images/mini/jcw-2-door/jcw-2-door/interior-dashboard.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "destination_fee": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "powertrain": "https://www.miniusa.com/model/john-cooper-works/2-door.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49229",
+            "performance.zero_to_60_sec": "https://www.miniusa.com/model/john-cooper-works/2-door.html",
+            "dimensions": "https://www.miniusa.com/model/john-cooper-works/2-door.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/MINI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.miniusa.com/model/john-cooper-works/2-door.html",
+            "warranty": "https://www.miniusa.com/owners/service-support/warranties.html"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: per spec §6.2/§7 sole-trim atomic rule, is_base_trim true and delta_from_base null applied together. Standalone miniusa.com model page distinguishes JCW from Cooper Hardtop 2 Door per performance-variant rule. EPA fueleconomy.gov ID 49229 verified as 2026 MINI JCW 2 Door, 2.0L turbo I4, automatic (AM-S7), premium gas. Wheel size 18\" reflects JCW Cross Spoke standard equipment (vs Cooper's 17\"). Tire spec is high-performance summer per JCW configuration; all-season available as option. Top speed 155 mph is electronically limited per Mini USA. JCW Style package availability noted in MY 2026 press release is irrelevant here as it is the JCW's standard equipment. NHTSA and IIHS have not crash-tested the 2026 JCW. Curb weight estimate (~3,130 lb) reflects JCW Sport brake hardware and reinforced chassis additions over Cooper S. ADAS booleans match Cooper Hardtop trims: AEB, LKA, LDW, DAM standard; ACC, BSM, RCTA optional via Driving Assistant Plus equipment package. Single trim_family 'jcw-2-door' carries the 4 required image angles directly per spec §6.2 sole-trim image requirement."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "JCW 2 Door is treated as its own model per spec §6.4 performance-variant rule because Mini USA gives it a dedicated miniusa.com model page (/model/john-cooper-works/2-door.html). Mini's MY 2026 press release lists three equipment tiers (Signature $38,900 / Signature Plus $41,300 / Iconic $43,300) — these are packages, not trims per spec §6.5, so only the base Signature MSRP is stored. Sole-trim model: trim_family 'jcw-2-door' carries the 4 required image angles directly per spec §6.2/§7 sole-trim image requirement. Note: the BMW Group MY 2026 USA press release at one point references '312 hp' in JCW marketing copy, but this is the JCW Countryman ALL4 figure; the JCW 2 Door (and JCW Convertible) consistently produce 228 hp / 280 lb-ft per Mini USA's product pages and EPA test data."
+    },
+    {
+      "model": "JCW Convertible",
+      "model_slug": "jcw-convertible",
+      "model_year": 2026,
+      "body_style": "convertible",
+      "generation_context": "Fourth-generation Mini JCW Convertible (F67 platform soft-top variant), the high-performance soft-top alternative to the JCW 2 Door. Launched for MY 2025 alongside the Cooper Convertible. Sold on its own dedicated miniusa.com model page per performance-variant rule.",
+      "msrp_range": {
+        "low": 44600,
+        "high": 44600
+      },
+      "model_summary": "High-performance two-door front-wheel-drive convertible with power-folding cloth roof, powered by the same JCW-tuned 2.0L turbocharged 4-cylinder (228 hp, 280 lb-ft) as the JCW 2 Door. Mated to a 7-speed sport dual-clutch automatic. Sole-trim model.",
+      "reliability": {
+        "jd_power_vds_score": 168,
+        "jd_power_vds_year": 2026,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "Mini ranked third overall among mass-market brands in the 2026 J.D. Power U.S. Vehicle Dependability Study (168 PP100). No JCW Convertible-specific reliability score is published.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.motoringfile.com/2026/03/10/mini-climbs-to-third-in-j-d-power-dependability-study-a-major-milestone-for-quality/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "J.D. Power has not yet released the 2026 U.S. APEAL Study (typically published in July). No JCW Convertible-specific score has been published in recent years.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/us-automotive-performance-execution-and-layout-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the JCW Convertible as the most playful drop-top in the small-car class, combining the soft-top Cooper's open-air theater with JCW-specific suspension and brakes. Critiques focus on the considerable price premium over the JCW Hardtop (roughly $5,700), heavier curb weight blunting the chassis edge, and a small soft-top cargo area limiting practicality.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/mini/jcw-convertible",
+            "date": "2025-11-08"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/mini/cooper/2026/jcw-convertible/",
+            "date": "2026-01-05"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/mini/jcw-convertible/2026/",
+            "date": "2026-02-10"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB have not yet published meaningful owner-review aggregates for the 2026 JCW Convertible.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/mini/cooper/2026/jcw-convertible/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "JCW Convertible",
+          "trim_slug": "jcw-convertible",
+          "trim_family": "jcw-convertible",
+          "is_base_trim": true,
+          "msrp_base": 44600,
+          "destination_fee": 1175,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 228,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 280,
+            "transmission": "7-speed sport dual-clutch automatic",
+            "transmission_speeds": 7,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 26,
+            "highway_mpg": 35,
+            "combined_mpg": 30,
+            "fuel_tank_gal": 11.6,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2300
+          },
+          "performance": {
+            "zero_to_60_sec": 6.2,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 155,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 152.8,
+            "width_in": 68.7,
+            "height_in": 56.3,
+            "wheelbase_in": 98.2,
+            "ground_clearance_in": 5.1,
+            "curb_weight_lb": 3310,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 5.7,
+              "behind_1st_row": 7.6,
+              "max_with_seats_folded": 7.6,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "215/40R18 high-performance summer (Pirelli P Zero or similar)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 9.4,
+            "driver_display_in": null,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Mini Stereo 6-speaker",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "JCW-tuned 2.0L TwinPower Turbo engine (228 hp / 280 lb-ft)",
+              "7-speed sport dual-clutch transmission",
+              "JCW Sport brakes with red calipers and JCW logos",
+              "Dynamic Damper Control adaptive suspension",
+              "Power-folding cloth convertible roof (18 sec opening at up to 18 mph)",
+              "JCW Sport steering wheel with paddle shifters",
+              "Leather-free JCW Sport seats with Chili Red contrast",
+              "JCW-specific aerodynamic body kit",
+              "Convertible wind deflector",
+              "Always-Open Timer in driver display"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "3yr/36k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-convertible/2025/jcw/mobile/MINI-F67-JCW-Exterior-Features-03-Mobile.png.miniusaimg.small.png",
+              "local_path": "images/mini/jcw-convertible/jcw-convertible/front-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-convertible/2025/jcw/mobile/MINI-F67-JCW-Exterior-Features-01-Mobile.png.miniusaimg.small.png",
+              "local_path": "images/mini/jcw-convertible/jcw-convertible/rear-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-convertible/2025/jcw/color-picker-jcw/LegendGrey.png",
+              "local_path": "images/mini/jcw-convertible/jcw-convertible/side-profile.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-convertible/2025/jcw/mobile/MINI-F67-JCW-Interior-Mobile.jpg.miniusaimg.large.jpeg",
+              "local_path": "images/mini/jcw-convertible/jcw-convertible/interior-dashboard.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "destination_fee": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "powertrain": "https://www.miniusa.com/model/john-cooper-works/convertible.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49187",
+            "performance.zero_to_60_sec": "https://www.miniusa.com/model/john-cooper-works/convertible.html",
+            "dimensions": "https://www.miniusa.com/model/john-cooper-works/convertible.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/MINI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.miniusa.com/model/john-cooper-works/convertible.html",
+            "warranty": "https://www.miniusa.com/owners/service-support/warranties.html"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: per spec §6.2/§7 atomic rule, is_base_trim true and delta_from_base null applied together. Standalone miniusa.com model page per performance-variant rule. EPA fueleconomy.gov ID 49187 verified as 2026 MINI JCW Convertible, 2.0L turbo I4, automatic, premium gas. 0-60 mph 6.2s is 0.3s slower than JCW 2 Door (5.9s) reflecting the Convertible's additional ~180 lb of soft-top mass. Top speed 155 mph electronically limited. Curb weight estimate ~3,310 lb. ADAS package same as JCW 2 Door (AEB, LKA, LDW, DAM standard; ACC/BSM/RCTA optional via Driving Assistant Plus). Single trim_family 'jcw-convertible' carries the 4 required image angles per spec §6.2 sole-trim image requirement."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "JCW Convertible is treated as its own model per spec §6.4 performance-variant rule (dedicated miniusa.com page at /model/john-cooper-works/convertible.html). MY 2026 press release lists three equipment tiers (Signature $44,600 / Signature Plus $47,000 / Iconic $49,000) — packages per spec §6.5, only base Signature stored. Sole-trim with trim_family 'jcw-convertible' carrying 4 required image angles."
+    },
+    {
+      "model": "Countryman",
+      "model_slug": "countryman",
+      "model_year": 2026,
+      "body_style": "suv-compact",
+      "generation_context": "Third-generation Mini Countryman (U25 platform), launched for MY 2025 on the BMW Group front-drive UKL2 platform shared with the BMW X1/X2 and iX1/iX2. The 2026 model year introduces an 18-inch Asteroid Spoke wheel option as a no-cost upgrade and expands sport-stripe customization. The Countryman is sold in both ICE (Countryman S ALL4) and electric (Countryman SE ALL4) variants on miniusa.com.",
+      "msrp_range": {
+        "low": 38900,
+        "high": 45200
+      },
+      "model_summary": "Compact crossover SUV with standard ALL4 intelligent all-wheel drive across both gasoline (S ALL4) and battery-electric (SE ALL4) powertrain lines. The S ALL4 uses a 241-hp 2.0L turbo I4 with a 7-speed dual-clutch automatic; the SE ALL4 is a dual-motor EV with 308 hp, 212-mile EPA range, and a 64.7 kWh battery. The high-performance JCW Countryman ALL4 is sold as a separate model entry. Largest Mini available in the US; only Mini sold with AWD.",
+      "reliability": {
+        "jd_power_vds_score": 168,
+        "jd_power_vds_year": 2026,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "Mini ranked third overall among mass-market brands in the 2026 J.D. Power U.S. Vehicle Dependability Study (168 PP100 vs 204 industry average). The 2025 Mini Countryman earned an IIHS Top Safety Pick. Consumer Reports has not yet published a model-specific predicted-reliability score for the redesigned third-generation Countryman.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.motoringfile.com/2026/03/10/mini-climbs-to-third-in-j-d-power-dependability-study-a-major-milestone-for-quality/",
+          "https://www.motoringfile.com/2024/09/20/2025-mini-countryman-scores-iihs-top-safety-pick/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "J.D. Power has not yet released the 2026 U.S. APEAL Study (typically published in July). No Countryman-specific APEAL score has been published in recent years.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/us-automotive-performance-execution-and-layout-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the third-generation Countryman's significantly improved interior, larger 9.4-inch OLED display, standard ALL4 AWD, and improved practicality versus its predecessor including 24.98 cu ft of cargo behind the rear seats. The SE ALL4 EV variant earns particular praise for its 308 hp dual-motor delivery and 5.4-second 0-60. Common critiques focus on the firm ride, polarizing exterior styling versus the iconic Cooper Hardtop, and Countryman SE EV's modest 212-mile range versus rivals offering 250-300+ miles.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/mini/countryman",
+            "date": "2025-09-15"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/mini/countryman/2026/",
+            "date": "2025-11-20"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/mini/countryman/2026/",
+            "date": "2026-01-10"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB have not yet published meaningful owner-review aggregates specific to the 2026 Mini Countryman. The redesigned U25 generation launched in mid-2024 and US owner-feedback volume remains limited.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/mini/countryman/2026/",
+          "https://www.kbb.com/mini/countryman/2026/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Countryman S ALL4",
+          "trim_slug": "countryman-s-all4",
+          "trim_family": "countryman-ice",
+          "is_base_trim": true,
+          "msrp_base": 38900,
+          "destination_fee": 1175,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 241,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 295,
+            "transmission": "7-speed dual-clutch automatic",
+            "transmission_speeds": 7,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 24,
+            "highway_mpg": 32,
+            "combined_mpg": 27,
+            "fuel_tank_gal": 14.3,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2550
+          },
+          "performance": {
+            "zero_to_60_sec": 6.2,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 3500,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 174.8,
+            "width_in": 72.6,
+            "height_in": 64.6,
+            "wheelbase_in": 105.6,
+            "ground_clearance_in": 6.9,
+            "curb_weight_lb": 3777,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 24.98,
+              "behind_1st_row": 56.18,
+              "max_with_seats_folded": 56.18,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/55R18 all-season runflat (18\" Asteroid Spoke standard for 2026; 19\" optional)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": "TSP",
+            "iihs_rating_year": 2025,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 9.4,
+            "driver_display_in": null,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Mini Stereo 6-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "ALL4 intelligent all-wheel drive (standard)",
+              "9.4-inch circular OLED central display",
+              "Mini Toggle Bar with physical drive-mode controls",
+              "Mini Intelligent Personal Assistant voice control",
+              "Mini Experience Modes",
+              "Mini Operating System 9",
+              "LED headlights with adaptive function",
+              "Sport seats with cloth/Vescin combination upholstery",
+              "Personal eSIM 5G connectivity",
+              "Roof rails standard",
+              "Trailer hitch option enables 3,500 lb towing"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "3yr/36k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/mobile/MINI-U25-Overview-Schematic-Mobile.png.miniusaimg.small.png",
+              "local_path": "images/mini/countryman/countryman-ice/front-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/mobile/MINI-U25-Overview-Where-Next-Specs-Mobile.png.miniusaimg.small.png",
+              "local_path": "images/mini/countryman/countryman-ice/rear-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-countryman-se-all4/2026/mobile/MY27-Countryman-ICE-FAQs-Mobile.png",
+              "local_path": "images/mini/countryman/countryman-ice/side-profile.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/mobile/MINI-U25-Overview-Tech-Mobile.jpg.miniusaimg.large.jpeg",
+              "local_path": "images/mini/countryman/countryman-ice/interior-dashboard.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "destination_fee": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "powertrain": "https://www.miniusa.com/model/countryman.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49522",
+            "performance.zero_to_60_sec": "https://www.miniusa.com/model/countryman.html",
+            "dimensions": "https://www.miniusa.com/model/countryman/specs.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/MINI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/mini/countryman-4-door-suv/2026",
+            "features": "https://www.miniusa.com/model/countryman.html",
+            "warranty": "https://www.miniusa.com/owners/service-support/warranties.html"
+          },
+          "delta_from_base": null,
+          "notes": "Base ICE trim of the Countryman ICE powertrain line. EPA fueleconomy.gov ID 49522 verified as 2026 MINI Countryman S All4, 2.0L turbo I4, automatic, premium gas. Standard ALL4 intelligent all-wheel drive (Mini's only AWD offering apart from JCW Countryman). 3,500 lb towing capacity with optional factory trailer hitch. Width 72.6\" reflects body-only measurement (without mirrors); miniusa.com lists 81.5\" with mirrors. Wheelbase 105.6\" rounded from manufacturer-press tech spec. IIHS Top Safety Pick award originally earned by the 2025 Countryman (carries over for 2026 as same generation); IIHS 2026-MY page exists but does not yet show the TSP designation explicitly (status carried forward from 2025). ADAS Driving Assistant Plus optional/standard on Iconic equipment package. Mini USA equipment-tier pricing for 2026: Signature Plus $38,900 / Iconic $42,300 — Signature tier not offered on Countryman ICE per the press release. Length 174.8\" rounded from 175\" page listing. JCW Style package $1,400 newly available on S models for MY 2026."
+        },
+        {
+          "trim": "Countryman SE ALL4",
+          "trim_slug": "countryman-se-all4",
+          "trim_family": "countryman-ev",
+          "is_base_trim": true,
+          "msrp_base": 45200,
+          "destination_fee": 1175,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 308,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 364,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 66.45,
+            "battery_usable_kwh": 64.7,
+            "electric_range_mi": 212,
+            "total_range_mi": 212,
+            "dc_fast_charge_peak_kw": 130,
+            "dc_fast_charge_10_to_80_min": 30,
+            "ac_charge_kw": 11,
+            "mpge_combined": 96,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 99,
+            "highway_mpg": 94,
+            "combined_mpg": 96,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 700
+          },
+          "performance": {
+            "zero_to_60_sec": 5.4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 112,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 174.8,
+            "width_in": 72.6,
+            "height_in": 64.6,
+            "wheelbase_in": 105.6,
+            "ground_clearance_in": 6.9,
+            "curb_weight_lb": 4475,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 24,
+              "behind_1st_row": 54,
+              "max_with_seats_folded": 54,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/55R18 all-season runflat (19\" optional reduces range to 204 mi EPA)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": "TSP",
+            "iihs_rating_year": 2025,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 9.4,
+            "driver_display_in": null,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon premium 12-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "Dual-motor ALL4 all-wheel drive (electric)",
+              "308 hp peak (including temporary boost), 364 lb-ft torque",
+              "64.7 kWh usable battery (66.45 kWh gross)",
+              "212 mi EPA electric range (18\" wheels) / 204 mi (19\" wheels)",
+              "130 kW DC fast charging peak (10-80% in ~30 min)",
+              "11 kW Level 2 AC onboard charger",
+              "CCS1 plug standard (NACS adapter expected)",
+              "9.4-inch circular OLED central display with EV-specific routing/charging interface",
+              "Driving Assistant Plus standard (ACC, BSM, RCTA)",
+              "Digital Key Plus compatibility",
+              "Roof rails standard"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": "3yr/36k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/mobile/MINI-U25-Overview-Schematic-Mobile.png.miniusaimg.small.png",
+              "local_path": "images/mini/countryman/countryman-ev/front-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/mobile/MINI-U25-Overview-Where-Next-Specs-Mobile.png.miniusaimg.small.png",
+              "local_path": "images/mini/countryman/countryman-ev/rear-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-countryman-se-all4/2026/mobile/MY27-Countryman-ICE-FAQs-Mobile.png",
+              "local_path": "images/mini/countryman/countryman-ev/side-profile.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/mobile/MINI-U25-Overview-Tech-Mobile.jpg.miniusaimg.large.jpeg",
+              "local_path": "images/mini/countryman/countryman-ev/interior-dashboard.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.miniusa.com/model/electric-vehicles/countryman.html",
+            "destination_fee": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "powertrain": "https://www.miniusa.com/model/electric-vehicles/countryman.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50222",
+            "performance.zero_to_60_sec": "https://www.miniusa.com/model/electric-vehicles/countryman.html",
+            "dimensions": "https://www.miniusa.com/model/electric-vehicles/countryman.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/MINI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/mini/countryman-4-door-suv/2026",
+            "features": "https://www.miniusa.com/model/electric-vehicles/countryman.html",
+            "warranty": "https://www.miniusa.com/owners/service-support/warranties.html"
+          },
+          "delta_from_base": null,
+          "notes": "Base EV trim of the Countryman EV powertrain line; sole-trim of EV line — is_base_trim true and delta_from_base null applied atomically per spec §6.2/§7. EPA fueleconomy.gov ID 50222 verified as 2026 MINI Countryman SE ALL4 (18 inch Wheels), 96 MPGe combined / 212 mi range. ID 50223 also verified for the 19\" wheel option (91 MPGe / 204 mi). The press.bmwgroup.com MY 2026 release indicated the Countryman SE ALL4 would 'remain as a Model Year 2025' with future pricing announced later — however, both EPA fueleconomy.gov and miniusa.com currently publish 2026-MY entries with a $45,200 starting MSRP, so the model is included as 2026 MY here. miniusa.com page headers display some 2027-MY labels alongside the 2026 pricing as the consumer site cycles ahead of the press release — confidence is medium on the model-year designation; EPA's 2026 listing is treated as authoritative for spec purposes. MPGe values mirrored into fuel_economy.city/highway/combined per spec §3.6 v1.1 EV convention. Battery capacity 66.45 kWh gross / 64.7 kWh usable per manufacturer publication. ADAS Driving Assistant Plus listed as standard on the Countryman SE ALL4 per consumer-page features list. Towing capacity null — Mini does not publish a towing rating for the Countryman SE ALL4 EV. Length and dimensions match Countryman S ALL4 (same body); curb weight ~700 lb heavier due to battery pack. Plug type CCS1 standard; Mini has not yet announced NACS-native availability for the Countryman SE (CCS1 with potential factory NACS adapter)."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Countryman model has two powertrain lines per spec §6.4: ICE (Countryman S ALL4) and EV (Countryman SE ALL4). Each has its own base trim with is_base_trim:true and delta_from_base:null. The two trims occupy separate trim_families (countryman-ice, countryman-ev) reflecting distinct exterior styling cues (grille blanking on SE, copper/black accents, badging) and the EV's separate miniusa.com product page. Both trim_families are sole-occupancy families and carry the 4 required image angles directly per spec §6.2/§7 sole-trim image rule. Press release ambiguity note: the BMW Group MY 2026 USA press release dated June 5, 2025 stated the Countryman SE ALL4 'will remain as a Model Year 2025' with pricing TBA — however, by May 2026 both miniusa.com and EPA fueleconomy.gov publish 2026-MY entries for the SE ALL4 at $45,200 starting MSRP. The model is included here as 2026 MY based on the consumer site and EPA authoritative listings; the press release wording appears to have been outdated/revised. JCW Countryman ALL4 is a separate model entry per performance-variant rule. IIHS Top Safety Pick was awarded to the 2025 Countryman (third-generation U25); status carries forward for 2026 as same generation. 2025-Pre-Phase4 image scraping coverage applies."
+    },
+    {
+      "model": "JCW Countryman ALL4",
+      "model_slug": "jcw-countryman-all4",
+      "model_year": 2026,
+      "body_style": "suv-compact",
+      "generation_context": "Third-generation Mini JCW Countryman ALL4 (U25 platform high-performance variant), launched for MY 2025 as the most powerful Mini ever produced. Marketed on its own dedicated miniusa.com page; per spec §6.4 performance-variant rule it is treated as a separate model. Shares the BMW M version of the Group's UKL2 platform's 2.0L turbo I4 with the BMW X1 M35i.",
+      "msrp_range": {
+        "low": 46900,
+        "high": 46900
+      },
+      "model_summary": "Highest-output Mini in the US lineup — a 312-hp JCW-tuned 2.0L turbocharged 4-cylinder with 295 lb-ft of torque driving all four wheels through a 7-speed sport dual-clutch transmission and ALL4 intelligent all-wheel drive. Capable of 0-60 mph in 5.2 seconds (5.4s by some manufacturer measures) and a top speed of 155 mph. Sole-trim model.",
+      "reliability": {
+        "jd_power_vds_score": 168,
+        "jd_power_vds_year": 2026,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "Mini ranked third overall among mass-market brands in the 2026 J.D. Power U.S. Vehicle Dependability Study (168 PP100). JCW Countryman ALL4 shares the BMW Group B48 engine architecture. No JCW-specific Consumer Reports score is published.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.motoringfile.com/2026/03/10/mini-climbs-to-third-in-j-d-power-dependability-study-a-major-milestone-for-quality/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "J.D. Power has not yet released the 2026 U.S. APEAL Study (typically published in July). No JCW Countryman-specific score has been published in recent years.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/us-automotive-performance-execution-and-layout-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers position the JCW Countryman ALL4 as the only US-market Mini that delivers true performance-SUV credentials, with 312 hp, AWD traction, and a 5.2-second 0-60. Critiques focus on the JCW-grade firm ride that's harsher than the standard S ALL4, FWD-bias of the ALL4 system limiting maximum-attack handling, and pricing approaching $50,000 with options that puts it against more capable performance crossovers like the BMW X1 M35i (with which it shares the platform and engine).",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/mini/jcw-countryman",
+            "date": "2025-10-22"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/mini/countryman/2026/jcw-all4-signature-plus/",
+            "date": "2025-12-08"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/mini/jcw-countryman/2026/",
+            "date": "2026-02-05"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB have not yet published meaningful owner-review aggregates for the 2026 JCW Countryman ALL4. The U25 generation JCW launched in mid-2024 and US owner data remains thin.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/mini/countryman/2026/jcw-all4-signature-plus/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "JCW Countryman ALL4",
+          "trim_slug": "jcw-countryman-all4",
+          "trim_family": "jcw-countryman-all4",
+          "is_base_trim": true,
+          "msrp_base": 46900,
+          "destination_fee": 1175,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 312,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 295,
+            "transmission": "7-speed sport dual-clutch automatic",
+            "transmission_speeds": 7,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 23,
+            "highway_mpg": 30,
+            "combined_mpg": 25,
+            "fuel_tank_gal": 14.3,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2750
+          },
+          "performance": {
+            "zero_to_60_sec": 5.2,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 155,
+            "towing_capacity_lb": 3500,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 174.8,
+            "width_in": 72.6,
+            "height_in": 64.6,
+            "wheelbase_in": 105.6,
+            "ground_clearance_in": 6.9,
+            "curb_weight_lb": 3870,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 24.98,
+              "behind_1st_row": 56.18,
+              "max_with_seats_folded": 56.18,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "245/45R19 high-performance summer"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": "TSP",
+            "iihs_rating_year": 2025,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 9.4,
+            "driver_display_in": null,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon premium 12-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "JCW-tuned 2.0L TwinPower Turbo engine (312 hp)",
+              "ALL4 all-wheel drive (standard)",
+              "7-speed sport dual-clutch transmission",
+              "JCW Sport brakes with red calipers and JCW logos",
+              "Adaptive M Sport suspension",
+              "JCW Sport steering wheel with paddle shifters",
+              "Leather-free JCW Sport seats with Chili Red contrast",
+              "JCW-specific aerodynamic body kit",
+              "19-inch JCW Cross Spoke wheels (standard)",
+              "Driving Assistant Plus standard (ACC, BSM, RCTA)",
+              "Mini Experience Modes including JCW Sport+",
+              "3,500 lb towing capacity with optional factory trailer hitch"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "3yr/36k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-convertible/2025/jcw/mobile/MINI-F67-JCW-Exterior-Features-03-Mobile.png.miniusaimg.small.png",
+              "local_path": "images/mini/jcw-countryman-all4/jcw-countryman-all4/front-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/mini-convertible/2025/jcw/mobile/MINI-F67-JCW-Exterior-Features-01-Mobile.png.miniusaimg.small.png",
+              "local_path": "images/mini/jcw-countryman-all4/jcw-countryman-all4/rear-three-quarter.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/jcw/desktop/MINI-Countryman-JCW-cosy.png",
+              "local_path": "images/mini/jcw-countryman-all4/jcw-countryman-all4/side-profile.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/jcw/mobile/MINI-U25-JCW-Interior-Mobile.jpg.miniusaimg.large.jpeg",
+              "local_path": "images/mini/jcw-countryman-all4/jcw-countryman-all4/interior-dashboard.jpg",
+              "credit": "MINI USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "destination_fee": "https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates",
+            "powertrain": "https://www.miniusa.com/model/countryman.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49523",
+            "performance.zero_to_60_sec": "https://www.miniusa.com/model/countryman.html",
+            "dimensions": "https://www.miniusa.com/model/countryman/specs.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/MINI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/mini/countryman-4-door-suv/2026",
+            "features": "https://www.miniusa.com/model/countryman.html",
+            "warranty": "https://www.miniusa.com/owners/service-support/warranties.html"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: per spec §6.2/§7 atomic rule, is_base_trim true and delta_from_base null applied together. Standalone miniusa.com model page at /model/john-cooper-works/countryman-all4.html (returned 404 to direct WebFetch; specs aggregated from /model/countryman.html and /model/countryman/specs.html which list S ALL4 and JCW Countryman ALL4 side by side). EPA fueleconomy.gov ID 49523 verified as 2026 MINI JCW Countryman ALL4, 2.0L turbo I4, automatic, premium gas, 'Small Sport Utility Vehicle 4WD' class. Engine output 312 hp is the highest in any Mini sold in the US — same hardware as BMW X1 M35i. 0-60 5.2s per Mini marketing (5.4s per some BMW Group sources — used 5.2s as the headline US-market figure). Top speed 155 mph electronically limited. ALL4 standard. Driving Assistant Plus (ACC/BSM/RCTA) standard on the JCW per consumer-page feature list. Cargo volume matches S ALL4 body. IIHS TSP carries from 2025-MY award (same generation). 19\" JCW Cross Spoke wheels standard (vs S ALL4's 18\"). JCW Style package on Countryman noted at $1,400 in MY 2026 release; this is for the S ALL4 — the JCW already comes with JCW-specific equipment as standard. Sole-trim image angles carried directly per spec §6.2."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "JCW Countryman ALL4 is treated as its own model per spec §6.4 performance-variant rule (dedicated miniusa.com page). Most powerful Mini sold in the US. MY 2026 press release equipment tiers: Signature Plus $46,900 / Iconic $49,400 (Signature tier not offered on JCW Countryman). Sole-trim with trim_family 'jcw-countryman-all4' carrying 4 required image angles directly. Specs cross-referenced with the BMW X1 M35i (shared platform/engine) for plausibility — Mini publishes 312 hp, 295 lb-ft, identical to X1 M35i."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+Reset 288 image entries with needs_scraping:true to their model page URLs.
+Brand: chevrolet
+Models in JSON: 18
+Models with page URLs: 18
+Playwright fallback: enabled
+
+Scraping 18 model pages…
+
+  fetch https://www.chevrolet.com/suvs/trax  …  static ok (976 raw, 308 slug-matching)
+  fetch https://www.chevrolet.com/suvs/trailblazer  …  static ok (920 raw, 259 slug-matching)
+  fetch https://www.chevrolet.com/suvs/equinox  …  static ok (1434 raw, 801 slug-matching)
+  fetch https://www.chevrolet.com/electric/equinox-ev  …  static ok (1250 raw, 323 slug-matching)
+  fetch https://www.chevrolet.com/suvs/blazer  …  static ok (984 raw, 351 slug-matching)
+  fetch https://www.chevrolet.com/electric/blazer-ev  …  static ok (1056 raw, 398 slug-matching)
+  fetch https://www.chevrolet.com/suvs/traverse  …  static ok (896 raw, 235 slug-matching)
+  fetch https://www.chevrolet.com/suvs/tahoe  …  static ok (1068 raw, 407 slug-matching)
+  fetch https://www.chevrolet.com/suvs/suburban  …  static ok (955 raw, 294 slug-matching)
+  fetch https://www.chevrolet.com/trucks/colorado  …  static ok (1032 raw, 387 slug-matching)
+  fetch https://www.chevrolet.com/trucks/silverado/1500  …  static ok (1219 raw, 640 slug-matching)
+  fetch https://www.chevrolet.com/trucks/silverado/2500hd-3500hd  …  static ok (1099 raw, 452 slug-matching)
+  fetch https://www.chevrolet.com/electric/silverado-ev  …  static ok (1219 raw, 488 slug-matching)
+  fetch https://www.chevrolet.com/performance/corvette/stingray  …  static ok (1117 raw, 530 slug-matching)
+  fetch https://www.chevrolet.com/performance/corvette/e-ray  …  static ok (1028 raw, 313 slug-matching)
+  fetch https://www.chevrolet.com/performance/corvette/z06  …  static ok (1128 raw, 454 slug-matching)
+  fetch https://www.chevrolet.com/performance/corvette/zr1  …  static ok (1102 raw, 445 slug-matching)
+  fetch https://www.chevrolet.com/performance/corvette/zr1x  …  static ok (1044 raw, 367 slug-matching)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          chevrolet
+Pages attempted:                18
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 18
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        253
+  via text/URL pattern match:   253
+  via brand-specific angle:     0
+  via positional fallback:      0
+Brand-specific angle matches:   0
+Resolution upgrades:            225 URLs preferred larger variants
+Image entries unchanged:        35
+
+Sample rewrites:
+  [23.4] trax/ls/front_three_quarter
+        → https://www.chevrolet.com/content/dam/chevrolet/na/us/english/vdc-collections/2026/suvs/trax/trims/jpg/2026-trax-1sa-gvr-driver-front-3quarter-nav.jpg?imwidth=3000
+  [34.5] trax/ls/interior_dashboard
+        → https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2026/suvs/trax/gallery/01-images/2026-trax-gallery-preview-01.jpg?imwidth=1200
+  [23.4] trax/1rs/front_three_quarter
+        → https://www.chevrolet.com/content/dam/chevrolet/na/us/english/vdc-collections/2026/suvs/trax/trims/jpg/2026-trax-1sa-gvr-driver-front-3quarter-nav.jpg?imwidth=3000
+  [34.5] trax/1rs/interior_dashboard
+        → https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2026/suvs/trax/gallery/01-images/2026-trax-gallery-preview-01.jpg?imwidth=1200
+  [23.4] trax/lt/front_three_quarter
+        → https://www.chevrolet.com/content/dam/chevrolet/na/us/english/vdc-collections/2026/suvs/trax/trims/jpg/2026-trax-1sa-gvr-driver-front-3quarter-nav.jpg?imwidth=3000
+  [34.5] trax/lt/interior_dashboard
+        → https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2026/suvs/trax/gallery/01-images/2026-trax-gallery-preview-01.jpg?imwidth=1200
+  [23.4] trax/2rs/front_three_quarter
+        → https://www.chevrolet.com/content/dam/chevrolet/na/us/english/vdc-collections/2026/suvs/trax/trims/jpg/2026-trax-1sa-gvr-driver-front-3quarter-nav.jpg?imwidth=2400
+  [12.0] trax/2rs/interior_dashboard
+        → https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2026/suvs/trax/mov/01-images/2026-trax-technology-01-xs.jpg?imwidth=1920
+  [23.4] trax/activ/front_three_quarter
+        → https://www.chevrolet.com/content/dam/chevrolet/na/us/english/vdc-collections/2026/suvs/trax/trims/jpg/2026-trax-1sa-gvr-driver-front-3quarter-nav.jpg?imwidth=3000
+  [34.5] trax/activ/interior_dashboard
+        → https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2026/suvs/trax/gallery/01-images/2026-trax-gallery-preview-01.jpg?imwidth=1200
+  [23.4] trailblazer/ls/front_three_quarter
+        → https://www.chevrolet.com/content/dam/chevrolet/na/us/english/vdc-collections/2026/suvs/trailblazer/nav/2026-trailblazer-1sa-g42-driver-front-3quarter-nav.jpg?imwidth=3000
+  [34.5] trailblazer/ls/interior_dashboard
+        → https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2026/suvs/trailblazer/gallery/01-images/2026-trailblazer-mov-gallerypre-04.png?imwidth=1200
+
+Models with unresolved angles:
+  trax: 10 entries  (e.g. ls/rear_three_quarter, ls/side_profile, 1rs/rear_three_quarter)
+  trailblazer: 8 entries  (e.g. ls/rear_three_quarter, ls/side_profile, lt/rear_three_quarter)
+  equinox-ev: 1 entries  (e.g. lt-2-awd/rear_three_quarter)
+  blazer: 4 entries  (e.g. 2lt-fwd/side_profile, 3lt-fwd/side_profile, rs-fwd/side_profile)
+  blazer-ev: 2 entries  (e.g. lt-awd/rear_three_quarter, rs-awd/rear_three_quarter)
+  traverse: 8 entries  (e.g. lt-fwd/rear_three_quarter, lt-fwd/side_profile, z71-awd/rear_three_quarter)
+  corvette-e-ray: 2 entries  (e.g. 1lz-coupe/side_profile, 1lz-convertible/side_profile)

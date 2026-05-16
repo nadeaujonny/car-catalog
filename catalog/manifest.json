@@ -1,0 +1,282 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-16T14:12:32Z",
+  "brands": [
+    {
+      "slug": "acura",
+      "display_name": "Acura",
+      "researched_at": "2026-05-12",
+      "model_count": 6
+    },
+    {
+      "slug": "alfa-romeo",
+      "display_name": "Alfa Romeo",
+      "researched_at": "2026-05-13",
+      "model_count": 3
+    },
+    {
+      "slug": "aston-martin",
+      "display_name": "Aston Martin",
+      "researched_at": "2026-05-12",
+      "model_count": 11
+    },
+    {
+      "slug": "audi",
+      "display_name": "Audi",
+      "researched_at": "2026-05-12",
+      "model_count": 25
+    },
+    {
+      "slug": "bentley",
+      "display_name": "Bentley",
+      "researched_at": "2026-05-13",
+      "model_count": 5
+    },
+    {
+      "slug": "bmw",
+      "display_name": "BMW",
+      "researched_at": "2026-05-15",
+      "model_count": 30
+    },
+    {
+      "slug": "bugatti",
+      "display_name": "Bugatti",
+      "researched_at": "2026-05-15",
+      "model_count": 2
+    },
+    {
+      "slug": "buick",
+      "display_name": "Buick",
+      "researched_at": "2026-05-13",
+      "model_count": 4
+    },
+    {
+      "slug": "cadillac",
+      "display_name": "Cadillac",
+      "researched_at": "2026-05-12",
+      "model_count": 18
+    },
+    {
+      "slug": "chevrolet",
+      "display_name": "Chevrolet",
+      "researched_at": "2026-05-15",
+      "model_count": 18
+    },
+    {
+      "slug": "chrysler",
+      "display_name": "Chrysler",
+      "researched_at": "2026-05-15",
+      "model_count": 3
+    },
+    {
+      "slug": "dodge",
+      "display_name": "Dodge",
+      "researched_at": "2026-05-15",
+      "model_count": 3
+    },
+    {
+      "slug": "ferrari",
+      "display_name": "Ferrari",
+      "researched_at": "2026-05-12",
+      "model_count": 12
+    },
+    {
+      "slug": "fiat",
+      "display_name": "Fiat",
+      "researched_at": "2026-05-15",
+      "model_count": 1
+    },
+    {
+      "slug": "ford",
+      "display_name": "Ford",
+      "researched_at": "2026-05-13",
+      "model_count": 22
+    },
+    {
+      "slug": "genesis",
+      "display_name": "Genesis",
+      "researched_at": "2026-05-12",
+      "model_count": 8
+    },
+    {
+      "slug": "gmc",
+      "display_name": "GMC",
+      "researched_at": "2026-05-13",
+      "model_count": 10
+    },
+    {
+      "slug": "honda",
+      "display_name": "Honda",
+      "researched_at": "2026-05-11",
+      "model_count": 13
+    },
+    {
+      "slug": "hyundai",
+      "display_name": "Hyundai",
+      "researched_at": "2026-05-13",
+      "model_count": 14
+    },
+    {
+      "slug": "infiniti",
+      "display_name": "Infiniti",
+      "researched_at": "2026-05-13",
+      "model_count": 2
+    },
+    {
+      "slug": "jaguar",
+      "display_name": "Jaguar",
+      "researched_at": "2026-05-13",
+      "model_count": 1
+    },
+    {
+      "slug": "jeep",
+      "display_name": "Jeep",
+      "researched_at": "2026-05-13",
+      "model_count": 12
+    },
+    {
+      "slug": "kia",
+      "display_name": "Kia",
+      "researched_at": "2026-05-12",
+      "model_count": 16
+    },
+    {
+      "slug": "lamborghini",
+      "display_name": "Lamborghini",
+      "researched_at": "2026-05-12",
+      "model_count": 3
+    },
+    {
+      "slug": "land-rover",
+      "display_name": "Land Rover",
+      "researched_at": "2026-05-13",
+      "model_count": 11
+    },
+    {
+      "slug": "lexus",
+      "display_name": "Lexus",
+      "researched_at": "2026-05-12",
+      "model_count": 11
+    },
+    {
+      "slug": "lotus",
+      "display_name": "Lotus",
+      "researched_at": "2026-05-13",
+      "model_count": 3
+    },
+    {
+      "slug": "lucid",
+      "display_name": "Lucid",
+      "researched_at": "2026-05-13",
+      "model_count": 2
+    },
+    {
+      "slug": "maserati",
+      "display_name": "Maserati",
+      "researched_at": "2026-05-13",
+      "model_count": 6
+    },
+    {
+      "slug": "mazda",
+      "display_name": "Mazda",
+      "researched_at": "2026-05-12",
+      "model_count": 12
+    },
+    {
+      "slug": "mclaren",
+      "display_name": "McLaren",
+      "researched_at": "2026-05-13",
+      "model_count": 6
+    },
+    {
+      "slug": "mercedes-benz",
+      "display_name": "Mercedes-Benz",
+      "researched_at": "2026-05-12",
+      "model_count": 25
+    },
+    {
+      "slug": "mini",
+      "display_name": "Mini",
+      "researched_at": "2026-05-12",
+      "model_count": 7
+    },
+    {
+      "slug": "mitsubishi",
+      "display_name": "Mitsubishi",
+      "researched_at": "2026-05-13",
+      "model_count": 4
+    },
+    {
+      "slug": "nissan",
+      "display_name": "Nissan",
+      "researched_at": "2026-05-12",
+      "model_count": 13
+    },
+    {
+      "slug": "polestar",
+      "display_name": "Polestar",
+      "researched_at": "2026-05-13",
+      "model_count": 2
+    },
+    {
+      "slug": "porsche",
+      "display_name": "Porsche",
+      "researched_at": "2026-05-12",
+      "model_count": 16
+    },
+    {
+      "slug": "ram",
+      "display_name": "Ram",
+      "researched_at": "2026-05-13",
+      "model_count": 3
+    },
+    {
+      "slug": "rivian",
+      "display_name": "Rivian",
+      "researched_at": "2026-05-13",
+      "model_count": 3
+    },
+    {
+      "slug": "rolls-royce",
+      "display_name": "Rolls-Royce",
+      "researched_at": "2026-05-12",
+      "model_count": 7
+    },
+    {
+      "slug": "subaru",
+      "display_name": "Subaru",
+      "researched_at": "2026-05-12",
+      "model_count": 10
+    },
+    {
+      "slug": "tesla",
+      "display_name": "Tesla",
+      "researched_at": "2026-05-12",
+      "model_count": 10
+    },
+    {
+      "slug": "toyota",
+      "display_name": "Toyota",
+      "researched_at": "2026-05-12",
+      "model_count": 23
+    },
+    {
+      "slug": "vinfast",
+      "display_name": "VinFast",
+      "researched_at": "2026-05-15",
+      "model_count": 2
+    },
+    {
+      "slug": "volkswagen",
+      "display_name": "Volkswagen",
+      "researched_at": "2026-05-12",
+      "model_count": 9
+    },
+    {
+      "slug": "volvo",
+      "display_name": "Volvo",
+      "researched_at": "2026-05-12",
+      "model_count": 8
+    }
+  ]
+}

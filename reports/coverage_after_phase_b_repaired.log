@@ -1,0 +1,75 @@
+=== PER-BRAND COVERAGE (sorted desc) ===
+brand            entries  dl   cov%   tier    trims(4/partial/0)  models0
+bentley              88   88  100.0%  A>=80   22/0/0             0/5
+buick                48   48  100.0%  A>=80   12/0/0             0/4
+infiniti             32   32  100.0%  A>=80   8/0/4              0/2
+mclaren              24   24  100.0%  A>=80   6/0/0              0/6
+mini                 38   38  100.0%  A>=80   8/3/0              0/7
+audi                128  126   98.4%  A>=80   26/20/1            0/25
+bmw                 284  270   95.1%  A>=80   51/22/1            0/30
+toyota              140  133   95.0%  A>=80   20/35/72           3/23
+nissan              150  140   93.3%  A>=80   23/25/0            0/13
+jaguar               12   11   91.7%  A>=80   2/1/0              0/1
+volvo                95   86   90.5%  A>=80   16/22/3            1/8
+aston-martin         52   47   90.4%  A>=80   10/3/0             0/11
+chevrolet           288  256   88.9%  A>=80   53/19/0            0/18
+mitsubishi           96   84   87.5%  A>=80   20/4/0             0/4
+lucid                24   20   83.3%  A>=80   4/2/0              0/2
+honda               212  174   82.1%  A>=80   29/24/0            0/13
+acura                72   59   81.9%  A>=80   11/7/1             0/6
+genesis              94   77   81.9%  A>=80   13/19/7            0/8
+rivian               19   15   78.9%  B50-80  0/10/0             0/3
+gmc                 208  158   76.0%  B50-80  21/26/5            1/10
+cadillac            168  127   75.6%  B50-80  28/6/8             4/18
+alfa-romeo           28   20   71.4%  B50-80  2/5/0              0/3
+lexus               216  153   70.8%  B50-80  8/46/0             0/11
+jeep                220  142   64.5%  B50-80  20/26/9            3/12
+mazda                84   53   63.1%  B50-80  0/21/36            0/12
+porsche             155   78   50.3%  B50-80  6/34/22            3/16
+ford                203   96   47.3%  C<50    10/29/35           9/22
+maserati             48   22   45.8%  C<50    0/12/0             0/6
+lamborghini          12    5   41.7%  C<50    0/3/0              0/3
+polestar             12    5   41.7%  C<50    0/4/2              0/2
+rolls-royce          38   15   39.5%  C<50    2/4/3              3/7
+volkswagen           49   19   38.8%  C<50    0/11/20            2/9
+ram                  88   29   33.0%  C<50    0/22/0             0/3
+mercedes-benz       317  103   32.5%  C<50    0/71/7             3/25
+hyundai             152   43   28.3%  C<50    0/40/31            6/14
+kia                  64   14   21.9%  C<50    0/11/58            5/16
+land-rover          144   26   18.1%  C<50    0/16/20            6/11
+subaru              131   12    9.2%  C<50    0/12/38            7/10
+ferrari              48    1    2.1%  C<50    0/1/11             11/12
+lotus                24    0    0.0%  C<50    0/0/6              3/3
+tesla                64    0    0.0%  C<50    0/0/16             10/10
+
+=== TIER COUNTS ===
+A (>=80%): 18 brands — bentley, buick, infiniti, mclaren, mini, audi, bmw, toyota, nissan, jaguar, volvo, aston-martin, chevrolet, mitsubishi, lucid, honda, acura, genesis
+B (50-80%): 8 brands — rivian, gmc, cadillac, alfa-romeo, lexus, jeep, mazda, porsche
+C (<50%): 15 brands — ford, maserati, lamborghini, polestar, rolls-royce, volkswagen, ram, mercedes-benz, hyundai, kia, land-rover, subaru, ferrari, lotus, tesla
+
+=== PROJECT-WIDE TOTALS ===
+Brands:               41
+Models:               424  (zero-image models: 80)
+Trims:                1463
+  trims with all 4 required angles downloaded: 431  (29.5%)
+  trims missing 1+ required angle:             616  (42.1%)
+  trims with 0 images downloaded:              416  (28.4%)
+Image entries:        4369
+  downloaded:         2849  (65.2%)
+  not downloaded:     1520
+
+=== FLAGGED-ENTRY CHECK (expect anyDownloaded=false for all) ===
+  jeep/wrangler-4xe/sport-s-4xe: anyDownloaded=false
+  jeep/wrangler-4xe/willys-4xe: anyDownloaded=false
+  jeep/wrangler-4xe/sahara-4xe: anyDownloaded=false
+  jeep/wrangler-4xe/rubicon-4xe: anyDownloaded=false
+  jeep/wrangler-4xe/rubicon-x-4xe: anyDownloaded=false
+  jeep/grand-cherokee-4xe/limited-4xe: anyDownloaded=false
+  jeep/grand-cherokee-4xe/trailhawk-4xe: anyDownloaded=false
+  jeep/grand-cherokee-4xe/summit-4xe: anyDownloaded=false
+  porsche/911-gt3-rs/gt3-rs: anyDownloaded=false
+  porsche/718-cayman-gt4-rs/gt4-rs: anyDownloaded=false
+  porsche/718-spyder-rs/spyder-rs: anyDownloaded=false
+  volvo/es90/single-motor: anyDownloaded=false
+  volvo/es90/twin-motor: anyDownloaded=false
+  volvo/es90/twin-motor-performance: anyDownloaded=false

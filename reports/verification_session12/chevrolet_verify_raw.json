@@ -1,0 +1,199 @@
+{
+  "brand": "Chevrolet",
+  "brand_slug": "chevrolet",
+  "researched_at": "2026-05-15",
+  "schema_version": "1.1",
+  "model_count": 18,
+  "trim_count": 72,
+  "total_images": 288,
+  "needs_scraping": 288,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 36,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "trax/lt",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "trax/activ",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "trailblazer/lt",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "equinox/rs-fwd",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "equinox/activ-awd",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "equinox-ev/rs-fwd",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "traverse/z71-awd",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "traverse/rs-awd",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "traverse/high-country-awd",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "tahoe/lt-4wd",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "tahoe/rst-4wd",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "tahoe/z71-4wd",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "tahoe/premier",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "tahoe/high-country-4wd",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "suburban/lt-4wd",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "suburban/rst-4wd",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "suburban/z71-4wd",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "suburban/premier",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "suburban/high-country-4wd",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "colorado/lt-4wd",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "colorado/trail-boss-4wd",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "colorado/z71-4wd",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "silverado-1500/custom-2wd",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "silverado-1500/rst-4wd-crew-cab",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "silverado-1500/ltz-4wd-crew-cab",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "silverado-1500/high-country-4wd-crew-cab",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "silverado-hd/2500hd-lt-4wd",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "silverado-hd/2500hd-zr2-4wd-duramax",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "silverado-hd/2500hd-high-country-4wd-duramax",
+      "value": 5
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "silverado-hd/2500hd-wt-2wd",
+      "value": "fuel_economy"
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "silverado-hd/2500hd-ltz-4wd-duramax",
+      "value": "fuel_economy"
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "corvette-stingray/1lt-convertible",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "corvette-e-ray/1lz-convertible",
+      "value": 6
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "corvette-z06/1lz-convertible",
+      "value": 6
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "corvette-zr1/1lz-convertible",
+      "value": 6
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "corvette-zr1x/1lz-convertible-awd",
+      "value": 6
+    }
+  ],
+  "fyis": []
+}

@@ -1,0 +1,13 @@
+{
+  "brand_slug": "polestar",
+  "notes": "polestar.com/us consumer site. Session B (2026-05-14): polestar-4 updated to its canonical overview URL — /us/polestar-4/ now 302s to /us/polestar-4-models/polestar-4-coupe/ (same-model canonical change). polestar-3 unchanged (200 OK).",
+  "model_pages": {
+    "polestar-3": "https://www.polestar.com/us/polestar-3/",
+    "polestar-4": "https://www.polestar.com/us/polestar-4-models/polestar-4-coupe/"
+  },
+  "slug_variants": {
+    "polestar-3": ["polestar-3", "polestar3", "polestar_3"],
+    "polestar-4": ["polestar-4", "polestar4", "polestar_4"]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

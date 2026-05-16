@@ -1,0 +1,109 @@
+# Lotus Playwright dump — generated 2026-05-15T05:14:21.118Z
+
+========================================================================
+# MODEL: emira    (source: consumer)
+# URL:   https://www.lotuscars.com/en-US/emira
+# variants: ["emira","emira-v6","emira-turbo","emira-i4"]
+========================================================================
+# finalUrl: https://www.lotuscars.com/en-US/emira
+# Total DOM img/bg entries: 37
+# Network image URLs observed (content-type image/*): 51
+# plausible image candidates (post-filter): 0
+# slug-matching (variant for "emira"): 0
+# host histogram:
+# top URL-path tokens:
+# first 40 plausible candidates:
+
+========================================================================
+# MODEL: eletre    (source: consumer)
+# URL:   https://www.lotuscars.com/en-US/eletre
+# variants: ["eletre","eletre-carbon"]
+========================================================================
+# finalUrl: https://www.lotuscars.com/en-US/eletre
+# Total DOM img/bg entries: 16
+# Network image URLs observed (content-type image/*): 27
+# plausible image candidates (post-filter): 0
+# slug-matching (variant for "eletre"): 0
+# host histogram:
+# top URL-path tokens:
+# first 40 plausible candidates:
+
+========================================================================
+# MODEL: emeya    (source: consumer)
+# URL:   https://www.lotuscars.com/en-US/emeya
+# variants: ["emeya","emeya-r"]
+========================================================================
+# finalUrl: https://www.lotuscars.com/en-US/emeya
+# Total DOM img/bg entries: 23
+# Network image URLs observed (content-type image/*): 34
+# plausible image candidates (post-filter): 0
+# slug-matching (variant for "emeya"): 0
+# host histogram:
+# top URL-path tokens:
+# first 40 plausible candidates:
+
+========================================================================
+# MODEL: emira    (source: press-en)
+# URL:   https://www.lotuscars.com/en/press/galleries/emira
+# variants: ["emira","emira-v6","emira-turbo","emira-i4"]
+========================================================================
+# finalUrl: https://www.lotuscars.com/en/press/galleries/emira
+# Total DOM img/bg entries: 5
+# Network image URLs observed (content-type image/*): 43
+# plausible image candidates (post-filter): 1
+# slug-matching (variant for "emira"): 0
+# host histogram:
+#      1  wlt-p-001.sitecorecontenthub.cloud
+# top URL-path tokens:
+#      1  pca
+#      1  assets
+#      1  transparency
+#      1  pattern
+# first 40 plausible candidates:
+  - https://wlt-p-001.sitecorecontenthub.cloud/pca-assets/transparency-pattern.png
+      alt: ""
+      w=0 h=0 docY=0 visible=true src=network
+
+========================================================================
+# MODEL: eletre    (source: press-en)
+# URL:   https://www.lotuscars.com/en/press/galleries/eletre
+# variants: ["eletre","eletre-carbon"]
+========================================================================
+# finalUrl: https://www.lotuscars.com/en/press/galleries/eletre
+# Total DOM img/bg entries: 5
+# Network image URLs observed (content-type image/*): 43
+# plausible image candidates (post-filter): 1
+# slug-matching (variant for "eletre"): 0
+# host histogram:
+#      1  wlt-p-001.sitecorecontenthub.cloud
+# top URL-path tokens:
+#      1  pca
+#      1  assets
+#      1  transparency
+#      1  pattern
+# first 40 plausible candidates:
+  - https://wlt-p-001.sitecorecontenthub.cloud/pca-assets/transparency-pattern.png
+      alt: ""
+      w=0 h=0 docY=0 visible=true src=network
+
+========================================================================
+# MODEL: emeya    (source: press-en)
+# URL:   https://www.lotuscars.com/en/press/galleries/emeya
+# variants: ["emeya","emeya-r"]
+========================================================================
+# finalUrl: https://www.lotuscars.com/en/press/galleries/emeya
+# Total DOM img/bg entries: 5
+# Network image URLs observed (content-type image/*): 43
+# plausible image candidates (post-filter): 1
+# slug-matching (variant for "emeya"): 0
+# host histogram:
+#      1  wlt-p-001.sitecorecontenthub.cloud
+# top URL-path tokens:
+#      1  pca
+#      1  assets
+#      1  transparency
+#      1  pattern
+# first 40 plausible candidates:
+  - https://wlt-p-001.sitecorecontenthub.cloud/pca-assets/transparency-pattern.png
+      alt: ""
+      w=0 h=0 docY=0 visible=true src=network

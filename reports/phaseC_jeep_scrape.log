@@ -1,0 +1,72 @@
+Reset 220 image entries with needs_scraping:true to their model page URLs.
+Brand: jeep
+Models in JSON: 12
+Models with page URLs: 11
+Playwright fallback: enabled
+
+Scraping 11 model pages…
+
+  fetch https://www.jeep.com/wrangler.html  …  static ok (14 raw candidates)
+  fetch https://www.jeep.com/wrangler/wrangler-4xe.html  …  static ok (14 raw candidates)
+  fetch https://www.jeep.com/twelve4twelve/wrangler-moab-392.html  …  static ok (9 raw candidates)
+  fetch https://www.jeep.com/gladiator.html  …  static ok (19 raw candidates)
+  fetch https://www.jeep.com/grand-cherokee.html  …  static ok (24 raw candidates)
+  fetch https://www.jeep.com/grand-cherokee/3-row-suv.html  …  static ok (14 raw candidates)
+  fetch https://www.jeep.com/2026/grand-cherokee/grand-cherokee-4xe.html  …  static ok (24 raw candidates)
+  fetch https://www.jeep.com/compass.html  …  static ok (44 raw candidates)
+  fetch https://www.jeep.com/cherokee.html  …  static ok (15 raw candidates)
+  fetch https://www.jeep.com/wagoneer/grand-wagoneer.html  …  static ok (20 raw candidates)
+  fetch https://www.jeep.com/recon.html  …  static ok (93 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          jeep
+Pages attempted:                11
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 11
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        50
+  via text/URL pattern match:   50
+  via positional fallback:      0
+Image entries unchanged:        170
+
+Sample rewrites:
+  [9.0] gladiator/sport/side_profile
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/desktop/my26-jeep-convoy-vlp-drop6-reveal-main-hero-desktop-v1.jpg
+  [9.0] gladiator/sport-s/side_profile
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/desktop/my26-jeep-convoy-vlp-drop6-reveal-main-hero-desktop-v1.jpg
+  [9.0] gladiator/willys/side_profile
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/desktop/my26-jeep-convoy-vlp-drop6-reveal-main-hero-desktop-v1.jpg
+  [9.0] gladiator/sahara/side_profile
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/desktop/my26-jeep-convoy-vlp-drop6-reveal-main-hero-desktop-v1.jpg
+  [9.0] gladiator/mojave/side_profile
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/desktop/my26-jeep-convoy-vlp-drop6-reveal-main-hero-desktop-v1.jpg
+  [9.0] gladiator/rubicon/side_profile
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/desktop/my26-jeep-convoy-vlp-drop6-reveal-main-hero-desktop-v1.jpg
+  [9.0] gladiator/mojave-x/side_profile
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/desktop/my26-jeep-convoy-vlp-drop6-reveal-main-hero-desktop-v1.jpg
+  [9.0] gladiator/rubicon-x/side_profile
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/desktop/my26-jeep-convoy-vlp-drop6-reveal-main-hero-desktop-v1.jpg
+  [9.0] grand-cherokee/laredo/front_three_quarter
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/vlp/desktop/my26-jeep-grand-cherokee-overview-hero-main-desktop-v2.jpg
+  [11.0] grand-cherokee/laredo/side_profile
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/vlp/desktop/jeep-85th-anniversary-grand-cherokee-vlp-hero-desktop.jpg
+  [9.0] grand-cherokee/laredo-x/front_three_quarter
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/vlp/desktop/my26-jeep-grand-cherokee-overview-hero-main-desktop-v2.jpg
+  [11.0] grand-cherokee/laredo-x/side_profile
+        → https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/vlp/desktop/jeep-85th-anniversary-grand-cherokee-vlp-hero-desktop.jpg
+
+Models with unresolved angles:
+  wrangler: 24 entries  (e.g. sport/front_three_quarter, sport/rear_three_quarter, sport/side_profile)
+  wrangler-4xe: 20 entries  (e.g. sport-s-4xe/front_three_quarter, sport-s-4xe/rear_three_quarter, sport-s-4xe/side_profile)
+  wrangler-moab-392: 4 entries  (e.g. moab-392/front_three_quarter, moab-392/rear_three_quarter, moab-392/side_profile)
+  gladiator: 24 entries  (e.g. sport/front_three_quarter, sport/rear_three_quarter, sport/interior_dashboard)
+  grand-cherokee: 16 entries  (e.g. laredo/rear_three_quarter, laredo/interior_dashboard, laredo-x/rear_three_quarter)
+  grand-cherokee-l: 32 entries  (e.g. laredo/front_three_quarter, laredo/rear_three_quarter, laredo/side_profile)
+  grand-cherokee-4xe: 12 entries  (e.g. limited-4xe/front_three_quarter, limited-4xe/rear_three_quarter, limited-4xe/side_profile)
+  compass: 10 entries  (e.g. latitude/rear_three_quarter, latitude/interior_dashboard, latitude-altitude/rear_three_quarter)
+  cherokee: 4 entries  (e.g. cherokee/interior_dashboard, laredo/interior_dashboard, limited/interior_dashboard)
+  grand-wagoneer: 12 entries  (e.g. grand-wagoneer/front_three_quarter, grand-wagoneer/rear_three_quarter, grand-wagoneer/side_profile)
+  grand-wagoneer-l: 12 entries  (e.g. grand-wagoneer-l/front_three_quarter, grand-wagoneer-l/rear_three_quarter, grand-wagoneer-l/side_profile)

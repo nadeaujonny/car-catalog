@@ -1,0 +1,97 @@
+# Hyundai sample-image index — generated 2026-05-15T05:11:10.169Z
+# Saved-filename  <-  source-page  <-  origin URL
+
+OK   tucson__vlp-hero.jpg
+     page  = tucson
+     token = vlp-hero
+     url   = https://s7d1.scene7.com/is/image/hyundai/2026-tucson-vlp-hero-1920-2560?wid=2560&qlt=85
+
+OK   elantra__vlp-hero.jpg
+     page  = elantra
+     token = vlp-hero
+     url   = https://s7d1.scene7.com/is/image/hyundai/2026-elantra-vlp-hero-1920-2560?wid=2560&qlt=85
+
+OK   ioniq-5__vlp-hero.jpg
+     page  = ioniq-5
+     token = vlp-hero
+     url   = https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-ev-vlp-hero-1920-2560?wid=2560&qlt=85
+
+OK   santa-fe__vlp-hero.jpg
+     page  = santa-fe
+     token = vlp-hero
+     url   = https://s7d1.scene7.com/is/image/hyundai/2026-santa-fe-vlp-hero-gse-1920-2560?wid=2560&qlt=85
+
+OK   tucson__media-slider-0272a.jpg
+     page  = tucson
+     token = media-slider-0272a
+     url   = https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0272-a-media-slider-vlp:1024-2048x1136?qlt=85
+
+OK   tucson__media-slider-0272b.jpg
+     page  = tucson
+     token = media-slider-0272b
+     url   = https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0272-b-media-slider-vlp:1024-2048x1136?qlt=85
+
+OK   tucson__vlp-0279.jpg
+     page  = tucson
+     token = vlp-0279
+     url   = https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0279-vlp:1024-2048x1136?qlt=85
+
+OK   tucson__vlp-0267-talent-3.jpg
+     page  = tucson
+     token = vlp-0267-talent-3
+     url   = https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0267-talent-3-vlp:1024-2048x1136?qlt=85
+
+OK   tucson__vlp-0274-talent-1.jpg
+     page  = tucson
+     token = vlp-0274-talent-1
+     url   = https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0274-talent-1-vlp:375-1500x800?qlt=85
+
+OK   santa-fe__carousel-0147.jpg
+     page  = santa-fe
+     token = carousel-0147
+     url   = https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-mx5-0147-carousel:1024-2048x1136?qlt=85
+
+OK   santa-fe__media-slider-0151.jpg
+     page  = santa-fe
+     token = media-slider-0151
+     url   = https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-mx5-0151-media-slider:1024-2048x1136?qlt=85
+
+OK   santa-fe__media-slider-0165-lights-on.jpg
+     page  = santa-fe
+     token = media-slider-0165-lights-on
+     url   = https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-mx5-0165-lights-on-media-slider:1024-2048x1136?qlt=85
+
+OK   santa-fe__3rd-rowseating-poster.jpg
+     page  = santa-fe
+     token = 3rd-rowseating-poster
+     url   = https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-HNIF4004000H-vlp-3rd-rowseating-poster-16x9:1024-2048x1136?qlt=85
+
+OK   ioniq-5__media-slider-0925.jpg
+     page  = ioniq-5
+     token = media-slider-0925
+     url   = https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0925-media-slider:1024-2048x1136?qlt=85
+
+OK   ioniq-5__media-slider-0919.jpg
+     page  = ioniq-5
+     token = media-slider-0919
+     url   = https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0919-media-slider:1024-2048x1136?qlt=85
+
+OK   tucson__vertical-tabs-0296.jpg
+     page  = tucson
+     token = vertical-tabs-0296
+     url   = https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0296-no-talent-vertical-tabs:1440-1440x799?qlt=85
+
+OK   tucson__vertical-tabs-0276.jpg
+     page  = tucson
+     token = vertical-tabs-0276
+     url   = https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0276-vertical-tabs:1440-1440x799?qlt=85
+
+OK   ioniq-5__vertical-tabs-0901.jpg
+     page  = ioniq-5
+     token = vertical-tabs-0901
+     url   = https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-0901-vertical-tabs:1440-1440x799?qlt=85
+
+OK   elantra__vert-tabs-0215.jpg
+     page  = elantra
+     token = vert-tabs-0215
+     url   = https://s7d1.scene7.com/is/image/hyundai/2025-elantra-0215-nottalent-vert-tabs-vlp:1440-1440x799?qlt=85

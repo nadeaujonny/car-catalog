@@ -1,0 +1,31 @@
+{
+  "brand": "Aston Martin",
+  "brand_slug": "aston-martin",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 11,
+  "trim_count": 13,
+  "total_images": 52,
+  "needs_scraping": 52,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 0,
+  "fyi_count": 3,
+  "blockers": [],
+  "warnings": [],
+  "fyis": [
+    {
+      "title": "Null msrp_base — ultra-luxury non-disclosure (documented in notes)",
+      "where": "models[1].trims[1] (vantage-s/vantage-s-roadster)"
+    },
+    {
+      "title": "Null msrp_base — ultra-luxury non-disclosure (documented in notes)",
+      "where": "models[4].trims[1] (db12-s/db12-s-volante)"
+    },
+    {
+      "title": "Null msrp_base — ultra-luxury non-disclosure (documented in notes)",
+      "where": "models[5].trims[0] (db12-volante/db12-volante)"
+    }
+  ]
+}

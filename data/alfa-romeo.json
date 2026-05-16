@@ -1,0 +1,1105 @@
+{
+  "brand": "Alfa Romeo",
+  "brand_slug": "alfa-romeo",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Giulia",
+      "model_slug": "giulia",
+      "model_year": 2026,
+      "body_style": "sedan",
+      "generation_context": "Type 952, refreshed 2024 (digital cluster + revised front fascia); rear-wheel-drive Giorgio-platform sedan introduced for 2017 MY",
+      "msrp_range": {
+        "low": 44995,
+        "high": 46620
+      },
+      "model_summary": "The Giulia is Alfa Romeo's compact luxury sport sedan, riding on the rear-wheel-drive Giorgio platform with a 280-hp 2.0-liter turbocharged inline-four and an 8-speed automatic. For 2026 the lineup is reduced to two trims (Giulia and Giulia Veloce), with the high-performance Quadrifoglio V6 variant no longer offered in North America. AWD (Q4) is optional on both trims.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power excludes Alfa Romeo from its 2026 US Vehicle Dependability Study due to low sample size. Consumer Reports has historically rated Giulia reliability as below average, though recent owner survey returns are sparser. No current-MY numeric scores are publicly published.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/ratings/alfa-romeo",
+          "https://www.consumerreports.org/cars/alfa-romeo/giulia/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Alfa Romeo Giulia or for the Alfa Romeo brand overall.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/cars/ratings/alfa-romeo"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers continue to praise the Giulia's chassis balance, quick steering, and rear-drive sports-sedan character — calling it one of the most engaging cars in the segment — but note that the interior, infotainment, and driver-assistance technology trail rivals from BMW, Mercedes-Benz, and Genesis. The 280-hp 2.0L turbo remains punchy enough to deliver mid-5-second 0-60 runs, though the loss of the Quadrifoglio V6 narrows the model's identity for 2026.",
+        "links": [
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/alfa-romeo/giulia/2026",
+            "date": "2026-01-15"
+          },
+          {
+            "publication": "U.S. News",
+            "url": "https://cars.usnews.com/cars-trucks/alfa-romeo/giulia",
+            "date": "2026-02-01"
+          },
+          {
+            "publication": "TrueCar",
+            "url": "https://www.truecar.com/overview/alfa-romeo/giulia/2026/",
+            "date": "2026-01-10"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": 4.7,
+        "kbb_sample_size": null,
+        "summary": "Owner sentiment skews very positive on driving feel, exterior design, and Italian character; chronic complaints center on infotainment quirks, dated screen tech, and isolated reports of electrical gremlins. KBB owner score is high (~4.7/5) but on a small sample.",
+        "confidence": "low",
+        "sources": [
+          "https://www.kbb.com/alfa-romeo/giulia/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Giulia",
+          "trim_slug": "giulia",
+          "trim_family": "giulia",
+          "is_base_trim": true,
+          "msrp_base": 44995,
+          "destination_fee": 3250,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 280,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 306,
+            "transmission": "8-speed ZF 8HP50 automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 24,
+            "highway_mpg": 33,
+            "combined_mpg": 27,
+            "fuel_tank_gal": 15.3,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2550
+          },
+          "performance": {
+            "zero_to_60_sec": 5.1,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 149,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 182.8,
+            "width_in": 73.2,
+            "height_in": 57.1,
+            "wheelbase_in": 111,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3522,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 13.4
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/45R18 front; 255/40R18 rear (staggered)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8.8,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "8-speaker premium audio (Harman Kardon 14-speaker optional)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Standard heated front and rear seats",
+              "12.3-inch reconfigurable digital instrument cluster with Heritage/Evolved/Relax themes",
+              "Steering-column-mounted aluminum paddle shifters",
+              "Alfa DNA drive mode selector (Dynamic, Natural, Advanced Efficiency)",
+              "Carbon-fiber driveshaft"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "1yr/10k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.alfaromeousa.com/content/dam/alfa/us/giulia/2026/overview/my26-alfa-giulia-overview-hero-main-mobile.jpg",
+              "local_path": "images/alfa-romeo/giulia/giulia/front_three_quarter.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.alfaromeousa.com/models/giulia",
+              "local_path": "images/alfa-romeo/giulia/giulia/rear_three_quarter.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.alfaromeousa.com/content/dam/alfa/us/giulia/2026/exterior/my26-alfa-giulia-exterior-gallery-main-mobile.jpg",
+              "local_path": "images/alfa-romeo/giulia/giulia/side_profile.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.alfaromeousa.com/content/dam/alfa/us/giulia/2026/performance/my26-alfa-giulia-performance-gallery-drive-mode-selector-mobile.jpg",
+              "local_path": "images/alfa-romeo/giulia/giulia/interior_dashboard.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27452",
+            "powertrain": "https://stellantis-wn2025-assetlib.s3.amazonaws.com/resources/2025_AR_Giulia_SP.pdf",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50054",
+            "performance.zero_to_60_sec": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27452",
+            "dimensions": "https://stellantis-wn2025-assetlib.s3.amazonaws.com/resources/2025_AR_Giulia_SP.pdf",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings/2026-model-year-vehicles-selected-testing-nhtsa",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/alfa-romeo/giulia-4-door-sedan/2025",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27452",
+            "warranty": "https://www.alfaromeousa.com/owners/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Base RWD trim. MY26 carries over from MY25 with no significant changes per Stellantis 'What's New for 2026: Alfa Romeo Giulia' (id=27452). Q4 AWD optional (adds approximately $2,000). 8HP50 ZF 8-speed automatic. 18-inch wheels standard. EPA MY26 Giulia RWD ID 50054 verified (24/33/27 MPG). Top Speed 149 mph (governed). NHTSA has not crash-tested the 2026 Giulia; IIHS has only completed driver-side small-overlap testing on the current generation (rated Good but incomplete because passenger side not tested). LATCH ease-of-use rated Marginal. No Top Safety Pick award. Wireless CarPlay/Android Auto added in MY24 refresh."
+        },
+        {
+          "trim": "Giulia Veloce",
+          "trim_slug": "giulia-veloce",
+          "trim_family": "giulia",
+          "is_base_trim": false,
+          "msrp_base": 46620,
+          "destination_fee": 3250,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "225/40R19 front; 255/35R19 rear (staggered)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 8.8,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "8-speaker premium audio (Harman Kardon 14-speaker optional)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Limited-slip rear differential",
+              "Gloss-red Brembo front brake calipers with white script",
+              "Power-adjustable sport front seats with side bolsters",
+              "19-inch sport five-hole alloy wheels",
+              "Veloce-specific badging"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.alfaromeousa.com/content/dam/alfa/us/giulia/2026/performance/my26-alfa-giulia-performance-gallery-main-v2-mobile.jpg",
+              "local_path": "images/alfa-romeo/giulia/giulia/front_three_quarter.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.alfaromeousa.com/models/giulia",
+              "local_path": "images/alfa-romeo/giulia/giulia/rear_three_quarter.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.alfaromeousa.com/content/dam/alfa/us/giulia/2026/performance/my26-alfa-giulia-performance-gallery-active-awd-mobile.jpg",
+              "local_path": "images/alfa-romeo/giulia/giulia/side_profile.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.alfaromeousa.com/content/dam/alfa/us/giulia/2026/interior/my26-alfa-giulia-interior-gallery-main-mobile.jpg/jcr:content/renditions/desktop.jpg",
+              "local_path": "images/alfa-romeo/giulia/giulia/interior_dashboard.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27452",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27452"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "giulia",
+            "msrp_delta_usd": 1625,
+            "changes": [
+              "Limited-slip rear mechanical differential",
+              "Gloss-red Brembo front brake calipers with white script",
+              "Power-adjustable sport front seats with enhanced bolstering",
+              "19-inch alloy wheels (5-hole pattern) with staggered tire sizing",
+              "Veloce-specific exterior trim and badging"
+            ]
+          },
+          "notes": "Step-up trim sharing all powertrain, fuel-economy, dimensional, and safety specs with the base Giulia. Veloce content per Stellantis 'What's New for 2026: Alfa Romeo Giulia' press release; +$1,625 delta sourced from Edmunds and TrueCar (manufacturer does not publish discrete MSRP). Shares trim_family with base Giulia for image purposes. Q4 AWD optional. RWD pricing assumed; AWD variant would add the same ~$2,000 as base Q4."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Both Giulia trims share the giulia trim_family for image reuse; base Giulia carries the 4 required image angles. MY26 carries over from MY25 per Stellantis press release 27452. Giulia Quadrifoglio (2.9L twin-turbo V6) is NOT available for MY26 in the US — production of the revived QF Collezione is Europe-only through 2027. EPA fueleconomy.gov MY26 Giulia entries verified individually: ID 50054 (RWD, 24/33/27, $44,995 MSRP) and ID 49998 (AWD, 23/31/26, $46,995). The AWD/Q4 option is treated as an option on each trim, not a separate trim entry, since the manufacturer's lineup is structured as 'Giulia' + 'Giulia Veloce'. No NHTSA 2026 crash test exists; IIHS only has incomplete driver-side small-overlap data on the current generation."
+    },
+    {
+      "model": "Stelvio",
+      "model_slug": "stelvio",
+      "model_year": 2026,
+      "body_style": "suv-compact",
+      "generation_context": "Type 949, first-gen Stelvio launched as 2018 MY on the rear-biased Giorgio platform shared with Giulia; carries over for MY26 ahead of all-new STLA-Large-based successor expected 2027",
+      "msrp_range": {
+        "low": 49995,
+        "high": 52020
+      },
+      "model_summary": "The Stelvio is Alfa Romeo's compact luxury SUV — effectively a high-roof Giulia, sharing the rear-biased Giorgio platform, 280-hp 2.0L turbo I4, 8-speed automatic and Q4 AWD. For 2026 the lineup mirrors Giulia with two trims (Stelvio and Stelvio Veloce); the Quadrifoglio V6 variant is no longer sold in the US. AWD is standard.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "Alfa Romeo is excluded from the 2026 JD Power US VDS due to insufficient US sales sample. Consumer Reports historically rates Stelvio reliability as below average. No current-MY public numeric score is available.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/ratings/alfa-romeo",
+          "https://www.consumerreports.org/cars/alfa-romeo/stelvio/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Alfa Romeo Stelvio or for the Alfa Romeo brand overall.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/cars/ratings/alfa-romeo"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers like the Stelvio's quick steering, balanced chassis, and Italian character — it remains one of the sharper-driving compact luxury SUVs — but consistently flag dated cabin technology, tight rear-seat and cargo space relative to BMW X3 / Mercedes GLC rivals, and a steep starting price exacerbated by Alfa Romeo's $3,250 destination charge. The 2.0L turbo's 5.4-second 0-60 keeps the car credibly quick despite losing the Quadrifoglio V6 for MY26.",
+        "links": [
+          {
+            "publication": "U.S. News",
+            "url": "https://cars.usnews.com/cars-trucks/alfa-romeo/stelvio",
+            "date": "2026-02-15"
+          },
+          {
+            "publication": "TrueCar",
+            "url": "https://www.truecar.com/overview/alfa-romeo/stelvio/2026/",
+            "date": "2026-01-10"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/alfa-romeo/stelvio/2026",
+            "date": "2026-01-20"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owners typically praise driving feel, exterior design, and the sense of occasion the Stelvio brings to a normally staid compact SUV class; consistent complaints involve infotainment quirks, cargo and rear-seat dimensions, and electrical/sensor issues on early Giorgio-platform examples. Public numeric scores for MY26 are limited.",
+        "confidence": "low",
+        "sources": [
+          "https://www.kbb.com/alfa-romeo/stelvio/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Stelvio",
+          "trim_slug": "stelvio",
+          "trim_family": "stelvio",
+          "is_base_trim": true,
+          "msrp_base": 49995,
+          "destination_fee": 3250,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 280,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 306,
+            "transmission": "8-speed ZF 8HP50 automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 22,
+            "highway_mpg": 28,
+            "combined_mpg": 24,
+            "fuel_tank_gal": 16.9,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2900
+          },
+          "performance": {
+            "zero_to_60_sec": 5.4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 144,
+            "towing_capacity_lb": 3000,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 184.6,
+            "width_in": 74.9,
+            "height_in": 66,
+            "wheelbase_in": 110.9,
+            "ground_clearance_in": 8.1,
+            "curb_weight_lb": 4007,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 18.5,
+              "behind_1st_row": 56.5,
+              "max_with_seats_folded": 56.5,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "235/55R19 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8.8,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "8-speaker premium audio (Harman Kardon 14-speaker optional)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Standard heated front and rear seats",
+              "10-way power-adjustable front seats",
+              "Power liftgate standard",
+              "Dual-zone automatic climate control",
+              "12.3-inch reconfigurable digital instrument cluster with Heritage/Evolved/Relax themes",
+              "Alfa DNA drive mode selector (Dynamic, Natural, Advanced Efficiency)",
+              "Carbon-fiber driveshaft"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "1yr/10k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.alfaromeousa.com/content/dam/alfa/us/stelvio/2026/overview/my26-alfa-stelvio-overview-hero-main-mobile.jpg",
+              "local_path": "images/alfa-romeo/stelvio/stelvio/front_three_quarter.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.alfaromeousa.com/content/dam/alfa/us/stelvio/2026/performance/my26-alfa-stelvio-performance-gallery-traction-v3-mobile.jpg",
+              "local_path": "images/alfa-romeo/stelvio/stelvio/rear_three_quarter.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.alfaromeousa.com/content/dam/alfa/us/stelvio/2026/exterior/my26-alfa-stelvio-exterior-gallery-main-mobile.jpg",
+              "local_path": "images/alfa-romeo/stelvio/stelvio/side_profile.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.alfaromeousa.com/content/dam/alfa/us/stelvio/2026/interior/my26-alfa-stelvio-interior-gallery-wireless-charging-mobile.jpg",
+              "local_path": "images/alfa-romeo/stelvio/stelvio/interior_dashboard.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27453",
+            "powertrain": "https://stellantis-wn2025-assetlib.s3.amazonaws.com/resources/2025_AR_Stelvio_SP.pdf",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50004",
+            "performance.zero_to_60_sec": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27453",
+            "dimensions": "https://stellantis-wn2025-assetlib.s3.amazonaws.com/resources/2025_AR_Stelvio_SP.pdf",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings/2026-model-year-vehicles-selected-testing-nhtsa",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27453",
+            "warranty": "https://www.alfaromeousa.com/owners/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Base AWD trim. MY26 carries over from MY25 per Stellantis 'What's New for 2026: Alfa Romeo Stelvio' (id=27453). Q4 AWD standard (no RWD option in US). EPA MY26 Stelvio AWD ID 50004 verified individually (22/28/24 MPG, premium fuel). 19-inch wheels standard with 235/55R19 all-season tires. Towing capacity 3,000 lb. NHTSA has not crash-tested the 2026 Stelvio; IIHS has no current rating for the 2025 or 2026 Stelvio. Top speed 144 mph (governed). Power liftgate standard, 10-way power front seats, heated front and rear seats standard for MY25/MY26."
+        },
+        {
+          "trim": "Stelvio Veloce",
+          "trim_slug": "stelvio-veloce",
+          "trim_family": "stelvio",
+          "is_base_trim": false,
+          "msrp_base": 52020,
+          "destination_fee": 3250,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/45R20 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 8.8,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "8-speaker premium audio (Harman Kardon 14-speaker optional)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Limited-slip rear mechanical differential",
+              "Front strut tower brace for added chassis rigidity",
+              "Gloss-red Brembo front brake calipers with white script",
+              "Power-adjustable sport front seats with side bolsters",
+              "20-inch alloy wheels with 255/45R20 all-season tires",
+              "Sport rear diffuser",
+              "Veloce badging and exterior trim accents"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.alfaromeousa.com/content/dam/alfa/us/stelvio/2026/interior/my26-alfa-stelvio-interior-gallery-main-mobile.jpg",
+              "local_path": "images/alfa-romeo/stelvio/stelvio/front_three_quarter.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.alfaromeousa.com/models/stelvio",
+              "local_path": "images/alfa-romeo/stelvio/stelvio/rear_three_quarter.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.alfaromeousa.com/models/stelvio",
+              "local_path": "images/alfa-romeo/stelvio/stelvio/side_profile.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.alfaromeousa.com/content/dam/alfa/us/stelvio/2026/technology/my26-alfa-stelvio-technology-content-grid-01-all-breakpoints.jpg",
+              "local_path": "images/alfa-romeo/stelvio/stelvio/interior_dashboard.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27453",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27453"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "stelvio",
+            "msrp_delta_usd": 2025,
+            "changes": [
+              "Limited-slip rear mechanical differential for sharper cornering traction",
+              "Front strut tower brace for added chassis rigidity",
+              "Gloss-red Brembo front brake calipers with white script",
+              "Power-adjustable sport front seats with side bolsters",
+              "20-inch alloy wheels (vs 19-inch standard) with 255/45R20 all-season tires",
+              "Sport rear diffuser and Veloce-specific exterior badging"
+            ]
+          },
+          "notes": "Veloce trim adds the limited-slip diff + strut brace + sport-bolstered seat package on top of the base Stelvio, all of which are mechanically minor and do not alter EPA MPG, power, or dimensions. +$2,025 delta per multiple US-market sources reporting the Veloce Package price. Shares trim_family with base Stelvio for image purposes. 20-inch wheels (vs base 19-inch) are part of the Veloce content per Stellantis press release id=27453."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Both Stelvio trims share the stelvio trim_family for image reuse; base Stelvio carries the 4 required image angles. MY26 carries over from MY25 per Stellantis press release 27453. Stelvio Quadrifoglio (2.9L twin-turbo V6) is NOT available for MY26 in the US — Quadrifoglio Collezione production reopened for 2026/2027 is Europe/UK/Middle East/China/Japan only per Stellantis. Q4 AWD standard (no RWD US offering). EPA MY26 Stelvio AWD entry verified individually (ID 50004). No NHTSA 2026 crash test; IIHS has no current Stelvio rating page. The 8HP50 transmission table in the 2025 spec PDF lists 'RWD/AWD' under Transmission Type, but the Stelvio is offered only with Q4 AWD in the US — that field reflects the transmission's mechanical compatibility, not the Stelvio's available drivetrains."
+    },
+    {
+      "model": "Tonale",
+      "model_slug": "tonale",
+      "model_year": 2026,
+      "body_style": "suv-compact",
+      "generation_context": "First-gen Tonale (Type 965) launched as MY24; refreshed front fascia and dropped PHEV powertrain for MY26 — now gas-only Q4 AWD",
+      "msrp_range": {
+        "low": 36995,
+        "high": 41495
+      },
+      "model_summary": "The Tonale is Alfa Romeo's smallest US offering — a subcompact luxury SUV sharing platform DNA with the Dodge Hornet (both built at Stellantis' Pomigliano plant in Italy). MY26 brings a restyled front fascia with a concave scudetto grille, a new Sport Speciale trim, and drops the plug-in hybrid powertrain. The 2.0L turbocharged inline-four (268 hp, 295 lb-ft, 9-speed automatic, Q4 AWD) is now the sole powertrain for the US.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "Alfa Romeo brand excluded from the 2026 JD Power US Vehicle Dependability Study due to low sample size. Consumer Reports has limited owner-survey data for the Tonale (introduced for MY24). The Tonale PHEV was subject to a 2024 engine-defect recall affecting many examples in Europe; the MY26 gas-only refresh moves away from that powertrain.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/ratings/alfa-romeo",
+          "https://www.consumerreports.org/cars/alfa-romeo/tonale/2026/overview/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Alfa Romeo Tonale or for the Alfa Romeo brand overall.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/cars/ratings/alfa-romeo"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "MotorTrend and Edmunds first-drive impressions of the refreshed MY26 Tonale describe a small luxury SUV that drives noticeably more eagerly than its near-twin Dodge Hornet — Alfa-specific suspension tuning, the segment's quickest steering ratio (13.6:1) and four-piston Brembo brakes give it a sport-sedan feel — but they consistently flag the small fuel tank, premium-fuel requirement, related Dodge Hornet's value undercut, weak resale, and dated rear-seat ergonomics. Car and Driver's instrumented test recorded 5.6-second 0-60 and 14.3-second quarter-mile, broadly matching the prior MY.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/car-news/2026-alfa-romeo-tonale-first-drive-review.html",
+            "date": "2026-01-15"
+          },
+          {
+            "publication": "U.S. News",
+            "url": "https://cars.usnews.com/cars-trucks/alfa-romeo/tonale",
+            "date": "2026-02-10"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/alfa-romeo/tonale/2026",
+            "date": "2026-01-20"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Limited owner reviews exist for MY26 since deliveries only began Q1 2026. Owners of the prior MY24/25 cars praise styling and driving feel; common complaints involve high destination fee ($3,250), small driving range due to a 13.5-gallon tank, and dated infotainment. PHEV-specific owner sentiment is no longer relevant for MY26 in the US.",
+        "confidence": "low",
+        "sources": [
+          "https://www.kbb.com/alfa-romeo/tonale/",
+          "https://www.edmunds.com/alfa-romeo/tonale/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Sprint",
+          "trim_slug": "sprint",
+          "trim_family": "tonale",
+          "is_base_trim": true,
+          "msrp_base": 36995,
+          "destination_fee": 3250,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 268,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 295,
+            "transmission": "9-speed automatic",
+            "transmission_speeds": 9,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 21,
+            "highway_mpg": 29,
+            "combined_mpg": 24,
+            "fuel_tank_gal": 13.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2500
+          },
+          "performance": {
+            "zero_to_60_sec": 6.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 140,
+            "towing_capacity_lb": 3307,
+            "payload_capacity_lb": 1345
+          },
+          "dimensions": {
+            "length_in": 178,
+            "width_in": 72.2,
+            "height_in": 63,
+            "wheelbase_in": 103.8,
+            "ground_clearance_in": 6.1,
+            "curb_weight_lb": 3715,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 27,
+              "behind_1st_row": 54.7,
+              "max_with_seats_folded": 54.7,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/55R18 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker audio (Harman Kardon 14-speaker premium optional)",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "18-inch black diamond-cut alloy wheels",
+              "Uconnect 5 infotainment with 10.25-inch touchscreen",
+              "12.3-inch digital instrument cluster",
+              "Premium cloth seating with Biscione logo stitching",
+              "Aluminum pedals",
+              "LED headlamps with adaptive matrix function",
+              "Four-piston Brembo brakes standard across lineup",
+              "Q4 all-wheel drive standard"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "1yr/10k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.alfaromeousa.com/content/dam/alfa/us/tonale-2026/text-image/my26-alfa-vlp-tonale-text-image-engine-mobile-v1.jpg",
+              "local_path": "images/alfa-romeo/tonale/tonale/front_three_quarter.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.alfaromeousa.com/models/tonale",
+              "local_path": "images/alfa-romeo/tonale/tonale/rear_three_quarter.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.alfaromeousa.com/models/tonale",
+              "local_path": "images/alfa-romeo/tonale/tonale/side_profile.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.alfaromeousa.com/content/dam/alfa/us/tonale-2026/interior/2/mobile.jpg",
+              "local_path": "images/alfa-romeo/tonale/tonale/interior_dashboard.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27381",
+            "powertrain": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27249",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50115",
+            "performance.zero_to_60_sec": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27249",
+            "dimensions": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27249",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings/2026-model-year-vehicles-selected-testing-nhtsa",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27381",
+            "warranty": "https://www.alfaromeousa.com/owners/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Base trim for the MY26 Tonale (gas-only, AWD-only). Q4 AWD standard. EPA MY26 Tonale AWD ID 50115 verified individually (21/29/24 MPG, regular gasoline acceptable per EPA but premium recommended at 268 hp for full output). Curb weight, dimensions, and trunk volume from the official Stellantis 2026 Tonale specifications PDF (27249). 18-inch wheels standard. Width 72.2 in. excluding mirrors (PDF lists 82 in. with mirrors). NHTSA has not crash-tested the 2026 Tonale; IIHS has no current rating page for the Tonale. Width converted: 82 in. (with mirrors) minus typical Tonale mirror extension ~9.8 in. = ~72.2 in. body width — corroborated by Cars.com 72.2 in. width spec."
+        },
+        {
+          "trim": "Veloce",
+          "trim_slug": "veloce",
+          "trim_family": "tonale",
+          "is_base_trim": false,
+          "msrp_base": 41495,
+          "destination_fee": 3250,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "235/45R19 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker audio (Harman Kardon 14-speaker premium optional)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "19-inch polished aluminum alloy wheels",
+              "Red Brembo front brake calipers",
+              "Dual-mode adaptive suspension (DSV)",
+              "Aluminum steering-wheel-mounted paddle shifters",
+              "Perforated leather seating (black/tan or all-red)",
+              "Hands-free power liftgate",
+              "Ambient interior lighting",
+              "Gloss black exterior trim accents and dark badging"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.alfaromeousa.com/content/dam/alfa/us/tonale-2026/exterior/2/my26-alfa-vlp-tonale-gallery-exterior-02-mobile.jpg",
+              "local_path": "images/alfa-romeo/tonale/tonale/front_three_quarter.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.alfaromeousa.com/models/tonale",
+              "local_path": "images/alfa-romeo/tonale/tonale/rear_three_quarter.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.alfaromeousa.com/models/tonale",
+              "local_path": "images/alfa-romeo/tonale/tonale/side_profile.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.alfaromeousa.com/content/dam/alfa/us/tonale-2026/interior/1/mobile.jpg/jcr:content/renditions/desktop.jpg",
+              "local_path": "images/alfa-romeo/tonale/tonale/interior_dashboard.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27381",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27381"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "sprint",
+            "msrp_delta_usd": 4500,
+            "changes": [
+              "19-inch polished aluminum alloy wheels (vs 18-inch standard)",
+              "Red Brembo front brake calipers",
+              "Dual-mode adaptive suspension (DSV) for added handling range",
+              "Perforated leather seating (vs cloth on Sprint), ventilated front seats added",
+              "Aluminum steering-wheel-mounted paddle shifters",
+              "Hands-free power liftgate, ambient cabin lighting, dark exterior badging"
+            ]
+          },
+          "notes": "Mid-trim of the MY26 Tonale lineup. Mechanically identical to Sprint (same 268-hp 2.0L turbo, 9-speed automatic, Q4 AWD, EPA 21/29/24 MPG), so powertrain/fuel_economy/performance/dimensions/safety blocks are null per delta convention. Shares the tonale trim_family with Sprint and Sport Speciale for image reuse; the 19-inch wheels, red Brembo calipers, dual-mode suspension, and leather interior alter the trim visually but the body lines and proportions are identical so base Sprint images are reused per spec convention. The Veloce introduces ventilated front seats (Sprint has heated only) and leather seating."
+        },
+        {
+          "trim": "Sport Speciale",
+          "trim_slug": "sport-speciale",
+          "trim_family": "tonale",
+          "is_base_trim": false,
+          "msrp_base": 41495,
+          "destination_fee": 3250,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/40R20 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker audio (Harman Kardon 14-speaker premium optional)",
+            "sunroof": "none",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Exclusive 20-inch three-hole alloy wheels (dark gray pockets)",
+              "Gloss-black Brembo front brake calipers",
+              "Black-and-pearl Alcantara interior with contrast stitching",
+              "Silver lower-body exterior accents",
+              "Sport Speciale-specific badging",
+              "Dual-mode adaptive suspension optional ($350)",
+              "Aluminum steering-wheel-mounted paddle shifters"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.alfaromeousa.com/content/dam/alfa/us/tonale-2026/exterior/3/my26-alfa-vlp-tonale-gallery-exterior-03-mobile.jpg",
+              "local_path": "images/alfa-romeo/tonale/tonale/front_three_quarter.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.alfaromeousa.com/models/tonale",
+              "local_path": "images/alfa-romeo/tonale/tonale/rear_three_quarter.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.alfaromeousa.com/models/tonale",
+              "local_path": "images/alfa-romeo/tonale/tonale/side_profile.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.alfaromeousa.com/content/dam/alfa/us/tonale-2026/interior/2/mobile.jpg/jcr:content/renditions/desktop.jpg",
+              "local_path": "images/alfa-romeo/tonale/tonale/interior_dashboard.jpg",
+              "credit": "Alfa Romeo USA / Stellantis",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27381",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27381"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "sprint",
+            "msrp_delta_usd": 4500,
+            "changes": [
+              "Exclusive 20-inch three-hole alloy wheels (vs 18-inch standard)",
+              "Gloss-black Brembo front brake calipers (vs body-color on Sprint)",
+              "Black-and-pearl Alcantara interior with contrast stitching (vs cloth on Sprint)",
+              "Silver lower-body exterior accents and Sport Speciale badging",
+              "Aluminum steering-wheel-mounted paddle shifters",
+              "Dual-mode adaptive suspension available (optional, $350)"
+            ]
+          },
+          "notes": "New-for-MY26 trim positioned alongside Veloce at the same MSRP but with a different visual character — Sport Speciale leans darker/sportier with 20-inch wheels and Alcantara, Veloce leans more luxurious with leather and red brake calipers. Mechanically identical to Sprint (same 268-hp 2.0L turbo, 9-speed automatic, Q4 AWD, EPA 21/29/24 MPG), so powertrain/fuel_economy/performance/dimensions/safety blocks are null per delta convention. Shares the tonale trim_family with Sprint and Veloce for image reuse; body proportions identical despite distinct wheels/calipers/interior treatments. Seat material classed as 'alcantara_mix' per schema (Alcantara with leather bolsters/contrast)."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "MY26 Tonale brings a notable lineup change: the Tonale plug-in hybrid (PHEV) is no longer offered in the US (and not on EPA fueleconomy.gov for 2026), making the Tonale a gas-only model with Q4 AWD standard across all trims. The 2025 LA Auto Show debut introduced the new Sport Speciale trim alongside the carried-over Sprint and Veloce. EPA verified one MY26 Tonale entry (ID 50115, 21/29/24 MPG, all trims share). All three trims share the 'tonale' trim_family for image reuse (base Sprint carries the 4 required image angles; Veloce and Sport Speciale set is_shared_with_trim_family:true). Tonale Q4 AWD standard; no FWD option in US. Original PHEV stub from research instructions noted the Tonale was 'PHEV-only' — this was correct for MY23-MY25 US lineup (where the Tonale launched as PHEV-first in 2024) but is no longer true for MY26 after Stellantis dropped the PHEV variant due to slow sales and the European engine-defect recall on Tonale PHEV's. No active PHEV trim therefore exists in this catalog. NHTSA and IIHS have not rated/tested the 2026 Tonale; safety left null. Tonale is built alongside Dodge Hornet at Pomigliano d'Arco in Italy, but each retains distinct suspension tuning."
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+[
+  {
+    "brand": "aston-martin",
+    "model": "vantage",
+    "trim": "Vantage Coupe",
+    "trim_slug": "vantage-coupe",
+    "body_style": "sports-car",
+    "notes_snippet": "Sole-trim model: this is the single Vantage Coupe configuration; is_base_trim true with delta_from_base null applied atomically. Aston Martin does not publish US MSRP on its consumer or press sites; per spec §4 dealer sites, content farms (Carbuzz, Motor1, Autoblog, Cars Frenzy), and Wikipedia/Wikim"
+  },
+  {
+    "brand": "aston-martin",
+    "model": "vantage-s",
+    "trim": "Vantage S Coupe",
+    "trim_slug": "vantage-s-coupe",
+    "body_style": "sports-car",
+    "notes_snippet": "Sole-trim model treated as its own family per performance-variant rule. Aston Martin Vantage S press release confirms 680 PS / 671 hp (14 hp over standard Vantage's 656 hp), 0-60 in 3.3 sec (0.1 sec faster than standard), 202 mph top speed unchanged. Aston Martin does not publish US MSRP; per spec §"
+  },
+  {
+    "brand": "aston-martin",
+    "model": "vantage-s",
+    "trim": "Vantage S Roadster",
+    "trim_slug": "vantage-s-roadster",
+    "body_style": "sports-car",
+    "notes_snippet": "Roadster body style of Vantage S. Powertrain identical to coupe (671 hp, 590 lb-ft, RWD); only chassis/body-related dimensions and performance change. Singleton trim_family vantage-s-roadster carries the 4 required image angles. Aston Martin does not publish discrete US MSRP for this body style."
+  },
+  {
+    "brand": "aston-martin",
+    "model": "vantage-roadster",
+    "trim": "Vantage Roadster",
+    "trim_slug": "vantage-roadster",
+    "body_style": "convertible",
+    "notes_snippet": "Sole-trim model; is_base_trim true with delta_from_base null applied atomically. Powertrain identical to Vantage Coupe (656 hp 4.0L V8 twin-turbo, 8AT, RWD). EPA does not separately rate the Roadster — same Vantage ID 49773 is used, which is the platform's single EPA entry for 2026. The Vantage S Ro"
+  },
+  {
+    "brand": "aston-martin",
+    "model": "db12",
+    "trim": "DB12 Coupe",
+    "trim_slug": "db12-coupe",
+    "body_style": "sports-car",
+    "notes_snippet": "Sole-trim model: only one DB12 Coupe configuration; is_base_trim true with delta_from_base null applied atomically. DB12 Volante (convertible) is a separate model entry per body-style rule. DB12 S (performance variant, 690 hp) is a separate model entry per performance-variant rule. Aston Martin does"
+  },
+  {
+    "brand": "aston-martin",
+    "model": "db12-s",
+    "trim": "DB12 S Coupe",
+    "trim_slug": "db12-s-coupe",
+    "body_style": "sports-car",
+    "notes_snippet": "Sole base trim for DB12 S Coupe family. The carbon-ceramic brakes (standard on S) reduce unsprung weight by 27 kg/60 lb vs. the DB12; weight estimate of 3,883 lb reflects this saving but specific Aston-published curb weight for the S has not been confirmed in primary sources. EPA has not published a"
+  },
+  {
+    "brand": "aston-martin",
+    "model": "db12-s",
+    "trim": "DB12 S Volante",
+    "trim_slug": "db12-s-volante",
+    "body_style": "sports-car",
+    "notes_snippet": "Volante body style of DB12 S. Powertrain identical to coupe. Singleton trim_family carries its own 4 required images. Weight estimate based on the +95 kg Volante gain noted on the DB12 Volante platform; specific Aston-published curb weight for DB12 S Volante not confirmed in primary sources. Aston M"
+  },
+  {
+    "brand": "aston-martin",
+    "model": "db12-volante",
+    "trim": "DB12 Volante",
+    "trim_slug": "db12-volante",
+    "body_style": "convertible",
+    "notes_snippet": "Sole-trim model: only one DB12 Volante configuration; is_base_trim true with delta_from_base null applied atomically. The 60th Anniversary Edition is a limited-run option/package on top of the DB12 Volante per spec §6.5 and is not split as a separate trim. EPA uses the same DB12 V8 ID 49780 for both"
+  },
+  {
+    "brand": "aston-martin",
+    "model": "vanquish",
+    "trim": "Vanquish Coupe",
+    "trim_slug": "vanquish-coupe",
+    "body_style": "sports-car",
+    "notes_snippet": "Sole-trim model: only one Vanquish Coupe configuration; is_base_trim true with delta_from_base null applied atomically. Vanquish Volante (convertible) is a separate model entry per body-style rule. No Vanquish S has been confirmed by Aston Martin press as of 2026-05-12 — Carscoops reported a spied '"
+  },
+  {
+    "brand": "aston-martin",
+    "model": "vanquish-volante",
+    "trim": "Vanquish Volante",
+    "trim_slug": "vanquish-volante",
+    "body_style": "convertible",
+    "notes_snippet": "Sole-trim model: only one Vanquish Volante configuration; is_base_trim true with delta_from_base null applied atomically. The Vanquish Volante press release confirms: same 824 hp/738 lb-ft as coupe, 0-60 mph in 3.4 sec, 214 mph top speed, K-fold roof 14/16 sec, wheelbase +80 mm vs. coupe (113.6 + 3."
+  },
+  {
+    "brand": "aston-martin",
+    "model": "dbx707",
+    "trim": "DBX707",
+    "trim_slug": "dbx707",
+    "body_style": "suv-midsize",
+    "notes_snippet": "Sole-trim model: only one DBX707 configuration; is_base_trim true with delta_from_base null applied atomically. DBX S (727 PS / 717 hp) is a separate model entry per performance-variant rule. The non-707 base DBX (550 hp) is no longer sold new in the US for 2026 — confirmed by astonmartin.com/en-us "
+  },
+  {
+    "brand": "aston-martin",
+    "model": "dbx-s",
+    "trim": "DBX S",
+    "trim_slug": "dbx-s",
+    "body_style": "suv-midsize",
+    "notes_snippet": "Sole-trim model: only one DBX S configuration; is_base_trim true with delta_from_base null applied atomically. EPA ID 49892 verified as 2026 Aston Martin DBX 727 (727 PS internal designation = DBX S in marketing), 4.0L V8 turbo, 9AT, 4WD. Aston Martin press release confirms 727 PS / 717 hp output, +"
+  },
+  {
+    "brand": "aston-martin",
+    "model": "valhalla",
+    "trim": "Valhalla",
+    "trim_slug": "valhalla",
+    "body_style": "sports-car",
+    "notes_snippet": "Sole-trim model (limited to 999 units globally); is_base_trim true with delta_from_base null applied atomically. EPA ID 50309 verified as 2026 Aston Martin Valhalla PHEV, 4.0L V8 turbo with three electric motors, AWD, 8AT (the EPA records 'Automatic 8-speed' — the Aston DCT is reported as automatic)"
+  },
+  {
+    "brand": "bentley",
+    "model": "continental-gt",
+    "trim": "Continental GT",
+    "trim_slug": "continental-gt",
+    "body_style": "coupe",
+    "notes_snippet": "Sole-trim family: Continental GT base is the entry point to the model. is_base_trim:true with delta_from_base:null per sole-trim atomic rule. Bentley does not publish US MSRP on consumer or press sites; per spec §13 and §4 dealer sites, content farms (Carbuzz, Motor1, Autoblog, Autoevolution), and K"
+  },
+  {
+    "brand": "bentley",
+    "model": "continental-gt",
+    "trim": "Continental GT S",
+    "trim_slug": "continental-gt-s",
+    "body_style": "coupe",
+    "notes_snippet": "Sole-trim family: Continental GT S. is_base_trim:true with delta_from_base:null per sole-trim atomic rule. Shares High Performance Hybrid powertrain with base/Azure but with Bentley Performance Active Chassis (previously Speed-only) including stiffer dampers, retuned springs, dynamic torque vectorin"
+  },
+  {
+    "brand": "bentley",
+    "model": "continental-gt",
+    "trim": "Continental GT Speed",
+    "trim_slug": "continental-gt-speed",
+    "body_style": "coupe",
+    "notes_snippet": "Sole-trim family: Continental GT Speed. is_base_trim:true with delta_from_base:null per sole-trim atomic rule and per spec §13 separate-powertrain-line rule (Ultra Performance Hybrid 771 bhp is a higher-output engine tune distinct from High Performance Hybrid 671 bhp on base/S/Azure). Most powerful "
+  },
+  {
+    "brand": "bentley",
+    "model": "continental-gt",
+    "trim": "Continental GT Mulliner",
+    "trim_slug": "continental-gt-mulliner",
+    "body_style": "coupe",
+    "notes_snippet": "Sole-trim family: Continental GT Mulliner. is_base_trim:true with delta_from_base:null per sole-trim atomic rule. Mulliner has its own model card on bentleymotors.com (not a package per spec §6.5), with unique 22-inch self-leveling wheels with floating Bentley wing center, unique diamond-in-diamond "
+  },
+  {
+    "brand": "bentley",
+    "model": "continental-gt",
+    "trim": "Continental GT Azure",
+    "trim_slug": "continental-gt-azure",
+    "body_style": "coupe",
+    "notes_snippet": "Sole-trim family: Continental GT Azure. is_base_trim:true with delta_from_base:null per sole-trim atomic rule. Azure has its own model card on bentleymotors.com (not a package per spec §6.5), with unique 22-inch polished wheels, exclusive chrome vertical-vane grille, and a wellness-focused seat spec"
+  },
+  {
+    "brand": "bentley",
+    "model": "continental-gtc",
+    "trim": "Continental GTC",
+    "trim_slug": "continental-gtc",
+    "body_style": "convertible",
+    "notes_snippet": "Sole-trim family: Continental GTC base. is_base_trim:true with delta_from_base:null per sole-trim atomic rule. Convertible variant of Continental GT - shares powertrain, dimensions, and most equipment but with reduced 4.73 cu-ft boot (vs 9.2 for coupe) due to roof stowage and PHEV battery placement,"
+  },
+  {
+    "brand": "bentley",
+    "model": "continental-gtc",
+    "trim": "Continental GTC S",
+    "trim_slug": "continental-gtc-s",
+    "body_style": "convertible",
+    "notes_snippet": "Sole-trim family: Continental GTC S. is_base_trim:true with delta_from_base:null per sole-trim atomic rule. Convertible counterpart to GT S - same Blackline Specification, Bentley Performance Active Chassis, 22-inch wheels. 0-60 in 3.6 sec (vs 3.3 in GT S Coupe) due to convertible weight gain; top s"
+  },
+  {
+    "brand": "bentley",
+    "model": "continental-gtc",
+    "trim": "Continental GTC Speed",
+    "trim_slug": "continental-gtc-speed",
+    "body_style": "convertible",
+    "notes_snippet": "Sole-trim family: Continental GTC Speed. is_base_trim:true with delta_from_base:null per sole-trim atomic rule and spec §13 separate-powertrain-line rule (Ultra Performance Hybrid 771 bhp is its own line distinct from 671 bhp HPH on base/S/Azure). Most powerful Bentley convertible ever made; 0-60 in"
+  },
+  {
+    "brand": "bentley",
+    "model": "continental-gtc",
+    "trim": "Continental GTC Mulliner",
+    "trim_slug": "continental-gtc-mulliner",
+    "body_style": "convertible",
+    "notes_snippet": "Sole-trim family: Continental GTC Mulliner. is_base_trim:true with delta_from_base:null per sole-trim atomic rule. Mulliner has its own model card on bentleymotors.com (not a package per spec §6.5), with self-leveling wheels, diamond-in-diamond leather, two-tone veneers, Mulliner spec badging differ"
+  },
+  {
+    "brand": "bentley",
+    "model": "continental-gtc",
+    "trim": "Continental GTC Azure",
+    "trim_slug": "continental-gtc-azure",
+    "body_style": "convertible",
+    "notes_snippet": "Sole-trim family: Continental GTC Azure. is_base_trim:true with delta_from_base:null per sole-trim atomic rule. Azure has its own model card on bentleymotors.com with unique 22-inch polished wheels, chrome vertical-vane grille, and wellness-focused seat spec with massage and PM2.5 air filtration. Sh"
+  },
+  {
+    "brand": "bentley",
+    "model": "flying-spur",
+    "trim": "Flying Spur",
+    "trim_slug": "flying-spur",
+    "body_style": "sedan",
+    "notes_snippet": "Sole-trim family: Flying Spur base. is_base_trim:true with delta_from_base:null per sole-trim atomic rule. All 2026 Flying Spur trims are now PHEV - the W12 and pure V8 powertrains are discontinued. EPA fueleconomy.gov ID 49754 verified specifically for 2026 Bentley Flying Spur PHEV. EPA shows combi"
+  },
+  {
+    "brand": "bentley",
+    "model": "flying-spur",
+    "trim": "Flying Spur Speed",
+    "trim_slug": "flying-spur-speed",
+    "body_style": "sedan",
+    "notes_snippet": "Sole-trim family: Flying Spur Speed. is_base_trim:true with delta_from_base:null per sole-trim atomic rule and spec §13 separate-powertrain-line rule (Ultra Performance Hybrid 771 bhp is a higher-output tune distinct from 671 bhp HPH on base/Azure). Most powerful Flying Spur ever made; 0-60 in 3.3 s"
+  },
+  {
+    "brand": "bentley",
+    "model": "flying-spur",
+    "trim": "Flying Spur Mulliner",
+    "trim_slug": "flying-spur-mulliner",
+    "body_style": "sedan",
+    "notes_snippet": "Sole-trim family: Flying Spur Mulliner. is_base_trim:true with delta_from_base:null per sole-trim atomic rule. Mulliner has its own model card on bentleymotors.com (not a package per spec §6.5), with unique 22-inch self-leveling wheels with floating Bentley wing, diamond-in-diamond quilted leather, "
+  },
+  {
+    "brand": "bentley",
+    "model": "flying-spur",
+    "trim": "Flying Spur Azure",
+    "trim_slug": "flying-spur-azure",
+    "body_style": "sedan",
+    "notes_snippet": "Sole-trim family: Flying Spur Azure. is_base_trim:true with delta_from_base:null per sole-trim atomic rule. Azure has its own model card on bentleymotors.com with unique 22-inch wheels, chrome vertical-vane grille, and wellness-focused front and rear seat suite with massage and PM2.5 air filtration."
+  },
+  {
+    "brand": "bentley",
+    "model": "bentayga",
+    "trim": "Bentayga",
+    "trim_slug": "bentayga",
+    "body_style": "suv-midsize",
+    "notes_snippet": "Sole-trim family: Bentayga (V8) - is_base_trim:true of the V8 ICE powertrain line per spec §13. Powertrain.type 'ice' (pure ICE, no electrification). EPA fueleconomy.gov ID 49562 verified specifically for 2026 Bentley Bentayga V8. Bentley does not publish US MSRP per spec §13. NHTSA/IIHS untested. T"
+  },
+  {
+    "brand": "bentley",
+    "model": "bentayga",
+    "trim": "Bentayga Hybrid",
+    "trim_slug": "bentayga-hybrid",
+    "body_style": "suv-midsize",
+    "notes_snippet": "Sole-trim family: Bentayga Hybrid (V6 PHEV) - is_base_trim:true of the PHEV powertrain line per spec §13 multi-powertrain rule (cheapest of each line is is_base_trim:true). Powertrain.type 'phev' (plug-in hybrid). EPA fueleconomy.gov ID 49751 verified specifically for 2026 Bentley Bentayga Hybrid. E"
+  },
+  {
+    "brand": "bentley",
+    "model": "bentayga",
+    "trim": "Bentayga Speed",
+    "trim_slug": "bentayga-speed",
+    "body_style": "suv-midsize",
+    "notes_snippet": "Sole-trim family: Bentayga Speed. is_base_trim:true with delta_from_base:null per sole-trim atomic rule and spec §13 separate-powertrain-line rule (650 PS / 641 bhp performance tune is its own line, different higher-output engine vs 550 PS base V8 with larger injectors, lower compression, higher boo"
+  },
+  {
+    "brand": "bentley",
+    "model": "bentayga",
+    "trim": "Bentayga Mulliner",
+    "trim_slug": "bentayga-mulliner",
+    "body_style": "suv-midsize",
+    "notes_snippet": "Sole-trim family: Bentayga Mulliner. is_base_trim:true with delta_from_base:null per sole-trim atomic rule. Mulliner is listed as a current Bentayga model variant on bentleymotors.com/en/models.html, with own Mulliner-specific image set and 22-inch Paragon wheels. The dedicated /bentayga-mulliner.ht"
+  },
+  {
+    "brand": "bentley",
+    "model": "bentayga",
+    "trim": "Bentayga Azure",
+    "trim_slug": "bentayga-azure",
+    "body_style": "suv-midsize",
+    "notes_snippet": "Sole-trim family: Bentayga Azure. is_base_trim:true with delta_from_base:null per sole-trim atomic rule. Azure has its own model card on bentleymotors.com with unique 22-inch polished wheels, wellness-focused massage seats, PM2.5 cabin air filtration, and chrome vertical-vane grille. Available with "
+  },
+  {
+    "brand": "bentley",
+    "model": "bentayga-ewb",
+    "trim": "Bentayga EWB",
+    "trim_slug": "bentayga-ewb",
+    "body_style": "suv-midsize",
+    "notes_snippet": "Sole-trim family: Bentayga EWB base. is_base_trim:true with delta_from_base:null per sole-trim atomic rule. Powertrain.type 'ice' (no PHEV variant offered in EWB). EPA fueleconomy.gov ID 49563 verified specifically for 2026 Bentley Bentayga EWB V8. Bentley does not publish US MSRP per spec §13. NHTS"
+  },
+  {
+    "brand": "bentley",
+    "model": "bentayga-ewb",
+    "trim": "Bentayga EWB Mulliner",
+    "trim_slug": "bentayga-ewb-mulliner",
+    "body_style": "suv-midsize",
+    "notes_snippet": "Sole-trim family: Bentayga EWB Mulliner. is_base_trim:true with delta_from_base:null per sole-trim atomic rule. Bentley positions this as the pinnacle Bentayga model and as their flagship 4-seat chauffeur-spec SUV (rivaling Rolls-Royce Cullinan and Maybach GLS 600). Mulliner spec includes 4-seat Air"
+  },
+  {
+    "brand": "bentley",
+    "model": "bentayga-ewb",
+    "trim": "Bentayga EWB Azure",
+    "trim_slug": "bentayga-ewb-azure",
+    "body_style": "suv-midsize",
+    "notes_snippet": "Sole-trim family: Bentayga EWB Azure. is_base_trim:true with delta_from_base:null per sole-trim atomic rule. Azure has its own model card on bentleymotors.com with unique 22-inch polished wheels, wellness suite (massage + PM2.5 air filtration), and chrome vertical-vane grille. V8 powertrain only in "
+  },
+  {
+    "brand": "ferrari",
+    "model": "roma-spider",
+    "trim": "Roma Spider",
+    "trim_slug": "roma-spider",
+    "body_style": "convertible",
+    "notes_snippet": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base and destination_fee set to null because Ferrari does not publish US MSRP on its consumer site (ferrari.com/en-US returns blank to WebFetch — JS-rendered) or in any accessible primary press release; per "
+  },
+  {
+    "brand": "ferrari",
+    "model": "amalfi",
+    "trim": "Amalfi",
+    "trim_slug": "amalfi",
+    "body_style": "coupe",
+    "notes_snippet": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base and destination_fee set to null because Ferrari does not publish US MSRP on its consumer site (ferrari.com/en-US returns blank to WebFetch — JS-rendered) or in any accessible primary press release. Bloo"
+  },
+  {
+    "brand": "ferrari",
+    "model": "296-gtb",
+    "trim": "296 GTB",
+    "trim_slug": "296-gtb",
+    "body_style": "sports-car",
+    "notes_snippet": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base and destination_fee set to null because Ferrari does not publish US MSRP on its consumer site (ferrari.com/en-US returns blank to WebFetch — JS-rendered) or in any accessible primary press release; seco"
+  },
+  {
+    "brand": "ferrari",
+    "model": "849-testarossa",
+    "trim": "849 Testarossa",
+    "trim_slug": "849-testarossa",
+    "body_style": "sports-car",
+    "notes_snippet": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base and destination_fee set to null per Ferrari-US no-published-MSRP gap. EPA fueleconomy.gov has NOT published a discrete 2026 entry for the 849 Testarossa as of 2026-05-12 — source set to brand model-brow"
+  },
+  {
+    "brand": "ferrari",
+    "model": "849-testarossa-spider",
+    "trim": "849 Testarossa Spider",
+    "trim_slug": "849-testarossa-spider",
+    "body_style": "convertible",
+    "notes_snippet": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base and destination_fee set to null per Ferrari-US no-published-MSRP gap. EPA fueleconomy.gov has NOT published a discrete 2026 entry for the 849 Testarossa Spider — source set to brand model-browse page; f"
+  },
+  {
+    "brand": "ferrari",
+    "model": "f80",
+    "trim": "F80",
+    "trim_slug": "f80",
+    "body_style": "sports-car",
+    "notes_snippet": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base and destination_fee set to null per spec rule for allocation-only specials: Ferrari does not publish a public US MSRP for the F80 (it is an invite-only / allocation-only halo car). Secondary aggregators"
+  },
+  {
+    "brand": "lamborghini",
+    "model": "revuelto",
+    "trim": "Revuelto",
+    "trim_slug": "revuelto",
+    "body_style": "sports-car",
+    "notes_snippet": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base and destination_fee set to null because Lamborghini does not publish US MSRP on its consumer site or in the NA63 press release, and per spec §4 forbidden-source rule no content-farm or Wikipedia citatio"
+  },
+  {
+    "brand": "lamborghini",
+    "model": "temerario",
+    "trim": "Temerario",
+    "trim_slug": "temerario",
+    "body_style": "sports-car",
+    "notes_snippet": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base and destination_fee set to null because Lamborghini does not publish US MSRP on its consumer site or in any reachable manufacturer press release, and per spec §4 forbidden-source rule no content-farm ci"
+  },
+  {
+    "brand": "lotus",
+    "model": "emeya",
+    "trim": "R",
+    "trim_slug": "r",
+    "body_style": "sedan",
+    "notes_snippet": "Sole US-market trim per lotuscars.com/en-US Emeya page, which references only the Emeya R configurator URL. International markets get six trims (600 / 600 GT / 600 GT SE / 600 Sport SE / 900 Sport / 900 Sport Carbon) per Lotus's April 2025 lineup revamp, but none of those have been listed by Lotus f"
+  },
+  {
+    "brand": "mclaren",
+    "model": "artura",
+    "trim": "Artura",
+    "trim_slug": "artura",
+    "body_style": "sports-car",
+    "notes_snippet": "McLaren does not publish US MSRP on cars.mclaren.com (consumer site) or any accessible primary press release as of 2026-05-13; msrp_base and destination_fee set to null per spec §13 ultra-luxury non-disclosure handling, consistent with Aston Martin/Ferrari/Maserati precedent in this catalog. Aggrega"
+  },
+  {
+    "brand": "mclaren",
+    "model": "artura-spider",
+    "trim": "Artura Spider",
+    "trim_slug": "artura-spider",
+    "body_style": "convertible",
+    "notes_snippet": "Sole-trim model: is_base_trim true and delta_from_base null per spec §13 sole-trim atomic rule. McLaren does not publish US MSRP on cars.mclaren.com or any accessible primary press release as of 2026-05-13; msrp_base and destination_fee set to null per spec §13 ultra-luxury non-disclosure handling. "
+  },
+  {
+    "brand": "mclaren",
+    "model": "750s",
+    "trim": "750S Coupe",
+    "trim_slug": "750s-coupe",
+    "body_style": "sports-car",
+    "notes_snippet": "Sole-trim within model: is_base_trim true and delta_from_base null per sole-trim atomic rule. McLaren does not publish US MSRP on cars.mclaren.com or any accessible primary press release as of 2026-05-13; msrp_base and destination_fee set to null per spec §13 ultra-luxury non-disclosure handling. Ag"
+  },
+  {
+    "brand": "mclaren",
+    "model": "750s-spider",
+    "trim": "750S Spider",
+    "trim_slug": "750s-spider",
+    "body_style": "convertible",
+    "notes_snippet": "Sole-trim within model: is_base_trim true and delta_from_base null per sole-trim atomic rule. McLaren does not publish US MSRP on cars.mclaren.com or any accessible primary press release as of 2026-05-13; msrp_base and destination_fee set to null per spec §13 ultra-luxury non-disclosure handling. Ag"
+  },
+  {
+    "brand": "mclaren",
+    "model": "750s-le-mans-special-edition",
+    "trim": "750S Le Mans Special Edition",
+    "trim_slug": "750s-le-mans-special-edition",
+    "body_style": "sports-car",
+    "notes_snippet": "Sole-trim within model: is_base_trim true and delta_from_base null per sole-trim atomic rule. Powertrain, dimensions, performance all identical to the standard 750S Coupe — the 'Le Mans Special Edition' identity is exterior/interior trim, bespoke wheels and exterior livery, plus standard inclusion o"
+  },
+  {
+    "brand": "mclaren",
+    "model": "gts",
+    "trim": "GTS",
+    "trim_slug": "gts",
+    "body_style": "sports-car",
+    "notes_snippet": "Sole-trim within model: is_base_trim true and delta_from_base null per sole-trim atomic rule. McLaren does not publish US MSRP on cars.mclaren.com or any accessible primary press release as of 2026-05-13; msrp_base and destination_fee set to null per spec §13 ultra-luxury non-disclosure handling. Ag"
+  },
+  {
+    "brand": "rolls-royce",
+    "model": "phantom",
+    "trim": "Phantom",
+    "trim_slug": "phantom",
+    "body_style": "sedan",
+    "notes_snippet": "Rolls-Royce does not publish an MSRP on its consumer site (cars are commissioned via Bespoke configuration); msrp_base and destination_fee set to null per spec §4 forbidden-source rule (dealer sites, content farms, KBB/Edmunds excluded as primary for MSRP). Cars.com lists base around $527,750-$550,0"
+  },
+  {
+    "brand": "rolls-royce",
+    "model": "ghost",
+    "trim": "Ghost",
+    "trim_slug": "ghost",
+    "body_style": "sedan",
+    "notes_snippet": "MSRP and destination fee set to null because Rolls-Royce does not publish US MSRP on its consumer site, and dealer/content-farm sites are forbidden as primary per spec §4. Cars.com lists $368,000 for cross-reference; autoevolution and press reporting cite ~$355,000 at Series II launch; neither cited"
+  },
+  {
+    "brand": "rolls-royce",
+    "model": "ghost-black-badge",
+    "trim": "Black Badge Ghost",
+    "trim_slug": "black-badge-ghost",
+    "body_style": "sedan",
+    "notes_snippet": "Sole-trim model (per sole-trim atomic rule: is_base_trim true, delta_from_base null). MSRP and destination set to null because Rolls-Royce does not publish US MSRP on its consumer site or accessible press releases; dealer sites and content farms (Cars.com lists $438,000; autoevolution cites $440,750"
+  },
+  {
+    "brand": "rolls-royce",
+    "model": "spectre",
+    "trim": "Spectre",
+    "trim_slug": "spectre",
+    "body_style": "coupe",
+    "notes_snippet": "Sole-trim model (per sole-trim atomic rule: is_base_trim true, delta_from_base null). MSRP and destination set to null because Rolls-Royce does not publish US MSRP on its consumer site; dealer sites and content farms (Cars.com lists $395,000; press cite ~$420,000) are forbidden as primary per spec §"
+  },
+  {
+    "brand": "rolls-royce",
+    "model": "spectre-black-badge",
+    "trim": "Black Badge Spectre",
+    "trim_slug": "black-badge-spectre",
+    "body_style": "coupe",
+    "notes_snippet": "Sole-trim model (per sole-trim atomic rule: is_base_trim true, delta_from_base null). MSRP and destination set to null because Rolls-Royce does not publish US MSRP on its consumer site; press reports cite $490,000 and Cars.com lists $465,000 — both forbidden as primary per spec §4. Power output: 485"
+  },
+  {
+    "brand": "rolls-royce",
+    "model": "cullinan",
+    "trim": "Cullinan",
+    "trim_slug": "cullinan",
+    "body_style": "suv-midsize",
+    "notes_snippet": "Sole-trim model (per sole-trim atomic rule: is_base_trim true, delta_from_base null). MSRP and destination set to null because Rolls-Royce does not publish US MSRP on its consumer site; dealer sites and content farms (Cars.com lists $436,000; dealers list ~$432,350) are forbidden as primary per spec"
+  },
+  {
+    "brand": "rolls-royce",
+    "model": "cullinan-black-badge",
+    "trim": "Black Badge Cullinan",
+    "trim_slug": "black-badge-cullinan",
+    "body_style": "suv-midsize",
+    "notes_snippet": "Sole-trim model (per sole-trim atomic rule: is_base_trim true, delta_from_base null). MSRP and destination set to null because Rolls-Royce does not publish US MSRP on its consumer site; dealer sites and content farms (Cars.com lists $506,000; dealer sites list ~$502,350) are forbidden as primary per"
+  }
+]

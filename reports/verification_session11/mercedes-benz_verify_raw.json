@@ -1,0 +1,23 @@
+{
+  "brand": "Mercedes-Benz",
+  "brand_slug": "mercedes-benz",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 25,
+  "trim_count": 78,
+  "total_images": 317,
+  "needs_scraping": 317,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 1,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "PHEV base trim has null fuel_economy.combined_mpg (charge-sustaining MPG missing)",
+      "where": "e-class-wagon/amg-e-53-hybrid-4matic-plus-wagon"
+    }
+  ],
+  "fyis": []
+}

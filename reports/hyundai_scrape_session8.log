@@ -1,0 +1,82 @@
+Reset 152 image entries with needs_scraping:true to their model page URLs.
+Brand: hyundai
+Models in JSON: 14
+Models with page URLs: 14
+Playwright fallback: enabled
+Brand-specific angle patterns: 2 regex(es) across 2 angle(s) — front_three_quarter, side_profile
+
+Scraping 14 model pages…
+
+  fetch https://www.hyundaiusa.com/us/en/vehicles/venue  …  static ok (269 raw, 70 slug-matching)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/elantra  …  static ok (317 raw, 95 slug-matching)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/elantra-n  …  static ok (297 raw, 86 slug-matching)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/sonata  …  static ok (703 raw, 306 slug-matching)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/kona  …  static ok (282 raw, 74 slug-matching)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/tucson  …  static ok (431 raw, 155 slug-matching)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/santa-cruz  …  static ok (373 raw, 127 slug-matching)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/santa-fe  …  static ok (418 raw, 153 slug-matching)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/palisade  …  static ok (256 raw, 49 slug-matching)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/ioniq-5  …  static ok (381 raw, 121 slug-matching)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/ioniq-5-n  …  static ok (338 raw, 86 slug-matching)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/ioniq-6-n  …  static ok (202 raw, 34 slug-matching)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/ioniq-9  …  static ok (483 raw, 177 slug-matching)
+  fetch https://www.hyundainews.com/models/hyundai-nexo-2026-nexo/overview  …  static ok (0 raw, 0 slug-matching)
+    playwright https://www.hyundainews.com/models/hyundai-nexo-2026-nexo/overview  …  ok but 0 candidates
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          hyundai
+Pages attempted:                14
+Pages failed:                   1
+  - https://www.hyundainews.com/models/hyundai-nexo-2026-nexo/overview  (no candidates after static + playwright)
+Pages escalated to Playwright:  1 of 14
+  Playwright successes:         0
+  Playwright failures:          1
+Image entries rewritten:        120
+  via text/URL pattern match:   108
+  via brand-specific angle:     12
+  via positional fallback:      0
+Brand-specific angle matches:   12
+Resolution upgrades:            58 URLs preferred larger variants
+Extension-less URLs accepted:   2503 candidate(s) (would have been rejected by old IMG_EXT_RE filter)
+Image entries via ext-less URL: 120
+Image entries unchanged:        32
+
+Sample rewrites:
+  [7.5] venue/se/front_three_quarter
+        → https://s7d1.scene7.com/is/image/hyundai/2026-venue-0110-vlp:4-3?wid=800&hei=600&qlt=85,0&fmt=webp
+  [7.0] venue/se/rear_three_quarter
+        → https://s7d1.scene7.com/is/image/hyundai/2026-venue-0104-v8-vlp:2-1?qlt=85,0&fmt=webp
+  [30.5] venue/se/side_profile
+        → https://s7d1.scene7.com/is/image/hyundai/2022-venue-0001-vlp-grid:4-3?wid=800&hei=600&qlt=85,0&fmt=webp
+  [11.5] venue/se/interior_dashboard
+        → https://s7d1.scene7.com/is/image/hyundai/2026-venue-0105-vlp:7-5?wid=700&hei=500&qlt=85,0&fmt=webp
+  [6.5] venue/sel/front_three_quarter
+        → https://s7d1.scene7.com/is/image/hyundai/2026-venue-0107-v2-vlp:7-5?wid=700&hei=500&qlt=85,0&fmt=webp
+  [7.5] elantra/se/front_three_quarter
+        → https://s7d1.scene7.com/is/image/hyundai/2025-elantra-0216-vlp:4-3?wid=800&hei=600&qlt=85,0&fmt=webp
+  [7.5] elantra/se/rear_three_quarter
+        → https://s7d1.scene7.com/is/image/hyundai/2025-elantra-0229-vlp:4-3?wid=800&hei=600&qlt=85,0&fmt=webp
+  [9.5] elantra/se/side_profile
+        → https://s7d1.scene7.com/is/image/hyundai/2024-elantra-n-line-fwd-ecotronic-gray-pearl-profile:16-9?wid=1024&hei=576&fmt=webp
+  [7.5] elantra/se/interior_dashboard
+        → https://s7d1.scene7.com/is/image/hyundai/2024-elantra-0009-clock-map-gallery-02:4-3?wid=800&hei=600&qlt=85,0&fmt=webp
+  [7.5] elantra/sel-sport/front_three_quarter
+        → https://s7d1.scene7.com/is/image/hyundai/2024-elantra-0011-vlp:4-3?wid=800&hei=600&qlt=85,0&fmt=webp
+  [7.5] elantra/sel-sport-premium/front_three_quarter
+        → https://s7d1.scene7.com/is/image/hyundai/2025-elantra-n-line-0243-vlp:4-3?wid=800&hei=600&qlt=85,0&fmt=webp
+  [B10.0] elantra/limited/front_three_quarter
+        → https://s7d1.scene7.com/is/image/hyundai/2026-elantra-vlp-hero-1920-2560?wid=2560&qlt=85,0&fmt=webp
+
+Models with unresolved angles:
+  elantra-n: 1 entries  (e.g. elantra-n/interior_dashboard)
+  kona: 1 entries  (e.g. limited/front_three_quarter)
+  tucson: 4 entries  (e.g. se/interior_dashboard, xrt/interior_dashboard, hybrid-blue-se/interior_dashboard)
+  santa-cruz: 2 entries  (e.g. sel-activity/front_three_quarter, limited/front_three_quarter)
+  santa-fe: 3 entries  (e.g. se/side_profile, xrt/side_profile, hybrid-se/side_profile)
+  palisade: 5 entries  (e.g. sel-convenience/front_three_quarter, sel-premium/front_three_quarter, limited/front_three_quarter)
+  ioniq-5: 5 entries  (e.g. se-standard-range/front_three_quarter, se/front_three_quarter, sel/front_three_quarter)
+  ioniq-5-n: 2 entries  (e.g. ioniq-5-n/front_three_quarter, ioniq-5-n/interior_dashboard)
+  ioniq-9: 4 entries  (e.g. sel/front_three_quarter, performance-limited/front_three_quarter, performance-calligraphy/front_three_quarter)
+  nexo: 5 entries  (e.g. blue/front_three_quarter, blue/rear_three_quarter, blue/side_profile)

@@ -1,0 +1,57 @@
+=== PER-BRAND IMAGE FILE SIZE SURVEY ===
+brand            files   avgKB  medKB  minKB  maxKB  tiny<20  small<50  large>200
+acura               59     30      7      2    215       42        51          5
+land-rover          26     34     21     14     90       10        22          0
+alfa-romeo           9     34     32     11    111        4         8          0
+nissan             140     54     39      6    296       36        78          2
+cadillac           127     57     52      7    118        9        61          0
+jeep               142     65     66     18    136       12        34          0
+kia                 14     70     50     20    164        0         7          0
+ram                 29     70     63     24    115        0         7          0
+bentley             88     80     79      6    161       14        14          0
+chevrolet          228     85     63     13    427        1        78         10
+volvo               64     88     57     22    354        0        13          6
+genesis             65     91     80     20    215        0        20          3
+buick               16     93     58      8    335        1         6          2
+aston-martin        47     95     59     17    454        2        22          6
+gmc                150     99     96     27    247        0        20          1
+maserati            22    101     96     10    208        3         8          3
+mini                32    106     44      6    828        6        18          3
+infiniti            32    120    124     36    187        0         4          0
+audi               126    131    106      9    573       17        23         26
+lucid               20    134    137     19    267        4         4          2
+lamborghini          5    135    102     84    233        0         0          1
+ferrari              1    169    169    169    169        0         0          0
+mitsubishi          84    178     70     28   1190        0        14         12
+mazda               53    186    115     20   1006        0        22         22
+lexus               79    186    100     38   1203        0        13         17
+honda               99    189    167      0    472       11        15         44
+ford                96    228    206     29    743        0         1         52
+mercedes-benz      101    229    100     26   1132        0        12         20
+subaru               8    230    130    114    886        0         0          2
+polestar             3    241    115     84    526        0         0          1
+mclaren             24    287    217     93   1565        0         0         13
+hyundai             21    317    306     81    760        0         0         14
+porsche             78    554     46      8   6289        5        44         19
+rivian               8   1156    258     51   3618        0         0          4
+rolls-royce         15   1308   1060    422   3022        0         0         15
+bmw                236   1495    208      3  28248       28        35        131
+volkswagen          19   2058   2708     71   4182        0         0         15
+toyota             133   3503   2981    428  10915        0         0        133
+jaguar              11  13916  12752   6467  23438        0         0         11
+
+Project-wide: 2510 files, 1289.7MB total, avg 526 KB
+
+
+=== SIZE-MARKER PATTERNS IN DOWNLOADED URLS (per brand) ===
+brand            dlURLs   .small./.medium./.  mobile/tablet/desk  Mobile/Desktop fil  /thumb/ or /thumbn  /sm|md|lg|xl path   -sm./-md./-lg./-xl  ?w=NNN query        ?width=NNN query    ?mw=NNN query       /NNN_NNN/ path siz  _NNNxNNN. filename  is/image scene7 ?$  
+acura                59  0                   0                   0                   0                   0                   0                   0                   0                   40                  0                   0                   0                   
+alfa-romeo           18  0                   17                  14                  0                   0                   0                   0                   0                   0                   0                   0                   0                   
+aston-martin         47  0                   5                   3                   0                   0                   0                   0                   0                   38                  0                   0                   0                   
+audi                126  0                   0                   0                   0                   0                   0                   0                   118                 0                   0                   0                   0                   
+bentley              88  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+bmw                 266  0                   3                   3                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+buick                48  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+cadillac            127  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+chevrolet           253  0                   0                   0                   0                   0                   19                  0                   0                   0                   0                   0                   0                   
+ferrari               1  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   

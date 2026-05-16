@@ -1,0 +1,857 @@
+# Hyundai candidate dump — generated 2026-05-15T03:18:30.429Z
+# Loaded slug_variants for: elantra-n, santa-cruz, santa-fe, ioniq-5, ioniq-5-n, ioniq-6-n, ioniq-9
+
+========================================================================
+# MODEL: tucson
+# URL:   https://www.hyundaiusa.com/us/en/vehicles/tucson
+========================================================================
+# finalUrl: https://www.hyundaiusa.com/us/en/vehicles/tucson
+# html bytes: 9507117
+# raw candidates (deduped by URL): 56
+# slug-matching (variant for "tucson"): 45
+# host histogram:
+#     54  s7d1.scene7.com
+#      1  www.hyundaiusa.com
+#      1  cpo.hyundaiusa.com
+# top URL-path tokens:
+#     55  image
+#     55  hyundai
+#     45  tucson
+#     28  nx4
+#     12  talent
+#      9  future
+#      9  vlp
+#      9  hero
+#      8  media
+#      8  slider
+#      8  vertical
+#      5  vlp:375
+#      5  1500x800
+#      5  vlp:640
+#      5  1280x1520
+#      5  vlp:1440
+#      5  1440x696
+#      5  vlp:1024
+#      5  2048x1136
+#      4  640x410
+#      4  1400x700
+#      4  1440x799
+#      4  sel
+#      4  awd
+#      4  tdp
+#      4  digital
+#      4  key
+#      4  tabs:1440
+#      3  boulder
+#      3  mountain
+# candidates whose URL or alt contains the model name / chassis code: 28
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0272-a-media-slider-vlp:375-1500x800?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0272-a-media-slider-vlp:640-1280x1520?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0272-a-media-slider-vlp:1440-1440x696?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0272-a-media-slider-vlp:1024-2048x1136?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0272-b-media-slider-vlp:375-1500x800?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0272-b-media-slider-vlp:640-1280x1520?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0272-b-media-slider-vlp:1440-1440x696?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0272-b-media-slider-vlp:1024-2048x1136?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0296-no-talent-vertical-tabs:640-640x410?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0296-no-talent-vertical-tabs:2-1?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0296-no-talent-vertical-tabs:1440-1400x700?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0296-no-talent-vertical-tabs:1440-1440x799?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0276-vertical-tabs:640-640x410?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0276-vertical-tabs:2-1?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0276-vertical-tabs:1440-1400x700?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0276-vertical-tabs:1440-1440x799?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0279-vlp:375-1500x800?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0279-vlp:640-1280x1520?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0279-vlp:1440-1440x696?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0279-vlp:1024-2048x1136?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0267-talent-3-vlp:375-1500x800?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0267-talent-3-vlp:640-1280x1520?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0267-talent-3-vlp:1440-1440x696?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0267-talent-3-vlp:1024-2048x1136?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0274-talent-1-vlp:375-1500x800?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+# first 40 raw candidates (URL + first 100 chars of alt):
+  - https://s7d1.scene7.com/is/image/hyundai/2026-boulder-mountain-rq3-ret-ks-future-vehicles:1-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://www.hyundaiusa.com/us/en/vehicles/0&fmt=webp
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-boulder-mountain-rq3-ret-ks-future-vehicles:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-boulder-mountain-rq3-ret-ks-future-vehicles:2560-2560x872?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-6-n-0188b-future-vehicles:1-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-6-n-0188b-future-vehicles:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-6-n-0188b-future-vehicles:2560-2560x872?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-crater-concept-68814a-future-vehicles:1-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-crater-concept-68814a-future-vehicles:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-crater-concept-68814a-future-vehicles:2560-2560x872?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-tucson-vlp-hero-320-359?wid=359&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-tucson-vlp-hero-v2-360-639?wid=639&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-tucson-vlp-hero-640-1023?wid=1023&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-tucson-vlp-hero-1440-1919?wid=1919&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-tucson-vlp-hero-1920-2560?wid=2560&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-tucson-vlp-hero-1024-1439?wid=1439&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-tucson-vlp-hero-1024-1439x850?wid=1439&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-tucson-vlp-hero-1440-1919x850?wid=1919&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-tucson-vlp-hero-1920-2560x850?wid=2560&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0272-a-media-slider-vlp:375-1500x800?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0272-a-media-slider-vlp:640-1280x1520?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0272-a-media-slider-vlp:1440-1440x696?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0272-a-media-slider-vlp:1024-2048x1136?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0272-b-media-slider-vlp:375-1500x800?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0272-b-media-slider-vlp:640-1280x1520?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0272-b-media-slider-vlp:1440-1440x696?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0272-b-media-slider-vlp:1024-2048x1136?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-tucson-0604-bluelink:640-640x410?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-tucson-0604-bluelink:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-tucson-0604-bluelink:1440-1400x700?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-tucson-0604-bluelink:1440-1440x799?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-tucson-sel-awd-tdp-hyundai-digital-key-2-touch:640-640x410?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-tucson-sel-awd-tdp-hyundai-digital-key-2-touch:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-tucson-sel-awd-tdp-hyundai-digital-key-2-touch:1440-1400x700?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-tucson-sel-awd-tdp-hyundai-digital-key-2-touch:1440-1440x799?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0296-no-talent-vertical-tabs:640-640x410?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0296-no-talent-vertical-tabs:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0296-no-talent-vertical-tabs:1440-1400x700?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0296-no-talent-vertical-tabs:1440-1440x799?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-tucson-nx4-0276-vertical-tabs:640-640x410?qlt=85
+      alt: ""
+      source: source@srcset
+
+# any-model-name mentions on this page (URL+alt):
+#     45  tucson
+#      3  ioniq
+
+========================================================================
+# MODEL: elantra
+# URL:   https://www.hyundaiusa.com/us/en/vehicles/elantra
+========================================================================
+# finalUrl: https://www.hyundaiusa.com/us/en/vehicles/elantra
+# html bytes: 8976767
+# raw candidates (deduped by URL): 32
+# slug-matching (variant for "elantra"): 21
+# host histogram:
+#     30  s7d1.scene7.com
+#      1  www.hyundaiusa.com
+#      1  cpo.hyundaiusa.com
+# top URL-path tokens:
+#     31  image
+#     31  hyundai
+#     21  elantra
+#      9  future
+#      9  vlp
+#      9  hero
+#      8  vert
+#      8  tabs
+#      4  with
+#      4  bluelink
+#      4  nottalent
+#      4  vlp:1440
+#      4  notalent
+#      4  wifi
+#      4  hotspot
+#      3  boulder
+#      3  mountain
+#      3  rq3
+#      3  ret
+#      3  vehicles:1
+#      3  vehicles:2
+#      3  vehicles:2560
+#      3  2560x872
+#      3  ioniq
+#      3  0188b
+#      3  crater
+#      3  concept
+#      3  68814a
+#      3  640x410
+#      3  1400x700
+# candidates whose URL or alt contains the model name / chassis code: 0
+# first 40 raw candidates (URL + first 100 chars of alt):
+  - https://s7d1.scene7.com/is/image/hyundai/2026-boulder-mountain-rq3-ret-ks-future-vehicles:1-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://www.hyundaiusa.com/us/en/vehicles/0&fmt=webp
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-boulder-mountain-rq3-ret-ks-future-vehicles:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-boulder-mountain-rq3-ret-ks-future-vehicles:2560-2560x872?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-6-n-0188b-future-vehicles:1-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-6-n-0188b-future-vehicles:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-6-n-0188b-future-vehicles:2560-2560x872?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-crater-concept-68814a-future-vehicles:1-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-crater-concept-68814a-future-vehicles:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-crater-concept-68814a-future-vehicles:2560-2560x872?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-elantra-vlp-hero-320-359?wid=359&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-elantra-vlp-hero-360-639?wid=639&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-elantra-vlp-hero-640-1023?wid=1023&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-elantra-vlp-hero-1440-1919?wid=1919&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-elantra-vlp-hero-1920-2560?wid=2560&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-elantra-vlp-hero-1024-1439?wid=1439&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-elantra-vlp-hero-1024-1439x850?wid=1439&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-elantra-vlp-hero-1440-1919x850?wid=1919&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-elantra-vlp-hero-2560-2560x850?wid=2560&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-elantra-0231-with-bluelink-phone:640-640x410?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-elantra-0231-with-bluelink-phone:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-elantra-0231-with-bluelink-phone:1440-1400x700?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-elantra-0231-with-bluelink-phone:1440-1440x799?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-elantra-0215-nottalent-vert-tabs-vlp:640-640x410?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-elantra-0215-nottalent-vert-tabs-vlp:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-elantra-0215-nottalent-vert-tabs-vlp:1440-1400x700?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-elantra-0215-nottalent-vert-tabs-vlp:1440-1440x799?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-elantra-0214-notalent-wifi-hotspot-vert-tabs-vlp:640-640x410?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-elantra-0214-notalent-wifi-hotspot-vert-tabs-vlp:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-elantra-0214-notalent-wifi-hotspot-vert-tabs-vlp:1440-1400x700?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-elantra-0214-notalent-wifi-hotspot-vert-tabs-vlp:1440-1440x799?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://cpo.hyundaiusa.com/content/dam/hyundai/us/cpo/image/general/shopping-tools/certified-pre-owned-inventory/default-vehicle-main.jpg
+      alt: "naked"
+      source: naked-url
+
+# any-model-name mentions on this page (URL+alt):
+#     21  elantra
+#      3  ioniq
+
+========================================================================
+# MODEL: ioniq-5
+# URL:   https://www.hyundaiusa.com/us/en/vehicles/ioniq-5
+========================================================================
+# finalUrl: https://www.hyundaiusa.com/us/en/vehicles/ioniq-5
+# html bytes: 8904019
+# raw candidates (deduped by URL): 48
+# slug-matching (variant for "ioniq-5"): 33
+# host histogram:
+#     46  s7d1.scene7.com
+#      1  www.hyundaiusa.com
+#      1  cpo.hyundaiusa.com
+# top URL-path tokens:
+#     47  image
+#     47  hyundai
+#     36  ioniq
+#     13  vlp
+#     12  media
+#      9  future
+#      9  hero
+#      4  home
+#      4  solar
+#      4  panels
+#      4  slider
+#      4  2560x1520
+#      4  vertical
+#      4  640x410
+#      4  tabs:1440
+#      4  1400x700
+#      4  1440x799
+#      4  tdp
+#      4  dkey2touch
+#      4  vert
+#      3  boulder
+#      3  mountain
+#      3  rq3
+#      3  ret
+#      3  vehicles:1
+#      3  vehicles:2
+#      3  vehicles:2560
+#      3  2560x872
+#      3  0188b
+#      3  crater
+# candidates whose URL or alt contains the model name / chassis code: 47
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2026-boulder-mountain-rq3-ret-ks-future-vehicles:1-1?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2026-boulder-mountain-rq3-ret-ks-future-vehicles:2-1?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2026-boulder-mountain-rq3-ret-ks-future-vehicles:2560-2560x872?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-6-n-0188b-future-vehicles:1-1?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-6-n-0188b-future-vehicles:2-1?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-6-n-0188b-future-vehicles:2560-2560x872?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2026-crater-concept-68814a-future-vehicles:1-1?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2026-crater-concept-68814a-future-vehicles:2-1?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2026-crater-concept-68814a-future-vehicles:2560-2560x872?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-ev-vlp-hero-sse-320-359?wid=359&qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-ev-vlp-hero-sse-360-639-02?wid=639&qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-ev-vlp-hero-640-1023?wid=1023&qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-ev-vlp-hero-1440-1919?wid=1919&qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-ev-vlp-hero-1920-2560?wid=2560&qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-ev-vlp-hero-1024-1439?wid=1439&qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-ev-vlp-hero-1024-1439x850?wid=1439&qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-ev-vlp-hero-1440-1919x850?wid=1919&qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-ev-vlp-hero-1920-2560x850?wid=2560&qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0925-media-slider:375-1500x800?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0925-media-slider:640-1280x1520?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0925-media-slider:1440-1440x696?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0925-media-slider:1024-2048x1136?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0919-media-slider:375-1500x800?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0919-media-slider:640-1280x1520?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+#   URL: https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0919-media-slider:1440-1440x696?qlt=85
+#   alt: ""
+#   src: source@srcset
+
+# first 40 raw candidates (URL + first 100 chars of alt):
+  - https://s7d1.scene7.com/is/image/hyundai/2026-boulder-mountain-rq3-ret-ks-future-vehicles:1-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://www.hyundaiusa.com/us/en/vehicles/0&fmt=webp
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-boulder-mountain-rq3-ret-ks-future-vehicles:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-boulder-mountain-rq3-ret-ks-future-vehicles:2560-2560x872?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-6-n-0188b-future-vehicles:1-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-6-n-0188b-future-vehicles:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-6-n-0188b-future-vehicles:2560-2560x872?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-crater-concept-68814a-future-vehicles:1-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-crater-concept-68814a-future-vehicles:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-crater-concept-68814a-future-vehicles:2560-2560x872?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-ev-vlp-hero-sse-320-359?wid=359&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-ev-vlp-hero-sse-360-639-02?wid=639&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-ev-vlp-hero-640-1023?wid=1023&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-ev-vlp-hero-1440-1919?wid=1919&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-ev-vlp-hero-1920-2560?wid=2560&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-ev-vlp-hero-1024-1439?wid=1439&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-ev-vlp-hero-1024-1439x850?wid=1439&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-ev-vlp-hero-1440-1919x850?wid=1919&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-ev-vlp-hero-1920-2560x850?wid=2560&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0925-media-slider:375-1500x800?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0925-media-slider:640-1280x1520?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0925-media-slider:1440-1440x696?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0925-media-slider:1024-2048x1136?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0919-media-slider:375-1500x800?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0919-media-slider:640-1280x1520?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0919-media-slider:1440-1440x696?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0919-media-slider:1024-2048x1136?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/hyundai-home-solar-panels-1493-media-slider-2560x1520-vlp:375-1500x800?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/hyundai-home-solar-panels-1493-media-slider-2560x1520-vlp:640-1280x1520?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/hyundai-home-solar-panels-1493-media-slider-2560x1520-vlp:1440-1440x696?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/hyundai-home-solar-panels-1493-media-slider-2560x1520-vlp:1024-2048x1136?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-0901-vertical-tabs:640-640x410?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-0901-vertical-tabs:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-0901-vertical-tabs:1440-1400x700?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-0901-vertical-tabs:1440-1440x799?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-tdp-hyundai-dkey2touch-vlp-vert-tabs:640-640x410?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-tdp-hyundai-dkey2touch-vlp-vert-tabs:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-tdp-hyundai-dkey2touch-vlp-vert-tabs:1440-1400x700?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-5-tdp-hyundai-dkey2touch-vlp-vert-tabs:1440-1440x799?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0220-wifi:640-640x410?qlt=85
+      alt: ""
+      source: source@srcset
+
+# any-model-name mentions on this page (URL+alt):
+#     36  ioniq
+
+========================================================================
+# MODEL: santa-fe
+# URL:   https://www.hyundaiusa.com/us/en/vehicles/santa-fe
+========================================================================
+# finalUrl: https://www.hyundaiusa.com/us/en/vehicles/santa-fe
+# html bytes: 9218766
+# raw candidates (deduped by URL): 52
+# slug-matching (variant for "santa-fe"): 41
+# host histogram:
+#     50  s7d1.scene7.com
+#      1  www.hyundaiusa.com
+#      1  cpo.hyundaiusa.com
+# top URL-path tokens:
+#     51  image
+#     51  hyundai
+#     41  santa
+#     17  vlp
+#     16  mx5
+#     12  vertical
+#      9  future
+#      9  hero
+#      9  gse
+#      8  media
+#      8  tabs:1440
+#      4  hnif4004000h
+#      4  3rd
+#      4  rowseating
+#      4  poster
+#      4  1500x800
+#      4  1280x1520
+#      4  1440x696
+#      4  2048x1136
+#      4  lights
+#      4  ice
+#      4  calligraphy
+#      4  fwd
+#      4  tdp
+#      4  bluelink
+#      4  vert
+#      4  tabs:640
+#      4  640x410
+#      4  tabs:2
+#      4  1400x700
+# candidates whose URL or alt contains the model name / chassis code: 0
+# first 40 raw candidates (URL + first 100 chars of alt):
+  - https://s7d1.scene7.com/is/image/hyundai/2026-boulder-mountain-rq3-ret-ks-future-vehicles:1-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://www.hyundaiusa.com/us/en/vehicles/0&fmt=webp
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-boulder-mountain-rq3-ret-ks-future-vehicles:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-boulder-mountain-rq3-ret-ks-future-vehicles:2560-2560x872?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-6-n-0188b-future-vehicles:1-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-6-n-0188b-future-vehicles:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-6-n-0188b-future-vehicles:2560-2560x872?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-crater-concept-68814a-future-vehicles:1-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-crater-concept-68814a-future-vehicles:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-crater-concept-68814a-future-vehicles:2560-2560x872?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-santa-fe-vlp-hero-gse-320-359?wid=359&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-santa-fe-vlp-hero-gse-360-639?wid=639&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-santa-fe-vlp-hero-gse-640-1023?wid=1023&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-santa-fe-vlp-hero-gse-1440-1919?wid=1919&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-santa-fe-vlp-hero-gse-1920-2560?wid=2560&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-santa-fe-vlp-hero-gse-1024-1439?wid=1439&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-santa-fe-vlp-hero-gse-1024-1439x850?wid=1439&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-santa-fe-vlp-hero-gse-1440-1919x850?wid=1919&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-santa-fe-vlp-hero-gse-2560-2560x850?wid=2560&qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-HNIF4004000H-vlp-3rd-rowseating-poster-16x9:375-1500x800?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-HNIF4004000H-vlp-3rd-rowseating-poster-16x9:640-1280x1520?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-HNIF4004000H-vlp-3rd-rowseating-poster-16x9:1440-1440x696?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-HNIF4004000H-vlp-3rd-rowseating-poster-16x9:1024-2048x1136?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-mx5-0165-lights-on-media-slider:375-1500x800?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-mx5-0165-lights-on-media-slider:640-1280x1520?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-mx5-0165-lights-on-media-slider:1440-1440x696?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-mx5-0165-lights-on-media-slider:1024-2048x1136?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-mx5-0147-carousel:375-1500x800?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-mx5-0147-carousel:640-1280x1520?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-mx5-0147-carousel:1440-1440x696?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-mx5-0147-carousel:1024-2048x1136?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-mx5-0151-media-slider:375-1500x800?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-mx5-0151-media-slider:640-1280x1520?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-mx5-0151-media-slider:1440-1440x696?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-mx5-0151-media-slider:1024-2048x1136?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-santa-fe-ice-calligraphy-fwd-tdp-bluelink-vlp-vert-tabs:640-640x410?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-santa-fe-ice-calligraphy-fwd-tdp-bluelink-vlp-vert-tabs:2-1?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-santa-fe-ice-calligraphy-fwd-tdp-bluelink-vlp-vert-tabs:1440-1400x700?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2026-santa-fe-ice-calligraphy-fwd-tdp-bluelink-vlp-vert-tabs:1440-1440x799?qlt=85
+      alt: ""
+      source: source@srcset
+  - https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-digital-key-2-temp-vertical-tabs:640-640x410?qlt=85
+      alt: ""
+      source: source@srcset
+
+# any-model-name mentions on this page (URL+alt):
+#     41  santa
+#      3  ioniq

@@ -1,0 +1,62 @@
+Reset 88 image entries with needs_scraping:true to their model page URLs.
+Brand: ram
+Models in JSON: 3
+Models with page URLs: 3
+Playwright fallback: enabled
+Brand-specific angle patterns: 3 regex(es) across 1 angle(s) — front_three_quarter
+
+Scraping 3 model pages…
+
+  fetch https://www.ramtrucks.com/ram-1500.html  …  static ok (50 raw, 43 slug-matching)
+  fetch https://www.ramtrucks.com/ram-2500.html  …  static ok (68 raw, 61 slug-matching)
+  fetch https://www.ramtrucks.com/ram-3500.html  …  static ok (27 raw, 20 slug-matching)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          ram
+Pages attempted:                3
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 3
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        39
+  via text/URL pattern match:   24
+  via brand-specific angle:     15
+  via positional fallback:      0
+Brand-specific angle matches:   15
+Resolution upgrades:            39 URLs preferred larger variants
+Extension-less URLs accepted:   0 candidate(s) (would have been rejected by old IMG_EXT_RE filter)
+Image entries via ext-less URL: 0
+Image entries unchanged:        49
+
+Sample rewrites:
+  [B9.0] ram-1500/tradesman/front_three_quarter
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg
+  [7.9] ram-1500/tradesman/interior_dashboard
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-standard-promo-tile-interior-desktop.jpg
+  [B9.0] ram-1500/express/front_three_quarter
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg
+  [7.9] ram-1500/express/interior_dashboard
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-standard-promo-tile-interior-desktop.jpg
+  [B9.0] ram-1500/big-horn/front_three_quarter
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg
+  [7.9] ram-1500/big-horn/interior_dashboard
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-standard-promo-tile-interior-desktop.jpg
+  [B9.0] ram-1500/warlock/front_three_quarter
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg
+  [7.9] ram-1500/warlock/interior_dashboard
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-standard-promo-tile-interior-desktop.jpg
+  [B9.0] ram-1500/laramie/front_three_quarter
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg
+  [7.9] ram-1500/laramie/interior_dashboard
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-standard-promo-tile-interior-desktop.jpg
+  [B9.0] ram-1500/rebel/front_three_quarter
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg
+  [7.9] ram-1500/rebel/interior_dashboard
+        → https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-standard-promo-tile-interior-desktop.jpg
+
+Models with unresolved angles:
+  ram-1500: 20 entries  (e.g. tradesman/rear_three_quarter, tradesman/side_profile, express/rear_three_quarter)
+  ram-2500: 14 entries  (e.g. tradesman/rear_three_quarter, tradesman/interior_dashboard, big-horn/rear_three_quarter)
+  ram-3500: 15 entries  (e.g. tradesman/rear_three_quarter, tradesman/side_profile, tradesman/interior_dashboard)

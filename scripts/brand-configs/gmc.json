@@ -1,0 +1,55 @@
+{
+  "brand_slug": "gmc",
+  "notes": "gmc.com consumer site. Yukon and Yukon XL share the /suvs/yukon landing page (no dedicated /yukon-xl top-level consumer URL; the XL is presented as a length variant on the shared page). Sierra HD covers both 2500HD and 3500HD on /trucks/sierra/2500hd-3500hd. Hummer EV Pickup and SUV live under /electric/hummer-ev/{pickup-truck,suv}.",
+  "model_pages": {
+    "sierra-1500":      "https://www.gmc.com/trucks/sierra/1500",
+    "sierra-hd":        "https://www.gmc.com/trucks/sierra/2500hd-3500hd",
+    "canyon":           "https://www.gmc.com/trucks/canyon",
+    "sierra-ev":        "https://www.gmc.com/electric/sierra-ev",
+    "yukon":            "https://www.gmc.com/suvs/yukon",
+    "yukon-xl":         "https://www.gmc.com/suvs/yukon",
+    "terrain":          "https://www.gmc.com/suvs/terrain",
+    "acadia":           "https://www.gmc.com/suvs/acadia",
+    "hummer-ev-pickup": "https://www.gmc.com/electric/hummer-ev/pickup-truck",
+    "hummer-ev-suv":    "https://www.gmc.com/electric/hummer-ev/suv"
+  },
+  "slug_variants": {
+    "sierra-1500": [
+      "sierra-1500",
+      "sierra1500",
+      "sierra"
+    ],
+    "sierra-hd": [
+      "sierra-hd",
+      "sierrahd",
+      "sierra-2500",
+      "sierra-3500",
+      "sierra-2500hd",
+      "sierra-3500hd",
+      "2500hd-3500hd"
+    ],
+    "yukon-xl": [
+      "yukon-xl",
+      "yukonxl",
+      "yukon_xl",
+      "yukon"
+    ],
+    "sierra-ev": [
+      "sierra-ev",
+      "sierraev"
+    ],
+    "hummer-ev-pickup": [
+      "hummer-ev-pickup",
+      "hummer-ev-truck",
+      "hummer-ev/pickup-truck",
+      "hummer-ev/pickup",
+      "hummerev-pickup"
+    ],
+    "hummer-ev-suv": [
+      "hummer-ev-suv",
+      "hummer-ev/suv",
+      "hummerev-suv"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

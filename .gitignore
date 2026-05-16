@@ -1,0 +1,56 @@
+# --- Dependencies ---
+node_modules/
+
+# --- Backup files (produced by the .bak discipline; never committed) ---
+*.bak
+*.bak.*
+
+# --- Project-internal staging / partials (never committed) ---
+data/_partials/
+catalog/.session13_stage_*_pre/
+
+# --- Local agent / IDE / editor state ---
+.claude/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- OS metadata ---
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# --- Python cache ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+.venv/
+venv/
+env/
+
+# --- Build / dist artifacts (none currently, but reserved) ---
+dist/
+build/
+out/
+
+# --- Environment / secrets (none currently, but reserved) ---
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+secrets.json
+
+# --- Empty placeholder folder ---
+/images/
+
+# --- Log noise (the per-brand scrape logs in reports/ are intentionally kept) ---
+*.tmp
+*.temp
+.npm-debug.log
+npm-debug.log*

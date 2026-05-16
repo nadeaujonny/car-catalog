@@ -1,0 +1,64 @@
+Reset 52 image entries with needs_scraping:true to their model page URLs.
+Brand: aston-martin
+Models in JSON: 11
+Models with page URLs: 11
+Playwright fallback: enabled
+
+Scraping 11 model pages…
+
+  fetch https://www.astonmartin.com/en-us/models/vantage-coupe  …  static ok (524 raw candidates)
+  fetch https://www.astonmartin.com/en-us/models/vantage-s  …  static ok (560 raw candidates)
+  fetch https://www.astonmartin.com/en-us/models/vantage-roadster  …  static ok (526 raw candidates)
+  fetch https://www.astonmartin.com/en-us/models/db12  …  static ok (439 raw candidates)
+  fetch https://www.astonmartin.com/en-us/models/db12-s  …  static ok (468 raw candidates)
+  fetch https://www.astonmartin.com/en-us/models/db12-volante  …  static ok (452 raw candidates)
+  fetch https://www.astonmartin.com/en-us/models/vanquish  …  static ok (569 raw candidates)
+  fetch https://www.astonmartin.com/en-us/models/vanquish-volante  …  static ok (563 raw candidates)
+  fetch https://www.astonmartin.com/en-us/models/dbx707  …  static ok (552 raw candidates)
+  fetch https://www.astonmartin.com/en-us/models/dbx-s  …  static ok (615 raw candidates)
+  fetch https://www.astonmartin.com/en-us/models/valhalla  …  static ok (491 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          aston-martin
+Pages attempted:                11
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 11
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        47
+  via text/URL pattern match:   47
+  via positional fallback:      0
+Image entries unchanged:        5
+
+Sample rewrites:
+  [17.5] vantage/vantage-coupe/front_three_quarter
+        → https://www.astonmartin.com/-/media/models---vantage-coupe/exterior/overlays/exterior-front-01.jpg?mw=1920&rev=-1&hash=59C4AE8E38890AAF609EA6DD51295FE0
+  [8.5] vantage/vantage-coupe/rear_three_quarter
+        → https://www.astonmartin.com/-/media/models---vantage-coupe/exterior/tiles/03_rear.jpg?mw=1920&rev=-1&hash=1B9F0287F6441FFE171607C928B718FC
+  [8.5] vantage/vantage-coupe/side_profile
+        → https://www.astonmartin.com/-/media/models---vantage-coupe/exterior/tiles/02_side.jpg?mw=1920&rev=-1&hash=8E07D68E6D7645BD833C9CD2521B0B6C
+  [8.5] vantage/vantage-coupe/interior_dashboard
+        → https://www.astonmartin.com/-/media/models---vantage-coupe/interior/tiles/01_styling.jpg?mw=1920&rev=-1&hash=6C4BB19B0322D074203E5B6FEBBCDE87
+  [8.5] vantage-s/vantage-s-coupe/front_three_quarter
+        → https://www.astonmartin.com/-/media/models---vantage-s/final/final-overlays/chassis-overlay-front.jpg?mw=1920&rev=-1&hash=C515C8FB87D15E9E87BE8EF8708C2762
+  [8.5] vantage-s/vantage-s-coupe/rear_three_quarter
+        → https://www.astonmartin.com/-/media/models---vantage-s/final/final-tiles/rear-tile.jpg?mw=1920&rev=-1&hash=C1FA3FEB545D56A5405A1FFB102EFFD2
+  [8.5] vantage-s/vantage-s-coupe/side_profile
+        → https://www.astonmartin.com/-/media/models---vantage-s/final/final-overlays/chassis-side-overlay.jpg?mw=1920&rev=-1&hash=CCA74949A153F46EF4339B149FC237CE
+  [7.0] vantage-s/vantage-s-coupe/interior_dashboard
+        → https://www.astonmartin.com/-/media/models---vantage-s/final/interior-scroller-hd.jpg?rev=-1
+  [8.5] vantage-s/vantage-s-roadster/front_three_quarter
+        → https://www.astonmartin.com/-/media/models---vantage-s/final/final-overlays/chassis-overlay-front.jpg?mw=1920&rev=-1&hash=C515C8FB87D15E9E87BE8EF8708C2762
+  [8.5] vantage-s/vantage-s-roadster/rear_three_quarter
+        → https://www.astonmartin.com/-/media/models---vantage-s/final/final-tiles/rear-tile.jpg?mw=1920&rev=-1&hash=C1FA3FEB545D56A5405A1FFB102EFFD2
+  [8.5] vantage-s/vantage-s-roadster/side_profile
+        → https://www.astonmartin.com/-/media/models---vantage-s/final/final-overlays/chassis-side-overlay.jpg?mw=1920&rev=-1&hash=CCA74949A153F46EF4339B149FC237CE
+  [7.0] vantage-s/vantage-s-roadster/interior_dashboard
+        → https://www.astonmartin.com/-/media/models---vantage-s/final/interior-scroller-hd.jpg?rev=-1
+
+Models with unresolved angles:
+  db12: 1 entries  (e.g. db12-coupe/side_profile)
+  db12-volante: 2 entries  (e.g. db12-volante/front_three_quarter, db12-volante/rear_three_quarter)
+  dbx707: 2 entries  (e.g. dbx707/front_three_quarter, dbx707/side_profile)

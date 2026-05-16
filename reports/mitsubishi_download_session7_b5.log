@@ -1,0 +1,121 @@
+Brand: mitsubishi
+Referer header: https://www.mitsubishicars.com/
+Found 96 image entries across 4 models.
+
+[1/96] outlander/es-fwd/front_three_quarter  ok (175713 bytes, image/jpeg)
+[2/96] outlander/es-fwd/rear_three_quarter  ok (57646 bytes, image/jpeg)
+[3/96] outlander/es-fwd/side_profile  ok (55190 bytes, image/jpeg)
+[4/96] outlander/es-fwd/interior_dashboard  ok (50062 bytes, image/jpeg)
+[5/96] outlander/le-fwd/front_three_quarter  ok (175713 bytes, image/jpeg)
+[6/96] outlander/le-fwd/rear_three_quarter  ok (57646 bytes, image/jpeg)
+[7/96] outlander/le-fwd/side_profile  ok (55190 bytes, image/jpeg)
+[8/96] outlander/le-fwd/interior_dashboard  ok (50062 bytes, image/jpeg)
+[9/96] outlander/se-fwd/front_three_quarter  ok (175713 bytes, image/jpeg)
+[10/96] outlander/se-fwd/rear_three_quarter  ok (57646 bytes, image/jpeg)
+[11/96] outlander/se-fwd/side_profile  ok (55190 bytes, image/jpeg)
+[12/96] outlander/se-fwd/interior_dashboard  ok (50062 bytes, image/jpeg)
+[13/96] outlander/sel-fwd/front_three_quarter  ok (175713 bytes, image/jpeg)
+[14/96] outlander/sel-fwd/rear_three_quarter  ok (57646 bytes, image/jpeg)
+[15/96] outlander/sel-fwd/side_profile  ok (55190 bytes, image/jpeg)
+[16/96] outlander/sel-fwd/interior_dashboard  ok (50062 bytes, image/jpeg)
+[17/96] outlander/ralliart-s-awc/front_three_quarter  ok (175713 bytes, image/jpeg)
+[18/96] outlander/ralliart-s-awc/rear_three_quarter  ok (57646 bytes, image/jpeg)
+[19/96] outlander/ralliart-s-awc/side_profile  ok (55190 bytes, image/jpeg)
+[20/96] outlander/ralliart-s-awc/interior_dashboard  ok (50062 bytes, image/jpeg)
+[21/96] outlander/trail-edition-s-awc/front_three_quarter  ok (175713 bytes, image/jpeg)
+[22/96] outlander/trail-edition-s-awc/rear_three_quarter  ok (57646 bytes, image/jpeg)
+[23/96] outlander/trail-edition-s-awc/side_profile  ok (55190 bytes, image/jpeg)
+[24/96] outlander/trail-edition-s-awc/interior_dashboard  ok (50062 bytes, image/jpeg)
+[25/96] outlander/black-edition-s-awc/front_three_quarter  ok (175713 bytes, image/jpeg)
+[26/96] outlander/black-edition-s-awc/rear_three_quarter  ok (57646 bytes, image/jpeg)
+[27/96] outlander/black-edition-s-awc/side_profile  ok (55190 bytes, image/jpeg)
+[28/96] outlander/black-edition-s-awc/interior_dashboard  ok (50062 bytes, image/jpeg)
+[29/96] outlander-phev/es-s-awc/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[30/96] outlander-phev/es-s-awc/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[31/96] outlander-phev/es-s-awc/side_profile  ok (135732 bytes, image/webp)
+[32/96] outlander-phev/es-s-awc/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[33/96] outlander-phev/se-s-awc/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[34/96] outlander-phev/se-s-awc/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[35/96] outlander-phev/se-s-awc/side_profile  ok (135732 bytes, image/webp)
+[36/96] outlander-phev/se-s-awc/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[37/96] outlander-phev/sel-s-awc/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[38/96] outlander-phev/sel-s-awc/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[39/96] outlander-phev/sel-s-awc/side_profile  ok (135732 bytes, image/webp)
+[40/96] outlander-phev/sel-s-awc/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[41/96] outlander-phev/black-edition-s-awc/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[42/96] outlander-phev/black-edition-s-awc/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[43/96] outlander-phev/black-edition-s-awc/side_profile  ok (135732 bytes, image/webp)
+[44/96] outlander-phev/black-edition-s-awc/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[45/96] outlander-sport/s/front_three_quarter  ok (28733 bytes, image/jpeg)
+[46/96] outlander-sport/s/rear_three_quarter  ok (74804 bytes, image/jpeg)
+[47/96] outlander-sport/s/side_profile  ok (68270 bytes, image/jpeg)
+[48/96] outlander-sport/s/interior_dashboard  ok (64004 bytes, image/jpeg)
+[49/96] outlander-sport/es/front_three_quarter  ok (28733 bytes, image/jpeg)
+[50/96] outlander-sport/es/rear_three_quarter  ok (74804 bytes, image/jpeg)
+[51/96] outlander-sport/es/side_profile  ok (68270 bytes, image/jpeg)
+[52/96] outlander-sport/es/interior_dashboard  ok (64004 bytes, image/jpeg)
+[53/96] outlander-sport/le/front_three_quarter  ok (28733 bytes, image/jpeg)
+[54/96] outlander-sport/le/rear_three_quarter  ok (74804 bytes, image/jpeg)
+[55/96] outlander-sport/le/side_profile  ok (68270 bytes, image/jpeg)
+[56/96] outlander-sport/le/interior_dashboard  ok (64004 bytes, image/jpeg)
+[57/96] outlander-sport/se/front_three_quarter  ok (28733 bytes, image/jpeg)
+[58/96] outlander-sport/se/rear_three_quarter  ok (74804 bytes, image/jpeg)
+[59/96] outlander-sport/se/side_profile  ok (68270 bytes, image/jpeg)
+[60/96] outlander-sport/se/interior_dashboard  ok (64004 bytes, image/jpeg)
+[61/96] outlander-sport/ralliart/front_three_quarter  ok (28733 bytes, image/jpeg)
+[62/96] outlander-sport/ralliart/rear_three_quarter  ok (74804 bytes, image/jpeg)
+[63/96] outlander-sport/ralliart/side_profile  ok (68270 bytes, image/jpeg)
+[64/96] outlander-sport/ralliart/interior_dashboard  ok (64004 bytes, image/jpeg)
+[65/96] outlander-sport/trail-edition/front_three_quarter  ok (28733 bytes, image/jpeg)
+[66/96] outlander-sport/trail-edition/rear_three_quarter  ok (74804 bytes, image/jpeg)
+[67/96] outlander-sport/trail-edition/side_profile  ok (68270 bytes, image/jpeg)
+[68/96] outlander-sport/trail-edition/interior_dashboard  ok (64004 bytes, image/jpeg)
+[69/96] outlander-sport/sel/front_three_quarter  ok (28733 bytes, image/jpeg)
+[70/96] outlander-sport/sel/rear_three_quarter  ok (74804 bytes, image/jpeg)
+[71/96] outlander-sport/sel/side_profile  ok (68270 bytes, image/jpeg)
+[72/96] outlander-sport/sel/interior_dashboard  ok (64004 bytes, image/jpeg)
+[73/96] eclipse-cross/es/front_three_quarter  ok (324887 bytes, image/jpeg)
+[74/96] eclipse-cross/es/rear_three_quarter  ok (1218409 bytes, image/jpeg)
+[75/96] eclipse-cross/es/side_profile  ok (98281 bytes, image/jpeg)
+[76/96] eclipse-cross/es/interior_dashboard  ok (145970 bytes, image/jpeg)
+[77/96] eclipse-cross/le/front_three_quarter  ok (324887 bytes, image/jpeg)
+[78/96] eclipse-cross/le/rear_three_quarter  ok (1218409 bytes, image/jpeg)
+[79/96] eclipse-cross/le/side_profile  ok (98281 bytes, image/jpeg)
+[80/96] eclipse-cross/le/interior_dashboard  ok (145970 bytes, image/jpeg)
+[81/96] eclipse-cross/se/front_three_quarter  ok (324887 bytes, image/jpeg)
+[82/96] eclipse-cross/se/rear_three_quarter  ok (1218409 bytes, image/jpeg)
+[83/96] eclipse-cross/se/side_profile  ok (98281 bytes, image/jpeg)
+[84/96] eclipse-cross/se/interior_dashboard  ok (145970 bytes, image/jpeg)
+[85/96] eclipse-cross/ralliart/front_three_quarter  ok (324887 bytes, image/jpeg)
+[86/96] eclipse-cross/ralliart/rear_three_quarter  ok (1218409 bytes, image/jpeg)
+[87/96] eclipse-cross/ralliart/side_profile  ok (98281 bytes, image/jpeg)
+[88/96] eclipse-cross/ralliart/interior_dashboard  ok (145970 bytes, image/jpeg)
+[89/96] eclipse-cross/black-edition/front_three_quarter  ok (324887 bytes, image/jpeg)
+[90/96] eclipse-cross/black-edition/rear_three_quarter  ok (1218409 bytes, image/jpeg)
+[91/96] eclipse-cross/black-edition/side_profile  ok (98281 bytes, image/jpeg)
+[92/96] eclipse-cross/black-edition/interior_dashboard  ok (145970 bytes, image/jpeg)
+[93/96] eclipse-cross/sel/front_three_quarter  ok (324887 bytes, image/jpeg)
+[94/96] eclipse-cross/sel/rear_three_quarter  ok (1218409 bytes, image/jpeg)
+[95/96] eclipse-cross/sel/side_profile  ok (98281 bytes, image/jpeg)
+[96/96] eclipse-cross/sel/interior_dashboard  ok (145970 bytes, image/jpeg)
+
+Updated catalog/data/mitsubishi.json and data/mitsubishi.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  mitsubishi
+Total images attempted: 96
+Successful:             84 (87.5%)
+Failed:                 12
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 12
+
+Models with zero successful images: 0 of 4
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html; charset=utf-8)] x12 — e.g. https://www.mitsubishicars.com/cars-and-suvs/outlander-phev

@@ -1,0 +1,77 @@
+Reset 48 image entries with needs_scraping:true to their model page URLs.
+Brand: ferrari
+Models in JSON: 12
+Models with page URLs: 12
+Playwright fallback: enabled
+
+Scraping 12 model pages…
+
+  fetch https://www.ferrari.com/en-EN/auto/ferrari-roma-spider  …  static ok (0 raw, 0 slug-matching)
+    playwright https://www.ferrari.com/en-EN/auto/ferrari-roma-spider  …  ok (8 raw candidates)
+  fetch https://www.ferrari.com/en-EN/auto/ferrari-amalfi  …  static ok (0 raw, 0 slug-matching)
+    playwright https://www.ferrari.com/en-EN/auto/ferrari-amalfi  …  ok but 0 candidates
+  fetch https://www.ferrari.com/en-EN/auto/296-gtb  …  static ok (0 raw, 0 slug-matching)
+    playwright https://www.ferrari.com/en-EN/auto/296-gtb  …  ok but 0 candidates
+  fetch https://www.ferrari.com/en-EN/auto/296-gts  …  static ok (0 raw, 0 slug-matching)
+    playwright https://www.ferrari.com/en-EN/auto/296-gts  …  ok but 0 candidates
+  fetch https://www.ferrari.com/en-EN/auto/296-speciale  …  static ok (0 raw, 0 slug-matching)
+    playwright https://www.ferrari.com/en-EN/auto/296-speciale  …  ok but 0 candidates
+  fetch https://www.ferrari.com/en-EN/auto/296-speciale-a  …  static ok (0 raw, 0 slug-matching)
+    playwright https://www.ferrari.com/en-EN/auto/296-speciale-a  …  ok but 0 candidates
+  fetch https://www.ferrari.com/en-EN/auto/ferrari-12cilindri  …  static ok (0 raw, 0 slug-matching)
+    playwright https://www.ferrari.com/en-EN/auto/ferrari-12cilindri  …  ok but 0 candidates
+  fetch https://www.ferrari.com/en-EN/auto/ferrari-12cilindri-spider  …  static ok (0 raw, 0 slug-matching)
+    playwright https://www.ferrari.com/en-EN/auto/ferrari-12cilindri-spider  …  ok but 0 candidates
+  fetch https://www.ferrari.com/en-EN/auto/849-testarossa  …  static ok (0 raw, 0 slug-matching)
+    playwright https://www.ferrari.com/en-EN/auto/849-testarossa  …  ok but 0 candidates
+  fetch https://www.ferrari.com/en-EN/auto/849-testarossa-spider  …  static ok (0 raw, 0 slug-matching)
+    playwright https://www.ferrari.com/en-EN/auto/849-testarossa-spider  …  ok but 0 candidates
+  fetch https://www.ferrari.com/en-EN/auto/ferrari-purosangue  …  static ok (0 raw, 0 slug-matching)
+    playwright https://www.ferrari.com/en-EN/auto/ferrari-purosangue  …  ok but 0 candidates
+  fetch https://www.ferrari.com/en-EN/auto/f80  …  static ok (2 raw, 2 slug-matching)
+    playwright https://www.ferrari.com/en-EN/auto/f80  …  ok (2 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          ferrari
+Pages attempted:                12
+Pages failed:                   10
+  - https://www.ferrari.com/en-EN/auto/ferrari-amalfi  (no candidates after static + playwright)
+  - https://www.ferrari.com/en-EN/auto/296-gtb  (no candidates after static + playwright)
+  - https://www.ferrari.com/en-EN/auto/296-gts  (no candidates after static + playwright)
+  - https://www.ferrari.com/en-EN/auto/296-speciale  (no candidates after static + playwright)
+  - https://www.ferrari.com/en-EN/auto/296-speciale-a  (no candidates after static + playwright)
+  - https://www.ferrari.com/en-EN/auto/ferrari-12cilindri  (no candidates after static + playwright)
+  - https://www.ferrari.com/en-EN/auto/ferrari-12cilindri-spider  (no candidates after static + playwright)
+  - https://www.ferrari.com/en-EN/auto/849-testarossa  (no candidates after static + playwright)
+  - https://www.ferrari.com/en-EN/auto/849-testarossa-spider  (no candidates after static + playwright)
+  - https://www.ferrari.com/en-EN/auto/ferrari-purosangue  (no candidates after static + playwright)
+Pages escalated to Playwright:  12 of 12
+  Playwright successes:         2
+  Playwright failures:          10
+Image entries rewritten:        1
+  via text/URL pattern match:   1
+  via brand-specific angle:     0
+  via positional fallback:      0
+Brand-specific angle matches:   0
+Resolution upgrades:            0 URLs preferred larger variants
+Image entries unchanged:        47
+
+Sample rewrites:
+  [7.0] f80/f80/interior_dashboard
+        → https://cdn.ferrari.com/cms/network/media/img/ferrari-f80-interior-focus-seat-2s.jpg
+
+Models with unresolved angles:
+  roma-spider: 4 entries  (e.g. roma-spider/front_three_quarter, roma-spider/rear_three_quarter, roma-spider/side_profile)
+  amalfi: 4 entries  (e.g. amalfi/front_three_quarter, amalfi/rear_three_quarter, amalfi/side_profile)
+  296-gtb: 4 entries  (e.g. 296-gtb/front_three_quarter, 296-gtb/rear_three_quarter, 296-gtb/side_profile)
+  296-gts: 4 entries  (e.g. 296-gts/front_three_quarter, 296-gts/rear_three_quarter, 296-gts/side_profile)
+  296-speciale: 4 entries  (e.g. 296-speciale/front_three_quarter, 296-speciale/rear_three_quarter, 296-speciale/side_profile)
+  296-speciale-a: 4 entries  (e.g. 296-speciale-a/front_three_quarter, 296-speciale-a/rear_three_quarter, 296-speciale-a/side_profile)
+  12cilindri: 4 entries  (e.g. 12cilindri/front_three_quarter, 12cilindri/rear_three_quarter, 12cilindri/side_profile)
+  12cilindri-spider: 4 entries  (e.g. 12cilindri-spider/front_three_quarter, 12cilindri-spider/rear_three_quarter, 12cilindri-spider/side_profile)
+  849-testarossa: 4 entries  (e.g. 849-testarossa/front_three_quarter, 849-testarossa/rear_three_quarter, 849-testarossa/side_profile)
+  849-testarossa-spider: 4 entries  (e.g. 849-testarossa-spider/front_three_quarter, 849-testarossa-spider/rear_three_quarter, 849-testarossa-spider/side_profile)
+  purosangue: 4 entries  (e.g. purosangue/front_three_quarter, purosangue/rear_three_quarter, purosangue/side_profile)
+  f80: 3 entries  (e.g. f80/front_three_quarter, f80/rear_three_quarter, f80/side_profile)

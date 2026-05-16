@@ -1,0 +1,159 @@
+{
+  "brand": "Toyota",
+  "brand_slug": "toyota",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 23,
+  "trim_count": 127,
+  "total_images": 140,
+  "needs_scraping": 3,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 9,
+  "blocker_count": 0,
+  "warning_count": 28,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "Model has <4 total images across all trims",
+      "where": "gr-corolla",
+      "value": 1
+    },
+    {
+      "title": "Model has <4 total images across all trims",
+      "where": "gr-supra",
+      "value": 1
+    },
+    {
+      "title": "Model has <4 total images across all trims",
+      "where": "gr86",
+      "value": 1
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "grand-highlander/hybrid-le",
+      "value": "dimensions"
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "grand-highlander/hybrid-max-limited",
+      "value": "dimensions"
+    },
+    {
+      "title": "Model has <4 total images across all trims",
+      "where": "grand-highlander",
+      "value": 3
+    },
+    {
+      "title": "Model has <4 total images across all trims",
+      "where": "land-cruiser",
+      "value": 1
+    },
+    {
+      "title": "Model has <4 total images across all trims",
+      "where": "sequoia",
+      "value": 0
+    },
+    {
+      "title": "Model has <4 total images across all trims",
+      "where": "sienna",
+      "value": 0
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "tacoma/trailhunter",
+      "value": "dimensions"
+    },
+    {
+      "title": "Model has <4 total images across all trims",
+      "where": "tacoma",
+      "value": 0
+    },
+    {
+      "title": "Model has <4 total images across all trims",
+      "where": "tundra",
+      "value": 0
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "4runner/sr5 family=sr5-ice",
+      "value": 2
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "4runner/platinum family=platinum-hybrid",
+      "value": 2
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "c-hr/xse family=xse",
+      "value": 2
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "corolla-cross/xle family=xle-ice",
+      "value": 3
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "corolla-hatchback/fx-edition family=fx",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "highlander/xle family=xle-ice",
+      "value": 2
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "highlander/xse family=xse-ice",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "highlander/limited family=limited-ice",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "highlander/platinum family=platinum-ice",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "prius/xle family=xle-hybrid",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "prius/limited family=limited-hybrid",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "prius/phev-nightshade family=nightshade-phev",
+      "value": 3
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "prius/phev-xse-premium family=xse-premium-phev",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "rav4/hybrid-limited-awd family=limited-hybrid",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "rav4/hybrid-woodland-awd family=woodland-hybrid",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "rav4/phev-gr-sport-awd family=gr-sport-phev",
+      "value": 1
+    }
+  ],
+  "fyis": []
+}

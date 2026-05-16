@@ -1,0 +1,24 @@
+{
+  "brand": "Maserati",
+  "brand_slug": "maserati",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "model_count": 6,
+  "trim_count": 12,
+  "total_images": 48,
+  "needs_scraping": 48,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 1,
+  "warning_count": 0,
+  "fyi_count": 0,
+  "blockers": [
+    {
+      "title": "Forbidden source (topspeed.com) in sources map",
+      "where": "models[2].trims[0].sources.performance.zero_to_60_sec (grancabrio/modena)",
+      "value": "https://www.topspeed.com/maserati-introduces-entry-level-483-horsepower-grancabrio/"
+    }
+  ],
+  "warnings": [],
+  "fyis": []
+}

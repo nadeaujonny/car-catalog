@@ -1,0 +1,78 @@
+{
+  "brand_slug": "porsche",
+  "notes": "porsche.com/usa/models/<model> consumer site. Performance variants (911 GT3, GT3 RS, Turbo S, Spirit 70) live under /911/ tree. Taycan/Macan EV variants live alongside ICE. Cayenne Electric is the BEV variant. Phase B (2026-05-14): URL check found the site restructured to /usa/models/<series>/<group>-models/<model>/ (or bare /usa/models/<series>/ for the series landing page); the old <series>/<thing>-models/ family-suffix URLs now 404. Updated 14 of 16 URLs to the new pattern, all validated OK via check_urls.mjs except the 3 flagged below. taycan-cross-turismo family page is gone (404); repointed to the taycan-4-cross-turismo variant page (OK) as the representative Cross Turismo body-style page. FLAGGED FOR HUMAN REVIEW: 911-gt3-rs, 718-cayman-gt4-rs, 718-spyder-rs -- their search-confirmed canonical 3-segment URLs (.../<series>/<model>/<model>/) are real indexed pages matching the site pattern, but the checker's bot request is redirected to porsche.com/usa homepage (bot-gating on those deep RS paths). The old config URLs for these 3 were confirmed hard 404, so they were updated to the search-confirmed canonical URLs rather than left dead, but a human/browser should confirm they render.",
+  "model_pages": {
+    "911": "https://www.porsche.com/usa/models/911/",
+    "911-gt3": "https://www.porsche.com/usa/models/911/911-gt3-models/911-gt3/",
+    "911-gt3-rs": "https://www.porsche.com/usa/models/911/911-gt3-rs/911-gt3-rs/",
+    "911-turbo-s": "https://www.porsche.com/usa/models/911/911-turbo-models/911-turbo-s/",
+    "911-spirit-70": "https://www.porsche.com/usa/models/911/911-spirit-70/911-spirit-70/",
+    "718-cayman-gt4-rs": "https://www.porsche.com/usa/models/718/718-cayman-gt4-rs/718-cayman-gt4-rs/",
+    "718-spyder-rs": "https://www.porsche.com/usa/models/718/718-spyder-rs/718-spyder-rs/",
+    "taycan": "https://www.porsche.com/usa/models/taycan/",
+    "taycan-turbo-gt": "https://www.porsche.com/usa/models/taycan/taycan-models/taycan-turbo-gt/",
+    "taycan-cross-turismo": "https://www.porsche.com/usa/models/taycan/taycan-cross-turismo-models/taycan-4-cross-turismo/",
+    "panamera": "https://www.porsche.com/usa/models/panamera/",
+    "cayenne": "https://www.porsche.com/usa/models/cayenne/",
+    "cayenne-coupe": "https://www.porsche.com/usa/models/cayenne/cayenne-coupe-models/cayenne-coupe/",
+    "cayenne-electric": "https://www.porsche.com/usa/models/cayenne/cayenne-electric-models/cayenne-electric/",
+    "macan": "https://www.porsche.com/usa/models/macan/",
+    "macan-electric": "https://www.porsche.com/usa/models/macan/macan-electric-models/macan-electric/"
+  },
+  "slug_variants": {
+    "911-gt3": [
+      "911-gt3",
+      "911gt3",
+      "gt3"
+    ],
+    "911-gt3-rs": [
+      "911-gt3-rs",
+      "911gt3rs",
+      "gt3-rs"
+    ],
+    "911-turbo-s": [
+      "911-turbo-s",
+      "911turbos",
+      "turbo-s"
+    ],
+    "911-spirit-70": [
+      "911-spirit-70",
+      "spirit-70",
+      "spirit70"
+    ],
+    "718-cayman-gt4-rs": [
+      "718-cayman-gt4-rs",
+      "cayman-gt4-rs",
+      "gt4-rs"
+    ],
+    "718-spyder-rs": [
+      "718-spyder-rs",
+      "spyder-rs",
+      "spyderrs"
+    ],
+    "taycan-turbo-gt": [
+      "taycan-turbo-gt",
+      "taycanturbogt"
+    ],
+    "taycan-cross-turismo": [
+      "taycan-cross-turismo",
+      "cross-turismo",
+      "crossturismo"
+    ],
+    "cayenne-coupe": [
+      "cayenne-coupe",
+      "cayennecoupe"
+    ],
+    "cayenne-electric": [
+      "cayenne-electric",
+      "cayenneelectric",
+      "cayenne-ev"
+    ],
+    "macan-electric": [
+      "macan-electric",
+      "macanelectric",
+      "macan-ev"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

@@ -1,0 +1,83 @@
+Reset 120 image entries with needs_scraping:true to their model page URLs.
+Brand: porsche
+Models in JSON: 16
+Models with page URLs: 16
+Playwright fallback: enabled
+
+Scraping 16 model pages…
+
+  fetch https://www.porsche.com/usa/models/911/  …  static ok (0 raw candidates)
+    playwright https://www.porsche.com/usa/models/911/  …  ok (168 raw candidates)
+  fetch https://www.porsche.com/usa/models/911/911-gt3-models/911-gt3/  …  static ok (390 raw candidates)
+  fetch https://www.porsche.com/usa/models/911/911-gt3-rs/911-gt3-rs/  …  static ok (148 raw candidates)
+  fetch https://www.porsche.com/usa/models/911/911-turbo-models/911-turbo-s/  …  static ok (240 raw candidates)
+  fetch https://www.porsche.com/usa/models/911/911-spirit-70/911-spirit-70/  …  static ok (275 raw candidates)
+  fetch https://www.porsche.com/usa/models/718/718-cayman-gt4-rs/718-cayman-gt4-rs/  …  static ok (148 raw candidates)
+  fetch https://www.porsche.com/usa/models/718/718-spyder-rs/718-spyder-rs/  …  static ok (148 raw candidates)
+  fetch https://www.porsche.com/usa/models/taycan/  …  static ok (0 raw candidates)
+    playwright https://www.porsche.com/usa/models/taycan/  …  ok (128 raw candidates)
+  fetch https://www.porsche.com/usa/models/taycan/taycan-models/taycan-turbo-gt/  …  static ok (414 raw candidates)
+  fetch https://www.porsche.com/usa/models/taycan/taycan-cross-turismo-models/taycan-4-cross-turismo/  …  static ok (315 raw candidates)
+  fetch https://www.porsche.com/usa/models/panamera/  …  static ok (0 raw candidates)
+    playwright https://www.porsche.com/usa/models/panamera/  …  ok (56 raw candidates)
+  fetch https://www.porsche.com/usa/models/cayenne/  …  static ok (0 raw candidates)
+    playwright https://www.porsche.com/usa/models/cayenne/  …  ok (152 raw candidates)
+  fetch https://www.porsche.com/usa/models/cayenne/cayenne-coupe-models/cayenne-coupe/  …  static ok (282 raw candidates)
+  fetch https://www.porsche.com/usa/models/cayenne/cayenne-electric-models/cayenne-electric/  …  static ok (479 raw candidates)
+  fetch https://www.porsche.com/usa/models/macan/  …  static ok (0 raw candidates)
+    playwright https://www.porsche.com/usa/models/macan/  …  ok (72 raw candidates)
+  fetch https://www.porsche.com/usa/models/macan/macan-electric-models/macan-electric/  …  static ok (300 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          porsche
+Pages attempted:                16
+Pages failed:                   0
+Pages escalated to Playwright:  5 of 16
+  Playwright successes:         5
+  Playwright failures:          0
+Image entries rewritten:        62
+  via text/URL pattern match:   62
+  via positional fallback:      0
+Image entries unchanged:        93
+
+Sample rewrites:
+  [7.0] 911/carrera/side_profile
+        → https://images.porsche.com/f/285489813253582/5000x1485/41d2be3f2b/model-9921b2-2026-side-shot_06e74d820bdb4ff0a9521482138c2d3c.png/m/1040x309/smart/filters:format(avif)?dpl=dpl_C1AdcW6YX5eGe5ddxr4Q9XcB17WM
+  [7.0] 911/carrera-cabriolet/side_profile
+        → https://images.porsche.com/f/285489813253582/5000x1485/41d2be3f2b/model-9921b2-2026-side-shot_06e74d820bdb4ff0a9521482138c2d3c.png/m/1040x309/smart/filters:format(avif)?dpl=dpl_C1AdcW6YX5eGe5ddxr4Q9XcB17WM
+  [7.0] 911/carrera-t/side_profile
+        → https://images.porsche.com/f/285489813253582/5000x1485/41316d3310/model-992182-2026-side-shot_bf882e099bbc43188cf41be97f67c493.png/m/1040x309/smart/filters:format(avif)?dpl=dpl_C1AdcW6YX5eGe5ddxr4Q9XcB17WM
+  [7.0] 911/carrera-s/side_profile
+        → https://images.porsche.com/f/285489813253582/5000x1485/41d2be3f2b/model-9921b2-2026-side-shot_06e74d820bdb4ff0a9521482138c2d3c.png/m/1040x309/smart/filters:format(avif)?dpl=dpl_C1AdcW6YX5eGe5ddxr4Q9XcB17WM
+  [7.0] 911/carrera-s-cabriolet/side_profile
+        → https://images.porsche.com/f/285489813253582/5000x1485/41d2be3f2b/model-9921b2-2026-side-shot_06e74d820bdb4ff0a9521482138c2d3c.png/m/1040x309/smart/filters:format(avif)?dpl=dpl_C1AdcW6YX5eGe5ddxr4Q9XcB17WM
+  [7.0] 911/carrera-4s/side_profile
+        → https://images.porsche.com/f/285489813253582/5000x1485/41316d3310/model-992182-2026-side-shot_bf882e099bbc43188cf41be97f67c493.png/m/1040x309/smart/filters:format(avif)?dpl=dpl_C1AdcW6YX5eGe5ddxr4Q9XcB17WM
+  [7.0] 911/targa-4s/side_profile
+        → https://images.porsche.com/f/285489813253582/5000x1485/41d2be3f2b/model-9921b2-2026-side-shot_06e74d820bdb4ff0a9521482138c2d3c.png/m/1040x309/smart/filters:format(avif)?dpl=dpl_C1AdcW6YX5eGe5ddxr4Q9XcB17WM
+  [7.0] 911/carrera-gts/side_profile
+        → https://images.porsche.com/f/285489813253582/5000x1485/41d2be3f2b/model-9921b2-2026-side-shot_06e74d820bdb4ff0a9521482138c2d3c.png/m/1040x309/smart/filters:format(avif)?dpl=dpl_C1AdcW6YX5eGe5ddxr4Q9XcB17WM
+  [7.0] 911/carrera-gts-cabriolet/side_profile
+        → https://images.porsche.com/f/285489813253582/5000x1485/41d2be3f2b/model-9921b2-2026-side-shot_06e74d820bdb4ff0a9521482138c2d3c.png/m/1040x309/smart/filters:format(avif)?dpl=dpl_C1AdcW6YX5eGe5ddxr4Q9XcB17WM
+  [7.0] 911/targa-4-gts/side_profile
+        → https://images.porsche.com/f/285489813253582/5000x1485/41d2be3f2b/model-9921b2-2026-side-shot_06e74d820bdb4ff0a9521482138c2d3c.png/m/1040x309/smart/filters:format(avif)?dpl=dpl_C1AdcW6YX5eGe5ddxr4Q9XcB17WM
+  [9.1] 911-gt3/gt3/front_three_quarter
+        → https://a.storyblok.com/f/322327/2616x1472/2a71103546/cz25w18ox0004-911-gt3-white-side.jpg/m/1200x675/smart/filters:format(avif)?dpl=dpl_C1AdcW6YX5eGe5ddxr4Q9XcB17WM
+  [18.1] 911-gt3/gt3/side_profile
+        → https://a.storyblok.com/f/322327/2616x712/d6633ff9e2/911-gt3-side.png/m/1200x327/smart/filters:format(avif)?dpl=dpl_C1AdcW6YX5eGe5ddxr4Q9XcB17WM
+
+Models with unresolved angles:
+  911: 29 entries  (e.g. carrera/front_three_quarter, carrera/rear_three_quarter, carrera/interior_dashboard)
+  911-gt3: 2 entries  (e.g. gt3/interior_dashboard, gt3-touring/interior_dashboard)
+  911-gt3-rs: 4 entries  (e.g. gt3-rs/front_three_quarter, gt3-rs/side_profile, gt3-rs/rear_three_quarter)
+  718-cayman-gt4-rs: 4 entries  (e.g. gt4-rs/front_three_quarter, gt4-rs/side_profile, gt4-rs/rear_three_quarter)
+  718-spyder-rs: 4 entries  (e.g. spyder-rs/front_three_quarter, spyder-rs/side_profile, spyder-rs/rear_three_quarter)
+  taycan: 10 entries  (e.g. taycan/front_three_quarter, taycan/rear_three_quarter, taycan/interior_dashboard)
+  panamera: 11 entries  (e.g. panamera/front_three_quarter, panamera/rear_three_quarter, panamera/interior_dashboard)
+  cayenne: 7 entries  (e.g. cayenne/front_three_quarter, cayenne/rear_three_quarter, cayenne/interior_dashboard)
+  cayenne-coupe: 4 entries  (e.g. cayenne-coupe/rear_three_quarter, cayenne-coupe/interior_dashboard, cayenne-turbo-gt/rear_three_quarter)
+  cayenne-electric: 4 entries  (e.g. cayenne-electric/front_three_quarter, cayenne-electric/interior_dashboard, cayenne-s-electric/front_three_quarter)
+  macan: 7 entries  (e.g. macan/front_three_quarter, macan/rear_three_quarter, macan/interior_dashboard)
+  macan-electric: 7 entries  (e.g. macan-electric/front_three_quarter, macan-electric/rear_three_quarter, macan-electric/interior_dashboard)

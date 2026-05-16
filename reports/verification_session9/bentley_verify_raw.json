@@ -1,0 +1,47 @@
+{
+  "brand": "Bentley",
+  "brand_slug": "bentley",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "model_count": 5,
+  "trim_count": 22,
+  "total_images": 88,
+  "needs_scraping": 88,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 7,
+  "warning_count": 0,
+  "fyi_count": 0,
+  "blockers": [
+    {
+      "title": "msrp_base is null",
+      "where": "models[0].trims[1] (continental-gt/continental-gt-s)"
+    },
+    {
+      "title": "msrp_base is null",
+      "where": "models[0].trims[4] (continental-gt/continental-gt-azure)"
+    },
+    {
+      "title": "msrp_base is null",
+      "where": "models[1].trims[1] (continental-gtc/continental-gtc-s)"
+    },
+    {
+      "title": "msrp_base is null",
+      "where": "models[1].trims[4] (continental-gtc/continental-gtc-azure)"
+    },
+    {
+      "title": "msrp_base is null",
+      "where": "models[2].trims[3] (flying-spur/flying-spur-azure)"
+    },
+    {
+      "title": "msrp_base is null",
+      "where": "models[3].trims[2] (bentayga/bentayga-speed)"
+    },
+    {
+      "title": "msrp_base is null",
+      "where": "models[3].trims[3] (bentayga/bentayga-mulliner)"
+    }
+  ],
+  "warnings": [],
+  "fyis": []
+}

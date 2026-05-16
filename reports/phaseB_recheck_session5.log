@@ -1,0 +1,511 @@
+brand: acura   model_pages: 6
+  OK    200       integra                      https://www.acura.com/cars/integra
+  OK    200       integra-type-s               https://www.acura.com/cars/integra
+  OK    200       adx                          https://www.acura.com/suvs/adx
+  OK    200       rdx                          https://www.acura.com/suvs/rdx
+  OK    200       mdx                          https://www.acura.com/suvs/mdx
+  OK    200       mdx-type-s                   https://www.acura.com/suvs/mdx
+SUMMARY acura: 6 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: alfa-romeo   model_pages: 3
+  OK    200       giulia                       https://www.alfaromeousa.com/models/giulia
+  OK    200       stelvio                      https://www.alfaromeousa.com/models/stelvio
+  OK    200       tonale                       https://www.alfaromeousa.com/models/tonale
+SUMMARY alfa-romeo: 3 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: aston-martin   model_pages: 11
+  OK    200       vantage                      https://www.astonmartin.com/en-us/models/vantage-coupe
+  OK    200       vantage-s                    https://www.astonmartin.com/en-us/models/vantage-s
+  OK    200       vantage-roadster             https://www.astonmartin.com/en-us/models/vantage-roadster
+  OK    200       db12                         https://www.astonmartin.com/en-us/models/db12
+  OK    200       db12-s                       https://www.astonmartin.com/en-us/models/db12-s
+  OK    200       db12-volante                 https://www.astonmartin.com/en-us/models/db12-volante
+  OK    200       vanquish                     https://www.astonmartin.com/en-us/models/vanquish
+  OK    200       vanquish-volante             https://www.astonmartin.com/en-us/models/vanquish-volante
+  OK    200       dbx707                       https://www.astonmartin.com/en-us/models/dbx707
+  OK    200       dbx-s                        https://www.astonmartin.com/en-us/models/dbx-s
+  OK    200       valhalla                     https://www.astonmartin.com/en-us/models/valhalla
+SUMMARY aston-martin: 11 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: audi   model_pages: 25
+  OK    200       a3                           https://www.audiusa.com/en/models/a3/a3/2026/overview/
+  OK    200       s3                           https://www.audiusa.com/en/models/a3/s3/2026/overview/
+  OK    200       rs-3                         https://www.audiusa.com/en/models/a3/rs3-sedan/2026/overview/
+  OK    200       a5                           https://www.audiusa.com/en/models/a5/a5/2026/overview/
+  OK    200       s5                           https://www.audiusa.com/en/models/a5/s5/2026/overview/
+  OK    200       a6-sedan                     https://www.audiusa.com/en/models/a6/a6-sedan/2026/overview/
+  OK    200       a6-allroad                   https://www.audiusa.com/en/models/a6/a6-allroad/2026/overview/
+  OK    200       a8                           https://www.audiusa.com/en/models/a8/a8-sedan/2026/overview/
+  OK    200       s8                           https://www.audiusa.com/en/models/a8/s8-sedan/2026/overview/
+  OK    200       rs-6-avant                   https://www.audiusa.com/en/models/a6/rs6-avant/2026/overview/
+  OK    200       rs-7                         https://www.audiusa.com/en/models/a7/rs7/2026/overview/
+  OK    200       q3                           https://www.audiusa.com/en/models/q3/q3/2026/overview/
+  OK    200       q4-e-tron                    https://www.audiusa.com/en/models/q4/q4-e-tron/2026/overview/
+  OK    200       q4-sportback-e-tron          https://www.audiusa.com/en/models/q4/q4-sportback-e-tron/2026/overview/
+  OK    200       q5                           https://www.audiusa.com/en/models/q5/q5/2026/overview/
+  OK    200       q5-sportback                 https://www.audiusa.com/en/models/q5/q5-sportback/2026/overview/
+  OK    200       sq5                          https://www.audiusa.com/en/models/q5/sq5/2026/overview/
+  OK    200       sq5-sportback                https://www.audiusa.com/en/models/q5/sq5-sportback/2026/overview/
+  OK    200       q7                           https://www.audiusa.com/en/models/q7/q7/2026/overview/
+  OK    200       sq7                          https://www.audiusa.com/en/models/q7/sq7/2026/overview/
+  OK    200       q8                           https://www.audiusa.com/en/models/q8/q8/2026/overview/
+  OK    200       sq8                          https://www.audiusa.com/en/models/q8/sq8/2026/overview/
+  OK    200       rs-q8                        https://www.audiusa.com/en/models/q8/rsq8/2026/overview/
+  OK    200       s-e-tron-gt                  https://www.audiusa.com/en/models/e-tron-gt/s-e-tron-gt/2026/overview/
+  OK    200       rs-e-tron-gt                 https://www.audiusa.com/en/models/e-tron-gt/rs-e-tron-gt/2026/overview/
+SUMMARY audi: 25 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: bentley   model_pages: 5
+  OK    200       continental-gt               https://www.bentleymotors.com/en/models/continental-gt.html
+  OK    200       continental-gtc              https://www.bentleymotors.com/en/models/continental-gtc.html
+  OK    200       flying-spur                  https://www.bentleymotors.com/en/models/flying-spur.html
+  OK    200       bentayga                     https://www.bentleymotors.com/en/models/bentayga.html
+  OK    200       bentayga-ewb                 https://www.bentleymotors.com/en/models/bentayga/bentayga-ewb.html
+SUMMARY bentley: 5 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: bmw   model_pages: 30
+  OK    200       2-series-coupe               https://www.bmwusa.com/vehicles/2-series/2-series-coupe/bmw-2er-coupe.html
+  OK    200       2-series-gran-coupe          https://www.bmwusa.com/vehicles/2-series/bmw-gran-coupe/bmw-2-series-gran-coupe.html
+  OK    200       3-series                     https://www.bmwusa.com/vehicles/3-series/3-series-sedan/bmw-3-series-sedan.html
+  OK    200       4-series-coupe               https://www.bmwusa.com/vehicles/4-series/4-series-coupe/bmw-4-series-coupe.html
+  OK    200       4-series-convertible         https://www.bmwusa.com/vehicles/4-series/4-series-convertible/bmw-4-series-convertible.html
+  OK    200       4-series-gran-coupe          https://www.bmwusa.com/vehicles/4-series/4-series-gran-coupe/bmw-4-series-gran-coupe.html
+  OK    200       5-series                     https://www.bmwusa.com/vehicles/5-series/sedan/bmw-5-series-sedan-overview.html
+  OK    200       7-series                     https://www.bmwusa.com/vehicles/7-series/sedan/bmw-7-series-sedan.html
+  OK    200       x1                           https://www.bmwusa.com/vehicles/x-series/x1/bmw-x1.html
+  OK    200       x2                           https://www.bmwusa.com/vehicles/x-series/x2/bmw-x2-overview.html
+  OK    200       x3                           https://www.bmwusa.com/vehicles/x-series/x3/bmw-x3.html
+  OK    200       x5                           https://www.bmwusa.com/vehicles/x-series/x5/bmw-x5.html
+  OK    200       x6                           https://www.bmwusa.com/vehicles/x-series/x6/bmw-x6.html
+  OK    200       x7                           https://www.bmwusa.com/vehicles/x-series/x7/bmw-x7.html
+  OK    200       alpina-xb7                   https://www.bmwusa.com/vehicles/x-models/x7/suv/alpina.html
+  OK    200       xm                           https://www.bmwusa.com/vehicles/m-series/xm/bmw-xm.html
+  OK    200       z4                           https://www.bmwusa.com/vehicles/z-series/z4-roadster/bmw-z4-roadster.html
+  OK    200       m2                           https://www.bmwusa.com/vehicles/m-series/bmw-2-series-m-models/bmw-m2-coupe.html
+  OK    200       m3                           https://www.bmwusa.com/vehicles/m-series/m3-series/bmw-m3-sedan.html
+  OK    200       m4-coupe                     https://www.bmwusa.com/vehicles/m-series/m4-series/bmw-m4-coupe.html
+  OK    200       m4-convertible               https://www.bmwusa.com/vehicles/m-series/m4-series/bmw-m4-convertible.html
+  OK    200       m5-sedan                     https://www.bmwusa.com/vehicles/m-series/m5-series/bmw-m5-sedan.html
+  OK    200       m5-touring                   https://www.bmwusa.com/vehicles/m-series/m5-series/bmw-m5-touring.html
+  OK    200       x5-m-competition             https://www.bmwusa.com/vehicles/m-series/bmw-x5-m/bmw-x5-m-modelle.html
+  OK    200       x6-m-competition             https://www.bmwusa.com/vehicles/m-series/x6-m/bmw-x6-m-models.html
+  OK    200       i4                           https://www.bmwusa.com/vehicles/bmw-i-series/i4/bmw-i4-gran-coupe.html
+  OK    200       i5                           https://www.bmwusa.com/vehicles/bmw-i-series/i5/bmw-i5-overview.html
+  OK    200       i7                           https://www.bmwusa.com/vehicles/i-series/i7/bmw-i7-limousine.html
+  OK    200       ix                           https://www.bmwusa.com/vehicles/bmw-i-series/ix/bmw-ix.html
+  OK    200       ix3                          https://www.bmwusa.com/vehicles/x-series/ix3/bmw-ix3.html
+SUMMARY bmw: 30 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: buick   model_pages: 4
+  OK    200       encore-gx                    https://www.buick.com/suvs/encore-gx
+  OK    200       envista                      https://www.buick.com/suvs/envista
+  OK    200       envision                     https://www.buick.com/suvs/envision
+  OK    200       enclave                      https://www.buick.com/suvs/enclave
+SUMMARY buick: 4 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: cadillac   model_pages: 18
+  OK    200       ct4                          https://www.cadillac.com/sedans/ct4
+  OK    200       ct4-v                        https://www.cadillac.com/shopping/configurator/car/2026/ct4v/ct4v
+  OK    200       ct4-v-blackwing              https://www.cadillac.com/sedans/ct4-v-blackwing
+  OK    200       ct5                          https://www.cadillac.com/sedans/ct5
+  OK    200       ct5-v                        https://www.cadillac.com/shopping/configurator/car/2026/ct5v/ct5v
+  OK    200       ct5-v-blackwing              https://www.cadillac.com/sedans/ct5-v-blackwing
+  OK    200       xt5                          https://www.cadillac.com/suvs/xt5
+  OK    200       lyriq                        https://www.cadillac.com/electric/lyriq
+  OK    200       lyriq-v                      https://www.cadillac.com/electric/lyriq/v-series
+  OK    200       optiq                        https://www.cadillac.com/electric/optiq
+  OK    200       optiq-v                      https://www.cadillac.com/electric/optiq/v-series
+  OK    200       vistiq                       https://www.cadillac.com/electric/vistiq
+  OK    200       escalade-iq                  https://www.cadillac.com/electric/escalade-iq
+  OK    200       escalade-iql                 https://www.cadillac.com/electric/escalade-iql
+  OK    200       escalade                     https://www.cadillac.com/suvs/escalade
+  OK    200       escalade-esv                 https://www.cadillac.com/suvs/escalade
+  OK    200       escalade-v                   https://www.cadillac.com/suvs/escalade/v-series
+  OK    200       celestiq                     https://www.cadillac.com/electric/celestiq
+SUMMARY cadillac: 18 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: chevrolet   model_pages: 18
+  OK    200       trax                         https://www.chevrolet.com/suvs/trax
+  OK    200       trailblazer                  https://www.chevrolet.com/suvs/trailblazer
+  OK    200       equinox                      https://www.chevrolet.com/suvs/equinox
+  OK    200       equinox-ev                   https://www.chevrolet.com/electric/equinox-ev
+  OK    200       blazer                       https://www.chevrolet.com/suvs/blazer
+  OK    200       blazer-ev                    https://www.chevrolet.com/electric/blazer-ev
+  OK    200       traverse                     https://www.chevrolet.com/suvs/traverse
+  OK    200       tahoe                        https://www.chevrolet.com/suvs/tahoe
+  OK    200       suburban                     https://www.chevrolet.com/suvs/suburban
+  OK    200       colorado                     https://www.chevrolet.com/trucks/colorado
+  OK    200       silverado-1500               https://www.chevrolet.com/trucks/silverado/1500
+  OK    200       silverado-hd                 https://www.chevrolet.com/trucks/silverado/2500hd-3500hd
+  OK    200       silverado-ev                 https://www.chevrolet.com/electric/silverado-ev
+  OK    200       corvette-stingray            https://www.chevrolet.com/performance/corvette/stingray
+  OK    200       corvette-e-ray               https://www.chevrolet.com/performance/corvette/e-ray
+  OK    200       corvette-z06                 https://www.chevrolet.com/performance/corvette/z06
+  OK    200       corvette-zr1                 https://www.chevrolet.com/performance/corvette/zr1
+  OK    200       corvette-zr1x                https://www.chevrolet.com/performance/corvette/zr1x
+SUMMARY chevrolet: 18 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: ferrari   model_pages: 12
+  OK    200       roma-spider                  https://www.ferrari.com/en-EN/auto/ferrari-roma-spider
+  OK    200       amalfi                       https://www.ferrari.com/en-EN/auto/ferrari-amalfi
+  OK    200       296-gtb                      https://www.ferrari.com/en-EN/auto/296-gtb
+  OK    200       296-gts                      https://www.ferrari.com/en-EN/auto/296-gts
+  OK    200       296-speciale                 https://www.ferrari.com/en-EN/auto/296-speciale
+  OK    200       296-speciale-a               https://www.ferrari.com/en-EN/auto/296-speciale-a
+  OK    200       12cilindri                   https://www.ferrari.com/en-EN/auto/ferrari-12cilindri
+  OK    200       12cilindri-spider            https://www.ferrari.com/en-EN/auto/ferrari-12cilindri-spider
+  OK    200       849-testarossa               https://www.ferrari.com/en-EN/auto/849-testarossa
+  OK    200       849-testarossa-spider        https://www.ferrari.com/en-EN/auto/849-testarossa-spider
+  OK    200       purosangue                   https://www.ferrari.com/en-EN/auto/ferrari-purosangue
+  OK    200       f80                          https://www.ferrari.com/en-EN/auto/f80
+SUMMARY ferrari: 12 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: ford   model_pages: 22
+  OK    200       mustang                      https://www.ford.com/cars/mustang/
+  OK    200       mustang-dark-horse           https://www.ford.com/cars/mustang/models/dark-horse/
+  OK    200       mustang-dark-horse-sc        https://www.ford.com/cars/mustang/models/dark-horse-sc/
+  OK    200       mustang-gtd                  https://www.ford.com/performance/mustang-gtd/
+  OK    200       mustang-mach-e               https://www.ford.com/suvs/mach-e/
+  OK    200       mustang-mach-e-rally         https://www.ford.com/suvs/mach-e/models/rally/
+  OK    200       bronco-sport                 https://www.ford.com/suvs/bronco-sport/
+  OK    200       bronco                       https://www.ford.com/suvs/bronco/
+  OK    200       bronco-raptor                https://www.ford.com/suvs/bronco/models/raptor/
+  OK    200       escape                       https://www.ford.com/suvs-crossovers/escape/
+  OK    200       explorer                     https://www.ford.com/suvs/explorer/
+  OK    200       expedition                   https://www.ford.com/suvs/expedition/
+  OK    200       maverick                     https://www.ford.com/trucks/maverick/
+  OK    200       ranger                       https://www.ford.com/trucks/ranger/
+  OK    200       ranger-raptor                https://www.ford.com/trucks/ranger/models/raptor/
+  OK    200       f-150                        https://www.ford.com/trucks/f150/
+  OK    200       f-150-raptor                 https://www.ford.com/trucks/f150/models/raptor/
+  OK    200       f-150-raptor-r               https://www.ford.com/trucks/f150/models/raptor/
+  OK    200       f-150-lightning              https://www.ford.com/trucks/f150-lightning/
+  OK    200       f-250-super-duty             https://www.ford.com/trucks/super-duty/f-250/
+  OK    200       f-350-super-duty             https://www.ford.com/trucks/super-duty/f-350/
+  OK    200       f-450-super-duty             https://www.ford.com/trucks/super-duty/f-450/
+SUMMARY ford: 22 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: gmc   model_pages: 10
+  OK    200       sierra-1500                  https://www.gmc.com/trucks/sierra/1500
+  OK    200       sierra-hd                    https://www.gmc.com/trucks/sierra/2500hd-3500hd
+  OK    200       canyon                       https://www.gmc.com/trucks/canyon
+  OK    200       sierra-ev                    https://www.gmc.com/electric/sierra-ev
+  OK    200       yukon                        https://www.gmc.com/suvs/yukon
+  OK    200       yukon-xl                     https://www.gmc.com/suvs/yukon
+  OK    200       terrain                      https://www.gmc.com/suvs/terrain
+  OK    200       acadia                       https://www.gmc.com/suvs/acadia
+  OK    200       hummer-ev-pickup             https://www.gmc.com/electric/hummer-ev/pickup-truck
+  OK    200       hummer-ev-suv                https://www.gmc.com/electric/hummer-ev/suv
+SUMMARY gmc: 10 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: genesis   model_pages: 8
+  OK    200       g70                          https://www.genesis.com/us/en/g70
+  OK    200       g80                          https://www.genesis.com/us/en/g80
+  OK    200       g90                          https://www.genesis.com/us/en/g90
+  OK    200       gv60                         https://www.genesis.com/us/en/gv60
+  OK    200       gv70                         https://www.genesis.com/us/en/gv70
+  OK    200       electrified-gv70             https://www.genesis.com/us/en/electrified-gv70
+  OK    200       gv80                         https://www.genesis.com/us/en/gv80
+  OK    200       gv80-coupe                   https://www.genesis.com/us/en/gv80-coupe
+SUMMARY genesis: 8 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: honda   model_pages: 13
+  OK    200       civic                        https://automobiles.honda.com/civic-sedan
+  OK    200       civic-hatchback              https://automobiles.honda.com/civic-hatchback
+  OK    200       civic-si                     https://automobiles.honda.com/civic-si-sedan
+  OK    200       civic-type-r                 https://automobiles.honda.com/civic-type-r
+  OK    200       accord                       https://automobiles.honda.com/accord-sedan
+  OK    200       prelude                      https://automobiles.honda.com/prelude
+  OK    200       hr-v                         https://automobiles.honda.com/2026/hr-v
+  OK    200       cr-v                         https://automobiles.honda.com/cr-v
+  OK    200       passport                     https://automobiles.honda.com/passport
+  OK    200       pilot                        https://automobiles.honda.com/pilot
+  OK    200       prologue                     https://automobiles.honda.com/prologue
+  OK    200       ridgeline                    https://automobiles.honda.com/ridgeline
+  OK    200       odyssey                      https://automobiles.honda.com/odyssey
+SUMMARY honda: 13 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: hyundai   model_pages: 14
+  OK    200       venue                        https://www.hyundaiusa.com/us/en/vehicles/venue
+  OK    200       elantra                      https://www.hyundaiusa.com/us/en/vehicles/elantra
+  OK    200       elantra-n                    https://www.hyundaiusa.com/us/en/vehicles/elantra-n
+  OK    200       sonata                       https://www.hyundaiusa.com/us/en/vehicles/sonata
+  OK    200       kona                         https://www.hyundaiusa.com/us/en/vehicles/kona
+  OK    200       tucson                       https://www.hyundaiusa.com/us/en/vehicles/tucson
+  OK    200       santa-cruz                   https://www.hyundaiusa.com/us/en/vehicles/santa-cruz
+  OK    200       santa-fe                     https://www.hyundaiusa.com/us/en/vehicles/santa-fe
+  OK    200       palisade                     https://www.hyundaiusa.com/us/en/vehicles/palisade
+  OK    200       ioniq-5                      https://www.hyundaiusa.com/us/en/vehicles/ioniq-5
+  OK    200       ioniq-5-n                    https://www.hyundaiusa.com/us/en/vehicles/ioniq-5-n
+  OK    200       ioniq-6-n                    https://www.hyundaiusa.com/us/en/vehicles/ioniq-6-n
+  OK    200       ioniq-9                      https://www.hyundaiusa.com/us/en/vehicles/ioniq-9
+  OK    200       nexo                         https://www.hyundainews.com/models/hyundai-nexo-2026-nexo/overview
+SUMMARY hyundai: 14 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: infiniti   model_pages: 2
+  OK    200       qx60                         https://www.infinitiusa.com/vehicles/crossovers/qx60.html
+  OK    200       qx80                         https://www.infinitiusa.com/vehicles/suvs/qx80.html
+SUMMARY infiniti: 2 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: jaguar   model_pages: 1
+  OK    200       f-pace                       https://www.jaguar.com/en-us/jdx/all-models/f-pace/models/index.html
+SUMMARY jaguar: 1 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: jeep   model_pages: 12
+  OK    200       wrangler                     https://www.jeep.com/wrangler.html
+  REDIR 200       wrangler-4xe                 https://www.jeep.com/wrangler/wrangler-4xe.html
+         -> final: https://www.jeep.com/wrangler.html
+  OK    200       wrangler-moab-392            https://www.jeep.com/twelve4twelve/wrangler-moab-392.html
+  OK    200       gladiator                    https://www.jeep.com/gladiator.html
+  OK    200       grand-cherokee               https://www.jeep.com/grand-cherokee.html
+  OK    200       grand-cherokee-l             https://www.jeep.com/grand-cherokee/3-row-suv.html
+  REDIR 200       grand-cherokee-4xe           https://www.jeep.com/2026/grand-cherokee/grand-cherokee-4xe.html
+         -> final: https://www.jeep.com/grand-cherokee.html
+  OK    200       compass                      https://www.jeep.com/compass.html
+  OK    200       cherokee                     https://www.jeep.com/cherokee.html
+  OK    200       grand-wagoneer               https://www.jeep.com/wagoneer/grand-wagoneer.html
+  OK    200       grand-wagoneer-l             https://www.jeep.com/wagoneer/grand-wagoneer.html
+  OK    200       recon                        https://www.jeep.com/recon.html
+SUMMARY jeep: 10 ok, 2 redir, 0 dead, 0 gated, 0 flag
+brand: kia   model_pages: 16
+  OK    200       k4                           https://www.kia.com/us/en/k4
+  OK    200       k4-hatchback                 https://www.kia.com/us/en/k4-hatchback
+  OK    200       k5                           https://www.kia.com/us/en/k5
+  OK    200       seltos                       https://www.kia.com/us/en/seltos
+  OK    200       sportage                     https://www.kia.com/us/en/sportage
+  OK    200       sportage-hybrid              https://www.kia.com/us/en/sportage-hybrid
+  OK    200       sportage-plug-in-hybrid      https://www.kia.com/us/en/sportage-plug-in-hybrid
+  OK    200       sorento                      https://www.kia.com/us/en/sorento
+  OK    200       sorento-hybrid               https://www.kia.com/us/en/sorento-hybrid
+  OK    200       sorento-plug-in-hybrid       https://www.kia.com/us/en/sorento-plug-in-hybrid
+  OK    200       carnival                     https://www.kia.com/us/en/carnival-mpv
+  OK    200       carnival-hybrid              https://www.kia.com/us/en/carnival-mpv-hybrid
+  OK    200       niro-hybrid                  https://www.kia.com/us/en/niro
+  OK    200       niro-ev                      https://www.kia.com/us/en/niro-ev
+  OK    200       ev6                          https://www.kia.com/us/en/ev6
+  OK    200       ev9                          https://www.kia.com/us/en/ev9
+SUMMARY kia: 16 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: lamborghini   model_pages: 3
+  OK    200       revuelto                     https://www.lamborghini.com/en-en/models/revuelto
+  OK    200       temerario                    https://www.lamborghini.com/en-en/models/temerario
+  OK    200       urus-se                      https://www.lamborghini.com/en-en/models/urus/urus-se
+SUMMARY lamborghini: 3 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: land-rover   model_pages: 11
+  OK    200       defender-90                  https://www.landroverusa.com/defender/defender-90/index.html
+  OK    200       defender-110                 https://www.landroverusa.com/defender/defender-110/index.html
+  OK    200       defender-130                 https://www.landroverusa.com/defender/defender-130/index.html
+  OK    200       defender-octa                https://www.landroverusa.com/defender/defender-octa/index.html
+  OK    200       discovery                    https://www.landroverusa.com/discovery/index.html
+  OK    200       discovery-sport              https://www.landroverusa.com/discovery/discovery-sport/index.html
+  OK    200       range-rover                  https://www.rangerover.com/en-us/range-rover/index.html
+  OK    200       range-rover-sport            https://www.rangerover.com/en-us/range-rover-sport/index.html
+  OK    200       range-rover-sport-sv         https://www.rangerover.com/en-us/range-rover-sport/sv.html
+  OK    200       range-rover-velar            https://www.rangerover.com/en-us/range-rover-velar/index.html
+  OK    200       range-rover-evoque           https://www.rangerover.com/en-us/range-rover-evoque/index.html
+SUMMARY land-rover: 11 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: lexus   model_pages: 11
+  OK    200       is                           https://www.lexus.com/models/IS
+  OK    200       es                           https://www.lexus.com/models/ES
+  OK    200       ls                           https://www.lexus.com/models/LS
+  OK    200       lc                           https://www.lexus.com/models/LC
+  OK    200       nx                           https://www.lexus.com/models/NX
+  OK    200       rx                           https://www.lexus.com/models/RX
+  OK    200       gx                           https://www.lexus.com/models/GX
+  OK    200       lx                           https://www.lexus.com/models/LX
+  OK    200       tx                           https://www.lexus.com/models/TX
+  OK    200       ux                           https://www.lexus.com/models/UX-hybrid
+  OK    200       rz                           https://www.lexus.com/models/RZ
+SUMMARY lexus: 11 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: lotus   model_pages: 3
+  OK    200       emira                        https://www.lotuscars.com/en-US/emira
+  OK    200       eletre                       https://www.lotuscars.com/en-US/eletre
+  OK    200       emeya                        https://www.lotuscars.com/en-US/emeya
+SUMMARY lotus: 3 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: lucid   model_pages: 2
+  OK    200       air                          https://lucidmotors.com/air
+  OK    200       gravity                      https://lucidmotors.com/gravity
+SUMMARY lucid: 2 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: maserati   model_pages: 6
+  OK    200       grecale                      https://www.maserati.com/us/en/models/grecale
+  OK    200       granturismo                  https://www.maserati.com/us/en/models/granturismo
+  OK    200       grancabrio                   https://www.maserati.com/us/en/models/grancabrio
+  OK    200       mcpura                       https://www.maserati.com/us/en/models/mcpura
+  OK    200       mcpura-cielo                 https://www.maserati.com/us/en/models/mcpura-cielo
+  OK    200       gt2-stradale                 https://www.maserati.com/us/en/models/gt2-stradale
+SUMMARY maserati: 6 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: mazda   model_pages: 12
+  OK    200       mazda3-sedan                 https://www.mazdausa.com/vehicles/mazda3-sedan
+  OK    200       mazda3-hatchback             https://www.mazdausa.com/vehicles/mazda3-hatchback
+  OK    200       cx-30                        https://www.mazdausa.com/vehicles/cx-30
+  OK    200       cx-5                         https://www.mazdausa.com/vehicles/cx-5
+  OK    200       cx-50                        https://www.mazdausa.com/vehicles/cx-50
+  OK    200       cx-50-hybrid                 https://www.mazdausa.com/vehicles/cx-50-hybrid
+  OK    200       cx-70                        https://www.mazdausa.com/vehicles/cx-70
+  OK    200       cx-70-phev                   https://www.mazdausa.com/vehicles/cx-70-phev
+  OK    200       cx-90                        https://www.mazdausa.com/vehicles/cx-90
+  OK    200       cx-90-phev                   https://www.mazdausa.com/vehicles/cx-90-phev
+  OK    200       mx-5-miata                   https://www.mazdausa.com/vehicles/mx-5-miata
+  OK    200       mx-5-miata-rf                https://www.mazdausa.com/vehicles/mx-5-miata-rf
+SUMMARY mazda: 12 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: mclaren   model_pages: 6
+  OK    200       artura                       https://cars.mclaren.com/us_en/artura
+  OK    200       artura-spider                https://cars.mclaren.com/us_en/artura-spider
+  OK    200       750s                         https://cars.mclaren.com/us_en/750s
+  OK    200       750s-spider                  https://cars.mclaren.com/us_en/750s-spider
+  OK    200       750s-le-mans-special-edition https://cars.mclaren.com/us_en/750s-le-mans-special-edition
+  OK    200       gts                          https://cars.mclaren.com/us_en/gts
+SUMMARY mclaren: 6 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: mercedes-benz   model_pages: 25
+  OK    200       cla                          https://www.mbusa.com/en/vehicles/class/cla/sedan
+  OK    200       c-class                      https://www.mbusa.com/en/vehicles/class/c-class/sedan
+  OK    200       cle-coupe                    https://www.mbusa.com/en/vehicles/class/cle/coupe
+  OK    200       cle-cabriolet                https://www.mbusa.com/en/vehicles/class/cle/cabriolet
+  OK    200       e-class-sedan                https://www.mbusa.com/en/vehicles/class/e-class/sedan
+  OK    200       e-class-wagon                https://www.mbusa.com/en/vehicles/class/e-class/wagon
+  OK    200       s-class                      https://www.mbusa.com/en/vehicles/class/s-class/sedan
+  OK    200       maybach-s-class              https://www.mbusa.com/en/vehicles/class/maybach-s-class/sedan
+  OK    200       amg-gt-coupe                 https://www.mbusa.com/en/vehicles/class/amg-gt-2-door/mercedes-amg-gt-2-door-coupe
+  OK    200       amg-gt-4-door-coupe          https://www.mbusa.com/en/vehicles/class/amg-gt-4-door/mercedes-amg-gt-4-door-coupe
+  OK    200       sl-roadster                  https://www.mbusa.com/en/vehicles/class/sl/roadster
+  OK    200       gla-suv                      https://www.mbusa.com/en/vehicles/class/gla/suv
+  OK    200       glb-suv                      https://www.mbusa.com/en/vehicles/class/glb/suv
+  OK    200       glc-suv                      https://www.mbusa.com/en/vehicles/class/glc/suv
+  OK    200       glc-coupe                    https://www.mbusa.com/en/vehicles/class/glc/coupe
+  OK    200       gle-suv                      https://www.mbusa.com/en/vehicles/class/gle/suv
+  OK    200       gle-coupe                    https://www.mbusa.com/en/vehicles/class/gle/coupe
+  OK    200       gls-suv                      https://www.mbusa.com/en/vehicles/class/gls/suv
+  OK    200       maybach-gls                  https://www.mbusa.com/en/vehicles/class/maybach-gls/suv
+  OK    200       g-class                      https://www.mbusa.com/en/vehicles/class/g-class/suv
+  OK    200       eqe-sedan                    https://www.mbusa.com/en/vehicles/class/eqe/sedan
+  OK    200       eqe-suv                      https://www.mbusa.com/en/vehicles/class/eqe/suv
+  OK    200       eqs-sedan                    https://www.mbusa.com/en/vehicles/class/eqs/sedan
+  OK    200       eqs-suv                      https://www.mbusa.com/en/vehicles/class/eqs/suv
+  OK    200       maybach-eqs-suv              https://www.mbusa.com/en/vehicles/class/maybach-eqs/suv
+SUMMARY mercedes-benz: 25 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: mini   model_pages: 7
+  OK    200       cooper-hardtop-2-door        https://www.miniusa.com/model/2-door.html
+  OK    200       cooper-hardtop-4-door        https://www.miniusa.com/model/4-door.html
+  OK    200       cooper-convertible           https://www.miniusa.com/model/convertible.html
+  OK    200       jcw-2-door                   https://www.miniusa.com/model/john-cooper-works/2-door.html
+  OK    200       jcw-convertible              https://www.miniusa.com/model/john-cooper-works/convertible.html
+  OK    200       countryman                   https://www.miniusa.com/model/countryman.html
+  OK    200       jcw-countryman-all4          https://www.miniusa.com/model/john-cooper-works/countryman.html
+SUMMARY mini: 7 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: mitsubishi   model_pages: 4
+  OK    200       outlander                    https://www.mitsubishicars.com/cars-and-suvs/outlander
+  OK    200       outlander-phev               https://www.mitsubishicars.com/cars-and-suvs/outlander-phev
+  OK    200       outlander-sport              https://www.mitsubishicars.com/cars-and-suvs/outlander-sport
+  OK    200       eclipse-cross                https://www.mitsubishicars.com/cars-and-suvs/eclipse-cross
+SUMMARY mitsubishi: 4 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: nissan   model_pages: 13
+  OK    200       sentra                       https://www.nissanusa.com/vehicles/cars/sentra.html
+  OK    200       altima                       https://www.nissanusa.com/vehicles/cars/altima.html
+  OK    200       z                            https://www.nissanusa.com/vehicles/sports-cars/nissan-z.html
+  OK    200       z-nismo                      https://www.nissanusa.com/vehicles/sports-cars/nissan-z/nismo.html
+  OK    200       leaf                         https://www.nissanusa.com/vehicles/electric-cars/leaf.html
+  OK    200       kicks                        https://www.nissanusa.com/vehicles/crossovers-suvs/kicks.html
+  OK    200       rogue                        https://www.nissanusa.com/vehicles/crossovers-suvs/rogue.html
+  OK    200       rogue-plug-in-hybrid         https://www.nissanusa.com/vehicles/crossovers-suvs/rogue-plug-in-hybrid.html
+  OK    200       murano                       https://www.nissanusa.com/vehicles/crossovers-suvs/murano.html
+  OK    200       pathfinder                   https://www.nissanusa.com/vehicles/crossovers-suvs/pathfinder.html
+  OK    200       armada                       https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html
+  OK    200       armada-nismo                 https://www.nissanusa.com/vehicles/crossovers-suvs/armada/nismo.html
+  OK    200       frontier                     https://www.nissanusa.com/vehicles/trucks/frontier.html
+SUMMARY nissan: 13 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: polestar   model_pages: 2
+  OK    200       polestar-3                   https://www.polestar.com/us/polestar-3/
+  OK    200       polestar-4                   https://www.polestar.com/us/polestar-4-models/polestar-4-coupe/
+SUMMARY polestar: 2 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: porsche   model_pages: 16
+  OK    200       911                          https://www.porsche.com/usa/models/911/
+  OK    200       911-gt3                      https://www.porsche.com/usa/models/911/911-gt3-models/911-gt3/
+  REDIR 200       911-gt3-rs                   https://www.porsche.com/usa/models/911/911-gt3-rs/911-gt3-rs/
+         -> final: https://www.porsche.com/usa/
+  OK    200       911-turbo-s                  https://www.porsche.com/usa/models/911/911-turbo-models/911-turbo-s/
+  OK    200       911-spirit-70                https://www.porsche.com/usa/models/911/911-spirit-70/911-spirit-70/
+  REDIR 200       718-cayman-gt4-rs            https://www.porsche.com/usa/models/718/718-cayman-gt4-rs/718-cayman-gt4-rs/
+         -> final: https://www.porsche.com/usa/
+  REDIR 200       718-spyder-rs                https://www.porsche.com/usa/models/718/718-spyder-rs/718-spyder-rs/
+         -> final: https://www.porsche.com/usa/
+  OK    200       taycan                       https://www.porsche.com/usa/models/taycan/
+  OK    200       taycan-turbo-gt              https://www.porsche.com/usa/models/taycan/taycan-models/taycan-turbo-gt/
+  OK    200       taycan-cross-turismo         https://www.porsche.com/usa/models/taycan/taycan-cross-turismo-models/taycan-4-cross-turismo/
+  OK    200       panamera                     https://www.porsche.com/usa/models/panamera/
+  OK    200       cayenne                      https://www.porsche.com/usa/models/cayenne/
+  OK    200       cayenne-coupe                https://www.porsche.com/usa/models/cayenne/cayenne-coupe-models/cayenne-coupe/
+  OK    200       cayenne-electric             https://www.porsche.com/usa/models/cayenne/cayenne-electric-models/cayenne-electric/
+  OK    200       macan                        https://www.porsche.com/usa/models/macan/
+  OK    200       macan-electric               https://www.porsche.com/usa/models/macan/macan-electric-models/macan-electric/
+SUMMARY porsche: 13 ok, 3 redir, 0 dead, 0 gated, 0 flag
+brand: ram   model_pages: 3
+  OK    200       ram-1500                     https://www.ramtrucks.com/ram-1500.html
+  OK    200       ram-2500                     https://www.ramtrucks.com/ram-2500.html
+  OK    200       ram-3500                     https://www.ramtrucks.com/ram-3500.html
+SUMMARY ram: 3 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: rivian   model_pages: 3
+  OK    200       r1t                          https://rivian.com/r1t
+  OK    200       r1s                          https://rivian.com/r1s
+  OK    200       r2                           https://rivian.com/r2
+SUMMARY rivian: 3 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: rolls-royce   model_pages: 7
+  OK    200       phantom                      https://www.rolls-roycemotorcars.com/en_US/showroom/phantom.html
+  OK    200       ghost                        https://www.rolls-roycemotorcars.com/en_US/showroom/ghost.html
+  OK    200       ghost-black-badge            https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-ghost.html
+  OK    200       spectre                      https://www.rolls-roycemotorcars.com/en_US/showroom/spectre.html
+  OK    200       spectre-black-badge          https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-spectre.html
+  OK    200       cullinan                     https://www.rolls-roycemotorcars.com/en_US/showroom/cullinan.html
+  OK    200       cullinan-black-badge         https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-cullinan.html
+SUMMARY rolls-royce: 7 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: subaru   model_pages: 10
+  OK    200       impreza                      https://www.subaru.com/vehicles/impreza
+  OK    200       crosstrek                    https://www.subaru.com/vehicles/crosstrek
+  OK    200       forester                     https://www.subaru.com/vehicles/forester
+  OK    200       outback                      https://www.subaru.com/vehicles/outback
+  OK    200       ascent                       https://www.subaru.com/vehicles/ascent
+  OK    200       brz                          https://www.subaru.com/vehicles/brz
+  OK    200       wrx                          https://www.subaru.com/vehicles/wrx
+  OK    200       solterra                     https://www.subaru.com/vehicles/solterra
+  OK    200       trailseeker                  https://www.subaru.com/vehicles/trailseeker
+  OK    200       uncharted                    https://www.subaru.com/vehicles/uncharted
+SUMMARY subaru: 10 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: tesla   model_pages: 10
+  OK    200       model-3                      https://www.tesla.com/model3
+  OK    200       model-3-performance          https://www.tesla.com/model3
+  OK    200       model-y                      https://www.tesla.com/modely
+  OK    200       model-y-performance          https://www.tesla.com/modely
+  OK    200       model-s                      https://www.tesla.com/models
+  OK    200       model-s-plaid                https://www.tesla.com/models
+  OK    200       model-x                      https://www.tesla.com/modelx
+  OK    200       model-x-plaid                https://www.tesla.com/modelx
+  OK    200       cybertruck                   https://www.tesla.com/cybertruck
+  OK    200       cybertruck-cyberbeast        https://www.tesla.com/cybertruck
+SUMMARY tesla: 10 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: toyota   model_pages: 23
+  OK    200       camry                        https://www.toyota.com/camry/
+  OK    200       corolla                      https://www.toyota.com/corolla/
+  OK    200       corolla-hatchback            https://www.toyota.com/corollahatchback/
+  OK    200       crown                        https://www.toyota.com/crown/
+  OK    200       crown-signia                 https://www.toyota.com/crownsignia/
+  OK    200       mirai                        https://www.toyota.com/mirai/
+  OK    200       prius                        https://www.toyota.com/prius/
+  OK    200       4runner                      https://www.toyota.com/4runner/
+  OK    200       bz                           https://www.toyota.com/bz/
+  OK    200       bz-woodland                  https://www.toyota.com/bzwoodland/
+  OK    200       c-hr                         https://www.toyota.com/c-hr/
+  OK    200       corolla-cross                https://www.toyota.com/corollacross/
+  OK    200       grand-highlander             https://www.toyota.com/grandhighlander/
+  OK    200       highlander                   https://www.toyota.com/highlander/
+  OK    200       land-cruiser                 https://www.toyota.com/landcruiser/
+  OK    200       rav4                         https://www.toyota.com/rav4/
+  OK    200       sequoia                      https://www.toyota.com/sequoia/
+  OK    200       sienna                       https://www.toyota.com/sienna/
+  OK    200       tacoma                       https://www.toyota.com/tacoma/
+  OK    200       tundra                       https://www.toyota.com/tundra/
+  OK    200       gr-corolla                   https://www.toyota.com/grcorolla/
+  OK    200       gr-supra                     https://www.toyota.com/grsupra/
+  OK    200       gr86                         https://www.toyota.com/gr86/
+SUMMARY toyota: 23 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: volkswagen   model_pages: 9
+  OK    200       jetta                        https://www.vw.com/en/models/jetta.html
+  OK    200       jetta-gli                    https://www.vw.com/en/models/jetta-gli.html
+  OK    200       golf-gti                     https://www.vw.com/en/models/golf-gti.html
+  OK    200       golf-r                       https://www.vw.com/en/models/golf-r.html
+  OK    200       taos                         https://www.vw.com/en/models/taos.html
+  OK    200       tiguan                       https://www.vw.com/en/models/tiguan.html
+  OK    200       atlas                        https://www.vw.com/en/models/atlas.html
+  OK    200       atlas-cross-sport            https://www.vw.com/en/models/atlas-cross-sport.html
+  OK    200       id-4                         https://www.vw.com/en/models/id-4.html
+SUMMARY volkswagen: 9 ok, 0 redir, 0 dead, 0 gated, 0 flag
+brand: volvo   model_pages: 8
+  OK    200       xc40                         https://www.volvocars.com/us/cars/xc40/
+  OK    200       xc60                         https://www.volvocars.com/us/cars/xc60/
+  OK    200       xc90                         https://www.volvocars.com/us/cars/xc90/
+  OK    200       v60-cross-country            https://www.volvocars.com/us/cars/v60-cross-country/
+  OK    200       ex30                         https://www.volvocars.com/us/cars/ex30-electric/
+  OK    200       ex40                         https://www.volvocars.com/us/cars/ex40-electric/
+  OK    200       ex90                         https://www.volvocars.com/us/cars/ex90-electric/
+  DEAD  404       es90                         https://www.volvocars.com/us/cars/es90/
+SUMMARY volvo: 7 ok, 0 redir, 1 dead, 0 gated, 0 flag

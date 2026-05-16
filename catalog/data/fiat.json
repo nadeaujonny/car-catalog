@@ -1,0 +1,389 @@
+{
+  "brand": "Fiat",
+  "brand_slug": "fiat",
+  "researched_at": "2026-05-15",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "500e",
+      "model_slug": "500e",
+      "model_year": 2026,
+      "body_style": "hatchback",
+      "generation_context": "Third-generation 500e (Type 332), introduced in Europe for MY2020 and in the US for MY2024; built at Stellantis' Mirafiori Assembly in Turin. For 2026 the US lineup is simplified to two trims (Pop, Icona) replacing the prior 'INSPI(RED)' / 'Inspired By' family; MY26 also adds Miami Sunset paint, makes Pop's body-color dashboard standard, and rolls out NACS-CCS1 adapter compatibility for Tesla V3/V4 Supercharger access (model years 2024-2026).",
+      "msrp_range": {
+        "low": 35700,
+        "high": 37700
+      },
+      "model_summary": "The 500e is Fiat's only US-market model: a two-door minicompact battery-electric hatchback with a 42 kWh battery, 117-hp front-mounted motor, and EPA-rated range of 149 miles on standard low-rolling-resistance tires. Two trims are offered for 2026 (Pop and Icona); both share the same powertrain, dimensions, and core ADAS, with Icona adding vegan leather, heated front seats, blind-spot monitoring, adaptive cruise control with lane centering, and parking sensors. CCS1 fast charging remains the native port; a Free2move-supplied NACS adapter enables Tesla Supercharger access.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power does not publish a Vehicle Dependability Study score for the Fiat 500e because Fiat US sample size falls below the study threshold. Consumer Reports does not assign a numeric predicted-reliability score for the 2025 (or 2026) 500e due to insufficient subscriber sample size, but states it expects the model to be 'less reliable than other new cars' based on Fiat brand history and segment EV trends. No current-MY numeric reliability score is publicly published.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/fiat/500e",
+          "https://www.consumerreports.org/cars/fiat/500e/2025/reliability/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Fiat 500e or for the Fiat brand overall.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/fiat/500e"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently praise the 500e for distinctive Italian-Cinquecento styling, zippy city responsiveness, a tight turning radius for urban parking, and a tasteful Uconnect 5 interior with wireless CarPlay/Android Auto. Common critiques cite the 149-mile EPA range as well below segment leaders, the $35,700 starting MSRP (a $5,200 increase over the outgoing 'INSPI(RED)' base) being hard to justify against larger EVs after federal incentives, and a back seat that is essentially symbolic for adults. The MY26 NACS adapter rollout addresses the prior charging-network gap.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/car-news/2024-fiat-500e-first-drive-review.html",
+            "date": "2024-04-15"
+          },
+          {
+            "publication": "JD Power",
+            "url": "https://www.jdpower.com/cars/expert-reviews/2024-fiat-500e-review",
+            "date": "2024-06-01"
+          },
+          {
+            "publication": "TFLcar",
+            "url": "https://tflcar.com/2026/04/2026-fiat-500e-updates-news/",
+            "date": "2026-04-28"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": 5,
+        "edmunds_sample_size": 3,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds owner reviews for the current-generation 500e (2024-2026) average 5/5 across a very small sample of three reviews. Owners praise the city-EV character, low operating costs, and easy parking; common gripes echo the professional reviews — short range and a price premium over what shoppers feel the small footprint warrants. KBB owner-review aggregate data was not published for the 2025/2026 MY at time of research.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/fiat/500e/2025/consumer-reviews/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Pop",
+          "trim_slug": "pop",
+          "trim_family": "500e",
+          "is_base_trim": true,
+          "msrp_base": 35700,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 117,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 162,
+            "transmission": "single-speed automatic (9.6:1 gear ratio)",
+            "transmission_speeds": 1,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 42,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 149,
+            "total_range_mi": 149,
+            "dc_fast_charge_peak_kw": 85,
+            "dc_fast_charge_10_to_80_min": 35,
+            "ac_charge_kw": 11,
+            "mpge_combined": 116,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 127,
+            "highway_mpg": 104,
+            "combined_mpg": 116,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 650
+          },
+          "performance": {
+            "zero_to_60_sec": 8.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 94,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 142.95,
+            "width_in": 64.1,
+            "height_in": 66.3,
+            "wheelbase_in": 91.4,
+            "ground_clearance_in": 4.5,
+            "curb_weight_lb": 2952,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 7.5,
+              "behind_1st_row": 26.3,
+              "max_with_seats_folded": 26.3,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "17 x 6.5 in. diamond-cut aluminum; 205/45R17 low-rolling-resistance (Goodyear Efficient Grip Performance)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker audio standard; JBL audio system mastered by Maestro Andrea Bocelli optional",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "10.25-inch Uconnect 5 touchscreen with wireless Apple CarPlay and wireless Android Auto",
+              "7-inch full digital driver cluster",
+              "'Hey Fiat' natural-voice assistant with simultaneous dual-phone Bluetooth connectivity",
+              "Three drive modes: Normal, Range (one-pedal driving with regenerative braking), Sherpa (efficiency-focused, speed-limited)",
+              "Body-color dashboard standard (new for 2026)",
+              "17-inch diamond-cut aluminum wheels",
+              "LED front and rear lighting",
+              "Proximity keyless entry with push-button start",
+              "85-kW DC fast charging (0-80% in ~35 min); 11-kW Level 2 AC charging (0-100% in 6 hr)",
+              "Free2move-supplied NACS-to-CCS1 adapter enables Tesla V3/V4 Supercharger access (2024-2026 model years)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/FT026_001FHk0q19emgn956ijbji07kql5iuk__mid.jpg",
+              "local_path": "images/fiat/500e/500e/front_three_quarter.jpg",
+              "credit": "Stellantis North America / FIAT",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/FT026_002FHpn4drickkel5s4jbffdluo1cor__mid.jpg",
+              "local_path": "images/fiat/500e/500e/side_profile.jpg",
+              "credit": "Stellantis North America / FIAT",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/FT026_003FHis7phfvducm9dev0vehh62mpaq__mid.jpg",
+              "local_path": "images/fiat/500e/500e/rear_three_quarter.jpg",
+              "credit": "Stellantis North America / FIAT",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/FT026_007FHi5rlcmtggqams4auvvmrmcu37v__mid.jpg",
+              "local_path": "images/fiat/500e/500e/interior_dashboard.jpg",
+              "credit": "Stellantis North America / FIAT",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27662&mid=279",
+            "powertrain": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27662&mid=279",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50198",
+            "performance.zero_to_60_sec": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27662&mid=279",
+            "dimensions": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27659",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/all-vehicles?make=fiat",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27662&mid=279",
+            "warranty": "https://www.mopar.com/fiat/en-us/my-vehicle/current-model-year-coverage.html"
+          },
+          "delta_from_base": null,
+          "notes": "Lowest-MSRP 2026 Fiat 500e trim and base of the only powertrain line. EPA fueleconomy.gov ID 50198 cites the 149-mile / 116 MPGe combined low-rolling-resistance tire configuration that Pop ships with as standard. Pop's standard ADAS is limited to AEB with Pedestrian Alert, Lane Keep Assist, lane-departure warning, and driver-attention monitoring per Stellantis press release; blind-spot monitoring, adaptive cruise control, lane-centering assist, rear cross-traffic alert, and parking sensors are NOT standard on Pop (these are added on Icona). NHTSA and IIHS have not crash-tested any 2024-2026 Fiat 500e — safety rating fields set to null with rating-year null. Width 64.1 in is the body-only figure (excluding mirrors); 74.12 in is the mirror-out spec from the Stellantis-derived spec sheet. Curb weight 2,952 lb matches Stellantis' 'just over 3,000 lb' marketing claim. Standard 6-speaker audio is inferred from Stellantis press materials describing JBL as an optional upgrade. Warranty terms reflect Mopar's current Fiat coverage: 4yr/50k basic 'bumper-to-bumper' (Fiat's standard policy does not break powertrain coverage out separately, so powertrain is recorded identical to basic), 5yr/unlimited corrosion (outer body sheet metal), 5yr/60k roadside, 8yr/100k high-voltage battery and EV powertrain. Stellantis press release is the US-market primary source; the Stellantis Canada release (id=27659) is cited for dimensional detail that appears in both releases. fiatusa.com returns HTTP 403 to WebFetch (gated against headless agents), so US press release on media.stellantisnorthamerica.com served as the primary source per instruction §6 fallback hierarchy."
+        },
+        {
+          "trim": "Icona",
+          "trim_slug": "icona",
+          "trim_family": "500e",
+          "is_base_trim": false,
+          "msrp_base": 37700,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": {
+            "battery_capacity_kwh": 42,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 141,
+            "total_range_mi": 141,
+            "dc_fast_charge_peak_kw": 85,
+            "dc_fast_charge_10_to_80_min": 35,
+            "ac_charge_kw": 11,
+            "mpge_combined": 110,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 121,
+            "highway_mpg": 100,
+            "combined_mpg": 110,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 700
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "17 x 6.5 in. diamond-cut aluminum; 205/45R17 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker audio standard; JBL audio system mastered by Maestro Andrea Bocelli optional",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Vegan-leather (synthetic) upholstery standard",
+              "Heated front seats standard",
+              "Power-adjustable and heated exterior mirrors standard",
+              "Pearl-finish dashboard standard (regardless of body color)",
+              "Lane-centering assist standard",
+              "Front and side parking sensors standard",
+              "Automatic high-beam headlights standard",
+              "10.25-inch Uconnect 5 touchscreen with wireless CarPlay/Android Auto (carried from Pop)",
+              "All other Pop-trim equipment carries over"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/FT026_004FHam78pj80rt83ur1rk13vji9bl9__mid.jpg",
+              "local_path": "images/fiat/500e/500e/icona-front_three_quarter.jpg",
+              "credit": "Stellantis North America / FIAT",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/FT026_006FHgbmbkpn31gvg94ll8bp0nctkd0__mid.jpg",
+              "local_path": "images/fiat/500e/500e/icona-rear_three_quarter.jpg",
+              "credit": "Stellantis North America / FIAT",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/FT026_005FHbidmmr0qqri8u8idkplopqcv30__mid.jpg",
+              "local_path": "images/fiat/500e/500e/icona-side_profile.jpg",
+              "credit": "Stellantis North America / FIAT",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/FT026_008FHfh8fauuabncfb33r571u8pjach__mid.jpg",
+              "local_path": "images/fiat/500e/500e/icona-interior_dashboard.jpg",
+              "credit": "Stellantis North America / FIAT",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27662&mid=279",
+            "powertrain": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27662&mid=279",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50199",
+            "performance.zero_to_60_sec": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27662&mid=279",
+            "dimensions": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27659",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/all-vehicles?make=fiat",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27662&mid=279",
+            "warranty": "https://www.mopar.com/fiat/en-us/my-vehicle/current-model-year-coverage.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "pop",
+            "msrp_delta_usd": 2000,
+            "changes": [
+              "Adds adaptive cruise control with lane-centering assist (Pop has lane-keep assist only)",
+              "Adds blind-spot monitoring with rear cross-traffic alert (not available on Pop)",
+              "Adds vegan-leather (synthetic) upholstery and heated front seats (Pop has cloth, unheated)",
+              "Adds front and side parking sensors plus automatic high-beam headlights (not on Pop)",
+              "Adds power-adjustable and heated exterior mirrors (Pop has manual unheated)",
+              "Substitutes pearl-finish dashboard for Pop's body-color dashboard",
+              "Ships with 205/45R17 all-season tires (vs Pop's low-rolling-resistance tires); EPA range drops from 149 to 141 mi and combined MPGe from 116 to 110"
+            ]
+          },
+          "notes": "Step-up trim of the 500e — same 117-hp single-motor FWD powertrain, same 42 kWh battery, same exterior dimensions, but with all-season tire fitment that reduces EPA range to 141 mi and combined MPGe to 110 (EPA fueleconomy.gov ID 50199 — distinct from Pop's ID 50198, individually verified). Powertrain, performance, dimensions, and warranty blocks set to null since they are unchanged from Pop per spec §6 (do not duplicate base-trim values). Replaces the prior MY25 'INSPI(RED)' / 'Inspired By Music' / 'Inspired By Beauty' / 'Inspired By Los Angeles' equipment tiers; the 2025 Giorgio Armani Collector's Edition was a limited 500-unit MY25 run and is not carried over to MY26 per viability brief. NHTSA and IIHS have not crash-tested any 2024-2026 Fiat 500e — safety rating fields null with rating-year null. Heated steering wheel, head-up display, power driver seat, and memory seats are not offered on either trim. The press release does not break out trim-specific 0-60 numbers and Stellantis quotes a single 8.5-second figure for the 500e nameplate (no Icona-specific time published)."
+        }
+      ],
+      "researched_at": "2026-05-15",
+      "notes": "Fiat's entire current US lineup consists of the 500e for MY2026. The 500X (compact SUV) was discontinued from the US market after MY2023, the 124 Spider after MY2020, and the 500 Abarth has not been sold in the US since 2019. The Topolino quadricycle was unveiled but is not yet on sale in the US. The 2025 'INSPI(RED)' / 'Inspired By' family and the Giorgio Armani Collector's Edition are MY25-only and discontinued; for MY26 the lineup simplifies to Pop (base) and Icona (step-up). www.fiatusa.com returned HTTP 403 to WebFetch (gated against headless clients) — Stellantis press releases (media.stellantisnorthamerica.com newsrelease IDs 27662 US and 27659 Canada) served as the primary manufacturer source per spec §6 fallback hierarchy. EPA fueleconomy.gov IDs 50198 (Pop, low-rolling-resistance) and 50199 (Icona, all-season) were individually opened and verified to match the trim/MY/make. Both trims share the same trim_family slug '500e' (they share body, powertrain, and exterior styling per §7), but each trim carries 4 distinct press images drawn from the 2026 image gallery ID 1561 (FT026_001-008), so is_shared_with_trim_family is false on every entry."
+    }
+  ]
+}

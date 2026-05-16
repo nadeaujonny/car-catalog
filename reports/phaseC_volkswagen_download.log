@@ -1,0 +1,77 @@
+Brand: volkswagen
+Found 49 image entries across 9 models.
+
+[1/49] jetta/s/front_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[2/49] jetta/s/rear_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[3/49] jetta/s/side_profile  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[4/49] jetta/s/interior_dashboard  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[5/49] jetta-gli/autobahn/front_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[6/49] jetta-gli/autobahn/rear_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[7/49] jetta-gli/autobahn/side_profile  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[8/49] jetta-gli/autobahn/interior_dashboard  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[9/49] golf-gti/s/front_three_quarter  ok (2773490 bytes, image/png)
+[10/49] golf-gti/s/rear_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[11/49] golf-gti/s/side_profile  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[12/49] golf-gti/s/interior_dashboard  ok (2832888 bytes, image/png)
+[13/49] golf-r/golf-r/front_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[14/49] golf-r/golf-r/rear_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[15/49] golf-r/golf-r/side_profile  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[16/49] golf-r/golf-r/interior_dashboard  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[17/49] taos/s/front_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[18/49] taos/s/rear_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[19/49] taos/s/side_profile  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[20/49] taos/s/interior_dashboard  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[21/49] tiguan/s/front_three_quarter  ok (3833321 bytes, image/png)
+[22/49] tiguan/s/rear_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[23/49] tiguan/s/side_profile  ok (3043028 bytes, image/png)
+[24/49] tiguan/s/interior_dashboard  ok (1464326 bytes, image/png)
+[25/49] tiguan/se-r-line-black/front_three_quarter  ok (3833321 bytes, image/png)
+[26/49] tiguan/se-r-line-black/rear_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[27/49] tiguan/se-r-line-black/side_profile  ok (3043028 bytes, image/png)
+[28/49] tiguan/se-r-line-black/interior_dashboard  ok (1464326 bytes, image/png)
+[29/49] tiguan/sel-r-line-turbo/front_three_quarter  ok (1857817 bytes, image/png)
+[30/49] atlas/se/front_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[31/49] atlas/se/rear_three_quarter  ok (3086036 bytes, image/png)
+[32/49] atlas/se/side_profile  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[33/49] atlas/se/interior_dashboard  ok (72556 bytes, image/webp)
+[34/49] atlas/sel-premium-r-line/front_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[35/49] atlas/sel-premium-r-line/rear_three_quarter  ok (3086036 bytes, image/png)
+[36/49] atlas/sel-premium-r-line/side_profile  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[37/49] atlas/sel-premium-r-line/interior_dashboard  ok (72556 bytes, image/webp)
+[38/49] atlas-cross-sport/se/front_three_quarter  ok (4281882 bytes, image/png)
+[39/49] atlas-cross-sport/se/rear_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[40/49] atlas-cross-sport/se/side_profile  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[41/49] atlas-cross-sport/se/interior_dashboard  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[42/49] atlas-cross-sport/sel-r-line-black/front_three_quarter  ok (4281882 bytes, image/png)
+[43/49] atlas-cross-sport/sel-r-line-black/rear_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[44/49] atlas-cross-sport/sel-r-line-black/side_profile  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[45/49] atlas-cross-sport/sel-r-line-black/interior_dashboard  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[46/49] id-4/pro/front_three_quarter  ok (130228 bytes, image/webp)
+[47/49] id-4/pro/rear_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[48/49] id-4/pro/side_profile  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[49/49] id-4/pro/interior_dashboard  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+
+Updated catalog/data/volkswagen.json and data/volkswagen.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  volkswagen
+Total images attempted: 49
+Successful:             16 (32.7%)
+Failed:                 33
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 33
+
+Models with zero successful images: 4 of 9
+  - jetta (4 attempted)
+  - jetta-gli (4 attempted)
+  - golf-r (4 attempted)
+  - taos (4 attempted)
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html;charset=utf-8)] x33 — e.g. https://www.vw.com/en/models/jetta.html

@@ -1,0 +1,19 @@
+{
+  "brand_slug": "lexus",
+  "notes": "Per PROJECT_STATE.md and STATUS.md row: lexus.com returned thin/no content to WebFetch during Phase 1; pressroom.lexus.com is the documented better source. Using pressroom URLs where the model-specific press kit page is reliably available; falling back to consumer site otherwise. Expect mixed coverage. Phase B (2026-05-14): URL check found all 11 OK except ux, which redirected to canonical /models/UX-hybrid; updated ux to that canonical URL. No DEAD URLs.",
+  "model_pages": {
+    "is": "https://www.lexus.com/models/IS",
+    "es": "https://www.lexus.com/models/ES",
+    "ls": "https://www.lexus.com/models/LS",
+    "lc": "https://www.lexus.com/models/LC",
+    "nx": "https://www.lexus.com/models/NX",
+    "rx": "https://www.lexus.com/models/RX",
+    "gx": "https://www.lexus.com/models/GX",
+    "lx": "https://www.lexus.com/models/LX",
+    "tx": "https://www.lexus.com/models/TX",
+    "ux": "https://www.lexus.com/models/UX-hybrid",
+    "rz": "https://www.lexus.com/models/RZ"
+  },
+  "slug_variants": {},
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

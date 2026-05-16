@@ -1,0 +1,86 @@
+Reset 64 image entries with needs_scraping:true to their model page URLs.
+Brand: kia
+Models in JSON: 16
+Models with page URLs: 16
+Playwright fallback: enabled
+Brand-specific angle patterns: 1 regex(es) across 1 angle(s) — front_three_quarter
+
+Scraping 16 model pages…
+
+  fetch https://www.kia.com/us/en/k4  …  static ok (57 raw, 16 slug-matching)
+  fetch https://www.kia.com/us/en/k4-hatchback  …  static ok (71 raw, 14 slug-matching)
+  fetch https://www.kia.com/us/en/k5  …  static ok (83 raw, 10 slug-matching)
+  fetch https://www.kia.com/us/en/seltos  …  static ok (77 raw, 14 slug-matching)
+  fetch https://www.kia.com/us/en/sportage  …  static ok (82 raw, 18 slug-matching)
+  fetch https://www.kia.com/us/en/sportage-hybrid  …  static ok (77 raw, 9 slug-matching)
+  fetch https://www.kia.com/us/en/sportage-plug-in-hybrid  …  static ok (60 raw, 22 slug-matching)
+  fetch https://www.kia.com/us/en/sorento  …  static ok (57 raw, 18 slug-matching)
+  fetch https://www.kia.com/us/en/sorento-hybrid  …  static ok (52 raw, 9 slug-matching)
+  fetch https://www.kia.com/us/en/sorento-plug-in-hybrid  …  static ok (66 raw, 18 slug-matching)
+  fetch https://www.kia.com/us/en/carnival-mpv  …  static ok (86 raw, 10 slug-matching)
+  fetch https://www.kia.com/us/en/carnival-mpv-hybrid  …  static ok (82 raw, 14 slug-matching)
+  fetch https://www.kia.com/us/en/niro  …  static ok (53 raw, 10 slug-matching)
+  fetch https://www.kia.com/us/en/niro-ev  …  static ok (57 raw, 9 slug-matching)
+  fetch https://www.kia.com/us/en/ev6  …  static ok (86 raw, 14 slug-matching)
+  fetch https://www.kia.com/us/en/ev9  …  static ok (87 raw, 13 slug-matching)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          kia
+Pages attempted:                16
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 16
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        14
+  via text/URL pattern match:   11
+  via brand-specific angle:     3
+  via positional fallback:      0
+Brand-specific angle matches:   3
+Resolution upgrades:            2 URLs preferred larger variants
+Image entries unchanged:        50
+
+Sample rewrites:
+  [15.0] k4/lx/front_three_quarter
+        → https://www.kia.com/us/en/vehicles/k4/2026/_jcr_content/root/responsivegrid/fiftyfifty_copy_2142.coreimg.jpeg/1758813523096/my26-k4-5050-trim-highlight-gt-line.jpeg
+  [B5.9] k5/lxs/front_three_quarter
+        → https://www.kia.com/content/dam/kia/us/en/vehicles/k5/2026/mep/in-page-gallery-v2/my26_k5-mep-gallery-ext2.jpg
+  [7.0] k5/lxs/side_profile
+        → https://www.kia.com/us/en/vehicles/k5/2026/_jcr_content/root/responsivegrid/fiftyfifty.coreimg.jpeg/1751312434981/my26-k5-fifty-fifty-trim-highlight-gt.jpeg
+  [B5.9] seltos/lx/front_three_quarter
+        → https://www.kia.com/content/dam/kia/us/en/vehicles/seltos/2026/mep/in-page-gallery/my26-seltos-mep-gallery-ext1.jpg
+  [17.0] sportage-plug-in-hybrid/x-line/front_three_quarter
+        → https://www.kia.com/us/content/dam/kia/us/en/vehicles/sportage-phev/2026/mep/global-hero/375-hero-my26-sportage-phev.jpg
+  [7.0] sportage-plug-in-hybrid/x-line/side_profile
+        → https://www.kia.com/us/en/vehicles/sportage-plug-in-hybrid/2026/_jcr_content/root/responsivegrid/fiftyfifty.coreimg.jpeg/1765475694449/my26-sportage-phev-fifty-fifty.jpeg
+  [B5.9] sorento/lx/front_three_quarter
+        → https://www.kia.com/content/dam/kia/us/en/vehicles/sorento/2026/mep/in-page-gallery/exterior/my26-sorento-ice-gallery-ext3.jpg
+  [11.0] sorento/lx/side_profile
+        → https://www.kia.com/us/content/dam/kia/us/en/vehicles/sorento/2026/mep/hero/375-hero-my26-sorento-ice.jpg
+  [17.0] sorento-hybrid/ex/front_three_quarter
+        → https://www.kia.com/us/content/dam/kia/us/en/vehicles/sorento-hev/2026/mep/global-hero/375-hero-my26-sorento-hev.jpg
+  [19.0] sorento-plug-in-hybrid/ex-awd/front_three_quarter
+        → https://www.kia.com/us/content/dam/kia/us/en/vehicles/sorento-phev/2026/mep/hero/375-hero-my26-sorento-phev.jpg
+  [7.0] carnival-hybrid/lxs/side_profile
+        → https://www.kia.com/us/en/vehicles/carnival-mpv-hybrid/2026/_jcr_content/root/responsivegrid/fiftyfifty_copy.coreimg.jpeg/1762270925457/my26-carnival-hev-performance-discover-the-hybrid-way.jpeg
+  [15.0] niro-hybrid/lx/front_three_quarter
+        → https://www.kia.com/us/en/vehicles/niro/2026/_jcr_content/root/responsivegrid/fiftyfifty_copy.coreimg.jpeg/1764947637177/my26-niro-hev-5050-hybrid-technology.jpeg
+
+Models with unresolved angles:
+  k4: 3 entries  (e.g. lx/rear_three_quarter, lx/side_profile, lx/interior_dashboard)
+  k4-hatchback: 4 entries  (e.g. ex/front_three_quarter, ex/rear_three_quarter, ex/side_profile)
+  k5: 2 entries  (e.g. lxs/rear_three_quarter, lxs/interior_dashboard)
+  seltos: 3 entries  (e.g. lx/rear_three_quarter, lx/side_profile, lx/interior_dashboard)
+  sportage: 4 entries  (e.g. lx/front_three_quarter, lx/rear_three_quarter, lx/side_profile)
+  sportage-hybrid: 4 entries  (e.g. lx/front_three_quarter, lx/rear_three_quarter, lx/side_profile)
+  sportage-plug-in-hybrid: 2 entries  (e.g. x-line/rear_three_quarter, x-line/interior_dashboard)
+  sorento: 2 entries  (e.g. lx/rear_three_quarter, lx/interior_dashboard)
+  sorento-hybrid: 3 entries  (e.g. ex/rear_three_quarter, ex/side_profile, ex/interior_dashboard)
+  sorento-plug-in-hybrid: 3 entries  (e.g. ex-awd/rear_three_quarter, ex-awd/side_profile, ex-awd/interior_dashboard)
+  carnival: 4 entries  (e.g. lx/front_three_quarter, lx/rear_three_quarter, lx/side_profile)
+  carnival-hybrid: 3 entries  (e.g. lxs/front_three_quarter, lxs/rear_three_quarter, lxs/interior_dashboard)
+  niro-hybrid: 3 entries  (e.g. lx/rear_three_quarter, lx/side_profile, lx/interior_dashboard)
+  niro-ev: 3 entries  (e.g. wind/rear_three_quarter, wind/side_profile, wind/interior_dashboard)
+  ev6: 3 entries  (e.g. light-sr-rwd/rear_three_quarter, light-sr-rwd/side_profile, light-sr-rwd/interior_dashboard)
+  ev9: 4 entries  (e.g. light-rwd/front_three_quarter, light-rwd/rear_three_quarter, light-rwd/side_profile)

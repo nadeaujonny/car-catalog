@@ -1,0 +1,320 @@
+﻿
+======================================================================
+cooper-hardtop-2-door  —  https://www.miniusa.com/model/2-door.html
+  total <img>: 64 | real image-ext + natW>=200: 45
+  --- top 25 by natural area ---
+  [ 18] docY=  199 disp=243x309 nat=1280x1625 vis=n
+        alt="A vintage MINI rounds a bend in a lush, elevated landscape with a second MINI tr"
+        https://www.miniusa.com/content/dam/mini/global-nav/community/desktop/MINI-Community-Oxford-Desktop.jpg.miniusaimg.small.jpeg
+  [ 19] docY=  199 disp=243x309 nat=1280x1625 vis=n
+        alt="A MINI JCW 2 Door with a sporty red and white wrap doing laps on a racetrack."
+        https://www.miniusa.com/content/dam/mini/global-nav/community/desktop/MINI-Community-Motorsports-Desktop.jpg.miniusaimg.small.jpeg
+  [ 36] docY= 8817 disp=346x427 nat=1280x1582 vis=Y
+        alt="A hand sketching a vintage MINI."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-Heritage-01-Desktop.pn
+  [ 38] docY= 8817 disp=346x427 nat=1280x1582 vis=Y
+        alt="Low-angled view of a MINI JCW 2 Door speeding down a racetrack."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-Heritage-02-Desktop.pn
+  [ 40] docY= 8817 disp=346x427 nat=1280x1582 vis=Y
+        alt="A JCW MINI takes a stop at the pit of a racetrack."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-Heritage-03-Desktop.pn
+  [ 23] docY= 1569 disp=410x479 nat=1280x1496 vis=Y
+        alt="The dashboard of the MINI Cooper 2 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-Included-01-ALL.png.mi
+  [ 24] docY= 1569 disp=410x470 nat=1280x1470 vis=Y
+        alt="The dashboard and steering wheel of the MINI Cooper 2 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-Included-02-ALL.png.mi
+  [ 25] docY= 1569 disp=410x470 nat=1280x1470 vis=Y
+        alt="The Sport Seats of the MINI Cooper 2 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-Included-03-ALL.png.mi
+  [ 59] docY=12757 disp=294x312 nat=1280x1354 vis=Y
+        alt="Rear-view of the MINI Cooper S Convertible rounding a bend."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-CrossLinks-02-Desktop.
+  [ 60] docY=12757 disp=294x311 nat=1280x1352 vis=Y
+        alt="Bird’s-eye view of the MINI Cooper 4 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-CrossLinks-01-Desktop.
+  [ 30] docY= 5413 disp=346x346 nat=1280x1280 vis=Y
+        alt="Close-up of the MINI OLED Display."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-TechSneak-01-Desktop.p
+  [ 31] docY= 5413 disp=346x346 nat=1280x1280 vis=Y
+        alt="A phone open to the MINI App."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-TechSneak-02-Desktop.p
+  [ 32] docY= 5413 disp=346x346 nat=1280x1280 vis=Y
+        alt="Bird’s-eye view of the MINI Cooper 2 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-TechSneak-03-Desktop.p
+  [ 43] docY= 9906 disp=358x358 nat=1280x1280 vis=Y
+        alt="Bird’s-eye view of a MINI with its door open to show an illuminated logo."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-Reasons-01-ALL..png.mi
+  [ 44] docY= 9906 disp=358x358 nat=1280x1280 vis=Y
+        alt="A woman drives her MINI down a street at golden hour."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-Reasons-02-ALL..png.mi
+  [ 45] docY= 9906 disp=358x358 nat=1280x1280 vis=Y
+        alt="A man with glasses performs maintenance on a vehicle."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-Reasons-03-ALL..png.mi
+  [ 46] docY= 9906 disp=358x358 nat=1280x1280 vis=Y
+        alt="A MINI Cooper S 2 Door rounds a bend."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-Reasons-04-ALL..png.mi
+  [ 26] docY= 2171 disp=1280x1273 nat=1280x1272 vis=Y
+        alt="Side-view of a MINI Cooper S 2 Door in Ocean Wave Green Metallic parallel parked"
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-Design-Desktop.jpg.min
+  [ 29] docY= 4055 disp=1280x1265 nat=1280x1264 vis=Y
+        alt="The glowing dashboard of the MINI Cooper 2 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-Tech-Desktop.jpg.miniu
+  [ 58] docY=    0 disp=0x0 nat=1689x948 vis=n
+        alt="Contact a Dealer Alt Text"
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/next-gen/MINI_F66LeadForm_Desktop.jpg
+  [ 34] docY= 7010 disp=1280x1047 nat=1280x1047 vis=Y
+        alt="Low-angled view of the MINI JCW 2 Door speeding off."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-JCW-Desktop.jpg.minius
+  [ 47] docY=10769 disp=346x249 nat=1280x921 vis=Y
+        alt="Rear view of a MINI Cooper S 2 Door driving."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-WhereTo-01-Desktop.png
+  [ 49] docY=10769 disp=346x249 nat=1280x921 vis=Y
+        alt="Close-up of the MINI OLED Display."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-WhereTo-02-Desktop.png
+  [ 51] docY=10769 disp=346x249 nat=1280x921 vis=Y
+        alt="The front wheel of the MINI Cooper 2 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-WhereTo-03-Desktop.png
+  [ 27] docY= 3536 disp=512x267 nat=1280x668 vis=Y
+        alt="The MINI Cooper S 2 Door parked in front of an orange building."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-DesignSneak-01-Desktop
+
+======================================================================
+cooper-hardtop-4-door  —  https://www.miniusa.com/model/4-door.html
+  total <img>: 57 | real image-ext + natW>=200: 42
+  --- top 25 by natural area ---
+  [ 50] docY=10140 disp=473x473 nat=1536x1536 vis=Y
+        alt="Side view of the rear half of the MINI Cooper 4 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-FAQs-v2.png
+  [ 18] docY=  199 disp=243x309 nat=1280x1625 vis=n
+        alt="A vintage MINI rounds a bend in a lush, elevated landscape with a second MINI tr"
+        https://www.miniusa.com/content/dam/mini/global-nav/community/desktop/MINI-Community-Oxford-Desktop.jpg.miniusaimg.small.jpeg
+  [ 19] docY=  199 disp=243x309 nat=1280x1625 vis=n
+        alt="A MINI JCW 2 Door with a sporty red and white wrap doing laps on a racetrack."
+        https://www.miniusa.com/content/dam/mini/global-nav/community/desktop/MINI-Community-Motorsports-Desktop.jpg.miniusaimg.small.jpeg
+  [ 23] docY= 1932 disp=410x479 nat=1280x1496 vis=Y
+        alt="A MINI Cooper S 4 Door turns around a corner."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Whats-Included-01-
+  [ 24] docY= 1932 disp=410x479 nat=1280x1496 vis=Y
+        alt="The dashboard of the MINI Cooper 4 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Whats-Included-02-
+  [ 25] docY= 1932 disp=410x479 nat=1280x1496 vis=Y
+        alt="The Sport Seats of the MINI Cooper 4 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Whats-Included-03-
+  [ 30] docY= 4747 disp=1280x1444 nat=1280x1443 vis=Y
+        alt="The dashboard of the MINI Cooper 4 Door with a city skyline out the front windsh"
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Tech-Safety-Deskto
+  [ 26] docY= 2534 disp=1280x1404 nat=1280x1403 vis=Y
+        alt="Two angles of the MINI Cooper S 4 Door against an industrial blue wall."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Design-Desktop-v3.
+  [ 27] docY= 4031 disp=358x358 nat=1280x1280 vis=Y
+        alt="The MINI Cooper S 4 Door parked in front of an orange building."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Design-SneakPeek-0
+  [ 28] docY= 4031 disp=358x358 nat=1280x1280 vis=Y
+        alt="An interior view of the MINI Cooper 4 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Design-SneakPeek-0
+  [ 29] docY= 4031 disp=358x358 nat=1280x1280 vis=Y
+        alt="Close-up of the headlights on the MINI Cooper 4 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Design-SneakPeek-0
+  [ 31] docY= 6284 disp=358x358 nat=1280x1280 vis=Y
+        alt="Close-up of the MINI OLED Display."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Tech-SneakPeek-01-
+  [ 32] docY= 6284 disp=358x358 nat=1280x1280 vis=Y
+        alt="A phone open to the MINI App."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Tech-SneakPeek-02-
+  [ 33] docY= 6284 disp=358x358 nat=1280x1280 vis=Y
+        alt="Bird’s-eye view of the MINI Cooper 4 Door surrounded by blue warning signs."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Tech-SneakPeek-03-
+  [ 36] docY= 8687 disp=358x358 nat=1280x1280 vis=Y
+        alt="Bird's-eye view of a MINI Cooper 4 Door with a roof rack holding ski equipment."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Reasons-01-Desktop
+  [ 37] docY= 8687 disp=358x358 nat=1280x1280 vis=Y
+        alt="Close-up of the MINI logo on the front of a MINI."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Reasons-02-Desktop
+  [ 38] docY= 8687 disp=358x358 nat=1280x1280 vis=Y
+        alt="A man with glasses performs maintenance on a vehicle."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Reasons-03-Desktop
+  [ 39] docY= 8687 disp=358x358 nat=1280x1280 vis=Y
+        alt="Angled view of a MINI Cooper 4 Door driving."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Reasons-04-Desktop
+  [ 51] docY=11501 disp=294x294 nat=1280x1280 vis=Y
+        alt="Learn more about MINI Countryman S ALL4"
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Meet-Family-01-v2.
+  [ 52] docY=11501 disp=294x294 nat=1280x1280 vis=Y
+        alt="Learn more about MINI Cooper 2 Door"
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Meet-Family-02-v2.
+  [ 40] docY= 9508 disp=346x249 nat=1280x921 vis=Y
+        alt="Rear view of a MINI Cooper S 4 Door driving."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Next-01-Desktop-v2
+  [ 42] docY= 9508 disp=346x249 nat=1280x921 vis=Y
+        alt="Close-up of the MINI OLED Display."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Next-02-Desktop-v2
+  [ 44] docY= 9508 disp=346x249 nat=1280x921 vis=Y
+        alt="The front bumper on a MINI Cooper 4 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Next-03-Desktop-v2
+  [ 21] docY=  220 disp=1280x608 nat=1280x608 vis=Y
+        alt="A MINI Cooper S 4 Door cruises down a road with a purple building behind it."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-FMA-Desktop-v4.jpg
+  [ 35] docY= 8249 disp=512x240 nat=1280x600 vis=Y
+        alt="A parent and child smile towards each other in front of an open laptop."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-FS-Desktop-v3.png.
+
+======================================================================
+jcw-2-door  —  https://www.miniusa.com/model/john-cooper-works/2-door.html
+  total <img>: 54 | real image-ext + natW>=200: 37
+  --- top 25 by natural area ---
+  [ 30] docY= 4954 disp=346x711 nat=1279x2633 vis=Y
+        alt="Close-up of the interior door panel."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/desktop/MINI-F66-JCW-Interior-Feature-02-Desktop.png.
+  [ 25] docY= 2360 disp=358x492 nat=1280x1758 vis=Y
+        alt="Front view of the MINI JCW 2 Door while driving."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/desktop/performance-details/MINI-F66-JCW-PerformanceD
+  [ 26] docY= 2360 disp=358x492 nat=1280x1758 vis=Y
+        alt="Rear-view of the MINI JCW 2 Door while driving."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/desktop/performance-details/MINI-F66-JCW-PerformanceD
+  [ 27] docY= 2360 disp=358x492 nat=1280x1758 vis=Y
+        alt="Close-up of a wheel on a MINI JCW 2 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/desktop/performance-details/MINI-F66-JCW-PerformanceD
+  [ 34] docY= 7795 disp=358x492 nat=1280x1758 vis=Y
+        alt="The front exterior of the MINI JCW 2 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/desktop/exterior-details/MINI-F66-JCW-ExteriorDetails
+  [ 35] docY= 7795 disp=358x492 nat=1280x1758 vis=Y
+        alt="A headlight on the MINI JCW 2 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/desktop/exterior-details/MINI-F66-JCW-ExteriorDetails
+  [ 36] docY= 7795 disp=358x492 nat=1280x1758 vis=Y
+        alt="The rear exterior of the MINI JCW 2 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/desktop/exterior-details/MINI-F66-JCW-ExteriorDetails
+  [ 18] docY=  199 disp=243x309 nat=1280x1625 vis=n
+        alt="A vintage MINI rounds a bend in a lush, elevated landscape with a second MINI tr"
+        https://www.miniusa.com/content/dam/mini/global-nav/community/desktop/MINI-Community-Oxford-Desktop.jpg.miniusaimg.small.jpeg
+  [ 19] docY=  199 disp=243x309 nat=1280x1625 vis=n
+        alt="A MINI JCW 2 Door with a sporty red and white wrap doing laps on a racetrack."
+        https://www.miniusa.com/content/dam/mini/global-nav/community/desktop/MINI-Community-Motorsports-Desktop.jpg.miniusaimg.small.jpeg
+  [ 28] docY= 2903 disp=1280x1399 nat=1280x1399 vis=Y
+        alt="The front cabin of the MINI JCW 2 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/desktop/MINI-F66-JCW-Interior-Desktop.jpg.miniusaimg.
+  [ 48] docY=10669 disp=294x312 nat=1280x1354 vis=Y
+        alt="Bird’s-eye view of the MINI JCW Countryman ALL4."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/desktop/JCW%20Countryman_desktop.png.miniusaimg.small
+  [ 49] docY=10669 disp=294x311 nat=1280x1352 vis=Y
+        alt="Angled view of the MINI JCW Convertible."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/desktop/JCW%20Convertible_desktop.png.miniusaimg.smal
+  [ 31] docY= 4954 disp=717x713 nat=1280x1272 vis=Y
+        alt="Close-up of the steering wheel."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/desktop/MINI-F66-JCW-Interior-Feature-03-Desktop.png.
+  [ 33] docY= 6567 disp=1280x1178 nat=1280x1177 vis=Y
+        alt="The MINI JCW 2 Door exiting a dark garage."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/desktop/MINI-F66-JCW-Exterior-Desktop.jpg.miniusaimg.
+  [ 23] docY=  903 disp=1280x1047 nat=1280x1047 vis=Y
+        alt="A MINI JCW 2 Door zooms around a bend."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/desktop/MINI-F66-JCW-Performance-Desktop.jpg.miniusai
+  [ 47] docY= 9297 disp=473x473 nat=1128x1128 vis=Y
+        alt="Side view of the rear half of the MINI JCW 2 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/jcw/MINI_JCW_Family_FAQs_2DOOR_Desktop.png
+  [ 43] docY= 8884 disp=346x249 nat=1280x923 vis=Y
+        alt="A John Cooper Works MINI Racecar does a lap around a track."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/desktop/MINI-U25-JCW-Explore-02.png.miniusaimg.large.
+  [ 41] docY= 8884 disp=346x249 nat=1280x921 vis=Y
+        alt="Three MINI JCWs models parked next to each other."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/desktop/MINI-F66-ExploreJCW-01-Desktop-Tablet.png.min
+  [ 45] docY= 8884 disp=346x249 nat=1280x921 vis=Y
+        alt="A John Cooper Works MINI does a lap around a track."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/desktop/MINI-F66-ExploreJCW-03-Desktop-Tablet.png.min
+  [ 29] docY= 4370 disp=1075x559 nat=1280x665 vis=Y
+        alt="The Sport Seats of the MINI JCW 2 Door."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/desktop/MINI-F66-JCW-Interior-Feature-01-Desktop.jpg.
+  [ 21] docY=  220 disp=1280x560 nat=1280x560 vis=Y
+        alt="A MINI JCW 2 Door cruising down a street."
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/desktop/MINI-F66-JCW-FMA-Desktop.jpg.miniusaimg.large
+  [ 50] docY=    0 disp=0x0 nat=1120x632 vis=n
+        alt="Contact a dealer  Alt Text"
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/jcw/MINI-SOC-JCW-Form-Desktop.jpg
+  [ 16] docY=    0 disp=0x0 nat=1280x536 vis=n
+        alt="Angled view of the 2025 MINI Countryman SE ALL4 against a white brick wall."
+        https://www.miniusa.com/content/dam/mini/global-nav/flyouts/ev-flyout/MINI_EV-Education_Flyout_1280.jpg.miniusaimg.large.jpeg
+  [ 32] docY= 6050 disp=1152x344 nat=1200x540 vis=Y
+        alt="Side view of a MINI JCW 2 Door in the Legend Grey body color, facing left with i"
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/jcw/color-picker/Legend%20Gray_Desktop.png
+  [  9] docY=    0 disp=0x0 nat=1280x488 vis=n
+        alt="Angled view of a MINI Countryman S ALL4 parked."
+        https://www.miniusa.com/content/dam/mini/global-nav/flyouts/2025/MINI_U25_flyout_Desktop.jpg.miniusaimg.large.jpeg
+
+======================================================================
+countryman  —  https://www.miniusa.com/model/countryman.html
+  total <img>: 61 | real image-ext + natW>=200: 45
+  --- top 25 by natural area ---
+  [ 18] docY=  199 disp=243x309 nat=1280x1625 vis=n
+        alt="A vintage MINI rounds a bend in a lush, elevated landscape with a second MINI tr"
+        https://www.miniusa.com/content/dam/mini/global-nav/community/desktop/MINI-Community-Oxford-Desktop.jpg.miniusaimg.small.jpeg
+  [ 19] docY=  199 disp=243x309 nat=1280x1625 vis=n
+        alt="A MINI JCW 2 Door with a sporty red and white wrap doing laps on a racetrack."
+        https://www.miniusa.com/content/dam/mini/global-nav/community/desktop/MINI-Community-Motorsports-Desktop.jpg.miniusaimg.small.jpeg
+  [ 24] docY= 1901 disp=410x479 nat=1280x1495 vis=Y
+        alt="The MINI Countryman S ALL4 drives on rugged terrain."
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-U25-Overview-Whats-Included-01.png.miniusaimg.x
+  [ 25] docY= 1901 disp=410x479 nat=1280x1495 vis=Y
+        alt="The interior of the MINI Countryman S ALL4 with a focus on the steering wheel an"
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-U25-Overview-Whats-Included-02.png.miniusaimg.x
+  [ 26] docY= 1901 disp=410x479 nat=1280x1495 vis=Y
+        alt="The MINI OLED Display."
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-U25-Overview-Whats-Included-03.png.miniusaimg.x
+  [ 27] docY= 1901 disp=410x479 nat=1280x1495 vis=Y
+        alt="The Sport Seats of the MINI Countryman S ALL4."
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-U25-Overview-Whats-Included-04.png.miniusaimg.x
+  [ 32] docY= 4530 disp=1280x1444 nat=1280x1443 vis=Y
+        alt="Interior view of the MINI Countryman S ALL4’s cabin."
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-U25-Overview-Tech.jpg.miniusaimg.large.jpeg
+  [ 56] docY=12659 disp=294x312 nat=1280x1354 vis=Y
+        alt="Learn more about the MINI Countryman SE ALL4 here"
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-U25-Overview-More-Models-01.png.miniusaimg.smal
+  [ 57] docY=12659 disp=294x310 nat=1280x1349 vis=Y
+        alt="Learn more about the MINI Cooper 4 Door here"
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-U25-Overview-More-Models-02.png.miniusaimg.smal
+  [ 29] docY= 3886 disp=358x358 nat=1280x1280 vis=Y
+        alt="Angled rear view of the MINI Countryman S ALL4 driving."
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-Countryman-Overview-Design-01.png.miniusaimg.la
+  [ 30] docY= 3886 disp=358x358 nat=1280x1280 vis=Y
+        alt="The interior door panel of the MINI Countryman S ALL4."
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-Countryman-Overview-Design-02.png.miniusaimg.la
+  [ 31] docY= 3886 disp=358x358 nat=1280x1280 vis=Y
+        alt="Exterior view of the front of the MINI Countryman S ALL4 in the JCW Style Packag"
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-Countryman-Overview-Design-03.png.miniusaimg.la
+  [ 33] docY= 6066 disp=346x346 nat=1280x1280 vis=Y
+        alt="Close-up of MINI Head-Up Display."
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-U25-Overview-Tech-Sneak-Peek-01.png.miniusaimg.
+  [ 34] docY= 6066 disp=346x346 nat=1280x1280 vis=Y
+        alt="The MINI OLED Display."
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-U25-Overview-Tech-Sneak-Peek-02.png.miniusaimg.
+  [ 35] docY= 6066 disp=346x346 nat=1280x1280 vis=Y
+        alt="The MINI Countryman S ALL4 cruises down a street."
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-U25-Overview-Tech-Sneak-Peek-03.png.miniusaimg.
+  [ 40] docY= 9857 disp=358x358 nat=1280x1280 vis=Y
+        alt="A picnic takes place out of the trunk of a MINI Countryman S ALL4."
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-U25-Overview-MINI-Reasons-01.png.miniusaimg.sma
+  [ 41] docY= 9857 disp=358x358 nat=1280x1280 vis=Y
+        alt="A woman sticks her head out of the window of a MINI Countryman S ALL4."
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-U25-Overview-MINI-Reasons-02.png.miniusaimg.sma
+  [ 42] docY= 9857 disp=358x358 nat=1280x1280 vis=Y
+        alt=" A man with glasses performs maintenance on a vehicle."
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-U25-Overview-MINI-Reasons-03.png.miniusaimg.sma
+  [ 43] docY= 9857 disp=358x358 nat=1280x1280 vis=Y
+        alt="Side view of the MINI Countryman S ALL4 driving in a mountainous landscape."
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-U25-Overview-MINI-Reasons-04.png.miniusaimg.sma
+  [ 54] docY=11299 disp=473x473 nat=1280x1280 vis=Y
+        alt="A side-view of a MINI Countryman S ALL4 from the rear door to the trunk. "
+        https://www.miniusa.com/content/dam/mini/vehicles/mini-countryman-se-all4/2026/desktop/MY27-Countryman-ICE-FAQs-Desktop.png
+  [ 28] docY= 2502 disp=1280x1273 nat=1280x1272 vis=Y
+        alt="The MINI Countryman S ALL4 drives on rugged terrain with mountains in the backgr"
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-U25-Overview-Design.jpg.miniusaimg.large.jpeg
+  [ 55] docY=    0 disp=0x0 nat=1689x948 vis=n
+        alt="Contact a Dealer Alt Text"
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-U25-Lead-Form.jpg
+  [ 37] docY= 7651 disp=1280x1046 nat=1280x1046 vis=Y
+        alt="Bird’s-eye view of a MINI JCW Countryman ALL4 driving."
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-U25-Overview-JCW.jpg.miniusaimg.large.jpeg
+  [ 44] docY=10669 disp=346x249 nat=1280x922 vis=Y
+        alt="Side view of a MINI Countryman S ALL4."
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-U25-Overview-Where-Next-Design.png.miniusaimg.l
+  [ 46] docY=10669 disp=346x249 nat=1280x922 vis=Y
+        alt="Close-up of the MINI OLED Display."
+        https://www.miniusa.com/content/dam/mini/vehicles/countryman-ice/2025/desktop/MINI-U25-Overview-Where-Next-Tech.png.miniusaimg.lar

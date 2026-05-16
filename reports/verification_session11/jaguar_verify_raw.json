@@ -1,0 +1,18 @@
+{
+  "brand": "Jaguar",
+  "brand_slug": "jaguar",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "model_count": 1,
+  "trim_count": 3,
+  "total_images": 12,
+  "needs_scraping": 1,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 0,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [],
+  "fyis": []
+}

@@ -1,0 +1,2221 @@
+{
+  "brand": "Dodge",
+  "brand_slug": "dodge",
+  "researched_at": "2026-05-15",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Charger Daytona",
+      "model_slug": "charger-daytona",
+      "model_year": 2026,
+      "body_style": "coupe",
+      "generation_context": "Second-gen Charger (LB platform) introduced for 2024 MY as the first all-electric muscle car; 2026 MY is the second full MY for the Daytona EV. Base Daytona R/T EV trim was discontinued for MY26 due to weak demand and Canadian tariff exposure (built at Windsor, Ontario) — the EV lineup is now Scat Pack and Scat Pack Plus only. The Charger badge is now multi-energy: 'Charger Daytona' refers to the EV line, 'Charger' (Sixpack) refers to the gas line.",
+      "msrp_range": {
+        "low": 61990,
+        "high": 66990
+      },
+      "model_summary": "All-electric two-door coupe or four-door sedan muscle car. Dual permanent-magnet motors deliver 670 hp via standard AWD; both body styles share a 121-inch wheelbase, 100.5 kWh pack (93.9 kWh usable), and PowerShot launch boost. EPA range is 241 miles for the Scat Pack coupe/sedan (223 miles with Track Package wheels). Available only in Scat Pack and Scat Pack Plus trims for 2026; the lower-output R/T EV was dropped.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "Consumer Reports has not published a 2026 Charger predicted reliability score; the second-gen Charger is too new for VDS (which measures 3-year-old vehicles). Dodge brand placed near the bottom of the 2026 JD Power VDS at 267 PP100 vs ~190 industry average. Early-production EVs from Stellantis have shown software and HV-system bugs.",
+        "confidence": "low",
+        "sources": [
+          "https://www.consumerreports.org/cars/dodge/charger/2026/reliability/",
+          "https://www.jdpower.com/cars/2026/dodge/charger"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power has not published a 2026 APEAL score specific to the Charger Daytona. Reviewer and owner sentiment has been mixed: enthusiasm for the styling and Fratzonic Chambered Exhaust speaker, criticism of curb weight, range, and the EV-only character.",
+        "confidence": "low",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the Daytona's aggressive styling, the simulated 'Fratzonic' exhaust theater, and the brutal 670-hp dual-motor acceleration (low 3-second 0-60), but they flag the ~5,800-lb curb weight, 223-241 mile EPA range, and a chassis that prioritizes straight-line drama over the corner-carving sharpness of price-comparable performance EVs. The 2026 price cut and re-focus on Scat Pack-and-up trims is widely viewed as a correction after a soft 2024-2025 launch.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/dodge/charger/2026/electric/",
+            "date": "2026-03-15"
+          },
+          {
+            "publication": "JD Power",
+            "url": "https://www.jdpower.com/cars/expert-reviews/2026-dodge-charger-daytona-sedan-review",
+            "date": "2026-02-20"
+          },
+          {
+            "publication": "GreenCars",
+            "url": "https://www.greencars.com/expert-insights/2026-dodge-charger-daytona-muscles-up-the-ev",
+            "date": "2026-01-10"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Limited 2026-MY owner data on Edmunds and KBB; the Charger Daytona was a slow-selling 2024-2025 launch and 2026 deliveries are still ramping. Early-MY reviewer sentiment praises styling and the Fratzonic exhaust, complains about ride harshness and infotainment quirks.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/dodge/charger/2026/electric/",
+          "https://www.kbb.com/dodge/charger-daytona/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Scat Pack Coupe",
+          "trim_slug": "scat-pack-coupe",
+          "trim_family": "scat-pack-coupe",
+          "is_base_trim": true,
+          "msrp_base": 61990,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 670,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 627,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 100.5,
+            "battery_usable_kwh": 93.9,
+            "electric_range_mi": 241,
+            "total_range_mi": 241,
+            "dc_fast_charge_peak_kw": 183,
+            "dc_fast_charge_10_to_80_min": 27,
+            "ac_charge_kw": 11,
+            "mpge_combined": 86,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 92,
+            "highway_mpg": 80,
+            "combined_mpg": 86,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 900
+          },
+          "performance": {
+            "zero_to_60_sec": 3.3,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 134,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 206.6,
+            "width_in": 79.8,
+            "height_in": 59,
+            "wheelbase_in": 121,
+            "ground_clearance_in": 5.5,
+            "curb_weight_lb": 5778,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 22.8,
+              "behind_1st_row": 37.4,
+              "max_with_seats_folded": 37.4,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "305/35ZR20 front, 305/35ZR20 rear all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "9-speaker",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Fratzonic Chambered Exhaust (simulated sound system)",
+              "PowerShot push-to-pass boost (+40 hp for 15 sec)",
+              "Drag Mode, Track Mode, Donut Mode drive modes",
+              "Brembo 6-piston front brakes",
+              "Launch Control and Line Lock standard",
+              "Hatchback liftgate (looks like sedan/coupe)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_492CHn7mdn94rnqdnkkos8878oftipc__mid.jpg",
+              "local_path": "images/dodge/charger-daytona/scat-pack-coupe/front_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_493CHpd52tbtku3gf86qpigmk9q6eo1__mid.jpg",
+              "local_path": "images/dodge/charger-daytona/scat-pack-coupe/rear_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_494CH3c8aou00lcng8gjv0c84taqv1v__mid.jpg",
+              "local_path": "images/dodge/charger-daytona/scat-pack-coupe/side_profile.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.dodge.com/charger.html",
+              "local_path": "images/dodge/charger-daytona/scat-pack-coupe/interior_dashboard.jpg",
+              "credit": "Dodge",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.dodgegarage.com/news/article/press-room/2025/11/dodge-opens-orders-for-sixpack-powered-dodge-charger-scat-pack-most-powerful-sedan-under-60000",
+            "powertrain": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26970&mid=1",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49649",
+            "performance.zero_to_60_sec": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26970&mid=1",
+            "dimensions": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26970&mid=1",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings?make=Dodge&model=Charger&year=2026",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/dodge/charger-4-door-sedan/2026",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26970&mid=1",
+            "warranty": "https://www.dodge.com/warranty.html"
+          },
+          "delta_from_base": null,
+          "notes": "Two-door coupe with Scat Pack EV powertrain. EPA ID 49649 = '2026 Dodge Charger Daytona Scat Pack AWD 325/35ZR20 Rear' (the staggered wide-tire Scat Pack-spec configuration). 86 MPGe combined / 47 kWh per 100 mi / 241-mi range. The Daytona R/T base EV trim was discontinued for 2026 — Scat Pack is now the entry EV trim, hence is_base_trim:true. ADAS coverage per Stellantis press kit ('highest level of autonomous driving features of any muscle car'). NHTSA and IIHS have not crash-tested 2026 Charger; the second-gen LB platform is too new for full ratings (NHTSA roll-up cited)."
+        },
+        {
+          "trim": "Scat Pack Sedan",
+          "trim_slug": "scat-pack-sedan",
+          "trim_family": "scat-pack-sedan",
+          "is_base_trim": true,
+          "msrp_base": 63990,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 670,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 627,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 100.5,
+            "battery_usable_kwh": 93.9,
+            "electric_range_mi": 241,
+            "total_range_mi": 241,
+            "dc_fast_charge_peak_kw": 183,
+            "dc_fast_charge_10_to_80_min": 27,
+            "ac_charge_kw": 11,
+            "mpge_combined": 86,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 92,
+            "highway_mpg": 80,
+            "combined_mpg": 86,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 900
+          },
+          "performance": {
+            "zero_to_60_sec": 3.3,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 134,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 206.6,
+            "width_in": 79.8,
+            "height_in": 59.1,
+            "wheelbase_in": 121,
+            "ground_clearance_in": 5.6,
+            "curb_weight_lb": 5828,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 22.8,
+              "behind_1st_row": 37.4,
+              "max_with_seats_folded": 37.4,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "305/35ZR20 front, 325/35ZR20 rear all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "9-speaker",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Fratzonic Chambered Exhaust (simulated sound system)",
+              "PowerShot push-to-pass boost (+40 hp for 15 sec)",
+              "Drag Mode, Track Mode, Donut Mode drive modes",
+              "Brembo 6-piston front brakes",
+              "Launch Control and Line Lock standard",
+              "Hatchback liftgate (looks like sedan)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_492CHn7mdn94rnqdnkkos8878oftipc__mid.jpg",
+              "local_path": "images/dodge/charger-daytona/scat-pack-sedan/front_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_493CHpd52tbtku3gf86qpigmk9q6eo1__mid.jpg",
+              "local_path": "images/dodge/charger-daytona/scat-pack-sedan/rear_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_494CH3c8aou00lcng8gjv0c84taqv1v__mid.jpg",
+              "local_path": "images/dodge/charger-daytona/scat-pack-sedan/side_profile.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.dodge.com/charger.html",
+              "local_path": "images/dodge/charger-daytona/scat-pack-sedan/interior_dashboard.jpg",
+              "credit": "Dodge",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.dodgegarage.com/news/article/press-room/2025/11/dodge-opens-orders-for-sixpack-powered-dodge-charger-scat-pack-most-powerful-sedan-under-60000",
+            "powertrain": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26970&mid=1",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49649",
+            "performance.zero_to_60_sec": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26970&mid=1",
+            "dimensions": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26970&mid=1",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings?make=Dodge&model=Charger&year=2026",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/dodge/charger-4-door-sedan/2026",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26970&mid=1",
+            "warranty": "https://www.dodge.com/warranty.html"
+          },
+          "delta_from_base": null,
+          "notes": "Four-door sedan with Scat Pack EV powertrain. Sole-trim atomic rule: this is its own trim_family (scat-pack-sedan) and is the family's only member, so is_base_trim:true and delta_from_base:null. Pricing is +$2,000 over the coupe per Dodge's '$2,000 for four doors' rule. Body, MSRP, and curb weight differ from the coupe; images shared with coupe family until trim-specific media is released. EPA ID 49649 shared with coupe (same powertrain configuration)."
+        },
+        {
+          "trim": "Scat Pack Plus Coupe",
+          "trim_slug": "scat-pack-plus-coupe",
+          "trim_family": "scat-pack-coupe",
+          "is_base_trim": false,
+          "msrp_base": 64990,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "305/35ZR20 front, 325/35ZR20 rear all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 16,
+            "driver_display_in": 16,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Alpine 18-speaker with subwoofer and 914-watt amplifier",
+            "sunroof": "panoramic",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Fixed panoramic glass roof with UV protection",
+              "Heated second-row seats",
+              "64-color Attitude Adjustment interior lighting",
+              "Proximity wake-up with Dodge welcome lighting",
+              "8-way power front seats with 12-way option",
+              "Larger 16-inch driver cluster"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_492CHn7mdn94rnqdnkkos8878oftipc__mid.jpg",
+              "local_path": "images/dodge/charger-daytona/scat-pack-coupe/front_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_493CHpd52tbtku3gf86qpigmk9q6eo1__mid.jpg",
+              "local_path": "images/dodge/charger-daytona/scat-pack-coupe/rear_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_494CH3c8aou00lcng8gjv0c84taqv1v__mid.jpg",
+              "local_path": "images/dodge/charger-daytona/scat-pack-coupe/side_profile.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.dodge.com/charger.html",
+              "local_path": "images/dodge/charger-daytona/scat-pack-coupe/interior_dashboard.jpg",
+              "credit": "Dodge",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.edmunds.com/dodge/charger/2026/electric/",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26970&mid=1",
+            "warranty": "https://www.dodge.com/warranty.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "scat-pack-coupe",
+            "msrp_delta_usd": 3000,
+            "changes": [
+              "Adds Alpine 18-speaker premium audio with 914-watt amplifier and subwoofer (vs 9-speaker)",
+              "Adds fixed panoramic glass roof with UV protection",
+              "Adds ventilated front seats and heated second-row seats",
+              "Adds head-up display and 16-inch reconfigurable driver display",
+              "Adds 64-color Attitude Adjustment interior lighting",
+              "Adds Nappa leather with Alcantara performance seat inserts",
+              "Adds 16-inch infotainment touchscreen (vs 12.3-inch)"
+            ]
+          },
+          "notes": "Step-up Plus trim of the Scat Pack Coupe family. Mechanically identical to the base Scat Pack Coupe (670 hp, 86 MPGe, 241 mi range, same dimensions/curb weight); all delta is interior/equipment. Plus content is structured as a $3,000 package over the base Scat Pack Coupe per Dodge's published 2026 trim split. Shares images with the Scat Pack Coupe trim_family."
+        },
+        {
+          "trim": "Scat Pack Plus Sedan",
+          "trim_slug": "scat-pack-plus-sedan",
+          "trim_family": "scat-pack-sedan",
+          "is_base_trim": false,
+          "msrp_base": 66990,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "305/35ZR20 front, 325/35ZR20 rear all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 16,
+            "driver_display_in": 16,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Alpine 18-speaker with subwoofer and 914-watt amplifier",
+            "sunroof": "panoramic",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Fixed panoramic glass roof with UV protection",
+              "Heated second-row seats",
+              "64-color Attitude Adjustment interior lighting",
+              "Proximity wake-up with Dodge welcome lighting",
+              "8-way power front seats with 12-way option",
+              "Larger 16-inch driver cluster"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_492CHn7mdn94rnqdnkkos8878oftipc__mid.jpg",
+              "local_path": "images/dodge/charger-daytona/scat-pack-sedan/front_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_493CHpd52tbtku3gf86qpigmk9q6eo1__mid.jpg",
+              "local_path": "images/dodge/charger-daytona/scat-pack-sedan/rear_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_494CH3c8aou00lcng8gjv0c84taqv1v__mid.jpg",
+              "local_path": "images/dodge/charger-daytona/scat-pack-sedan/side_profile.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.dodge.com/charger.html",
+              "local_path": "images/dodge/charger-daytona/scat-pack-sedan/interior_dashboard.jpg",
+              "credit": "Dodge",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.edmunds.com/dodge/charger/2026/electric/",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26970&mid=1",
+            "warranty": "https://www.dodge.com/warranty.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "scat-pack-sedan",
+            "msrp_delta_usd": 3000,
+            "changes": [
+              "Adds Alpine 18-speaker premium audio with 914-watt amplifier and subwoofer (vs 9-speaker)",
+              "Adds fixed panoramic glass roof with UV protection",
+              "Adds ventilated front seats and heated second-row seats",
+              "Adds head-up display and 16-inch reconfigurable driver display",
+              "Adds 64-color Attitude Adjustment interior lighting",
+              "Adds Nappa leather with Alcantara performance seat inserts",
+              "Adds 16-inch infotainment touchscreen (vs 12.3-inch)"
+            ]
+          },
+          "notes": "Step-up Plus trim of the Scat Pack Sedan family. Mechanically identical to the base Scat Pack Sedan (670 hp, 86 MPGe, 241 mi range, same dimensions/curb weight); all delta is interior/equipment. Plus content is structured as a $3,000 package over the base Scat Pack Sedan per Dodge's published 2026 trim split. Shares images with the Scat Pack Sedan trim_family."
+        }
+      ],
+      "researched_at": "2026-05-15",
+      "notes": "Body_style coded as 'coupe' because the manufacturer's branded 2-door form is the dominant marketed body style; the 4-door 'sedan' is a hatchback variant of the same fastback shape on the same platform and wheelbase. Two trim_families (scat-pack-coupe and scat-pack-sedan) cover the two body styles, each with a Scat Pack base trim and Scat Pack Plus step-up. The lower-output Daytona R/T EV was discontinued for 2026 due to weak demand and Stellantis citing US tariffs on Canada-built Charger (autonews coverage of the May 2025 decision); thus 2026 EV lineup is Scat Pack and Scat Pack Plus only. Charger Daytona is split from Charger Sixpack as a separate model per the §6.4 multi-powertrain rule and the Wrangler / Wrangler 4xe precedent in jeep.json. Interior images flagged needs_scraping because Stellantis press gallery focuses on exterior shots."
+    },
+    {
+      "model": "Charger Sixpack",
+      "model_slug": "charger-sixpack",
+      "model_year": 2026,
+      "body_style": "coupe",
+      "generation_context": "Second-gen Charger (LB platform) introduced for 2024 MY initially as EV-only; the gasoline 'Sixpack' (3.0L twin-turbo I6 'Hurricane') variant launched for 2026 MY with R/T (420 hp) and Scat Pack (550 hp) tunes. The Charger badge is multi-energy: 'Charger' (or 'Charger Sixpack') refers to the gas line; 'Charger Daytona' refers to the EV line. The discontinued V8-powered Charger SRT Hellcat is not returning; the Hurricane I6 is the new performance flagship.",
+      "msrp_range": {
+        "low": 51990,
+        "high": 63985
+      },
+      "model_summary": "Gas-powered two-door coupe or four-door sedan muscle car sharing the LB platform with the Charger Daytona EV. 3.0L twin-turbo 'SIXPACK' inline-six in two tunes: Standard Output (420 hp) on R/T and High Output (550 hp) on Scat Pack. Standard AWD with selectable RWD mode, 8-speed automatic. Four trims (R/T, R/T Plus, Scat Pack, Scat Pack Plus) each offered as 2-door or 4-door body styles; four-door adds $2,000 across the lineup.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "Consumer Reports has not published a 2026 Charger predicted reliability score; the second-gen Charger is too new for VDS. Dodge brand placed near the bottom of the 2026 JD Power VDS at 267 PP100 vs ~190 industry average. The Hurricane I6 is shared with the Wagoneer and Ram 1500 and has been on the road since 2023, but the new Charger application is its first car-platform deployment.",
+        "confidence": "low",
+        "sources": [
+          "https://www.consumerreports.org/cars/dodge/charger/2026/reliability/",
+          "https://www.jdpower.com/cars/2026/dodge/charger"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power has not published a 2026 APEAL score specific to the Charger Sixpack. Reviewer sentiment is more positive than for the EV Daytona: the Sixpack restores a true exhaust note and a familiar muscle-car formula at a lower MSRP.",
+        "confidence": "low",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers welcome the return of a gas-powered Charger but flag that the Hurricane I6 with mandatory AWD lacks the V8 character of the previous-gen Hellcat/Scat Pack. Edmunds tested a Scat Pack Plus at 0-60 in 4.2 seconds (vs 3.9 mfr claim); MotorTrend got 4.0 sec. Common praises: chassis poise, refined cabin, 12.3-inch Uconnect 5; complaints: heavy curb weight (~4,800 lb), mandatory AWD on all trims, pricing pushing over $50K once destination is included.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/car-news/2026-dodge-charger-sixpack-first-drive-review.html",
+            "date": "2026-03-15"
+          },
+          {
+            "publication": "MotorWeek",
+            "url": "https://motorweek.org/road-tests/track-tests/2026-dodge-charger-sixpack/",
+            "date": "2026-02-10"
+          },
+          {
+            "publication": "JD Power",
+            "url": "https://www.jdpower.com/cars/expert-reviews/2026-dodge-charger-review",
+            "date": "2026-02-20"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": 3,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Very limited 2026-MY owner data on Edmunds (only 3 reviews for the broader 2026 Charger line) and KBB; deliveries of the Sixpack-powered models began Q1 2026.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/dodge/charger/2026/consumer-reviews/",
+          "https://www.kbb.com/dodge/charger/2026/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "R/T Coupe",
+          "trim_slug": "rt-coupe",
+          "trim_family": "rt-coupe",
+          "is_base_trim": true,
+          "msrp_base": 51990,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3,
+            "engine_config": "I6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 420,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 468,
+            "transmission": "8-speed automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 17,
+            "highway_mpg": 26,
+            "combined_mpg": 20,
+            "fuel_tank_gal": 17.5,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 3000
+          },
+          "performance": {
+            "zero_to_60_sec": 4.6,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 168,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 206.6,
+            "width_in": 79.8,
+            "height_in": 59,
+            "wheelbase_in": 121,
+            "ground_clearance_in": 5.5,
+            "curb_weight_lb": 4800,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 22.8,
+              "behind_1st_row": 37.4,
+              "max_with_seats_folded": 37.4,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/55ZR20 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "9-speaker",
+            "sunroof": "none",
+            "seat_material": "performance_cloth",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Active transfer case with front axle disconnect (AWD-to-RWD switching)",
+              "Mechanical limited-slip differential",
+              "Auto/Eco/Wet-Snow/Sport drive modes",
+              "Optional Performance Handling Group adds Brembo brakes, Launch Control, Line Lock",
+              "Uconnect 5 with TomTom navigation available"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_388CHdha7b8sck0qk65i70ldmvhsdi2__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/rt-coupe/front_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_400CHfv125nq7c2j7cadsjbhd1ca__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/rt-coupe/rear_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.dodge.com/charger.html",
+              "local_path": "images/dodge/charger-sixpack/rt-coupe/side_profile.jpg",
+              "credit": "Dodge",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_449CHvu609a74dh38min29c3djmcp0l__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/rt-coupe/interior_dashboard.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.prnewswire.com/news-releases/sixpack-powered-2026-dodge-charger-rt-delivers-most-entry-level-horsepower-of-any-muscle-car-expands-charger-multi-energy-lineup-302708303.html",
+            "powertrain": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50283",
+            "performance.zero_to_60_sec": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car",
+            "dimensions": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings?make=Dodge&model=Charger&year=2026",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/dodge/charger-4-door-sedan/2026",
+            "features": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car",
+            "warranty": "https://www.dodge.com/warranty.html"
+          },
+          "delta_from_base": null,
+          "notes": "Two-door coupe with SIXPACK Standard Output (S.O.) 3.0L twin-turbo I6, 420 hp / 468 lb-ft. MSRP $49,995 base + $1,995 destination = $51,990 published price. EPA ID 50283 = 'Charger R/T AWD 3.0L 6-cyl Turbo' (regular gasoline). Base trim of the rt-coupe trim_family. The R/T is the entry ICE trim — sole-trim atomic rule applied because rt-coupe family contains R/T (no R/T Plus separately under that family slug)."
+        },
+        {
+          "trim": "R/T Sedan",
+          "trim_slug": "rt-sedan",
+          "trim_family": "rt-sedan",
+          "is_base_trim": true,
+          "msrp_base": 53990,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3,
+            "engine_config": "I6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 420,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 468,
+            "transmission": "8-speed automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 17,
+            "highway_mpg": 26,
+            "combined_mpg": 20,
+            "fuel_tank_gal": 17.5,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 3000
+          },
+          "performance": {
+            "zero_to_60_sec": 4.6,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 168,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 206.6,
+            "width_in": 79.8,
+            "height_in": 59.1,
+            "wheelbase_in": 121,
+            "ground_clearance_in": 5.6,
+            "curb_weight_lb": 4850,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 22.8,
+              "behind_1st_row": 38.5,
+              "max_with_seats_folded": 38.5,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/55ZR20 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "9-speaker",
+            "sunroof": "none",
+            "seat_material": "performance_cloth",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Active transfer case with front axle disconnect (AWD-to-RWD switching)",
+              "Mechanical limited-slip differential",
+              "Auto/Eco/Wet-Snow/Sport drive modes",
+              "Optional Performance Handling Group adds Brembo brakes, Launch Control, Line Lock",
+              "Uconnect 5 with TomTom navigation available"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_388CHdha7b8sck0qk65i70ldmvhsdi2__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/rt-sedan/front_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_400CHfv125nq7c2j7cadsjbhd1ca__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/rt-sedan/rear_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.dodge.com/charger.html",
+              "local_path": "images/dodge/charger-sixpack/rt-sedan/side_profile.jpg",
+              "credit": "Dodge",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_449CHvu609a74dh38min29c3djmcp0l__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/rt-sedan/interior_dashboard.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.prnewswire.com/news-releases/sixpack-powered-2026-dodge-charger-rt-delivers-most-entry-level-horsepower-of-any-muscle-car-expands-charger-multi-energy-lineup-302708303.html",
+            "powertrain": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50283",
+            "performance.zero_to_60_sec": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car",
+            "dimensions": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings?make=Dodge&model=Charger&year=2026",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/dodge/charger-4-door-sedan/2026",
+            "features": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car",
+            "warranty": "https://www.dodge.com/warranty.html"
+          },
+          "delta_from_base": null,
+          "notes": "Four-door sedan version of the R/T (SIXPACK S.O.). Sole-trim atomic rule: rt-sedan family is its own trim_family with only this one trim, so is_base_trim:true and delta_from_base:null. +$2,000 over the R/T Coupe per Dodge's '$2,000 for four doors' rule. Shares EPA ID 50283 with R/T Coupe (same powertrain). Body, sedan-specific trunk volume, slight curb-weight delta from coupe. Cargo volume estimate (38.5 cuft) is approximate per cars.com research listing."
+        },
+        {
+          "trim": "R/T Plus Coupe",
+          "trim_slug": "rt-plus-coupe",
+          "trim_family": "rt-coupe",
+          "is_base_trim": false,
+          "msrp_base": 56985,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "275/40ZR20 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 16,
+            "driver_display_in": 16,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Alpine 18-speaker with subwoofer and 914-watt amplifier",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Fixed panoramic glass roof with UV protection",
+              "Heated second-row seats",
+              "64-color Attitude Adjustment interior lighting",
+              "Available 8-way power high-back leather performance seats",
+              "Larger 16-inch driver cluster and 16-inch infotainment touchscreen"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_388CHdha7b8sck0qk65i70ldmvhsdi2__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/rt-coupe/front_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_400CHfv125nq7c2j7cadsjbhd1ca__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/rt-coupe/rear_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.dodge.com/charger.html",
+              "local_path": "images/dodge/charger-sixpack/rt-coupe/side_profile.jpg",
+              "credit": "Dodge",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_449CHvu609a74dh38min29c3djmcp0l__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/rt-coupe/interior_dashboard.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.edmunds.com/dodge/charger/2026/sedan/",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26970&mid=1",
+            "warranty": "https://www.dodge.com/warranty.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "rt-coupe",
+            "msrp_delta_usd": 4995,
+            "changes": [
+              "Adds Alpine 18-speaker premium audio with subwoofer and 914-watt amplifier (vs 9-speaker)",
+              "Adds fixed panoramic glass roof with UV protection",
+              "Adds ventilated front seats and heated second-row seats",
+              "Adds head-up display and 16-inch reconfigurable driver display",
+              "Adds 16-inch infotainment touchscreen (vs 12.3-inch)",
+              "Adds 64-color Attitude Adjustment interior lighting",
+              "Adds leather seat material (vs performance cloth)"
+            ]
+          },
+          "notes": "Plus-package upgrade trim of R/T Coupe. Mechanically identical to R/T Coupe (420 hp, same dimensions/curb weight); content adds the Plus interior package. Plus content priced as a $4,995 package per Dodge's published 2026 trim split."
+        },
+        {
+          "trim": "R/T Plus Sedan",
+          "trim_slug": "rt-plus-sedan",
+          "trim_family": "rt-sedan",
+          "is_base_trim": false,
+          "msrp_base": 58985,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "275/40ZR20 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 16,
+            "driver_display_in": 16,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Alpine 18-speaker with subwoofer and 914-watt amplifier",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Fixed panoramic glass roof with UV protection",
+              "Heated second-row seats",
+              "64-color Attitude Adjustment interior lighting",
+              "Available 8-way power high-back leather performance seats",
+              "Larger 16-inch driver cluster and 16-inch infotainment touchscreen"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_388CHdha7b8sck0qk65i70ldmvhsdi2__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/rt-sedan/front_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_400CHfv125nq7c2j7cadsjbhd1ca__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/rt-sedan/rear_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.dodge.com/charger.html",
+              "local_path": "images/dodge/charger-sixpack/rt-sedan/side_profile.jpg",
+              "credit": "Dodge",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_449CHvu609a74dh38min29c3djmcp0l__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/rt-sedan/interior_dashboard.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.edmunds.com/dodge/charger/2026/sedan/",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26970&mid=1",
+            "warranty": "https://www.dodge.com/warranty.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "rt-sedan",
+            "msrp_delta_usd": 4995,
+            "changes": [
+              "Adds Alpine 18-speaker premium audio with subwoofer and 914-watt amplifier (vs 9-speaker)",
+              "Adds fixed panoramic glass roof with UV protection",
+              "Adds ventilated front seats and heated second-row seats",
+              "Adds head-up display and 16-inch reconfigurable driver display",
+              "Adds 16-inch infotainment touchscreen (vs 12.3-inch)",
+              "Adds 64-color Attitude Adjustment interior lighting",
+              "Adds leather seat material (vs performance cloth)"
+            ]
+          },
+          "notes": "Plus-package upgrade trim of R/T Sedan. Mechanically identical to R/T Sedan (420 hp, same dimensions/curb weight); content adds the Plus interior package. Plus content priced as a $4,995 package per Dodge's published 2026 trim split."
+        },
+        {
+          "trim": "Scat Pack Coupe",
+          "trim_slug": "scat-pack-coupe",
+          "trim_family": "scat-pack-coupe",
+          "is_base_trim": true,
+          "msrp_base": 56990,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3,
+            "engine_config": "I6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 550,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 531,
+            "transmission": "8-speed automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 16,
+            "highway_mpg": 23,
+            "combined_mpg": 19,
+            "fuel_tank_gal": 17.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3650
+          },
+          "performance": {
+            "zero_to_60_sec": 3.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 177,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 206.6,
+            "width_in": 79.8,
+            "height_in": 59,
+            "wheelbase_in": 121,
+            "ground_clearance_in": 5.5,
+            "curb_weight_lb": 4870,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 22.8,
+              "behind_1st_row": 37.4,
+              "max_with_seats_folded": 37.4,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "305/35ZR20 front, 305/35ZR20 rear summer performance"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "9-speaker",
+            "sunroof": "none",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "SIXPACK High Output (H.O.) 3.0L twin-turbo I6, 550 hp",
+              "Brembo 6-piston front brakes standard",
+              "Launch Control and Line Lock standard",
+              "3.45 rear axle ratio with mechanical limited-slip differential",
+              "Active transfer case (AWD with RWD mode selectable)",
+              "Premium leather-and-suede performance seats with Carbon & Suede accents"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_499CHja5s90prmovo5nlo446cd0qqtl__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/scat-pack-coupe/front_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_478CHuf4jh0kdbfbb01sl3oirkpo89o__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/scat-pack-coupe/rear_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.dodge.com/charger.html",
+              "local_path": "images/dodge/charger-sixpack/scat-pack-coupe/side_profile.jpg",
+              "credit": "Dodge",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_449CHvu609a74dh38min29c3djmcp0l__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/scat-pack-coupe/interior_dashboard.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.dodgegarage.com/news/article/press-room/2025/11/dodge-opens-orders-for-sixpack-powered-dodge-charger-scat-pack-most-powerful-sedan-under-60000",
+            "powertrain": "https://www.dodgegarage.com/news/article/press-room/2025/11/dodge-opens-orders-for-sixpack-powered-dodge-charger-scat-pack-most-powerful-sedan-under-60000",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50068",
+            "performance.zero_to_60_sec": "https://www.dodgegarage.com/news/article/press-room/2025/11/dodge-opens-orders-for-sixpack-powered-dodge-charger-scat-pack-most-powerful-sedan-under-60000",
+            "dimensions": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings?make=Dodge&model=Charger&year=2026",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/dodge/charger-4-door-sedan/2026",
+            "features": "https://www.dodgegarage.com/news/article/press-room/2025/11/dodge-opens-orders-for-sixpack-powered-dodge-charger-scat-pack-most-powerful-sedan-under-60000",
+            "warranty": "https://www.dodge.com/warranty.html"
+          },
+          "delta_from_base": null,
+          "notes": "Two-door coupe with SIXPACK High Output (H.O.) 3.0L twin-turbo I6, 550 hp / 531 lb-ft. EPA ID 50068 = 'Charger Scat Pack AWD 3.0L 6-cyl Turbo' premium gasoline. Higher-output engine treated as a distinct powertrain line within the Sixpack ICE branch (S.O. 420 hp vs H.O. 550 hp); per the multi-powertrain rule (§6.4) and sole-trim atomic rule, scat-pack-coupe is its own trim_family and the Scat Pack Coupe is its base. NHTSA / IIHS 2026 ratings not yet published for second-gen LB platform."
+        },
+        {
+          "trim": "Scat Pack Sedan",
+          "trim_slug": "scat-pack-sedan",
+          "trim_family": "scat-pack-sedan",
+          "is_base_trim": true,
+          "msrp_base": 58990,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3,
+            "engine_config": "I6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 550,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 531,
+            "transmission": "8-speed automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 16,
+            "highway_mpg": 23,
+            "combined_mpg": 19,
+            "fuel_tank_gal": 17.5,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3650
+          },
+          "performance": {
+            "zero_to_60_sec": 3.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 177,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 206.6,
+            "width_in": 79.8,
+            "height_in": 59.1,
+            "wheelbase_in": 121,
+            "ground_clearance_in": 5.6,
+            "curb_weight_lb": 4920,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 22.8,
+              "behind_1st_row": 38.5,
+              "max_with_seats_folded": 38.5,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "305/35ZR20 front, 305/35ZR20 rear summer performance"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "9-speaker",
+            "sunroof": "none",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "SIXPACK High Output (H.O.) 3.0L twin-turbo I6, 550 hp",
+              "Brembo 6-piston front brakes standard",
+              "Launch Control and Line Lock standard",
+              "3.45 rear axle ratio with mechanical limited-slip differential",
+              "Active transfer case (AWD with RWD mode selectable)",
+              "Premium leather-and-suede performance seats with Carbon & Suede accents"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_390CHpi58km0cfddnof47cc257qsnbs__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/scat-pack-sedan/front_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_498CH2pvdgb0j4aj18f67n5opfouur9__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/scat-pack-sedan/rear_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.dodge.com/charger.html",
+              "local_path": "images/dodge/charger-sixpack/scat-pack-sedan/side_profile.jpg",
+              "credit": "Dodge",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_449CHvu609a74dh38min29c3djmcp0l__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/scat-pack-sedan/interior_dashboard.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.dodgegarage.com/news/article/press-room/2025/11/dodge-opens-orders-for-sixpack-powered-dodge-charger-scat-pack-most-powerful-sedan-under-60000",
+            "powertrain": "https://www.dodgegarage.com/news/article/press-room/2025/11/dodge-opens-orders-for-sixpack-powered-dodge-charger-scat-pack-most-powerful-sedan-under-60000",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50068",
+            "performance.zero_to_60_sec": "https://www.dodgegarage.com/news/article/press-room/2025/11/dodge-opens-orders-for-sixpack-powered-dodge-charger-scat-pack-most-powerful-sedan-under-60000",
+            "dimensions": "https://www.dodgegarage.com/news/article/press-room/2025/12/power-unpacked-dodge-unlocks-orders-for-sixpack-powered-charger-r-t-delivers-most-standard-horsepower-of-any-muscle-car",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings?make=Dodge&model=Charger&year=2026",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/dodge/charger-4-door-sedan/2026",
+            "features": "https://www.dodgegarage.com/news/article/press-room/2025/11/dodge-opens-orders-for-sixpack-powered-dodge-charger-scat-pack-most-powerful-sedan-under-60000",
+            "warranty": "https://www.dodge.com/warranty.html"
+          },
+          "delta_from_base": null,
+          "notes": "Four-door sedan version of the Scat Pack (SIXPACK H.O.). Sole-trim atomic rule: scat-pack-sedan family for the Sixpack ICE Scat Pack is its own trim_family with only this one trim, so is_base_trim:true and delta_from_base:null. +$2,000 over Scat Pack Coupe per Dodge's '$2,000 for four doors' rule. Cargo volume estimate (38.5 cuft) is approximate per cars.com research listing."
+        },
+        {
+          "trim": "Scat Pack Plus Coupe",
+          "trim_slug": "scat-pack-plus-coupe",
+          "trim_family": "scat-pack-coupe",
+          "is_base_trim": false,
+          "msrp_base": 61985,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "305/35ZR20 front, 325/35ZR20 rear summer performance"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 16,
+            "driver_display_in": 16,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Alpine 18-speaker with subwoofer and 914-watt amplifier",
+            "sunroof": "panoramic",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Fixed panoramic glass roof with UV protection",
+              "Heated second-row seats",
+              "64-color Attitude Adjustment interior lighting",
+              "8-way power high-back leather performance seats (12-way option)",
+              "Larger 16-inch infotainment touchscreen and 16-inch driver display"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_499CHja5s90prmovo5nlo446cd0qqtl__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/scat-pack-coupe/front_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_478CHuf4jh0kdbfbb01sl3oirkpo89o__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/scat-pack-coupe/rear_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.dodge.com/charger.html",
+              "local_path": "images/dodge/charger-sixpack/scat-pack-coupe/side_profile.jpg",
+              "credit": "Dodge",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_449CHvu609a74dh38min29c3djmcp0l__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/scat-pack-coupe/interior_dashboard.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.audacy.com/waok/news/local/2026-charger-scat-pack-plus-sixpack-power-and-awd-grip",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26970&mid=1",
+            "warranty": "https://www.dodge.com/warranty.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "scat-pack-coupe",
+            "msrp_delta_usd": 4995,
+            "changes": [
+              "Adds Alpine 18-speaker premium audio with subwoofer and 914-watt amplifier (vs 9-speaker)",
+              "Adds fixed panoramic glass roof with UV protection",
+              "Adds ventilated front seats and heated second-row seats",
+              "Adds head-up display and 16-inch reconfigurable driver display",
+              "Adds 16-inch infotainment touchscreen (vs 12.3-inch)",
+              "Adds 64-color Attitude Adjustment interior lighting",
+              "Wider 325 rear tires for additional grip"
+            ]
+          },
+          "notes": "Plus-package upgrade trim of Scat Pack Coupe. Mechanically identical to Scat Pack Coupe (550 hp, same dimensions/curb weight); content adds the Plus interior package and wider rear tires. MSRP $54,995 + $4,995 Plus package + $1,995 destination = $61,985 delivered."
+        },
+        {
+          "trim": "Scat Pack Plus Sedan",
+          "trim_slug": "scat-pack-plus-sedan",
+          "trim_family": "scat-pack-sedan",
+          "is_base_trim": false,
+          "msrp_base": 63985,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": null,
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "305/35ZR20 front, 325/35ZR20 rear summer performance"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 16,
+            "driver_display_in": 16,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Alpine 18-speaker with subwoofer and 914-watt amplifier",
+            "sunroof": "panoramic",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Fixed panoramic glass roof with UV protection",
+              "Heated second-row seats",
+              "64-color Attitude Adjustment interior lighting",
+              "8-way power high-back leather performance seats (12-way option)",
+              "Larger 16-inch infotainment touchscreen and 16-inch driver display"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_390CHpi58km0cfddnof47cc257qsnbs__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/scat-pack-sedan/front_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_498CH2pvdgb0j4aj18f67n5opfouur9__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/scat-pack-sedan/rear_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.dodge.com/charger.html",
+              "local_path": "images/dodge/charger-sixpack/scat-pack-sedan/side_profile.jpg",
+              "credit": "Dodge",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_449CHvu609a74dh38min29c3djmcp0l__mid.jpg",
+              "local_path": "images/dodge/charger-sixpack/scat-pack-sedan/interior_dashboard.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.audacy.com/waok/news/local/2026-charger-scat-pack-plus-sixpack-power-and-awd-grip",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26970&mid=1",
+            "warranty": "https://www.dodge.com/warranty.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "scat-pack-sedan",
+            "msrp_delta_usd": 4995,
+            "changes": [
+              "Adds Alpine 18-speaker premium audio with subwoofer and 914-watt amplifier (vs 9-speaker)",
+              "Adds fixed panoramic glass roof with UV protection",
+              "Adds ventilated front seats and heated second-row seats",
+              "Adds head-up display and 16-inch reconfigurable driver display",
+              "Adds 16-inch infotainment touchscreen (vs 12.3-inch)",
+              "Adds 64-color Attitude Adjustment interior lighting",
+              "Wider 325 rear tires for additional grip"
+            ]
+          },
+          "notes": "Plus-package upgrade trim of Scat Pack Sedan. Mechanically identical to Scat Pack Sedan (550 hp); content adds the Plus interior package and wider rear tires. MSRP $56,995 + $4,995 Plus package + $1,995 destination = $63,985 delivered."
+        }
+      ],
+      "researched_at": "2026-05-15",
+      "notes": "Body_style coded 'coupe' to match the manufacturer's signature 2-door form; 4-door sedan variants share the same fastback / hatchback platform. Four trim_families: rt-coupe, rt-sedan, scat-pack-coupe, scat-pack-sedan — each split by body style AND by powertrain output tune (S.O. 420 hp vs H.O. 550 hp are treated as distinct powertrain lines within the Sixpack ICE branch per §6.4). Each family has one base trim (R/T or Scat Pack) and one step-up (R/T Plus or Scat Pack Plus). Split from Charger Daytona per the §6.4 multi-powertrain rule (ICE vs EV are separate powertrain lines) and the Wrangler/Wrangler 4xe precedent in jeep.json. Side-profile images flagged needs_scraping for all trims (Stellantis press gallery focuses on 3/4 angles)."
+    },
+    {
+      "model": "Durango",
+      "model_slug": "durango",
+      "model_year": 2026,
+      "body_style": "suv-3row",
+      "generation_context": "Third-gen Durango (WD platform, body-on-frame) launched for 2011 MY — among the oldest current-production three-row SUVs in the US market. Refreshed in 2021 and again with new V8 powertrains for 2026 MY. For 2026, every Durango is V8-powered: the entry GT moves to 5.7L HEMI standard (V6 is now limited production only), the R/T moves to the 6.4L 392 HEMI standard, and the SRT Hellcat remains as the supercharged 6.2L flagship. 2026 is widely reported as the final MY for the SRT Hellcat and the R/T 392 — both HEMI V8 trims are slated for discontinuation for 2027 MY.",
+      "msrp_range": {
+        "low": 42495,
+        "high": 81990
+      },
+      "model_summary": "Body-on-frame three-row mid-size SUV with V8 power across the lineup. Three core trim lines for 2026: GT (5.7L HEMI, 360 hp), R/T 392 (6.4L HEMI, 475 hp, new for MY26), and SRT Hellcat (6.2L supercharged HEMI, 710 hp). 8-speed automatic standard with AWD across all trims. 8,700-lb best-in-class towing standard on V8 models with Tow N Go package. Hellcat and R/T 392 confirmed as final MY before discontinuation in MY27.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": 2,
+        "summary": "Consumer Reports expects the 2026 Durango will be less reliable than the average new car, based on limited 2023-2024 owner data. Dodge brand placed near the bottom of the 2026 JD Power VDS at 267 PP100 vs ~190 industry average. RepairPal rates the Durango at 3.5 out of 5.0 for reliability, ranking 3rd of 14 full-size SUVs with $675 average annual repair cost.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.consumerreports.org/cars/dodge/durango/2026/reliability/",
+          "https://www.jdpower.com/cars/2026/dodge/durango",
+          "https://repairpal.com/reliability/dodge/durango"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power has not published a 2026 APEAL score specific to the Durango. KBB consumer-sentiment surveys show 90% would recommend the 2026 Durango (228 owners), praising styling and comfort, criticizing value.",
+        "confidence": "low",
+        "sources": [
+          "https://www.kbb.com/dodge/durango/2026/consumer-reviews/"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers continue to call the Durango the muscle-car alternative to its three-row peers — V8 sound, available 710-hp Hellcat, and 8,700-lb tow rating are unmatched in the segment. Critics flag the 15-year-old platform's compromised ride/handling, lower-end interior materials in the GT, and weak safety performance (4 stars NHTSA, no IIHS TSP, no pedestrian AEB). Edmunds rates the 2026 Durango 4.9 out of 10; MotorTrend praises the styling and V8 character. The R/T 392 (new standard 392 HEMI, 475 hp, 0-60 in 4.4 sec) is widely viewed as the sweet-spot trim for power-per-dollar in MY26.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/dodge/durango/",
+            "date": "2026-03-10"
+          },
+          {
+            "publication": "Consumer Reports",
+            "url": "https://www.consumerreports.org/cars/dodge/durango/2026/overview/",
+            "date": "2026-02-15"
+          },
+          {
+            "publication": "U.S. News",
+            "url": "https://cars.usnews.com/cars-trucks/dodge/durango",
+            "date": "2026-01-25"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": 4,
+        "edmunds_sample_size": 39,
+        "kbb_star_rating": null,
+        "kbb_sample_size": 228,
+        "summary": "Edmunds owners average 4 stars across 39 2026-MY reviews; KBB shows 90% recommend rate from 228 sentiment surveys. Praises focus on V8 power, looks, and towing; common complaints center on fuel economy, interior age, and price climbs.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.edmunds.com/dodge/durango/2026/consumer-reviews/",
+          "https://www.kbb.com/dodge/durango/2026/consumer-reviews/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "GT AWD",
+          "trim_slug": "gt-awd",
+          "trim_family": "gt",
+          "is_base_trim": true,
+          "msrp_base": 42495,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 5.7,
+            "engine_config": "V8",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 360,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 390,
+            "transmission": "8-speed TorqueFlite automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 14,
+            "highway_mpg": 21,
+            "combined_mpg": 16,
+            "fuel_tank_gal": 24.6,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 4650
+          },
+          "performance": {
+            "zero_to_60_sec": 6.6,
+            "zero_to_60_source": "estimated",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 7200,
+            "payload_capacity_lb": 1320
+          },
+          "dimensions": {
+            "length_in": 200.8,
+            "width_in": 75.8,
+            "height_in": 72.1,
+            "wheelbase_in": 119.8,
+            "ground_clearance_in": 8.1,
+            "curb_weight_lb": 5381,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 17.2,
+              "behind_2nd_row": 47.7,
+              "behind_1st_row": 85.1,
+              "max_with_seats_folded": 85.1,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "265/50R20 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 4,
+            "nhtsa_rating_year": 2026,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": false,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.1,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Alpine 6-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Uconnect 5 with 10.1-inch touchscreen",
+              "Advanced Brake Assist with Ready Alert Braking standard",
+              "ParkView rear back-up camera",
+              "Electronic Stability Control with Trailer Sway Control",
+              "Quadra-Trac I AWD with full-time torque distribution",
+              "Adaptive cruise control with stop is available, not standard"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_081DUmg3nen1cj7qonc57hqd9fhb251__mid.jpg",
+              "local_path": "images/dodge/durango/gt/front_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_082DU7df7tnkrvpqtdn0fu9g220p12a__mid.jpg",
+              "local_path": "images/dodge/durango/gt/rear_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.dodge.com/durango.html",
+              "local_path": "images/dodge/durango/gt/side_profile.jpg",
+              "credit": "Dodge",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.dodge.com/durango.html",
+              "local_path": "images/dodge/durango/gt/interior_dashboard.jpg",
+              "credit": "Dodge",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26972&mid=",
+            "powertrain": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26972&mid=",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49576",
+            "performance.zero_to_60_sec": "https://www.edmunds.com/dodge/durango/",
+            "dimensions": "https://www.dodge.com/durango/specs.gt.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/DODGE/DURANGO",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/dodge/durango-4-door-suv/2026",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26972&mid=",
+            "warranty": "https://www.dodge.com/warranty.html"
+          },
+          "delta_from_base": null,
+          "notes": "Entry trim of the 2026 Durango lineup. Now standard with 5.7L HEMI V8 (360 hp) — V6 is limited production only. Standard AWD with Quadra-Trac I full-time system. NHTSA rates the 2011-2026 generation 4 stars overall; IIHS small-overlap-front incomplete (Marginal on driver side only), no Top Safety Pick award. EPA ID 49576 = 'Durango AWD 5.7L 8-cyl Midgrade Gasoline'. Tow N Go is an optional package that boosts towing to 8,700 lb (Class IV hitch, integrated trailer brake controller); not a separate trim. GT Plus / GT Premium / America250 / GT HEMI Plus / GT HEMI Premium are equipment packages on top of the GT trim per §6.5 (mentioned in trim notes but not split as separate trim entries)."
+        },
+        {
+          "trim": "R/T 392 Launch Edition",
+          "trim_slug": "rt-392-launch-edition",
+          "trim_family": "rt-392",
+          "is_base_trim": true,
+          "msrp_base": 51990,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 6.4,
+            "engine_config": "V8",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 475,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 470,
+            "transmission": "8-speed TorqueFlite automatic with paddle shifters",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 13,
+            "highway_mpg": 19,
+            "combined_mpg": 15,
+            "fuel_tank_gal": 24.6,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4600
+          },
+          "performance": {
+            "zero_to_60_sec": 4.4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 160,
+            "towing_capacity_lb": 8700,
+            "payload_capacity_lb": 1320
+          },
+          "dimensions": {
+            "length_in": 200.8,
+            "width_in": 76,
+            "height_in": 71.9,
+            "wheelbase_in": 119.8,
+            "ground_clearance_in": 8.1,
+            "curb_weight_lb": 5610,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 17.2,
+              "behind_2nd_row": 47.7,
+              "behind_1st_row": 85.1,
+              "max_with_seats_folded": 85.1,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 6,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "295/45ZR20 Pirelli Scorpion Zero Run-Flat"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 4,
+            "nhtsa_rating_year": 2026,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": false,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.1,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Alpine 9-speaker",
+            "sunroof": "none",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Adaptive damping high-performance suspension",
+              "Red Brembo 6-piston front / 4-piston rear brakes",
+              "Electronic limited-slip rear differential",
+              "High-performance exhaust",
+              "SRT performance drive modes (Track/Sport/Tow/Snow)",
+              "20x10-inch Satin Carbon wheels with Pirelli Scorpion Zero Run-Flat tires",
+              "Nappa leather and suede seats with SRT bolsters",
+              "Heated second-row captain's chairs",
+              "NHRA-certified 12.9-second quarter mile"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_085DUjo0t1q9j2b9fecdnn8k5ncvfhj__mid.jpg",
+              "local_path": "images/dodge/durango/rt-392/front_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_088DUe4fo3gbtlcpgndbora19nrfur1__mid.jpg",
+              "local_path": "images/dodge/durango/rt-392/rear_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.dodge.com/durango.html",
+              "local_path": "images/dodge/durango/rt-392/side_profile.jpg",
+              "credit": "Dodge",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_090DU415hik926q2hbmg1f41440k4vg__mid.jpg",
+              "local_path": "images/dodge/durango/rt-392/interior_dashboard.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.dodgegarage.com/news/article/press-room/2026/03/the-392-roars-again-dodge-brings-back-the-legendary-durango-r-t-with-more-hemi-power-than-ever",
+            "powertrain": "https://www.dodgegarage.com/news/article/press-room/2026/03/the-392-roars-again-dodge-brings-back-the-legendary-durango-r-t-with-more-hemi-power-than-ever",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50150",
+            "performance.zero_to_60_sec": "https://www.dodgegarage.com/news/article/press-room/2026/03/the-392-roars-again-dodge-brings-back-the-legendary-durango-r-t-with-more-hemi-power-than-ever",
+            "dimensions": "https://www.dodgegarage.com/news/article/press-room/2026/03/the-392-roars-again-dodge-brings-back-the-legendary-durango-r-t-with-more-hemi-power-than-ever",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/DODGE/DURANGO",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/dodge/durango-4-door-suv/2026",
+            "features": "https://www.dodgegarage.com/news/article/press-room/2026/03/the-392-roars-again-dodge-brings-back-the-legendary-durango-r-t-with-more-hemi-power-than-ever",
+            "warranty": "https://www.dodge.com/warranty.html"
+          },
+          "delta_from_base": null,
+          "notes": "Distinct powertrain line (6.4L 392 HEMI vs 5.7L HEMI on GT), treated as its own trim_family per §6.4 multi-powertrain rule and §6.2 sole-trim atomic rule (rt-392 family has only this trim, so is_base_trim:true and delta_from_base:null). New for 2026 — first time R/T moves from 5.7L to 6.4L 392 HEMI as standard. R/T 392 Launch Edition Premium ($57,595) is a higher-content version with 18-speaker Harman Kardon audio, sunroof, suede headliner, upgraded brakes, and Trailer Tow Package — treated as a content package per §6.5 not split as separate trim entry. EPA ID 50150 = 'Durango AWD 6.4L 8-cyl Premium Gasoline'. 2026 widely reported as final MY before HEMI V8 discontinuation in MY27."
+        },
+        {
+          "trim": "SRT Hellcat",
+          "trim_slug": "srt-hellcat",
+          "trim_family": "srt-hellcat",
+          "is_base_trim": true,
+          "msrp_base": 81990,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 6.2,
+            "engine_config": "V8",
+            "aspiration": "supercharged",
+            "horsepower_hp": 710,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 645,
+            "transmission": "8-speed TorqueFlite automatic with paddle shifters",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 12,
+            "highway_mpg": 17,
+            "combined_mpg": 13,
+            "fuel_tank_gal": 24.6,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 5300
+          },
+          "performance": {
+            "zero_to_60_sec": 3.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 180,
+            "towing_capacity_lb": 8700,
+            "payload_capacity_lb": 1340
+          },
+          "dimensions": {
+            "length_in": 201.2,
+            "width_in": 76,
+            "height_in": 71.5,
+            "wheelbase_in": 119.8,
+            "ground_clearance_in": 8.1,
+            "curb_weight_lb": 5710,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 17.2,
+              "behind_2nd_row": 47.7,
+              "behind_1st_row": 85.1,
+              "max_with_seats_folded": 85.1,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 6,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "295/45ZR20 Pirelli P Zero"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 4,
+            "nhtsa_rating_year": 2026,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.1,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon 19-speaker",
+            "sunroof": "standard",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "6.2L Supercharged HEMI V8 ('Hellcat'), 710 hp",
+              "SRT Track Pack adaptive damping suspension",
+              "Brembo 6-piston front / 4-piston rear high-performance brakes",
+              "Launch Control with Line Lock",
+              "SRT Drive Modes: Auto/Sport/Track/Snow/Tow/Custom",
+              "11.5-second NHRA-certified quarter mile",
+              "Jailbreak Customization Option ($995) unlocks 6M+ combinations",
+              "Final MY for the Durango Hellcat — discontinued for 2027"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_097DUev9gf5tg0orl3c1e0dkddnbv5d__mid.jpg",
+              "local_path": "images/dodge/durango/srt-hellcat/front_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_076DUssfla84ijmi1tic6sc0raqm1gi__mid.jpg",
+              "local_path": "images/dodge/durango/srt-hellcat/rear_three_quarter.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/DG026_077DUt87f5j5orb963nli3gj1m1hbho__mid.jpg",
+              "local_path": "images/dodge/durango/srt-hellcat/side_profile.jpg",
+              "credit": "Stellantis Media / Dodge",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.dodge.com/durango.html",
+              "local_path": "images/dodge/durango/srt-hellcat/interior_dashboard.jpg",
+              "credit": "Dodge",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26972&mid=",
+            "powertrain": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26972&mid=",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50149",
+            "performance.zero_to_60_sec": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26972&mid=",
+            "dimensions": "https://www.dodge.com/durango/specs.srt-hellcat.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/DODGE/DURANGO",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/dodge/durango-4-door-suv/2026",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26972&mid=",
+            "warranty": "https://www.dodge.com/warranty.html"
+          },
+          "delta_from_base": null,
+          "notes": "Distinct powertrain line (6.2L supercharged HEMI vs 5.7L HEMI on GT and 6.4L 392 HEMI on R/T 392), treated as its own trim_family per §6.4 multi-powertrain rule and §6.2 sole-trim atomic rule (srt-hellcat family has only this trim, so is_base_trim:true and delta_from_base:null). 2026 is the FINAL model year for the Durango SRT Hellcat — discontinued for 2027 MY along with all V8 Durango variants per Stellantis 2026 lineup announcements. Jailbreak Customization Option ($995) is treated as an option per §6.5 not a separate trim. EPA ID 50149 = 'Durango AWD 6.2L 8-cyl Supercharger Premium Gasoline'. NHTSA 4-star carries over from 2011-2025 same-platform testing."
+        }
+      ],
+      "researched_at": "2026-05-15",
+      "notes": "Three distinct powertrain lines (GT 5.7L HEMI, R/T 392 6.4L HEMI, SRT Hellcat 6.2L Supercharged HEMI), each split as its own trim_family per §6.4 multi-powertrain rule and §6.2 sole-trim atomic rule. The V6 (3.6L Pentastar) Durango is now limited-production only and not split as a separate trim. GT Plus / GT Premium / America250 / Tow N Go are content packages on top of the GT trim per §6.5 not separate trim entries. Same logic for R/T 392 Launch Edition Premium ($57,595 vs $51,990 Launch Edition base) and Hellcat Jailbreak ($995 customization unlock). Hellcat (6.2L) and R/T 392 (6.4L) HEMI V8s are widely reported as final MY for 2026 — both discontinued for 2027 along with all V8 Durango variants. NHTSA rates the 2011-2026 third-gen Durango 4 stars overall; IIHS small-overlap test incomplete (Marginal driver-side only), no Top Safety Pick award. Side profile and interior images flagged needs_scraping for multiple trims (Stellantis press gallery focuses on 3/4 exterior angles)."
+    }
+  ]
+}

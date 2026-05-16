@@ -1,0 +1,50 @@
+Reset 32 image entries with needs_scraping:true to their model page URLs.
+Brand: infiniti
+Models in JSON: 2
+Models with page URLs: 2
+Playwright fallback: enabled
+
+Scraping 2 model pages…
+
+  fetch https://www.infinitiusa.com/vehicles/crossovers/qx60.html  …  static ok (224 raw candidates)
+  fetch https://www.infinitiusa.com/vehicles/suvs/qx80.html  …  static ok (229 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          infiniti
+Pages attempted:                2
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 2
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        32
+  via text/URL pattern match:   32
+  via positional fallback:      0
+Image entries unchanged:        0
+
+Sample rewrites:
+  [24.0] qx60/pure-fwd/front_three_quarter
+        → https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/carousel/2027-infiniti-qx60-front-exterior.jpg
+  [16.0] qx60/pure-fwd/rear_three_quarter
+        → https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/2027-refresh/2027-infiniti-qx60-rear-exterior-rims-wheels.jpg
+  [30.0] qx60/pure-fwd/side_profile
+        → https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/carousel/2027-infiniti-qx60-passenger-side-profile.jpg
+  [11.0] qx60/pure-fwd/interior_dashboard
+        → https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2026/overview/offers/2026-infiniti-qx60-apr-offer.jpg
+  [24.0] qx60/luxe-fwd/front_three_quarter
+        → https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/carousel/2027-infiniti-qx60-front-exterior.jpg
+  [16.0] qx60/luxe-fwd/rear_three_quarter
+        → https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/2027-refresh/2027-infiniti-qx60-rear-exterior-rims-wheels.jpg
+  [30.0] qx60/luxe-fwd/side_profile
+        → https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/carousel/2027-infiniti-qx60-passenger-side-profile.jpg
+  [11.0] qx60/luxe-fwd/interior_dashboard
+        → https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2026/overview/offers/2026-infiniti-qx60-apr-offer.jpg
+  [24.0] qx60/sport/front_three_quarter
+        → https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/carousel/2027-infiniti-qx60-front-exterior.jpg
+  [16.0] qx60/sport/rear_three_quarter
+        → https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/2027-refresh/2027-infiniti-qx60-rear-exterior-rims-wheels.jpg
+  [30.0] qx60/sport/side_profile
+        → https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2027/overview/carousel/2027-infiniti-qx60-passenger-side-profile.jpg
+  [11.0] qx60/sport/interior_dashboard
+        → https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/QX60/2026/overview/offers/2026-infiniti-qx60-apr-offer.jpg

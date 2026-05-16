@@ -1,0 +1,2709 @@
+{
+  "brand": "Ram",
+  "brand_slug": "ram",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Ram 1500",
+      "model_slug": "ram-1500",
+      "model_year": 2026,
+      "body_style": "pickup-full-size",
+      "generation_context": "Fifth-generation DT-platform Ram 1500, introduced for 2019 MY; substantial mid-cycle refresh for 2025 MY introduced new Hurricane Twin Turbo I-6 engine family (replacing the prior 5.7L HEMI V-8 as the volume engine) and a redesigned exterior/interior with a 14.5-inch infotainment screen and STLA Brain-based hands-free Level 2+ driver assist. For 2026 MY the 5.7L HEMI V-8 eTorque RETURNS as an option across Tradesman through Longhorn trims, Express and Black Express trims return, and three new exterior colors debut. The 2027 Ram 1500 SRT TRX (777-hp supercharged 6.2L V-8) is announced but does not arrive at dealerships until the second half of 2026 and is therefore excluded from this 2026 lineup.",
+      "msrp_range": {
+        "low": 40275,
+        "high": 89225
+      },
+      "model_summary": "Full-size half-ton light-duty pickup offered in Quad Cab and Crew Cab body styles with 5'7\" or 6'4\" beds. Ten regular trims (Tradesman, Express, Big Horn / Lone Star, Warlock, Laramie, Rebel, Limited, Limited Longhorn, RHO, Tungsten). Four available powertrains: 3.6L Pentastar V-6 eTorque (305 hp), 5.7L HEMI V-8 eTorque (395 hp), 3.0L Hurricane Standard Output Twin Turbo I-6 (420 hp), and 3.0L Hurricane High Output Twin Turbo I-6 (540 hp on Limited / Limited Longhorn / Tungsten; 540 hp also in the RHO off-road performance variant). All trucks use an 8-speed TorqueFlite automatic. Ram 1500 BackCountry (Big Horn package, $2,995) and three America250 special editions (packages on Big Horn / Laramie / Rebel) are option packages on existing trims per spec §6.5, not separate trims.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": 2026,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "Ram 1500 earned the top ranking in the JD Power 2026 US Vehicle Dependability Study (Large Light Duty Pickup Segment), improving 13 points year-over-year and climbing from fourth place to first place — a meaningful turnaround from the 2025 study. JD Power has not published the specific PP100 score publicly. Consumer Reports has not published 2026-MY predicted-reliability numerics for the 1500.",
+        "confidence": "medium",
+        "sources": [
+          "https://moparinsiders.com/ram-1500-tops-j-d-powers-2026-vehicle-dependability-study-in-large-light-duty-pickup-segment/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Ram Ram 1500 or for the Ram brand overall.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the 2026 Ram 1500 for its segment-best-rated ride quality (coil-spring rear suspension, available air suspension), the Hurricane Twin Turbo I-6 engine family that beats the outgoing HEMI on horsepower and fuel economy, and an ultra-premium Tungsten that competes with luxury SUVs at $90K. The return of the HEMI V-8 eTorque for 2026 is widely covered as a customer-demand-driven move after the Hurricane I-6 met resistance from V-8 loyalists. Common critiques: poor IIHS updated moderate-overlap crash result (Poor rating in the 2025-26 test for the Ram 1500 crew cab), Marginal pedestrian AEB rating, and complex trim/option matrix.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/ram/1500",
+            "date": "2026-02-10"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/ram/1500/",
+            "date": "2026-03-04"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/ram/1500/2026/",
+            "date": "2026-01-20"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": 4.2,
+        "edmunds_sample_size": 57,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owners praise the smooth coil-spring ride, refined interior on higher trims, and the new Hurricane I-6's torque delivery. Common complaints involve the Uconnect 5 infotainment learning curve, occasional software glitches, and higher-than-expected real-world fuel economy below EPA highway figures when towing.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.edmunds.com/ram/1500/2026/consumer-reviews/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Tradesman",
+          "trim_slug": "tradesman",
+          "trim_family": "tradesman",
+          "is_base_trim": true,
+          "msrp_base": 40275,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3.6,
+            "engine_config": "V6",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 305,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 269,
+            "transmission": "8-speed TorqueFlite automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 20,
+            "highway_mpg": 25,
+            "combined_mpg": 22,
+            "fuel_tank_gal": 26,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 7.5,
+            "zero_to_60_source": "estimated",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 8130,
+            "payload_capacity_lb": 2360
+          },
+          "dimensions": {
+            "length_in": 228.9,
+            "width_in": 82.1,
+            "height_in": 77.7,
+            "wheelbase_in": 140.5,
+            "ground_clearance_in": 8.7,
+            "curb_weight_lb": 5000,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null,
+              "bed_length_in": 76.3,
+              "bed_volume_cuft": 61.5
+            }
+          },
+          "capacity": {
+            "seats": 6,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "265/70R18"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Heavy-duty vinyl bench seat (cloth optional)",
+              "Quad Cab 6'4\" bed or Crew Cab 5'7\" / 6'4\" bed",
+              "3.6L Pentastar V-6 eTorque standard; 3.0L Hurricane SO or 5.7L HEMI V-8 eTorque optional",
+              "Manual climate control",
+              "GT Performance Exhaust standard on HEMI",
+              "Black grille and bumpers"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "10yr/100k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg",
+              "local_path": "images/ram/ram-1500/tradesman/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/tradesman/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/tradesman/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-standard-promo-tile-interior-desktop.jpg",
+              "local_path": "images/ram/ram-1500/tradesman/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://moparinsiders.com/2026-ram-1500-buyers-guide/",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26749",
+            "powertrain": "https://www.media.stellantisnorthamerica.com/newsrelease.do?id=27340&mid=1",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/noframes/49834.shtml",
+            "performance.zero_to_60_sec": "https://www.ramtrucks.com/ram-1500/specs.tradesman.html",
+            "dimensions": "https://www.ramtrucks.com/ram-1500/specs.tradesman.html",
+            "features": "https://www.media.stellantisnorthamerica.com/newsrelease.do?id=27340&mid=1",
+            "warranty": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26866"
+          },
+          "delta_from_base": null,
+          "notes": "Base Ram 1500 work truck. MSRP $40,275 excluding destination, total $42,370 with $2,095 destination charge. Quad Cab 4x2 6'4\" bed starting price. Pentastar V6 eTorque is standard 2026 base engine; 3.0L Hurricane SO ($1,695 option) or 5.7L HEMI V-8 eTorque ($2,895 option) available. Trucks use cargo_volume_cuft.bed_length_in and .bed_volume_cuft schema extension per spec. Crew Cab versions add length (231.7 in with 5'7\" bed; 241.8 in with 6'4\" bed). Tradesman dimensions shown are Quad Cab 6'4\" bed."
+        },
+        {
+          "trim": "Express",
+          "trim_slug": "express",
+          "trim_family": "express",
+          "is_base_trim": true,
+          "msrp_base": 42400,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 6,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "275/55R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Monochromatic styled appearance",
+              "Black grille surrounds",
+              "20-inch aluminum wheels",
+              "Body-color bumpers and fender flares",
+              "Optional Black Express package ($995) — body-color trim with blacked-out grille/wheels/badges",
+              "Crew Cab 4x2 or 4x4, 5'7\" or 6'4\" bed",
+              "3.6L Pentastar V-6 eTorque standard"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg",
+              "local_path": "images/ram/ram-1500/express/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/express/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/express/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-standard-promo-tile-interior-desktop.jpg",
+              "local_path": "images/ram/ram-1500/express/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26749",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26749",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26749"
+          },
+          "delta_from_base": null,
+          "notes": "Reintroduced for 2026 MY (was discontinued in current generation). Successor to Ram 1500 Classic Express. MSRP $42,400 excluding destination ($44,495 including $2,095 destination charge per Stellantis press release). Crew Cab 4x4 6'4\" bed configuration is $51,095 including destination. Black Express package ($995 on 4WD) is an option per Stellantis press release, not a separate trim. Express functions as a sport-styled appearance tier on Pentastar V-6 platform. Same dimensions/safety/warranty as Tradesman base."
+        },
+        {
+          "trim": "Big Horn",
+          "trim_slug": "big-horn",
+          "trim_family": "big-horn",
+          "is_base_trim": true,
+          "msrp_base": 45320,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 6,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "275/65R18"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Cloth bench or buckets with premium cloth upgrade",
+              "Power 8-way driver seat",
+              "Dual-zone automatic climate control",
+              "Premium chrome exterior trim",
+              "20-inch wheels optional",
+              "Sold as Lone Star in Texas",
+              "BackCountry option package ($2,995) for off-road build available — see model notes",
+              "America250 Special Edition package ($2,495) available — see model notes",
+              "3.6L Pentastar V-6 standard; Hurricane SO or HEMI V-8 optional"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg",
+              "local_path": "images/ram/ram-1500/big-horn/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/big-horn/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/big-horn/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-standard-promo-tile-interior-desktop.jpg",
+              "local_path": "images/ram/ram-1500/big-horn/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://moparinsiders.com/2026-ram-1500-buyers-guide/",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26749",
+            "features": "https://www.media.stellantisnorthamerica.com/newsrelease.do?id=27340&mid=1"
+          },
+          "delta_from_base": null,
+          "notes": "Volume mid-trim of the Ram 1500 lineup. MSRP $45,320 excluding destination. Sold as Lone Star in Texas (same truck, badging differs). Same Pentastar V-6 / Hurricane SO / HEMI V-8 engine choices as Tradesman/Express. BackCountry off-road option package ($2,995 on Big Horn 4x4 Crew Cab with Level 1 or Level 2 Equipment Group; adds 1-inch suspension lift, skid plates, rear ELocker, 32-inch Falken WildPeak A/T tires) is treated as a package per spec §6.5. America250 anniversary package ($2,495) is similarly a package, not a separate trim. Same dimensions/safety/warranty as Tradesman base."
+        },
+        {
+          "trim": "Warlock",
+          "trim_slug": "warlock",
+          "trim_family": "warlock",
+          "is_base_trim": true,
+          "msrp_base": 46875,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 6,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "275/55R20 (all-terrain optional)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Off-road styled appearance (blacked-out grille, badges, wheels)",
+              "Front bench seat seating 6",
+              "Crew Cab 4x4 5'7\" box only configuration",
+              "Standard GT Performance sport exhaust on HEMI",
+              "Lower 2026 starting price ($46,875) due to V-6 becoming standard engine for 2026",
+              "3.6L Pentastar V-6 standard; Hurricane SO ($1,695) or HEMI V-8 ($2,895) optional"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg",
+              "local_path": "images/ram/ram-1500/warlock/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/warlock/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/warlock/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-standard-promo-tile-interior-desktop.jpg",
+              "local_path": "images/ram/ram-1500/warlock/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://moparinsiders.com/2026-ram-1500-warlock-returns-with-lower-price-more-options/",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26749",
+            "features": "https://www.media.stellantisnorthamerica.com/newsrelease.do?id=27340&mid=1"
+          },
+          "delta_from_base": null,
+          "notes": "Off-road styled trim, Crew Cab 4x4 5'7\" short box only. For 2026 the Pentastar V-6 became the standard engine (replacing Hurricane SO as standard) which dropped the MSRP versus 2025. Same dimensions/safety/warranty as Tradesman base. Hurricane SO and HEMI V-8 are extra-cost options ($1,695 and $2,895 respectively per MoparInsiders)."
+        },
+        {
+          "trim": "Laramie",
+          "trim_slug": "laramie",
+          "trim_family": "laramie",
+          "is_base_trim": true,
+          "msrp_base": 57100,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3,
+            "engine_config": "I6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 420,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 469,
+            "transmission": "8-speed TorqueFlite automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "4WD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 18,
+            "highway_mpg": 24,
+            "combined_mpg": 20,
+            "fuel_tank_gal": 33,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 5.7,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 11610,
+            "payload_capacity_lb": 1930
+          },
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "275/55R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 14.5,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Alpine 9-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Leather seating standard",
+              "14.5-inch Uconnect 5 NAV infotainment",
+              "12.3-inch full digital cluster",
+              "Heated/ventilated front seats",
+              "Heated steering wheel",
+              "Memory driver seat / mirrors",
+              "9-speaker Alpine audio",
+              "Panoramic sunroof",
+              "10.25-inch passenger touchscreen optional",
+              "Hurricane SO standard; HEMI V-8 optional",
+              "America250 Special Edition package ($2,495) available"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg",
+              "local_path": "images/ram/ram-1500/laramie/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/laramie/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/laramie/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-standard-promo-tile-interior-desktop.jpg",
+              "local_path": "images/ram/ram-1500/laramie/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://moparinsiders.com/2026-ram-1500-buyers-guide/",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26749",
+            "powertrain": "https://www.media.stellantisnorthamerica.com/newsrelease.do?id=27340&mid=1",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/noframes/49420.shtml",
+            "performance.zero_to_60_sec": "https://www.media.stellantisnorthamerica.com/newsrelease.do?id=27340&mid=1",
+            "features": "https://www.media.stellantisnorthamerica.com/newsrelease.do?id=27340&mid=1"
+          },
+          "delta_from_base": null,
+          "notes": "Premium leather/tech trim. Hurricane SO becomes standard at Laramie (replaces Pentastar V-6). 4WD standard. Crew Cab 4x4 5'7\" or 6'4\" bed. America250 Special Edition package available. 0-60 figure of ~5.7s is for Hurricane SO equipped 4WD."
+        },
+        {
+          "trim": "Rebel",
+          "trim_slug": "rebel",
+          "trim_family": "rebel",
+          "is_base_trim": true,
+          "msrp_base": 61200,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": {
+            "zero_to_60_sec": null,
+            "zero_to_60_source": "estimated",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 11460,
+            "payload_capacity_lb": 1700
+          },
+          "dimensions": {
+            "length_in": 232.9,
+            "width_in": 82.1,
+            "height_in": 78,
+            "wheelbase_in": 144.5,
+            "ground_clearance_in": 10.8,
+            "curb_weight_lb": 5800,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null,
+              "bed_length_in": 67.4,
+              "bed_volume_cuft": 53.9
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "33-inch Goodyear Wrangler Territory A/T"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 14.5,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Alpine 9-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Off-road suspension with 1-inch lift",
+              "Bilstein shocks",
+              "Skid plates and tow hooks",
+              "Rear electronic locking differential",
+              "33-inch Goodyear Wrangler Territory A/T tires on 18-inch wheels",
+              "Hill Descent Control",
+              "Hurricane SO standard; HEMI V-8 (late availability) optional",
+              "America250 Special Edition package ($1,995) available",
+              "Rebel X premium upgrade package ($71,930 with Level 2) — see model notes"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg",
+              "local_path": "images/ram/ram-1500/rebel/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/rebel/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/rebel/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-standard-promo-tile-interior-desktop.jpg",
+              "local_path": "images/ram/ram-1500/rebel/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://moparinsiders.com/2026-ram-1500-buyers-guide/",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26749",
+            "dimensions": "https://www.media.stellantisnorthamerica.com/newsrelease.do?id=27474&mid=1",
+            "features": "https://www.media.stellantisnorthamerica.com/newsrelease.do?id=27474&mid=1"
+          },
+          "delta_from_base": null,
+          "notes": "Off-road-oriented mid-luxury trim with 33-inch tires, 1-inch suspension lift, and Bilstein shocks. Same Hurricane SO standard / HEMI optional as Laramie. Rebel X is an upgrade package on top of Rebel Level 2 (starts $71,930 including destination per Stellantis press release) — treated as option package per spec §6.5, not a separate trim. America250 Edition package adds $1,995. HEMI V-8 has 'late availability' per Stellantis. Powertrain block null because step-up from Laramie standard powertrain (Hurricane SO)."
+        },
+        {
+          "trim": "Limited",
+          "trim_slug": "limited",
+          "trim_family": "limited",
+          "is_base_trim": true,
+          "msrp_base": 71500,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3,
+            "engine_config": "I6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 540,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 521,
+            "transmission": "8-speed TorqueFlite automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "4WD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 15,
+            "highway_mpg": 21,
+            "combined_mpg": 17,
+            "fuel_tank_gal": 33,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 4.6,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 11550,
+            "payload_capacity_lb": 1620
+          },
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "285/45R22"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 14.5,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon 19-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Hurricane HO Twin Turbo I-6 standard (540 hp)",
+              "5.7L HEMI V-8 eTorque available as no-charge option",
+              "Premium quilted Natura Plus leather seats",
+              "Active air suspension",
+              "22-inch polished aluminum wheels",
+              "Harman Kardon 19-speaker premium audio",
+              "10.25-inch passenger touchscreen",
+              "Head-up display",
+              "Hands-free Active Drive Assist (Level 2+)",
+              "Power-deployable running boards",
+              "Surround-view camera"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg",
+              "local_path": "images/ram/ram-1500/limited/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/limited/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/limited/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-standard-promo-tile-interior-desktop.jpg",
+              "local_path": "images/ram/ram-1500/limited/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://moparinsiders.com/2026-ram-1500-buyers-guide/",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26749",
+            "powertrain": "https://www.media.stellantisnorthamerica.com/newsrelease.do?id=27340&mid=1",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/noframes/49418.shtml",
+            "performance.zero_to_60_sec": "https://www.media.stellantisnorthamerica.com/newsrelease.do?id=27340&mid=1",
+            "features": "https://www.media.stellantisnorthamerica.com/newsrelease.do?id=27340&mid=1"
+          },
+          "delta_from_base": null,
+          "notes": "First Hurricane HO trim. 540 hp standard; HEMI V-8 a no-charge option per Stellantis. Limited is the gateway to luxury Ram 1500. Crew Cab 4x4. Premium fuel required for Hurricane HO."
+        },
+        {
+          "trim": "Limited Longhorn",
+          "trim_slug": "limited-longhorn",
+          "trim_family": "limited-longhorn",
+          "is_base_trim": true,
+          "msrp_base": 73500,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "285/45R22"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 14.5,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon 19-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Western/ranch-inspired interior with hand-stitched leather",
+              "Real wood accents",
+              "Genuine filigree metal trim",
+              "Hurricane HO standard; HEMI V-8 no-charge option",
+              "Same air suspension, 22-inch wheels, Harman Kardon as Limited",
+              "Tier 2 luxury between Limited and Tungsten",
+              "Distinctive Longhorn badging and Old World saddle leather"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg",
+              "local_path": "images/ram/ram-1500/limited-longhorn/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/limited-longhorn/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/limited-longhorn/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-standard-promo-tile-interior-desktop.jpg",
+              "local_path": "images/ram/ram-1500/limited-longhorn/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://moparinsiders.com/2026-ram-1500-buyers-guide/",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26749",
+            "features": "https://www.ramtrucks.com/ram-1500/specs.limited-longhorn.html"
+          },
+          "delta_from_base": null,
+          "notes": "Western-themed luxury sibling of Limited with hand-stitched ranch-style leather and real wood trim. Otherwise mechanically identical to Limited (Hurricane HO standard, HEMI no-charge option, air suspension, 22-inch wheels)."
+        },
+        {
+          "trim": "RHO",
+          "trim_slug": "rho",
+          "trim_family": "rho",
+          "is_base_trim": true,
+          "msrp_base": 75590,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3,
+            "engine_config": "I6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 540,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 521,
+            "transmission": "8-speed TorqueFlite automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "4WD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 14,
+            "highway_mpg": 16,
+            "combined_mpg": 15,
+            "fuel_tank_gal": 33,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 4.6,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 118,
+            "towing_capacity_lb": 8380,
+            "payload_capacity_lb": 1520
+          },
+          "dimensions": {
+            "length_in": 234,
+            "width_in": 88.1,
+            "height_in": 81.1,
+            "wheelbase_in": 145.1,
+            "ground_clearance_in": 11.8,
+            "curb_weight_lb": 6283,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null,
+              "bed_length_in": 67.4,
+              "bed_volume_cuft": 53.9
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "35-inch Goodyear Wrangler Territory MT"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 14.5,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon 19-speaker",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "High-output 3.0L Hurricane HO Twin Turbo I-6 (540 hp / 521 lb-ft) — only engine",
+              "Widebody fenders with 6-inch wider stance",
+              "35-inch Goodyear Wrangler Territory MT tires on 18-inch wheels",
+              "Bilstein Black Hawk e2 adaptive shocks with 9 drive modes",
+              "13 inches front / 14 inches rear suspension travel",
+              "High-speed E-Locker rear axle",
+              "Off-road launch control",
+              "Rough Road Cruise Control",
+              "Rebel X option group adds panoramic sunroof, paddle shifters, premium leather"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg",
+              "local_path": "images/ram/ram-1500/rho/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/rho/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/rho/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-standard-promo-tile-interior-desktop.jpg",
+              "local_path": "images/ram/ram-1500/rho/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://moparinsiders.com/2026-ram-1500-buyers-guide/",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26749",
+            "powertrain": "https://www.media.stellantisnorthamerica.com/newsrelease.do?id=27340&mid=1",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/noframes/49419.shtml",
+            "performance.zero_to_60_sec": "https://www.media.stellantisnorthamerica.com/newsrelease.do?id=27340&mid=1",
+            "dimensions": "https://www.ramtrucks.com/ram-1500/specs.rho.html",
+            "features": "https://www.ramtrucks.com/ram-1500/specs.rho.html"
+          },
+          "delta_from_base": null,
+          "notes": "Ram's high-performance off-road truck, replacing the TRX as the apex 1500 for 2025-2026. RHO is sole-trim singleton (no sibling trims share this trim_family); is_base_trim:true with delta_from_base:null per spec atomic sole-trim rule. Hurricane HO only — no V-8 option. NHTSA and IIHS have not tested the widebody RHO variant specifically. Curb weight 6,283 lb. The 2027 TRX (777-hp supercharged 6.2L Hellcat V-8) is announced for 2H 2026 dealer arrival as a separate 2027 MY and is excluded from this 2026 lineup."
+        },
+        {
+          "trim": "Tungsten",
+          "trim_slug": "tungsten",
+          "trim_family": "tungsten",
+          "is_base_trim": true,
+          "msrp_base": 89225,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": {
+            "length_in": 232.9,
+            "width_in": 82.1,
+            "height_in": 77.6,
+            "wheelbase_in": 144.5,
+            "ground_clearance_in": 8.7,
+            "curb_weight_lb": 5930,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null,
+              "bed_length_in": 67.4,
+              "bed_volume_cuft": 53.9
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "285/45R22"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 14.5,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Klipsch Reference Premiere 23-speaker 1,228W",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Hurricane HO Twin Turbo I-6 standard (540 hp) — only engine",
+              "Indigo/Sea Salt premium quilted Natura Plus leather interior",
+              "24-way power-adjustable front seats with massage function",
+              "Suede-wrapped headliner, A- and B-pillars, sun visors",
+              "Platinum patina / semi-bright dual-textured metal accents with diamond knurling",
+              "Klipsch Reference Premiere 1,228W 23-speaker audio (most powerful in segment)",
+              "Active air suspension standard",
+              "22-inch aluminum wheels",
+              "Hands-free Active Drive Assist (Level 2+) standard",
+              "10.25-inch passenger touchscreen",
+              "Dual wireless charging pads"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg",
+              "local_path": "images/ram/ram-1500/tungsten/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/tungsten/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/ram-1500.html",
+              "local_path": "images/ram/ram-1500/tungsten/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-standard-promo-tile-interior-desktop.jpg",
+              "local_path": "images/ram/ram-1500/tungsten/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://moparinsiders.com/2026-ram-1500-buyers-guide/",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26749",
+            "dimensions": "https://www.ramtrucks.com/ram-1500/specs.tungsten.html",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27065"
+          },
+          "delta_from_base": null,
+          "notes": "Ultra-premium flagship of the Ram 1500 lineup. Hurricane HO only — no V-8 option. Klipsch Reference Premiere 1,228W 23-speaker system is class-best. Curb weight 5,930 lb. Built at Sterling Heights and Saltillo plants. Same fuel economy as Limited (15/21/17 MPG)."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "2026 Ram 1500 has 10 main trims, all structured as singleton trim_families (each unique grille/wheel/styling set means images do not transfer between trims) per the Ford F-150 / GMC Sierra 1500 precedent — each is is_base_trim:true with delta_from_base:null per the spec atomic sole-trim rule. Four engines available across the lineup: 3.6L Pentastar V-6 eTorque (305 hp), 5.7L HEMI V-8 eTorque (395 hp, REVIVED for 2026), 3.0L Hurricane SO Twin Turbo I-6 (420 hp), 3.0L Hurricane HO Twin Turbo I-6 (540 hp). Black Express ($995 on Express 4WD), BackCountry ($2,995 on Big Horn 4x4), America250 Special Edition ($2,495 on Big Horn/Laramie; $1,995 on Rebel), and Rebel X (upgrade package on Rebel Level 2 starting $71,930) are all option packages per spec §6.5, NOT separate trims. The 2027 Ram 1500 SRT TRX (777-hp supercharged 6.2L V-8) was announced January 1, 2026 but does not arrive at dealerships until 2H 2026 as a 2027 MY and is excluded. EPA fueleconomy.gov IDs verified individually: 49834 (V-6 2WD), 49840 (V-6 4WD), 49368 (Hurricane SO 2WD), 49420 (Hurricane SO 4WD), 50096 (HEMI 2WD), 49421 (HEMI 4WD), 49418 (Hurricane HO 4WD), 49419 (RHO 4WD). EPA ID 50108 (6.2L SC V-8) is the 2027 TRX and not counted in the 2026 lineup. Ram 1500 was rated Poor in 2025-26 IIHS updated moderate-overlap front crash test and Marginal in pedestrian AEB; IIHS has not awarded TSP/TSP+ to the 2026 1500 (iihs_rating_year:2026 captures the test year). NHTSA had not posted a 2026 overall rating at research time. Ram extended its 10-year/100,000-mile limited Powertrain Warranty through 2026 MY (announced June 2025), making it segment-leading; basic 3yr/36k, corrosion 5yr/unlimited, roadside 5yr/60k carry over from Stellantis defaults. Image entries marked needs_scraping for Phase 4."
+    },
+    {
+      "model": "Ram 2500",
+      "model_slug": "ram-2500",
+      "model_year": 2026,
+      "body_style": "pickup-full-size",
+      "generation_context": "Fifth-generation DJ-platform Ram 2500 Heavy Duty, introduced for 2019 MY; mid-cycle refresh for 2024 MY brought a 14.5-inch infotainment screen, 12.3-inch digital cluster, an upgraded 6.7L Cummins HO turbo diesel (430 hp / 1,075 lb-ft replacing the prior HO), 8-speed TorqueFlite HD automatic for Cummins (replacing 6-speed Aisin), and refreshed exterior styling shared with Ram 3500. For 2026 MY the new Black Express and Warlock packages debuted as sport-truck options on Tradesman; both went on sale Q3 2025 with high demand reportedly absorbing a year's worth of orders in one month.",
+      "msrp_range": {
+        "low": 47900,
+        "high": 87305
+      },
+      "model_summary": "Heavy-duty 3/4-ton (Class 2b) pickup offered in Regular Cab, Crew Cab, and Mega Cab body styles with 6'4\" or 8' bed options. Seven mainstream trims (Tradesman, Big Horn / Lone Star, Rebel, Laramie, Power Wagon, Limited, Limited Longhorn). Standard 6.4L HEMI V-8 (405 hp / 429 lb-ft, 8-speed TorqueFlite); optional 6.7L Cummins HO Turbo Diesel I-6 (430 hp / 1,075 lb-ft, 8-speed TorqueFlite HD automatic, $12,595 upgrade on all trims EXCEPT Power Wagon which is HEMI-only for 2026 due to integrated WARN winch). Max conventional tow 22,500 lb (gooseneck/fifth-wheel exceeds 20,000 lb diesel). Black Express ($2,495) and Warlock ($2,995) are packages on Tradesman per Stellantis press release, not separate trims.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power does not separately publish VDS for HD pickup segment; CR data sparse. The Cummins 6.7L diesel is widely regarded as durable but has had emissions-system (DEF, NOx sensor, EGR) recall and complaint history across model years. Mechanical-base 6.4L HEMI is a mature design.",
+        "confidence": "low",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Ram Ram 2500 or for the Ram brand overall.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the 2026 Ram 2500 for the upgraded 14.5-inch infotainment screen, the 1,075 lb-ft Cummins HO Turbo Diesel paired with the new 8-speed automatic, and the Power Wagon's segment-exclusive solid-front-axle off-road package with electronic disconnecting sway bar. Limited Longhorn delivers Western-themed luxury rivaling F-Series Limited and Sierra Denali Ultimate. Critiques: heavy ride empty (Cummins+4x4 Crew Cab tops 8,000 lb curb), HEMI's older 8-speed is a step behind the Cummins setup, and pricing creeps past $90K loaded.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/ram/2500/2026/",
+            "date": "2026-02-15"
+          },
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/ram/2500",
+            "date": "2026-01-22"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/ram/2500/2026/",
+            "date": "2026-03-12"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": 4.2,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owners cite the Cummins's effortless torque, comfortable Crew/Mega Cab interior, and Power Wagon's true off-road capability as the strongest points. Common complaints: aftermarket-feel infotainment glitches, software-related drive-mode bugs, expensive maintenance (especially Cummins DEF and emissions-related repairs out of warranty).",
+        "confidence": "medium",
+        "sources": [
+          "https://www.edmunds.com/ram/2500/2026/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Tradesman",
+          "trim_slug": "tradesman",
+          "trim_family": "tradesman",
+          "is_base_trim": true,
+          "msrp_base": 47900,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 6.4,
+            "engine_config": "V8",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 405,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 429,
+            "transmission": "8-speed TorqueFlite automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": null,
+            "highway_mpg": null,
+            "combined_mpg": null,
+            "fuel_tank_gal": 32,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": null,
+            "zero_to_60_source": "estimated",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 17580,
+            "payload_capacity_lb": 3990
+          },
+          "dimensions": {
+            "length_in": 238.8,
+            "width_in": 83.4,
+            "height_in": 79.4,
+            "wheelbase_in": 140.6,
+            "ground_clearance_in": 8.4,
+            "curb_weight_lb": 6710,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null,
+              "bed_length_in": 98.3,
+              "bed_volume_cuft": 74.7
+            }
+          },
+          "capacity": {
+            "seats": 3,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "LT265/70R18"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": false,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8.4,
+            "driver_display_in": 3.5,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "6-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Heavy-duty vinyl bench seat (cloth optional)",
+              "ParkSense parking assist",
+              "Spray-in bedliner",
+              "Snow plow prep package available",
+              "Regular Cab 8' bed / Crew Cab 6'4\" or 8' bed / Mega Cab 6'4\" bed",
+              "Black Express HD package ($2,495) and Warlock HD package ($2,995) available — see model notes",
+              "6.7L Cummins HO Turbo Diesel optional ($12,595)",
+              "8-speed TorqueFlite (gas) or 8-speed TorqueFlite HD (Cummins)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-lunar-vlp-desktop.jpg",
+              "local_path": "images/ram/ram-2500/tradesman/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-2500.html",
+              "local_path": "images/ram/ram-2500/tradesman/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-special-editions-2500-warlock-desktop.jpg",
+              "local_path": "images/ram/ram-2500/tradesman/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/ram-2500.html",
+              "local_path": "images/ram/ram-2500/tradesman/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.ramtrucks.com/ram-2500/specs.tradesman.html",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26891",
+            "powertrain": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26891",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/bymake/Ram2026.shtml",
+            "dimensions": "https://www.ramtrucks.com/ram-2500/specs.tradesman.html",
+            "features": "https://www.ramtrucks.com/ram-2500/specs.tradesman.html",
+            "warranty": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26866"
+          },
+          "delta_from_base": null,
+          "notes": "Base Ram 2500 work truck. MSRP $47,900 excluding destination (Regular Cab 4x2 long bed). Heavy-duty Class 2b pickups (GVWR > 8,500 lb) are exempt from EPA fuel economy testing under 40 CFR 600.114-08; no EPA MPG data published. NHTSA and IIHS do not crash-test heavy-duty pickups in this segment; safety ratings null. Trucks use cargo_volume_cuft.bed_length_in / .bed_volume_cuft schema extension per spec. ADAS limited to FCW+AEB on base — most other ADAS features are optional or higher-trim. Black Express HD ($2,495 package on Tradesman) and Warlock HD ($2,995 package on Tradesman, exclusively Crew Cab 4x4 short bed with 34-inch Goodyear Duratrac A/T tires) are option packages per Stellantis press release, not separate trims (per spec §6.5)."
+        },
+        {
+          "trim": "Big Horn",
+          "trim_slug": "big-horn",
+          "trim_family": "big-horn",
+          "is_base_trim": true,
+          "msrp_base": 54225,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 6,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "LT275/65R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Cloth bench or premium cloth captain's chairs",
+              "12-inch Uconnect 5 touchscreen",
+              "Power 8-way driver seat",
+              "Chrome exterior trim",
+              "20-inch chrome aluminum wheels",
+              "Class V receiver hitch",
+              "Sold as Lone Star in Texas",
+              "Crew Cab 4x2/4x4, Mega Cab 4x4, 6'4\" or 8' bed",
+              "Cummins HO optional ($12,595)"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-lunar-vlp-desktop.jpg",
+              "local_path": "images/ram/ram-2500/big-horn/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-2500.html",
+              "local_path": "images/ram/ram-2500/big-horn/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-special-editions-2500-warlock-desktop.jpg",
+              "local_path": "images/ram/ram-2500/big-horn/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/ram-2500.html",
+              "local_path": "images/ram/ram-2500/big-horn/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.ramtrucks.com/ram-2500/specs.big-horn.html",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26891",
+            "features": "https://www.ramtrucks.com/ram-2500/specs.big-horn.html"
+          },
+          "delta_from_base": null,
+          "notes": "Volume work-and-comfort trim. Lone Star in Texas. Same Crew Cab/Mega Cab availability as Tradesman. Same dimensions/safety/warranty/HD-exempt fuel economy as Tradesman base. 12-inch Uconnect 5 touchscreen (replaces base 8.4-inch)."
+        },
+        {
+          "trim": "Rebel",
+          "trim_slug": "rebel",
+          "trim_family": "rebel",
+          "is_base_trim": true,
+          "msrp_base": 69755,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": {
+            "length_in": 238.8,
+            "width_in": 84.6,
+            "height_in": 81.6,
+            "wheelbase_in": 149.3,
+            "ground_clearance_in": 10.4,
+            "curb_weight_lb": 7340,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null,
+              "bed_length_in": 76.3,
+              "bed_volume_cuft": 60.7
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "33-inch Goodyear Wrangler DuraTrac"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Alpine 9-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Off-road suspension with 1-inch lift",
+              "Bilstein dampers",
+              "Skid plates",
+              "Tow hooks",
+              "Limited-slip rear differential",
+              "33-inch Goodyear Wrangler DuraTrac tires on 18-inch wheels",
+              "Hill Descent Control",
+              "Crew Cab 4x4 only",
+              "Cummins HO optional"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-lunar-vlp-desktop.jpg",
+              "local_path": "images/ram/ram-2500/rebel/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-2500.html",
+              "local_path": "images/ram/ram-2500/rebel/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-special-editions-2500-warlock-desktop.jpg",
+              "local_path": "images/ram/ram-2500/rebel/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/ram-2500.html",
+              "local_path": "images/ram/ram-2500/rebel/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.ramtrucks.com/ram-2500/specs.rebel.html",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26891",
+            "dimensions": "https://www.ramtrucks.com/ram-2500/specs.rebel.html",
+            "features": "https://www.ramtrucks.com/ram-2500/specs.rebel.html"
+          },
+          "delta_from_base": null,
+          "notes": "Off-road oriented trim with 33-inch tires, Bilstein shocks, limited-slip rear diff, and 1-inch suspension lift. Crew Cab 4x4 only with 6'4\" short bed. 2026 includes Lunar Edition special edition (Ceramic Grey paint, see model notes). HD-exempt fuel economy and safety ratings."
+        },
+        {
+          "trim": "Laramie",
+          "trim_slug": "laramie",
+          "trim_family": "laramie",
+          "is_base_trim": true,
+          "msrp_base": 63310,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "LT275/65R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Alpine 9-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Premium leather seating with heated front buckets",
+              "Heated/ventilated front seats",
+              "Heated steering wheel",
+              "Memory driver seat and mirrors",
+              "12-inch Uconnect 5 NAV touchscreen",
+              "12.3-inch digital cluster",
+              "Power running boards optional",
+              "9-speaker Alpine premium audio",
+              "Crew Cab 4x2/4x4 or Mega Cab 4x4",
+              "Cummins HO optional"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-lunar-vlp-desktop.jpg",
+              "local_path": "images/ram/ram-2500/laramie/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-2500.html",
+              "local_path": "images/ram/ram-2500/laramie/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-special-editions-2500-warlock-desktop.jpg",
+              "local_path": "images/ram/ram-2500/laramie/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/ram-2500.html",
+              "local_path": "images/ram/ram-2500/laramie/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.ramtrucks.com/ram-2500/specs.laramie.html",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26891",
+            "features": "https://www.ramtrucks.com/ram-2500/specs.laramie.html"
+          },
+          "delta_from_base": null,
+          "notes": "Premium leather/tech mid-luxury. Heated/ventilated front seats and heated steering wheel standard. Crew Cab 4x2/4x4 or Mega Cab 4x4 with 6'4\" or 8' bed. HD-exempt fuel economy and safety."
+        },
+        {
+          "trim": "Power Wagon",
+          "trim_slug": "power-wagon",
+          "trim_family": "power-wagon",
+          "is_base_trim": true,
+          "msrp_base": 69755,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 6.4,
+            "engine_config": "V8",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 405,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 429,
+            "transmission": "8-speed TorqueFlite automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "4WD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": null,
+            "highway_mpg": null,
+            "combined_mpg": null,
+            "fuel_tank_gal": 32,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": null,
+            "zero_to_60_source": "estimated",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 10530,
+            "payload_capacity_lb": 1480
+          },
+          "dimensions": {
+            "length_in": 238.8,
+            "width_in": 84.4,
+            "height_in": 81.5,
+            "wheelbase_in": 149.1,
+            "ground_clearance_in": 14.3,
+            "curb_weight_lb": 7510,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null,
+              "bed_length_in": 76.3,
+              "bed_volume_cuft": 60.7
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "33-inch Goodyear Wrangler DuraTrac"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Alpine 9-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "6.4L HEMI V-8 only — Cummins NOT available for 2026 due to integrated WARN winch packaging",
+              "12,000-lb WARN integrated front winch",
+              "Front and rear electronic locking differentials",
+              "Electronic disconnecting front sway bar (segment-exclusive)",
+              "Bilstein heavy-duty performance shocks",
+              "33-inch Goodyear Wrangler DuraTrac off-road tires on 17-inch wheels",
+              "Skid plates and underbody armor",
+              "Tow hooks",
+              "Hill Descent Control",
+              "Crew Cab 4x4 6'4\" bed only",
+              "Lunar Edition special edition available (Ceramic Grey) per Stellantis press release"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-lunar-vlp-desktop.jpg",
+              "local_path": "images/ram/ram-2500/power-wagon/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-2500.html",
+              "local_path": "images/ram/ram-2500/power-wagon/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-special-editions-2500-warlock-desktop.jpg",
+              "local_path": "images/ram/ram-2500/power-wagon/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/ram-2500.html",
+              "local_path": "images/ram/ram-2500/power-wagon/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.ramtrucks.com/ram-2500/specs.power-wagon.html",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26891",
+            "powertrain": "https://www.ramtrucks.com/ram-2500/specs.power-wagon.html",
+            "performance.zero_to_60_sec": "https://www.ramtrucks.com/ram-2500/specs.power-wagon.html",
+            "dimensions": "https://www.ramtrucks.com/ram-2500/specs.power-wagon.html",
+            "features": "https://www.ramtrucks.com/ram-2500/specs.power-wagon.html",
+            "warranty": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26866"
+          },
+          "delta_from_base": null,
+          "notes": "Ram's iconic extreme-off-road heavy-duty pickup with segment-exclusive electronic disconnecting front sway bar, 12,000-lb WARN winch, front+rear electronic lockers, and 14.3 inches of ground clearance. HEMI-only for 2026; the 2027 Power Wagon will add Cummins HO Turbo Diesel (430 hp / 1,075 lb-ft) per Stellantis announcement Jan 2026 starting $88,470. HD-exempt fuel economy and safety ratings. Lunar Edition (Ceramic Grey) and Rebel Lunar Edition announced March 2026 as 2026 special editions."
+        },
+        {
+          "trim": "Limited",
+          "trim_slug": "limited",
+          "trim_family": "limited",
+          "is_base_trim": true,
+          "msrp_base": 79050,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "LT275/65R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 14.5,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon 17-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "14.5-inch Uconnect 5 NAV touchscreen (segment-largest)",
+              "12.3-inch full digital cluster",
+              "Premium quilted leather seating",
+              "17-speaker Harman Kardon premium audio",
+              "Power-deployable running boards",
+              "Hands-free Active Drive Assist (Level 2+)",
+              "Surround-view camera",
+              "Head-up display",
+              "Dual wireless phone charging pads",
+              "Rear heated seats",
+              "Crew Cab 4x2/4x4 or Mega Cab 4x4 with 6'4\" or 8' bed",
+              "Cummins HO optional ($12,595)"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-lunar-vlp-desktop.jpg",
+              "local_path": "images/ram/ram-2500/limited/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-2500.html",
+              "local_path": "images/ram/ram-2500/limited/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-special-editions-2500-warlock-desktop.jpg",
+              "local_path": "images/ram/ram-2500/limited/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/ram-2500.html",
+              "local_path": "images/ram/ram-2500/limited/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.ramtrucks.com/ram-2500/specs.limited.html",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26891",
+            "features": "https://www.ramtrucks.com/ram-2500/specs.limited.html"
+          },
+          "delta_from_base": null,
+          "notes": "Flagship luxury HD trim. 14.5-inch Uconnect 5 (segment-largest). Hands-free Active Drive Assist Level 2+ included. Mega Cab option offered. HD-exempt fuel economy and safety."
+        },
+        {
+          "trim": "Limited Longhorn",
+          "trim_slug": "limited-longhorn",
+          "trim_family": "limited-longhorn",
+          "is_base_trim": true,
+          "msrp_base": 87305,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "LT275/65R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 14.5,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon 17-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Western-themed hand-stitched leather interior",
+              "Real barn wood and aluminum trim accents",
+              "Saddle Brown / Black leather color palette",
+              "Distinctive Longhorn badging and bedside graphics",
+              "Same 14.5-inch infotainment, Harman Kardon 17-speaker, and Active Drive Assist Level 2+ as Limited",
+              "Crew Cab 4x2/4x4 or Mega Cab 4x4 with 6'4\" or 8' bed",
+              "Cummins HO optional"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-lunar-vlp-desktop.jpg",
+              "local_path": "images/ram/ram-2500/limited-longhorn/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-2500.html",
+              "local_path": "images/ram/ram-2500/limited-longhorn/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-special-editions-2500-warlock-desktop.jpg",
+              "local_path": "images/ram/ram-2500/limited-longhorn/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/ram-2500.html",
+              "local_path": "images/ram/ram-2500/limited-longhorn/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.ramtrucks.com/ram-2500/specs.limited-longhorn.html",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26891",
+            "features": "https://www.ramtrucks.com/ram-2500/specs.limited-longhorn.html"
+          },
+          "delta_from_base": null,
+          "notes": "Western-themed luxury flagship sibling of Limited with hand-stitched ranch-style leather, real barn wood trim, and Saddle Brown/Black palette. Mechanically identical to Limited (HEMI standard, Cummins HO optional, Mega Cab available). HD-exempt fuel economy and safety."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "2026 Ram 2500 has 7 mainstream trims (Tradesman, Big Horn / Lone Star, Rebel, Laramie, Power Wagon, Limited, Limited Longhorn) — all singleton trim_families with is_base_trim:true + delta_from_base:null per sole-trim atomic rule and the Ford F-Series HD / GMC Sierra HD precedent. Two engines: 6.4L HEMI V-8 (405 hp/429 lb-ft, standard on all trims) and 6.7L Cummins HO Turbo Diesel I-6 (430 hp/1,075 lb-ft, $12,595 option on all trims EXCEPT Power Wagon which is HEMI-only for 2026 due to integrated WARN winch packaging — Cummins comes to 2027 Power Wagon). All Cummins-equipped 2500s use a new 8-speed TorqueFlite HD automatic (replacing the prior 6-speed Aisin). Heavy-duty Class 2b pickups (GVWR > 8,500 lb) are exempt from EPA fuel economy testing under 40 CFR 600.114-08; no EPA MPG data published. NHTSA and IIHS do not crash-test heavy-duty pickups in this segment; safety ratings null with notes. Black Express ($2,495 package on Tradesman, Crew Cab 4x2 or 4x4, long or short bed) and Warlock ($2,995 package on Tradesman, exclusively Crew Cab 4x4 short bed with 34-inch Goodyear Duratrac A/T tires) debuted Q3 2025 and are explicitly described in the Stellantis press release as packages, not separate trims. Lunar Edition special editions on Power Wagon and Rebel (Ceramic Grey paint) announced March 2026 — also treated as option appearance packages. Image entries marked needs_scraping for Phase 4."
+    },
+    {
+      "model": "Ram 3500",
+      "model_slug": "ram-3500",
+      "model_year": 2026,
+      "body_style": "pickup-full-size",
+      "generation_context": "Fifth-generation DJ-platform Ram 3500 Heavy Duty 1-ton pickup, introduced for 2019 MY; mid-cycle refresh for 2024 MY brought a 14.5-inch infotainment screen, 12.3-inch digital cluster, the upgraded Cummins 6.7L HO Turbo Diesel (430 hp / 1,075 lb-ft) and 8-speed TorqueFlite HD automatic for Cummins (replacing the prior 6-speed Aisin). 2026 carries over with minor pricing updates.",
+      "msrp_range": {
+        "low": 48590,
+        "high": 89200
+      },
+      "model_summary": "Heavy-duty 1-ton (Class 3) pickup offered in Regular Cab, Crew Cab, and Mega Cab body styles with 6'4\" or 8' bed options and single-rear-wheel (SRW) or dual-rear-wheel (DRW) configurations. Five mainstream trims (Tradesman, Big Horn / Lone Star, Laramie, Limited, Limited Longhorn). Standard 6.4L HEMI V-8 (405 hp / 429 lb-ft, 8-speed TorqueFlite); optional 6.7L Cummins HO Turbo Diesel I-6 (430 hp / 1,075 lb-ft, 8-speed TorqueFlite HD, $12,595 upgrade on all trims). Max conventional tow 21,520 lb with HEMI; max gooseneck / 5th-wheel 37,090 lb (Cummins DRW properly equipped) — segment-leading. No Rebel / Power Wagon / Warlock / Black Express for 3500 (those are 2500 exclusives).",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power does not separately publish VDS for HD pickup segment; CR data sparse. Cummins 6.7L diesel is widely regarded as durable but has documented emissions-system (DEF pump, NOx sensor, EGR) complaint history. 6.4L HEMI and 8-speed TorqueFlite HD are mature designs.",
+        "confidence": "low",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Ram Ram 3500 or for the Ram brand overall.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the 2026 Ram 3500 for the upgraded Cummins HO Turbo Diesel that puts segment-best 1,075 lb-ft of torque under the hood, the 14.5-inch infotainment with hands-free Active Drive Assist Level 2+, and the 37,090-lb maximum gooseneck tow rating on properly equipped DRW Cummins models. Critiques: long-bed Mega Cab is hard to maneuver and park, Cummins maintenance costs out of warranty are high, and step-in height is significant.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/ram/3500/2026/",
+            "date": "2026-02-15"
+          },
+          {
+            "publication": "Kelley Blue Book",
+            "url": "https://www.kbb.com/ram/3500-trucks/",
+            "date": "2026-03-10"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/ram/3500/2026/",
+            "date": "2026-01-25"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": 4.3,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owners praise the Cummins's effortless heavy-towing torque, comfortable Mega Cab interior, and luxury equipment on Limited / Limited Longhorn. Common complaints: software/infotainment glitches, expensive maintenance on Cummins-equipped trucks, and long-wheelbase maneuverability.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.edmunds.com/ram/3500/2026/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Tradesman",
+          "trim_slug": "tradesman",
+          "trim_family": "tradesman",
+          "is_base_trim": true,
+          "msrp_base": 48590,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 6.4,
+            "engine_config": "V8",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 405,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 429,
+            "transmission": "8-speed TorqueFlite automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": null,
+            "highway_mpg": null,
+            "combined_mpg": null,
+            "fuel_tank_gal": 32,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": null,
+            "zero_to_60_source": "estimated",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 21520,
+            "payload_capacity_lb": 4800
+          },
+          "dimensions": {
+            "length_in": 238.8,
+            "width_in": 83.4,
+            "height_in": 80.1,
+            "wheelbase_in": 140.6,
+            "ground_clearance_in": 8.4,
+            "curb_weight_lb": 6837,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null,
+              "bed_length_in": 98.3,
+              "bed_volume_cuft": 74.7
+            }
+          },
+          "capacity": {
+            "seats": 3,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "LT265/70R18 (LT235/80R17 DRW)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": false,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8.4,
+            "driver_display_in": 3.5,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "6-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Heavy-duty vinyl bench seat (cloth optional)",
+              "ParkSense parking assist",
+              "Spray-in bedliner",
+              "Snow plow prep package available",
+              "Available 5th-wheel / gooseneck prep",
+              "Regular Cab 8' bed / Crew Cab 6'4\" or 8' bed / Mega Cab 6'4\" bed",
+              "SRW or DRW (dually) configurations",
+              "6.7L Cummins HO Turbo Diesel optional ($12,595)",
+              "8-speed TorqueFlite (gas) or 8-speed TorqueFlite HD (Cummins)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-3500/overview/desktop/my26-ram-3500-vlp-hero-01-desktop-v2.jpg",
+              "local_path": "images/ram/ram-3500/tradesman/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-3500.html",
+              "local_path": "images/ram/ram-3500/tradesman/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/ram-3500.html",
+              "local_path": "images/ram/ram-3500/tradesman/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/ram-3500.html",
+              "local_path": "images/ram/ram-3500/tradesman/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.ramtrucks.com/ram-3500/specs.tradesman.html",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26891",
+            "powertrain": "https://www.ramtrucks.com/ram-3500/specs.tradesman.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/bymake/Ram2026.shtml",
+            "dimensions": "https://www.ramtrucks.com/ram-3500/specs.tradesman.html",
+            "features": "https://www.ramtrucks.com/ram-3500/specs.tradesman.html",
+            "warranty": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26866"
+          },
+          "delta_from_base": null,
+          "notes": "Base Ram 3500 work truck. MSRP $48,590 excluding destination (Regular Cab 4x2 long bed). Class 3 heavy-duty pickup (GVWR > 10,000 lb on most configurations) — exempt from EPA fuel economy testing under 40 CFR 600.114-08. NHTSA and IIHS do not crash-test heavy-duty pickups in this segment; safety ratings null. 'Tradesman 3500 HD' max gooseneck tow up to 37,090 lb on properly-equipped DRW Cummins HO. Same Mega Cab availability as 2500 with extended-cabin layout. Trucks use cargo_volume_cuft.bed_length_in / .bed_volume_cuft schema extension per spec."
+        },
+        {
+          "trim": "Big Horn",
+          "trim_slug": "big-horn",
+          "trim_family": "big-horn",
+          "is_base_trim": true,
+          "msrp_base": 52340,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 6,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "LT275/70R18"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Cloth bench or premium cloth captain's chairs",
+              "12-inch Uconnect 5 touchscreen",
+              "Power 8-way driver seat",
+              "Chrome exterior trim",
+              "Sold as Lone Star in Texas",
+              "Crew Cab 4x2/4x4 or Mega Cab 4x4, 6'4\" or 8' bed",
+              "SRW or DRW (dually) configurations available",
+              "Cummins HO optional ($12,595)"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-3500/overview/desktop/my26-ram-3500-vlp-hero-01-desktop-v2.jpg",
+              "local_path": "images/ram/ram-3500/big-horn/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-3500.html",
+              "local_path": "images/ram/ram-3500/big-horn/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/ram-3500.html",
+              "local_path": "images/ram/ram-3500/big-horn/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/ram-3500.html",
+              "local_path": "images/ram/ram-3500/big-horn/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.ramtrucks.com/ram-3500/specs.big-horn.html",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26891",
+            "features": "https://www.ramtrucks.com/ram-3500/specs.big-horn.html"
+          },
+          "delta_from_base": null,
+          "notes": "Volume work-and-comfort 3500 trim. Lone Star in Texas. Same Mega Cab and DRW availability as Tradesman. HD-exempt fuel economy and safety. 12-inch Uconnect 5 touchscreen replaces base 8.4-inch."
+        },
+        {
+          "trim": "Laramie",
+          "trim_slug": "laramie",
+          "trim_family": "laramie",
+          "is_base_trim": true,
+          "msrp_base": 62050,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "LT275/65R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Alpine 10-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Premium leather seating",
+              "Heated/ventilated front seats",
+              "Heated steering wheel",
+              "Memory driver seat and mirrors",
+              "12-inch Uconnect 5 NAV touchscreen",
+              "12.3-inch digital cluster",
+              "10-speaker Alpine premium audio",
+              "Power running boards optional",
+              "Crew Cab 4x2/4x4 or Mega Cab 4x4 with 6'4\" or 8' bed",
+              "SRW or DRW configurations",
+              "Cummins HO optional"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-3500/overview/desktop/my26-ram-3500-vlp-hero-01-desktop-v2.jpg",
+              "local_path": "images/ram/ram-3500/laramie/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-3500.html",
+              "local_path": "images/ram/ram-3500/laramie/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/ram-3500.html",
+              "local_path": "images/ram/ram-3500/laramie/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/ram-3500.html",
+              "local_path": "images/ram/ram-3500/laramie/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.ramtrucks.com/ram-3500/specs.laramie.html",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26891",
+            "features": "https://www.ramtrucks.com/ram-3500/specs.laramie.html"
+          },
+          "delta_from_base": null,
+          "notes": "Premium leather/tech mid-luxury. Heated/ventilated front seats, heated steering wheel, 10-speaker Alpine audio standard. Mega Cab 4x4 available. HD-exempt fuel economy and safety."
+        },
+        {
+          "trim": "Limited",
+          "trim_slug": "limited",
+          "trim_family": "limited",
+          "is_base_trim": true,
+          "msrp_base": 78250,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "LT275/65R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 14.5,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon 17-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "14.5-inch Uconnect 5 NAV touchscreen (segment-largest)",
+              "12.3-inch full digital cluster",
+              "Premium quilted leather seating",
+              "17-speaker Harman Kardon premium audio",
+              "Power-deployable running boards",
+              "Hands-free Active Drive Assist (Level 2+)",
+              "Surround-view camera",
+              "Head-up display",
+              "Dual wireless phone charging pads",
+              "Rear heated seats",
+              "Captain's chairs with center console",
+              "Mega Cab 4x4 available",
+              "DRW available",
+              "Cummins HO optional ($12,595)"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-3500/overview/desktop/my26-ram-3500-vlp-hero-01-desktop-v2.jpg",
+              "local_path": "images/ram/ram-3500/limited/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-3500.html",
+              "local_path": "images/ram/ram-3500/limited/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/ram-3500.html",
+              "local_path": "images/ram/ram-3500/limited/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/ram-3500.html",
+              "local_path": "images/ram/ram-3500/limited/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.ramtrucks.com/ram-3500/specs.limited.html",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26891",
+            "features": "https://www.ramtrucks.com/ram-3500/specs.limited.html"
+          },
+          "delta_from_base": null,
+          "notes": "Flagship luxury HD trim. 14.5-inch Uconnect 5 (segment-largest). Hands-free Active Drive Assist Level 2+ included. Mega Cab and DRW options offered. HD-exempt fuel economy and safety."
+        },
+        {
+          "trim": "Limited Longhorn",
+          "trim_slug": "limited-longhorn",
+          "trim_family": "limited-longhorn",
+          "is_base_trim": true,
+          "msrp_base": 89200,
+          "destination_fee": 2095,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "LT275/65R20"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 14.5,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon 17-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Western-themed hand-stitched leather interior",
+              "Real barn wood and aluminum trim accents",
+              "Saddle Brown / Black leather color palette",
+              "Distinctive Longhorn badging and bedside graphics",
+              "Same 14.5-inch infotainment, Harman Kardon 17-speaker, and Active Drive Assist Level 2+ as Limited",
+              "Crew Cab 4x2/4x4 or Mega Cab 4x4 with 6'4\" or 8' bed",
+              "SRW or DRW (dually) configurations",
+              "Cummins HO optional",
+              "Highest-priced Ram 3500 — top configuration Mega Cab 4x4 DRW Cummins exceeds $100K"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-3500/overview/desktop/my26-ram-3500-vlp-hero-01-desktop-v2.jpg",
+              "local_path": "images/ram/ram-3500/limited-longhorn/front_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.ramtrucks.com/ram-3500.html",
+              "local_path": "images/ram/ram-3500/limited-longhorn/rear_three_quarter.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.ramtrucks.com/ram-3500.html",
+              "local_path": "images/ram/ram-3500/limited-longhorn/side_profile.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.ramtrucks.com/ram-3500.html",
+              "local_path": "images/ram/ram-3500/limited-longhorn/interior_dashboard.jpg",
+              "credit": "Stellantis / Ram",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.ramtrucks.com/ram-3500/specs.limited-longhorn.html",
+            "destination_fee": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26891",
+            "features": "https://www.ramtrucks.com/ram-3500/specs.limited-longhorn.html"
+          },
+          "delta_from_base": null,
+          "notes": "Western-themed luxury flagship sibling of Limited with hand-stitched ranch-style leather, real barn wood trim, and Saddle Brown/Black palette. Mechanically identical to Limited. Top-priced Ram HD configuration (Mega Cab 4x4 DRW Cummins HO) can exceed $100K loaded. HD-exempt fuel economy and safety."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "2026 Ram 3500 has 5 mainstream trims (Tradesman, Big Horn / Lone Star, Laramie, Limited, Limited Longhorn) — all singleton trim_families with is_base_trim:true + delta_from_base:null per sole-trim atomic rule. No Rebel / Power Wagon / Warlock / Black Express (those are Ram 2500 exclusives in 2026). Two engines: 6.4L HEMI V-8 (405 hp/429 lb-ft) standard on all trims, and 6.7L Cummins HO Turbo Diesel I-6 (430 hp/1,075 lb-ft, $12,595 option on all trims). All Cummins-equipped 3500s use the 8-speed TorqueFlite HD automatic. Single-rear-wheel (SRW) and dual-rear-wheel (DRW / dually) configurations available across trims. Class 3 heavy-duty pickup with GVWR > 10,000 lb — exempt from EPA fuel economy testing under 40 CFR 600.114-08; no EPA MPG data published. NHTSA and IIHS do not crash-test heavy-duty pickups in this segment; safety ratings null with notes. Max gooseneck/5th-wheel tow rating of 37,090 lb on properly-equipped DRW Cummins HO is segment-leading. Image entries marked needs_scraping for Phase 4."
+    }
+  ]
+}

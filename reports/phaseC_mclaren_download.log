@@ -1,0 +1,45 @@
+Brand: mclaren
+Found 24 image entries across 6 models.
+
+[1/24] artura/artura/front_three_quarter  ok (245314 bytes, image/jpeg)
+[2/24] artura/artura/rear_three_quarter  ok (295777 bytes, image/jpeg)
+[3/24] artura/artura/side_profile  ok (240963 bytes, image/jpeg)
+[4/24] artura/artura/interior_dashboard  ok (255436 bytes, image/jpeg)
+[5/24] artura-spider/artura-spider/front_three_quarter  ok (175983 bytes, image/jpeg)
+[6/24] artura-spider/artura-spider/rear_three_quarter  ok (325082 bytes, image/jpeg)
+[7/24] artura-spider/artura-spider/side_profile  ok (203119 bytes, image/jpeg)
+[8/24] artura-spider/artura-spider/interior_dashboard  ok (260339 bytes, image/jpeg)
+[9/24] 750s/750s-coupe/front_three_quarter  ok (94924 bytes, image/jpeg)
+[10/24] 750s/750s-coupe/rear_three_quarter  ok (190985 bytes, image/jpeg)
+[11/24] 750s/750s-coupe/side_profile  ok (150182 bytes, image/jpeg)
+[12/24] 750s/750s-coupe/interior_dashboard  ok (222265 bytes, image/jpeg)
+[13/24] 750s-spider/750s-spider/front_three_quarter  ok (188411 bytes, image/jpeg)
+[14/24] 750s-spider/750s-spider/rear_three_quarter  ok (141000 bytes, image/jpeg)
+[15/24] 750s-spider/750s-spider/side_profile  ok (120449 bytes, image/jpeg)
+[16/24] 750s-spider/750s-spider/interior_dashboard  ok (270302 bytes, image/jpeg)
+[17/24] 750s-le-mans-special-edition/750s-le-mans-special-edition/front_three_quarter  ok (1602408 bytes, image/jpeg)
+[18/24] 750s-le-mans-special-edition/750s-le-mans-special-edition/rear_three_quarter  ok (575168 bytes, image/jpeg)
+[19/24] 750s-le-mans-special-edition/750s-le-mans-special-edition/side_profile  ok (544797 bytes, image/jpeg)
+[20/24] 750s-le-mans-special-edition/750s-le-mans-special-edition/interior_dashboard  ok (122083 bytes, image/jpeg)
+[21/24] gts/gts/front_three_quarter  ok (266360 bytes, image/jpeg)
+[22/24] gts/gts/rear_three_quarter  ok (194912 bytes, image/jpeg)
+[23/24] gts/gts/side_profile  ok (139227 bytes, image/jpeg)
+[24/24] gts/gts/interior_dashboard  ok (222763 bytes, image/jpeg)
+
+Updated catalog/data/mclaren.json and data/mclaren.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  mclaren
+Total images attempted: 24
+Successful:             24 (100.0%)
+Failed:                 0
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  (none)
+
+Models with zero successful images: 0 of 6

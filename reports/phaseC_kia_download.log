@@ -1,0 +1,95 @@
+Brand: kia
+Found 64 image entries across 16 models.
+
+[1/64] k4/lx/front_three_quarter  ok (36964 bytes, image/avif)
+[2/64] k4/lx/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[3/64] k4/lx/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[4/64] k4/lx/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[5/64] k4-hatchback/ex/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[6/64] k4-hatchback/ex/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[7/64] k4-hatchback/ex/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[8/64] k4-hatchback/ex/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[9/64] k5/lxs/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[10/64] k5/lxs/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[11/64] k5/lxs/side_profile  ok (49385 bytes, image/avif)
+[12/64] k5/lxs/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[13/64] seltos/lx/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[14/64] seltos/lx/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[15/64] seltos/lx/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[16/64] seltos/lx/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[17/64] sportage/lx/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[18/64] sportage/lx/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[19/64] sportage/lx/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[20/64] sportage/lx/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[21/64] sportage-hybrid/lx/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[22/64] sportage-hybrid/lx/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[23/64] sportage-hybrid/lx/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[24/64] sportage-hybrid/lx/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[25/64] sportage-plug-in-hybrid/x-line/front_three_quarter  ok (20965 bytes, image/avif)
+[26/64] sportage-plug-in-hybrid/x-line/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[27/64] sportage-plug-in-hybrid/x-line/side_profile  ok (47458 bytes, image/avif)
+[28/64] sportage-plug-in-hybrid/x-line/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[29/64] sorento/lx/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[30/64] sorento/lx/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[31/64] sorento/lx/side_profile  ok (37451 bytes, image/avif)
+[32/64] sorento/lx/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[33/64] sorento-hybrid/ex/front_three_quarter  ok (52353 bytes, image/avif)
+[34/64] sorento-hybrid/ex/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[35/64] sorento-hybrid/ex/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[36/64] sorento-hybrid/ex/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[37/64] sorento-plug-in-hybrid/ex-awd/front_three_quarter  ok (40221 bytes, image/avif)
+[38/64] sorento-plug-in-hybrid/ex-awd/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[39/64] sorento-plug-in-hybrid/ex-awd/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[40/64] sorento-plug-in-hybrid/ex-awd/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[41/64] carnival/lx/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[42/64] carnival/lx/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[43/64] carnival/lx/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[44/64] carnival/lx/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[45/64] carnival-hybrid/lxs/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[46/64] carnival-hybrid/lxs/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[47/64] carnival-hybrid/lxs/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[48/64] carnival-hybrid/lxs/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[49/64] niro-hybrid/lx/front_three_quarter  ok (66197 bytes, image/avif)
+[50/64] niro-hybrid/lx/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[51/64] niro-hybrid/lx/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[52/64] niro-hybrid/lx/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[53/64] niro-ev/wind/front_three_quarter  ok (26972 bytes, image/avif)
+[54/64] niro-ev/wind/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[55/64] niro-ev/wind/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[56/64] niro-ev/wind/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[57/64] ev6/light-sr-rwd/front_three_quarter  ok (64958 bytes, image/avif)
+[58/64] ev6/light-sr-rwd/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[59/64] ev6/light-sr-rwd/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[60/64] ev6/light-sr-rwd/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[61/64] ev9/light-rwd/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[62/64] ev9/light-rwd/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[63/64] ev9/light-rwd/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[64/64] ev9/light-rwd/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+
+Updated catalog/data/kia.json and data/kia.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  kia
+Total images attempted: 64
+Successful:             10 (15.6%)
+Failed:                 54
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 54
+
+Models with zero successful images: 7 of 16
+  - k4-hatchback (4 attempted)
+  - seltos (4 attempted)
+  - sportage (4 attempted)
+  - sportage-hybrid (4 attempted)
+  - carnival (4 attempted)
+  - carnival-hybrid (4 attempted)
+  - ev9 (4 attempted)
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html; charset=utf-8)] x54 — e.g. https://www.kia.com/us/en/k4

@@ -1,0 +1,130 @@
+{
+  "brand": "Subaru",
+  "brand_slug": "subaru",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 10,
+  "trim_count": 50,
+  "total_images": 131,
+  "needs_scraping": 131,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 13,
+  "warning_count": 9,
+  "fyi_count": 0,
+  "blockers": [
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[0].trims[0].sources.warranty (impreza/sport)",
+      "value": "https://www.subaru.com/owners/benefits-of-ownership/added-security-program.html"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[1].trims[0].sources.warranty (crosstrek/base)",
+      "value": "https://www.subaru.com/owners/benefits-of-ownership/added-security-program.html"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[1].trims[5].sources.warranty (crosstrek/sport-hybrid)",
+      "value": "https://www.subaru.com/owners/benefits-of-ownership/added-security-program.html"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[2].trims[0].sources.warranty (forester/base)",
+      "value": "https://www.subaru.com/owners/benefits-of-ownership/added-security-program.html"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[2].trims[7].sources.warranty (forester/premium-hybrid)",
+      "value": "https://www.subaru.com/owners/benefits-of-ownership/added-security-program.html"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[3].trims[0].sources.warranty (outback/premium)",
+      "value": "https://www.subaru.com/owners/benefits-of-ownership/added-security-program.html"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[4].trims[0].sources.warranty (ascent/premium)",
+      "value": "https://www.subaru.com/owners/benefits-of-ownership/added-security-program.html"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[5].trims[0].sources.warranty (brz/limited)",
+      "value": "https://www.subaru.com/owners/benefits-of-ownership/added-security-program.html"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[6].trims[0].sources.warranty (wrx/base)",
+      "value": "https://www.subaru.com/owners/benefits-of-ownership/added-security-program.html"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[7].trims[0].sources.warranty (solterra/premium)",
+      "value": "https://www.subaru.com/owners/benefits-of-ownership/added-security-program.html"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[8].trims[0].sources.warranty (trailseeker/premium)",
+      "value": "https://www.subaru.com/owners/benefits-of-ownership/added-security-program.html"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[9].trims[0].sources.warranty (uncharted/premium-fwd)",
+      "value": "https://www.subaru.com/owners/benefits-of-ownership/added-security-program.html"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[9].trims[1].sources.warranty (uncharted/sport)",
+      "value": "https://www.subaru.com/owners/benefits-of-ownership/added-security-program.html"
+    }
+  ],
+  "warnings": [
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "forester/sport-onyx-edition",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "forester/sport-hybrid",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ascent/limited-bronze-edition",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ascent/onyx-edition-touring",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "brz/ts",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "brz/series-yellow",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "wrx/gt",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "wrx/ts",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "wrx/series-yellow",
+      "value": 5
+    }
+  ],
+  "fyis": []
+}

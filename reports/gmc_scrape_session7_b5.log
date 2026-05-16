@@ -1,0 +1,66 @@
+Reset 208 image entries with needs_scraping:true to their model page URLs.
+Brand: gmc
+Models in JSON: 10
+Models with page URLs: 9
+Playwright fallback: enabled
+
+Scraping 9 model pages…
+
+  fetch https://www.gmc.com/trucks/sierra/1500  …  static ok (628 raw, 460 slug-matching)
+  fetch https://www.gmc.com/trucks/sierra/2500hd-3500hd  …  static ok (567 raw, 353 slug-matching)
+  fetch https://www.gmc.com/trucks/canyon  …  static ok (556 raw, 328 slug-matching)
+  fetch https://www.gmc.com/electric/sierra-ev  …  static ok (551 raw, 323 slug-matching)
+  fetch https://www.gmc.com/suvs/yukon  …  static ok (495 raw, 274 slug-matching)
+  fetch https://www.gmc.com/suvs/terrain  …  static ok (586 raw, 355 slug-matching)
+  fetch https://www.gmc.com/suvs/acadia  …  static ok (575 raw, 328 slug-matching)
+  fetch https://www.gmc.com/electric/hummer-ev/pickup-truck  …  static ok (620 raw, 364 slug-matching)
+  fetch https://www.gmc.com/electric/hummer-ev/suv  …  static ok (619 raw, 355 slug-matching)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          gmc
+Pages attempted:                9
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 9
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        158
+  via text/URL pattern match:   158
+  via brand-specific angle:     0
+  via positional fallback:      0
+Brand-specific angle matches:   0
+Resolution upgrades:            158 URLs preferred larger variants
+Image entries unchanged:        50
+
+Sample rewrites:
+  [25.0] sierra-1500/pro/front_three_quarter
+        → https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/safety/my26-sierra-1500-mov-safety-1280x640-26PGSRLD91254.jpg?imwidth=1920
+  [20.0] sierra-1500/pro/side_profile
+        → https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/interior/my26-sierra-1500-mov-interior-feature-1-1280x640-26PGSRLD100731.jpg?imwidth=1920
+  [23.0] sierra-1500/pro/interior_dashboard
+        → https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/interior/my26-sierra-1500-mov-interior-scroller-3-1280x960-26PGSRLD99143.jpg?imwidth=1920
+  [25.0] sierra-1500/sle/front_three_quarter
+        → https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/safety/my26-sierra-1500-mov-safety-1280x640-26PGSRLD91254.jpg?imwidth=1920
+  [20.0] sierra-1500/sle/side_profile
+        → https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/interior/my26-sierra-1500-mov-interior-feature-1-1280x640-26PGSRLD100731.jpg?imwidth=1920
+  [23.0] sierra-1500/sle/interior_dashboard
+        → https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/interior/my26-sierra-1500-mov-interior-scroller-3-1280x960-26PGSRLD99143.jpg?imwidth=1920
+  [25.0] sierra-1500/elevation/front_three_quarter
+        → https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/safety/my26-sierra-1500-mov-safety-1280x640-26PGSRLD91254.jpg?imwidth=1920
+  [20.0] sierra-1500/elevation/side_profile
+        → https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/interior/my26-sierra-1500-mov-interior-feature-1-1280x640-26PGSRLD100731.jpg?imwidth=1920
+  [23.0] sierra-1500/elevation/interior_dashboard
+        → https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/interior/my26-sierra-1500-mov-interior-scroller-3-1280x960-26PGSRLD99143.jpg?imwidth=1920
+  [25.0] sierra-1500/slt/front_three_quarter
+        → https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/safety/my26-sierra-1500-mov-safety-1280x640-26PGSRLD91254.jpg?imwidth=1920
+  [20.0] sierra-1500/slt/side_profile
+        → https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/interior/my26-sierra-1500-mov-interior-feature-1-1280x640-26PGSRLD100731.jpg?imwidth=1920
+  [23.0] sierra-1500/slt/interior_dashboard
+        → https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/interior/my26-sierra-1500-mov-interior-scroller-3-1280x960-26PGSRLD99143.jpg?imwidth=1920
+
+Models with unresolved angles:
+  sierra-1500: 9 entries  (e.g. pro/rear_three_quarter, sle/rear_three_quarter, elevation/rear_three_quarter)
+  sierra-hd: 13 entries  (e.g. sierra-2500hd-pro/rear_three_quarter, sierra-2500hd-sle/rear_three_quarter, sierra-2500hd-slt/rear_three_quarter)
+  canyon: 8 entries  (e.g. elevation/rear_three_quarter, elevation/side_profile, at4/rear_three_quarter)
+  yukon-xl: 20 entries  (e.g. elevation/front_three_quarter, elevation/rear_three_quarter, elevation/side_profile)

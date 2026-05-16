@@ -1,0 +1,70 @@
+Reset 150 image entries with needs_scraping:true to their model page URLs.
+Brand: nissan
+Models in JSON: 13
+Models with page URLs: 13
+Playwright fallback: enabled
+
+Scraping 13 model pages…
+
+  fetch https://www.nissanusa.com/vehicles/cars/sentra.html  …  static ok (436 raw, 184 slug-matching)
+  fetch https://www.nissanusa.com/vehicles/cars/altima.html  …  static ok (440 raw, 171 slug-matching)
+  fetch https://www.nissanusa.com/vehicles/sports-cars/nissan-z.html  …  static ok (404 raw, 143 slug-matching)
+  fetch https://www.nissanusa.com/vehicles/sports-cars/nissan-z/nismo.html  …  static ok (420 raw, 138 slug-matching)
+  fetch https://www.nissanusa.com/vehicles/electric-cars/leaf.html  …  static ok (463 raw, 205 slug-matching)
+  fetch https://www.nissanusa.com/vehicles/crossovers-suvs/kicks.html  …  static ok (401 raw, 123 slug-matching)
+  fetch https://www.nissanusa.com/vehicles/crossovers-suvs/rogue.html  …  static ok (401 raw, 184 slug-matching)
+  fetch https://www.nissanusa.com/vehicles/crossovers-suvs/rogue-plug-in-hybrid.html  …  static ok (416 raw, 164 slug-matching)
+  fetch https://www.nissanusa.com/vehicles/crossovers-suvs/murano.html  …  static ok (439 raw, 165 slug-matching)
+  fetch https://www.nissanusa.com/vehicles/crossovers-suvs/pathfinder.html  …  static ok (465 raw, 197 slug-matching)
+  fetch https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html  …  static ok (457 raw, 182 slug-matching)
+  fetch https://www.nissanusa.com/vehicles/crossovers-suvs/armada/nismo.html  …  static ok (386 raw, 109 slug-matching)
+  fetch https://www.nissanusa.com/vehicles/trucks/frontier.html  …  static ok (482 raw, 210 slug-matching)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          nissan
+Pages attempted:                13
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 13
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        140
+  via text/URL pattern match:   140
+  via brand-specific angle:     0
+  via positional fallback:      0
+Brand-specific angle matches:   0
+Resolution upgrades:            12 URLs preferred larger variants
+Image entries unchanged:        10
+
+Sample rewrites:
+  [15.0] sentra/s/front_three_quarter
+        → https://www.nissanusa.com/content/dam/Nissan/us/vehicles/sentra/2026/overview/features/2026-nissan-sentra-front-view-stopped-crosswalk-exterior-styling.jpg
+  [21.0] sentra/s/rear_three_quarter
+        → https://www.nissanusa.com/content/dam/Nissan/us/vehicles/sentra/2026/overview/mosaic/2026-nissan-sentra-rear-three-quarter-driving-performance.jpg
+  [9.0] sentra/s/side_profile
+        → https://www.nissanusa.com/content/dam/Nissan/us/vehicles/sentra/vehicle-profile-assets/2026/model-2026-nissan-sentra-sr-energetic-ember.png.ximg.l_3_m.smart.png
+  [19.0] sentra/s/interior_dashboard
+        → https://www.nissanusa.com/content/dam/Nissan/us/vehicles/sentra/2026/gallery/interior/New/Smallgallery/Sentra_Gallery_Grid_2UP_26OMP_SENb032_coat_D.jpg
+  [15.0] sentra/sv/front_three_quarter
+        → https://www.nissanusa.com/content/dam/Nissan/us/vehicles/sentra/2026/overview/features/2026-nissan-sentra-front-view-stopped-crosswalk-exterior-styling-t.jpg
+  [19.0] sentra/sv/interior_dashboard
+        → https://www.nissanusa.com/content/dam/Nissan/us/vehicles/sentra/2026/overview/New/Sentra_Overview_26OMP_SENb033_coat_D.jpg
+  [15.0] sentra/sr/front_three_quarter
+        → https://www.nissanusa.com/content/dam/Nissan/us/vehicles/sentra/2026/overview/features/2026-nissan-sentra-front-view-stopped-crosswalk-exterior-styling.jpg
+  [21.0] sentra/sr/rear_three_quarter
+        → https://www.nissanusa.com/content/dam/Nissan/us/vehicles/sentra/2026/overview/mosaic/2026-nissan-sentra-rear-three-quarter-driving-performance.jpg
+  [9.0] sentra/sr/side_profile
+        → https://www.nissanusa.com/content/dam/Nissan/us/vehicles/sentra/vehicle-profile-assets/2026/model-2026-nissan-sentra-sr-energetic-ember.png.ximg.l_3_m.smart.png
+  [19.0] sentra/sr/interior_dashboard
+        → https://www.nissanusa.com/content/dam/Nissan/us/vehicles/sentra/2026/gallery/interior/New/Smallgallery/Sentra_Gallery_Grid_2UP_26OMP_SENb032_coat_D.jpg
+  [15.0] sentra/sl/front_three_quarter
+        → https://www.nissanusa.com/content/dam/Nissan/us/vehicles/sentra/2026/overview/features/2026-nissan-sentra-front-view-stopped-crosswalk-exterior-styling-m.jpg
+  [17.0] sentra/sl/interior_dashboard
+        → https://www.nissanusa.com/content/dam/Nissan/us/vehicles/sentra/2026/overview/mosaic/2026-nissan-sentra-driver-cockpit-interior-infotainment-display.jpg
+
+Models with unresolved angles:
+  kicks: 2 entries  (e.g. s/rear_three_quarter, sr-fwd/rear_three_quarter)
+  rogue: 2 entries  (e.g. sv/front_three_quarter, sl/front_three_quarter)
+  murano: 2 entries  (e.g. sv/rear_three_quarter, platinum/rear_three_quarter)
+  pathfinder: 4 entries  (e.g. sv/front_three_quarter, rock-creek/front_three_quarter, sl/front_three_quarter)

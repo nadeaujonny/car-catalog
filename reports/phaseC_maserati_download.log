@@ -1,0 +1,73 @@
+Brand: maserati
+Found 48 image entries across 6 models.
+
+[1/48] grecale/modena-v6/front_three_quarter  ok (212542 bytes, image/jpeg)
+[2/48] grecale/modena-v6/rear_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[3/48] grecale/modena-v6/side_profile  ok (108296 bytes, image/webp)
+[4/48] grecale/modena-v6/interior_dashboard  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[5/48] grecale/trofeo/front_three_quarter  ok (212542 bytes, image/jpeg)
+[6/48] grecale/trofeo/rear_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[7/48] grecale/trofeo/side_profile  ok (108296 bytes, image/webp)
+[8/48] grecale/trofeo/interior_dashboard  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[9/48] grecale/folgore/front_three_quarter  ok (212542 bytes, image/jpeg)
+[10/48] grecale/folgore/rear_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[11/48] grecale/folgore/side_profile  ok (108296 bytes, image/webp)
+[12/48] grecale/folgore/interior_dashboard  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[13/48] granturismo/modena/front_three_quarter  ok (37986 bytes, image/webp)
+[14/48] granturismo/modena/rear_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[15/48] granturismo/modena/side_profile  ok (9880 bytes, image/webp)
+[16/48] granturismo/modena/interior_dashboard  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[17/48] granturismo/trofeo/front_three_quarter  ok (37986 bytes, image/webp)
+[18/48] granturismo/trofeo/rear_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[19/48] granturismo/trofeo/side_profile  ok (9880 bytes, image/webp)
+[20/48] granturismo/trofeo/interior_dashboard  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[21/48] granturismo/folgore/front_three_quarter  ok (37986 bytes, image/webp)
+[22/48] granturismo/folgore/rear_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[23/48] granturismo/folgore/side_profile  ok (9880 bytes, image/webp)
+[24/48] granturismo/folgore/interior_dashboard  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[25/48] grancabrio/modena/front_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[26/48] grancabrio/modena/rear_three_quarter  ok (174446 bytes, image/webp)
+[27/48] grancabrio/modena/side_profile  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[28/48] grancabrio/modena/interior_dashboard  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[29/48] grancabrio/trofeo/front_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[30/48] grancabrio/trofeo/rear_three_quarter  ok (174446 bytes, image/webp)
+[31/48] grancabrio/trofeo/side_profile  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[32/48] grancabrio/trofeo/interior_dashboard  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[33/48] grancabrio/folgore/front_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[34/48] grancabrio/folgore/rear_three_quarter  ok (174446 bytes, image/webp)
+[35/48] grancabrio/folgore/side_profile  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[36/48] grancabrio/folgore/interior_dashboard  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[37/48] mcpura/mcpura/front_three_quarter  ok (46304 bytes, image/webp)
+[38/48] mcpura/mcpura/rear_three_quarter  ok (153444 bytes, image/webp)
+[39/48] mcpura/mcpura/side_profile  ok (190806 bytes, image/webp)
+[40/48] mcpura/mcpura/interior_dashboard  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[41/48] mcpura-cielo/mcpura-cielo/front_three_quarter  ok (88194 bytes, image/webp)
+[42/48] mcpura-cielo/mcpura-cielo/rear_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[43/48] mcpura-cielo/mcpura-cielo/side_profile  ok (69966 bytes, image/webp)
+[44/48] mcpura-cielo/mcpura-cielo/interior_dashboard  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[45/48] gt2-stradale/gt2-stradale/front_three_quarter  ok (75104 bytes, image/webp)
+[46/48] gt2-stradale/gt2-stradale/rear_three_quarter  ok (20724 bytes, image/webp)
+[47/48] gt2-stradale/gt2-stradale/side_profile  FAIL (status — HTTP 403 Forbidden)
+[48/48] gt2-stradale/gt2-stradale/interior_dashboard  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+
+Updated catalog/data/maserati.json and data/maserati.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  maserati
+Total images attempted: 48
+Successful:             22 (45.8%)
+Failed:                 26
+
+Failed by HTTP status:
+  403: 5
+
+Failed by other error kind:
+  wrong-content-type: 21
+
+Models with zero successful images: 0 of 6
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html;charset=utf-8)] x21 — e.g. https://www.maserati.com/us/en/models/grecale
+  [status-403] x5 — e.g. https://maserati.scene7.com/is/image/maserati/maserati/worldwide/models/grancabrio/model-pages/folgore/grancabrio-folgore-urban-exterior-front-threequarter-grey-desktop.jpg?$1800x2000$\u0026fit\u003dconstrain

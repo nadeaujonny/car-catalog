@@ -1,0 +1,10 @@
+{
+  "brand_slug": "infiniti",
+  "notes": "infinitiusa.com/vehicles/<segment>/<model>.html consumer site. Segment is 'crossovers' for QX60 (3-row mid-size) and 'suvs' for QX80 (full-size body-on-frame). SPORT trim has dedicated /trims/sport.html sub-pages for both models but Phase 4 scrapes the model-overview page per data file convention.",
+  "model_pages": {
+    "qx60": "https://www.infinitiusa.com/vehicles/crossovers/qx60.html",
+    "qx80": "https://www.infinitiusa.com/vehicles/suvs/qx80.html"
+  },
+  "slug_variants": {},
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

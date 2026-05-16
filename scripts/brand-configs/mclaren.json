@@ -1,0 +1,21 @@
+{
+  "brand_slug": "mclaren",
+  "notes": "cars.mclaren.com/us-en serves model pages reliably via WebFetch and direct curl (session 3). Direct image asset URLs resolve from cars-assets-production.mclaren.com CDN. cars.mclaren.press 404s (server unavailable). W1 correctly excluded from catalog. 750S Le Mans Special Edition lives at the full slug /us-en/750s-le-mans-special-edition (not /750s-le-mans). model_slug `750s-le-mans-special-edition` per data/mclaren.json; abbreviated key `750s-le-mans` used per task instructions. Phase B (2026-05-14): URL check found all 6 redirecting from /us-en/ to canonical /us_en/ (underscore); updated all 6 model_pages to the /us_en/ form. No DEAD URLs.",
+  "model_pages": {
+    "artura": "https://cars.mclaren.com/us_en/artura",
+    "artura-spider": "https://cars.mclaren.com/us_en/artura-spider",
+    "750s": "https://cars.mclaren.com/us_en/750s",
+    "750s-spider": "https://cars.mclaren.com/us_en/750s-spider",
+    "750s-le-mans-special-edition": "https://cars.mclaren.com/us_en/750s-le-mans-special-edition",
+    "gts": "https://cars.mclaren.com/us_en/gts"
+  },
+  "slug_variants": {
+    "artura": ["artura", "artura-coupe", "artura_coupe"],
+    "artura-spider": ["artura-spider", "artura_spider", "arturaspider"],
+    "750s": ["750s", "750-s", "750_s", "750", "750s-coupe", "750s_coupe"],
+    "750s-spider": ["750s-spider", "750-s-spider", "750_s_spider", "750sspider", "750s_spider"],
+    "750s-le-mans-special-edition": ["750s-le-mans-special-edition", "750s-le-mans", "750s_le_mans", "750s-lemans", "750slemans", "le-mans-special-edition", "le-mans", "lemans"],
+    "gts": ["gts", "mclaren-gts", "mclaren_gts"]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

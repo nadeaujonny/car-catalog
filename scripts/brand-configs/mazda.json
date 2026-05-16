@@ -1,0 +1,97 @@
+{
+  "brand_slug": "mazda",
+  "notes": "mazdausa.com/vehicles/<model> consumer site. Hybrid/PHEV variants share the parent model page (cx-50-hybrid, cx-70-phev). MX-5 Miata RF is the targa-roof variant. Phase B 2026-05-14: all 12 URLs were 404 with the year-prefixed pattern (/vehicles/2026-<model>); site now uses unprefixed /vehicles/<model> — all 12 updated and verified OK. Session 6 (2026-05-14): added asset-naming variants — many image filenames/alt-text use spelled-out forms (`mazda-3-sedan`, `mazda-3-hatchback`), shorthand SKU codes (`m3hb`, `m3-sedan`, `mx-5-st`, `mx-5-rf`), and no-dash filename forms (`cx30`, `cx50`, `cx70`, `cx90`) that the bare model slug did not cover. Blacklist tightened to drop the shopping-icons, interior-swatches and global-nav cross-page chrome that was generating 30+ unmatched candidates per page. Collision note: kept the parent-slug variants (`cx-5`, `cx-50`, `cx-70`, `cx-90`, `mx-5-miata`) WITHOUT looser overlaps that would bleed into their hybrid/phev/rf siblings; each sibling has its own explicit variants instead. Session 7 Phase A3 (2026-05-14): added angle_url_patterns. Mazda's CDN names its 3/4 trim renders inside `/04_btv/001_trims/34-jellies/` (and its `06_btv/cx-90-inline/001_trims/34-jellies/` legacy variant) — Phase 3 noted this folder was a strong front_three_quarter cue but `34` is a prefix not a `front`-anchored suffix, so the shared ANGLE_PATTERNS could not see it. Image-content verification (sampled 10+ jellies): every `siteassets/.../001_trims/34-jellies/` render IS a 3/4 front studio shot. CX-5 is the exception: its 2026 redesign published the jellies on the alternate `/content/dam/musa/vehicle-assets/.../001-trims/34-jellies/` path with all-dash separators, and ALL 5 of those renders are SIDE PROFILE views (verified). Underscore-vs-dash inside `0\\d_btv/001_trims` vs `04-btv/001-trims` is the precise discriminator between the two angle classes and is the basis for the regexes here. No reliable rear_three_quarter token exists: hero shots are inconsistent (cx-30/cx-50/m3-sedan hero = 3/4 front; cx-70/cx-90/mx-5-rf hero = 3/4 rear or rear), and the inline-desktop-carousel sequence indexes do not correlate with angle. interior_dashboard already works via the existing English vocabulary (`interior` / `cabin` regexes hit `/interior-360s/` URL segments and 'Interior Cabin' alt text); no new patterns added there.",
+  "model_pages": {
+    "mazda3-sedan": "https://www.mazdausa.com/vehicles/mazda3-sedan",
+    "mazda3-hatchback": "https://www.mazdausa.com/vehicles/mazda3-hatchback",
+    "cx-30": "https://www.mazdausa.com/vehicles/cx-30",
+    "cx-5": "https://www.mazdausa.com/vehicles/cx-5",
+    "cx-50": "https://www.mazdausa.com/vehicles/cx-50",
+    "cx-50-hybrid": "https://www.mazdausa.com/vehicles/cx-50-hybrid",
+    "cx-70": "https://www.mazdausa.com/vehicles/cx-70",
+    "cx-70-phev": "https://www.mazdausa.com/vehicles/cx-70-phev",
+    "cx-90": "https://www.mazdausa.com/vehicles/cx-90",
+    "cx-90-phev": "https://www.mazdausa.com/vehicles/cx-90-phev",
+    "mx-5-miata": "https://www.mazdausa.com/vehicles/mx-5-miata",
+    "mx-5-miata-rf": "https://www.mazdausa.com/vehicles/mx-5-miata-rf"
+  },
+  "slug_variants": {
+    "mazda3-sedan": [
+      "mazda3-sedan",
+      "mazda3sedan",
+      "mazda-3-sedan",
+      "m3-sedan",
+      "m3sedan"
+    ],
+    "mazda3-hatchback": [
+      "mazda3-hatchback",
+      "mazda3hatchback",
+      "mazda-3-hatchback",
+      "m3-hatchback",
+      "m3hatchback",
+      "m3hb"
+    ],
+    "cx-30": [
+      "cx-30",
+      "cx30"
+    ],
+    "cx-5": [
+      "cx-5",
+      "cx5"
+    ],
+    "cx-50": [
+      "cx-50",
+      "cx50"
+    ],
+    "cx-50-hybrid": [
+      "cx-50-hybrid",
+      "cx50-hybrid",
+      "cx50hybrid",
+      "cx-50hybrid"
+    ],
+    "cx-70": [
+      "cx-70",
+      "cx70"
+    ],
+    "cx-70-phev": [
+      "cx-70-phev",
+      "cx70-phev",
+      "cx70phev"
+    ],
+    "cx-90": [
+      "cx-90",
+      "cx90"
+    ],
+    "cx-90-phev": [
+      "cx-90-phev",
+      "cx90-phev",
+      "cx90phev"
+    ],
+    "mx-5-miata": [
+      "mx-5-miata",
+      "mx5-miata",
+      "mx5miata",
+      "miata",
+      "mx-5-st",
+      "mx5-st"
+    ],
+    "mx-5-miata-rf": [
+      "mx-5-miata-rf",
+      "mx5miata-rf",
+      "miata-rf",
+      "mx-5-rf",
+      "mx5-rf"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|global-nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb|shopping-icons|interior-swatches|exterior-color-swatches|color-?swatch|content-hub|musa-homepage|main-nav|mdp\\.addons)",
+  "angle_url_patterns": {
+    "front_three_quarter": [
+      "001_trims/34[-_]jellies/",
+      "0\\d_btv/(?:[^/]+/)?001_trims/34[-_]jellies/"
+    ],
+    "side_profile": [
+      "content/dam/musa/vehicle-assets/[^?\\s]*?/001-trims/34-jellies/",
+      "/04-btv/001-trims/34-jellies/"
+    ]
+  }
+}

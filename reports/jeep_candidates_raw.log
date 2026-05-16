@@ -1,0 +1,516 @@
+
+========================================
+### model: wrangler
+### page:  https://www.jeep.com/wrangler/gallery.html
+### variants for this model: ["wrangler"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 58
+Unique by URL: 43
+
+MISS: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/global/header/logo-jeep.png
+    alt: jeep
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-exterior-image-7-desktop-v1.jpg.image.1440.jpg
+    alt: Display A rear angle of a red 2026 Jeep Wrangler Rubicon parked on a clearing off-road in the mountains, with a man opening the driver's door.
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-exterior-image-7-mobile-v1.jpg.image.500.jpg
+    alt: Display A rear angle of a red 2026 Jeep Wrangler Rubicon parked on a clearing off-road in the mountains, with a man opening the driver's door.
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-exterior-image-7-mobile-v1.jpg.image.1000.jpg
+    alt: Display A rear angle of a red 2026 Jeep Wrangler Rubicon parked on a clearing off-road in the mountains, with a man opening the driver's door.
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-capability-image-6-desktop.jpg.image.1440.jpg
+    alt: Display A white 2026 Jeep Wrangler Sahara four-door, with its doors and top removed, parked on a beach.
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-capability-image-6-mobile.jpg.image.500.jpg
+    alt: Display A white 2026 Jeep Wrangler Sahara four-door, with its doors and top removed, parked on a beach.
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-capability-image-6-mobile.jpg.image.1000.jpg
+    alt: Display A white 2026 Jeep Wrangler Sahara four-door, with its doors and top removed, parked on a beach.
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-capability-image-1-v2-desktop.jpg.image.1440.jpg
+    alt: Display A white 2026 Jeep Wrangler Willys four-door, with its doors and top removed, crawling down and over sandstone formations in the desert.
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-capability-image-1-v2-mobile.jpg.image.500.jpg
+    alt: Display A white 2026 Jeep Wrangler Willys four-door, with its doors and top removed, crawling down and over sandstone formations in the desert.
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-capability-image-1-v2-mobile.jpg.image.1000.jpg
+    alt: Display A white 2026 Jeep Wrangler Willys four-door, with its doors and top removed, crawling down and over sandstone formations in the desert.
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-exterior-image-1-desktop-v1.jpg.image.1440.jpg
+    alt: Display The fuel cap, taillamp and cargo area door handle on a lime green 2026 Jeep Wrangler.
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-exterior-image-1-mobile-v1.jpg.image.500.jpg
+    alt: Display The fuel cap, taillamp and cargo area door handle on a lime green 2026 Jeep Wrangler.
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-exterior-image-1-mobile-v1.jpg.image.1000.jpg
+    alt: Display The fuel cap, taillamp and cargo area door handle on a lime green 2026 Jeep Wrangler.
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-interior-image-1-desktop.jpg.image.1440.jpg
+    alt: Display The Uconnect touchscreen in a 2026 Jeep Wrangler displaying a page in the Off-Road Trail Guide from Trails Offroad.
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-interior-image-1-mobile.jpg.image.500.jpg
+    alt: Display The Uconnect touchscreen in a 2026 Jeep Wrangler displaying a page in the Off-Road Trail Guide from Trails Offroad.
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-interior-image-1-mobile.jpg.image.1000.jpg
+    alt: Display The Uconnect touchscreen in a 2026 Jeep Wrangler displaying a page in the Off-Road Trail Guide from Trails Offroad.
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-exterior-image-2-desktop-v1.jpg.image.1440.jpg
+    alt: Display The front end of a blue 2026 Jeep Wrangler Rubicon X with its headlamps on.
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-exterior-image-2-mobile-v1.jpg.image.500.jpg
+    alt: Display The front end of a blue 2026 Jeep Wrangler Rubicon X with its headlamps on.
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-exterior-image-2-mobile-v1.jpg.image.1000.jpg
+    alt: Display The front end of a blue 2026 Jeep Wrangler Rubicon X with its headlamps on.
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-exterior-image-7-desktop-v1.jpg.image.2880.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-exterior-image-7-mobile-v1.jpg.image.2000.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-exterior-image-7-mobile-v1.jpg.image.700.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-exterior-image-7-mobile-v1.jpg.image.1400.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-capability-image-6-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-capability-image-6-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-capability-image-6-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-capability-image-6-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-capability-image-1-v2-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-capability-image-1-v2-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-capability-image-1-v2-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-capability-image-1-v2-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-exterior-image-1-desktop-v1.jpg.image.2880.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-exterior-image-1-mobile-v1.jpg.image.2000.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-exterior-image-1-mobile-v1.jpg.image.700.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-exterior-image-1-mobile-v1.jpg.image.1400.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-interior-image-1-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-interior-image-1-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-interior-image-1-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-interior-image-1-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/desktop/my26-wrangler-gallery-expanded-exterior-image-2-desktop-v1.jpg.image.2880.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-exterior-image-2-mobile-v1.jpg.image.2000.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-exterior-image-2-mobile-v1.jpg.image.700.jpg
+    alt: 
+MATCH[wrangler]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-exterior-image-2-mobile-v1.jpg.image.1400.jpg
+    alt: 
+
+SUMMARY for wrangler: matched=42, missed=1, total=43
+
+========================================
+### model: grand-cherokee
+### page:  https://www.jeep.com/grand-cherokee/gallery.html
+### variants for this model: ["grand-cherokee","grand_cherokee","grandcherokee"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 58
+Unique by URL: 43
+
+MISS: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/global/header/logo-jeep.png
+    alt: jeep
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/desktop/my26-grandcherokee-gallery-24-desktop.jpg.image.1440.jpg
+    alt: Display A silver 2026 Jeep Grand Cherokee Summit, traveling on a wet beach at sunset, with rock formations in the background.
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-24-mobile.jpg.image.500.jpg
+    alt: Display A silver 2026 Jeep Grand Cherokee Summit, traveling on a wet beach at sunset, with rock formations in the background.
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-24-mobile.jpg.image.1000.jpg
+    alt: Display A silver 2026 Jeep Grand Cherokee Summit, traveling on a wet beach at sunset, with rock formations in the background.
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/desktop/my26-grandcherokee-gallery-25-desktop.jpg.image.1440.jpg
+    alt: Display A head-on angle of a silver 2026 Jeep Grand Cherokee Summit, parked on a beach with a couple standing up in the vehicle, through the open sunroof.
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-25-mobile.jpg.image.500.jpg
+    alt: Display A head-on angle of a silver 2026 Jeep Grand Cherokee Summit, parked on a beach with a couple standing up in the vehicle, through the open sunroof.
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-25-mobile.jpg.image.1000.jpg
+    alt: Display A head-on angle of a silver 2026 Jeep Grand Cherokee Summit, parked on a beach with a couple standing up in the vehicle, through the open sunroof.
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/desktop/my26-grandcherokee-gallery-26-desktop.jpg.image.1440.jpg
+    alt: Display A front driver-side angle of a silver 2026 Jeep Grand Cherokee Summit, parked on a grassy field with woods in the background.
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-26-mobile.jpg.image.500.jpg
+    alt: Display A front driver-side angle of a silver 2026 Jeep Grand Cherokee Summit, parked on a grassy field with woods in the background.
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-26-mobile.jpg.image.1000.jpg
+    alt: Display A front driver-side angle of a silver 2026 Jeep Grand Cherokee Summit, parked on a grassy field with woods in the background.
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/desktop/my26-grandcherokee-gallery-29-desktop.jpg.image.1440.jpg
+    alt: Display Two girls sitting in the second row in a 2026 Jeep Grand Cherokee L Summit.
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-29-mobile.jpg.image.500.jpg
+    alt: Display Two girls sitting in the second row in a 2026 Jeep Grand Cherokee L Summit.
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-29-mobile.jpg.image.1000.jpg
+    alt: Display Two girls sitting in the second row in a 2026 Jeep Grand Cherokee L Summit.
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/desktop/my26-grandcherokee-gallery-32-desktop.jpg.image.1440.jpg
+    alt: Display A silver 2026 Jeep Grand Cherokee Summit, parked on a beach with a couple standing nearby and two young girls standing up in the vehicle, through the open sunroof.
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-32-mobile.jpg.image.500.jpg
+    alt: Display A silver 2026 Jeep Grand Cherokee Summit, parked on a beach with a couple standing nearby and two young girls standing up in the vehicle, through the open sunroof.
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-32-mobile.jpg.image.1000.jpg
+    alt: Display A silver 2026 Jeep Grand Cherokee Summit, parked on a beach with a couple standing nearby and two young girls standing up in the vehicle, through the open sunroof.
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/desktop/my26-grandcherokee-gallery-23-v2-desktop.jpg.image.1440.jpg
+    alt: Display A silver 2026 Jeep Grand Cherokee Summit entering a stream, with a large black bear right behind it.
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-23-v2-mobile.jpg.image.500.jpg
+    alt: Display A silver 2026 Jeep Grand Cherokee Summit entering a stream, with a large black bear right behind it.
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-23-v2-mobile.jpg.image.1000.jpg
+    alt: Display A silver 2026 Jeep Grand Cherokee Summit entering a stream, with a large black bear right behind it.
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/desktop/my26-grandcherokee-gallery-24-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-24-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-24-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-24-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/desktop/my26-grandcherokee-gallery-25-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-25-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-25-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-25-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/desktop/my26-grandcherokee-gallery-26-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-26-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-26-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-26-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/desktop/my26-grandcherokee-gallery-29-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-29-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-29-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-29-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/desktop/my26-grandcherokee-gallery-32-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-32-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-32-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-32-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/desktop/my26-grandcherokee-gallery-23-v2-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-23-v2-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-23-v2-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[grand-cherokee]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/gallery/mobile/my26-grandcherokee-gallery-23-v2-mobile.jpg.image.1400.jpg
+    alt: 
+
+SUMMARY for grand-cherokee: matched=42, missed=1, total=43
+
+========================================
+### model: compass
+### page:  https://www.jeep.com/compass/gallery.html
+### variants for this model: ["compass"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 58
+Unique by URL: 43
+
+MISS: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/global/header/logo-jeep.png
+    alt: jeep
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/desktop/my26-jeep-compass-gallery-exterior-1-desktop.jpg.image.1440.jpg
+    alt: Display A silver 2026 Jeep Compass Limited Altitude traveling on a winding highway in the mountains.
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-exterior-1-mobile.jpg.image.500.jpg
+    alt: Display A silver 2026 Jeep Compass Limited Altitude traveling on a winding highway in the mountains.
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-exterior-1-mobile.jpg.image.1000.jpg
+    alt: Display A silver 2026 Jeep Compass Limited Altitude traveling on a winding highway in the mountains.
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/desktop/my26-jeep-compass-gallery-exterior-3-desktop.jpg.image.1440.jpg
+    alt: Display A silver 2026 Jeep Compass Limited Altitude traveling on a city street at night, with the background blurred to indicate the vehicle is in motion.
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-exterior-3-mobile.jpg.image.500.jpg
+    alt: Display A silver 2026 Jeep Compass Limited Altitude traveling on a city street at night, with the background blurred to indicate the vehicle is in motion.
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-exterior-3-mobile.jpg.image.1000.jpg
+    alt: Display A silver 2026 Jeep Compass Limited Altitude traveling on a city street at night, with the background blurred to indicate the vehicle is in motion.
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/desktop/my26-jeep-compass-gallery-interior-4-v2-desktop.jpg.image.1440.jpg
+    alt: Display An overhead angle of the passenger compartment in a 2026 Jeep Compass focusing on the front and rear seats and steering wheel.
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-interior-4-v2-mobile.jpg.image.500.jpg
+    alt: Display An overhead angle of the passenger compartment in a 2026 Jeep Compass focusing on the front and rear seats and steering wheel.
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-interior-4-v2-mobile.jpg.image.1000.jpg
+    alt: Display An overhead angle of the passenger compartment in a 2026 Jeep Compass focusing on the front and rear seats and steering wheel.
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/desktop/my26-jeep-compass-gallery-interior-5-desktop.jpg.image.1440.jpg
+    alt: Display An Alpine speaker in a 2026 Jeep Compass.
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-interior-5-mobile.jpg.image.500.jpg
+    alt: Display An Alpine speaker in a 2026 Jeep Compass.
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-interior-5-mobile.jpg.image.1000.jpg
+    alt: Display An Alpine speaker in a 2026 Jeep Compass.
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/desktop/my26-jeep-compass-gallery-capability-1-desktop.jpg.image.1440.jpg
+    alt: Display A white 2026 Jeep Compass Trailhawk with a black hood insert and black roof, fording through a stream with water splashing up the sides of the doors.
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-capability-1-mobile.jpg.image.500.jpg
+    alt: Display A white 2026 Jeep Compass Trailhawk with a black hood insert and black roof, fording through a stream with water splashing up the sides of the doors.
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-capability-1-mobile.jpg.image.1000.jpg
+    alt: Display A white 2026 Jeep Compass Trailhawk with a black hood insert and black roof, fording through a stream with water splashing up the sides of the doors.
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/desktop/my26-jeep-compass-gallery-capability-3-desktop.jpg.image.1440.jpg
+    alt: Display A white 2026 Jeep Compass Trailhawk with a black hood insert and black roof, descending an extremely steep hill off-road.
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-capability-3-mobile.jpg.image.500.jpg
+    alt: Display A white 2026 Jeep Compass Trailhawk with a black hood insert and black roof, descending an extremely steep hill off-road.
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-capability-3-mobile.jpg.image.1000.jpg
+    alt: Display A white 2026 Jeep Compass Trailhawk with a black hood insert and black roof, descending an extremely steep hill off-road.
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/desktop/my26-jeep-compass-gallery-exterior-1-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-exterior-1-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-exterior-1-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-exterior-1-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/desktop/my26-jeep-compass-gallery-exterior-3-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-exterior-3-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-exterior-3-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-exterior-3-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/desktop/my26-jeep-compass-gallery-interior-4-v2-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-interior-4-v2-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-interior-4-v2-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-interior-4-v2-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/desktop/my26-jeep-compass-gallery-interior-5-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-interior-5-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-interior-5-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-interior-5-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/desktop/my26-jeep-compass-gallery-capability-1-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-capability-1-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-capability-1-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-capability-1-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/desktop/my26-jeep-compass-gallery-capability-3-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-capability-3-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-capability-3-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[compass]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/compass/gallery/mobile/my26-jeep-compass-gallery-capability-3-mobile.jpg.image.1400.jpg
+    alt: 
+
+SUMMARY for compass: matched=42, missed=1, total=43
+
+========================================
+### model: grand-wagoneer
+### page:  https://www.jeep.com/wagoneer/grand-wagoneer/gallery.html
+### variants for this model: ["grand-wagoneer","grand_wagoneer","grandwagoneer"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 58
+Unique by URL: 43
+
+MISS: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/global/header/logo-jeep.png
+    alt: jeep
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/desktop/my26-jeep-grand-wagoneer-gallery-exterior-modal-1-desktop.jpg.image.1440.jpg
+    alt: Display A passenger-side profile of a white 2026 Jeep Grand Wagoneer Upland parked on a rocky beach with a kayak strapped to its roof rack.
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-1-mobile.jpg.image.500.jpg
+    alt: Display A passenger-side profile of a white 2026 Jeep Grand Wagoneer Upland parked on a rocky beach with a kayak strapped to its roof rack.
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-1-mobile.jpg.image.1000.jpg
+    alt: Display A passenger-side profile of a white 2026 Jeep Grand Wagoneer Upland parked on a rocky beach with a kayak strapped to its roof rack.
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/desktop/my26-jeep-grand-wagoneer-gallery-interior-modal-v2-desktop.jpg.image.1440.jpg
+    alt: Display The charging pad, Selec-Terrain Traction Management System toggles and transmission shifter in the 2026 Jeep Grand Wagoneer.
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-interior-modal-v2-mobile.jpg.image.500.jpg
+    alt: Display The charging pad, Selec-Terrain Traction Management System toggles and transmission shifter in the 2026 Jeep Grand Wagoneer.
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-interior-modal-v2-mobile.jpg.image.1000.jpg
+    alt: Display The charging pad, Selec-Terrain Traction Management System toggles and transmission shifter in the 2026 Jeep Grand Wagoneer.
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/desktop/my26-jeep-grand-wagoneer-gallery-exterior-modal-3-desktop.jpg.image.1440.jpg
+    alt: Display A close-up of the front end and grille on a silver 2026 Jeep Grand Wagoneer Upland.
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-3-mobile.jpg.image.500.jpg
+    alt: Display A close-up of the front end and grille on a silver 2026 Jeep Grand Wagoneer Upland.
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-3-mobile.jpg.image.1000.jpg
+    alt: Display A close-up of the front end and grille on a silver 2026 Jeep Grand Wagoneer Upland.
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/desktop/my26-jeep-grand-wagoneer-gallery-exterior-modal-4-desktop.jpg.image.1440.jpg
+    alt: Display An angled front view of a blue 2026 Jeep Grand Wagoneer Summit Reserve Obsidian parked on a clearing with mountains in the background.
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-4-mobile.jpg.image.500.jpg
+    alt: Display An angled front view of a blue 2026 Jeep Grand Wagoneer Summit Reserve Obsidian parked on a clearing with mountains in the background.
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-4-mobile.jpg.image.1000.jpg
+    alt: Display An angled front view of a blue 2026 Jeep Grand Wagoneer Summit Reserve Obsidian parked on a clearing with mountains in the background.
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/desktop/my26-jeep-grand-wagoneer-gallery-exterior-modal-5-desktop.jpg.image.1440.jpg
+    alt: Display A blue 2026 Jeep Grand Wagoneer Summit Reserve Obsidian parked beside a mountain lake with its liftgate open, a woman leaning against the rear bumper, a man standing nearby and a child with a 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-5-mobile.jpg.image.500.jpg
+    alt: Display A blue 2026 Jeep Grand Wagoneer Summit Reserve Obsidian parked beside a mountain lake with its liftgate open, a woman leaning against the rear bumper, a man standing nearby and a child with a 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-5-mobile.jpg.image.1000.jpg
+    alt: Display A blue 2026 Jeep Grand Wagoneer Summit Reserve Obsidian parked beside a mountain lake with its liftgate open, a woman leaning against the rear bumper, a man standing nearby and a child with a 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/desktop/my26-jeep-grand-wagoneer-gallery-interior-modal-6-desktop.jpg.image.1440.jpg
+    alt: Display The Tri-Pane Panoramic Sunroof open, from inside the 2026 Jeep Grand Wagoneer.
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-interior-modal-6-mobile.jpg.image.500.jpg
+    alt: Display The Tri-Pane Panoramic Sunroof open, from inside the 2026 Jeep Grand Wagoneer.
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-interior-modal-6-mobile.jpg.image.1000.jpg
+    alt: Display The Tri-Pane Panoramic Sunroof open, from inside the 2026 Jeep Grand Wagoneer.
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/desktop/my26-jeep-grand-wagoneer-gallery-exterior-modal-1-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-1-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-1-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-1-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/desktop/my26-jeep-grand-wagoneer-gallery-interior-modal-v2-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-interior-modal-v2-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-interior-modal-v2-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-interior-modal-v2-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/desktop/my26-jeep-grand-wagoneer-gallery-exterior-modal-3-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-3-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-3-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-3-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/desktop/my26-jeep-grand-wagoneer-gallery-exterior-modal-4-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-4-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-4-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-4-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/desktop/my26-jeep-grand-wagoneer-gallery-exterior-modal-5-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-5-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-5-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-exterior-modal-5-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/desktop/my26-jeep-grand-wagoneer-gallery-interior-modal-6-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-interior-modal-6-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-interior-modal-6-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[grand-wagoneer]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wagoneer/grand-wagoneer/gallery/mobile/my26-jeep-grand-wagoneer-gallery-interior-modal-6-mobile.jpg.image.1400.jpg
+    alt: 
+
+SUMMARY for grand-wagoneer: matched=42, missed=1, total=43
+
+========================================
+### model: gladiator
+### page:  https://www.jeep.com/gladiator/gallery.html
+### variants for this model: ["gladiator"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 58
+Unique by URL: 43
+
+MISS: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/global/header/logo-jeep.png
+    alt: jeep
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/desktop/my26-jeep-gladiator-gallery-exterior-modal-26-desktop.jpg.image.1440.jpg
+    alt: Display A passenger-side front angle of a lime green 2026 Jeep Gladiator Rubicon X slogging through a muddy trail off-road. Declaration of Deals.
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-exterior-modal-26-mobile.jpg.image.500.jpg
+    alt: Display A passenger-side front angle of a lime green 2026 Jeep Gladiator Rubicon X slogging through a muddy trail off-road. Declaration of Deals.
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-exterior-modal-26-mobile.jpg.image.1000.jpg
+    alt: Display A passenger-side front angle of a lime green 2026 Jeep Gladiator Rubicon X slogging through a muddy trail off-road. Declaration of Deals.
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/desktop/my26-jeep-gladiator-gallery-exterior-25-desktop.jpg.image.1440.jpg
+    alt: Display A driver-side profile of a purple 2026 Jeep Gladiator Rubicon with its four doors and top removed and its windshield folded down, so you can see through the vehicle and beyond, to the mountain
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-exterior-25-mobile.jpg.image.500.jpg
+    alt: Display A driver-side profile of a purple 2026 Jeep Gladiator Rubicon with its four doors and top removed and its windshield folded down, so you can see through the vehicle and beyond, to the mountain
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-exterior-25-mobile.jpg.image.1000.jpg
+    alt: Display A driver-side profile of a purple 2026 Jeep Gladiator Rubicon with its four doors and top removed and its windshield folded down, so you can see through the vehicle and beyond, to the mountain
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/desktop/my26-jeep-gladiator-gallery-capability-05-desktop.jpg.image.1440.jpg
+    alt: Display A passenger-side rear angle of a blue 2026 Jeep Gladiator Sport with a black top and its tailgate open, parked on the snow with a couple pulling winter sports equipment out of the pickup box.
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-capability-05-mobile.jpg.image.500.jpg
+    alt: Display A passenger-side rear angle of a blue 2026 Jeep Gladiator Sport with a black top and its tailgate open, parked on the snow with a couple pulling winter sports equipment out of the pickup box.
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-capability-05-mobile.jpg.image.1000.jpg
+    alt: Display A passenger-side rear angle of a blue 2026 Jeep Gladiator Sport with a black top and its tailgate open, parked on the snow with a couple pulling winter sports equipment out of the pickup box.
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/desktop/my26-jeep-gladiator-gallery-exterior-modal-1-desktop.jpg.image.1440.jpg
+    alt: Display A gray 2026 Jeep Gladiator Rubicon X with its doors and top removed and its headlamps and fog lamps on, parked on the top of a rocky hill.
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-exterior-modal-1-mobile.jpg.image.500.jpg
+    alt: Display A gray 2026 Jeep Gladiator Rubicon X with its doors and top removed and its headlamps and fog lamps on, parked on the top of a rocky hill.
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-exterior-modal-1-mobile.jpg.image.1000.jpg
+    alt: Display A gray 2026 Jeep Gladiator Rubicon X with its doors and top removed and its headlamps and fog lamps on, parked on the top of a rocky hill.
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/desktop/my26-jeep-gladiator-gallery-interior-modal-2-desktop.jpg.image.1440.jpg
+    alt: Display The front seats in a 2026 Jeep Gladiator Rubicon X.
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-interior-modal-2-mobile.jpg.image.500.jpg
+    alt: Display The front seats in a 2026 Jeep Gladiator Rubicon X.
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-interior-modal-2-mobile.jpg.image.1000.jpg
+    alt: Display The front seats in a 2026 Jeep Gladiator Rubicon X.
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/desktop/my26-jeep-gladiator-gallery-capability-modal-3-desktop.jpg.image.1440.jpg
+    alt: Display A overhead view of a gray 2026 Jeep Gladiator Mojave X with its doors and top removed, being driven in loose sand, creating heavy tracks as it goes.
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-capability-modal-3-mobile.jpg.image.500.jpg
+    alt: Display A overhead view of a gray 2026 Jeep Gladiator Mojave X with its doors and top removed, being driven in loose sand, creating heavy tracks as it goes.
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-capability-modal-3-mobile.jpg.image.1000.jpg
+    alt: Display A overhead view of a gray 2026 Jeep Gladiator Mojave X with its doors and top removed, being driven in loose sand, creating heavy tracks as it goes.
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/desktop/my26-jeep-gladiator-gallery-exterior-modal-26-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-exterior-modal-26-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-exterior-modal-26-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-exterior-modal-26-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/desktop/my26-jeep-gladiator-gallery-exterior-25-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-exterior-25-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-exterior-25-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-exterior-25-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/desktop/my26-jeep-gladiator-gallery-capability-05-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-capability-05-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-capability-05-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-capability-05-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/desktop/my26-jeep-gladiator-gallery-exterior-modal-1-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-exterior-modal-1-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-exterior-modal-1-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-exterior-modal-1-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/desktop/my26-jeep-gladiator-gallery-interior-modal-2-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-interior-modal-2-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-interior-modal-2-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-interior-modal-2-mobile.jpg.image.1400.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/desktop/my26-jeep-gladiator-gallery-capability-modal-3-desktop.jpg.image.2880.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-capability-modal-3-mobile.jpg.image.2000.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-capability-modal-3-mobile.jpg.image.700.jpg
+    alt: 
+MATCH[gladiator]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/gladiator/gallery/mobile/my26-jeep-gladiator-gallery-capability-modal-3-mobile.jpg.image.1400.jpg
+    alt: 
+
+SUMMARY for gladiator: matched=42, missed=1, total=43
+
+========================================
+### model: grand-cherokee-l
+### page:  https://www.jeep.com/grand-cherokee/3-row-suv.html
+### variants for this model: ["grand-cherokee-l","grand_cherokee_l","grandcherokeel","grand-cherokee-3-row","grand-cherokee-3rowl","grand-cherokee-3row","3-row-suv","3row-suv","3rowl"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 14
+Unique by URL: 7
+
+MISS: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/global/header/logo-jeep.png
+    alt: jeep
+MATCH[grand-cherokee-3rowl]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/3-row-suv/desktop/my26-jeep-grand-cherokee-3rowl-hero-main-inc-spring-desktop.jpg
+    alt: 
+MATCH[grand-cherokee-3rowl]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/3-row-suv/mobile/my26-jeep-grand-cherokee-3rowl-hero-main-inc-spring-mobile.jpg
+    alt: 
+MATCH[grand-cherokee-3row]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/3-row-suv/desktop/my26-jeep-grand-cherokee-3row-hero-desktop.jpg
+    alt: 
+MATCH[grand-cherokee-3row]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/3-row-suv/mobile/my26-jeep-grand-cherokee-3row-hero-mobile.jpg
+    alt: 
+MATCH[grand-cherokee-3rowl]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/3-row-suv/tablet/my26-jeep-grand-cherokee-3rowl-hero-main-inc-spring-tablet.jpg
+    alt: 
+MATCH[grand-cherokee-3row]: https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/grand-cherokee/3-row-suv/tablet/my26-jeep-grand-cherokee-3row-hero-tablet.jpg
+    alt: 
+
+SUMMARY for grand-cherokee-l: matched=6, missed=1, total=7

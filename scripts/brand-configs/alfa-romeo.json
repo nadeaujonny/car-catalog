@@ -1,0 +1,14 @@
+{
+  "brand_slug": "alfa-romeo",
+  "model_pages": {
+    "giulia":  "https://www.alfaromeousa.com/models/giulia",
+    "stelvio": "https://www.alfaromeousa.com/models/stelvio",
+    "tonale":  "https://www.alfaromeousa.com/models/tonale"
+  },
+  "slug_variants": {
+    "giulia":  ["giulia", "giulia-2026"],
+    "stelvio": ["stelvio", "stelvio-2026"],
+    "tonale":  ["tonale", "tonale-2026"]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

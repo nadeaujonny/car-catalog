@@ -1,0 +1,72 @@
+Reset 144 image entries with needs_scraping:true to their model page URLs.
+Brand: land-rover
+Models in JSON: 11
+Models with page URLs: 11
+Playwright fallback: enabled
+
+Scraping 11 model pages…
+
+  fetch https://www.landroverusa.com/defender/defender-90/index.html  …  static ok (35 raw candidates)
+  fetch https://www.landroverusa.com/defender/defender-110/index.html  …  static ok (39 raw candidates)
+  fetch https://www.landroverusa.com/defender/defender-130/index.html  …  static ok (35 raw candidates)
+  fetch https://www.landroverusa.com/defender/defender-octa/index.html  …  static ok (3 raw candidates)
+  fetch https://www.landroverusa.com/discovery/index.html  …  static ok (2 raw candidates)
+  fetch https://www.landroverusa.com/discovery/discovery-sport/index.html  …  static ok (7 raw candidates)
+  fetch https://www.rangerover.com/en-us/range-rover/index.html  …  static ok (39 raw candidates)
+  fetch https://www.rangerover.com/en-us/range-rover-sport/index.html  …  static ok (21 raw candidates)
+  fetch https://www.rangerover.com/en-us/range-rover-sport/sv.html  …  static ok (3 raw candidates)
+  fetch https://www.rangerover.com/en-us/range-rover-velar/index.html  …  static ok (14 raw candidates)
+  fetch https://www.rangerover.com/en-us/range-rover-evoque/index.html  …  static ok (12 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          land-rover
+Pages attempted:                11
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 11
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        25
+  via text/URL pattern match:   25
+  via positional fallback:      0
+Image entries unchanged:        119
+
+Sample rewrites:
+  [15.0] range-rover/se/front_three_quarter
+        → https://www.rangerover.com/content/dam/lrdx/global/l460/22my/markets/us/L460_22MY_072_US_HSE_SWB_DX.jpg.res/JLRHASHBE9D72139F33659ACFDB606DABA7251F780005B8/L460_22MY_072_US_HSE_SWB_DX.jpg
+  [7.0] range-rover/se/side_profile
+        → https://www.rangerover.com/content/dam/lrdx/global/l460/22my/markets/us/L460_22MY_095_US_BELGRAVIA_GREEN_DX.jpg.res/JLRHASH2801E0E306E850BE7BC7C0E6250AADF8BDD858CD/L460_22MY_095_US_BELGRAVIA_GREEN_DX.jpg
+  [15.0] range-rover/autobiography/front_three_quarter
+        → https://www.rangerover.com/content/dam/lrdx/global/l460/22my/markets/us/L460_22MY_072_US_HSE_SWB_DX.jpg.res/JLRHASHBE9D72139F33659ACFDB606DABA7251F780005B8/L460_22MY_072_US_HSE_SWB_DX.jpg
+  [7.0] range-rover/autobiography/side_profile
+        → https://www.rangerover.com/content/dam/lrdx/global/l460/22my/markets/us/L460_22MY_095_US_BELGRAVIA_GREEN_DX.jpg.res/JLRHASH2801E0E306E850BE7BC7C0E6250AADF8BDD858CD/L460_22MY_095_US_BELGRAVIA_GREEN_DX.jpg
+  [15.0] range-rover/sv/front_three_quarter
+        → https://www.rangerover.com/content/dam/lrdx/global/l460/22my/markets/us/L460_22MY_072_US_HSE_SWB_DX.jpg.res/JLRHASHBE9D72139F33659ACFDB606DABA7251F780005B8/L460_22MY_072_US_HSE_SWB_DX.jpg
+  [7.0] range-rover/sv/side_profile
+        → https://www.rangerover.com/content/dam/lrdx/global/l460/22my/markets/us/L460_22MY_095_US_BELGRAVIA_GREEN_DX.jpg.res/JLRHASH2801E0E306E850BE7BC7C0E6250AADF8BDD858CD/L460_22MY_095_US_BELGRAVIA_GREEN_DX.jpg
+  [15.0] range-rover/sv-black/front_three_quarter
+        → https://www.rangerover.com/content/dam/lrdx/global/l460/22my/markets/us/L460_22MY_072_US_HSE_SWB_DX.jpg.res/JLRHASHBE9D72139F33659ACFDB606DABA7251F780005B8/L460_22MY_072_US_HSE_SWB_DX.jpg
+  [7.0] range-rover/sv-black/side_profile
+        → https://www.rangerover.com/content/dam/lrdx/global/l460/22my/markets/us/L460_22MY_095_US_BELGRAVIA_GREEN_DX.jpg.res/JLRHASH2801E0E306E850BE7BC7C0E6250AADF8BDD858CD/L460_22MY_095_US_BELGRAVIA_GREEN_DX.jpg
+  [7.0] range-rover-sport/se/side_profile
+        → https://www.rangerover.com/content/dam/lrdx/global/l461/25my/int/L46125GL_303103154_072.jpg.res/JLRHASH2B1DAF915C19BD4096C9594B127C64E068AE01AA/L46125GL_303103154_072.jpg
+  [7.0] range-rover-sport/dynamic-se/side_profile
+        → https://www.rangerover.com/content/dam/lrdx/global/l461/25my/int/L46125GL_303103154_072.jpg.res/JLRHASH2B1DAF915C19BD4096C9594B127C64E068AE01AA/L46125GL_303103154_072.jpg
+  [7.0] range-rover-sport/battersea-edition/side_profile
+        → https://www.rangerover.com/content/dam/lrdx/global/l461/25my/int/L46125GL_303103154_072.jpg.res/JLRHASH2B1DAF915C19BD4096C9594B127C64E068AE01AA/L46125GL_303103154_072.jpg
+  [7.0] range-rover-sport/twenty-edition/side_profile
+        → https://www.rangerover.com/content/dam/lrdx/global/l461/25my/int/L46125GL_303103154_072.jpg.res/JLRHASH2B1DAF915C19BD4096C9594B127C64E068AE01AA/L46125GL_303103154_072.jpg
+
+Models with unresolved angles:
+  defender-90: 4 entries  (e.g. v8/front_three_quarter, v8/rear_three_quarter, v8/side_profile)
+  defender-110: 20 entries  (e.g. s/front_three_quarter, s/rear_three_quarter, s/side_profile)
+  defender-130: 20 entries  (e.g. s/front_three_quarter, s/rear_three_quarter, s/side_profile)
+  defender-octa: 8 entries  (e.g. octa/front_three_quarter, octa/rear_three_quarter, octa/side_profile)
+  discovery: 16 entries  (e.g. s/front_three_quarter, s/rear_three_quarter, s/side_profile)
+  discovery-sport: 4 entries  (e.g. landmark-edition/front_three_quarter, landmark-edition/rear_three_quarter, landmark-edition/side_profile)
+  range-rover: 8 entries  (e.g. se/rear_three_quarter, se/interior_dashboard, autobiography/rear_three_quarter)
+  range-rover-sport: 15 entries  (e.g. se/front_three_quarter, se/rear_three_quarter, se/interior_dashboard)
+  range-rover-sport-sv: 12 entries  (e.g. sv/front_three_quarter, sv/rear_three_quarter, sv/side_profile)
+  range-rover-velar: 8 entries  (e.g. s/rear_three_quarter, s/interior_dashboard, belgravia-edition/rear_three_quarter)
+  range-rover-evoque: 4 entries  (e.g. s/rear_three_quarter, s/interior_dashboard, hoxton-edition/rear_three_quarter)

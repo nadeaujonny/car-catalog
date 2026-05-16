@@ -1,0 +1,59 @@
+﻿Reset 38 image entries with needs_scraping:true to their model page URLs.
+Brand: mini
+Models in JSON: 7
+Models with page URLs: 7
+Playwright fallback: enabled
+
+Scraping 7 model pages…
+
+  fetch https://www.miniusa.com/model/2-door.html  …  static ok (127 raw candidates)
+  fetch https://www.miniusa.com/model/4-door.html  …  static ok (96 raw candidates)
+  fetch https://www.miniusa.com/model/convertible.html  …  static ok (123 raw candidates)
+  fetch https://www.miniusa.com/model/john-cooper-works/2-door.html  …  static ok (91 raw candidates)
+  fetch https://www.miniusa.com/model/john-cooper-works/convertible.html  …  static ok (154 raw candidates)
+  fetch https://www.miniusa.com/model/countryman.html  …  static ok (207 raw candidates)
+  fetch https://www.miniusa.com/model/john-cooper-works/countryman.html  …  static ok (128 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          mini
+Pages attempted:                7
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 7
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        36
+  via text/URL pattern match:   36
+  via positional fallback:      0
+Image entries unchanged:        2
+
+Sample rewrites:
+  [14.9] cooper-hardtop-2-door/cooper-c/front_three_quarter
+        → https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/mobile/Dimensions_mobile.png.miniusaimg.small.png
+  [14.8] cooper-hardtop-2-door/cooper-c/rear_three_quarter
+        → https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/mobile/MINI-F66-Overview-WhereTo-01-Mobile.png.miniusaimg.small.png
+  [7.0] cooper-hardtop-2-door/cooper-c/side_profile
+        → https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-FAQ%27s-ALL.png
+  [11.9] cooper-hardtop-2-door/cooper-c/interior_dashboard
+        → https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-Included-02-ALL.png.miniusaimg.small.png
+  [6.8] cooper-hardtop-2-door/cooper-s/front_three_quarter
+        → https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/mobile/MINI-F66-Overview-DesignSneak-01-Mobile.png.miniusaimg.small.png
+  [14.8] cooper-hardtop-2-door/cooper-s/rear_three_quarter
+        → https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop2door/2025/overview/desktop/MINI-F66-Overview-CrossLinks-02-Desktop.png.miniusaimg.small.png
+  [14.9] cooper-hardtop-4-door/cooper-c/front_three_quarter
+        → https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/desktop/MINI-F65-PDP-Overview-Tech-Specs-Mobile-v3.png.miniusaimg.small.png
+  [14.8] cooper-hardtop-4-door/cooper-c/rear_three_quarter
+        → https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/mobile/MINI-F65-PDP-Overview-Next-01-Mobile-v2.png.miniusaimg.small.png
+  [7.0] cooper-hardtop-4-door/cooper-c/side_profile
+        → https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/mobile/MINI-F65-PDP-Overview-FAQs-Mobile-v2.png
+  [11.8] cooper-hardtop-4-door/cooper-c/interior_dashboard
+        → https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/mobile/MINI-F65-PDP-Overview-Tech-Safety-Mobile-v3.jpg.miniusaimg.small.jpeg
+  [6.8] cooper-hardtop-4-door/cooper-s/front_three_quarter
+        → https://www.miniusa.com/content/dam/mini/vehicles/mini-hardtop4door/2025/overview/mobile/MINI-F65-PDP-Overview-FS-Mobile-v3.png.miniusaimg.small.png
+  [14.9] cooper-convertible/cooper-c-convertible/front_three_quarter
+        → https://www.miniusa.com/content/dam/mini/vehicles/mini-convertible/2025/overview/mobile/MINI-F67-Overview-Schematic-Illustration-Mobile.png.miniusaimg.small.png
+
+Models with unresolved angles:
+  cooper-hardtop-4-door: 1 entries  (e.g. cooper-s/rear_three_quarter)
+  cooper-convertible: 1 entries  (e.g. cooper-s-convertible/rear_three_quarter)

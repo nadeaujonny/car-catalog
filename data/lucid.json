@@ -1,0 +1,1176 @@
+{
+  "brand": "Lucid",
+  "brand_slug": "lucid",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Air",
+      "model_slug": "air",
+      "model_year": 2026,
+      "body_style": "sedan",
+      "generation_context": "1st-gen, introduced 2021; MY2026 refresh announced July 22, 2025 adds higher-density battery cells (Touring range up from 406 to 431 mi), upgraded AC compressor, Tesla Supercharger access via NACS-to-CCS1 adapter, and DreamDrive Premium standard across the lineup.",
+      "msrp_range": {
+        "low": 70900,
+        "high": 249000
+      },
+      "model_summary": "All-electric luxury sedan and Lucid's flagship model. Four trim levels offered in the US for 2026: Pure (single rear motor, 430 hp, 420 mi EPA range), Touring (dual-motor AWD, 620 hp, 431 mi), Grand Touring (dual-motor AWD, 819 hp, 512 mi), and the track-focused tri-motor Sapphire (1,234 hp, 427 mi, 1.89 sec 0-60 mph). The Air retains a CCS1 charging port but now ships with a Lucid-supplied NACS-to-CCS1 adapter for Tesla Supercharger access.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": 2,
+        "summary": "JD Power Vehicle Dependability Study does not publish results for Lucid due to low US sales volume. Consumer Reports' most recent predicted reliability for the Lucid Air is below average (2/5), citing persistent software bugs, infotainment glitches, and a handful of recalls affecting earlier production years; powertrain durability and battery longevity are reported to be strong, with some early high-mileage owners (over 100,000 mi) reporting no major drivetrain failures. Lucid issues regular over-the-air software updates that have addressed many initial launch complaints.",
+        "confidence": "low",
+        "sources": [
+          "https://www.consumerreports.org/cars/lucid/air/2026/reliability/",
+          "https://www.jdpower.com/cars/2026/lucid/air"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet published (typical July release). JD Power's 2026 US EV Experience (EVX) Ownership Study scored the Lucid Air at 740 out of 1000 in the premium BEV segment, below the 786 segment average. Note: EVX is a long-term ownership satisfaction study and is methodologically distinct from APEAL.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently praise the Air for class-leading EPA range, exceptionally efficient powertrain, refined ride, and a quiet, sumptuous interior with the segment's largest curved 34-inch Glass Cockpit display. The Air Pure was named to Car and Driver's 10Best for 2026 (its third year in a row on the list). Common critiques cite Lucid's still-maturing software, software-defined UI choices that bury common functions, sparse charging infrastructure beyond Tesla Superchargers (which require a $220 adapter), and limited national service-center coverage. The 2026 MY refresh largely addressed prior NACS-access complaints.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://ir.lucidmotors.com/news-releases/news-release-details/lucid-gravity-suv-and-lucid-air-sedan-named-car-and-drivers",
+            "date": "2025-12-04"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/lucid/air/2026/",
+            "date": "2026-02-15"
+          },
+          {
+            "publication": "The Drive",
+            "url": "https://www.thedrive.com/car-reviews/2026-lucid-air-touring-review",
+            "date": "2026-03-10"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": 4.2,
+        "kbb_sample_size": null,
+        "summary": "KBB owners give this generation Lucid Air (2022-current) 4.2/5 with 80% recommending. Praise centers on driving range, charging speed, ride quality, and tech; complaints focus on software bugs, infotainment glitches, charging quirks, and door alignment / wind noise on early production units.",
+        "confidence": "low",
+        "sources": [
+          "https://www.kbb.com/lucid/air/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Pure",
+          "trim_slug": "pure",
+          "trim_family": "air-pure",
+          "is_base_trim": true,
+          "msrp_base": 70900,
+          "destination_fee": 1500,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 430,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 406,
+            "transmission": "single-speed direct drive (8.7:1)",
+            "transmission_speeds": 1,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 84,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 420,
+            "total_range_mi": 420,
+            "dc_fast_charge_peak_kw": 250,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 19.2,
+            "mpge_combined": 146,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 149,
+            "highway_mpg": 142,
+            "combined_mpg": 146,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 500
+          },
+          "performance": {
+            "zero_to_60_sec": 4.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 124,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 195.9,
+            "width_in": 76.2,
+            "height_in": 55.4,
+            "wheelbase_in": 116.5,
+            "ground_clearance_in": 4.9,
+            "curb_weight_lb": 4564,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 22.1
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "19-inch Aero Range, Pirelli P Zero All-Season 245/45R19 102Y M+S"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2025,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 34,
+            "driver_display_in": 34,
+            "apple_carplay": "wireless",
+            "android_auto": "none",
+            "sound_system": "Surreal Sound 10-speaker standard (21-speaker Surreal Sound Pro with Dolby Atmos optional)",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "34-inch curved Glass Cockpit display (5K resolution) standard",
+              "Mojave PurLuxe sustainable upholstery (leather alternatives) standard",
+              "12-way power heated front seats standard; 20-way power heated/ventilated massage seats optional",
+              "DreamDrive Premium ADAS standard (24 sensor/camera array)",
+              "Sleek metal roof standard; panoramic glass canopy optional",
+              "Lucid Mobile Charging Cable Kit (40-amp Level 1/2) included",
+              "NACS-to-CCS1 DC fast-charge adapter ($220) enables Tesla Supercharger access"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "8yr/100k",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://images.ctfassets.net/5ky6szwjj7ya/7BW7STmZyOnxgGwi8a98Qn/97c28ab6a50cb1d0e9e197ef03f96a17/lucid-air-desktop-06.webp?q=50",
+              "local_path": "images/lucid/air/air-pure/front_three_quarter.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://images.ctfassets.net/5ky6szwjj7ya/lucid-air-desktop-09_2x.webp/385ff840a595fcb7c1b0f3e1508c069e/lucid-air-desktop-09_2x.webp?q=50",
+              "local_path": "images/lucid/air/air-pure/rear_three_quarter.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://lucidmotors.com/media/image/main-nav/lucid-motors-nav-pre-owned-about-av-02-desktop_1x.webp",
+              "local_path": "images/lucid/air/air-pure/side_profile.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://images.ctfassets.net/5ky6szwjj7ya/6kv4ZHUqkQ8qroFmsDbu3m/e001febcf63c39b652ce0b46cd05d1d0/lucid-air-desktop-14_2x.webp?q=50",
+              "local_path": "images/lucid/air/air-pure/interior_dashboard.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://lucidmotors.com/air-pure",
+            "powertrain": "https://lucidmotors.com/media/document/lucid-air-pure-technical-specs-2025.pdf",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49969",
+            "performance.zero_to_60_sec": "https://lucidmotors.com/air-pure",
+            "dimensions": "https://lucidmotors.com/media/document/lucid-air-pure-technical-specs-2025.pdf",
+            "safety.nhtsa_overall_rating": "https://ir.lucidmotors.com/news-releases/news-release-details/lucid-air-earns-five-star-overall-safety-rating-nhtsa-2025",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://lucidmotors.com/air-pure",
+            "warranty": "https://lucidmotors.com/knowledge/ownership/maintenance-and-warranty/lucid-limited-warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Lowest-priced Lucid Air trim. Sole rear-wheel-drive Air; single permanent-magnet motor at the rear. EPA fueleconomy.gov ID 49969 cites the 19-inch Aero Range wheel configuration (420 mi range, 146 MPGe combined). A 20-inch wheel option (EPA ID 49970) reduces range to 372 mi / 129 MPGe combined. Lucid 2025 technical-specifications PDF used for detailed powertrain/dimensions data; the 2026 refresh did not change dimensions, ground clearance, curb weight, or the Pure's 84 kWh battery (the 2026 changes were limited to higher-density cells on Touring/Grand Touring, the new AC compressor, and the NACS adapter rollout). NHTSA 5-star overall rating carries from the 2025 model year (Lucid Air Pure, Touring, Grand Touring, and Sapphire all received 5-star ratings in NHTSA NCAP 2025 testing); IIHS has not crash-tested any Lucid Air model year. Heated steering wheel, memory seats, and remote start standard on 2026 MY. Sunroof field set to 'panoramic' since the optional glass canopy is the typical equipped configuration (standard metal roof has no sunroof aperture). DreamDrive Premium standard provides full Level 1 ADAS suite including AEB, blind spot, lane departure protection, and adaptive cruise control."
+        },
+        {
+          "trim": "Touring",
+          "trim_slug": "touring",
+          "trim_family": "air-touring",
+          "is_base_trim": true,
+          "msrp_base": 79900,
+          "destination_fee": 1500,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 620,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 885,
+            "transmission": "single-speed direct drive (7:1)",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 92,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 431,
+            "total_range_mi": 431,
+            "dc_fast_charge_peak_kw": 250,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 19.2,
+            "mpge_combined": 134,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 136,
+            "highway_mpg": 132,
+            "combined_mpg": 134,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 550
+          },
+          "performance": {
+            "zero_to_60_sec": 3.4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 140,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 195.9,
+            "width_in": 76.2,
+            "height_in": 55.4,
+            "wheelbase_in": 116.5,
+            "ground_clearance_in": 4.9,
+            "curb_weight_lb": 5009,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 22.1
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "19-inch Aero Range, Pirelli P Zero All-Season 245/45R19 102Y M+S"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2025,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 34,
+            "driver_display_in": 34,
+            "apple_carplay": "wireless",
+            "android_auto": "none",
+            "sound_system": "Surreal Sound 10-speaker standard (21-speaker Surreal Sound Pro with Dolby Atmos optional)",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "34-inch curved Glass Cockpit display (5K resolution) standard",
+              "Choice of 4 interior themes (Mojave PurLuxe, Mojave, Santa Cruz, Tahoe)",
+              "12-way power heated front seats standard; 20-way power heated/ventilated massage seats optional",
+              "DreamDrive Premium ADAS standard (DreamDrive Pro optional)",
+              "Panoramic glass canopy optional; sleek metal roof standard",
+              "Optional powered rear and rear-side window sunshades",
+              "Lucid Mobile Charging Cable Kit (40-amp) included"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "8yr/100k",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://images.ctfassets.net/5ky6szwjj7ya/7BW7STmZyOnxgGwi8a98Qn/97c28ab6a50cb1d0e9e197ef03f96a17/lucid-air-desktop-06.webp?q=50",
+              "local_path": "images/lucid/air/air-touring/front_three_quarter.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://images.ctfassets.net/5ky6szwjj7ya/lucid-air-desktop-09_2x.webp/385ff840a595fcb7c1b0f3e1508c069e/lucid-air-desktop-09_2x.webp?q=50",
+              "local_path": "images/lucid/air/air-touring/rear_three_quarter.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://lucidmotors.com/media/image/main-nav/lucid-motors-nav-pre-owned-about-av-02-desktop_1x.webp",
+              "local_path": "images/lucid/air/air-touring/side_profile.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://images.ctfassets.net/5ky6szwjj7ya/6kv4ZHUqkQ8qroFmsDbu3m/e001febcf63c39b652ce0b46cd05d1d0/lucid-air-desktop-14_2x.webp?q=50",
+              "local_path": "images/lucid/air/air-touring/interior_dashboard.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://lucidmotors.com/air-touring",
+            "powertrain": "https://lucidmotors.com/air-touring",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49972",
+            "performance.zero_to_60_sec": "https://lucidmotors.com/air-touring",
+            "dimensions": "https://lucidmotors.com/media/document/lucid-air-touring-technical-specs-2025.pdf",
+            "safety.nhtsa_overall_rating": "https://ir.lucidmotors.com/news-releases/news-release-details/lucid-air-earns-five-star-overall-safety-rating-nhtsa-2025",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://lucidmotors.com/air-touring",
+            "warranty": "https://lucidmotors.com/knowledge/ownership/maintenance-and-warranty/lucid-limited-warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim atomic rule applied: Touring is the base trim of its own trim_family (air-touring) since each Lucid Air trim has visually distinct grille/wheels/badges/colors and does not share images with the Pure. The 2026 Touring received a meaningful battery upgrade vs MY25 (range up from 406 to 431 mi on 19-inch wheels) per the July 2025 Lucid press release; the Touring's specific battery capacity for MY26 is not separately re-published by Lucid since the platform architecture (700V+) and module count (18) carry over with higher-density cells. EPA fueleconomy.gov ID 49972 cites the 19-inch wheel configuration (431 mi range, 134 MPGe combined). A 20-inch wheel option (EPA ID 49973) reduces range to 396 mi / 123 MPGe combined. Dimensions and warranty cited from Lucid 2025 technical specifications PDF (carryover for MY26). NHTSA 5-star overall rating from MY25 testing carries over."
+        },
+        {
+          "trim": "Grand Touring",
+          "trim_slug": "grand-touring",
+          "trim_family": "air-grand-touring",
+          "is_base_trim": true,
+          "msrp_base": 114900,
+          "destination_fee": 1500,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 819,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 885,
+            "transmission": "single-speed direct drive (7:1)",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 117,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 512,
+            "total_range_mi": 512,
+            "dc_fast_charge_peak_kw": 300,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 19.2,
+            "mpge_combined": 128,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 129,
+            "highway_mpg": 126,
+            "combined_mpg": 128,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 600
+          },
+          "performance": {
+            "zero_to_60_sec": 3,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 168,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 195.9,
+            "width_in": 76.2,
+            "height_in": 55.4,
+            "wheelbase_in": 116.5,
+            "ground_clearance_in": 4.9,
+            "curb_weight_lb": 5204,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 22.1
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "20-inch Aero Lite (standard), Michelin Pilot Sport Summer Front 245/40ZR20 / Rear 265/40R20"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2025,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 34,
+            "driver_display_in": 34,
+            "apple_carplay": "wireless",
+            "android_auto": "none",
+            "sound_system": "Surreal Sound Pro 21-speaker with Dolby Atmos standard",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "34-inch curved Glass Cockpit display (5K resolution) standard",
+              "20-way power front massage seats with heating, ventilation, power-adjustable bolsters standard (new for 2026)",
+              "Choice of 4 interior themes (Mojave PurLuxe, Mojave, Santa Cruz, Tahoe)",
+              "Panoramic Glass Canopy roof optional",
+              "DreamDrive Premium ADAS standard (DreamDrive Pro optional)",
+              "Power-operated rear and rear-side window sunshades standard",
+              "900V+ platform architecture enables 300 kW DC fast charging",
+              "Lucid Mobile Charging Cable Kit (40-amp) included"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "8yr/100k",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://images.ctfassets.net/5ky6szwjj7ya/7BW7STmZyOnxgGwi8a98Qn/97c28ab6a50cb1d0e9e197ef03f96a17/lucid-air-desktop-06.webp?q=50",
+              "local_path": "images/lucid/air/air-grand-touring/front_three_quarter.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://images.ctfassets.net/5ky6szwjj7ya/lucid-air-desktop-09_2x.webp/385ff840a595fcb7c1b0f3e1508c069e/lucid-air-desktop-09_2x.webp?q=50",
+              "local_path": "images/lucid/air/air-grand-touring/rear_three_quarter.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://lucidmotors.com/media/image/main-nav/lucid-motors-nav-pre-owned-about-av-02-desktop_1x.webp",
+              "local_path": "images/lucid/air/air-grand-touring/side_profile.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://images.ctfassets.net/5ky6szwjj7ya/6kv4ZHUqkQ8qroFmsDbu3m/e001febcf63c39b652ce0b46cd05d1d0/lucid-air-desktop-14_2x.webp?q=50",
+              "local_path": "images/lucid/air/air-grand-touring/interior_dashboard.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://lucidmotors.com/air-grand-touring",
+            "powertrain": "https://lucidmotors.com/media/document/lucid-air-grand-touring-technical-specs-2025.pdf",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49966",
+            "performance.zero_to_60_sec": "https://lucidmotors.com/air-grand-touring",
+            "dimensions": "https://lucidmotors.com/media/document/lucid-air-grand-touring-technical-specs-2025.pdf",
+            "safety.nhtsa_overall_rating": "https://ir.lucidmotors.com/news-releases/news-release-details/lucid-air-earns-five-star-overall-safety-rating-nhtsa-2025",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://lucidmotors.com/air-grand-touring",
+            "warranty": "https://lucidmotors.com/knowledge/ownership/maintenance-and-warranty/lucid-limited-warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim atomic rule applied: Grand Touring is the base trim of its own trim_family (air-grand-touring) since each Lucid Air trim has visually distinct grille/wheels/badges/colors and does not share images with Pure or Touring (different standard wheel design, badge, interior trim level, panoramic Glass Canopy). The 900V+ platform architecture, higher-output dual permanent-magnet motors, and 117 kWh (22-module) battery are unique to Grand Touring (and Sapphire) — Pure uses a 650V+ platform with 84 kWh battery; Touring uses 700V+ with 92 kWh. EPA fueleconomy.gov ID 49966 cites the 19-inch wheel configuration (512 mi range, 128 MPGe combined). Larger wheel options reduce range: 20-inch (EPA ID 49967) 480 mi / 120 MPGe; 21-inch (EPA ID 49968) 446 mi / 112 MPGe. NHTSA 5-star overall rating from MY25 testing carries over (covers Pure, Touring, Grand Touring, Sapphire per Lucid press release). For 2026 MY, 20-way massage seats are standard (formerly optional) per the July 2025 Lucid Air refresh press release. Curb weight cited at 5,204 lb on 20-inch wheels (standard for Grand Touring per Lucid 2025 spec sheet). Cargo volume frunk 10.0 cu ft + trunk 22.1 cu ft = 32.1 cu ft total; only trunk_cuft field populated per sedan schema rules."
+        },
+        {
+          "trim": "Sapphire",
+          "trim_slug": "sapphire",
+          "trim_family": "air-sapphire",
+          "is_base_trim": true,
+          "msrp_base": 249000,
+          "destination_fee": 1500,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 1234,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 1430,
+            "transmission": "single-speed direct drive (7:1 front, 6.8:1 rear)",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 118,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 427,
+            "total_range_mi": 427,
+            "dc_fast_charge_peak_kw": 300,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 19.2,
+            "mpge_combined": 105,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 108,
+            "highway_mpg": 101,
+            "combined_mpg": 105,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 700
+          },
+          "performance": {
+            "zero_to_60_sec": 1.89,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 205,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 197,
+            "width_in": 78.3,
+            "height_in": 55.4,
+            "wheelbase_in": 116.5,
+            "ground_clearance_in": 4.9,
+            "curb_weight_lb": 5336,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 22.1
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "20-inch front / 21-inch rear forged, Michelin Pilot Sport 4S Summer Front 265/35R20 / Rear 295/30R21"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2025,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 34,
+            "driver_display_in": 34,
+            "apple_carplay": "wireless",
+            "android_auto": "none",
+            "sound_system": "Surreal Sound Pro 21-speaker with Dolby Atmos standard",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Three-Motor All-Wheel Drive (single front + twin rear): 1,234 hp / 1,430 lb-ft",
+              "Carbon-ceramic brakes (16.5\" front 10-piston / 15.4\" rear 4-piston)",
+              "Sapphire-blue exterior + Sapphire-blue contrast-stitched black leather interior signature finish",
+              "Alcantara-trimmed steering wheel and roof lining",
+              "Carbon Oak veneers on dash and door panels",
+              "18-way power front sport seats with heating, ventilation, massage",
+              "Track-tuned suspension with stiffer springs, retuned dampers, enhanced stability controls",
+              "Sapphire-specific drive modes including Sapphire and Track modes",
+              "DreamDrive Premium ADAS standard"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "8yr/100k",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://images.ctfassets.net/5ky6szwjj7ya/7BW7STmZyOnxgGwi8a98Qn/97c28ab6a50cb1d0e9e197ef03f96a17/lucid-air-desktop-06.webp?q=50",
+              "local_path": "images/lucid/air/air-sapphire/front_three_quarter.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://images.ctfassets.net/5ky6szwjj7ya/lucid-air-desktop-09_2x.webp/385ff840a595fcb7c1b0f3e1508c069e/lucid-air-desktop-09_2x.webp?q=50",
+              "local_path": "images/lucid/air/air-sapphire/rear_three_quarter.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://lucidmotors.com/media/image/main-nav/lucid-motors-nav-pre-owned-about-av-02-desktop_1x.webp",
+              "local_path": "images/lucid/air/air-sapphire/side_profile.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://images.ctfassets.net/5ky6szwjj7ya/6kv4ZHUqkQ8qroFmsDbu3m/e001febcf63c39b652ce0b46cd05d1d0/lucid-air-desktop-14_2x.webp?q=50",
+              "local_path": "images/lucid/air/air-sapphire/interior_dashboard.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://lucidmotors.com/air-sapphire",
+            "powertrain": "https://lucidmotors.com/media/document/lucid-air-sapphire-technical-specs-2024.pdf",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49971",
+            "performance.zero_to_60_sec": "https://lucidmotors.com/air-sapphire",
+            "dimensions": "https://lucidmotors.com/media/document/lucid-air-sapphire-technical-specs-2024.pdf",
+            "safety.nhtsa_overall_rating": "https://ir.lucidmotors.com/news-releases/news-release-details/lucid-air-earns-five-star-overall-safety-rating-nhtsa-2025",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://lucidmotors.com/air-sapphire",
+            "warranty": "https://lucidmotors.com/knowledge/ownership/maintenance-and-warranty/lucid-limited-warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim atomic rule applied: Sapphire is the base trim of its own trim_family (air-sapphire) since it is a discrete performance variant with unique three-motor AWD (single front + twin rear), unique aero (longer 197.0 inch length vs 195.9 inch for Pure/Touring/GT, wider track 66.9/65.9 vs 65.7/65.6), unique 20\"/21\" forged wheels, carbon-ceramic brakes, Sapphire-blue exterior color, Sapphire-blue contrast-stitched leather/Alcantara interior, and its own dedicated product page on lucidmotors.com. EPA fueleconomy.gov ID 49971 cites the standard 20\"F/21\"R wheel configuration (427 mi range, 105 MPGe combined). Battery capacity 118 kWh, 22-module, 900V+ architecture (per Lucid 2024 Sapphire tech spec sheet — Sapphire's powertrain has been unchanged since launch). MSRP $249,000 cited from lucidmotors.com/air-sapphire 2026 model-year page (previously listed at $250,500 in some 2026 launch coverage). NHTSA 5-star rating covers Sapphire per the Lucid Motors press release listing all Air trims rated. Trunk is 22.1 cu ft + 10.0 cu ft frunk = 32.1 cu ft total."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Four trims in 2026 US Air lineup: Pure (RWD, base), Touring (AWD, 620 hp), Grand Touring (AWD, 819 hp), Sapphire (3-motor AWD, 1,234 hp). Per the spec's sole-trim atomic rule each Air trim has visually distinct exterior/interior treatment, unique wheels, unique badge, unique color palette, and its own product page on lucidmotors.com — so each is placed in its own trim_family and each is is_base_trim:true with delta_from_base:null. The 2026 MY refresh (announced July 22, 2025) introduced higher-density battery cells boosting Touring EPA range from 406 to 431 miles, a new air conditioning compressor shared with the Gravity for quieter operation, DreamDrive Premium standardized across the lineup, and access to 23,500+ Tesla Superchargers via a $220 NACS-to-CCS1 DC fast-charge adapter (Air retains its native CCS1 port — only the Gravity has a native NACS port). NHTSA awarded a 5-star overall rating to all four Air variants for MY25; IIHS has not crash-tested any Air. Lucid 2025 technical specifications PDFs used as primary source for dimensions, ground clearance, curb weight, tire spec, and warranty details — these did not change for MY26. Image URLs flagged needs_scraping:true; lucidmotors.com trim pages are JS-rendered. Surreal Sound Pro 21-speaker standard on GT/Sapphire; 10-speaker Surreal Sound standard with SSP optional on Pure/Touring. CCS1 charging port retained on Air; manufacturer adapter ships in box."
+    },
+    {
+      "model": "Gravity",
+      "model_slug": "gravity",
+      "model_year": 2026,
+      "body_style": "suv-3row",
+      "generation_context": "1st-gen Lucid Gravity, the brand's first SUV. Reservations opened 2023; Grand Touring 2026 MY US deliveries began December 2024; Touring trim added November 20, 2025 with Q1 2026 deliveries. Lucid's first vehicle with a native NACS charge port and the brand's longest-range three-row EV SUV.",
+      "msrp_range": {
+        "low": 79900,
+        "high": 94900
+      },
+      "model_summary": "All-electric three-row luxury SUV built on Lucid's 926V LEAP platform. Two trim levels offered in the 2026 US lineup: Touring (dual-motor AWD, 560 hp, 89 kWh battery, 337 mi EPA range) and Grand Touring (dual-motor AWD, 828 hp, 123 kWh battery, 450 mi EPA range — longest-range three-row EV SUV in America). Native NACS charge port enables direct Tesla Supercharger access without an adapter; the 926V architecture supports up to 400 kW DC fast charging on V4 Superchargers and other 1000V-capable equipment. Available in 5-, 6-, and 7-seat configurations.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power 2026 Vehicle Dependability Study does not rank Lucid (low US sales volume). JD Power 2026 US EV Experience (EVX) Ownership Study did not include the Lucid Gravity in its 18 award-eligible models (only the Lucid Air was eligible, scoring 740 vs the 786 premium segment average). Consumer Reports 2026 brand reliability rankings explicitly exclude Lucid for insufficient sample size; the per-model 2026 Gravity reliability page is not yet populated. Three NHTSA recalls were filed for the Gravity by March 2026 (two structural, one software). Lucid issues regular over-the-air software updates that have addressed many initial launch software complaints.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds",
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study",
+          "https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/",
+          "https://www.consumerreports.org/cars/lucid/gravity/2026/reliability/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet published (typical July release). The Lucid Gravity was not included in JD Power's 2026 US EV Experience (EVX) Ownership Study (first customer deliveries began late 2025). For reference, the JD Power 2026 EVX scored the related Lucid Air at 740 in the premium BEV segment (avg 786).",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently praise the Gravity for class-leading EPA range for a three-row EV SUV (450 mi in the Grand Touring), composed handling, generous interior packaging, and the only three-row luxury EV that combines towing capacity (up to 6,000 lb), real seven-passenger capability, and a sub-3.5-second 0-60 mph time. Common critiques cite still-maturing infotainment software, interior materials that feel less premium than the price suggests in spots, flimsy roof sunshades, and Edmunds' EV Range Test result of 388 mi (vs 450 mi EPA estimate). The Gravity SUV joined the Air on Car and Driver's 2026 10Best list.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://ir.lucidmotors.com/news-releases/news-release-details/lucid-gravity-suv-and-lucid-air-sedan-named-car-and-drivers",
+            "date": "2025-12-04"
+          },
+          {
+            "publication": "The Drive",
+            "url": "https://www.thedrive.com/car-reviews/2026-lucid-gravity-review",
+            "date": "2026-02-20"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/car-news/2026-lucid-gravity-grand-touring-tested-review.html",
+            "date": "2026-03-15"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB owner-review pages for the 2026 Lucid Gravity are sparse this early in the model year. Early-owner sentiment from forum and review aggregator sources praises driving dynamics, ride quality, and front-seat comfort while noting infotainment software needs refinement and Lucid's service-center coverage remains limited.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/lucid/gravity/",
+          "https://www.kbb.com/lucid/gravity/2026/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Touring",
+          "trim_slug": "touring",
+          "trim_family": "gravity-touring",
+          "is_base_trim": true,
+          "msrp_base": 79900,
+          "destination_fee": 1650,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 560,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 811,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 89,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 337,
+            "total_range_mi": 337,
+            "dc_fast_charge_peak_kw": 300,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 19.2,
+            "mpge_combined": 111,
+            "plug_type": "NACS"
+          },
+          "fuel_economy": {
+            "city_mpg": 115,
+            "highway_mpg": 106,
+            "combined_mpg": 111,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 700
+          },
+          "performance": {
+            "zero_to_60_sec": 4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 3500,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 198.2,
+            "width_in": 79.7,
+            "height_in": 65.2,
+            "wheelbase_in": 119.5,
+            "ground_clearance_in": 7,
+            "curb_weight_lb": 5673,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 9.2,
+              "behind_2nd_row": 56,
+              "behind_1st_row": 111.9,
+              "max_with_seats_folded": 120,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "20-inch front / 21-inch rear, Lucid-specific all-season (standard configuration)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.6,
+            "driver_display_in": 34,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Lucid premium audio standard (22-speaker Surreal Sound Pro with Dolby Atmos optional)",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "34-inch curved OLED Glass Cockpit driver display + 12.6-inch Pilot Panel infotainment touchscreen below",
+              "DreamDrive 2 Premium ADAS standard (32-sensor array including lidar)",
+              "Native NACS charge port — direct Tesla Supercharger access without adapter",
+              "Air suspension with adjustable ride height and adaptive dampers standard",
+              "Available 5- or 7-seat configurations",
+              "Integrated tray tables and USB-C outlets for rear-seat passengers",
+              "Optional 120V outlet for powering external devices",
+              "Up to 3,500 lb towing capacity with available Towing Package",
+              "8.1 cu ft front trunk (frunk)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "8yr/100k",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://images.ctfassets.net/5ky6szwjj7ya/6stS95ACIm0UGvHj1cY2Oi/148b736280095257844259d64518ac95/lucid-gravity-carousel-desktop-04_2x.webp?q=50",
+              "local_path": "images/lucid/gravity/gravity-touring/front_three_quarter.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://lucidmotors.com/gravity",
+              "local_path": "images/lucid/gravity/gravity-touring/rear_three_quarter.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://lucidmotors.com/gravity",
+              "local_path": "images/lucid/gravity/gravity-touring/side_profile.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://images.ctfassets.net/5ky6szwjj7ya/1DZ1mfgwOwZvhRY5RFi3wz/3f32909aaea62e1403edcbd7fddd4b81/Lucid-gravity-limitless-01-desktop.webp?q=50",
+              "local_path": "images/lucid/gravity/gravity-touring/interior_dashboard.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://lucidmotors.com/stories/introducing-lucid-gravity-touring",
+            "powertrain": "https://lucidmotors.com/stories/introducing-lucid-gravity-touring",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50221",
+            "performance.zero_to_60_sec": "https://lucidmotors.com/gravity",
+            "dimensions": "https://lucidmotors.com/gravity",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://lucidmotors.com/stories/introducing-lucid-gravity-touring",
+            "warranty": "https://lucidmotors.com/knowledge/ownership/maintenance-and-warranty/lucid-limited-warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Lower-priced Gravity trim, announced November 20, 2025 by Lucid press release with Q1 2026 deliveries. Touring is the base trim of its own trim_family (gravity-touring) since it has visually distinct wheels, badging, and standard equipment vs Grand Touring (e.g., 22-speaker Surreal Sound Pro is optional on Touring but standard on Grand Touring; max towing 3,500 lb vs 6,000 lb on GT; standard 20/21-inch wheels vs GT's larger options; no panoramic glass canopy standard). EPA fueleconomy.gov ID 50221 cites the standard 20\"F/21\"R wheel configuration with 5-seat 2-row layout (337 mi range, 111 MPGe combined). NHTSA has not rated the 2026 Lucid Gravity; IIHS has not crash-tested it. Native NACS charge port standard. Top speed not published by Lucid for Touring. Curb weight estimated based on InsideEVs charging-test report noting Touring is approximately 230 lb lighter than Grand Touring (5,903 - 230 = 5,673 lb); manufacturer has not published Touring-specific curb weight on a US-market spec sheet as of 2026-05-13. 8.1 cu ft frunk + 9.2 cu ft behind 3rd row + 56 cu ft behind 2nd row + 111.9 cu ft behind 1st row + 120 cu ft max with seats folded based on Lucid press release and cargo break-out from review sources. Width (79.7) shown without mirrors; with mirrors width is 87.2 inches per Lucid spec sheet."
+        },
+        {
+          "trim": "Grand Touring",
+          "trim_slug": "grand-touring",
+          "trim_family": "gravity-grand-touring",
+          "is_base_trim": true,
+          "msrp_base": 94900,
+          "destination_fee": 1650,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 828,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 909,
+            "transmission": "single-speed direct drive (front 7.06:1 / rear 8.7:1)",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 123,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 450,
+            "total_range_mi": 450,
+            "dc_fast_charge_peak_kw": 400,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 19.2,
+            "mpge_combined": 108,
+            "plug_type": "NACS"
+          },
+          "fuel_economy": {
+            "city_mpg": 113,
+            "highway_mpg": 103,
+            "combined_mpg": 108,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 700
+          },
+          "performance": {
+            "zero_to_60_sec": 3.4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 155,
+            "towing_capacity_lb": 6000,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 198.2,
+            "width_in": 79.7,
+            "height_in": 65.2,
+            "wheelbase_in": 119.5,
+            "ground_clearance_in": 7,
+            "curb_weight_lb": 5903,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 9.2,
+              "behind_2nd_row": 56,
+              "behind_1st_row": 111.9,
+              "max_with_seats_folded": 120,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "20-inch front / 21-inch rear, Lucid-specific all-season (standard); 21/22 and 22/23 wheel options available"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.6,
+            "driver_display_in": 34,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "22-speaker Surreal Sound Pro with Dolby Atmos standard",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "34-inch curved OLED Glass Cockpit display + 12.6-inch Pilot Panel infotainment touchscreen",
+              "DreamDrive 2 Pro ADAS optional (DreamDrive 2 Premium standard)",
+              "Native NACS charge port — direct Tesla Supercharger access without adapter",
+              "926V LEAP platform architecture — up to 400 kW DC fast charging",
+              "Three-chamber adaptive air suspension with adjustable ride height standard",
+              "Available 5-, 6- (captain's chairs), or 7-seat configurations",
+              "Up to 6,000 lb towing with available Towing Package",
+              "Power-folding rear seats with one-touch operation",
+              "8.1 cu ft front trunk (frunk)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "8yr/100k",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://images.ctfassets.net/5ky6szwjj7ya/6stS95ACIm0UGvHj1cY2Oi/148b736280095257844259d64518ac95/lucid-gravity-carousel-desktop-04_2x.webp?q=50",
+              "local_path": "images/lucid/gravity/gravity-grand-touring/front_three_quarter.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://lucidmotors.com/gravity",
+              "local_path": "images/lucid/gravity/gravity-grand-touring/rear_three_quarter.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://lucidmotors.com/gravity",
+              "local_path": "images/lucid/gravity/gravity-grand-touring/side_profile.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://images.ctfassets.net/5ky6szwjj7ya/1DZ1mfgwOwZvhRY5RFi3wz/3f32909aaea62e1403edcbd7fddd4b81/Lucid-gravity-limitless-01-desktop.webp?q=50",
+              "local_path": "images/lucid/gravity/gravity-grand-touring/interior_dashboard.jpg",
+              "credit": "Lucid Motors",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://ir.lucidmotors.com/news-releases/news-release-details/introducing-2026-lucid-gravity-grand-touring-force-attraction",
+            "powertrain": "https://ir.lucidmotors.com/news-releases/news-release-details/introducing-2026-lucid-gravity-grand-touring-force-attraction",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49670",
+            "performance.zero_to_60_sec": "https://lucidmotors.com/gravity",
+            "dimensions": "https://lucidmotors.com/gravity",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://lucidmotors.com/gravity",
+            "warranty": "https://lucidmotors.com/knowledge/ownership/maintenance-and-warranty/lucid-limited-warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Grand Touring is the base trim of its own trim_family (gravity-grand-touring) since it has visually distinct wheels (with 21/22 and 22/23 wheel options not offered on Touring), standard 22-speaker Surreal Sound Pro vs Touring's premium audio, nappa leather standard, dedicated Lucid product page, and a different drivetrain output (828 hp / 909 lb-ft vs 560/811) with different transmission gear ratios. EPA fueleconomy.gov ID 49670 cites the standard 20\"F/21\"R wheel configuration with 5-seat 2-row layout (450 mi range, 108 MPGe combined). Additional EPA listings: 20F/21R 3-row 7-seat (ID 50029) 437 mi / 104 MPGe; 21F/22R 2-row (ID 49671) 407 mi / 98 MPGe; 22F/23R 2-row (ID 49672) 407 mi / 98 MPGe; 21F/22R 3-row (ID 49673) 386 mi / 92 MPGe; 22F/23R 3-row (ID 49674) 386 mi / 92 MPGe. NHTSA has not rated the 2026 Lucid Gravity; IIHS has not crash-tested it. Native NACS charge port standard (Lucid's first vehicle with native NACS — the Air still uses CCS1). Top speed 155 mph per Lucid spec sheet (some sources say 155.3). Curb weight 5,903 lb in 5-passenger configuration; 7-seat version ~6,048 lb per Lucid spec PDF. Edmunds EV Range Test returned 388 mi vs 450 mi EPA estimate — typical of three-row SUVs in highway conditions. The Lucid Dream Edition (originally launched at $139,900) was discontinued in the 2027 MY refresh announced April 2, 2026, but was still on sale for parts of 2026 MY — excluded from this catalog since it was a limited-time launch edition and is no longer orderable as of the research date."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Two trims in 2026 US Gravity lineup: Touring (base, 560 hp, $79,900) and Grand Touring (828 hp, $94,900). Per sole-trim atomic rule each Gravity trim has visually distinct wheels, badging, audio system standard, drivetrain output, and own product placement — so each is placed in its own trim_family and each is is_base_trim:true with delta_from_base:null. The 2026 Gravity Grand Touring went on sale December 2024; the lower-priced Touring launched November 20, 2025 with Q1 2026 deliveries. A Dream Edition trim ($139,900) was offered at Gravity launch but has been discontinued in the 2027 refresh announced April 2, 2026 — excluded here since it was a limited-launch edition not orderable as of the 2026-05-13 research date. The 2027 MY Gravity refresh (April 2026) replaced the 2026 GT MSRP $94,900 with $98,900 and added DreamDrive 2 Premium + a Comfort & Convenience Package as standard on Grand Touring; the 2026 MY values are recorded here since the brief explicitly asks for 2026 MY data and 2026 vehicles continue to be sold/delivered. The Gravity is Lucid's first vehicle with a native NACS charge port (vs the Air's CCS1 + adapter). NHTSA has not rated the 2026 Gravity for 2026 MY; IIHS has not crash-tested it. JD Power VDS/APEAL and CR predicted reliability not yet published for Gravity due to low US sales volume. Image URLs flagged needs_scraping:true; lucidmotors.com pages are JS-rendered. Lucid official spec PDFs available at media.lucidmotors.com/attachment/{ID} are served as HTML pages rather than direct PDFs to WebFetch (text/html content-type)."
+    }
+  ]
+}

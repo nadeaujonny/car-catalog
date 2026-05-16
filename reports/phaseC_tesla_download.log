@@ -1,0 +1,98 @@
+Brand: tesla
+Found 64 image entries across 10 models.
+
+[1/64] model-3/standard-rwd/front_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[2/64] model-3/standard-rwd/rear_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[3/64] model-3/standard-rwd/side_profile  FAIL (status — HTTP 403 Forbidden)
+[4/64] model-3/standard-rwd/interior_dashboard  FAIL (status — HTTP 403 Forbidden)
+[5/64] model-3/premium-rwd/front_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[6/64] model-3/premium-rwd/rear_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[7/64] model-3/premium-rwd/side_profile  FAIL (status — HTTP 403 Forbidden)
+[8/64] model-3/premium-rwd/interior_dashboard  FAIL (status — HTTP 403 Forbidden)
+[9/64] model-3/premium-awd/front_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[10/64] model-3/premium-awd/rear_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[11/64] model-3/premium-awd/side_profile  FAIL (status — HTTP 403 Forbidden)
+[12/64] model-3/premium-awd/interior_dashboard  FAIL (status — HTTP 403 Forbidden)
+[13/64] model-3-performance/performance/front_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[14/64] model-3-performance/performance/rear_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[15/64] model-3-performance/performance/side_profile  FAIL (status — HTTP 403 Forbidden)
+[16/64] model-3-performance/performance/interior_dashboard  FAIL (status — HTTP 403 Forbidden)
+[17/64] model-y/standard-rwd/front_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[18/64] model-y/standard-rwd/rear_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[19/64] model-y/standard-rwd/side_profile  FAIL (status — HTTP 403 Forbidden)
+[20/64] model-y/standard-rwd/interior_dashboard  FAIL (status — HTTP 403 Forbidden)
+[21/64] model-y/standard-awd/front_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[22/64] model-y/standard-awd/rear_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[23/64] model-y/standard-awd/side_profile  FAIL (status — HTTP 403 Forbidden)
+[24/64] model-y/standard-awd/interior_dashboard  FAIL (status — HTTP 403 Forbidden)
+[25/64] model-y/long-range-rwd/front_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[26/64] model-y/long-range-rwd/rear_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[27/64] model-y/long-range-rwd/side_profile  FAIL (status — HTTP 403 Forbidden)
+[28/64] model-y/long-range-rwd/interior_dashboard  FAIL (status — HTTP 403 Forbidden)
+[29/64] model-y/long-range-awd/front_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[30/64] model-y/long-range-awd/rear_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[31/64] model-y/long-range-awd/side_profile  FAIL (status — HTTP 403 Forbidden)
+[32/64] model-y/long-range-awd/interior_dashboard  FAIL (status — HTTP 403 Forbidden)
+[33/64] model-y-performance/performance/front_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[34/64] model-y-performance/performance/rear_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[35/64] model-y-performance/performance/side_profile  FAIL (status — HTTP 403 Forbidden)
+[36/64] model-y-performance/performance/interior_dashboard  FAIL (status — HTTP 403 Forbidden)
+[37/64] model-s/model-s/front_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[38/64] model-s/model-s/rear_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[39/64] model-s/model-s/side_profile  FAIL (status — HTTP 403 Forbidden)
+[40/64] model-s/model-s/interior_dashboard  FAIL (status — HTTP 403 Forbidden)
+[41/64] model-s-plaid/plaid/front_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[42/64] model-s-plaid/plaid/rear_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[43/64] model-s-plaid/plaid/side_profile  FAIL (status — HTTP 403 Forbidden)
+[44/64] model-s-plaid/plaid/interior_dashboard  FAIL (status — HTTP 403 Forbidden)
+[45/64] model-x/model-x/front_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[46/64] model-x/model-x/rear_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[47/64] model-x/model-x/side_profile  FAIL (status — HTTP 403 Forbidden)
+[48/64] model-x/model-x/interior_dashboard  FAIL (status — HTTP 403 Forbidden)
+[49/64] model-x-plaid/plaid/front_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[50/64] model-x-plaid/plaid/rear_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[51/64] model-x-plaid/plaid/side_profile  FAIL (status — HTTP 403 Forbidden)
+[52/64] model-x-plaid/plaid/interior_dashboard  FAIL (status — HTTP 403 Forbidden)
+[53/64] cybertruck/awd-standard/front_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[54/64] cybertruck/awd-standard/rear_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[55/64] cybertruck/awd-standard/side_profile  FAIL (status — HTTP 403 Forbidden)
+[56/64] cybertruck/awd-standard/interior_dashboard  FAIL (status — HTTP 403 Forbidden)
+[57/64] cybertruck/awd-premium/front_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[58/64] cybertruck/awd-premium/rear_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[59/64] cybertruck/awd-premium/side_profile  FAIL (status — HTTP 403 Forbidden)
+[60/64] cybertruck/awd-premium/interior_dashboard  FAIL (status — HTTP 403 Forbidden)
+[61/64] cybertruck-cyberbeast/cyberbeast/front_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[62/64] cybertruck-cyberbeast/cyberbeast/rear_three_quarter  FAIL (status — HTTP 403 Forbidden)
+[63/64] cybertruck-cyberbeast/cyberbeast/side_profile  FAIL (status — HTTP 403 Forbidden)
+[64/64] cybertruck-cyberbeast/cyberbeast/interior_dashboard  FAIL (status — HTTP 403 Forbidden)
+
+No downloads succeeded — JSON files left untouched.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  tesla
+Total images attempted: 64
+Successful:             0 (0.0%)
+Failed:                 64
+
+Failed by HTTP status:
+  403: 64
+
+Failed by other error kind:
+  (none)
+
+Models with zero successful images: 10 of 10
+  - model-3 (12 attempted)
+  - model-3-performance (4 attempted)
+  - model-y (16 attempted)
+  - model-y-performance (4 attempted)
+  - model-s (4 attempted)
+  - model-s-plaid (4 attempted)
+  - model-x (4 attempted)
+  - model-x-plaid (4 attempted)
+  - cybertruck (8 attempted)
+  - cybertruck-cyberbeast (4 attempted)
+
+Failure breakdown (one example per group):
+  [status-403] x64 — e.g. https://www.tesla.com/model3

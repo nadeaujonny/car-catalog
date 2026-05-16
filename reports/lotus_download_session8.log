@@ -1,0 +1,50 @@
+Brand: lotus
+Referer header: https://www.lotuscars.com/
+Found 24 image entries across 3 models.
+
+[1/24] emira/turbo-se/front_three_quarter  ok (71774 bytes, image/webp)
+[2/24] emira/turbo-se/rear_three_quarter  ok (51992 bytes, image/webp)
+[3/24] emira/turbo-se/side_profile  ok (61774 bytes, image/webp)
+[4/24] emira/turbo-se/interior_dashboard  ok (111062 bytes, image/webp)
+[5/24] emira/turbo-se-racing-line/front_three_quarter  ok (71774 bytes, image/webp)
+[6/24] emira/turbo-se-racing-line/rear_three_quarter  ok (51992 bytes, image/webp)
+[7/24] emira/turbo-se-racing-line/side_profile  ok (61774 bytes, image/webp)
+[8/24] emira/turbo-se-racing-line/interior_dashboard  ok (111062 bytes, image/webp)
+[9/24] emira/v6-se/front_three_quarter  ok (71774 bytes, image/webp)
+[10/24] emira/v6-se/rear_three_quarter  ok (51992 bytes, image/webp)
+[11/24] emira/v6-se/side_profile  ok (61774 bytes, image/webp)
+[12/24] emira/v6-se/interior_dashboard  ok (111062 bytes, image/webp)
+[13/24] emira/v6-se-racing-line/front_three_quarter  ok (71774 bytes, image/webp)
+[14/24] emira/v6-se-racing-line/rear_three_quarter  ok (51992 bytes, image/webp)
+[15/24] emira/v6-se-racing-line/side_profile  ok (61774 bytes, image/webp)
+[16/24] emira/v6-se-racing-line/interior_dashboard  ok (111062 bytes, image/webp)
+[17/24] eletre/carbon/front_three_quarter  ok (198356 bytes, image/webp)
+[18/24] eletre/carbon/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[19/24] eletre/carbon/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[20/24] eletre/carbon/interior_dashboard  ok (69084 bytes, image/webp)
+[21/24] emeya/r/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[22/24] emeya/r/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[23/24] emeya/r/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[24/24] emeya/r/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+
+Updated catalog/data/lotus.json and data/lotus.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  lotus
+Total images attempted: 24
+Successful:             18 (75.0%)
+Failed:                 6
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 6
+
+Models with zero successful images: 1 of 3
+  - emeya (4 attempted)
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html; charset=utf-8)] x6 — e.g. https://www.lotuscars.com/en-US/eletre

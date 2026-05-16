@@ -1,0 +1,17 @@
+{
+  "brand_slug": "lamborghini",
+  "notes": "lamborghini.com consumer site. May be JS-rendered; press.lamborghini.com is a documented alternative if consumer site is gated. Lineup is small (3 models). Phase B (2026-05-14): URL check found all 3 model_pages 404 -- the en-us locale does not exist on lamborghini.com (https://www.lamborghini.com/en-us itself 404s). Corrected the locale segment from en-us to en-en for all 3 URLs; all 3 validated OK via check_urls.mjs --url.",
+  "model_pages": {
+    "revuelto": "https://www.lamborghini.com/en-en/models/revuelto",
+    "temerario": "https://www.lamborghini.com/en-en/models/temerario",
+    "urus-se": "https://www.lamborghini.com/en-en/models/urus/urus-se"
+  },
+  "slug_variants": {
+    "urus-se": [
+      "urus-se",
+      "uruss",
+      "urus_se"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

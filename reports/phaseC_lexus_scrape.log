@@ -1,0 +1,83 @@
+Reset 216 image entries with needs_scraping:true to their model page URLs.
+Brand: lexus
+Models in JSON: 11
+Models with page URLs: 11
+Playwright fallback: enabled
+
+Scraping 11 model pages…
+
+  fetch https://www.lexus.com/models/IS  …  static ok (0 raw candidates)
+    playwright https://www.lexus.com/models/IS  …  ok (156 raw candidates)
+  fetch https://www.lexus.com/models/ES  …  static ok (0 raw candidates)
+    playwright https://www.lexus.com/models/ES  …  ok (205 raw candidates)
+  fetch https://www.lexus.com/models/LS  …  static ok (0 raw candidates)
+    playwright https://www.lexus.com/models/LS  …  ok (6 raw candidates)
+  fetch https://www.lexus.com/models/LC  …  static ok (0 raw candidates)
+    playwright https://www.lexus.com/models/LC  …  ok (130 raw candidates)
+  fetch https://www.lexus.com/models/NX  …  static ok (0 raw candidates)
+    playwright https://www.lexus.com/models/NX  …  ok (360 raw candidates)
+  fetch https://www.lexus.com/models/RX  …  static ok (0 raw candidates)
+    playwright https://www.lexus.com/models/RX  …  ok (392 raw candidates)
+  fetch https://www.lexus.com/models/GX  …  static ok (0 raw candidates)
+    playwright https://www.lexus.com/models/GX  …  ok (178 raw candidates)
+  fetch https://www.lexus.com/models/LX  …  static ok (0 raw candidates)
+    playwright https://www.lexus.com/models/LX  …  ok (172 raw candidates)
+  fetch https://www.lexus.com/models/TX  …  static ok (0 raw candidates)
+    playwright https://www.lexus.com/models/TX  …  ok (228 raw candidates)
+  fetch https://www.lexus.com/models/UX-hybrid  …  static ok (0 raw candidates)
+    playwright https://www.lexus.com/models/UX-hybrid  …  ok (161 raw candidates)
+  fetch https://www.lexus.com/models/RZ  …  static ok (0 raw candidates)
+    playwright https://www.lexus.com/models/RZ  …  ok (172 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          lexus
+Pages attempted:                11
+Pages failed:                   0
+Pages escalated to Playwright:  11 of 11
+  Playwright successes:         11
+  Playwright failures:          0
+Image entries rewritten:        129
+  via text/URL pattern match:   116
+  via positional fallback:      13
+Image entries unchanged:        87
+
+Sample rewrites:
+  [9.0] is/is-350-f-sport-design-rwd/front_three_quarter
+        → https://tmna.assetscs.toyota.com/is/image/lexusaemcs/lexus/images/models/is/2026/visualizer/f-sport-design/exterior/f-sport-design-19-inch-alloy-wheels-with-dark-gray-finish-and-front-and-rear-235-40r19-summer-tires/ultra-white/large-1.jpg?extend=-17,-585,-17,-585&hei=628&wid=1440&qlt=100
+  [9.0] is/is-350-f-sport-design-rwd/rear_three_quarter
+        → https://tmna.assetscs.toyota.com/is/image/lexusaemcs/lexus/images/models/is/2026/visualizer/f-sport-design/exterior/f-sport-design-19-inch-alloy-wheels-with-dark-gray-finish-and-front-and-rear-235-40r19-summer-tires/ultra-white/large-2.jpg?extend=-17,-585,-17,-585&hei=628&wid=1440&qlt=100
+  [22.0] is/is-350-f-sport-design-rwd/interior_dashboard
+        → https://tmna.assetscs.toyota.com/is/image/lexusaemcs/lexus/images/models/is/2026/gallery/Lexus-isg-gallery-int-3-desktop-1440x810-LEX-ISG-MY26-0107.jpg?wid=1440&hei=810
+  [9.0] is/is-350-f-sport-design-awd/front_three_quarter
+        → https://tmna.assetscs.toyota.com/is/image/lexusaemcs/lexus/images/models/is/2026/visualizer/f-sport-design/exterior/f-sport-design-19-inch-alloy-wheels-with-dark-gray-finish-and-front-and-rear-235-40r19-summer-tires/ultra-white/large-3.jpg?extend=-17,-585,-17,-585&hei=628&wid=1440&qlt=100
+  [9.0] is/is-350-f-sport-design-awd/rear_three_quarter
+        → https://tmna.assetscs.toyota.com/is/image/lexusaemcs/lexus/images/models/is/2026/visualizer/f-sport-design/exterior/f-sport-design-19-inch-alloy-wheels-with-dark-gray-finish-and-front-and-rear-235-40r19-summer-tires/ultra-white/large-4.jpg?extend=-17,-585,-17,-585&hei=628&wid=1440&qlt=100
+  [13.0] is/is-350-f-sport-design-awd/interior_dashboard
+        → https://tmna.assetscs.toyota.com/is/image/lexusaemcs/lexus/images/models/is/2026/flexgrid/crafted/Lexus-ISG-large-feature-design-desktop-1920x822-LEX-ISG-MY26-0106.jpg?wid=1920&hei=822
+  [9.0] is/is-350-f-sport-rwd/front_three_quarter
+        → https://tmna.assetscs.toyota.com/is/image/lexusaemcs/lexus/images/models/is/2026/visualizer/f-sport-design/exterior/f-sport-design-19-inch-alloy-wheels-with-dark-gray-finish-and-front-and-rear-235-40r19-summer-tires/ultra-white/large-1.jpg?extend=-17,-585,-17,-585&hei=628&wid=1440&qlt=100
+  [9.0] is/is-350-f-sport-rwd/rear_three_quarter
+        → https://tmna.assetscs.toyota.com/is/image/lexusaemcs/lexus/images/models/is/2026/visualizer/f-sport-design/exterior/f-sport-design-19-inch-alloy-wheels-with-dark-gray-finish-and-front-and-rear-235-40r19-summer-tires/ultra-white/large-2.jpg?extend=-17,-585,-17,-585&hei=628&wid=1440&qlt=100
+  [22.0] is/is-350-f-sport-rwd/interior_dashboard
+        → https://tmna.assetscs.toyota.com/is/image/lexusaemcs/lexus/images/models/is/2026/gallery/Lexus-isg-gallery-int-3-desktop-1440x810-LEX-ISG-MY26-0107.jpg?wid=1440&hei=810
+  [9.0] is/is-350-f-sport-awd/front_three_quarter
+        → https://tmna.assetscs.toyota.com/is/image/lexusaemcs/lexus/images/models/is/2026/visualizer/f-sport-design/exterior/f-sport-design-19-inch-alloy-wheels-with-dark-gray-finish-and-front-and-rear-235-40r19-summer-tires/ultra-white/large-3.jpg?extend=-17,-585,-17,-585&hei=628&wid=1440&qlt=100
+  [9.0] is/is-350-f-sport-awd/rear_three_quarter
+        → https://tmna.assetscs.toyota.com/is/image/lexusaemcs/lexus/images/models/is/2026/visualizer/f-sport-design/exterior/f-sport-design-19-inch-alloy-wheels-with-dark-gray-finish-and-front-and-rear-235-40r19-summer-tires/ultra-white/large-4.jpg?extend=-17,-585,-17,-585&hei=628&wid=1440&qlt=100
+  [13.0] is/is-350-f-sport-awd/interior_dashboard
+        → https://tmna.assetscs.toyota.com/is/image/lexusaemcs/lexus/images/models/is/2026/flexgrid/crafted/Lexus-ISG-large-feature-design-desktop-1920x822-LEX-ISG-MY26-0106.jpg?wid=1920&hei=822
+
+Models with unresolved angles:
+  is: 4 entries  (e.g. is-350-f-sport-design-rwd/side_profile, is-350-f-sport-design-awd/side_profile, is-350-f-sport-rwd/side_profile)
+  es: 4 entries  (e.g. es-350h-premium-awd/side_profile, es-350h-premium-plus-awd/side_profile, es-350e-luxury-fwd/side_profile)
+  ls: 3 entries  (e.g. ls-500-awd-heritage-edition/rear_three_quarter, ls-500-awd-heritage-edition/side_profile, ls-500-awd-heritage-edition/interior_dashboard)
+  lc: 4 entries  (e.g. lc-500-coupe/rear_three_quarter, lc-500-coupe/side_profile, lc-500-convertible/rear_three_quarter)
+  nx: 9 entries  (e.g. nx-350h-fwd/side_profile, nx-350h-awd/rear_three_quarter, nx-350h-awd/side_profile)
+  rx: 8 entries  (e.g. rx-350-fwd/side_profile, rx-350-awd/front_three_quarter, rx-350-awd/side_profile)
+  gx: 12 entries  (e.g. gx-550-premium/rear_three_quarter, gx-550-premium/side_profile, gx-550-premium-plus/rear_three_quarter)
+  lx: 19 entries  (e.g. lx-600-premium/rear_three_quarter, lx-600-premium/side_profile, lx-600-f-sport-handling/front_three_quarter)
+  tx: 5 entries  (e.g. tx-350-fwd/side_profile, tx-350-awd/rear_three_quarter, tx-350-awd/side_profile)
+  ux: 9 entries  (e.g. ux-300h-fwd/side_profile, ux-300h-premium/side_profile, ux-300h-f-sport-design/rear_three_quarter)
+  rz: 10 entries  (e.g. rz-350e-fwd/side_profile, rz-350e-premium-fwd/rear_three_quarter, rz-350e-premium-fwd/side_profile)

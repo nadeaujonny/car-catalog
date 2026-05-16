@@ -1,0 +1,1819 @@
+{
+  "brand": "Buick",
+  "brand_slug": "buick",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Encore GX",
+      "model_slug": "encore-gx",
+      "model_year": 2026,
+      "body_style": "suv-compact",
+      "generation_context": "2nd-gen refresh introduced for 2024 model year; minor updates for 2026",
+      "msrp_range": {
+        "low": 26100,
+        "high": 31600
+      },
+      "model_summary": "The Encore GX is Buick's subcompact crossover, slotted below the Envista in the lineup. It uses turbocharged three-cylinder power (1.2L on the Preferred FWD, 1.3L on Sport Touring/Avenir and any AWD), pairs a CVT with FWD and a 9-speed automatic with AWD, and offers an 11-inch infotainment display standard.",
+      "reliability": {
+        "jd_power_vds_score": 160,
+        "jd_power_vds_year": 2026,
+        "jd_power_vds_source": "brand-level",
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power's 2026 Vehicle Dependability Study (released February 2026) ranked Buick highest of all mass market brands for the second consecutive year, with 160 PP100 vs the industry average of 204 PP100. No Encore GX-specific VDS award. Consumer Reports 2026 ranked Buick 8th overall (highest-scoring U.S. brand) with brand score 51/100; per-model 2026 CR predicted reliability for the Encore GX not separately published.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds",
+          "https://www.consumerreports.org/media-room/press-releases/2025/12/consumer-reports-releases-its-2026-automotive-brand-report-card-the-comprehensive-analysis-of-vehicle-quality-to-help-guide-car-shoppers-amid-steep-prices/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet been published as of research date 2026-05-15 (APEAL typically releases July). Owner reviews on Edmunds (4.0 stars) and KBB (4.3 stars) show strong satisfaction with comfort and value.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/buick/encore-gx"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consider the Encore GX a solidly equipped, comfortable, and reasonably efficient subcompact luxury crossover, but criticize the 1.2L/1.3L three-cylinder engines as buzzy and slow (8-9 sec 0-60). The standard 11-inch screen, generous standard ADAS, and Bose audio on Avenir lift the value perception over competitors like the Honda HR-V and Mazda CX-30.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/buick/encore-gx/2026/",
+            "date": "2026-01-15"
+          },
+          {
+            "publication": "Kelley Blue Book",
+            "url": "https://www.kbb.com/buick/encore-gx/2026/",
+            "date": "2026-01-15"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": 4,
+        "edmunds_sample_size": 50,
+        "kbb_star_rating": 4.3,
+        "kbb_sample_size": null,
+        "summary": "Owners praise the stylish look, comfortable ride, easy-to-use 11-inch screen, fuel economy, and small footprint. Common complaints center on weak acceleration from the 3-cylinder engines and CVT droning on the FWD trims.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.edmunds.com/buick/encore-gx/2026/consumer-reviews/",
+          "https://www.kbb.com/buick/encore-gx/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Preferred",
+          "trim_slug": "preferred",
+          "trim_family": "encore-gx",
+          "is_base_trim": true,
+          "msrp_base": 26100,
+          "destination_fee": 1395,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 1.2,
+            "engine_config": "I3",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 137,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 162,
+            "transmission": "CVT (continuously variable)",
+            "transmission_speeds": null,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 30,
+            "highway_mpg": 31,
+            "combined_mpg": 30,
+            "fuel_tank_gal": 13.2,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2000
+          },
+          "performance": {
+            "zero_to_60_sec": 8.9,
+            "zero_to_60_source": "motortrend",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 1000,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 171.4,
+            "width_in": 71.4,
+            "height_in": 64.1,
+            "wheelbase_in": 102.2,
+            "ground_clearance_in": 7.5,
+            "curb_weight_lb": 3030,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 23.5,
+              "behind_1st_row": 50.2,
+              "max_with_seats_folded": 50.2,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "215/60R17 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 11,
+            "driver_display_in": 8,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker audio",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Buick Driver Confidence (standard)",
+              "Teen Driver",
+              "rear-vision camera"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "6yr/100k",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "1yr/1visit"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/03-images/2026-encore-gx-mov-trim-walk-avenir-grille-front-fascia-s-1600x2000-25BUGX95014-v4.jpg?imwidth=1920",
+              "local_path": "images/buick/encore-gx/encore-gx/front_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/02-images/2026-encore-gx-mov-gallery-preview-2000x1000-25BUGX95016.jpg?imwidth=960",
+              "local_path": "images/buick/encore-gx/encore-gx/rear_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/03-images/2026-encore-gx-mov-trim-walk-st-18in-black-wheels-s-1600x2000-ST-exterior-02-v2.jpg?imwidth=1920",
+              "local_path": "images/buick/encore-gx/encore-gx/side_profile.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/02-images/2026-encore-gx-mov-gallery-preview-2000x1000-25BUGX95022.jpg?imwidth=960",
+              "local_path": "images/buick/encore-gx/encore-gx/interior_dashboard.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.buick.com/suvs/encore-gx",
+            "destination_fee": "https://www.buick.com/tools/destination-freight-charge",
+            "powertrain": "https://www.buick.com/suvs/encore-gx",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49441",
+            "performance.zero_to_60_sec": "https://www.motortrend.com/cars/buick/encore-gx",
+            "dimensions": "https://www.buick.com/suvs/encore-gx",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/buick/encore-gx-4-door-suv/2026",
+            "features": "https://www.buick.com/suvs/encore-gx/preferred",
+            "warranty": "https://www.buick.com/owner-center/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Preferred FWD uses 137-hp 1.2L turbo I3 with CVT (EPA ID 49441 lists the 1.3L variant which is also available on FWD Preferred; flex-fuel 1.2L FWD is EPA ID 49440). NHTSA had not yet rated the 2026 Encore GX as of research date; the 2025 model received a 5-star overall rating. IIHS 2026 ratings show Good ratings on small overlap front and side updated tests but Poor on front crash prevention vehicle-to-vehicle 2.0 - did not earn TSP. Adaptive cruise control is optional via Advanced Technology Package on Preferred."
+        },
+        {
+          "trim": "Sport Touring",
+          "trim_slug": "sport-touring",
+          "trim_family": "encore-gx",
+          "is_base_trim": false,
+          "msrp_base": 27300,
+          "destination_fee": 1395,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 1.3,
+            "engine_config": "I3",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 155,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 174,
+            "transmission": "CVT (continuously variable) FWD / 9-speed automatic AWD",
+            "transmission_speeds": null,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 29,
+            "highway_mpg": 31,
+            "combined_mpg": 30,
+            "fuel_tank_gal": 13.2,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2000
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/55R18 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 11,
+            "driver_display_in": 8,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker audio",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "18-inch gloss black wheels",
+              "black roof rails",
+              "Sport Touring exterior badging"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/compare/encore-gx/01-images/my26-buick-encore-gx-mov-headtohead-s-2000x1000-Buick_Encore_Preferred_exterior_01.jpg?imwidth=1920",
+              "local_path": "images/buick/encore-gx/encore-gx/front_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/04-images/2026-encore-gx--mov-gallery-preview-SS-2000x1000-sx016-FINAL.jpg?imwidth=960",
+              "local_path": "images/buick/encore-gx/encore-gx/rear_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/03-images/2026-encore-gx-mov-trim-walk-preferred-18in-wheels-s-1600x2000-Preferred-exterior-02-v2.jpg?imwidth=1920",
+              "local_path": "images/buick/encore-gx/encore-gx/side_profile.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/03-images/2026-encore-gx-mov-trim-walk-preferred-infotainment-display-l-1920x1080-Preferred-interior-02-v3.jpg?imwidth=3000",
+              "local_path": "images/buick/encore-gx/encore-gx/interior_dashboard.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.buick.com/suvs/encore-gx",
+            "destination_fee": "https://www.buick.com/tools/destination-freight-charge",
+            "powertrain": "https://www.buick.com/suvs/encore-gx",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49441",
+            "features": "https://www.buick.com/suvs/encore-gx"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "preferred",
+            "msrp_delta_usd": 1200,
+            "changes": [
+              "Upgrades from 137-hp 1.2L turbo I3 to 155-hp 1.3L turbo I3 as standard",
+              "18-inch gloss black wheels replace 17-inch standard wheels",
+              "Adds black roof rails and Sport Touring exterior styling/badging",
+              "Adds standard remote start",
+              "Sport pedals and unique interior accents"
+            ]
+          },
+          "notes": "Sport Touring shares the 1.3L turbo I3 with Avenir and all AWD configurations. EPA combined drops 1 mpg vs the Preferred 1.2L FWD."
+        },
+        {
+          "trim": "Avenir",
+          "trim_slug": "avenir",
+          "trim_family": "encore-gx",
+          "is_base_trim": false,
+          "msrp_base": 31600,
+          "destination_fee": 1395,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 1.3,
+            "engine_config": "I3",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 155,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 174,
+            "transmission": "CVT (continuously variable) FWD / 9-speed automatic AWD",
+            "transmission_speeds": null,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 29,
+            "highway_mpg": 31,
+            "combined_mpg": 30,
+            "fuel_tank_gal": 13.2,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2000
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "225/50R19 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 11,
+            "driver_display_in": 8,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Bose 7-speaker premium audio",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "19-inch Pearl Nickel wheels",
+              "perforated quilted leather seats with Avenir embroidery",
+              "hands-free power liftgate",
+              "dual-zone automatic climate control",
+              "LED taillamps with clear lenses"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/03-images/2026-encore-gx-mov-trim-walk-avenir-grille-front-fascia-s-1600x2000-25BUGX95014-v4.jpg?imwidth=800",
+              "local_path": "images/buick/encore-gx/encore-gx/front_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/02-images/2026-encore-gx-mov-design-40-60-split-seats-1600x2000-25BUGX95023.jpg?imwidth=1920",
+              "local_path": "images/buick/encore-gx/encore-gx/rear_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/03-images/2026-encore-gx-mov-trim-walk-st-18in-black-wheels-s-1600x2000-ST-exterior-02-v2.jpg?imwidth=800",
+              "local_path": "images/buick/encore-gx/encore-gx/side_profile.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/encore-gx/overview/03-images/2026-encore-gx-mov-trim-walk-preferred-infotainment-display-l-1920x1080-Preferred-interior-02-v3.jpg?imwidth=2400",
+              "local_path": "images/buick/encore-gx/encore-gx/interior_dashboard.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.buick.com/suvs/encore-gx/avenir",
+            "destination_fee": "https://www.buick.com/tools/destination-freight-charge",
+            "powertrain": "https://www.buick.com/suvs/encore-gx/avenir",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49441",
+            "features": "https://www.buick.com/suvs/encore-gx/avenir"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "preferred",
+            "msrp_delta_usd": 5500,
+            "changes": [
+              "Upgrades from 137-hp 1.2L turbo I3 to 155-hp 1.3L turbo I3",
+              "Adds perforated quilted leather-appointed seats with Avenir embroidery",
+              "Adds heated front seats, heated steering wheel, and power-adjustable driver seat",
+              "Adds Bose 7-speaker premium audio replacing 6-speaker standard system",
+              "Adds 19-inch Pearl Nickel aluminum wheels",
+              "Adds hands-free power liftgate and dual-zone automatic climate control",
+              "Adds remote start"
+            ]
+          },
+          "notes": "Avenir's optional Avenir Technology Package ($1,395) adds adaptive cruise control, surround-view camera, rear park assist, and wireless device charging. Avenir AWD adds about $2,000 and switches to 9-speed automatic with 26/28/27 EPA MPG."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Three trims (Preferred, Sport Touring, Avenir). Each trim is its own trim_family for image purposes due to distinct wheels/exterior treatments. AWD is a $2,000 option on all trims; per Buick's build-and-price these are listed as options/configurations rather than separate trims so they are not split here. IIHS 2026 ratings on file (https://www.iihs.org/ratings/vehicle/buick/encore-gx-4-door-suv/2026) show Good for small overlap front and side updated tests but Poor for front crash prevention vehicle-to-vehicle, so no TSP/TSP+ designation."
+    },
+    {
+      "model": "Envista",
+      "model_slug": "envista",
+      "model_year": 2026,
+      "body_style": "suv-compact",
+      "generation_context": "1st-gen, introduced for 2024 model year; minor updates for 2026",
+      "msrp_range": {
+        "low": 25995,
+        "high": 30795
+      },
+      "model_summary": "The Envista is Buick's compact crossover with a low-slung, coupe-influenced silhouette. It uses a single powertrain across all trims (137-hp turbo 1.2L I3 with 6-speed automatic and FWD only), an 11-inch infotainment screen standard, and slots between the Encore GX and Envision in size.",
+      "reliability": {
+        "jd_power_vds_score": 160,
+        "jd_power_vds_year": 2026,
+        "jd_power_vds_source": "brand-level",
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power's 2026 Vehicle Dependability Study ranked Buick #1 among mass market brands for the second consecutive year, with 160 PP100 vs industry average of 204. Envista is too new (introduced 2024) for a dedicated model-level VDS award. Consumer Reports 2026 ranked Buick 8th overall (highest U.S. brand) with score 51/100.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds",
+          "https://www.consumerreports.org/media-room/press-releases/2025/12/consumer-reports-releases-its-2026-automotive-brand-report-card-the-comprehensive-analysis-of-vehicle-quality-to-help-guide-car-shoppers-amid-steep-prices/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet been published as of research date 2026-05-15 (APEAL typically releases July).",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/buick/envista"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently call the Envista one of the most stylish subcompact crossovers on sale, with a Buick-typical quiet cabin, standard 11-inch touchscreen with wireless CarPlay/Android Auto, and value-leading pricing. Criticisms target the 137-hp 1.2L turbo I3 (adequate but slow, ~9-second 0-60), FWD-only configuration, and the IIHS Poor rating on the updated moderate front overlap test.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/buick/envista/2026/",
+            "date": "2026-02-01"
+          },
+          {
+            "publication": "Kelley Blue Book",
+            "url": "https://www.kbb.com/buick/envista/2026/",
+            "date": "2026-02-01"
+          },
+          {
+            "publication": "Consumer Reports",
+            "url": "https://www.consumerreports.org/cars/buick/envista/2026/road-test-report/",
+            "date": "2026-02-01"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": 8,
+        "summary": "KBB owner reviews are mixed (43% recommending) with consumers praising styling and value but flagging concerns about build quality. Sample sizes are small given the model's recent launch.",
+        "confidence": "low",
+        "sources": [
+          "https://www.kbb.com/buick/envista/2026/consumer-reviews/",
+          "https://www.edmunds.com/buick/envista/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Preferred",
+          "trim_slug": "preferred",
+          "trim_family": "envista",
+          "is_base_trim": true,
+          "msrp_base": 25995,
+          "destination_fee": 1395,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 1.2,
+            "engine_config": "I3",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 137,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 162,
+            "transmission": "6-speed automatic",
+            "transmission_speeds": 6,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 28,
+            "highway_mpg": 32,
+            "combined_mpg": 30,
+            "fuel_tank_gal": 13.2,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2000
+          },
+          "performance": {
+            "zero_to_60_sec": 9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 1000,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 182.6,
+            "width_in": 71.5,
+            "height_in": 61.3,
+            "wheelbase_in": 106.3,
+            "ground_clearance_in": 6,
+            "curb_weight_lb": 3137,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 20.7,
+              "behind_1st_row": 42,
+              "max_with_seats_folded": 42,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "225/55R17 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 4,
+            "nhtsa_rating_year": 2025,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 11,
+            "driver_display_in": 8,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker audio",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "LED signature daytime running lamps",
+              "17-inch bright silver-painted aluminum wheels",
+              "Buick Driver Confidence"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "6yr/100k",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "1yr/1visit"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/compare/envista/my26-buick-envista-mov-headtohead-s-2000x1000-26BUEA100760.jpg?imwidth=1920",
+              "local_path": "images/buick/envista/envista/front_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envista-st/02-images/2026-envista-mov-gallery-2000x1000-sx008-FINAL.jpg?imwidth=960",
+              "local_path": "images/buick/envista/envista/rear_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envista/overview/02-images/2026-envista-mov-trim-walk-preferred-flatbottom-steering-wheel-s-1600x2000-26BUEA100762.jpg?imwidth=1920",
+              "local_path": "images/buick/envista/envista/side_profile.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envista/overview/02-images/2026-envista-mov-trim-walk-sport-touring-leatherette-seats-s-1600x2000-25BUEA95081.jpg?imwidth=1920",
+              "local_path": "images/buick/envista/envista/interior_dashboard.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.buick.com/suvs/envista",
+            "destination_fee": "https://www.buick.com/tools/destination-freight-charge",
+            "powertrain": "https://www.buick.com/suvs/envista",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49337",
+            "performance.zero_to_60_sec": "https://www.buick.com/suvs/envista",
+            "dimensions": "https://www.buick.com/suvs/envista",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2025/BUICK/ENVISTA/SUV/FWD",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/buick/envista-4-door-suv/2026",
+            "features": "https://www.buick.com/suvs/envista",
+            "warranty": "https://www.buick.com/owner-center/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "NHTSA had not published a 2026-specific overall rating as of research date; 2025 model received 4-star overall. IIHS 2026 ratings show Good on small overlap front and side updated tests but Poor on updated moderate overlap front - no TSP. Buick has stated 2026 includes side structure and airbag updates which may affect future NHTSA testing."
+        },
+        {
+          "trim": "Sport Touring",
+          "trim_slug": "sport-touring",
+          "trim_family": "envista",
+          "is_base_trim": false,
+          "msrp_base": 27495,
+          "destination_fee": 1395,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/50R18 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 11,
+            "driver_display_in": 8,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker audio",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "18-inch gloss black aluminum wheels",
+              "black roof rails",
+              "Sport Touring badging",
+              "flat-bottom steering wheel"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/compare/envista/my26-buick-envista-mov-headtohead-s-2000x1000-26BUEA100760.jpg?imwidth=800",
+              "local_path": "images/buick/envista/envista/front_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envista/overview/01-images/2026-envista-mov-gallery-preview-2000x1000-25BUEA95074.jpg?imwidth=960",
+              "local_path": "images/buick/envista/envista/rear_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envista/overview/02-images/2026-envista-mov-trim-walk-preferred-flatbottom-steering-wheel-s-1600x2000-26BUEA100762.jpg?imwidth=800",
+              "local_path": "images/buick/envista/envista/side_profile.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envista/overview/02-images/2026-envista-mov-design-infotainment-s-1600x2000-25BUEA95079.jpg?imwidth=1920",
+              "local_path": "images/buick/envista/envista/interior_dashboard.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.buick.com/suvs/envista/sport-touring",
+            "destination_fee": "https://www.buick.com/tools/destination-freight-charge",
+            "features": "https://www.buick.com/suvs/envista/sport-touring"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "preferred",
+            "msrp_delta_usd": 1500,
+            "changes": [
+              "18-inch gloss black aluminum wheels replace 17-inch standard wheels",
+              "Adds black roof rails and Sport Touring exterior badging",
+              "Adds standard remote start",
+              "Adds flat-bottom steering wheel and Sport Touring interior accents",
+              "Convenience I Package optional with heated seats and power driver seat"
+            ]
+          },
+          "notes": "Same 137-hp 1.2L turbo I3, 6-speed automatic, FWD as Preferred; only styling/equipment differs."
+        },
+        {
+          "trim": "Avenir",
+          "trim_slug": "avenir",
+          "trim_family": "envista",
+          "is_base_trim": false,
+          "msrp_base": 30795,
+          "destination_fee": 1395,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "225/45R19 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 11,
+            "driver_display_in": 8,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Bose 7-speaker premium audio",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "19-inch Pearl Nickel aluminum wheels",
+              "perforated quilted leather seats with Avenir embroidery",
+              "heated flat-bottom steering wheel",
+              "Black Ice chrome Avenir grille"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/compare/envista/my26-buick-envista-mov-headtohead-s-2000x1000-26BUEA100760.jpg?imwidth=0",
+              "local_path": "images/buick/envista/envista/front_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envista/gallery/02-images/2026-envista-mov-gallery-preview-2000x1000-25BUEA95082.jpg?imwidth=960",
+              "local_path": "images/buick/envista/envista/rear_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envista/gallery/02-images/2026-envista-mov-gallery-preview-2000x1000-25BUEA95002.jpg?imwidth=960",
+              "local_path": "images/buick/envista/envista/side_profile.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envista/overview/02-images/2026-envista-mov-trim-walk-sport-touring-leatherette-seats-s-1600x2000-25BUEA95081.jpg?imwidth=800",
+              "local_path": "images/buick/envista/envista/interior_dashboard.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.buick.com/suvs/envista/avenir",
+            "destination_fee": "https://www.buick.com/tools/destination-freight-charge",
+            "features": "https://www.buick.com/suvs/envista/avenir"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "preferred",
+            "msrp_delta_usd": 4800,
+            "changes": [
+              "Adds perforated quilted leather-appointed heated front seats with Avenir embroidery",
+              "Adds heated flat-bottom steering wheel and power-adjustable driver seat",
+              "Adds Bose 7-speaker premium audio replacing 6-speaker standard",
+              "Adds 19-inch Pearl Nickel aluminum wheels",
+              "Adds wireless device charging and remote start",
+              "Adds Black Ice chrome Avenir grille and unique exterior trim"
+            ]
+          },
+          "notes": "Same 137-hp 1.2L turbo I3, 6-speed automatic, FWD across all Envista trims - Buick's only single-powertrain SUV."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Three trims: Preferred, Sport Touring, Avenir. Single powertrain (137-hp 1.2L turbo I3, 6AT, FWD only) across all trims. Each trim has unique wheels/exterior treatments, so each gets its own trim_family. IIHS 2026 rated Poor on updated moderate overlap front (rear passenger head/neck) - did not earn TSP."
+    },
+    {
+      "model": "Envision",
+      "model_slug": "envision",
+      "model_year": 2026,
+      "body_style": "suv-compact",
+      "generation_context": "2nd-gen refreshed for 2025 model year with 30-inch ultrawide display and exterior restyling; carried forward for 2026 with new colors",
+      "msrp_range": {
+        "low": 42895,
+        "high": 52595
+      },
+      "model_summary": "The Envision is Buick's compact 2-row crossover, slotted between the Envista and 3-row Enclave. Every 2026 trim ships with standard AWD, a 228-hp 2.0L turbo I4 with 9-speed automatic, and an ultrawide 30-inch dashboard display (replacing both the gauge cluster and infotainment screen) with Google built-in, plus a Bose 9-speaker audio system and Head-Up Display as standard.",
+      "reliability": {
+        "jd_power_vds_score": 160,
+        "jd_power_vds_year": 2026,
+        "jd_power_vds_source": "brand-level",
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power's 2026 VDS ranked Buick #1 among mass market brands for the second consecutive year with 160 PP100, well below the 204 industry average. Envision was not a per-model award winner. Consumer Reports 2026 placed Buick 8th overall (51/100, highest U.S. brand); Envision-specific CR predicted reliability not separately published in the 2026 Brand Report Card.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds",
+          "https://www.consumerreports.org/media-room/press-releases/2025/12/consumer-reports-releases-its-2026-automotive-brand-report-card-the-comprehensive-analysis-of-vehicle-quality-to-help-guide-car-shoppers-amid-steep-prices/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet been published as of research date 2026-05-15 (APEAL typically releases July).",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/buick/envision"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the 2026 Envision as a comfortable, genuinely upscale daily driver with the 30-inch ultrawide display (segment-largest), strong feature content, quiet cabin, and standard AWD. Common criticisms are merely-adequate 228-hp output, soft handling, and ornamental paddle shifters - it leans on luxury and value rather than driving engagement.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/buick/envision/2026/",
+            "date": "2026-03-01"
+          },
+          {
+            "publication": "Kelley Blue Book",
+            "url": "https://www.kbb.com/buick/envision/",
+            "date": "2026-03-01"
+          },
+          {
+            "publication": "Consumer Reports",
+            "url": "https://www.consumerreports.org/cars/buick/envision/2026/overview/",
+            "date": "2026-03-01"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": 27,
+        "kbb_star_rating": 4.4,
+        "kbb_sample_size": null,
+        "summary": "KBB owners rate the 2026 Envision 4.4 stars with 88% recommending it; praise focuses on quiet cabin, value relative to luxury competitors, and the standard 30-inch display.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.edmunds.com/buick/envision/2026/consumer-reviews/",
+          "https://www.kbb.com/buick/envision/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Preferred",
+          "trim_slug": "preferred",
+          "trim_family": "envision",
+          "is_base_trim": true,
+          "msrp_base": 42895,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 228,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 258,
+            "transmission": "9-speed automatic",
+            "transmission_speeds": 9,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 22,
+            "highway_mpg": 28,
+            "combined_mpg": 25,
+            "fuel_tank_gal": 16.1,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2500
+          },
+          "performance": {
+            "zero_to_60_sec": 7.6,
+            "zero_to_60_source": "estimated",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 1500,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 182.7,
+            "width_in": 74.1,
+            "height_in": 64.6,
+            "wheelbase_in": 109,
+            "ground_clearance_in": 7.9,
+            "curb_weight_lb": 3964,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 25.2,
+              "behind_1st_row": 52.7,
+              "max_with_seats_folded": 52.7,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "235/55R18 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2025,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 30,
+            "driver_display_in": 30,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Bose 9-speaker premium audio",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "30-inch diagonal ultrawide display with Google built-in (replaces both instrument cluster and center screen)",
+              "Head-Up Display standard",
+              "hands-free programmable power liftgate",
+              "dual-zone automatic climate control",
+              "adaptive LED headlamps",
+              "QuietTuning with active noise cancellation"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "6yr/100k",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "1yr/1visit"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envision/overview/02-images/2026-envision-mov-trim-walk-avenir-grille-1600x2000-24BUEV00032.jpg?imwidth=1920",
+              "local_path": "images/buick/envision/envision/front_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envision/overview/01-images/2026-envision-mov-gallery-preview-25BUEV95058.jpg?imwidth=960",
+              "local_path": "images/buick/envision/envision/rear_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envision/overview/hero-trims/01-images/2026-envision-avenir-brilliant-red-2000x1000-v2.png?imwidth=1920",
+              "local_path": "images/buick/envision/envision/side_profile.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envision/overview/01-images/2026-envision-mov-gallery-preview-25BUEV95067.jpg?imwidth=960",
+              "local_path": "images/buick/envision/envision/interior_dashboard.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.buick.com/suvs/envision/preferred",
+            "destination_fee": "https://www.buick.com/tools/destination-freight-charge",
+            "powertrain": "https://www.buick.com/suvs/envision",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49478",
+            "performance.zero_to_60_sec": "https://www.buick.com/suvs/envision",
+            "dimensions": "https://www.buick.com/suvs/envision",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2025/Buick/Envision",
+            "features": "https://www.buick.com/suvs/envision/preferred",
+            "warranty": "https://www.buick.com/owner-center/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Standard AWD across all Envision trims (no FWD option). NHTSA had not yet published a 2026-specific overall rating; 2025 model received 5-star overall. IIHS has not crash-tested the 2026 Envision in the current-generation update."
+        },
+        {
+          "trim": "Sport Touring",
+          "trim_slug": "sport-touring",
+          "trim_family": "envision",
+          "is_base_trim": false,
+          "msrp_base": 45396,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/45R20 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 30,
+            "driver_display_in": 30,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Bose 9-speaker premium audio",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "20-inch Carbon Flash Metallic wheels",
+              "high-gloss black grille, mirror caps, and window surrounds",
+              "flat-bottom leather-wrapped steering wheel",
+              "alloy sport pedals",
+              "perforated leatherette seat trim with leatherette inserts"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envision/overview/02-images/2026-envision-mov-trim-walk-preferred-grille-1600x2000-26BUEV100656.jpg?imwidth=1920",
+              "local_path": "images/buick/envision/envision/front_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envision/overview/01-images/2026-envision-mov-gallery-preview-25BUEV95061.jpg?imwidth=960",
+              "local_path": "images/buick/envision/envision/rear_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envision/overview/hero-trims/01-images/2026-envision-st-brilliant-red-2000x1000-v2.png?imwidth=1920",
+              "local_path": "images/buick/envision/envision/side_profile.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envision/overview/01-images/2026-envision-mov-trim-walk-avenir-perforated-seats-1600x2000-24BUEV00087.jpg?imwidth=1920",
+              "local_path": "images/buick/envision/envision/interior_dashboard.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.buick.com/suvs/envision/sport-touring",
+            "destination_fee": "https://www.buick.com/tools/destination-freight-charge",
+            "features": "https://www.buick.com/suvs/envision/sport-touring"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "preferred",
+            "msrp_delta_usd": 2501,
+            "changes": [
+              "20-inch Carbon Flash Metallic wheels replace 18-inch standard wheels",
+              "High-gloss black exterior accents (grille, mirror caps, window surrounds) replace chrome",
+              "Adds flat-bottom leather-wrapped steering wheel with alloy sport pedals",
+              "Adds Sport Touring-specific perforated leatherette interior with sport details"
+            ]
+          },
+          "notes": "Same 228-hp 2.0L turbo I4 and AWD as Preferred; cosmetic/wheel differences only."
+        },
+        {
+          "trim": "Avenir",
+          "trim_slug": "avenir",
+          "trim_family": "envision",
+          "is_base_trim": false,
+          "msrp_base": 52595,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/45R20 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 30,
+            "driver_display_in": 30,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Bose 9-speaker premium audio",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "20-inch Pearl Nickel wheels",
+              "panoramic moonroof",
+              "quilted heated and ventilated leather-appointed front seats",
+              "massaging driver seat",
+              "heated outboard rear seats",
+              "hands-free programmable power liftgate with LED logo projection",
+              "Universal Home Remote",
+              "rear camera mirror"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envision/overview/02-images/2026-envision-mov-trim-walk-avenir-grille-1600x2000-24BUEV00032.jpg?imwidth=800",
+              "local_path": "images/buick/envision/envision/front_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envision/overview/01-images/2026-envision-mov-safety-posterframe-Rear-Cross-Traffic-1600x2000-BUI-2021-0296_Edits_RearXBrk.jpg?imwidth=1600",
+              "local_path": "images/buick/envision/envision/rear_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envision/overview/hero-trims/01-images/2026-envision-preferred-brilliant-red-2000x1000-v2.png?imwidth=1920",
+              "local_path": "images/buick/envision/envision/side_profile.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/envision/overview/01-images/2026-envision-mov-trim-walk-st-perforated-front-seats-1600x2000-25BUEV95062.jpg?imwidth=1920",
+              "local_path": "images/buick/envision/envision/interior_dashboard.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.buick.com/suvs/envision/avenir",
+            "destination_fee": "https://www.buick.com/tools/destination-freight-charge",
+            "features": "https://www.buick.com/suvs/envision/avenir",
+            "safety": "https://www.buick.com/suvs/envision/avenir"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "preferred",
+            "msrp_delta_usd": 9700,
+            "changes": [
+              "Adds quilted heated AND ventilated leather-appointed front seats with massaging driver seat",
+              "Adds heated outboard 2nd-row seats and panoramic moonroof",
+              "Adds standard adaptive cruise control and rear automatic braking (vs not standard on Preferred)",
+              "20-inch Pearl Nickel wheels (vs 18-inch standard)",
+              "Adds rear camera mirror and Universal Home Remote",
+              "Hands-free power liftgate adds LED logo projection",
+              "Super Cruise is NOT offered on the Envision (Enclave-exclusive)"
+            ]
+          },
+          "notes": "Adaptive cruise control becomes standard on Avenir; on Preferred/Sport Touring it requires the Driver Confidence II Package. Super Cruise hands-free driving is not available on any Envision."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Three trims (Preferred, Sport Touring, Avenir). Single powertrain (228-hp 2.0L turbo I4, 9-speed auto, AWD standard) across all trims. Each trim has unique wheels/exterior so each gets its own trim_family. The signature feature is the 30-inch ultrawide display with Google built-in (replaces both the gauge cluster and infotainment center stack), standard on all trims along with Bose 9-speaker audio and HUD. Super Cruise is NOT offered on Envision - it's exclusive to Enclave in the Buick lineup."
+    },
+    {
+      "model": "Enclave",
+      "model_slug": "enclave",
+      "model_year": 2026,
+      "body_style": "suv-3row",
+      "generation_context": "3rd-gen, all-new for 2025 model year with 2.5L turbo I4 replacing prior V6, new 30-inch ultrawide display, and Super Cruise availability; carried forward for 2026",
+      "msrp_range": {
+        "low": 48095,
+        "high": 61495
+      },
+      "model_summary": "The Enclave is Buick's 3-row mid-size SUV, all-new for 2025 with a 328-hp 2.5L turbo I4 (an unusual choice replacing a V6), 8-speed automatic, and standard/available AWD. Standard equipment includes a 30-inch ultrawide display with Google built-in and adaptive cruise control across all trims, with Super Cruise hands-free driving exclusive to the Avenir.",
+      "reliability": {
+        "jd_power_vds_score": 160,
+        "jd_power_vds_year": 2026,
+        "jd_power_vds_source": "brand-level (Buick Enclave received segment award)",
+        "consumer_reports_predicted_reliability": null,
+        "summary": "Buick Enclave received a JD Power 2026 Vehicle Dependability Study segment-level award (one of four GM model-level wins in the study). Brand-level Buick scored 160 PP100, the highest mass market brand for the second straight year. Note that the JD Power VDS measures 3-year-old (2023 MY) vehicles, so the award reflects the prior-generation Enclave, not the all-new 2025/2026 redesign. Consumer Reports 2026 noted Enclave as below-average within Buick's lineup (Buick brand 51/100, 8th overall).",
+        "confidence": "medium",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds",
+          "https://www.consumerreports.org/media-room/press-releases/2025/12/consumer-reports-releases-its-2026-automotive-brand-report-card-the-comprehensive-analysis-of-vehicle-quality-to-help-guide-car-shoppers-amid-steep-prices/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet been published as of research date 2026-05-15 (APEAL typically releases July).",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/buick/enclave"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the redesigned 2026 Enclave as a comfortable, feature-packed 3-row SUV with class-leading standard tech (30-inch screen, Bose 12-speaker, adaptive cruise) and an IIHS Top Safety Pick award. The shift from a V6 to a 2.5L turbo I4 is debated - it makes 328 hp but tow ratings remain at 5,000 lbs, and some testers note engine noise under load. Super Cruise on Avenir is a meaningful luxury differentiator.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/buick/enclave/2026/",
+            "date": "2026-03-01"
+          },
+          {
+            "publication": "Kelley Blue Book",
+            "url": "https://www.kbb.com/buick/enclave/2026/",
+            "date": "2026-03-01"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": 18,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds owners give the 2026 Enclave mixed feedback - praise for comfort, roomy 3-row interior, sleek design, and modern tech, but some report transmission problems and engine noise complaints. Sample size is small given the model's recent redesign.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/buick/enclave/2026/consumer-reviews/",
+          "https://www.kbb.com/buick/enclave/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Preferred",
+          "trim_slug": "preferred",
+          "trim_family": "enclave",
+          "is_base_trim": true,
+          "msrp_base": 48095,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2.5,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 328,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 326,
+            "transmission": "8-speed automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 20,
+            "highway_mpg": 25,
+            "combined_mpg": 22,
+            "fuel_tank_gal": 19.4,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2850
+          },
+          "performance": {
+            "zero_to_60_sec": 6.7,
+            "zero_to_60_source": "estimated",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 5000,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 207.6,
+            "width_in": 79.5,
+            "height_in": 70,
+            "wheelbase_in": 120.9,
+            "ground_clearance_in": 6.8,
+            "curb_weight_lb": 4537,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 22.9,
+              "behind_2nd_row": 57.1,
+              "behind_1st_row": 97.5,
+              "max_with_seats_folded": 97.5,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/55R20 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2025,
+            "iihs_top_safety_pick": "TSP",
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 30,
+            "driver_display_in": 30,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Bose 12-speaker premium audio",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "30-inch diagonal ultrawide display with Google built-in",
+              "HD Surround Vision (360-degree camera)",
+              "tri-zone automatic climate control",
+              "AutoSense hands-free power liftgate",
+              "8-way power driver seat",
+              "leather-appointed seating"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "6yr/100k",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "1yr/1visit"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/enclave/overview/hero-trims/01-images/2026-enclave-avenir-iridescent-white-2000x1000-v2.png?imwidth=1920",
+              "local_path": "images/buick/enclave/enclave/front_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/enclave/overview/02-images/my26-enclave-mov-safety-intersection-braking-1600x2000-BUI-2021-0296_Edits_IntBrk.jpg?imwidth=1920",
+              "local_path": "images/buick/enclave/enclave/rear_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/enclave-avenir/02-images/my26-enclave-mov-preferred-trim-walk-front-steering-wheel-1600x2000-26BUEN100802.jpg?imwidth=1920",
+              "local_path": "images/buick/enclave/enclave/side_profile.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/enclave/overview/02-images/my26-enclave-mov-st-trim-walk-unique-interior-1600x2000-25BUEN00070.jpg?imwidth=1920",
+              "local_path": "images/buick/enclave/enclave/interior_dashboard.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.buick.com/suvs/enclave/preferred",
+            "destination_fee": "https://www.buick.com/tools/destination-freight-charge",
+            "powertrain": "https://www.buick.com/suvs/enclave",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49549",
+            "performance.towing_capacity_lb": "https://www.buick.com/suvs/enclave",
+            "dimensions": "https://www.buick.com/suvs/enclave",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2025/Buick/Enclave",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/buick/enclave-4-door-suv/2026",
+            "features": "https://www.buick.com/suvs/enclave/preferred",
+            "warranty": "https://www.buick.com/owner-center/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Preferred FWD is base; AWD adds about $2,000 and drops combined MPG to 21 (EPA ID 49573). Adaptive cruise and rear auto braking are standard across all Enclave trims - unusual for the segment. IIHS 2026 awarded Top Safety Pick (not TSP+ due to updated moderate overlap front result preventing the 'plus' designation per IIHS scoring; current IIHS page lists Good on all three crashworthiness tests though earlier reports indicated otherwise - using IIHS's current published rating)."
+        },
+        {
+          "trim": "Sport Touring",
+          "trim_slug": "sport-touring",
+          "trim_family": "enclave",
+          "is_base_trim": false,
+          "msrp_base": 51595,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/55R20 all-season (high-gloss black)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 30,
+            "driver_display_in": 30,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Bose 12-speaker premium audio",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "unique high-gloss black mesh grille",
+              "20-inch high-gloss black and machined wheels (optional 22-inch high-gloss black)",
+              "Sport Touring exclusive interior with ST embroidery",
+              "performance suspension calibration",
+              "flat-bottom steering wheel"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/enclave/overview/hero-trims/01-images/2026-enclave-avenir-iridescent-white-2000x1000-v2.png?imwidth=800",
+              "local_path": "images/buick/enclave/enclave/front_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/enclave/gallery/02-images/my26-enclave-gallery-preview-6-2000x1000-26BUEN100806.jpg?imwidth=1200",
+              "local_path": "images/buick/enclave/enclave/rear_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/enclave/overview/02-images/my26-enclave-mov-safety-side-bicyclist-alert-1600x2000-BUI-2021-0296_Edits_SideBike.jpg?imwidth=1920",
+              "local_path": "images/buick/enclave/enclave/side_profile.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/enclave/overview/02-images/my26-enclave-mov-st-trim-walk-unique-interior-1600x2000-25BUEN00070.jpg?imwidth=800",
+              "local_path": "images/buick/enclave/enclave/interior_dashboard.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.buick.com/suvs/enclave/sport-touring",
+            "destination_fee": "https://www.buick.com/tools/destination-freight-charge",
+            "features": "https://www.buick.com/suvs/enclave/sport-touring"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "preferred",
+            "msrp_delta_usd": 3500,
+            "changes": [
+              "Unique high-gloss black mesh grille and exterior trim",
+              "20-inch high-gloss black & machined wheels (22-inch black wheels optional)",
+              "Sport Touring exclusive interior with ST embroidery",
+              "Performance-tuned suspension calibration",
+              "Flat-bottom steering wheel and sport pedals"
+            ]
+          },
+          "notes": "Same 328-hp 2.5L turbo I4 and 8AT as Preferred. Available with FWD or optional AWD."
+        },
+        {
+          "trim": "Avenir",
+          "trim_slug": "avenir",
+          "trim_family": "enclave",
+          "is_base_trim": false,
+          "msrp_base": 61495,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "275/40R22 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": "TSP",
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 30,
+            "driver_display_in": 30,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Bose 12-speaker premium audio",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Super Cruise hands-free driving (Enclave-exclusive in the Buick lineup)",
+              "22-inch Pearl Nickel wheels",
+              "panoramic power moonroof",
+              "quilted heated, ventilated, and massaging front seats",
+              "heated 2nd-row outboard seats",
+              "adaptive damping suspension (Continuous Damping Control)",
+              "premium ride suspension",
+              "rear camera mirror",
+              "HD Surround Vision with under-vehicle view"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/compare/enclave/01-images/my26-buick-enclave-mov-headtohead-l-2400x1800-25BUEN95034-v2.jpg?imwidth=1920",
+              "local_path": "images/buick/enclave/enclave/front_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/enclave/overview/02-images/my26-enclave-mov-safety-intersection-braking-1600x2000-BUI-2021-0296_Edits_IntBrk.jpg?imwidth=800",
+              "local_path": "images/buick/enclave/enclave/rear_three_quarter.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/enclave-avenir/02-images/my26-enclave-gallery-preview-1-2000x1000-26BUEN100809.jpg?imwidth=1200",
+              "local_path": "images/buick/enclave/enclave/side_profile.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.buick.com/content/dam/buick/na/us/en/index/vehicles/2026/crossovers-suvs/enclave-avenir/02-images/my26-enclave-mov-preferred-trim-walk-front-steering-wheel-1600x2000-26BUEN100802.jpg?imwidth=800",
+              "local_path": "images/buick/enclave/enclave/interior_dashboard.jpg",
+              "credit": "Buick (buick.com)",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.buick.com/suvs/enclave/avenir",
+            "destination_fee": "https://www.buick.com/tools/destination-freight-charge",
+            "features": "https://www.buick.com/suvs/enclave/avenir",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/buick/enclave-4-door-suv/2026"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "preferred",
+            "msrp_delta_usd": 13400,
+            "changes": [
+              "Adds Super Cruise hands-free driving (Buick-exclusive to Enclave; only Avenir trim)",
+              "Adds quilted Nappa leather seats with heated, ventilated, and massaging functions",
+              "Adds panoramic moonroof and heated 2nd-row outboard seats",
+              "22-inch Pearl Nickel wheels replace standard 20-inch",
+              "Adds adaptive damping suspension (Continuous Damping Control) for ride/handling",
+              "Adds Head-Up Display, memory seats, and rear camera mirror",
+              "Adds driver attention monitoring (Super Cruise requires it)"
+            ]
+          },
+          "notes": "Super Cruise is standard on Avenir only - no other Buick model offers it for 2026. Avenir is AWD-only (FWD not available on this trim). Super Cruise includes free trial; requires subscription thereafter."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Three trims (Preferred, Sport Touring, Avenir). Single powertrain (328-hp 2.5L turbo I4, 8AT) across all trims with FWD standard on Preferred/Sport Touring and AWD optional on those two / standard on Avenir. Each trim has unique wheels/exterior treatments so each gets its own trim_family. The signature features are the 30-inch ultrawide display (standard), IIHS 2026 Top Safety Pick award, and Super Cruise standard on Avenir (Buick-exclusive to Enclave). All-new 3rd generation for 2025 carried forward to 2026 with no major changes."
+    }
+  ]
+}

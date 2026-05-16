@@ -1,0 +1,36 @@
+Brand: jaguar
+Found 12 image entries across 1 models.
+
+[1/12] f-pace/p250-r-dynamic-s/front_three_quarter  ok (24000163 bytes, image/jpeg)
+[2/12] f-pace/p250-r-dynamic-s/rear_three_quarter  ok (9655217 bytes, image/jpeg)
+[3/12] f-pace/p250-r-dynamic-s/side_profile  ok (23727985 bytes, image/jpeg)
+[4/12] f-pace/p250-r-dynamic-s/interior_dashboard  ok (7747860 bytes, image/jpeg)
+[5/12] f-pace/p400-r-dynamic-s/front_three_quarter  ok (7824032 bytes, image/jpeg)
+[6/12] f-pace/p400-r-dynamic-s/rear_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[7/12] f-pace/p400-r-dynamic-s/side_profile  ok (22339986 bytes, image/jpeg)
+[8/12] f-pace/p400-r-dynamic-s/interior_dashboard  ok (6621767 bytes, image/jpeg)
+[9/12] f-pace/svr-575-edition/front_three_quarter  ok (13423722 bytes, image/jpeg)
+[10/12] f-pace/svr-575-edition/rear_three_quarter  ok (13058008 bytes, image/jpeg)
+[11/12] f-pace/svr-575-edition/side_profile  ok (19229089 bytes, image/jpeg)
+[12/12] f-pace/svr-575-edition/interior_dashboard  ok (9121374 bytes, image/jpeg)
+
+Updated catalog/data/jaguar.json and data/jaguar.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  jaguar
+Total images attempted: 12
+Successful:             11 (91.7%)
+Failed:                 1
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 1
+
+Models with zero successful images: 0 of 1
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html;charset=utf-8)] x1 — e.g. https://www.jaguar.com/en-us/jdx/all-models/f-pace/models/index.html

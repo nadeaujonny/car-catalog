@@ -1,0 +1,23 @@
+{
+  "brand": "Lotus",
+  "brand_slug": "lotus",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "model_count": 3,
+  "trim_count": 6,
+  "total_images": 24,
+  "needs_scraping": 24,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 0,
+  "fyi_count": 1,
+  "blockers": [],
+  "warnings": [],
+  "fyis": [
+    {
+      "title": "Null msrp_base — ultra-luxury non-disclosure (documented in notes)",
+      "where": "models[2].trims[0] (emeya/r)"
+    }
+  ]
+}

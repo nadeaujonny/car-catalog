@@ -1,0 +1,1581 @@
+{
+  "brand": "Rivian",
+  "brand_slug": "rivian",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "R1T",
+      "model_slug": "r1t",
+      "model_year": 2026,
+      "body_style": "pickup-full-size",
+      "generation_context": "Gen 2 R1T, refreshed for the 2025 MY; carries over for 2026 with the addition of in-house Rivian-built Quad-Motor (1,025 hp) replacing the outsourced first-gen quad and a new factory NACS charging port across the lineup. Battery options: 92.5 kWh Standard (LFP), 108.5 kWh Large (NMC), 140 kWh Max (NMC).",
+      "msrp_range": {
+        "low": 72990,
+        "high": 119990
+      },
+      "model_summary": "Rivian's all-electric, off-road-oriented full-size pickup. Quad-cab body with five seats, a 4.5-foot bed, lockable frunk, and a unique under-cab Gear Tunnel. The 2026 lineup spans a 270-mile dual-motor entry pack up to a 420-mile dual-motor range leader and a 1,025-horsepower Quad-Motor flagship that hits 60 mph in 2.5 seconds.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": 2,
+        "summary": "JD Power has not published a Vehicle Dependability Study (VDS) score for Rivian; VDS surveys three-year-old vehicles and Rivian's earliest 2022 R1T cohort only recently crossed that threshold. Consumer Reports' predicted reliability for the 2026 R1T sits below average, citing software, electrical, and 12V auxiliary-battery complaints reported by Gen 1 R1T owners. The Gen 2 refresh introduced zonal electrical architecture and in-house Enduro drive units which Rivian states address most of these complaint clusters; verified field data on Gen 2 reliability is still limited.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/rivian/r1t",
+          "https://www.consumerreports.org/cars/rivian/r1t/2026/reliability/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet published (typical July release). However, JD Power's 2026 US EV Experience (EVX) Ownership Study scored the Rivian R1T at 739 out of 1000 in the premium BEV segment, below the 786 segment average. Note: EVX is a long-term ownership satisfaction study and is methodologically distinct from APEAL.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently praise the Gen 2 R1T for its sharpened handling, near-luxury cabin, useful Gear Tunnel and frunk, and class-leading off-road tech (Kick Turn, Tank Turn on Quad). The Quad-Motor is universally lauded for sub-3-second 0-60 acceleration that defies the truck's roughly 7,000-pound mass. Common criticisms are the high MSRP relative to the F-150 Lightning and Cybertruck, the all-touchscreen HVAC/wiper interface, and a 270-mile entry range that is short of the Lightning ER's mid-trim range.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/car-news/rivian-r1t-edmunds-top-rated-electric-truck-2026.html",
+            "date": "2026-01-15"
+          },
+          {
+            "publication": "Edmunds (Quad first drive)",
+            "url": "https://www.edmunds.com/car-news/2026-rivian-r1t-r1s-quad-motor-first-drive-review.html",
+            "date": "2025-10-22"
+          },
+          {
+            "publication": "U.S. News",
+            "url": "https://cars.usnews.com/cars-trucks/advice/2026-rivian-r1s-and-r1t-quad-motor-first-drive",
+            "date": "2025-11-04"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB owner-review pages for the 2026 R1T are sparse this early in the MY. Carryover Gen 2 sentiment is broadly positive on ride quality, towing capability, and ownership experience (Rivian Adventure Network), with persistent gripes around software stability, 12V battery aux discharge, and service availability outside major metro areas.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/rivian/r1t/",
+          "https://www.kbb.com/rivian/r1t/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Dual Standard",
+          "trim_slug": "dual-standard",
+          "trim_family": "r1t",
+          "is_base_trim": true,
+          "msrp_base": 72990,
+          "destination_fee": 1895,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 533,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 610,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 92.5,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 270,
+            "total_range_mi": 270,
+            "dc_fast_charge_peak_kw": 200,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 85,
+            "plug_type": "NACS"
+          },
+          "fuel_economy": {
+            "city_mpg": 92,
+            "highway_mpg": 77,
+            "combined_mpg": 85,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 900
+          },
+          "performance": {
+            "zero_to_60_sec": 4.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 110,
+            "towing_capacity_lb": 7700,
+            "payload_capacity_lb": 1764
+          },
+          "dimensions": {
+            "length_in": 217.1,
+            "width_in": 79,
+            "height_in": 78.2,
+            "wheelbase_in": 135.8,
+            "ground_clearance_in": 14.4,
+            "curb_weight_lb": 6790,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null,
+              "bed_length_in": 54.1,
+              "bed_volume_cuft": 29.2,
+              "frunk_cuft": 11.1,
+              "gear_tunnel_cuft": 11.7
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "275/55R22 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": "TSP",
+            "iihs_rating_year": 2025,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 15.6,
+            "driver_display_in": 12.3,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Rivian 11-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "LFP Standard battery pack (92.5 kWh)",
+              "Native NACS charging port; CCS1 adapter included",
+              "Driver+ adaptive cruise and lane-centering (Highway Assist)",
+              "Gear Tunnel and lockable frunk standard",
+              "4 USB-C ports + 110V outlet in bed and gear tunnel",
+              "Air suspension with 6-position ride height (8.0\" to 14.4\")",
+              "Camp Mode, Pet Comfort, Gear Guard 360-degree security recording"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "5yr/60k",
+            "powertrain_yr_mi": "8yr/120k",
+            "corrosion_yr_mi": "8yr/unlimited",
+            "roadside_yr_mi": "8yr/unlimited",
+            "ev_battery_yr_mi": "8yr/120k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "http://media.rivian.com/image/upload/v1717643535/riv-may/r1-modal/R1T-Front-trunk-01-3_2.jpg",
+              "local_path": "images/rivian/r1t/r1t/front_three_quarter.jpg",
+              "credit": "Rivian Automotive",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://rivian.com/r1t",
+              "local_path": "images/rivian/r1t/r1t/rear_three_quarter.jpg",
+              "credit": "Rivian Automotive",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "http://media.rivian.com/image/upload/v1717643182/riv-may/r1-blueprint/R1T-Spec-Side.webp",
+              "local_path": "images/rivian/r1t/r1t/side_profile.jpg",
+              "credit": "Rivian Automotive",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "http://media.rivian.com/image/upload/v1717643556/riv-may/r1-modal/R1T-Interior-01-3_2.jpg",
+              "local_path": "images/rivian/r1t/r1t/interior_dashboard.jpg",
+              "credit": "Rivian Automotive",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://rivian.com/r1t",
+            "powertrain": "https://rivian.com/support/article/how-much-horsepower-do-rivian-vehicles-have",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49691",
+            "performance.zero_to_60_sec": "https://rivian.com/r1t",
+            "dimensions": "https://rivian.com/r1t",
+            "safety.iihs_top_safety_pick": "https://eletric-vehicles.com/rivian/rivians-r1s-earns-top-iihs-rating-while-r1t-falls-short-under-tougher-rules/",
+            "features": "https://rivian.com/r1t",
+            "warranty": "https://rivian.com/support/article/what-is-the-warranty-coverage-on-a-new-rivian"
+          },
+          "delta_from_base": null,
+          "notes": "Base R1T uses the LFP Standard pack (92.5 kWh). Rivian announced in March 2026 that the Dual Standard trim is being sunsetted on both R1T and R1S; as of 2026-05-13 the R1T Dual Standard remains orderable on rivian.com (R1S Dual Standard already discontinued). NHTSA has never crash-tested any Rivian under NCAP, so nhtsa_overall_rating is null. IIHS 2026 award list moved the R1T from 2025 TOP SAFETY PICK to no-award in 2026 because the updated moderate-overlap front rating was downgraded to Acceptable; this trim retains the 2025 TOP SAFETY PICK badge that Rivian still markets. Gear tunnel volume (11.7 cu ft) and frunk volume (11.1 cu ft) added as extension fields beyond the base schema's cargo_volume_cuft map per the truck-extension rule. Warranty: 5yr/60k basic and 8yr/120k battery+drive system per Rivian US warranty effective March 2025."
+        },
+        {
+          "trim": "Dual Large",
+          "trim_slug": "dual-large",
+          "trim_family": "r1t",
+          "is_base_trim": false,
+          "msrp_base": 79990,
+          "destination_fee": 1895,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 533,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 610,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 108.5,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 329,
+            "total_range_mi": 329,
+            "dc_fast_charge_peak_kw": 220,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 85,
+            "plug_type": "NACS"
+          },
+          "fuel_economy": {
+            "city_mpg": 94,
+            "highway_mpg": 77,
+            "combined_mpg": 85,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 900
+          },
+          "performance": {
+            "zero_to_60_sec": 4.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 110,
+            "towing_capacity_lb": 7700,
+            "payload_capacity_lb": 1764
+          },
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "275/55R22 all-season"
+          },
+          "safety": null,
+          "features": null,
+          "warranty": {
+            "basic_yr_mi": "5yr/60k",
+            "powertrain_yr_mi": "8yr/150k",
+            "corrosion_yr_mi": "8yr/unlimited",
+            "roadside_yr_mi": "8yr/unlimited",
+            "ev_battery_yr_mi": "8yr/150k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://media.rivian.com/rivian-main/image/upload/f_auto/q_auto:eco/v1717643535/riv-may/r1-modal/R1T-Front-trunk-01-3_2.jpg?_a=BAMAMieA0",
+              "local_path": "images/rivian/r1t/r1t/front_three_quarter.jpg",
+              "credit": "Rivian Automotive",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://rivian.com/r1t",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49707",
+            "powertrain": "https://rivian.com/support/article/how-much-horsepower-do-rivian-vehicles-have",
+            "warranty": "https://rivian.com/support/article/what-is-the-warranty-coverage-on-a-new-rivian"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "dual-standard",
+            "msrp_delta_usd": 7000,
+            "changes": [
+              "Larger Large pack battery (108.5 kWh NMC vs 92.5 kWh LFP)",
+              "EPA range climbs from 270 to 329 miles",
+              "Peak DC fast-charge rate rises from 200 kW to 220 kW",
+              "City MPGe gains 2 points (94 vs 92); combined and highway unchanged",
+              "Battery and drive-system warranty extends to 8yr/150k (vs 8yr/120k on Standard)"
+            ]
+          },
+          "notes": "Performance Upgrade software pack ($5,000) is an option on Dual Large that boosts output to 665 hp / 829 lb-ft and drops 0-60 to 3.4 seconds — treated here as a configuration option per spec §6, not a separate trim. EPA lists Performance Dual Large separately (id=49710) with identical MPGe/range to the standard Dual Large because Rivian's Performance Upgrade is a software-only motor map change."
+        },
+        {
+          "trim": "Dual Max",
+          "trim_slug": "dual-max",
+          "trim_family": "r1t",
+          "is_base_trim": false,
+          "msrp_base": 86990,
+          "destination_fee": 1895,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 533,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 610,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 140,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 420,
+            "total_range_mi": 420,
+            "dc_fast_charge_peak_kw": 220,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 87,
+            "plug_type": "NACS"
+          },
+          "fuel_economy": {
+            "city_mpg": 93,
+            "highway_mpg": 80,
+            "combined_mpg": 87,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 850
+          },
+          "performance": {
+            "zero_to_60_sec": 4.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 110,
+            "towing_capacity_lb": 11000,
+            "payload_capacity_lb": 1764
+          },
+          "dimensions": {
+            "length_in": 217.1,
+            "width_in": 79,
+            "height_in": 78.2,
+            "wheelbase_in": 135.8,
+            "ground_clearance_in": 14.7,
+            "curb_weight_lb": 7148,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null,
+              "bed_length_in": 54.1,
+              "bed_volume_cuft": 29.2,
+              "frunk_cuft": 11.1,
+              "gear_tunnel_cuft": 11.7
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "275/55R22 all-season"
+          },
+          "safety": null,
+          "features": null,
+          "warranty": {
+            "basic_yr_mi": "5yr/60k",
+            "powertrain_yr_mi": "8yr/150k",
+            "corrosion_yr_mi": "8yr/unlimited",
+            "roadside_yr_mi": "8yr/unlimited",
+            "ev_battery_yr_mi": "8yr/150k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://media.rivian.com/image/upload/v1717643535/riv-may/r1-modal/R1T-Front-trunk-01-3_2.jpg",
+              "local_path": "images/rivian/r1t/r1t/front_three_quarter.jpg",
+              "credit": "Rivian Automotive",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://rivian.com/r1t",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49694",
+            "powertrain": "https://rivian.com/support/article/how-much-horsepower-do-rivian-vehicles-have",
+            "performance.towing_capacity_lb": "https://carscounsel.com/rivian-r1t-towing-capacity/",
+            "warranty": "https://rivian.com/support/article/what-is-the-warranty-coverage-on-a-new-rivian"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "dual-standard",
+            "msrp_delta_usd": 14000,
+            "changes": [
+              "Largest 140 kWh Max battery pack (LR NMC), boosts EPA range to a class-leading 420 miles",
+              "Towing capacity rises to 11,000 lb (vs 7,700 lb on Standard/Large) with weight-distributing hitch",
+              "Combined MPGe edges up to 87 (vs 85 on Standard)",
+              "Peak DC fast-charge rate up to 220 kW (vs 200 kW on Standard)",
+              "Curb weight grows ~360 lb due to larger battery"
+            ]
+          },
+          "notes": "Performance Upgrade ($5,000) is also available on Dual Max — same software-only motor map change as Dual Large. EPA lists Performance Dual Max separately (id=49697) with identical MPGe/range."
+        },
+        {
+          "trim": "Tri Max",
+          "trim_slug": "tri-max",
+          "trim_family": "r1t",
+          "is_base_trim": false,
+          "msrp_base": 100990,
+          "destination_fee": 1895,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 850,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 1103,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 140,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 371,
+            "total_range_mi": 371,
+            "dc_fast_charge_peak_kw": 220,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 76,
+            "plug_type": "NACS"
+          },
+          "fuel_economy": {
+            "city_mpg": 81,
+            "highway_mpg": 70,
+            "combined_mpg": 76,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 1000
+          },
+          "performance": {
+            "zero_to_60_sec": 2.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 130,
+            "towing_capacity_lb": 11000,
+            "payload_capacity_lb": 1764
+          },
+          "dimensions": {
+            "length_in": 217.1,
+            "width_in": 79,
+            "height_in": 78.2,
+            "wheelbase_in": 135.8,
+            "ground_clearance_in": 14.7,
+            "curb_weight_lb": 7005,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null,
+              "bed_length_in": 54.1,
+              "bed_volume_cuft": 29.2,
+              "frunk_cuft": 11.1,
+              "gear_tunnel_cuft": 11.7
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "275/55R22 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 15.6,
+            "driver_display_in": 12.3,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Meridian 22-speaker premium",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Tri-Motor (one front, two rear) layout for torque vectoring",
+              "Adventure-tier interior trim standard (vs Standard interior on Dual)",
+              "Meridian premium 22-speaker audio standard",
+              "Adaptive air suspension standard with 6-position ride height",
+              "Two exclusive drive modes (Rally, Soft Sand)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "5yr/60k",
+            "powertrain_yr_mi": "8yr/150k",
+            "corrosion_yr_mi": "8yr/unlimited",
+            "roadside_yr_mi": "8yr/unlimited",
+            "ev_battery_yr_mi": "8yr/150k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "http://media.rivian.com/image/upload/v1717643537/riv-may/r1-modal/R1T-Front-trunk-02-1_1.jpg",
+              "local_path": "images/rivian/r1t/r1t/front_three_quarter.jpg",
+              "credit": "Rivian Automotive",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://rivian.com/r1t",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49705",
+            "powertrain": "https://rivian.com/support/article/how-much-horsepower-do-rivian-vehicles-have",
+            "performance.zero_to_60_sec": "https://rivian.com/r1t",
+            "warranty": "https://rivian.com/support/article/what-is-the-warranty-coverage-on-a-new-rivian"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "dual-standard",
+            "msrp_delta_usd": 28000,
+            "changes": [
+              "Adds a third (rear) motor for 850 hp / 1,103 lb-ft (vs 533 hp / 610 lb-ft)",
+              "0-60 mph drops to 2.9 seconds from 4.5 seconds",
+              "Top speed climbs to 130 mph from 110 mph",
+              "EPA range 371 mi on 140 kWh Max pack (vs 270 mi on 92.5 kWh Standard)",
+              "Combined MPGe drops to 76 (vs 85) reflecting extra motor parasitic losses and heavier curb weight",
+              "Adventure interior trim + Meridian 22-speaker audio + ventilated leather seats standard (vs cloth synthetic-leather on Dual)"
+            ]
+          },
+          "notes": "EPA combined MPGe 76 reflects the cost of carrying a third motor; Tri remains roughly tied with Quad for combined efficiency. Tri only offered with the 140 kWh Max battery pack."
+        },
+        {
+          "trim": "Quad Max",
+          "trim_slug": "quad-max",
+          "trim_family": "r1t",
+          "is_base_trim": false,
+          "msrp_base": 119990,
+          "destination_fee": 1895,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 1025,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 1198,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 140,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 374,
+            "total_range_mi": 374,
+            "dc_fast_charge_peak_kw": 220,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 76,
+            "plug_type": "NACS"
+          },
+          "fuel_economy": {
+            "city_mpg": 80,
+            "highway_mpg": 71,
+            "combined_mpg": 76,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 1000
+          },
+          "performance": {
+            "zero_to_60_sec": 2.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 131,
+            "towing_capacity_lb": 11000,
+            "payload_capacity_lb": 1764
+          },
+          "dimensions": {
+            "length_in": 217.1,
+            "width_in": 79,
+            "height_in": 78.2,
+            "wheelbase_in": 135.8,
+            "ground_clearance_in": 15,
+            "curb_weight_lb": 6987,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null,
+              "bed_length_in": 54.1,
+              "bed_volume_cuft": 29.2,
+              "frunk_cuft": 11.1,
+              "gear_tunnel_cuft": 11.7
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "275/55R22 all-season (UHP option available)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 15.6,
+            "driver_display_in": 12.3,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Meridian 22-speaker premium",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "In-house quad-motor layout with one motor per wheel; replaces outsourced first-gen Quad",
+              "Exclusive Kick Turn (skid-steer pivot) and RAD Tuner customizable drive modes",
+              "Ascend interior trim standard with open-pore wood",
+              "Adaptive air suspension with up to 15.0 inches of ground clearance",
+              "Launch Mode with two-foot brake-torque launch",
+              "Launch Edition badge package and Storm Blue exclusive color available"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "5yr/60k",
+            "powertrain_yr_mi": "8yr/175k",
+            "corrosion_yr_mi": "8yr/unlimited",
+            "roadside_yr_mi": "8yr/unlimited",
+            "ev_battery_yr_mi": "8yr/175k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://media.rivian.com/rivian-main/image/upload/f_auto/q_auto:eco/v1717643537/riv-may/r1-modal/R1T-Front-trunk-02-1_1.jpg?_a=BAMAMieA0",
+              "local_path": "images/rivian/r1t/r1t/front_three_quarter.jpg",
+              "credit": "Rivian Automotive",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://rivian.com/quad/buy",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49715",
+            "powertrain": "https://rivian.com/support/article/how-much-horsepower-do-rivian-vehicles-have",
+            "performance.zero_to_60_sec": "https://rivian.com/quad",
+            "warranty": "https://rivian.com/support/article/what-is-the-warranty-coverage-on-a-new-rivian"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "dual-standard",
+            "msrp_delta_usd": 43000,
+            "changes": [
+              "Adds two additional motors (one per wheel) for 1,025 hp / 1,198 lb-ft (vs 533 hp / 610 lb-ft)",
+              "0-60 mph drops to 2.5 seconds (vs 4.5 sec); top speed rises to 131 mph",
+              "Quad-exclusive Kick Turn skid-steer pivot and RAD Tuner customizable drive modes",
+              "Ascend top-tier interior with open-pore wood + Meridian 22-speaker premium audio standard",
+              "Battery+drive warranty extends to 8yr/175k (vs 8yr/120k on Standard) — Quad-only tier",
+              "Up to 15.0 inches of ground clearance (vs 14.4 in on Dual Standard)",
+              "EPA range 374 mi on 140 kWh Max pack (vs 270 mi on 92.5 kWh Standard)"
+            ]
+          },
+          "notes": "Top of the R1T lineup. The 2026 Quad represents Rivian's first in-house-designed and -built quad-motor system, replacing the outsourced Bosch-sourced motors of the 2022-2024 first-generation R1T Quad. Quad-exclusive Kick Turn allows the truck to pivot in place by braking inside wheels while spinning outside wheels — a unique tank-turn capability among production EVs. 22-inch UHP wheel option drops EPA range to 338 miles (EPA id 49713). All-Terrain Dual Max Quad (20-inch wheels, off-road tires) gets EPA id 49714 with 325 mi range. Per the Rivian US warranty effective March 2025, Quad-Motor configurations get the unique 8yr/175k battery and drive-system coverage tier."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "All R1T trims share the same trim_family 'r1t' and the same visual styling; differences are wheels, badges, and interior trim level. Per Phase 1 convention, the Dual Standard carries the four required image angles and step-up trims set is_shared_with_trim_family:true. The R1T Dual Standard is being sunsetted by Rivian in 2026 per a March 2026 marketing email, but as of 2026-05-13 the R1T configurator on rivian.com still lists Dual Standard at $72,990 (R1S Dual Standard was already removed in March 2026). 20-inch All-Terrain wheel variants for each Dual/Tri/Quad trim are treated as wheel options not separate trims; they have distinct EPA ids (49692, 49693, 49695, 49714, etc.) but Rivian markets them as a single trim with selectable wheels. Performance Upgrade ($5,000) on Dual Large/Max boosts output to 665 hp / 829 lb-ft (0-60 in 3.4 sec) but is treated as a configuration option per spec §6, not a separate trim. NACS-native charging port standard for 2026 across the lineup; complimentary CCS adapter included."
+    },
+    {
+      "model": "R1S",
+      "model_slug": "r1s",
+      "model_year": 2026,
+      "body_style": "suv-3row",
+      "generation_context": "Gen 2 R1S, refreshed for the 2025 MY; carries over for 2026 with the new in-house Quad-Motor (1,025 hp), factory NACS charging port across the lineup, and the discontinuation of the entry Dual Standard trim (March 2026) following LFP battery calibration issues. R1S now starts at the Dual Large trim with 329 mi range.",
+      "msrp_range": {
+        "low": 79990,
+        "high": 125990
+      },
+      "model_summary": "Rivian's seven-seat, three-row electric SUV. Shares the Gen 2 R1 platform with the R1T pickup but with a shorter wheelbase. The 2026 lineup spans a dual-motor 329-mile entry up to a 1,025-horsepower Quad-Motor flagship; range tops out at 410 mi on the Dual Max with 22-inch wheels. Earned IIHS 2026 TOP SAFETY PICK+.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": 2,
+        "summary": "JD Power has not published a Vehicle Dependability Study (VDS) score for Rivian because the brand is too new for the three-year survey window to produce statistically meaningful data. Consumer Reports' predicted reliability for the 2026 R1S sits below average, citing 125 complaints since 2022 concentrated in safety systems and electrical per the NHTSA database. The Gen 2 refresh introduced zonal electrical architecture, in-house Enduro drive units, LFP chemistry on the Standard pack (now discontinued), and structural pack improvements; Rivian states these changes address most Gen 1 complaint clusters but verified Gen 2 field data is still limited.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/rivian/r1s",
+          "https://www.consumerreports.org/cars/rivian/r1s/2026/reliability/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet published (typical July release). However, JD Power's 2026 US EV Experience (EVX) Ownership Study scored the Rivian R1S at 758 out of 1000 in the premium BEV segment, below the 786 segment average. Note: EVX is a long-term ownership satisfaction study and is methodologically distinct from APEAL.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently praise the Gen 2 R1S for a refined ride, near-luxury cabin, genuine three-row practicality (third row best suited to children), strong real-world EPA range, and class-leading off-road capability. The Quad-Motor is celebrated for sub-3-second 0-60 acceleration that defies the SUV's ~7,000-pound mass; in independent testing Edmunds found the Quad no quicker than the Tri to 60 mph but more capable in off-road and torque-vectoring maneuvers. Persistent criticisms are high MSRP relative to mainstream three-row SUVs, all-touchscreen HVAC controls, and the omission of CarPlay/Android Auto.",
+        "links": [
+          {
+            "publication": "Edmunds (Quad first drive)",
+            "url": "https://www.edmunds.com/car-news/2026-rivian-r1t-r1s-quad-motor-first-drive-review.html",
+            "date": "2025-10-22"
+          },
+          {
+            "publication": "Edmunds (Quad tested)",
+            "url": "https://www.edmunds.com/car-news/2026-rivian-r1s-quad-tested.html",
+            "date": "2026-02-18"
+          },
+          {
+            "publication": "U.S. News",
+            "url": "https://cars.usnews.com/cars-trucks/advice/2026-rivian-r1s-and-r1t-quad-motor-first-drive",
+            "date": "2025-11-04"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB owner-review pages for the 2026 R1S are sparse this early in the MY. Carryover Gen 2 sentiment is broadly positive on driving dynamics, third-row seating versatility, and the ownership experience (Adventure Network charging); persistent complaints center on software stability, 12V auxiliary battery discharge, and limited Rivian service availability in non-metro markets.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/rivian/r1s/",
+          "https://www.kbb.com/rivian/r1s/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Dual Large",
+          "trim_slug": "dual-large",
+          "trim_family": "r1s",
+          "is_base_trim": true,
+          "msrp_base": 79990,
+          "destination_fee": 1895,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 533,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 610,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 108.5,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 329,
+            "total_range_mi": 329,
+            "dc_fast_charge_peak_kw": 220,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 85,
+            "plug_type": "NACS"
+          },
+          "fuel_economy": {
+            "city_mpg": 94,
+            "highway_mpg": 77,
+            "combined_mpg": 85,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 900
+          },
+          "performance": {
+            "zero_to_60_sec": 4.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 110,
+            "towing_capacity_lb": 7700,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 200.8,
+            "width_in": 79,
+            "height_in": 76.8,
+            "wheelbase_in": 121.1,
+            "ground_clearance_in": 14.4,
+            "curb_weight_lb": 7100,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 17.6,
+              "behind_2nd_row": 48.6,
+              "behind_1st_row": 90.7,
+              "max_with_seats_folded": 90.7,
+              "trunk_cuft": null,
+              "frunk_cuft": 11
+            }
+          },
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "275/55R22 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": "TSP+",
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 15.6,
+            "driver_display_in": 12.3,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Rivian 11-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Largest 108.5 kWh NMC Large battery pack (now the R1S entry pack after Dual Standard discontinuation)",
+              "Native NACS charging port; complimentary CCS1 adapter included",
+              "Driver+ adaptive cruise and lane-centering (Highway Assist)",
+              "Lockable frunk with 11 cu-ft of cargo space",
+              "Air suspension with 6-position ride height (8.0\" to 14.4\")",
+              "Three-row, seven-passenger seating with second-row captain's-chair option",
+              "Camp Mode, Pet Comfort, Gear Guard 360-degree security recording"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "5yr/60k",
+            "powertrain_yr_mi": "8yr/150k",
+            "corrosion_yr_mi": "8yr/unlimited",
+            "roadside_yr_mi": "8yr/unlimited",
+            "ev_battery_yr_mi": "8yr/150k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "http://media.rivian.com/image/upload/v1717643268/riv-may/r1-modal/R1S-Front-trunk-01-3_2.jpg",
+              "local_path": "images/rivian/r1s/r1s/front_three_quarter.jpg",
+              "credit": "Rivian Automotive",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://rivian.com/r1s",
+              "local_path": "images/rivian/r1s/r1s/rear_three_quarter.jpg",
+              "credit": "Rivian Automotive",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "http://media.rivian.com/image/upload/v1717643179/riv-may/r1-blueprint/R1S-Spec-Side.png",
+              "local_path": "images/rivian/r1s/r1s/side_profile.jpg",
+              "credit": "Rivian Automotive",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "http://media.rivian.com/image/upload/v1717643278/riv-may/r1-modal/R1S-Interior-01-3_2.jpg",
+              "local_path": "images/rivian/r1s/r1s/interior_dashboard.jpg",
+              "credit": "Rivian Automotive",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://rivian.com/r1s",
+            "powertrain": "https://rivian.com/support/article/how-much-horsepower-do-rivian-vehicles-have",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49732",
+            "performance.zero_to_60_sec": "https://rivian.com/r1s",
+            "dimensions": "https://rivian.com/r1s",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/rivian/r1s-4-door-suv/2026",
+            "features": "https://rivian.com/r1s",
+            "warranty": "https://rivian.com/support/article/what-is-the-warranty-coverage-on-a-new-rivian"
+          },
+          "delta_from_base": null,
+          "notes": "Dual Large is the new base R1S trim for 2026 — Rivian discontinued the prior Dual Standard ($76,990 entry) in March 2026 ahead of the R2 launch following LFP battery calibration issues. NHTSA has never crash-tested any Rivian under NCAP, so nhtsa_overall_rating is null. IIHS 2026 award: R1S earned TOP SAFETY PICK+ alongside the Volvo EX90 as one of only two large SUVs at the highest tier under the updated 2026 rear-seat passenger criteria. Performance Upgrade ($5,000) software option available on Dual Large brings 665 hp / 829 lb-ft and 3.4-sec 0-60 — EPA lists Performance Dual Large separately (id 49735) with identical MPGe/range. Frunk volume (11 cu ft) added as extension field beyond the base schema's cargo_volume_cuft map (no truck bed since this is an SUV). max_with_seats_folded uses the SAE-standard 90.7 cu ft figure; some Rivian marketing cites ~105 cu ft inclusive of cabin volume forward of folded second row."
+        },
+        {
+          "trim": "Dual Max",
+          "trim_slug": "dual-max",
+          "trim_family": "r1s",
+          "is_base_trim": false,
+          "msrp_base": 90990,
+          "destination_fee": 1895,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 533,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 610,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 140,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 410,
+            "total_range_mi": 410,
+            "dc_fast_charge_peak_kw": 220,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 84,
+            "plug_type": "NACS"
+          },
+          "fuel_economy": {
+            "city_mpg": 91,
+            "highway_mpg": 77,
+            "combined_mpg": 84,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 900
+          },
+          "performance": {
+            "zero_to_60_sec": 4.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 110,
+            "towing_capacity_lb": 7700,
+            "payload_capacity_lb": null
+          },
+          "dimensions": null,
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "275/55R22 all-season"
+          },
+          "safety": null,
+          "features": null,
+          "warranty": {
+            "basic_yr_mi": "5yr/60k",
+            "powertrain_yr_mi": "8yr/150k",
+            "corrosion_yr_mi": "8yr/unlimited",
+            "roadside_yr_mi": "8yr/unlimited",
+            "ev_battery_yr_mi": "8yr/150k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://media.rivian.com/rivian-main/image/upload/f_auto/q_auto:eco/v1717643268/riv-may/r1-modal/R1S-Front-trunk-01-3_2.jpg?_a=BAMAMieA0",
+              "local_path": "images/rivian/r1s/r1s/front_three_quarter.jpg",
+              "credit": "Rivian Automotive",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://rivian.com/r1s",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49719",
+            "powertrain": "https://rivian.com/support/article/how-much-horsepower-do-rivian-vehicles-have",
+            "warranty": "https://rivian.com/support/article/what-is-the-warranty-coverage-on-a-new-rivian"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "dual-large",
+            "msrp_delta_usd": 11000,
+            "changes": [
+              "Largest 140 kWh Max battery pack (vs 108.5 kWh Large)",
+              "EPA range jumps to 410 miles, the R1S range leader (vs 329 mi on Large)",
+              "Combined MPGe edges down to 84 (vs 85) — extra battery weight, similar pack chemistry",
+              "Curb weight grows ~300 lb from larger battery pack",
+              "Highway MPGe matches Large at 77; city drops 3 points (91 vs 94)"
+            ]
+          },
+          "notes": "Performance Upgrade ($5,000) software option available — EPA lists Performance Dual Max separately (id 49722). 22-inch standard wheels; 20-inch All-Terrain available."
+        },
+        {
+          "trim": "Tri Max",
+          "trim_slug": "tri-max",
+          "trim_family": "r1s",
+          "is_base_trim": false,
+          "msrp_base": 106990,
+          "destination_fee": 1895,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 850,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 1103,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 140,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 371,
+            "total_range_mi": 371,
+            "dc_fast_charge_peak_kw": 220,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 76,
+            "plug_type": "NACS"
+          },
+          "fuel_economy": {
+            "city_mpg": 81,
+            "highway_mpg": 70,
+            "combined_mpg": 76,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 1000
+          },
+          "performance": {
+            "zero_to_60_sec": 2.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 130,
+            "towing_capacity_lb": 7700,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 200.8,
+            "width_in": 79,
+            "height_in": 77.3,
+            "wheelbase_in": 121.1,
+            "ground_clearance_in": 14.7,
+            "curb_weight_lb": 7150,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 17.6,
+              "behind_2nd_row": 48.6,
+              "behind_1st_row": 90.7,
+              "max_with_seats_folded": 90.7,
+              "trunk_cuft": null,
+              "frunk_cuft": 11
+            }
+          },
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "275/55R22 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 15.6,
+            "driver_display_in": 12.3,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Meridian 22-speaker premium",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Tri-Motor (one front, two rear) layout for torque vectoring",
+              "Adventure-tier interior trim standard (vs Standard interior on Dual)",
+              "Meridian premium 22-speaker audio standard",
+              "Heated and ventilated leather first- and second-row seats standard",
+              "Adaptive air suspension with 6-position ride height",
+              "Exclusive Rally and Soft Sand drive modes"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "5yr/60k",
+            "powertrain_yr_mi": "8yr/150k",
+            "corrosion_yr_mi": "8yr/unlimited",
+            "roadside_yr_mi": "8yr/unlimited",
+            "ev_battery_yr_mi": "8yr/150k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://media.rivian.com/image/upload/v1717643268/riv-may/r1-modal/R1S-Front-trunk-01-3_2.jpg",
+              "local_path": "images/rivian/r1s/r1s/front_three_quarter.jpg",
+              "credit": "Rivian Automotive",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://rivian.com/r1s",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49730",
+            "powertrain": "https://rivian.com/support/article/how-much-horsepower-do-rivian-vehicles-have",
+            "performance.zero_to_60_sec": "https://rivian.com/r1s",
+            "warranty": "https://rivian.com/support/article/what-is-the-warranty-coverage-on-a-new-rivian"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "dual-large",
+            "msrp_delta_usd": 27000,
+            "changes": [
+              "Adds a third (rear) motor for 850 hp / 1,103 lb-ft (vs 533 hp / 610 lb-ft)",
+              "0-60 mph drops to 2.9 seconds from 4.5 seconds; top speed climbs to 130 mph",
+              "140 kWh Max battery pack standard (vs 108.5 kWh Large); EPA range 371 mi (vs 329 mi)",
+              "Combined MPGe drops to 76 (vs 85) due to third motor parasitic losses and heavier curb weight",
+              "Adventure interior trim + Meridian 22-speaker audio + heated/ventilated leather seats standard"
+            ]
+          },
+          "notes": "Tri Max only offered with the 140 kWh Max pack. R1S Tri Max EPA combined MPGe 76 matches R1T Tri Max (effectively identical drivetrain)."
+        },
+        {
+          "trim": "Quad Max",
+          "trim_slug": "quad-max",
+          "trim_family": "r1s",
+          "is_base_trim": false,
+          "msrp_base": 125990,
+          "destination_fee": 1895,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 1025,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 1198,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 140,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 374,
+            "total_range_mi": 374,
+            "dc_fast_charge_peak_kw": 220,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 76,
+            "plug_type": "NACS"
+          },
+          "fuel_economy": {
+            "city_mpg": 80,
+            "highway_mpg": 71,
+            "combined_mpg": 76,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 1000
+          },
+          "performance": {
+            "zero_to_60_sec": 2.6,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 131,
+            "towing_capacity_lb": 7700,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 200.8,
+            "width_in": 79,
+            "height_in": 77.3,
+            "wheelbase_in": 121.1,
+            "ground_clearance_in": 15,
+            "curb_weight_lb": 7180,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 17.6,
+              "behind_2nd_row": 48.6,
+              "behind_1st_row": 90.7,
+              "max_with_seats_folded": 90.7,
+              "trunk_cuft": null,
+              "frunk_cuft": 9.9
+            }
+          },
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "275/55R22 all-season (UHP option available)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 15.6,
+            "driver_display_in": 12.3,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Meridian 22-speaker premium",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "In-house quad-motor layout with one motor per wheel; replaces outsourced first-gen Quad",
+              "Exclusive Kick Turn (skid-steer pivot) and RAD Tuner customizable drive modes",
+              "Ascend top-tier interior trim standard with open-pore wood",
+              "Adaptive air suspension with up to 15.0 inches of ground clearance",
+              "Launch Mode with two-foot brake-torque launch",
+              "Launch Edition badge package and Storm Blue exclusive color available"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "5yr/60k",
+            "powertrain_yr_mi": "8yr/175k",
+            "corrosion_yr_mi": "8yr/unlimited",
+            "roadside_yr_mi": "8yr/unlimited",
+            "ev_battery_yr_mi": "8yr/175k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "http://media.rivian.com/image/upload/v1717643270/riv-may/r1-modal/R1S-Front-trunk-02-1_1.jpg",
+              "local_path": "images/rivian/r1s/r1s/front_three_quarter.jpg",
+              "credit": "Rivian Automotive",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://rivian.com/quad/buy",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49740",
+            "powertrain": "https://rivian.com/support/article/how-much-horsepower-do-rivian-vehicles-have",
+            "performance.zero_to_60_sec": "https://rivian.com/quad",
+            "warranty": "https://rivian.com/support/article/what-is-the-warranty-coverage-on-a-new-rivian"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "dual-large",
+            "msrp_delta_usd": 42000,
+            "changes": [
+              "Adds two additional motors (one per wheel) for 1,025 hp / 1,198 lb-ft (vs 533 hp / 610 lb-ft)",
+              "0-60 mph drops to 2.6 seconds (vs 4.5 sec); top speed rises to 131 mph",
+              "Quad-exclusive Kick Turn skid-steer pivot and RAD Tuner customizable drive modes",
+              "Ascend top-tier interior with open-pore wood + Meridian 22-speaker premium audio standard",
+              "Battery+drive warranty extends to 8yr/175k (vs 8yr/150k on Dual/Tri) — Quad-only tier",
+              "Up to 15.0 inches of ground clearance (vs 14.4 in on Dual Large)",
+              "Range 374 mi on 140 kWh Max pack (vs 329 mi on 108.5 kWh Large)"
+            ]
+          },
+          "notes": "Top of the R1S lineup. The 2026 Quad represents Rivian's first in-house-designed and -built quad-motor system. Quad-exclusive Kick Turn allows the R1S to pivot in place by braking inside wheels while spinning outside wheels. Frunk volume on Quad is 9.9 cu ft (vs 11 cu ft on Dual/Tri) due to additional front-motor inverter packaging. 22-inch UHP wheel option drops EPA range to 338 miles (EPA id 49738). All-Terrain Quad Max with 20-inch wheels and off-road tires gets EPA id 49739 with 325 mi range. Per Rivian US warranty effective March 2025, Quad-Motor configurations get the unique 8yr/175k battery and drive-system coverage tier."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "All R1S trims share the same trim_family 'r1s' and the same visual styling; differences are wheels, badges, and interior trim level. Per Phase 1 convention, the Dual Large carries the four required image angles and step-up trims set is_shared_with_trim_family:true. The R1S Dual Standard ($76,990) was discontinued in March 2026 ahead of the R2 launch, making Dual Large ($79,990) the new entry trim — note the EPA still lists 2026 R1S Dual Standard (id 49716) since the certification was already filed. 20-inch All-Terrain wheel variants for each Dual/Tri/Quad trim are treated as wheel options not separate trims (own EPA ids 49717, 49718, 49720, 49739, etc.). Performance Upgrade ($5,000) on Dual Large/Max boosts output to 665 hp / 829 lb-ft (3.4-sec 0-60) but is treated as a configuration option per spec §6, not a separate trim. NACS-native charging port standard for 2026; complimentary CCS adapter included. Earned IIHS 2026 TOP SAFETY PICK+ — one of only two large SUVs to do so for 2026."
+    },
+    {
+      "model": "R2",
+      "model_slug": "r2",
+      "model_year": 2026,
+      "body_style": "suv-midsize",
+      "generation_context": "All-new midsize EV SUV; Rivian's first mass-market vehicle on a 400V platform built at the company's Normal, Illinois plant. Customer production began April 22, 2026; first US deliveries spring 2026 starting with the Performance Launch Edition. The Premium AWD trim follows in late 2026; the Standard RWD Long Range arrives in the first half of 2027 (priced from $48,490). For MY26, only the Performance Launch Edition is on sale.",
+      "msrp_range": {
+        "low": 57990,
+        "high": 57990
+      },
+      "model_summary": "Smaller, lower-cost five-seat electric SUV positioned below the R1S. Sized between a Tesla Model Y and a Volvo XC60 at 185.9 inches long on a 115.6-inch wheelbase. The launch Performance Edition runs a dual-motor AWD layout making 656 hp and 609 lb-ft, hits 60 mph in 3.6 seconds, uses an 87.9 kWh battery, and earned an EPA-estimated 335 miles of range on 21-inch all-season tires per Rivian's April 2026 EPA filing.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "First R2 customer deliveries began spring 2026. Consumer Reports 2026 R2 reliability page displays 'No Detailed Data Available' and explicitly notes the sample size is insufficient. JD Power 2026 Vehicle Dependability Study covers MY2023 vehicles only, so does not yet evaluate R2. JD Power 2026 EVX Ownership Study did not include R2 in its 18 award-eligible models. The R2 inherits Rivian's brand-level reliability concerns (R1T and R1S both rated below average by Consumer Reports in 2026).",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds",
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study",
+          "https://www.consumerreports.org/cars/rivian/r2/2026/reliability/",
+          "https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet published (typical July release). The R2 was not included in JD Power's 2026 US EV Experience (EVX) Ownership Study (first deliveries began spring 2026). For reference, the JD Power 2026 EVX scored the related Rivian R1S at 758 and R1T at 739 in the premium BEV segment (avg 786).",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Press impressions from the March 2026 SXSW unveiling and early Spring 2026 first-drive coverage emphasize the R2's value proposition: a 656-hp Rivian Performance EV with 335 miles of EPA range for under $60,000. Reviewers praise the simplified Norman-Illinois-built single-platform architecture, the new dual-scroll-wheel steering interface, and the inclusion of a heat pump on all production R2s. Common questions raised are about long-term Rivian software quality, the impact of dropping CarPlay/Android Auto on mainstream buyers, and the absence of CCS or 800V architecture in a 2026 EV launch.",
+        "links": [
+          {
+            "publication": "Electrek",
+            "url": "https://electrek.co/2026/03/12/rivian-reveals-full-r2-lineup-pricing-rwd-model/",
+            "date": "2026-03-12"
+          },
+          {
+            "publication": "InsideEVs",
+            "url": "https://insideevs.com/news/789597/rivian-r2-launch-pricing-specs-2026/",
+            "date": "2026-03-12"
+          },
+          {
+            "publication": "TechCrunch",
+            "url": "https://techcrunch.com/2026/03/12/rivian-r2-launch-heres-what-57990-gets-you/",
+            "date": "2026-03-12"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owner-review pages for the 2026 R2 are not yet populated on Edmunds or KBB; first deliveries only began in spring 2026 and aggregate owner sentiment is not yet meaningful.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "trims": [
+        {
+          "trim": "Performance Launch Edition",
+          "trim_slug": "performance-launch-edition",
+          "trim_family": "r2",
+          "is_base_trim": true,
+          "msrp_base": 57990,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 656,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 609,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 87.9,
+            "battery_usable_kwh": 86.8,
+            "electric_range_mi": 335,
+            "total_range_mi": 335,
+            "dc_fast_charge_peak_kw": 217,
+            "dc_fast_charge_10_to_80_min": 29,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": null,
+            "plug_type": "NACS"
+          },
+          "fuel_economy": {
+            "city_mpg": null,
+            "highway_mpg": null,
+            "combined_mpg": null,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 3.6,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 4400,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 185.9,
+            "width_in": 75.5,
+            "height_in": 66.9,
+            "wheelbase_in": 115.6,
+            "ground_clearance_in": 9.6,
+            "curb_weight_lb": 4850,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 26,
+              "behind_1st_row": 79.4,
+              "max_with_seats_folded": 79.4,
+              "trunk_cuft": null,
+              "frunk_cuft": 5.2
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "21\" all-season Performance"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 14.5,
+            "driver_display_in": null,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Rivian premium",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Launch Package: lifetime Rivian Autonomy+ included (vs Premium/Standard which get 60-day trial)",
+              "Exclusive Launch Green paint, special trim and badging",
+              "Semi-active suspension exclusive to Performance trim",
+              "Dual-vertical-scroll-wheel steering-wheel interface (new for R2)",
+              "11 cameras (65 megapixels total) + 5 radars; lidar optional later",
+              "Heat pump standard across all R2 production",
+              "Native NACS charging port (no CCS adapter required for Tesla Superchargers)",
+              "Heated rear seats; heated wiper park; heated washer nozzles",
+              "Heated rear seats included on Performance Launch (deleted on lower trims)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "5yr/60k",
+            "powertrain_yr_mi": "8yr/120k",
+            "corrosion_yr_mi": "8yr/unlimited",
+            "roadside_yr_mi": "8yr/unlimited",
+            "ev_battery_yr_mi": "8yr/120k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://media.rivian.com/image/upload/dpr_auto/f_auto/q_auto:good/v4/gold-iris/size/Compare_R2FrontDimensions_Illustration.png?_a=BAVHt2DY0",
+              "local_path": "images/rivian/r2/r2/front_three_quarter.jpg",
+              "credit": "Rivian Automotive",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://rivian.com/r2",
+              "local_path": "images/rivian/r2/r2/rear_three_quarter.jpg",
+              "credit": "Rivian Automotive",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://media.rivian.com/image/upload/dpr_auto/f_auto/q_auto%3Agood,f_auto,c_lfill/v4/gold-iris/know-more/LearnMore_Still_DemoDrive_1_1?_a=BAVHt2DY0",
+              "local_path": "images/rivian/r2/r2/side_profile.jpg",
+              "credit": "Rivian Automotive",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://rivian.com/r2",
+              "local_path": "images/rivian/r2/r2/interior_dashboard.jpg",
+              "credit": "Rivian Automotive",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://rivian.com/newsroom/article/rivian-introduces-r2-lineup",
+            "powertrain": "https://rivian.com/r2",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&year1=2026&year2=2026&make=Rivian&baseModel=R2&srchtyp=ymm",
+            "performance.zero_to_60_sec": "https://rivian.com/r2",
+            "dimensions": "https://insideevs.com/news/789597/rivian-r2-launch-pricing-specs-2026/",
+            "features": "https://rivian.com/r2",
+            "warranty": "https://rivian.com/support/article/what-is-the-warranty-coverage-on-a-new-rivian"
+          },
+          "delta_from_base": null,
+          "notes": "Only R2 trim currently orderable as 2026 MY. Premium AWD ($53,990) and Standard RWD Long Range ($48,490) and Standard small-pack ($45,000) are announced but not yet on sale (Premium late 2026, Standard early 2027 onward) — those trims will likely be 2026 MY or 2027 MY depending on delivery timing. Per spec §6 sole-trim atomic rule, this is the only R2 trim in the trim_family so is_base_trim:true with delta_from_base:null. fueleconomy.gov has not yet published a 2026 R2 entry as of 2026-05-13 — sources.fuel_economy points to the EPA brand-browse search URL per the spec §4 EPA-unavailable fallback rule; city_mpg/highway_mpg/combined_mpg and mpge_combined left null pending EPA publication. The R2 Performance has been EPA-certified at 335 miles range and 217 kW peak DC charging per the April 2026 EPA certificate filing referenced in InsideEVs / Electrek. Top speed not published by Rivian. Payload capacity not published. Curb weight (4,850 lb) is a Car and Driver estimate; Rivian has not published an official figure. Warranty mirrors the R1 5yr/60k basic + 8yr battery and drive system (mileage cap TBD for R2 — using 8yr/120k as the baseline pattern matching Dual Large R1; Rivian has not published a separate R2 warranty schedule). 60-day Rivian Autonomy+ trial is standard on all R2s but the Performance Launch Edition gets lifetime Autonomy+ included."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Three additional R2 trims (Premium AWD $53,990, Standard RWD Long Range $48,490, Standard small-pack $45,000) are announced but not yet on sale — excluded from this catalog per the project rule that only currently-orderable trims are recorded. They will be added in a future MY26 or MY27 update once each becomes orderable on rivian.com. R3 and R3X are also excluded — they are preview-only with no firm release date; Rivian CFO Claire McDonough confirmed they will be built at the Georgia facility opening in 2028. EPA has not yet published any 2026 R2 entries on fueleconomy.gov; spec values are sourced from Rivian's official press release, the April 2026 EPA certificate filing summary (via InsideEVs/Electrek), and Rivian's R2 product page. Customer production began April 22, 2026 at the Normal, Illinois plant; first deliveries Spring 2026."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+Reset 3 image entries with needs_scraping:true to their model page URLs.
+Brand: toyota
+Models in JSON: 23
+Models with page URLs: 23
+Playwright fallback: enabled
+
+Scraping 23 model pages…
+
+  fetch https://www.toyota.com/4runner/  …  static ok (524 raw candidates)
+  fetch https://www.toyota.com/bz/  …  static ok (662 raw candidates)
+  fetch https://www.toyota.com/bzwoodland/  …  static ok (532 raw candidates)
+  fetch https://www.toyota.com/c-hr/  …  static ok (441 raw candidates)
+  fetch https://www.toyota.com/camry/  …  static ok (458 raw candidates)
+  fetch https://www.toyota.com/corolla/  …  static ok (335 raw candidates)
+  fetch https://www.toyota.com/corollacross/  …  static ok (555 raw candidates)
+  fetch https://www.toyota.com/corollahatchback/  …  static ok (410 raw candidates)
+  fetch https://www.toyota.com/crown/  …  static ok (637 raw candidates)
+  fetch https://www.toyota.com/crownsignia/  …  static ok (470 raw candidates)
+  fetch https://www.toyota.com/grcorolla/  …  static ok (571 raw candidates)
+  fetch https://www.toyota.com/grsupra/  …  static ok (359 raw candidates)
+  fetch https://www.toyota.com/gr86/  …  static ok (434 raw candidates)
+  fetch https://www.toyota.com/grandhighlander/  …  static ok (529 raw candidates)
+  fetch https://www.toyota.com/highlander/  …  static ok (590 raw candidates)
+  fetch https://www.toyota.com/landcruiser/  …  static ok (428 raw candidates)
+  fetch https://www.toyota.com/mirai/  …  static ok (564 raw candidates)
+  fetch https://www.toyota.com/prius/  …  static ok (376 raw candidates)
+  fetch https://www.toyota.com/rav4/  …  static ok (505 raw candidates)
+  fetch https://www.toyota.com/sequoia/  …  static ok (538 raw candidates)
+  fetch https://www.toyota.com/sienna/  …  static ok (501 raw candidates)
+  fetch https://www.toyota.com/tacoma/  …  static ok (476 raw candidates)
+  fetch https://www.toyota.com/tundra/  …  static ok (634 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          toyota
+Pages attempted:                23
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 23
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        0
+  via text/URL pattern match:   0
+  via positional fallback:      0
+Image entries unchanged:        140
+
+Models with unresolved angles:
+  4runner: 18 entries  (e.g. sr5/front_three_quarter, sr5/rear_three_quarter, trd-sport/front_three_quarter)
+  bz: 5 entries  (e.g. xle/front_three_quarter, xle/rear_three_quarter, xle/side_profile)
+  bz-woodland: 5 entries  (e.g. woodland/front_three_quarter, woodland/rear_three_quarter, woodland/side_profile)
+  c-hr: 6 entries  (e.g. se/front_three_quarter, se/rear_three_quarter, se/side_profile)
+  camry: 23 entries  (e.g. le/front_three_quarter, le/rear_three_quarter, le/side_profile)
+  corolla: 13 entries  (e.g. le/front_three_quarter, le/rear_three_quarter, le/side_profile)
+  corolla-cross: 8 entries  (e.g. l/front_three_quarter, l/rear_three_quarter, xle/front_three_quarter)
+  corolla-hatchback: 5 entries  (e.g. se/front_three_quarter, se/rear_three_quarter, se/side_profile)
+  crown: 11 entries  (e.g. xle/front_three_quarter, xle/rear_three_quarter, xle/side_profile)
+  crown-signia: 6 entries  (e.g. xle/front_three_quarter, xle/rear_three_quarter, xle/side_profile)
+  gr-corolla: 1 entries  (e.g. core/front_three_quarter)
+  gr-supra: 1 entries  (e.g. 3-0/front_three_quarter)
+  gr86: 1 entries  (e.g. base/front_three_quarter)
+  grand-highlander: 3 entries  (e.g. le/front_three_quarter, hybrid-le/front_three_quarter, hybrid-max-limited/front_three_quarter)
+  highlander: 7 entries  (e.g. xle/front_three_quarter, xle/rear_three_quarter, xse/front_three_quarter)
+  land-cruiser: 1 entries  (e.g. 1958/front_three_quarter)
+  mirai: 4 entries  (e.g. xle/front_three_quarter, xle/rear_three_quarter, xle/side_profile)
+  prius: 18 entries  (e.g. le/front_three_quarter, le/rear_three_quarter, le/side_profile)
+  rav4: 4 entries  (e.g. hybrid-le/front_three_quarter, hybrid-limited-awd/front_three_quarter, hybrid-woodland-awd/front_three_quarter)

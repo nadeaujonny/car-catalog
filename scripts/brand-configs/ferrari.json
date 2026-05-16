@@ -1,0 +1,70 @@
+{
+  "brand_slug": "ferrari",
+  "notes": "Per PROJECT_STATE.md lesson #29 and STATUS.md row: ferrari.com/en-US is JS-rendered (blank to WebFetch). ferrari.com/en-EN model pages were the reliable Phase 1 source. Using en-EN URLs here. press.ferrari.com redirects to ferrari.com/media-centre which is also JS-rendered. Expect low scrape coverage; placeholder fallback in catalog is acceptable. Phase B 2026-05-14: 5 URLs (roma-spider, amalfi, 12cilindri, 12cilindri-spider, purosangue) were 404 with the bare-slug pattern (/auto/<slug>); site now prefixes the brand name (/auto/ferrari-<slug>) for those nameplates — updated and verified OK. The 296-* and 849-testarossa* nameplates still resolve at the bare-slug URL and were left unchanged.",
+  "model_pages": {
+    "roma-spider": "https://www.ferrari.com/en-EN/auto/ferrari-roma-spider",
+    "amalfi": "https://www.ferrari.com/en-EN/auto/ferrari-amalfi",
+    "296-gtb": "https://www.ferrari.com/en-EN/auto/296-gtb",
+    "296-gts": "https://www.ferrari.com/en-EN/auto/296-gts",
+    "296-speciale": "https://www.ferrari.com/en-EN/auto/296-speciale",
+    "296-speciale-a": "https://www.ferrari.com/en-EN/auto/296-speciale-a",
+    "12cilindri": "https://www.ferrari.com/en-EN/auto/ferrari-12cilindri",
+    "12cilindri-spider": "https://www.ferrari.com/en-EN/auto/ferrari-12cilindri-spider",
+    "849-testarossa": "https://www.ferrari.com/en-EN/auto/849-testarossa",
+    "849-testarossa-spider": "https://www.ferrari.com/en-EN/auto/849-testarossa-spider",
+    "purosangue": "https://www.ferrari.com/en-EN/auto/ferrari-purosangue",
+    "f80": "https://www.ferrari.com/en-EN/auto/f80"
+  },
+  "slug_variants": {
+    "296-gtb": [
+      "296-gtb",
+      "296gtb"
+    ],
+    "296-gts": [
+      "296-gts",
+      "296gts"
+    ],
+    "296-speciale": [
+      "296-speciale",
+      "296speciale"
+    ],
+    "296-speciale-a": [
+      "296-speciale-a",
+      "296specialea",
+      "speciale-a"
+    ],
+    "12cilindri": [
+      "12cilindri",
+      "12-cilindri",
+      "twelve-cilindri"
+    ],
+    "12cilindri-spider": [
+      "12cilindri-spider",
+      "12-cilindri-spider"
+    ],
+    "849-testarossa": [
+      "849-testarossa",
+      "849testarossa",
+      "testarossa"
+    ],
+    "849-testarossa-spider": [
+      "849-testarossa-spider",
+      "849testarossa-spider"
+    ]
+  },
+  "tier2_endpoints": {
+    "amalfi": ["https://www.netcarshow.com/ferrari/2026-amalfi/"],
+    "849-testarossa": ["https://www.netcarshow.com/ferrari/2026-849_testarossa/"],
+    "849-testarossa-spider": ["https://www.netcarshow.com/ferrari/2026-849_testarossa/"],
+    "f80": ["https://www.netcarshow.com/ferrari/2026-f80/"],
+    "roma-spider": ["https://www.netcarshow.com/ferrari/2026-roma_spider/"],
+    "296-gtb": ["https://www.netcarshow.com/ferrari/2026-296_gtb/"],
+    "296-gts": ["https://www.netcarshow.com/ferrari/2026-296_gts/"],
+    "296-speciale": ["https://www.netcarshow.com/ferrari/2026-296_speciale/"],
+    "296-speciale-a": ["https://www.netcarshow.com/ferrari/2026-296_speciale_a/"],
+    "12cilindri": ["https://www.netcarshow.com/ferrari/2026-12cilindri/"],
+    "12cilindri-spider": ["https://www.netcarshow.com/ferrari/2026-12cilindri_spider/"],
+    "purosangue": ["https://www.netcarshow.com/ferrari/2026-purosangue/"]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb|-thb\\.jpg|ncslogo|mi\\.[0-9]+\\.svg|ex\\.[0-9]+\\.svg|mg\\.ph|/R/[A-Za-z])"
+}

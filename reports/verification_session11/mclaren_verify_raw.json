@@ -1,0 +1,27 @@
+{
+  "brand": "McLaren",
+  "brand_slug": "mclaren",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "model_count": 6,
+  "trim_count": 6,
+  "total_images": 24,
+  "needs_scraping": 0,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 0,
+  "fyi_count": 2,
+  "blockers": [],
+  "warnings": [],
+  "fyis": [
+    {
+      "title": "Null msrp_base — ultra-luxury non-disclosure (documented in notes)",
+      "where": "models[4].trims[0] (750s-le-mans-special-edition/750s-le-mans-special-edition)"
+    },
+    {
+      "title": "Null msrp_base — ultra-luxury non-disclosure (documented in notes)",
+      "where": "models[5].trims[0] (gts/gts)"
+    }
+  ]
+}

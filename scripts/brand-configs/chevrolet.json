@@ -1,0 +1,62 @@
+{
+  "brand_slug": "chevrolet",
+  "notes": "chevrolet.com consumer site. Performance variants (corvette-zr1, corvette-z06) often share base configurator with toggles, but each has its own /<model> page. Phase B 2026-05-14: site migrated Silverado paths /trucks/silverado-1500 -> /trucks/silverado/1500 and /trucks/silverado-hd (404) -> /trucks/silverado/2500hd-3500hd.",
+  "model_pages": {
+    "trax": "https://www.chevrolet.com/suvs/trax",
+    "trailblazer": "https://www.chevrolet.com/suvs/trailblazer",
+    "equinox": "https://www.chevrolet.com/suvs/equinox",
+    "equinox-ev": "https://www.chevrolet.com/electric/equinox-ev",
+    "blazer": "https://www.chevrolet.com/suvs/blazer",
+    "blazer-ev": "https://www.chevrolet.com/electric/blazer-ev",
+    "traverse": "https://www.chevrolet.com/suvs/traverse",
+    "tahoe": "https://www.chevrolet.com/suvs/tahoe",
+    "suburban": "https://www.chevrolet.com/suvs/suburban",
+    "colorado": "https://www.chevrolet.com/trucks/colorado",
+    "silverado-1500": "https://www.chevrolet.com/trucks/silverado/1500",
+    "silverado-hd": "https://www.chevrolet.com/trucks/silverado/2500hd-3500hd",
+    "silverado-ev": "https://www.chevrolet.com/electric/silverado-ev",
+    "corvette-stingray": "https://www.chevrolet.com/performance/corvette/stingray",
+    "corvette-e-ray": "https://www.chevrolet.com/performance/corvette/e-ray",
+    "corvette-z06": "https://www.chevrolet.com/performance/corvette/z06",
+    "corvette-zr1": "https://www.chevrolet.com/performance/corvette/zr1",
+    "corvette-zr1x": "https://www.chevrolet.com/performance/corvette/zr1x"
+  },
+  "slug_variants": {
+    "silverado-1500": [
+      "silverado-1500",
+      "silverado1500",
+      "silverado"
+    ],
+    "silverado-hd": [
+      "silverado-hd",
+      "silveradohd",
+      "silverado-2500",
+      "silverado-3500",
+      "silverado-2500hd",
+      "silverado-3500hd"
+    ],
+    "corvette-stingray": [
+      "corvette",
+      "corvette-stingray",
+      "stingray"
+    ],
+    "corvette-e-ray": [
+      "corvette-e-ray",
+      "e-ray",
+      "corvette-eray"
+    ],
+    "corvette-z06": [
+      "corvette-z06",
+      "z06"
+    ],
+    "corvette-zr1": [
+      "corvette-zr1",
+      "zr1"
+    ],
+    "corvette-zr1x": [
+      "corvette-zr1x",
+      "zr1x"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

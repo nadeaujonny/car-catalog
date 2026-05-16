@@ -1,0 +1,15 @@
+{
+  "brand_slug": "dodge",
+  "notes": "dodge.com consumer site. The 2026 lineup splits into 3 models: Charger Daytona (BEV, both coupe and sedan bodies), Charger Sixpack (ICE 3.0L twin-turbo I6, both coupe and sedan bodies), and Durango (3-row SUV with V8 powertrains incl. final-MY Hellcat). Charger Daytona EV and Charger Sixpack ICE share the same dodge.com/charger.html page (Stellantis lists them as one nameplate); slug-variants below differentiate. Fallback CDN: s3.amazonaws.com/chryslermedia.iconicweb.com via Stellantis press if dodge.com WebFetch is gated.",
+  "model_pages": {
+    "charger-daytona":  "https://www.dodge.com/charger.html",
+    "charger-sixpack":  "https://www.dodge.com/charger.html",
+    "durango":          "https://www.dodge.com/durango.html"
+  },
+  "slug_variants": {
+    "charger-daytona":  ["charger-daytona", "daytona", "charger-ev", "chargerdaytona", "charger_daytona", "daytona-ev"],
+    "charger-sixpack":  ["charger-sixpack", "sixpack", "charger-hurricane", "charger-i6", "chargersixpack", "charger_sixpack", "charger-rt", "charger-scat-pack"],
+    "durango":          ["durango", "durango-gt", "durango-rt", "durango-srt", "durango-hellcat"]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb|fox-factory-logo)"
+}

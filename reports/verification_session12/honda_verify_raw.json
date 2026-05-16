@@ -1,0 +1,32 @@
+{
+  "brand": "Honda",
+  "brand_slug": "honda",
+  "researched_at": "2026-05-11",
+  "schema_version": "1.0",
+  "model_count": 13,
+  "trim_count": 53,
+  "total_images": 212,
+  "needs_scraping": 0,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 3,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "suv-3row base trim has non-null trunk_cuft",
+      "where": "pilot/sport"
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "prologue/ex",
+      "value": "fuel_economy"
+    },
+    {
+      "title": "EV base trim has null fuel_economy.combined_mpg while ev_specifics.mpge_combined populated (spec §3.6 v1.1 mirror)",
+      "where": "prologue/ex"
+    }
+  ],
+  "fyis": []
+}

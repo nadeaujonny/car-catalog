@@ -1,0 +1,777 @@
+{
+  "brand": "VinFast",
+  "brand_slug": "vinfast",
+  "researched_at": "2026-05-15",
+  "schema_version": "1.2",
+  "models": [
+    {
+      "model": "VF 8",
+      "model_slug": "vf-8",
+      "model_year": 2025,
+      "body_style": "suv-midsize",
+      "generation_context": "First-generation VF 8; US deliveries began March 2023; refreshed for MY2024 with software-rewrite and re-priced for MY2025",
+      "msrp_range": {
+        "low": 39900,
+        "high": 44900
+      },
+      "model_summary": "VinFast's compact-to-midsize 2-row electric SUV, the entry product for the Vietnamese brand in the United States. Offered in two dual-motor AWD trims (Eco and Plus) sharing a single 87.7 kWh battery; the Eco prioritizes range while the Plus trades range for higher peak motor output and richer interior equipment. Backed by VinFast's industry-leading 10-year/125,000-mile bumper-to-bumper and 10-year/unlimited-mile battery warranties.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power 2026 Vehicle Dependability Study does not sample VinFast (low US sales volume; brand only entered US market 2023). JD Power 2026 US EV Experience (EVX) Ownership Study did not include any VinFast model in its 18 award-eligible models. Consumer Reports 2026 brand reliability rankings do not list VinFast — the brand has insufficient owner-survey data for a predicted reliability score on the VF 8. Multiple NHTSA recalls remain (2023-2025 ADAS lane-keep-assist, brake-pedal sensor).",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds",
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study",
+          "https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet published (typical July release). JD Power 2026 US EV Experience (EVX) Ownership Study did not include any VinFast model in its 18 award-eligible premium and mass market models (low US sales volume; brand only entered US market 2023). No published JD Power customer-satisfaction score for the VF 8.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviews emphasize aggressive pricing and a generous warranty as the VF 8's primary strengths, while consistently flagging software glitches, choppy ride/steering calibration, and inconsistent fit-and-finish as weaknesses. InsideEVs and Edmunds both note material improvements from the 2024 software rewrite and updated tuning but conclude the VF 8 remains a generation behind class benchmarks like the Hyundai Ioniq 5 and Tesla Model Y.",
+        "links": [
+          {
+            "publication": "InsideEVs",
+            "url": "https://insideevs.com/features/774663/vinfast-vf8-good-deal-drive/",
+            "date": "2025-04-01"
+          },
+          {
+            "publication": "InsideEVs (ownership)",
+            "url": "https://insideevs.com/reviews/725462/vinfast-vf8-ownership-review/",
+            "date": "2024-09-12"
+          },
+          {
+            "publication": "EVTV",
+            "url": "https://www.evtv.me/electric-vehicles/vinfast-vf8-review-08082806",
+            "date": "2023-08-28"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": 2,
+        "edmunds_sample_size": 9,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds owner reviews average 2.0/5 across a small sample (9 reviews). Common owner complaints: software/infotainment crashes, false ADAS alerts, range below EPA in cold weather, dealer-network thinness and slow service. Praise: comfortable seats, generous standard equipment for the price, panoramic roof.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/vinfast/vf-8/2025/consumer-reviews/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Eco",
+          "trim_slug": "eco",
+          "trim_family": "vf-8",
+          "is_base_trim": true,
+          "msrp_base": 39900,
+          "destination_fee": 1390,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 349,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 369,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 87.7,
+            "battery_usable_kwh": 87.7,
+            "electric_range_mi": 256,
+            "total_range_mi": 256,
+            "dc_fast_charge_peak_kw": 150,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11,
+            "mpge_combined": 73,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 77,
+            "highway_mpg": 69,
+            "combined_mpg": 73,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 1050
+          },
+          "performance": {
+            "zero_to_60_sec": 6,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 3968,
+            "payload_capacity_lb": 992
+          },
+          "dimensions": {
+            "length_in": 187,
+            "width_in": 76.1,
+            "height_in": 65.6,
+            "wheelbase_in": 116.1,
+            "ground_clearance_in": 6.8,
+            "curb_weight_lb": null,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 13.2,
+              "behind_1st_row": 48.4,
+              "max_with_seats_folded": 48.4,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "235/55R19"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 4,
+            "nhtsa_rating_year": 2024,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 15.6,
+            "driver_display_in": null,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "8-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "11 airbags incl. front-seat middle airbag",
+              "Level 2 Highway Assist with Lane Centering",
+              "360-degree surround-view camera",
+              "Vegan-leather seating (Leatherette on Eco)",
+              "Multi-color ambient lighting with footwell light"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "10yr/125k",
+            "powertrain_yr_mi": "10yr/125k",
+            "corrosion_yr_mi": "10yr/125k",
+            "roadside_yr_mi": "10yr/125k",
+            "ev_battery_yr_mi": "10yr/unlimited",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://static-cms-prod.vinfastauto.us/2025-03/vf8-2.webp",
+              "local_path": "images/vinfast/vf-8/vf-8/front-three-quarter.jpg",
+              "credit": "VinFast Auto, LLC",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://static-cms-prod.vinfastauto.us/2025-03/vf8-black.webp",
+              "local_path": "images/vinfast/vf-8/vf-8/rear-three-quarter.jpg",
+              "credit": "VinFast Auto, LLC",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://static-cms-prod.vinfastauto.us/2025-03/vf8-2_0.webp",
+              "local_path": "images/vinfast/vf-8/vf-8/side-profile.jpg",
+              "credit": "VinFast Auto, LLC",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://static-cms-prod.vinfastauto.us/2025-03/interior-img2.webp",
+              "local_path": "images/vinfast/vf-8/vf-8/interior-dashboard.jpg",
+              "credit": "VinFast Auto, LLC",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_rear_seats",
+              "url": "https://static-cms-prod.vinfastauto.us/2025-03/interior-img1.webp",
+              "local_path": "images/vinfast/vf-8/vf-8/interior-rear-seats.jpg",
+              "credit": "VinFast Auto, LLC",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://vinfastauto.us/vf-8-offer-terms",
+            "destination_fee": "https://vinfastauto.us/vf-8-offer-terms",
+            "powertrain": "https://static-cms-prod.vinfastauto.us/cms-vinfast-us/Specs/VF-8-Spec.pdf",
+            "ev_specifics": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49086",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49086",
+            "performance.zero_to_60_sec": "https://static-cms-prod.vinfastauto.us/cms-vinfast-us/Specs/VF-8-Spec.pdf",
+            "performance.towing_capacity_lb": "https://static-cms-prod.vinfastauto.us/cms-vinfast-us/Specs/VF-8-Spec.pdf",
+            "dimensions": "https://static-cms-prod.vinfastauto.us/cms-vinfast-us/Specs/VF-8-Spec.pdf",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2024/VINFAST/VF8/SUV/AWD",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/all?make=vinfast",
+            "features": "https://static-cms-prod.vinfastauto.us/cms-vinfast-us/Specs/VF-8-Spec.pdf",
+            "warranty": "https://vinfastauto.us/service"
+          },
+          "delta_from_base": null,
+          "notes": "Sole base trim of the VF 8's single powertrain line. NHTSA 4-star overall rating sourced from the 2024 MY test (carryover to 2025 MY — VinFast has not changed the structure). NHTSA recorded a 2-star frontal-crash sub-rating per their detail page. IIHS has not crash-tested any VinFast model as of May 2026. Curb weight not published on the manufacturer's US spec sheet (only payload 992 lb and roof load 165 lb listed); the spec PDF omits the figure; secondary aggregators range 5,000-5,500 lb but no primary source verifies. DC fast charge peak (150 kW) and AC onboard charger rate (11 kW) sourced from VinFast charging page. Plug type is CCS1 (CCS Combo 1) — VinFast has not announced NACS migration. EPA-rated city/highway/combined MPGe (77/69/73) mirrored into fuel_economy per spec §3.6 EV mirroring rule. Sound system is unbranded 8-speaker; head-up display standard. CarPlay/Android Auto are part of VF Pro Connect subscription per the VF Connect packages page; phone projection is available but tied to the subscription tier."
+        },
+        {
+          "trim": "Plus",
+          "trim_slug": "plus",
+          "trim_family": "vf-8",
+          "is_base_trim": false,
+          "msrp_base": 44900,
+          "destination_fee": 1390,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 402,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 457,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 87.7,
+            "battery_usable_kwh": 87.7,
+            "electric_range_mi": 243,
+            "total_range_mi": 243,
+            "dc_fast_charge_peak_kw": 150,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11,
+            "mpge_combined": 76,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 73,
+            "highway_mpg": 80,
+            "combined_mpg": 76,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 1000
+          },
+          "performance": {
+            "zero_to_60_sec": 5.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 3968,
+            "payload_capacity_lb": 992
+          },
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/45R20"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 4,
+            "nhtsa_rating_year": 2024,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 15.6,
+            "driver_display_in": null,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "10-speaker + subwoofer",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "12-way power driver's seat with memory + heat + ventilation",
+              "10-way power front-passenger seat with heat + ventilation",
+              "Heated + ventilated rear outboard seats",
+              "Hands-free power liftgate",
+              "Auto-dimming side mirrors",
+              "11 airbags incl. front-seat middle airbag",
+              "Level 2 Highway Assist with Lane Centering",
+              "360-degree surround-view camera"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://static-cms-prod.vinfastauto.us/2025-03/vf8-silver.webp",
+              "local_path": "images/vinfast/vf-8/vf-8/plus-front-three-quarter.jpg",
+              "credit": "VinFast Auto, LLC",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://vinfastauto.us/vf-8-offer-terms",
+            "destination_fee": "https://vinfastauto.us/vf-8-offer-terms",
+            "powertrain": "https://static-cms-prod.vinfastauto.us/cms-vinfast-us/Specs/VF-8-Spec.pdf",
+            "ev_specifics": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49087",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49087",
+            "performance.zero_to_60_sec": "https://vinfastauto.us/vehicles/vf-8",
+            "performance.towing_capacity_lb": "https://static-cms-prod.vinfastauto.us/cms-vinfast-us/Specs/VF-8-Spec.pdf",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2024/VINFAST/VF8/SUV/AWD",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/all?make=vinfast",
+            "features": "https://static-cms-prod.vinfastauto.us/cms-vinfast-us/Specs/VF-8-Spec.pdf",
+            "wheels_tires": "https://www.wheel-size.com/size/vinfast/vf8/2025/"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "eco",
+            "msrp_delta_usd": 5000,
+            "changes": [
+              "Higher-output motor tune: 402 hp / 457 lb-ft (vs Eco's 349 hp / 369 lb-ft)",
+              "0-60 mph drops to ~5.5 sec from Eco's ~6.0 sec",
+              "EPA range falls to 235 mi from Eco's 256 mi (same 87.7 kWh battery; bigger wheels + power tune drop efficiency)",
+              "20-inch alloy wheels (vs 19-inch on Eco)",
+              "Driver seat upgrades to 12-way power with memory + ventilation (vs 8-way heated only on Eco)",
+              "Front passenger upgrades to 10-way power, heated + ventilated (vs 6-way heated)",
+              "Adds heated + ventilated rear outboard seats and 60/40 split rear bench heat",
+              "Adds hands-free power liftgate (Eco is manual)",
+              "Adds auto-dimming side mirrors, keyless start/stop with brake, 10-speaker + subwoofer sound (vs 8-speaker), full vegan-leather (vs Leatherette)"
+            ]
+          },
+          "notes": "Step-up trim. Dimensions block null because exterior dimensions (length/width/height/wheelbase/ground clearance) are identical to Eco per the VinFast spec sheet — only wheel size differs (captured in wheels_tires). Warranty block null because terms are identical to Eco's. CCS1 plug, 11 kW AC onboard charger, 150 kW DC peak — same as Eco per VinFast charging page. NHTSA rating carries from 2024 MY VF 8 test (same body, same powertrain class). Cargo and capacity assumed identical to Eco (same body, same 5-seat config). Curb weight not published on manufacturer spec sheet."
+        }
+      ],
+      "researched_at": "2026-05-15",
+      "notes": "All VF 8 US units assembled in Hai Phong, Vietnam (VinFast's NC plant remains in construction with production now slated for 2028). Both trims share trim_family 'vf-8' — exterior styling is identical, only wheel size and equipment level differ. Image set is shared across the family; only front_three_quarter has a distinct silver Plus shot. Sample size for owner reviews is small (n=9 on Edmunds) so confidence on owner_reviews is low. JD Power and CR have not yet rated the model — confidence: unknown is the correct schema state. NHTSA tested the 2024 MY VF 8 (4-star overall, 2-star frontal) and ratings carry to 2025 MY. IIHS has not crash-tested. VinFast issued multiple recalls in 2024-2025 for ADAS lane-keep behavior and brake sensor — noted as a structural reliability concern even without VDS data."
+    },
+    {
+      "model": "VF 9",
+      "model_slug": "vf-9",
+      "model_year": 2024,
+      "body_style": "suv-3row",
+      "generation_context": "First-generation VF 9; US deliveries began September 2024 (Plus first; Eco shortly after) as VinFast's full-size 3-row EV alongside the smaller VF 8",
+      "msrp_range": {
+        "low": 62900,
+        "high": 73800
+      },
+      "model_summary": "VinFast's three-row, full-size electric SUV designed to compete with the Kia EV9 and Hyundai Ioniq 9. Both Eco (7-seat bench-second-row) and Plus (offered with 6-seat captain's-chair second row or 7-seat bench) trims share a 123 kWh battery, 402 hp dual-motor AWD, and 200 km/h (124 mph) top speed; Eco is range-leader at 330 EPA miles and Plus adds substantial luxury equipment at the cost of 39 miles of range. Backed by VinFast's 10-year/125,000-mile bumper-to-bumper warranty.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power 2026 Vehicle Dependability Study does not sample VinFast (low US sales volume; brand only entered US market 2023). JD Power 2026 US EV Experience (EVX) Ownership Study did not include any VinFast model in its 18 award-eligible models. Consumer Reports 2026 brand reliability rankings do not list VinFast — the brand has insufficient owner-survey data for a predicted reliability score on the VF 9. Multiple NHTSA recalls remain (2023-2025 ADAS lane-keep-assist, brake-pedal sensor).",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds",
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study",
+          "https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet published (typical July release). JD Power 2026 US EV Experience (EVX) Ownership Study did not include any VinFast model in its 18 award-eligible premium and mass market models (low US sales volume; brand only entered US market 2023). No published JD Power customer-satisfaction score for the VF 9.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers credit the VF 9's Pininfarina-styled exterior, three-row roominess, panoramic glass roof, and pricing aggression against the Kia EV9/Hyundai Ioniq 9 benchmarks. They consistently criticize software/UX failures encountered during testing (touchscreen reboots, HUD blackouts, A/C and window malfunctions), floaty ride/steering calibration, and below-average highway efficiency (EPA 287-291 mi on Plus, 330 mi on Eco) for a 123 kWh pack. Net verdict: a value-priced alternative whose software polish trails class benchmarks.",
+        "links": [
+          {
+            "publication": "Edmunds (first drive)",
+            "url": "https://www.edmunds.com/car-news/2025-vinfast-vf-9-first-drive-review.html",
+            "date": "2025-02-15"
+          },
+          {
+            "publication": "AutoGuide",
+            "url": "https://www.autoguide.com/auto/manufacturers/vinfast/2025-vinfast-vf-9-review-moments-of-goodness-44626225",
+            "date": "2025-03-20"
+          },
+          {
+            "publication": "Motor Illustrated",
+            "url": "https://motorillustrated.com/2025-vinfast-vf-9-review-high-hopes-heavy-hiccups/161056/",
+            "date": "2025-04-10"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owner-review sample sizes are insufficient for meaningful aggregation as of May 2026 — VF 9 US deliveries only began September 2024 and customer-aggregator pages show 0-2 reviews. Anecdotal reports mirror professional reviews (software issues, comfort).",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.edmunds.com/vinfast/vf-9/",
+          "https://www.kbb.com/vinfast/vf-9/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Eco",
+          "trim_slug": "eco",
+          "trim_family": "vf-9",
+          "is_base_trim": true,
+          "msrp_base": 62900,
+          "destination_fee": 1390,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 402,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 457,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 123,
+            "battery_usable_kwh": 123,
+            "electric_range_mi": 330,
+            "total_range_mi": 330,
+            "dc_fast_charge_peak_kw": 150,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11,
+            "mpge_combined": 75,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 79,
+            "highway_mpg": 71,
+            "combined_mpg": 75,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 1000
+          },
+          "performance": {
+            "zero_to_60_sec": 6.7,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 124,
+            "towing_capacity_lb": 3968,
+            "payload_capacity_lb": 1212
+          },
+          "dimensions": {
+            "length_in": 201.4,
+            "width_in": 88.7,
+            "height_in": 66.8,
+            "wheelbase_in": 124,
+            "ground_clearance_in": 7.1,
+            "curb_weight_lb": 6417,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 7.5,
+              "behind_2nd_row": null,
+              "behind_1st_row": 32.7,
+              "max_with_seats_folded": 32.7,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/55R20"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 15.6,
+            "driver_display_in": null,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "13-speaker + subwoofer",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "11 airbags incl. front-seat middle airbag",
+              "Level 2 Highway Assist with Traffic Jam Assist",
+              "360-degree surround-view camera",
+              "Power liftgate with foot-kick sensor",
+              "Auto-dimming inside rearview mirror",
+              "Acoustic vehicle alerting system (AVAS)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "10yr/125k",
+            "powertrain_yr_mi": "10yr/125k",
+            "corrosion_yr_mi": "10yr/125k",
+            "roadside_yr_mi": "10yr/125k",
+            "ev_battery_yr_mi": "10yr/unlimited",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://static-cms-prod.vinfastauto.us/2025-03/vf9-2.webp",
+              "local_path": "images/vinfast/vf-9/vf-9/front-three-quarter.jpg",
+              "credit": "VinFast Auto, LLC",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://static-cms-prod.vinfastauto.us/2025-03/exterior-3_0.webp",
+              "local_path": "images/vinfast/vf-9/vf-9/rear-three-quarter.jpg",
+              "credit": "VinFast Auto, LLC",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://static-cms-prod.vinfastauto.us/2025-03/exterior-4_0.webp",
+              "local_path": "images/vinfast/vf-9/vf-9/side-profile.jpg",
+              "credit": "VinFast Auto, LLC",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://static-cms-prod.vinfastauto.us/2025-03/interior-driver_0.webp",
+              "local_path": "images/vinfast/vf-9/vf-9/interior-dashboard.jpg",
+              "credit": "VinFast Auto, LLC",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_rear_seats",
+              "url": "https://static-cms-prod.vinfastauto.us/2025-03/interior-4_0.webp",
+              "local_path": "images/vinfast/vf-9/vf-9/interior-rear-seats.jpg",
+              "credit": "VinFast Auto, LLC",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://vinfastauto.us/vehicles/vf-9",
+            "destination_fee": "https://vinfastauto.us/vf-8-offer-terms",
+            "powertrain": "https://static-cms-prod.vinfastauto.us/cms-vinfast-us/Specs/VF-9-Spec.pdf",
+            "ev_specifics": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47487",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47487",
+            "performance.zero_to_60_sec": "https://static-cms-prod.vinfastauto.us/cms-vinfast-us/Specs/VF-9-Spec.pdf",
+            "performance.top_speed_mph": "https://static-cms-prod.vinfastauto.us/cms-vinfast-us/Specs/VF-9-Spec.pdf",
+            "performance.towing_capacity_lb": "https://static-cms-prod.vinfastauto.us/cms-vinfast-us/Specs/VF-9-Spec.pdf",
+            "dimensions": "https://static-cms-prod.vinfastauto.us/cms-vinfast-us/Specs/VF-9-Spec.pdf",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings?make=Vinfast",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/all?make=vinfast",
+            "features": "https://static-cms-prod.vinfastauto.us/cms-vinfast-us/Specs/VF-9-Spec.pdf",
+            "warranty": "https://vinfastauto.us/service"
+          },
+          "delta_from_base": null,
+          "notes": "Sole base trim of the VF 9's single powertrain line. NHTSA has not crash-tested the VF 9 — safety.nhtsa_overall_rating null with rating_year null per honesty rules; source set to the brand roll-up URL per spec §4.5. IIHS has likewise not crash-tested any current VinFast model. Curb weight 2,911 kg (6,417 lb) per the manufacturer spec sheet (Eco 7-seat config; Plus 7-seat is 2,968 kg / 6,543 lb and 6-seat is 2,959 kg / 6,523 lb but reported under Plus). Cargo volume converted from manufacturer L figures: trunk seats-up 212 L (7.5 cu ft, all 3 rows up); trunk seats-down 926 L (32.7 cu ft, both rear rows folded) — VinFast does not publish a behind-2nd-row figure separately; field set to null. Sunroof is 'none' on Eco — the panoramic fixed glass roof is exclusive to the Plus trim per the spec PDF. Sound system is 13-speaker + 1 subwoofer (unbranded, manufacturer-published). Top speed 200 km/h = 124 mph per manufacturer. Plug type CCS1 per VinFast charging page. CarPlay/Android Auto require VF Pro Connect subscription. Destination fee shared with VF 8 source (VinFast does not publish a separate VF 9 offer-terms page as of May 2026); the company applies a uniform $1,390 destination charge per the VF 8 offer-terms page. EPA-rated city/highway/combined MPGe (79/71/75) mirrored into fuel_economy per spec §3.6 EV mirroring rule."
+        },
+        {
+          "trim": "Plus",
+          "trim_slug": "plus",
+          "trim_family": "vf-9",
+          "is_base_trim": false,
+          "msrp_base": 73800,
+          "destination_fee": 1390,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": {
+            "battery_capacity_kwh": 123,
+            "battery_usable_kwh": 123,
+            "electric_range_mi": 291,
+            "total_range_mi": 291,
+            "dc_fast_charge_peak_kw": 150,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11,
+            "mpge_combined": 69,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 71,
+            "highway_mpg": 66,
+            "combined_mpg": 69,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 1100
+          },
+          "performance": {
+            "zero_to_60_sec": 6.6,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 124,
+            "towing_capacity_lb": 3968,
+            "payload_capacity_lb": 1212
+          },
+          "dimensions": {
+            "length_in": 201.4,
+            "width_in": 88.7,
+            "height_in": 66.8,
+            "wheelbase_in": 124,
+            "ground_clearance_in": 7.1,
+            "curb_weight_lb": 6543,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 7.5,
+              "behind_2nd_row": null,
+              "behind_1st_row": 32.7,
+              "max_with_seats_folded": 32.7,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "265/45R21"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 15.6,
+            "driver_display_in": null,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "13-speaker + subwoofer",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "8-inch rear-seat display on center console",
+              "12-way power driver seat with memory + ventilation + massage",
+              "10-way power front passenger with ventilation + massage",
+              "Captain's-chair 6-seat layout option (with 8-way power, heat, ventilation, massage)",
+              "Heated + ventilated + massaging rear seats (Plus 6-seat config)",
+              "Panoramic fixed glass roof",
+              "Power steering wheel column with memory",
+              "3-zone climate control",
+              "Foot-kick sensor with logo projector",
+              "Power-latch soft-close doors"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "interior_dashboard",
+              "url": "https://static-cms-prod.vinfastauto.us/2025-03/interior-img1_1.webp",
+              "local_path": "images/vinfast/vf-9/vf-9/plus-interior-dashboard.jpg",
+              "credit": "VinFast Auto, LLC",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            },
+            {
+              "angle": "front_three_quarter",
+              "url": "https://static-cms-prod.vinfastauto.us/2025-03/exterior-1.webp",
+              "local_path": "images/vinfast/vf-9/vf-9/plus-front-three-quarter.jpg",
+              "credit": "VinFast Auto, LLC",
+              "is_shared_with_trim_family": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://vinfastauto.us/investor-relations/news/vinfast-begins-us-deliveries-of-vf-9-all-electric-with-limited-time-special",
+            "destination_fee": "https://vinfastauto.us/vf-8-offer-terms",
+            "ev_specifics": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47488",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47488",
+            "performance.zero_to_60_sec": "https://static-cms-prod.vinfastauto.us/cms-vinfast-us/Specs/VF-9-Spec.pdf",
+            "performance.top_speed_mph": "https://static-cms-prod.vinfastauto.us/cms-vinfast-us/Specs/VF-9-Spec.pdf",
+            "dimensions": "https://static-cms-prod.vinfastauto.us/cms-vinfast-us/Specs/VF-9-Spec.pdf",
+            "features": "https://static-cms-prod.vinfastauto.us/cms-vinfast-us/Specs/VF-9-Spec.pdf",
+            "wheels_tires": "https://static-cms-prod.vinfastauto.us/cms-vinfast-us/Specs/VF-9-Spec.pdf"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "eco",
+            "msrp_delta_usd": 10900,
+            "changes": [
+              "Adds panoramic fixed glass roof (Eco has no sunroof)",
+              "Adds 6-seat captain's-chair second-row layout option (Eco is 7-seat bench only)",
+              "Driver seat upgrades to 12-way power with memory, ventilation, and massage (vs Eco's 8-way power + heated only)",
+              "Front passenger upgrades to 10-way power with ventilation and massage (vs Eco's 6-way power + heated only)",
+              "Adds heated/ventilated/massaging 2nd-row seats; adds 2nd-row 8-way power adjust",
+              "Adds 8-inch rear-seat display on center console",
+              "Adds 3-zone climate control (vs Eco's 2-zone), heated steering wheel with memory",
+              "Adds power-latch soft-close doors, foot-kick logo projector, cornering lights, front fog lamps, rear fog reflector",
+              "21-inch alloy wheels (vs 20-inch on Eco; 22-inch optional aftersales)",
+              "EPA range drops to 291 mi from Eco's 330 mi (same 123 kWh battery; bigger wheels + heavier curb weight drop efficiency)",
+              "Curb weight up to 6,543 lb (7-seat) from Eco's 6,417 lb"
+            ]
+          },
+          "notes": "Step-up trim. Powertrain block null because the 402 hp / 457 lb-ft / AWD electric powertrain is identical to Eco per VinFast spec sheet. Warranty block null because terms are identical. Safety block null because NHTSA/IIHS have not tested the VF 9 — same gap as on Eco (safety values are null on Eco; nothing to delta). EPA range 291 mi from the 2024 MY fueleconomy.gov ID 47488 (verified). EPA also published a 2025 VF 9 Plus entry (ID 49088) at 287 mi which post-dates the manufacturer's currently-marketed 2024 MY listing; using the 2024 MY entry to match the VinFast consumer site's marketed MY. EPA-rated city/highway/combined MPGe (71/66/69) mirrored into fuel_economy per spec §3.6 EV mirroring rule. Plus base MSRP $73,800 from the VinFast November 2024 launch press release; the VinFast consumer site does not currently split Plus pricing out from the Eco's '$62,900 starting' headline. Curb weight 6,543 lb is the 7-seat config per VinFast spec sheet; 6-seat captain's-chair config is 6,523 lb. Destination fee shared with VF 8 offer-terms page ($1,390); a dedicated VF 9 offer-terms page redirects to the consumer-vehicle page as of May 2026."
+        }
+      ],
+      "researched_at": "2026-05-15",
+      "notes": "All VF 9 US units assembled in Hai Phong, Vietnam (the planned Chatham County, NC plant remains delayed; per March 2026 VinFast financials, construction resumes 2026 with start of production targeting 2028). Both trims share trim_family 'vf-9' (identical exterior styling). Image set is shared across the family. The current US-marketed model year is 2024 per the manufacturer consumer page; EPA has published a 2025 VF 9 Plus entry (ID 49088, 287 mi range) but the VF 9 Eco still appears only as 2024 MY in EPA's database — so 2024 is the current primary marketing year. NHTSA and IIHS have not crash-tested the VF 9; safety ratings are null per honesty rules. Plus MSRP $73,800 sourced from VinFast's November 2024 US-delivery launch press release; the consumer page currently advertises 'From $62,900' (Eco) without explicitly listing the Plus's separate MSRP, so the historical launch press release is the most recent VinFast-published Plus-specific MSRP."
+    }
+  ]
+}

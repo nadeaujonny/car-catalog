@@ -1,0 +1,74 @@
+Reset 83 image entries with needs_scraping:true to their model page URLs.
+Brand: mazda
+Models in JSON: 12
+Models with page URLs: 12
+Playwright fallback: enabled
+
+Scraping 12 model pages…
+
+  fetch https://www.mazdausa.com/vehicles/mazda3-sedan  …  static ok (372 raw candidates)
+  fetch https://www.mazdausa.com/vehicles/mazda3-hatchback  …  static ok (373 raw candidates)
+  fetch https://www.mazdausa.com/vehicles/cx-30  …  static ok (469 raw candidates)
+  fetch https://www.mazdausa.com/vehicles/cx-5  …  static ok (435 raw candidates)
+  fetch https://www.mazdausa.com/vehicles/cx-50  …  static ok (479 raw candidates)
+  fetch https://www.mazdausa.com/vehicles/cx-50-hybrid  …  static ok (365 raw candidates)
+  fetch https://www.mazdausa.com/vehicles/cx-70  …  static ok (434 raw candidates)
+  fetch https://www.mazdausa.com/vehicles/cx-70-phev  …  static ok (288 raw candidates)
+  fetch https://www.mazdausa.com/vehicles/cx-90  …  static ok (455 raw candidates)
+  fetch https://www.mazdausa.com/vehicles/cx-90-phev  …  static ok (370 raw candidates)
+  fetch https://www.mazdausa.com/vehicles/mx-5-miata  …  static ok (363 raw candidates)
+  fetch https://www.mazdausa.com/vehicles/mx-5-miata-rf  …  static ok (338 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          mazda
+Pages attempted:                12
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 12
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        38
+  via text/URL pattern match:   38
+  via positional fallback:      0
+Image entries unchanged:        46
+
+Sample rewrites:
+  [10.0] mazda3-sedan/2-5-s/interior_dashboard
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-sedan/01_vlp/002_design/c_small-gallery/desktop/2026-m3-sedan-desktop-gallery-002.jpg?w={width}
+  [10.0] mazda3-sedan/2-5-turbo-premium-plus/interior_dashboard
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-sedan/01_vlp/002_design/c_small-gallery/desktop/2026-m3-sedan-desktop-gallery-002.jpg?w={width}
+  [9.3] mazda3-hatchback/2-5-s/rear_three_quarter
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-hatchback/01_vlp/005_safety/b_safety-large-carousel/2026-mazda-3-hatchback-safety-rear-cross-traffic-alert?w=1800
+  [6.9] mazda3-hatchback/2-5-s/interior_dashboard
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-hatchback/04_btv/003_interior/interior-360s/01_2.5-s/41w-jet-black-mica---black-cloth/i360-my25-m3hb-jetblackmica-blackcloth-1.jpg
+  [9.3] mazda3-hatchback/2-5-s-premium/rear_three_quarter
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-hatchback/01_vlp/005_safety/b_safety-large-carousel/2026-mazda-3-hatchback-safety-rear-cross-traffic-alert?w=1800
+  [6.9] mazda3-hatchback/2-5-s-premium/interior_dashboard
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-hatchback/04_btv/003_interior/interior-360s/01_2.5-s/41w-jet-black-mica---black-cloth/i360-my25-m3hb-jetblackmica-blackcloth-1.jpg
+  [9.3] mazda3-hatchback/2-5-turbo-premium-plus/rear_three_quarter
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-hatchback/01_vlp/005_safety/b_safety-large-carousel/2026-mazda-3-hatchback-safety-rear-cross-traffic-alert?w=1800
+  [6.9] mazda3-hatchback/2-5-turbo-premium-plus/interior_dashboard
+        → https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-hatchback/04_btv/003_interior/interior-360s/01_2.5-s/41w-jet-black-mica---black-cloth/i360-my25-m3hb-jetblackmica-blackcloth-1.jpg
+  [9.3] cx-30/2-5-s/rear_three_quarter
+        → https://www.mazdausa.com/siteassets/vehicles/2026/cx-30/01_vlp/005_safety/a_large-carousel/desktop/safety-illustrations_smart-brake-support-with-rear-crossing-desktop.jpg?w=1800
+  [9.0] cx-30/2-5-s/interior_dashboard
+        → https://www.mazdausa.com/siteassets/vehicles/2026/cx-30/01_vlp/002_design/a_large-carousel/desktop/2026-cx30-desktop-carousel-002.jpg
+  [9.3] cx-30/2-5-turbo-aire-edition/rear_three_quarter
+        → https://www.mazdausa.com/siteassets/vehicles/2026/cx-30/01_vlp/005_safety/a_large-carousel/desktop/safety-illustrations_smart-brake-support-with-rear-crossing-desktop.jpg?w=1800
+  [9.0] cx-30/2-5-turbo-aire-edition/interior_dashboard
+        → https://www.mazdausa.com/siteassets/vehicles/2026/cx-30/01_vlp/002_design/a_large-carousel/desktop/2026-cx30-desktop-carousel-002.jpg
+
+Models with unresolved angles:
+  mazda3-sedan: 6 entries  (e.g. 2-5-s/front_three_quarter, 2-5-s/rear_three_quarter, 2-5-s/side_profile)
+  mazda3-hatchback: 6 entries  (e.g. 2-5-s/front_three_quarter, 2-5-s/side_profile, 2-5-s-premium/front_three_quarter)
+  cx-30: 4 entries  (e.g. 2-5-s/front_three_quarter, 2-5-s/side_profile, 2-5-turbo-aire-edition/front_three_quarter)
+  cx-5: 2 entries  (e.g. 2-5-s/rear_three_quarter, 2-5-s/side_profile)
+  cx-50: 4 entries  (e.g. 2-5-s-select/front_three_quarter, 2-5-s-select/side_profile, 2-5-turbo/front_three_quarter)
+  cx-50-hybrid: 2 entries  (e.g. hybrid-preferred/front_three_quarter, hybrid-preferred/side_profile)
+  cx-70: 4 entries  (e.g. 3-3-turbo-preferred/rear_three_quarter, 3-3-turbo-preferred/side_profile, 3-3-turbo-s-premium/rear_three_quarter)
+  cx-70-phev: 3 entries  (e.g. phev-sc/front_three_quarter, phev-sc/rear_three_quarter, phev-sc/side_profile)
+  cx-90: 4 entries  (e.g. 3-3-turbo-select/rear_three_quarter, 3-3-turbo-select/side_profile, 3-3-turbo-s-premium-sport/rear_three_quarter)
+  cx-90-phev: 3 entries  (e.g. phev-preferred/front_three_quarter, phev-preferred/rear_three_quarter, phev-preferred/side_profile)
+  mx-5-miata: 2 entries  (e.g. sport/side_profile, grand-touring-6at/side_profile)
+  mx-5-miata-rf: 6 entries  (e.g. grand-touring-6mt/front_three_quarter, grand-touring-6mt/rear_three_quarter, grand-touring-6mt/side_profile)

@@ -1,0 +1,18 @@
+{
+  "brand": "Mazda",
+  "brand_slug": "mazda",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 12,
+  "trim_count": 57,
+  "total_images": 84,
+  "needs_scraping": 83,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 0,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [],
+  "fyis": []
+}

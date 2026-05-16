@@ -1,0 +1,548 @@
+{
+  "brand": "Jaguar",
+  "brand_slug": "jaguar",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "F-PACE",
+      "model_slug": "f-pace",
+      "model_year": 2026,
+      "body_style": "suv-compact",
+      "generation_context": "1st-gen (X761), introduced 2016; 2021 mid-cycle refresh (current shape, interior redesign, Pivi Pro infotainment); 2026 is the final model year — last F-PACE was built at Solihull on December 19, 2025, also marking the end of Jaguar ICE production",
+      "msrp_range": {
+        "low": 57000,
+        "high": 92400
+      },
+      "model_summary": "The F-PACE is Jaguar's compact luxury SUV and the final ICE Jaguar nameplate sold new in the US. The MY26 lineup is a three-trim final run while the brand transitions to an EV-only repositioning: P250 R-Dynamic S (turbo I4), P400 R-Dynamic S (mild-hybrid inline-six), and SVR 575 Edition (supercharged V8). All trims share the EVA 2.0 architecture, standard AWD, 8-speed automatic, an 11.4-inch Pivi Pro infotainment screen, and Jaguar EliteCare warranty.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "Jaguar does not appear in the published JD Power 2026 VDS premium-brand rankings released February 2026 (Lexus 151 PP100, Cadillac 175 PP100, Porsche 182 PP100 led the segment; premium-segment average 217 PP100), reflecting Jaguar's low US sales volume. The 2023 VDS recorded Jaguar at 229 PP100 — below the premium-segment average and toward the bottom of the rankings. Consumer Reports also has insufficient survey sample to publish a numeric predicted-reliability score and notes only that it 'expects the 2025 F-Pace to be less reliable than other new cars' based on brand history. The F-PACE has had recalls in MY24 for an oil filter housing crack and Near Field Sensing Module overheating.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds",
+          "https://www.consumerreports.org/cars/jaguar/f-pace/2025/reliability/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Jaguar F-PACE or for the Jaguar brand overall.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently call the F-PACE one of the most engaging-to-drive luxury crossovers, citing precise steering, well-tuned brakes, the smooth I6 MHEV powertrain, and the SVR's V8 character. The most common criticism is that the infotainment system and material quality lag newer rivals, and the base I4 P250 is the weakest powertrain choice. The MY26 'final year' status is widely acknowledged as the SUV concludes Jaguar's ICE era.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/jaguar/f-pace/",
+            "date": "2026-04-01"
+          },
+          {
+            "publication": "Kelley Blue Book",
+            "url": "https://www.kbb.com/jaguar/f-pace/",
+            "date": "2026-04-01"
+          },
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/jaguar/f-pace",
+            "date": "2026-03-15"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": 4,
+        "edmunds_sample_size": 26,
+        "kbb_star_rating": 4.6,
+        "kbb_sample_size": null,
+        "summary": "Owners praise the F-PACE's interior luxury, sporty handling, and distinctive British styling. Common complaints center on infotainment glitches and repair frequency — multiple reviewers reported reliability problems that required repeated dealer visits.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.edmunds.com/jaguar/f-pace/2026/consumer-reviews/",
+          "https://www.kbb.com/jaguar/f-pace/2026/consumer-reviews/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "P250 R-Dynamic S",
+          "trim_slug": "p250-r-dynamic-s",
+          "trim_family": "p250-r-dynamic-s",
+          "is_base_trim": true,
+          "msrp_base": 57000,
+          "destination_fee": 1375,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 246,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 269,
+            "transmission": "8-speed automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 22,
+            "highway_mpg": 27,
+            "combined_mpg": 24,
+            "fuel_tank_gal": 21.9,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2900
+          },
+          "performance": {
+            "zero_to_60_sec": 6.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 135,
+            "towing_capacity_lb": 5291,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 186.9,
+            "width_in": 81.5,
+            "height_in": 65.5,
+            "wheelbase_in": 113.1,
+            "ground_clearance_in": 8.4,
+            "curb_weight_lb": 4017,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 32.1,
+              "behind_1st_row": 70.4,
+              "max_with_seats_folded": 70.4,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "255/55R19"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 11.4,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Meridian 400W 12-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "3D Surround Camera with bird's-eye view and Park Assist",
+              "Wi-Fi hotspot capability",
+              "Configurable Dynamics with JaguarDrive Control modes",
+              "Cabin air ionization",
+              "Active road-noise cancellation",
+              "19-inch alloy wheels standard"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "5yr/60k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "6yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://media.production.jlrms.com/2022-12-12/image/797da9d4-b0f3-4c1d-8acb-17bd4352c125/Jag_F-PACE_24MY_Exterior_05_Front_GL_003_PR_141222.jpg",
+              "local_path": "images/jaguar/f-pace/p250-r-dynamic-s/front_three_quarter.jpg",
+              "credit": "Jaguar Land Rover Media Centre",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://media.production.jlrms.com/2024-05-13/image/525a7e7d-1dfc-4972-9eb1-0453faa24800/F-PACE-90th-rear34.jpg",
+              "local_path": "images/jaguar/f-pace/p250-r-dynamic-s/rear_three_quarter.jpg",
+              "credit": "Jaguar Land Rover Media Centre",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://media.production.jlrms.com/2022-12-12/image/90a550c4-3954-4e44-b17a-cddecb609e39/Jag_F-PACE_24MY_Exterior_04_Side_GL_059_DX_141222.jpg",
+              "local_path": "images/jaguar/f-pace/p250-r-dynamic-s/side_profile.jpg",
+              "credit": "Jaguar Land Rover Media Centre",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://media.production.jlrms.com/2022-12-12/image/b12021b0-4fc2-4ed6-b631-dc97c5e0d0ea/Jag_F-PACE_24MY_Interior_01_GL_015_141222.jpg",
+              "local_path": "images/jaguar/f-pace/p250-r-dynamic-s/interior_dashboard.jpg",
+              "credit": "Jaguar Land Rover Media Centre",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.jaguar.com/en-us/jdx/all-models/f-pace/models/index.html",
+            "powertrain": "https://www.jaguar.com/en-us/jdx/all-models/f-pace/models/index.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48985",
+            "performance.zero_to_60_sec": "https://www.jaguar.com/en-us/jdx/all-models/f-pace/models/index.html",
+            "dimensions": "https://www.jaguar-jordan.com/en/jaguar-range/25my/f-pace/specifications",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2025/Jaguar/F-PACE",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.jaguar.com/en-us/jdx/all-models/f-pace/explore/index.html",
+            "warranty": "https://www.jaguarusa.com/ownership/service-warranties/limited-warranty.html"
+          },
+          "delta_from_base": null,
+          "notes": "Base of the P250 (2.0L I4 turbo, ICE) powertrain line; singleton trim_family per sole-trim atomic rule (is_base_trim:true, delta_from_base:null). NHTSA and IIHS have not crash-tested the current Jaguar F-PACE (low-volume luxury SUV) — overall and TSP ratings set to null per spec convention for unrated low-volume vehicles. EuroNCAP gave the F-PACE 5 stars but Euro testing is not equivalent to US testing. Dimensions sourced from Jaguar Jordan 25MY spec sheet (mirrored from JLR global spec template; jaguar.com/en-us specifications page returns 'information unavailable'). Curb weight from iSeeCars database aggregation since neither the US Jaguar site nor the EU spec sheet publishes a US-spec curb weight in pounds. CarPlay/Android Auto are wireless per the 2024 mid-cycle update press release."
+        },
+        {
+          "trim": "P400 R-Dynamic S",
+          "trim_slug": "p400-r-dynamic-s",
+          "trim_family": "p400-r-dynamic-s",
+          "is_base_trim": true,
+          "msrp_base": 66500,
+          "destination_fee": 1375,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3,
+            "engine_config": "I6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 395,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 406,
+            "transmission": "8-speed automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 19,
+            "highway_mpg": 25,
+            "combined_mpg": 21,
+            "fuel_tank_gal": 21.9,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3300
+          },
+          "performance": {
+            "zero_to_60_sec": 5.1,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 155,
+            "towing_capacity_lb": 5291,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 186.9,
+            "width_in": 81.5,
+            "height_in": 65.5,
+            "wheelbase_in": 113.1,
+            "ground_clearance_in": 8.4,
+            "curb_weight_lb": 4306,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 32.1,
+              "behind_1st_row": 70.4,
+              "max_with_seats_folded": 70.4,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/50R20"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 11.4,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Meridian 400W 13-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Mild-hybrid 48V system with belt-integrated starter-generator",
+              "Adaptive Dynamics electronic dampers standard",
+              "Configurable Programs custom drive mode",
+              "20-inch alloy wheels standard",
+              "3D Surround Camera with Park Assist",
+              "Active road-noise cancellation",
+              "Cabin air ionization"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "5yr/60k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "6yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://media.production.jlrms.com/2022-12-12/image/587c754c-ced1-4dc6-bd8b-71728060c06f/Jag_F-PACE_24MY_Exterior_01_RDynamic_HSE_GL_022_141222.jpg",
+              "local_path": "images/jaguar/f-pace/p400-r-dynamic-s/front_three_quarter.jpg",
+              "credit": "Jaguar Land Rover Media Centre",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.jaguar.com/en-us/jdx/all-models/f-pace/models/index.html",
+              "local_path": "images/jaguar/f-pace/p400-r-dynamic-s/rear_three_quarter.jpg",
+              "credit": "Jaguar USA",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://media.production.jlrms.com/2022-12-12/image/3fbdf726-b462-4ba6-a725-46813309df70/Jag_F-PACE_24MY_Exterior_07_Side_GL_002_141222.jpg",
+              "local_path": "images/jaguar/f-pace/p400-r-dynamic-s/side_profile.jpg",
+              "credit": "Jaguar Land Rover Media Centre",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://media.production.jlrms.com/2022-12-12/image/3132f720-d97b-41a4-a2e6-eef45166cfc8/Jag_F-PACE_24MY_Interior_02_GL_057_141222.jpg",
+              "local_path": "images/jaguar/f-pace/p400-r-dynamic-s/interior_dashboard.jpg",
+              "credit": "Jaguar Land Rover Media Centre",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.jaguar.com/en-us/jdx/all-models/f-pace/models/index.html",
+            "powertrain": "https://www.jaguar.com/en-us/jdx/all-models/f-pace/models/index.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48986",
+            "performance.zero_to_60_sec": "https://www.jaguar.com/en-us/jdx/all-models/f-pace/models/index.html",
+            "dimensions": "https://www.jaguar-jordan.com/en/jaguar-range/25my/f-pace/specifications",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2025/Jaguar/F-PACE",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.jaguar.com/en-us/jdx/all-models/f-pace/explore/index.html",
+            "warranty": "https://www.jaguarusa.com/ownership/service-warranties/limited-warranty.html"
+          },
+          "delta_from_base": null,
+          "notes": "Base of the P400 (3.0L I6 twin-turbo+supercharged 48V MHEV, ICE) powertrain line — separate line from the P250 because the engine architecture and tuning are fundamentally different (Ingenium inline-six twin-charged MHEV vs Ingenium I4 turbo). Per project convention 48V MHEV is classified as powertrain.type='ice'. Singleton trim_family per sole-trim atomic rule (is_base_trim:true, delta_from_base:null). Rear three-quarter image is a Jaguar USA gallery page placeholder flagged needs_scraping — JLR media centre exterior pack does not include a publishable rear three-quarter for the standard (non-SVR, non-90th-Anniversary) F-PACE."
+        },
+        {
+          "trim": "SVR 575 Edition",
+          "trim_slug": "svr-575-edition",
+          "trim_family": "svr-575-edition",
+          "is_base_trim": true,
+          "msrp_base": 92400,
+          "destination_fee": 1375,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 5,
+            "engine_config": "V8",
+            "aspiration": "supercharged",
+            "horsepower_hp": 567,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 516,
+            "transmission": "8-speed automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 15,
+            "highway_mpg": 21,
+            "combined_mpg": 17,
+            "fuel_tank_gal": 21.9,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4050
+          },
+          "performance": {
+            "zero_to_60_sec": 3.8,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 178,
+            "towing_capacity_lb": 5291,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 186.9,
+            "width_in": 81.5,
+            "height_in": 65.5,
+            "wheelbase_in": 113.1,
+            "ground_clearance_in": 8.4,
+            "curb_weight_lb": 4537,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 32.1,
+              "behind_1st_row": 70.4,
+              "max_with_seats_folded": 70.4,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "265/40R22 front, 295/35R22 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 11.4,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Meridian 17-speaker surround",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Variable Valve Active Exhaust System",
+              "14-way Performance front seats with heating and ventilation",
+              "Heated rear seats",
+              "Gesture-activated tailgate",
+              "EVA 2.0 architecture with recalibrated handling and throttle response",
+              "Dynamic Launch feature",
+              "22-inch forged alloy wheels with Diamond Turned finish and Satin Technical Grey contrast",
+              "Carbon fiber and suede interior trim accents",
+              "SVR-specific bodywork: performance front bumper, hood vents, fender vents, rear bumper with quad exhausts",
+              "Black Exterior Pack (gloss-black grille surround and bonnet louvres) standard"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "5yr/60k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "6yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://media.production.jlrms.com/2024-05-13/image/d02ea300-519e-4066-a957-1ab034b28e4e/F-PACE-SVR-front34.jpg",
+              "local_path": "images/jaguar/f-pace/svr-575-edition/front_three_quarter.jpg",
+              "credit": "Jaguar Land Rover Media Centre",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://media.production.jlrms.com/2024-05-13/image/96aaad5e-17fe-4c7c-9cdc-82ac90059860/F-PACE-SVR-rear34.jpg",
+              "local_path": "images/jaguar/f-pace/svr-575-edition/rear_three_quarter.jpg",
+              "credit": "Jaguar Land Rover Media Centre",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://media.production.jlrms.com/2024-05-13/image/8085da39-f9ca-4691-98bf-8e01e3cc542b/F-PACE-SVR-side.jpg",
+              "local_path": "images/jaguar/f-pace/svr-575-edition/side_profile.jpg",
+              "credit": "Jaguar Land Rover Media Centre",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://media.production.jlrms.com/2024-05-13/image/55368974-aebd-4f1f-b2a8-fb01db7a096b/F-PACE-SVR-Interior.jpg",
+              "local_path": "images/jaguar/f-pace/svr-575-edition/interior_dashboard.jpg",
+              "credit": "Jaguar Land Rover Media Centre",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.jaguar.com/en-us/jdx/all-models/f-pace/models/index.html",
+            "powertrain": "https://www.jaguar.com/en-us/jdx/about-jaguar/special-vehicle-operations/f-pace-svr-575-edition.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48987",
+            "performance.zero_to_60_sec": "https://www.jaguar.com/en-us/jdx/about-jaguar/special-vehicle-operations/f-pace-svr-575-edition.html",
+            "dimensions": "https://www.jaguar-jordan.com/en/jaguar-range/25my/f-pace/specifications",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2025/Jaguar/F-PACE",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://media.jaguar.com/news/2024/05/f-pace-90th-anniversary-edition-celebrates-nine-decades-jaguar-innovation-0",
+            "warranty": "https://www.jaguarusa.com/ownership/service-warranties/limited-warranty.html"
+          },
+          "delta_from_base": null,
+          "notes": "Base of the SVR (5.0L V8 supercharged, ICE) performance line — separate powertrain line per project convention for high-output specialty performance variants (analogous to BMW M50, AMG, etc.). Jaguar SVO markets it as a dedicated Special Vehicle Operations product with its own page on jaguar.com (dedicated bodywork, suspension, exhaust, interior, EVA 2.0 architecture). Singleton trim_family per sole-trim atomic rule (is_base_trim:true, delta_from_base:null). 575 PS = 567 hp SAE. NHTSA and IIHS have not crash-tested the SVR (low-volume specialty performance variant) — null per spec convention. The 5.0L AJ133 supercharged V8 was the final V8 engine in Jaguar production; the last F-PACE SVR rolled off Solihull December 19, 2025. Some dealers list a parallel 'SVR 575 Final Edition' at $95,000 MSRP for late-build units (a $2,600 premium); the Jaguar US consumer site shows only 'SVR 575 Edition' as the trim name, so this catalog records only the manufacturer-listed SVR 575 Edition. The Jaguar Australia-exclusive 'SVR 575 Ultimate Edition' (60 units) is not sold in the US."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Final model year of the F-PACE — last F-PACE was built at JLR Solihull on December 19, 2025, marking the end of Jaguar ICE production worldwide. The MY26 US lineup is a three-trim catalog (P250 R-Dynamic S, P400 R-Dynamic S, SVR 575 Edition); all three are treated as singleton trim_families and is_base_trim:true with delta_from_base:null per the sole-trim atomic rule and Land Rover precedent for three distinct powertrain lines (P250 I4 turbo, P400 I6 MHEV, SVR V8 supercharged — all classified as powertrain.type='ice' per project convention that 48V MHEV is ICE). The 'SVR 575 Final Edition' label seen at $95,000 on some dealer pages and on Edmunds is not a separately-listed manufacturer trim on jaguar.com/en-us — it appears to be a dealer/aggregator label for late-allocation SVR 575 Edition units and was not treated as a fourth trim here. The 90th Anniversary Edition referenced in Jaguar's May 2024 press release is a European option pack with diesel MHEV and PHEV powertrains and was not offered in the US. Dimensions and weights sourced from a combination of Jaguar Jordan 25MY spec sheet (mirroring JLR global) and the iSeeCars aggregated spec database since the US jaguar.com Specifications page returns 'information unavailable' as of the research date. All three trims are AWD with the 8-speed ZF automatic. Jaguar's brand identity is mid-transition to EV-only ('Copy Nothing. The New Era Begins'); the Type 01 GT EV is targeted to debut in summer 2026 with initial deliveries to follow, but as of 2026-05-13 the Type 01 is not yet on sale and the F-PACE is the only Jaguar nameplate currently bookable on jaguar.com/en-us. XE, XF, F-TYPE production ended mid-2024; E-PACE and I-PACE production ended December 2024 — none are 2026 model-year vehicles per EPA fueleconomy.gov."
+    }
+  ]
+}

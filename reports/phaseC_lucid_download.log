@@ -1,0 +1,48 @@
+Brand: lucid
+Found 24 image entries across 2 models.
+
+[1/24] air/pure/front_three_quarter  ok (19778 bytes, image/webp)
+[2/24] air/pure/rear_three_quarter  ok (158044 bytes, image/webp)
+[3/24] air/pure/side_profile  ok (122958 bytes, image/webp)
+[4/24] air/pure/interior_dashboard  ok (186686 bytes, image/webp)
+[5/24] air/touring/front_three_quarter  ok (19778 bytes, image/webp)
+[6/24] air/touring/rear_three_quarter  ok (158044 bytes, image/webp)
+[7/24] air/touring/side_profile  ok (122958 bytes, image/webp)
+[8/24] air/touring/interior_dashboard  ok (186686 bytes, image/webp)
+[9/24] air/grand-touring/front_three_quarter  ok (19778 bytes, image/webp)
+[10/24] air/grand-touring/rear_three_quarter  ok (158044 bytes, image/webp)
+[11/24] air/grand-touring/side_profile  ok (122958 bytes, image/webp)
+[12/24] air/grand-touring/interior_dashboard  ok (186686 bytes, image/webp)
+[13/24] air/sapphire/front_three_quarter  ok (19778 bytes, image/webp)
+[14/24] air/sapphire/rear_three_quarter  ok (158044 bytes, image/webp)
+[15/24] air/sapphire/side_profile  ok (122958 bytes, image/webp)
+[16/24] air/sapphire/interior_dashboard  ok (186686 bytes, image/webp)
+[17/24] gravity/touring/front_three_quarter  ok (273072 bytes, image/webp)
+[18/24] gravity/touring/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[19/24] gravity/touring/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[20/24] gravity/touring/interior_dashboard  ok (120596 bytes, image/webp)
+[21/24] gravity/grand-touring/front_three_quarter  ok (273072 bytes, image/webp)
+[22/24] gravity/grand-touring/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[23/24] gravity/grand-touring/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[24/24] gravity/grand-touring/interior_dashboard  ok (120596 bytes, image/webp)
+
+Updated catalog/data/lucid.json and data/lucid.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  lucid
+Total images attempted: 24
+Successful:             20 (83.3%)
+Failed:                 4
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 4
+
+Models with zero successful images: 0 of 2
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html; charset=utf-8)] x4 — e.g. https://lucidmotors.com/gravity

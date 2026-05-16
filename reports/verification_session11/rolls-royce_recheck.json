@@ -1,0 +1,36 @@
+﻿{
+  "brand": "Rolls-Royce",
+  "brand_slug": "rolls-royce",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 7,
+  "trim_count": 9,
+  "total_images": 38,
+  "needs_scraping": 38,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 2,
+  "warning_count": 0,
+  "fyi_count": 2,
+  "blockers": [
+    {
+      "title": "msrp_base is null",
+      "where": "models[0].trims[1] (phantom/phantom-extended)"
+    },
+    {
+      "title": "msrp_base is null",
+      "where": "models[1].trims[1] (ghost/ghost-extended)"
+    }
+  ],
+  "warnings": [],
+  "fyis": [
+    {
+      "title": "Null msrp_base — ultra-luxury non-disclosure (documented in notes)",
+      "where": "models[0].trims[0] (phantom/phantom)"
+    },
+    {
+      "title": "Null msrp_base — ultra-luxury non-disclosure (documented in notes)",
+      "where": "models[4].trims[0] (spectre-black-badge/black-badge-spectre)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "brand": "Lamborghini",
+  "brand_slug": "lamborghini",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 3,
+  "trim_count": 3,
+  "total_images": 12,
+  "needs_scraping": 12,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 0,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [],
+  "fyis": []
+}

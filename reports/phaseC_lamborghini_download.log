@@ -1,0 +1,39 @@
+Brand: lamborghini
+Found 12 image entries across 3 models.
+
+[1/12] revuelto/revuelto/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[2/12] revuelto/revuelto/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[3/12] revuelto/revuelto/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[4/12] revuelto/revuelto/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[5/12] temerario/temerario/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[6/12] temerario/temerario/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[7/12] temerario/temerario/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[8/12] temerario/temerario/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[9/12] urus-se/urus-se/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[10/12] urus-se/urus-se/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[11/12] urus-se/urus-se/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[12/12] urus-se/urus-se/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+
+No downloads succeeded — JSON files left untouched.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  lamborghini
+Total images attempted: 12
+Successful:             0 (0.0%)
+Failed:                 12
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 12
+
+Models with zero successful images: 3 of 3
+  - revuelto (4 attempted)
+  - temerario (4 attempted)
+  - urus-se (4 attempted)
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html; charset=utf-8)] x12 — e.g. https://www.lamborghini.com/en-en/models/revuelto

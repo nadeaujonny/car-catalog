@@ -1,0 +1,15 @@
+{
+  "brand_slug": "chrysler",
+  "notes": "chrysler.com is the consumer site (returned 403 to WebFetch during Phase 1 research; image assets served from s3.amazonaws.com/chryslermedia.iconicweb.com via Stellantis press CDN). Pacifica and Pacifica Hybrid share the same /pacifica.html URL but research treated them as distinct models (ICE vs PHEV powertrain split). Pacifica Hybrid model_page points at the model-compare PHEV URL where dedicated PHEV imagery exists. Voyager LX is a sole-trim minivan.",
+  "model_pages": {
+    "pacifica":         "https://www.chrysler.com/pacifica.html",
+    "pacifica-hybrid":  "https://www.chrysler.com/model-compare.pacifica_hybrid.2026.html",
+    "voyager":          "https://www.chrysler.com/voyager.html"
+  },
+  "slug_variants": {
+    "pacifica":        ["pacifica", "pac"],
+    "pacifica-hybrid": ["pacifica-hybrid", "pacifica_hybrid", "pacificahybrid", "pacifica-phev", "pac-hybrid", "pac-phev"],
+    "voyager":         ["voyager", "voy", "voyager-lx"]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb|fox-factory-logo)"
+}

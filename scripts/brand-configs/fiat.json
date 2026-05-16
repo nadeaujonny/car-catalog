@@ -1,0 +1,11 @@
+{
+  "brand_slug": "fiat",
+  "notes": "fiatusa.com is the consumer site (returned 403 to WebFetch during Phase 1; press kit URLs on media.stellantisnorthamerica.com used as fallback). 500e is the entire US lineup. The MY26 trims are Pop and Icona. Stellantis press CDN: s3.amazonaws.com/chryslermedia.iconicweb.com. Two consumer pages exist (per-trim) — model_pages uses the 500e-pop URL since Pop is the base and the gallery is fuller; Icona shares the same page convention but is at /models/500e-icona.",
+  "model_pages": {
+    "500e": "https://www.fiatusa.com/models/500e-icona"
+  },
+  "slug_variants": {
+    "500e": ["500e", "500-e", "500_e", "fiat-500e", "fiat500e", "500"]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

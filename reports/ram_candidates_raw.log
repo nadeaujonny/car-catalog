@@ -1,0 +1,347 @@
+# Ram candidate dump — generated 2026-05-15T22:07:33.704Z
+# Loaded slug_variants for: ram-1500, ram-2500, ram-3500
+#   ram-1500: ["ram-1500","ram_1500","ram 1500","ram1500","1500"]
+#   ram-2500: ["ram-2500","ram_2500","ram 2500","ram2500","2500"]
+#   ram-3500: ["ram-3500","ram_3500","ram 3500","ram3500","3500"]
+
+========================================================================
+# MODEL: ram-1500
+# URL:   https://www.ramtrucks.com/ram-1500.html
+# variants used: ["ram-1500","ram_1500","ram 1500","ram1500","1500"]
+========================================================================
+# finalUrl: https://www.ramtrucks.com/ram-1500.html
+# html bytes: 458194
+# raw candidates (NOT deduped, total): 32
+# raw candidates (deduped by URL): 22
+# slug-matching with current variants (deduped): 21
+# slug-matching with current variants (NOT deduped): 28
+# host histogram:
+#     22  www.ramtrucks.com
+# top URL-path tokens:
+#     22  content
+#     22  dam
+#     22  fca
+#     22  brands
+#     22  ramtrucks
+#     22  ram
+#     21  1500
+#     18  my26
+#     14  feature
+#     14  panel
+#     14  image
+#     13  overview
+#     12  mobile
+#      7  desktop
+#      7  serious
+#      7  power
+#      7  and
+#      7  capability
+#      7  shared
+#      7  warranty
+#      4  logo
+#      3  vlp
+#      3  logos
+#      3  fox
+#      3  factory
+#      2  slider
+#      2  tablet
+#      1  global
+#      1  header
+#      1  main
+# ALL 22 raw candidates (with slug match + angle hits):
+  [ 1] MISS : https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/global/header/ram-main-nav-logo-black.jpg
+        alt: "Ram logo"
+        src: img@srcset  angles: []
+  [ 2] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg
+        alt: "A silver 2026 Ram 1500 Laramie 4x4 Crew Cab traveling down a highway, towing a skidsteer loader. Limited Warranty—10 Years/100,000 Miles. Declaration of deals S"
+        src: img@src  angles: []
+  [ 3] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/mobile/my26-ram-1500-vlp-slider-01-mobile-v2.jpg
+        alt: "A silver 2026 Ram 1500 Laramie 4x4 Crew Cab traveling down a highway, towing a skidsteer loader. Limited Warranty—10 Years/100,000 Miles. Declaration of deals S"
+        src: img@srcset  angles: []
+  [ 4] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/logos/ram-fox-factory-logo-mobile.png
+        alt: "fox factory vehicles"
+        src: img@srcset  angles: []
+  [ 5] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-feature-panel-serious-power-and-capability-desktop-v1.jpg.image.1440.jpg
+        alt: ""
+        src: img@src  angles: []
+  [ 6] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/mobile/my26-ram-1500-feature-panel-serious-power-and-capability-mobile-v1.jpg.image.500.jpg
+        alt: ""
+        src: img@srcset  angles: []
+  [ 7] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/mobile/my26-ram-1500-feature-panel-serious-power-and-capability-mobile-v1.jpg.image.1000.jpg
+        alt: ""
+        src: img@srcset  angles: []
+  [ 8] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/shared/my26-ram-warranty-feature-panel-desktop.jpg.image.1440.jpg
+        alt: ""
+        src: img@src  angles: []
+  [ 9] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/shared/my26-ram-warranty-feature-panel-mobile.jpg.image.500.jpg
+        alt: ""
+        src: img@srcset  angles: []
+  [10] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/shared/my26-ram-warranty-feature-panel-mobile.jpg.image.1000.jpg
+        alt: ""
+        src: img@srcset  angles: []
+  [11] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/tablet/my26-ram-1500-vlp-slider-01-tablet-v3.jpg
+        alt: ""
+        src: source@srcset  angles: []
+  [12] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/logos/ram-fox-factory-logo-desktop.png
+        alt: ""
+        src: source@srcset  angles: []
+  [13] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/logos/ram-fox-factory-logo-tablet.png
+        alt: ""
+        src: source@srcset  angles: []
+  [14] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-feature-panel-serious-power-and-capability-desktop-v1.jpg.image.2880.jpg
+        alt: ""
+        src: source@srcset  angles: []
+  [15] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/mobile/my26-ram-1500-feature-panel-serious-power-and-capability-mobile-v1.jpg.image.2000.jpg
+        alt: ""
+        src: source@srcset  angles: []
+  [16] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/mobile/my26-ram-1500-feature-panel-serious-power-and-capability-mobile-v1.jpg.image.700.jpg
+        alt: ""
+        src: source@srcset  angles: []
+  [17] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/mobile/my26-ram-1500-feature-panel-serious-power-and-capability-mobile-v1.jpg.image.1400.jpg
+        alt: ""
+        src: source@srcset  angles: []
+  [18] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/shared/my26-ram-warranty-feature-panel-desktop.jpg.image.2880.jpg
+        alt: ""
+        src: source@srcset  angles: []
+  [19] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/shared/my26-ram-warranty-feature-panel-mobile.jpg.image.2000.jpg
+        alt: ""
+        src: source@srcset  angles: []
+  [20] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/shared/my26-ram-warranty-feature-panel-mobile.jpg.image.700.jpg
+        alt: ""
+        src: source@srcset  angles: []
+  [21] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/shared/my26-ram-warranty-feature-panel-mobile.jpg.image.1400.jpg
+        alt: ""
+        src: source@srcset  angles: []
+  [22] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/gallery/desktop/my26-ram-1500-pillars-gallery-thumbnail4-desktop.jpg
+        alt: "naked"
+        src: naked-url  angles: []
+
+# of 21 slug-matched candidates, 0 also match >=1 angle pattern.
+
+# false-positive scan: candidates whose URL contains "1500"/"2500"/"3500"
+#   candidates containing "1500": 21
+#     of those, would match bare-number variant regex: 21
+#       MATCH-IF-BARE: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-vlp-hero-01-desktop-v6.jpg
+#                alt: "A silver 2026 Ram 1500 Laramie 4x4 Crew Cab traveling down a highway, towing a skidsteer loader. Lim"
+#       MATCH-IF-BARE: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/mobile/my26-ram-1500-vlp-slider-01-mobile-v2.jpg
+#                alt: "A silver 2026 Ram 1500 Laramie 4x4 Crew Cab traveling down a highway, towing a skidsteer loader. Lim"
+#       MATCH-IF-BARE: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/logos/ram-fox-factory-logo-mobile.png
+#                alt: "fox factory vehicles"
+#       MATCH-IF-BARE: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/desktop/my26-ram-1500-feature-panel-serious-power-and-capability-desktop-v1.jpg.image.1440.jpg
+#                alt: ""
+#       MATCH-IF-BARE: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/mobile/my26-ram-1500-feature-panel-serious-power-and-capability-mobile-v1.jpg.image.500.jpg
+#                alt: ""
+#       MATCH-IF-BARE: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-1500/overview/mobile/my26-ram-1500-feature-panel-serious-power-and-capability-mobile-v1.jpg.image.1000.jpg
+#                alt: ""
+#   candidates containing "2500": 0
+#     of those, would match bare-number variant regex: 0
+#   candidates containing "3500": 0
+#     of those, would match bare-number variant regex: 0
+
+========================================================================
+# MODEL: ram-2500
+# URL:   https://www.ramtrucks.com/ram-2500.html
+# variants used: ["ram-2500","ram_2500","ram 2500","ram2500","2500"]
+========================================================================
+# finalUrl: https://www.ramtrucks.com/ram-2500.html
+# html bytes: 412239
+# raw candidates (NOT deduped, total): 35
+# raw candidates (deduped by URL): 20
+# slug-matching with current variants (deduped): 19
+# slug-matching with current variants (NOT deduped): 31
+# host histogram:
+#     20  www.ramtrucks.com
+# top URL-path tokens:
+#     20  content
+#     20  dam
+#     20  fca
+#     20  brands
+#     20  ramtrucks
+#     20  ram
+#     19  2500
+#     18  overview
+#     16  my26
+#      9  vlp
+#      9  hero
+#      7  desktop
+#      6  mobile
+#      6  special
+#      6  editions
+#      6  tablet
+#      4  black
+#      3  power
+#      3  wagon
+#      3  diesel
+#      3  warranty
+#      3  lunar
+#      3  express
+#      3  warlock
+#      1  global
+#      1  header
+#      1  main
+#      1  nav
+#      1  logo
+#      1  gallery
+# ALL 20 raw candidates (with slug match + angle hits):
+  [ 1] MISS : https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/global/header/ram-main-nav-logo-black.jpg
+        alt: "Ram logo"
+        src: img@srcset  angles: []
+  [ 2] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-2500-vlp-hero-01-desktop-v4.jpg
+        alt: "A red 2026 Ram 2500 Laramie 4x4 Crew Cab traveling on a highway in the mountains, while towing two ATVs. America's Best Full-Size Truck Powertrain Limited.Warra"
+        src: img@src  angles: []
+  [ 3] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/mobile/my26-ram-2500-vlp-hero-01-mobile-v4.jpg
+        alt: "A red 2026 Ram 2500 Laramie 4x4 Crew Cab traveling on a highway in the mountains, while towing two ATVs. America's Best Full-Size Truck Powertrain Limited.Warra"
+        src: img@srcset  angles: []
+  [ 4] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-power-wagon-diesel-2500-overview-hero-desktop.jpg
+        alt: "A blue 2026 Ram 2500 Power Wagon climbing a rugged trail off-road. Power Wagon. Diesel."
+        src: img@src  angles: []
+  [ 5] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/mobile/my26-ram-power-wagon-diesel-2500-overview-hero-mobile.jpg
+        alt: "A blue 2026 Ram 2500 Power Wagon climbing a rugged trail off-road. Power Wagon. Diesel."
+        src: img@srcset  angles: []
+  [ 6] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/ram-vlp-warranty-hero-desktop.jpg
+        alt: ""
+        src: img@src  angles: []
+  [ 7] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/mobile/ram-vlp-warranty-hero-mobile.jpg
+        alt: ""
+        src: img@srcset  angles: []
+  [ 8] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-lunar-vlp-desktop.jpg
+        alt: "A driver-side front angle of a light gray 2026 Ram 2500 Lunar 4x4 Crew Cab with a dark background of sea and sky after sunset. Lunar."
+        src: img@src  angles: [front_three_quarter:15, side_profile:7]
+  [ 9] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/mobile/my26-ram-lunar-vlp-mobile.jpg
+        alt: "A driver-side front angle of a light gray 2026 Ram 2500 Lunar 4x4 Crew Cab with a dark background of sea and sky after sunset. Lunar."
+        src: img@srcset  angles: [front_three_quarter:15, side_profile:7]
+  [10] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-special-editions-2500-black-express-desktop.jpg
+        alt: "An angled front shot of a white 2026 Ram 2500 Black Express Crew Cab at a park. Black Express."
+        src: img@src  angles: [front_three_quarter:7]
+  [11] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/mobile/my26-ram-special-editions-2500-black-express-mobile.jpg
+        alt: "An angled front shot of a white 2026 Ram 2500 Black Express Crew Cab at a park. Black Express."
+        src: img@srcset  angles: [front_three_quarter:7]
+  [12] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-special-editions-2500-warlock-desktop.jpg
+        alt: "An angled driver-side profile of a gray 2026 Ram 2500 Warlock Crew Cab parked on a trail off-road in the desert. Warlock."
+        src: img@src  angles: [side_profile:30]
+  [13] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/mobile/my26-ram-special-editions-2500-warlock-mobile.jpg
+        alt: "An angled driver-side profile of a gray 2026 Ram 2500 Warlock Crew Cab parked on a trail off-road in the desert. Warlock."
+        src: img@srcset  angles: [side_profile:30]
+  [14] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/tablet/my26-ram-2500-vlp-hero-01-tablet-v4.jpg
+        alt: ""
+        src: source@srcset  angles: []
+  [15] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/tablet/my26-ram-power-wagon-diesel-2500-overview-hero-tablet.jpg
+        alt: ""
+        src: source@srcset  angles: []
+  [16] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/tablet/ram-vlp-warranty-hero-tablet.jpg
+        alt: ""
+        src: source@srcset  angles: []
+  [17] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/tablet/my26-ram-lunar-vlp-tablet.jpg
+        alt: ""
+        src: source@srcset  angles: []
+  [18] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/tablet/my26-ram-special-editions-2500-black-express-tablet-v2.jpg
+        alt: ""
+        src: source@srcset  angles: []
+  [19] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/tablet/my26-ram-special-editions-2500-warlock-tablet-v3.jpg
+        alt: ""
+        src: source@srcset  angles: []
+  [20] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/gallery/desktop/my26-ram-2500-gallery-open-2-d.jpg
+        alt: "naked"
+        src: naked-url  angles: []
+
+# of 19 slug-matched candidates, 6 also match >=1 angle pattern.
+
+# false-positive scan: candidates whose URL contains "1500"/"2500"/"3500"
+#   candidates containing "1500": 0
+#     of those, would match bare-number variant regex: 0
+#   candidates containing "2500": 19
+#     of those, would match bare-number variant regex: 19
+#       MATCH-IF-BARE: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-2500-vlp-hero-01-desktop-v4.jpg
+#                alt: "A red 2026 Ram 2500 Laramie 4x4 Crew Cab traveling on a highway in the mountains, while towing two A"
+#       MATCH-IF-BARE: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/mobile/my26-ram-2500-vlp-hero-01-mobile-v4.jpg
+#                alt: "A red 2026 Ram 2500 Laramie 4x4 Crew Cab traveling on a highway in the mountains, while towing two A"
+#       MATCH-IF-BARE: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/my26-ram-power-wagon-diesel-2500-overview-hero-desktop.jpg
+#                alt: "A blue 2026 Ram 2500 Power Wagon climbing a rugged trail off-road. Power Wagon. Diesel."
+#       MATCH-IF-BARE: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/mobile/my26-ram-power-wagon-diesel-2500-overview-hero-mobile.jpg
+#                alt: "A blue 2026 Ram 2500 Power Wagon climbing a rugged trail off-road. Power Wagon. Diesel."
+#       MATCH-IF-BARE: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/desktop/ram-vlp-warranty-hero-desktop.jpg
+#                alt: ""
+#       MATCH-IF-BARE: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-2500/overview/mobile/ram-vlp-warranty-hero-mobile.jpg
+#                alt: ""
+#   candidates containing "3500": 0
+#     of those, would match bare-number variant regex: 0
+
+========================================================================
+# MODEL: ram-3500
+# URL:   https://www.ramtrucks.com/ram-3500.html
+# variants used: ["ram-3500","ram_3500","ram 3500","ram3500","3500"]
+========================================================================
+# finalUrl: https://www.ramtrucks.com/ram-3500.html
+# html bytes: 327606
+# raw candidates (NOT deduped, total): 14
+# raw candidates (deduped by URL): 7
+# slug-matching with current variants (deduped): 6
+# slug-matching with current variants (NOT deduped): 10
+# host histogram:
+#      7  www.ramtrucks.com
+# top URL-path tokens:
+#      7  content
+#      7  dam
+#      7  fca
+#      7  brands
+#      7  ramtrucks
+#      7  ram
+#      6  3500
+#      6  overview
+#      6  vlp
+#      6  hero
+#      3  my26
+#      3  warranty
+#      2  desktop
+#      2  mobile
+#      2  tablet
+#      1  global
+#      1  header
+#      1  main
+#      1  nav
+#      1  logo
+#      1  black
+# ALL 7 raw candidates (with slug match + angle hits):
+  [ 1] MISS : https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/global/header/ram-main-nav-logo-black.jpg
+        alt: "Ram logo"
+        src: img@srcset  angles: []
+  [ 2] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-3500/overview/desktop/my26-ram-3500-vlp-hero-01-desktop-v2.jpg
+        alt: "A gray 2026 Ram 3500 Limited Longhorn 4x4 Crew Cab towing a large fifth-wheel livestock trailer as it travels down a highway. . America's Best Full-Size Truck P"
+        src: img@src  angles: []
+  [ 3] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-3500/overview/mobile/my26-ram-3500-vlp-hero-01-mobile-v2.jpg
+        alt: "A gray 2026 Ram 3500 Limited Longhorn 4x4 Crew Cab towing a large fifth-wheel livestock trailer as it travels down a highway. . America's Best Full-Size Truck P"
+        src: img@srcset  angles: []
+  [ 4] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-3500/overview/desktop/ram-vlp-warranty-hero-desktop.jpg
+        alt: ""
+        src: img@src  angles: []
+  [ 5] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-3500/overview/mobile/ram-vlp-warranty-hero-mobile.jpg
+        alt: ""
+        src: img@srcset  angles: []
+  [ 6] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-3500/overview/tablet/my26-ram-3500-vlp-hero-01-tablet-v2.jpg
+        alt: ""
+        src: source@srcset  angles: []
+  [ 7] MATCH: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-3500/overview/tablet/ram-vlp-warranty-hero-tablet.jpg
+        alt: ""
+        src: source@srcset  angles: []
+
+# of 6 slug-matched candidates, 0 also match >=1 angle pattern.
+
+# false-positive scan: candidates whose URL contains "1500"/"2500"/"3500"
+#   candidates containing "1500": 0
+#     of those, would match bare-number variant regex: 0
+#   candidates containing "2500": 0
+#     of those, would match bare-number variant regex: 0
+#   candidates containing "3500": 6
+#     of those, would match bare-number variant regex: 6
+#       MATCH-IF-BARE: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-3500/overview/desktop/my26-ram-3500-vlp-hero-01-desktop-v2.jpg
+#                alt: "A gray 2026 Ram 3500 Limited Longhorn 4x4 Crew Cab towing a large fifth-wheel livestock trailer as i"
+#       MATCH-IF-BARE: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-3500/overview/mobile/my26-ram-3500-vlp-hero-01-mobile-v2.jpg
+#                alt: "A gray 2026 Ram 3500 Limited Longhorn 4x4 Crew Cab towing a large fifth-wheel livestock trailer as i"
+#       MATCH-IF-BARE: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-3500/overview/desktop/ram-vlp-warranty-hero-desktop.jpg
+#                alt: ""
+#       MATCH-IF-BARE: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-3500/overview/mobile/ram-vlp-warranty-hero-mobile.jpg
+#                alt: ""
+#       MATCH-IF-BARE: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-3500/overview/tablet/my26-ram-3500-vlp-hero-01-tablet-v2.jpg
+#                alt: ""
+#       MATCH-IF-BARE: https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2026/ram-3500/overview/tablet/ram-vlp-warranty-hero-tablet.jpg
+#                alt: ""

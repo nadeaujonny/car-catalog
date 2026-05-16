@@ -1,0 +1,194 @@
+
+========================================
+### model: g-class
+### page:  https://www.mbusa.com/en/vehicles/class/g-class/suv
+### variants: ["g-class","g_class","gclass","g550","g580","g63"]
+========================================
+Total DOM <img> after render+scroll: 97
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/g-class/class-page/series-(ncm)/2026-G-SUV-HC.jpg
+    alt: G-CLASS SUV
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/465210/X25/iris.png?q=COSY-EU-100-1713d0VXq0WFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaItsd2HdcUfp8yXGEPGEJ0l7YhOB2XQqbApeARI5usmxQC3UkTkzNGLdm7jaSthymI9WFk0cUfzUNXGE7nmJ0lK6xOB2vocbApLHyI5ug41QC3AgQkzN5J9m7jocShKVfBL%25vqE79yLRlN6YaxhrWrH1lb%25n8w2S4oiZT5pM4FmmJTg735wrcldu63yvAKIa9Q6DF1s1n2nvligKfLlCVzWcY54I&BKGND=9&IMGT=P27&POV=be270%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,130,1920,950);Resize,width=1440,height=600
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/465600/X25/iris.png?q=COSY-EU-100-1713d0VXqbWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaItsd2HdcUfp8yXGEPGEJ0l7YhOB2XQqbApeARI5usmxQC3UkTkzNGLdm7jaSthymI9WFk0cUfA9NXGE7nmJ0lKntOB2vaObApLCRI5uEIZQC3ht1kzNetDm7jCGohKVzbL%25vqEAlyLRlNmYaxhrWrH1lM%25n8w2IyoiZT5pM4FmmJTg735wrcldu63yvAwua9Q6DF1s1n2nvligKfLlCVzWcY54I&BKGND=9&IMGT=P27&POV=be270%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,130,1920,950);Resize,width=1440,height=600
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/465250/X25_056/iris.png?q=COSY-EU-100-1713d0VXqbWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtGyUtsd2HQcUfp8fXGEuiYJ0lVohOB2sB2bApvnyI5uOmxQC3igpkzNGzwm7j0yZhKVB%25t%25vqA8lyLRjcHYax4JOroYhfldyCbAp7fyI5ua6YQC3HXFkzN84bm7jivZhKVuhW%25vq33qyLRnbDYaxBNerH1Lmin8wcQboiZ3KIM4FN8lTg9j1O6PDoSpSeWst9tsdVJTcUfqY6XGEOaRJ0loohOBi1aftkV3xb16gL4Ze2rbpldCdcqcgVGB4NPVHF8ukSa0Y&BKGND=9&IMGT=P27&POV=be270%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,130,1920,950);Resize,width=1440,height=600
+    alt: 
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/g-class/class-page/series-(ncm)/2026-G-SUV-EH-1.jpg
+    alt: Iconically timeless
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/plus.png
+    alt: Expand
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/minus.png
+    alt: Collapse
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/g-class/class-page/series-(ncm)/2026-G-SUV-EH-2.jpg
+    alt: Enduringly crafted
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/g-class/class-page/series-(ncm)/2026-G-SUV-EH-3.jpg
+    alt: Functionally fashionable
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/g-class/class-page/series-(ncm)/2026-G-SUV-EH-4.jpg
+    alt: Immeasurably individual
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/g-class/class-page/series-(ncm)/2026-G-SUV-EH-5.jpg
+    alt: Unexpectedly refined
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/left.png
+    alt: Previous
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/right.png
+    alt: Next
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/g-class/class-page/series-(ncm)/2026-G-SUV-IH-1.jpg
+    alt: Indulgent seating
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/g-class/class-page/series-(ncm)/2026-G-SUV-IH-2.jpg
+    alt: Wireless connections
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/g-class/class-page/series-(ncm)/2026-G-SUV-IH-3.jpg
+    alt: Better beverages
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/g-class/class-page/series-(ncm)/2026-G-SUV-IH-4.jpg
+    alt: Immersive sound
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/g-class/class-page/series-(ncm)/2026-G-SUV-IH-5.jpg
+    alt: Extensive customization
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26-g-class/2026-G-SUV-SH-1.jpg
+    alt: Advanced driver assists
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/g-class/class-page/series-(ncm)/2026-G-SUV-SH-2.jpg
+    alt: Easier maneuvering
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26-g-class/2026-G-SUV-SH-3.jpg
+    alt: Eyes on your sides
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26-g-class/2026-G-SUV-SH-4.jpg
+    alt: Watches your back
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/g-class/class-page/series-(ncm)/2026-G-SUV-TH-1.jpg
+    alt: Mercedes-Benz User Experience
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/g-class/class-page/series-(ncm)/2026-G-SUV-TH-2.jpg
+    alt: KEYLESS-GO
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/g-class/class-page/series-(ncm)/2026-G-SUV-TH-3.jpg
+    alt: Visionary capability
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26-g-class/2026-G-SUV-TH-4.jpg
+    alt: The differential difference
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/465210/X25/iris.png?q=COSY-EU-100-1713d0VXq0WFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaItsd2HdcUfp8yXGEPGEJ0l7YhOB2XQqbApeARI5usmxQC3UkTkzNGLdm7jaSthymI9WFk0cUfzUNXGE7nmJ0lK6xOB2vocbApLHyI5ug41QC3AgQkzN5J9m7jocShKVfBL%25vqE79yLRlN6YaxhrWrH1lb%25n8w2S4oiZT5pM4FmmJTg735wrcldu63yvAKIa9Q6DF1s1n2nvligKfLlCVzWcY54I&BKGND=9&IMGT=P27&POV=be040%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/465210/X25/iris.png?q=COSY-EU-100-1713d0VXq0WFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaItsd2HdcUfp8yXGEPGEJ0l7YhOB2XQqbApeARI5usmxQC3UkTkzNGLdm7jaSthymI9WFk0cUfzUNXGE7nmJ0lK6xOB2vocbApLHyI5ug41QC3AgQkzN5J9m7jocShKVfBL%25vqE79yLRlN6YaxhrWrH1lb%25n8w2S4oiZT5pM4FmmJTg735wrcldu63yvAKIa9Q6DF1s1n2nvligKfLlCVzWcY54I&BKGND=9&IMGT=P27&POV=be030%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/465210/X25/iris.png?q=COSY-EU-100-1713d0VXq0WFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaItsd2HdcUfp8yXGEPGEJ0l7YhOB2XQqbApeARI5usmxQC3UkTkzNGLdm7jaSthymI9WFk0cUfzUNXGE7nmJ0lK6xOB2vocbApLHyI5ug41QC3AgQkzN5J9m7jocShKVfBL%25vqE79yLRlN6YaxhrWrH1lb%25n8w2S4oiZT5pM4FmmJTg735wrcldu63yvAKIa9Q6DF1s1n2nvligKfLlCVzWcY54I&BKGND=9&IMGT=P27&POV=be020%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/465210/X25/iris.png?q=COSY-EU-100-1713d0VXq0WFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaItsd2HdcUfp8yXGEPGEJ0l7YhOB2XQqbApeARI5usmxQC3UkTkzNGLdm7jaSthymI9WFk0cUfzUNXGE7nmJ0lK6xOB2vocbApLHyI5ug41QC3AgQkzN5J9m7jocShKVfBL%25vqE79yLRlN6YaxhrWrH1lb%25n8w2S4oiZT5pM4FmmJTg735wrcldu63yvAKIa9Q6DF1s1n2nvligKfLlCVzWcY54I&BKGND=9&IMGT=P27&POV=be010%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/465210/X25/iris.png?q=COSY-EU-100-1713d0VXq0WFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaItsd2HdcUfp8yXGEPGEJ0l7YhOB2XQqbApeARI5usmxQC3UkTkzNGLdm7jaSthymI9WFk0cUfzUNXGE7nmJ0lK6xOB2vocbApLHyI5ug41QC3AgQkzN5J9m7jocShKVfBL%25vqE79yLRlN6YaxhrWrH1lb%25n8w2S4oiZT5pM4FmmJTg735wrcldu63yvAKIa9Q6DF1s1n2nvligKfLlCVzWcY54I&BKGND=9&IMGT=P27&POV=be000%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/465600/X25/iris.png?q=COSY-EU-100-1713d0VXqbWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaItsd2HdcUfp8yXGEPGEJ0l7YhOB2XQqbApeARI5usmxQC3UkTkzNGLdm7jaSthymI9WFk0cUfA9NXGE7nmJ0lKntOB2vaObApLCRI5uEIZQC3ht1kzNetDm7jCGohKVzbL%25vqEAlyLRlNmYaxhrWrH1lM%25n8w2IyoiZT5pM4FmmJTg735wrcldu63yvAwua9Q6DF1s1n2nvligKfLlCVzWcY54I&BKGND=9&IMGT=P27&POV=be040%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/465600/X25/iris.png?q=COSY-EU-100-1713d0VXqbWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaItsd2HdcUfp8yXGEPGEJ0l7YhOB2XQqbApeARI5usmxQC3UkTkzNGLdm7jaSthymI9WFk0cUfA9NXGE7nmJ0lKntOB2vaObApLCRI5uEIZQC3ht1kzNetDm7jCGohKVzbL%25vqEAlyLRlNmYaxhrWrH1lM%25n8w2IyoiZT5pM4FmmJTg735wrcldu63yvAwua9Q6DF1s1n2nvligKfLlCVzWcY54I&BKGND=9&IMGT=P27&POV=be030%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/465600/X25/iris.png?q=COSY-EU-100-1713d0VXqbWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaItsd2HdcUfp8yXGEPGEJ0l7YhOB2XQqbApeARI5usmxQC3UkTkzNGLdm7jaSthymI9WFk0cUfA9NXGE7nmJ0lKntOB2vaObApLCRI5uEIZQC3ht1kzNetDm7jCGohKVzbL%25vqEAlyLRlNmYaxhrWrH1lM%25n8w2IyoiZT5pM4FmmJTg735wrcldu63yvAwua9Q6DF1s1n2nvligKfLlCVzWcY54I&BKGND=9&IMGT=P27&POV=be020%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/465600/X25/iris.png?q=COSY-EU-100-1713d0VXqbWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaItsd2HdcUfp8yXGEPGEJ0l7YhOB2XQqbApeARI5usmxQC3UkTkzNGLdm7jaSthymI9WFk0cUfA9NXGE7nmJ0lKntOB2vaObApLCRI5uEIZQC3ht1kzNetDm7jCGohKVzbL%25vqEAlyLRlNmYaxhrWrH1lM%25n8w2IyoiZT5pM4FmmJTg735wrcldu63yvAwua9Q6DF1s1n2nvligKfLlCVzWcY54I&BKGND=9&IMGT=P27&POV=be010%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/465600/X25/iris.png?q=COSY-EU-100-1713d0VXqbWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaItsd2HdcUfp8yXGEPGEJ0l7YhOB2XQqbApeARI5usmxQC3UkTkzNGLdm7jaSthymI9WFk0cUfA9NXGE7nmJ0lKntOB2vaObApLCRI5uEIZQC3ht1kzNetDm7jCGohKVzbL%25vqEAlyLRlNmYaxhrWrH1lM%25n8w2IyoiZT5pM4FmmJTg735wrcldu63yvAwua9Q6DF1s1n2nvligKfLlCVzWcY54I&BKGND=9&IMGT=P27&POV=be000%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/465250/X25_056/iris.png?q=COSY-EU-100-1713d0VXqbWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtGyUtsd2HQcUfp8fXGEuiYJ0lVohOB2sB2bApvnyI5uOmxQC3igpkzNGzwm7j0yZhKVB%25t%25vqA8lyLRjcHYax4JOroYhfldyCbAp7fyI5ua6YQC3HXFkzN84bm7jivZhKVuhW%25vq33qyLRnbDYaxBNerH1Lmin8wcQboiZ3KIM4FN8lTg9j1O6PDoSpSeWst9tsdVJTcUfqY6XGEOaRJ0loohOBi1aftkV3xb16gL4Ze2rbpldCdcqcgVGB4NPVHF8ukSa0Y&BKGND=9&IMGT=P27&POV=be040%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/465250/X25_056/iris.png?q=COSY-EU-100-1713d0VXqbWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtGyUtsd2HQcUfp8fXGEuiYJ0lVohOB2sB2bApvnyI5uOmxQC3igpkzNGzwm7j0yZhKVB%25t%25vqA8lyLRjcHYax4JOroYhfldyCbAp7fyI5ua6YQC3HXFkzN84bm7jivZhKVuhW%25vq33qyLRnbDYaxBNerH1Lmin8wcQboiZ3KIM4FN8lTg9j1O6PDoSpSeWst9tsdVJTcUfqY6XGEOaRJ0loohOBi1aftkV3xb16gL4Ze2rbpldCdcqcgVGB4NPVHF8ukSa0Y&BKGND=9&IMGT=P27&POV=be030%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/465250/X25_056/iris.png?q=COSY-EU-100-1713d0VXqbWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtGyUtsd2HQcUfp8fXGEuiYJ0lVohOB2sB2bApvnyI5uOmxQC3igpkzNGzwm7j0yZhKVB%25t%25vqA8lyLRjcHYax4JOroYhfldyCbAp7fyI5ua6YQC3HXFkzN84bm7jivZhKVuhW%25vq33qyLRnbDYaxBNerH1Lmin8wcQboiZ3KIM4FN8lTg9j1O6PDoSpSeWst9tsdVJTcUfqY6XGEOaRJ0loohOBi1aftkV3xb16gL4Ze2rbpldCdcqcgVGB4NPVHF8ukSa0Y&BKGND=9&IMGT=P27&POV=be020%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/465250/X25_056/iris.png?q=COSY-EU-100-1713d0VXqbWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtGyUtsd2HQcUfp8fXGEuiYJ0lVohOB2sB2bApvnyI5uOmxQC3igpkzNGzwm7j0yZhKVB%25t%25vqA8lyLRjcHYax4JOroYhfldyCbAp7fyI5ua6YQC3HXFkzN84bm7jivZhKVuhW%25vq33qyLRnbDYaxBNerH1Lmin8wcQboiZ3KIM4FN8lTg9j1O6PDoSpSeWst9tsdVJTcUfqY6XGEOaRJ0loohOBi1aftkV3xb16gL4Ze2rbpldCdcqcgVGB4NPVHF8ukSa0Y&BKGND=9&IMGT=P27&POV=be010%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/465250/X25_056/iris.png?q=COSY-EU-100-1713d0VXqbWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtGyUtsd2HQcUfp8fXGEuiYJ0lVohOB2sB2bApvnyI5uOmxQC3igpkzNGzwm7j0yZhKVB%25t%25vqA8lyLRjcHYax4JOroYhfldyCbAp7fyI5ua6YQC3HXFkzN84bm7jivZhKVuhW%25vq33qyLRnbDYaxBNerH1Lmin8wcQboiZ3KIM4FN8lTg9j1O6PDoSpSeWst9tsdVJTcUfqY6XGEOaRJ0loohOBi1aftkV3xb16gL4Ze2rbpldCdcqcgVGB4NPVHF8ukSa0Y&BKGND=9&IMGT=P27&POV=be000%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MATCH[g-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/g-class/class-page/series-(ncm)/2026-G-SUV-EP-AMG.jpg
+    alt: A legend you can live for yourself
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/EP-AMG-FRAME.png
+    alt: 
+
+SUMMARY for g-class: plausible=44, matched=20, missed=24
+
+========================================
+### model: cle-cabriolet
+### page:  https://www.mbusa.com/en/vehicles/class/cle/cabriolet
+### variants: ["cle-cabriolet","cle_cabriolet","clecabriolet","cle-cab","cle300c","cle450c"]
+========================================
+Total DOM <img> after render+scroll: 99
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MATCH[cle-cabriolet]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-cab/class-page/series/2026-CLE-CAB-HC-D.jpg
+    alt: CLE Cabriolet
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/236447/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtGeOtsd2HTcUfp8fXGEuiRJ0l3IhOB2NQcbApjkoI5uVcZQC3qvTkzNwzwm7jZeohKVFsW%25vqCt%25yLRz3RYaxP58rH1eMrn8wsofoiZr7YM4FASlTg95hp6PDaksSeWHeutsd8YTcUfiFWXGE4TXJ0lgOrOB2Pz%25bApe7pI5usKzQC3UvWkzNLt6m7jaSthymI9WFk0cUf8%25WXGE0GSJ0lB4lOBi1aftkV3xb15oOmuA2rbpldCdcqcgVGB4NPVHF8ukSa0Y&BKGND=9&IMGT=P27&POV=be270%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,130,1920,950);Resize,width=1440,height=600
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/236461/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaMtsd2HdcUfp8qXGEubmJ0l3ItOB2NQnbApjtwI5uVKMQC31C1kzNwPnm7jZeDhKV5Sh%25vqCuqyLRgAHYaxPoYrH1endn8wYzyoiZB6EM4FAm2Tg95Yn6PDaksSeWHeutsd8YTcUfiFWXGE4TXJ0lgOrOB2Pz%25bApe7pI5usKzQC3UvWkzNLt6m7jaSthymI9WFk0cUf8%25WXGEHnxJ0lUHrOB2ZsxbAp5iCI5uCeuQC3zvFkze94pOy1qFm9KSkYL1NTmj32v2bwbU15zsRG1gdPVyJ4CM&BKGND=9&IMGT=P27&POV=be270%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,130,1920,950);Resize,width=1440,height=600
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/236462/806/iris.png?q=COSY-EU-100-1713d0VXqNEFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaMtsd2HdcUfp8qXGEubmJ0l3ItOB2NQnbApjtwI5uVKMQC31C1kzNwPnm7jZeDhKV5Sh%25vqCuqyLRgc6YaxPa9rH1eCin8wsTnoiZUMEM4FnKrTg9obT6PDCcpSeWzy3tsd7oTcUfKAqXGE4yBJ0lg0VOB2PMcbApedlI5uscIQC3UkTkzNGLnm7j0ajhKVBHL%25vqA8lyLRicHYax4bJrH1gObnMr%25E2fYzI5ueo2QC3PEHkzN5ETm7jCM6hKVfzc%25vqLvlyLRaGHYaxH5xrH18Mln8wiT3oiZ4M1M4zuA1YtEWpTuPkMcsxFIT9ZxexrlrKE847dvE5jCDtyAib&BKGND=9&IMGT=P27&POV=be270%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,130,1920,950);Resize,width=1440,height=600
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/plus.png
+    alt: Expand
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/minus.png
+    alt: Collapse
+MATCH[cle-cab]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-cab/class-page/series/2026-CLE-CAB-EH-2.jpg
+    alt: Aerodynamic design
+MATCH[cle-cab]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-cab/class-page/series/2026-CLE-CAB-EH-3.jpg
+    alt: LED lighting
+MATCH[cle-cab]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-cab/class-page/series/2026-CLE-CAB-EH-4.jpg
+    alt: Triple-layer soft top
+MATCH[cle-cab]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-cab/class-page/series/2026-CLE-CAB-EH-5.jpg
+    alt: AMG styling
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/left.png
+    alt: Previous
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/right.png
+    alt: Next
+MATCH[cle-cab]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-cab/class-page/series/2026-CLE-CAB-IH-1_new.jpg
+    alt: Memorable seating
+MATCH[cle-cab]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-cab/class-page/series/2026-CLE-CAB-IH-2.jpg
+    alt: Extended welcome
+MATCH[cle-cab]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-cab/class-page/series/2026-CLE-CAB-IH-3.jpg
+    alt: Sun-reflecting leather
+MATCH[cle-cab]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-cab/class-page/series/2026-CLE-CAB-IH-4.jpg
+    alt: Wireless connections
+MATCH[cle-cab]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-cab/class-page/series/2026-CLE-CAB-IH-5.jpg
+    alt: Immersive audio
+MATCH[cle-cab]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-cab/class-page/series/2026-CLE-CAB-SH-1.jpg
+    alt: Center air bag
+MATCH[cle-cab]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-cab/class-page/series/2026-CLE-CAB-SH-2.jpg
+    alt: Hands-free parking
+MATCH[cle-cab]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-cab/class-page/series/2026-CLE-CAB-SH-3.jpg
+    alt: Foresight for reversing
+MATCH[cle-cab]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-cab/class-page/series/2026-CLE-CAB-SH-4.jpg
+    alt: Virtual watchdog
+MATCH[cle-cab]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-cab/class-page/series/2026-CLE-CAB-TH-1.jpg
+    alt: Digital recognition
+MATCH[cle-cab]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-cab/class-page/series/2026-CLE-CAB-TH-2.jpg
+    alt: Artificial intelligence, genuine smarts
+MATCH[cle-cab]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-cab/class-page/series/2026-CLE-CAB-TH-3.jpg
+    alt: Situational awareness
+MATCH[cle-cab]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-cab/class-page/series/2026-CLE-CAB-TH-4.jpg
+    alt: Dolby Atmos
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/236447/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtGeOtsd2HTcUfp8fXGEuiRJ0l3IhOB2NQcbApjkoI5uVcZQC3qvTkzNwzwm7jZeohKVFsW%25vqCt%25yLRz3RYaxP58rH1eMrn8wsofoiZr7YM4FASlTg95hp6PDaksSeWHeutsd8YTcUfiFWXGE4TXJ0lgOrOB2Pz%25bApe7pI5usKzQC3UvWkzNLt6m7jaSthymI9WFk0cUf8%25WXGE0GSJ0lB4lOBi1aftkV3xb15oOmuA2rbpldCdcqcgVGB4NPVHF8ukSa0Y&BKGND=9&IMGT=P27&POV=be040%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/236447/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtGeOtsd2HTcUfp8fXGEuiRJ0l3IhOB2NQcbApjkoI5uVcZQC3qvTkzNwzwm7jZeohKVFsW%25vqCt%25yLRz3RYaxP58rH1eMrn8wsofoiZr7YM4FASlTg95hp6PDaksSeWHeutsd8YTcUfiFWXGE4TXJ0lgOrOB2Pz%25bApe7pI5usKzQC3UvWkzNLt6m7jaSthymI9WFk0cUf8%25WXGE0GSJ0lB4lOBi1aftkV3xb15oOmuA2rbpldCdcqcgVGB4NPVHF8ukSa0Y&BKGND=9&IMGT=P27&POV=be030%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/236447/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtGeOtsd2HTcUfp8fXGEuiRJ0l3IhOB2NQcbApjkoI5uVcZQC3qvTkzNwzwm7jZeohKVFsW%25vqCt%25yLRz3RYaxP58rH1eMrn8wsofoiZr7YM4FASlTg95hp6PDaksSeWHeutsd8YTcUfiFWXGE4TXJ0lgOrOB2Pz%25bApe7pI5usKzQC3UvWkzNLt6m7jaSthymI9WFk0cUf8%25WXGE0GSJ0lB4lOBi1aftkV3xb15oOmuA2rbpldCdcqcgVGB4NPVHF8ukSa0Y&BKGND=9&IMGT=P27&POV=be020%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/236447/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtGeOtsd2HTcUfp8fXGEuiRJ0l3IhOB2NQcbApjkoI5uVcZQC3qvTkzNwzwm7jZeohKVFsW%25vqCt%25yLRz3RYaxP58rH1eMrn8wsofoiZr7YM4FASlTg95hp6PDaksSeWHeutsd8YTcUfiFWXGE4TXJ0lgOrOB2Pz%25bApe7pI5usKzQC3UvWkzNLt6m7jaSthymI9WFk0cUf8%25WXGE0GSJ0lB4lOBi1aftkV3xb15oOmuA2rbpldCdcqcgVGB4NPVHF8ukSa0Y&BKGND=9&IMGT=P27&POV=be010%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/236447/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtGeOtsd2HTcUfp8fXGEuiRJ0l3IhOB2NQcbApjkoI5uVcZQC3qvTkzNwzwm7jZeohKVFsW%25vqCt%25yLRz3RYaxP58rH1eMrn8wsofoiZr7YM4FASlTg95hp6PDaksSeWHeutsd8YTcUfiFWXGE4TXJ0lgOrOB2Pz%25bApe7pI5usKzQC3UvWkzNLt6m7jaSthymI9WFk0cUf8%25WXGE0GSJ0lB4lOBi1aftkV3xb15oOmuA2rbpldCdcqcgVGB4NPVHF8ukSa0Y&BKGND=9&IMGT=P27&POV=be000%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/236461/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaMtsd2HdcUfp8qXGEubmJ0l3ItOB2NQnbApjtwI5uVKMQC31C1kzNwPnm7jZeDhKV5Sh%25vqCuqyLRgAHYaxPoYrH1endn8wYzyoiZB6EM4FAm2Tg95Yn6PDaksSeWHeutsd8YTcUfiFWXGE4TXJ0lgOrOB2Pz%25bApe7pI5usKzQC3UvWkzNLt6m7jaSthymI9WFk0cUf8%25WXGEHnxJ0lUHrOB2ZsxbAp5iCI5uCeuQC3zvFkze94pOy1qFm9KSkYL1NTmj32v2bwbU15zsRG1gdPVyJ4CM&BKGND=9&IMGT=P27&POV=be040%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/236461/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaMtsd2HdcUfp8qXGEubmJ0l3ItOB2NQnbApjtwI5uVKMQC31C1kzNwPnm7jZeDhKV5Sh%25vqCuqyLRgAHYaxPoYrH1endn8wYzyoiZB6EM4FAm2Tg95Yn6PDaksSeWHeutsd8YTcUfiFWXGE4TXJ0lgOrOB2Pz%25bApe7pI5usKzQC3UvWkzNLt6m7jaSthymI9WFk0cUf8%25WXGEHnxJ0lUHrOB2ZsxbAp5iCI5uCeuQC3zvFkze94pOy1qFm9KSkYL1NTmj32v2bwbU15zsRG1gdPVyJ4CM&BKGND=9&IMGT=P27&POV=be030%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/236461/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaMtsd2HdcUfp8qXGEubmJ0l3ItOB2NQnbApjtwI5uVKMQC31C1kzNwPnm7jZeDhKV5Sh%25vqCuqyLRgAHYaxPoYrH1endn8wYzyoiZB6EM4FAm2Tg95Yn6PDaksSeWHeutsd8YTcUfiFWXGE4TXJ0lgOrOB2Pz%25bApe7pI5usKzQC3UvWkzNLt6m7jaSthymI9WFk0cUf8%25WXGEHnxJ0lUHrOB2ZsxbAp5iCI5uCeuQC3zvFkze94pOy1qFm9KSkYL1NTmj32v2bwbU15zsRG1gdPVyJ4CM&BKGND=9&IMGT=P27&POV=be020%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/236461/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaMtsd2HdcUfp8qXGEubmJ0l3ItOB2NQnbApjtwI5uVKMQC31C1kzNwPnm7jZeDhKV5Sh%25vqCuqyLRgAHYaxPoYrH1endn8wYzyoiZB6EM4FAm2Tg95Yn6PDaksSeWHeutsd8YTcUfiFWXGE4TXJ0lgOrOB2Pz%25bApe7pI5usKzQC3UvWkzNLt6m7jaSthymI9WFk0cUf8%25WXGEHnxJ0lUHrOB2ZsxbAp5iCI5uCeuQC3zvFkze94pOy1qFm9KSkYL1NTmj32v2bwbU15zsRG1gdPVyJ4CM&BKGND=9&IMGT=P27&POV=be010%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/236461/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaMtsd2HdcUfp8qXGEubmJ0l3ItOB2NQnbApjtwI5uVKMQC31C1kzNwPnm7jZeDhKV5Sh%25vqCuqyLRgAHYaxPoYrH1endn8wYzyoiZB6EM4FAm2Tg95Yn6PDaksSeWHeutsd8YTcUfiFWXGE4TXJ0lgOrOB2Pz%25bApe7pI5usKzQC3UvWkzNLt6m7jaSthymI9WFk0cUf8%25WXGEHnxJ0lUHrOB2ZsxbAp5iCI5uCeuQC3zvFkze94pOy1qFm9KSkYL1NTmj32v2bwbU15zsRG1gdPVyJ4CM&BKGND=9&IMGT=P27&POV=be000%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/236462/806/iris.png?q=COSY-EU-100-1713d0VXqNEFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaMtsd2HdcUfp8qXGEubmJ0l3ItOB2NQnbApjtwI5uVKMQC31C1kzNwPnm7jZeDhKV5Sh%25vqCuqyLRgc6YaxPa9rH1eCin8wsTnoiZUMEM4FnKrTg9obT6PDCcpSeWzy3tsd7oTcUfKAqXGE4yBJ0lg0VOB2PMcbApedlI5uscIQC3UkTkzNGLnm7j0ajhKVBHL%25vqA8lyLRicHYax4bJrH1gObnMr%25E2fYzI5ueo2QC3PEHkzN5ETm7jCM6hKVfzc%25vqLvlyLRaGHYaxH5xrH18Mln8wiT3oiZ4M1M4zuA1YtEWpTuPkMcsxFIT9ZxexrlrKE847dvE5jCDtyAib&BKGND=9&IMGT=P27&POV=be040%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/236462/806/iris.png?q=COSY-EU-100-1713d0VXqNEFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaMtsd2HdcUfp8qXGEubmJ0l3ItOB2NQnbApjtwI5uVKMQC31C1kzNwPnm7jZeDhKV5Sh%25vqCuqyLRgc6YaxPa9rH1eCin8wsTnoiZUMEM4FnKrTg9obT6PDCcpSeWzy3tsd7oTcUfKAqXGE4yBJ0lg0VOB2PMcbApedlI5uscIQC3UkTkzNGLnm7j0ajhKVBHL%25vqA8lyLRicHYax4bJrH1gObnMr%25E2fYzI5ueo2QC3PEHkzN5ETm7jCM6hKVfzc%25vqLvlyLRaGHYaxH5xrH18Mln8wiT3oiZ4M1M4zuA1YtEWpTuPkMcsxFIT9ZxexrlrKE847dvE5jCDtyAib&BKGND=9&IMGT=P27&POV=be030%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/236462/806/iris.png?q=COSY-EU-100-1713d0VXqNEFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaMtsd2HdcUfp8qXGEubmJ0l3ItOB2NQnbApjtwI5uVKMQC31C1kzNwPnm7jZeDhKV5Sh%25vqCuqyLRgc6YaxPa9rH1eCin8wsTnoiZUMEM4FnKrTg9obT6PDCcpSeWzy3tsd7oTcUfKAqXGE4yBJ0lg0VOB2PMcbApedlI5uscIQC3UkTkzNGLnm7j0ajhKVBHL%25vqA8lyLRicHYax4bJrH1gObnMr%25E2fYzI5ueo2QC3PEHkzN5ETm7jCM6hKVfzc%25vqLvlyLRaGHYaxH5xrH18Mln8wiT3oiZ4M1M4zuA1YtEWpTuPkMcsxFIT9ZxexrlrKE847dvE5jCDtyAib&BKGND=9&IMGT=P27&POV=be020%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/236462/806/iris.png?q=COSY-EU-100-1713d0VXqNEFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaMtsd2HdcUfp8qXGEubmJ0l3ItOB2NQnbApjtwI5uVKMQC31C1kzNwPnm7jZeDhKV5Sh%25vqCuqyLRgc6YaxPa9rH1eCin8wsTnoiZUMEM4FnKrTg9obT6PDCcpSeWzy3tsd7oTcUfKAqXGE4yBJ0lg0VOB2PMcbApedlI5uscIQC3UkTkzNGLnm7j0ajhKVBHL%25vqA8lyLRicHYax4bJrH1gObnMr%25E2fYzI5ueo2QC3PEHkzN5ETm7jCM6hKVfzc%25vqLvlyLRaGHYaxH5xrH18Mln8wiT3oiZ4M1M4zuA1YtEWpTuPkMcsxFIT9ZxexrlrKE847dvE5jCDtyAib&BKGND=9&IMGT=P27&POV=be010%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/236462/806/iris.png?q=COSY-EU-100-1713d0VXqNEFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaMtsd2HdcUfp8qXGEubmJ0l3ItOB2NQnbApjtwI5uVKMQC31C1kzNwPnm7jZeDhKV5Sh%25vqCuqyLRgc6YaxPa9rH1eCin8wsTnoiZUMEM4FnKrTg9obT6PDCcpSeWzy3tsd7oTcUfKAqXGE4yBJ0lg0VOB2PMcbApedlI5uscIQC3UkTkzNGLnm7j0ajhKVBHL%25vqA8lyLRicHYax4bJrH1gObnMr%25E2fYzI5ueo2QC3PEHkzN5ETm7jCM6hKVfzc%25vqLvlyLRaGHYaxH5xrH18Mln8wiT3oiZ4M1M4zuA1YtEWpTuPkMcsxFIT9ZxexrlrKE847dvE5jCDtyAib&BKGND=9&IMGT=P27&POV=be000%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,20,1920,1060);Resize,width=277,height=175
+    alt: 
+MATCH[cle-cab]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-cab/class-page/series/2026-CLE-CAB-EP-AMG.jpg
+    alt: All the headroom and tailwind you could ask for
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cla-sedan/class-page/series/EP-AMG-FRAME.png
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/discover-section.png
+    alt: 
+
+SUMMARY for cle-cabriolet: plausible=44, matched=19, missed=25

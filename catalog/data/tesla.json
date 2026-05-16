@@ -1,0 +1,3151 @@
+{
+  "brand": "Tesla",
+  "brand_slug": "tesla",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Model 3",
+      "model_slug": "model-3",
+      "model_year": 2026,
+      "body_style": "sedan",
+      "generation_context": "Current Highland-refresh Model 3, on sale since early 2024. The 2026 MY introduced a new entry-level Standard RWD trim in October 2025; the former Long Range RWD/AWD trims were renamed Premium RWD/AWD in the same restructure.",
+      "msrp_range": {
+        "low": 36990,
+        "high": 47490
+      },
+      "model_summary": "Compact electric sedan and Tesla's volume model. Three non-Performance trims share the same body and 18\"/19\" wheel options but differ in motor count, battery, and feature content. The hotter Performance variant is treated as a separate model entry per the catalog's performance-variant rule.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": 3,
+        "summary": "JD Power has not published a 2026 model-year VDS score for the Model 3 (VDS measures 3-year-old vehicles). Consumer Reports' most recent predicted reliability for the Model 3 is mid-pack (3/5), citing improved build quality on the Highland refresh but persistent complaints around in-car electronics, paint, and panel fit. Tesla added a new 7-year/70,000-mile high-priced propulsion-related-part warranty layer on top of the existing 8-year battery and drive unit coverage for 2026.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/tesla/model-3",
+          "https://www.notateslaapp.com/news/3130/tesla-adds-7-year-propulsion-warranty-for-2026-model-years"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power has not published a 2026 model-year APEAL score for the Model 3. The Highland refresh has been broadly well-received by owners for ride quality, interior materials, and EPA range; common dissatisfaction points are the removal of the turn-signal stalk and the consolidated screen-only HVAC interface.",
+        "confidence": "low",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the Highland Model 3 for its refined ride, class-leading EPA range, and exceptional Supercharger access; common critiques are the deletion of physical stalks and buttons, a stiff base suspension, and Tesla's removal of basic Autopilot from the cheapest trim. Reviewers found the 2026 Standard trim a genuine value at $36,990 despite the decontenting (no subwoofer, no rear screen, no power-adjustable steering wheel, no Autosteer).",
+        "links": [
+          {
+            "publication": "InsideEVs",
+            "url": "https://insideevs.com/news/775007/tesla-model-3-standard/",
+            "date": "2025-10-07"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/car-news/2026-tesla-model-3-standard-first-drive-review.html",
+            "date": "2025-10-15"
+          },
+          {
+            "publication": "JD Power",
+            "url": "https://www.jdpower.com/cars/shopping-guides/2026-tesla-model-3-vs-2026-tesla-model-y-comparison",
+            "date": "2026-01-15"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB owner-review pages for the 2026 Model 3 are sparse this early in the model year. Carryover sentiment from the 2024-2025 Highland Model 3 is broadly positive on driving range, charging network, and tech, with persistent complaints about ride harshness on 19\" wheels, road noise, and the omission of CarPlay/Android Auto.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/tesla/model-3/2026/",
+          "https://www.kbb.com/tesla/model-3/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Standard RWD",
+          "trim_slug": "standard-rwd",
+          "trim_family": "model-3-standard",
+          "is_base_trim": true,
+          "msrp_base": 36990,
+          "destination_fee": 1640,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 286,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": null,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 69,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 321,
+            "total_range_mi": 321,
+            "dc_fast_charge_peak_kw": 225,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 139,
+            "plug_type": "Tesla NACS native"
+          },
+          "fuel_economy": {
+            "city_mpg": 147,
+            "highway_mpg": 130,
+            "combined_mpg": 139,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 550
+          },
+          "performance": {
+            "zero_to_60_sec": 5.8,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 125,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 185.8,
+            "width_in": 72.8,
+            "height_in": 56.8,
+            "wheelbase_in": 113.2,
+            "ground_clearance_in": 5.4,
+            "curb_weight_lb": 3759,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 21
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "235/45R18"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2025,
+            "iihs_top_safety_pick": "TSP",
+            "iihs_rating_year": 2025,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 15.4,
+            "driver_display_in": null,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Tesla 7-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "no rear touchscreen (vs. Premium)",
+              "no subwoofer, FM/AM radio tuner, or ambient lighting (decontented vs. Premium)",
+              "no Autosteer or full Autopilot — Traffic-Aware Cruise Control only",
+              "manual-adjust steering column and side mirrors",
+              "passive dampers (vs. adaptive on Premium)",
+              "no power-folding mirrors",
+              "fixed glass roof, single-pane",
+              "NACS DC fast charging up to 225 kW (vs. 250 kW on Premium/Performance)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "7yr/70k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.tesla.com/model3",
+              "local_path": "images/tesla/model-3/model-3-standard/front_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.tesla.com/model3",
+              "local_path": "images/tesla/model-3/model-3-standard/rear_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.tesla.com/model3",
+              "local_path": "images/tesla/model-3/model-3-standard/side_profile.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.tesla.com/model3",
+              "local_path": "images/tesla/model-3/model-3-standard/interior_dashboard.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.tesla.com/model3/design",
+            "powertrain": "https://www.evspecifications.com/en/model/694f403",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50251",
+            "performance.zero_to_60_sec": "https://www.tesla.com/model3",
+            "dimensions": "https://www.evspecifications.com/en/model/694f403",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2025/TESLA/MODEL%203",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/top-safety-picks/2025/all/tesla",
+            "features": "https://insideevs.com/news/775007/tesla-model-3-standard/",
+            "warranty": "https://www.tesla.com/support/vehicle-warranty"
+          },
+          "delta_from_base": null,
+          "notes": "tesla.com 403 to WebFetch on 2026-05-12; trim list and price reconciled from Tesla's Oct-2025 launch reporting (InsideEVs) and EPA fueleconomy.gov entry 50251. MSRP $36,990 excludes Tesla's $1,640 combined destination ($1,390) + order ($250) fee. NHTSA 2025 5-star carryover rating applied — NHTSA had not published a fresh 2026 Model 3 entry as of the research date. IIHS Top Safety Pick (not TSP+) per 2025-2026 rating; failed TSP+ on Moderate Overlap Front (Acceptable) and Seat Belt Reminder (Marginal). Standard RWD is the only trim in the trim_family model-3-standard."
+        },
+        {
+          "trim": "Premium RWD",
+          "trim_slug": "premium-rwd",
+          "trim_family": "model-3-premium",
+          "is_base_trim": false,
+          "msrp_base": 42490,
+          "destination_fee": 1640,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 286,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 332,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 78,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 363,
+            "total_range_mi": 363,
+            "dc_fast_charge_peak_kw": 250,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 137,
+            "plug_type": "Tesla NACS native"
+          },
+          "fuel_economy": {
+            "city_mpg": 145,
+            "highway_mpg": 128,
+            "combined_mpg": 137,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 550
+          },
+          "performance": {
+            "zero_to_60_sec": 4.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 125,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 185.8,
+            "width_in": 72.8,
+            "height_in": 56.8,
+            "wheelbase_in": 113.2,
+            "ground_clearance_in": 5.4,
+            "curb_weight_lb": 4019,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 21
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "235/45R18"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 15.4,
+            "driver_display_in": null,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Tesla Premium 17-speaker with subwoofer",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "rear 8-inch touchscreen for back-seat climate and media",
+              "adaptive dampers",
+              "ambient interior lighting",
+              "power-adjustable and power-folding mirrors",
+              "power-adjustable steering column",
+              "Autosteer (Autopilot) included",
+              "NACS DC fast charging up to 250 kW"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.tesla.com/model3",
+              "local_path": "images/tesla/model-3/model-3-premium/front_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.tesla.com/model3",
+              "local_path": "images/tesla/model-3/model-3-premium/rear_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.tesla.com/model3",
+              "local_path": "images/tesla/model-3/model-3-premium/side_profile.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.tesla.com/model3",
+              "local_path": "images/tesla/model-3/model-3-premium/interior_dashboard.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.tesla.com/model3/design",
+            "powertrain": "https://www.evspecifications.com/en/model/ece9405",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50038",
+            "performance.zero_to_60_sec": "https://www.tesla.com/model3",
+            "dimensions": "https://www.evspecifications.com/en/model/ece9405",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2025/TESLA/MODEL%203",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/top-safety-picks/2025/all/tesla",
+            "features": "https://www.basenor.com/blogs/news/tesla-2026-model-3-model-y-lineup-revamped-full-pricing-what-to-do",
+            "warranty": "https://www.tesla.com/support/vehicle-warranty"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "standard-rwd",
+            "msrp_delta_usd": 5500,
+            "changes": [
+              "Larger ~78 kWh battery raises EPA range from 321 to 363 miles",
+              "0-60 drops to 4.9 sec (vs. 5.8) with same 286 hp single-motor but more energy budget",
+              "DC fast charging peak rises to 250 kW (vs. 225 kW Standard)",
+              "Adds Autopilot Autosteer (vs. cruise-only on Standard)",
+              "Adds Tesla Premium 17-speaker audio with subwoofer (vs. 7-speaker)",
+              "Adds adaptive dampers, ambient lighting, rear 8\" touchscreen",
+              "Adds ventilated front seats, heated steering wheel, memory driver's seat, power-folding mirrors"
+            ]
+          },
+          "notes": "Sole Premium-RWD trim. Curb weight, range, MPGe, and motor figures sourced from evspecifications.com which mirrors Tesla's published specs. Trim_family model-3-premium also covers the Premium AWD variant. Spec blocks unchanged from base (safety, warranty) set to null per spec §6.3."
+        },
+        {
+          "trim": "Premium AWD",
+          "trim_slug": "premium-awd",
+          "trim_family": "model-3-premium",
+          "is_base_trim": false,
+          "msrp_base": 47490,
+          "destination_fee": 1640,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 444,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": null,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 82,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 346,
+            "total_range_mi": 346,
+            "dc_fast_charge_peak_kw": 250,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 128,
+            "plug_type": "Tesla NACS native"
+          },
+          "fuel_economy": {
+            "city_mpg": 133,
+            "highway_mpg": 122,
+            "combined_mpg": 128,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 600
+          },
+          "performance": {
+            "zero_to_60_sec": 4.2,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 125,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 185.8,
+            "width_in": 72.8,
+            "height_in": 56.8,
+            "wheelbase_in": 113.2,
+            "ground_clearance_in": 5.4,
+            "curb_weight_lb": 4081,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 21
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "235/45R18"
+          },
+          "safety": null,
+          "features": null,
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.tesla.com/model3",
+              "local_path": "images/tesla/model-3/model-3-premium/front_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.tesla.com/model3",
+              "local_path": "images/tesla/model-3/model-3-premium/rear_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.tesla.com/model3",
+              "local_path": "images/tesla/model-3/model-3-premium/side_profile.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.tesla.com/model3",
+              "local_path": "images/tesla/model-3/model-3-premium/interior_dashboard.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.tesla.com/model3/design",
+            "powertrain": "https://www.evspecifications.com/en/model/b6b6404",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50037",
+            "performance.zero_to_60_sec": "https://www.tesla.com/model3",
+            "dimensions": "https://www.evspecifications.com/en/model/b6b6404",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2025/TESLA/MODEL%203",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/top-safety-picks/2025/all/tesla",
+            "features": "https://www.basenor.com/blogs/news/tesla-2026-model-3-model-y-lineup-revamped-full-pricing-what-to-do",
+            "warranty": "https://www.tesla.com/support/vehicle-warranty"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "standard-rwd",
+            "msrp_delta_usd": 10500,
+            "changes": [
+              "Adds front motor for AWD-electric drivetrain (444 combined hp vs. 286)",
+              "Larger 82 kWh battery; EPA range 346 mi (vs. 321)",
+              "0-60 drops to 4.2 sec (vs. 5.8)",
+              "Combined MPGe 128 (vs. 139) — AWD efficiency cost",
+              "DC fast charging peak rises to 250 kW",
+              "All Premium-trim feature uplifts: Autopilot, adaptive dampers, 17-speaker premium audio, ventilated and memory seats, heated steering wheel, ambient lighting, rear screen, power-folding/heated mirrors, power-adjustable steering column"
+            ]
+          },
+          "notes": "Shares trim_family model-3-premium with Premium RWD — images deliberately marked is_shared_with_trim_family: true. Features block null because feature set is identical to Premium RWD (only powertrain/range/0-60 differ); see Premium RWD entry for the full list. EPA entry id=50037 confirms 346 mi range and 128 MPGe."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Tesla's 2026 Model 3 lineup was restructured at least twice during the model year: (1) Oct 2025 introduced the Standard RWD trim and renamed Long Range RWD/AWD to Premium RWD/AWD; (2) some sources report an April 2026 re-shuffle. The trim list captured here matches EPA fueleconomy.gov 2026 published entries for Standard RWD (id 50251), Premium RWD (50038), and Premium AWD (50037), plus the separately-listed Model 3 Performance entries (50036 and 50250) which are housed under the Model 3 Performance model entry per the performance-variant rule. tesla.com domain returned 403 to WebFetch on 2026-05-12; primary specs were taken from EPA + evspecifications.com mirrors of Tesla data; feature contents cross-checked against InsideEVs Oct-2025 launch article and the basenor.com 2026 lineup roundup. Tesla destination + order fee = $1,640 combined ($1,390 destination + $250 order). NHTSA had not published a fresh 2026 entry as of research date — 2025 5-star ratings carried forward (no structural changes to Model 3 for 2026). Phase 4 image scrape: persistent low coverage (0% as of 2026-05-14) — tesla.com hard 403s both static fetch and headless Chromium. Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "Model 3 Performance",
+      "model_slug": "model-3-performance",
+      "model_year": 2026,
+      "body_style": "sedan",
+      "generation_context": "Model 3 Performance reintroduced for 2024 MY on the Highland platform with the Ludicrous powertrain, Track Mode V3, sport-tuned adaptive suspension, unique front/rear fascia and spoiler, and Sport seats; 2026 MY carries over unchanged.",
+      "msrp_range": {
+        "low": 54990,
+        "high": 54990
+      },
+      "model_summary": "Top performance Model 3 with dual-motor AWD producing roughly 510 horsepower, sport-tuned suspension, larger brakes, and unique aero. Separated from the Model 3 model entry per the catalog's performance-variant rule (§6.4, '01_research_brand.md' Step 1 note).",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": 3,
+        "summary": "JD Power has not yet published a 2026 model-year VDS score specific to the Model 3 Performance. Consumer Reports' current Model 3 predicted reliability of 3/5 covers all Model 3 trims. The Performance has slightly fewer recall and quality data points overall given its smaller production volume.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/tesla/model-3"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet published (typical July release). However, JD Power's 2026 US EV Experience (EVX) Ownership Study scored the Model 3 Performance at 804 out of 1000 in the premium BEV segment (segment average: 786), Tesla taking the top two positions with the Model 3 (804) and Model Y (797). Note: EVX is a long-term ownership satisfaction study and is methodologically distinct from APEAL, which measures new-buyer initial appeal.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently call the Highland-era Model 3 Performance the most polished Tesla performance sedan to date, citing the adaptive damping, sharper steering, and Sport seats as genuine upgrades over the prior Model 3 Performance and the regular Model 3. Common criticisms are the absence of physical stalks and buttons, modest cargo, and the lack of CarPlay/Android Auto at this price point.",
+        "links": [
+          {
+            "publication": "InsideEVs",
+            "url": "https://insideevs.com/tesla/model-3/",
+            "date": "2025-08-20"
+          },
+          {
+            "publication": "Tesla Press",
+            "url": "https://www.tesla.com/blog/introducing-new-model-3-performance",
+            "date": "2024-04-24"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB owner-review pages do not yet have meaningful 2026-specific sample sizes for the Model 3 Performance. Carryover 2024-2025 owner sentiment praises the acceleration, Sport seats, and improved adaptive ride; criticisms center on tire wear, range loss on 21\" wheels, and the same Tesla-wide UI complaints (stalk-less indicator, screen-only HVAC).",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/tesla/model-3/2026/performance/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Performance",
+          "trim_slug": "performance",
+          "trim_family": "model-3-performance",
+          "is_base_trim": true,
+          "msrp_base": 54990,
+          "destination_fee": 1640,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 510,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 547,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 82,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 309,
+            "total_range_mi": 309,
+            "dc_fast_charge_peak_kw": 250,
+            "dc_fast_charge_10_to_80_min": 22,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 114,
+            "plug_type": "Tesla NACS native"
+          },
+          "fuel_economy": {
+            "city_mpg": 120,
+            "highway_mpg": 107,
+            "combined_mpg": 114,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 650
+          },
+          "performance": {
+            "zero_to_60_sec": 2.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 163,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 186,
+            "width_in": 72.8,
+            "height_in": 56.7,
+            "wheelbase_in": 113.2,
+            "ground_clearance_in": 5,
+            "curb_weight_lb": 4081,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 21
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "235/35R20 (front), 275/35R20 (rear)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2025,
+            "iihs_top_safety_pick": "TSP",
+            "iihs_rating_year": 2025,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 15.4,
+            "driver_display_in": null,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Tesla Premium 17-speaker with subwoofer",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Track Mode V3 with G-meter, lap timer, telemetry, and motor-balance/regen/stability customization",
+              "Sport seats with deeper bolsters",
+              "Unique Performance front and rear fascia, carbon-fiber rear spoiler, front splitter, and rear diffuser",
+              "Adaptive damper suspension tuned firmer than Premium",
+              "Performance brake package: larger front rotors and four-piston front calipers",
+              "Performance 20\" forged wheels with staggered tires",
+              "Autopilot Autosteer included",
+              "NACS DC fast charging up to 250 kW"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "7yr/70k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": "8yr/120k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.tesla.com/model3",
+              "local_path": "images/tesla/model-3-performance/model-3-performance/front_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.tesla.com/model3",
+              "local_path": "images/tesla/model-3-performance/model-3-performance/rear_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.tesla.com/model3",
+              "local_path": "images/tesla/model-3-performance/model-3-performance/side_profile.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.tesla.com/model3",
+              "local_path": "images/tesla/model-3-performance/model-3-performance/interior_dashboard.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.tesla.com/model3/design",
+            "powertrain": "https://www.evspecifications.com/en/model/cf4a406",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50036",
+            "performance.zero_to_60_sec": "https://www.tesla.com/blog/introducing-new-model-3-performance",
+            "dimensions": "https://www.evspecifications.com/en/model/cf4a406",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2025/TESLA/MODEL%203",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/top-safety-picks/2025/all/tesla",
+            "features": "https://www.tesla.com/model3",
+            "warranty": "https://www.tesla.com/support/vehicle-warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Sole trim of Model 3 Performance — is_base_trim: true with delta_from_base: null (sole-trim atomic rule). EPA fueleconomy.gov lists two 2026 Performance entries (50036 at 309 mi and 50250 at 314 mi 'Performance AWD'); these are the same vehicle with slight EPA cycle re-tests — used the 309-mi figure that aligns with Tesla's published spec and the April-2026 lineup summary. Combined MPGe = 114 (EPA id 50036). tesla.com 403 on 2026-05-12; powertrain/dimensions taken from evspecifications.com (mirrors Tesla data) and fuel_economy from EPA. Battery 8-yr/120k coverage applies to Performance and Long Range trims (vs. 100k for Standard) per Tesla warranty schedule."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Model 3 Performance is split from the regular Model 3 model entry per the catalog's performance-variant rule (instructions/01_research_brand.md Step 1 important note, master_spec §6.4). Tesla's own marketing page is at tesla.com/model3-performance — a dedicated URL distinct from the standard Model 3 page. Single-trim model; sole-trim atomic rule applied. Spec citations triangulated EPA + evspecifications mirror + Tesla's launch blog post; tesla.com domain blocked WebFetch. Phase 4 image scrape: persistent low coverage (0% as of 2026-05-14) — tesla.com hard 403s both static fetch and headless Chromium. Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "Model Y",
+      "model_slug": "model-y",
+      "model_year": 2026,
+      "body_style": "suv-midsize",
+      "generation_context": "Current 'Juniper' refresh Model Y, on sale since early 2025. 2026 MY introduced a new entry-level Standard RWD trim (and an AWD variant) in late 2025/early 2026; the Long Range RWD and Long Range AWD trims carry over and were briefly marketed as 'Premium' during a configurator restructure.",
+      "msrp_range": {
+        "low": 39990,
+        "high": 48990
+      },
+      "model_summary": "Tesla's best-selling vehicle and a midsize 5-seat electric crossover (a 7-seat third-row option is available on Long Range AWD). All four non-Performance Model Y trims share the Juniper-refresh body, 15.4\" touchscreen, and acoustic-glass roof; differences are battery size, motor count, wheel size, and feature content. The hotter Performance variant is treated as a separate model entry.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": 3,
+        "summary": "JD Power has not yet published a 2026 model-year VDS score for the Model Y. Consumer Reports' current predicted reliability sits at mid-pack 3/5 — Juniper improved build quality versus pre-2025 Model Ys, but body hardware and in-car electronics complaints remain. The 2026 MY adds Tesla's new 7-year/70,000-mile high-priced propulsion-related-part warranty layer in addition to the existing 8-year battery and drive unit coverage.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/expert-reviews/2026-tesla-model-y-review",
+          "https://www.notateslaapp.com/news/3130/tesla-adds-7-year-propulsion-warranty-for-2026-model-years"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power has not published a 2026 model-year APEAL score for the Model Y. Juniper-era owners broadly praise ride comfort and quietness improvements; common dissatisfaction points are the deletion of stalks/buttons and the screen-only HVAC interface.",
+        "confidence": "low",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently praise the Juniper refresh for a quieter cabin, better ride compliance, refreshed front and rear fascias, and the addition of a rear touchscreen on Long Range trims. Common critiques echo the Model 3: removal of physical stalks, screen-only HVAC control, lack of CarPlay/Android Auto, and the polarizing 2026 lineup re-shuffling that decontented the Standard trim. The 7-seat Long Range AWD option is positioned as a small-family solution but reviewers note the 3rd row is best for kids.",
+        "links": [
+          {
+            "publication": "JD Power",
+            "url": "https://www.jdpower.com/cars/expert-reviews/2026-tesla-model-y-review",
+            "date": "2026-02-10"
+          },
+          {
+            "publication": "InsideEVs",
+            "url": "https://insideevs.com/tesla/model-y/",
+            "date": "2025-08-15"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB owner-review pages for the 2026 Model Y are too sparse to summarize meaningfully. Carryover sentiment from the late-2025 Juniper Model Y is broadly positive on ride comfort and EPA range; common complaints concern rear visibility through the deeply raked rear glass and the loss of the turn-signal stalk.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/tesla/model-y/2026/",
+          "https://www.kbb.com/tesla/model-y/2026/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Standard RWD",
+          "trim_slug": "standard-rwd",
+          "trim_family": "model-y-standard",
+          "is_base_trim": true,
+          "msrp_base": 39990,
+          "destination_fee": 1640,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 295,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": null,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 69,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 321,
+            "total_range_mi": 321,
+            "dc_fast_charge_peak_kw": 225,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11,
+            "mpge_combined": 138,
+            "plug_type": "Tesla NACS native"
+          },
+          "fuel_economy": {
+            "city_mpg": 148,
+            "highway_mpg": 129,
+            "combined_mpg": 138,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 550
+          },
+          "performance": {
+            "zero_to_60_sec": 6.8,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 125,
+            "towing_capacity_lb": 3500,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 188.6,
+            "width_in": 75.9,
+            "height_in": 63.9,
+            "wheelbase_in": 113.8,
+            "ground_clearance_in": 6.6,
+            "curb_weight_lb": 4061,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 29,
+              "behind_1st_row": 74,
+              "max_with_seats_folded": 74,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "255/45R18"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2025,
+            "iihs_top_safety_pick": "TSP+",
+            "iihs_rating_year": 2025,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 15.4,
+            "driver_display_in": null,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Tesla 7-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "no rear touchscreen (vs. Long Range)",
+              "no subwoofer or ambient lighting (decontented vs. Long Range)",
+              "Traffic-Aware Cruise Control only (no Autosteer)",
+              "manual-adjust steering column",
+              "passive (non-adaptive) dampers",
+              "hands-free power liftgate",
+              "fixed acoustic-glass panoramic roof"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "7yr/70k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y/model-y-standard/front_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y/model-y-standard/rear_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y/model-y-standard/side_profile.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y/model-y-standard/interior_dashboard.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.tesla.com/modely/design",
+            "powertrain": "https://www.evspecifications.com/en/model/1a863ff",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50040",
+            "performance.zero_to_60_sec": "https://www.tesla.com/modely",
+            "dimensions": "https://www.evspecifications.com/en/model/1a863ff",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2025/TESLA/MODEL%20Y",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/top-safety-picks/2025/all/tesla",
+            "features": "https://www.basenor.com/blogs/news/tesla-2026-model-3-model-y-lineup-revamped-full-pricing-what-to-do",
+            "warranty": "https://www.tesla.com/support/vehicle-warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Standard RWD 18\" wheel configuration (EPA id 50040, 138 MPGe / 321 mi). EPA also lists a 19\"-wheel configuration (id 50041, 131 MPGe / 303 mi) at the same MSRP; treated as the standard wheel upgrade option on the same trim, not a separate trim entry. tesla.com 403 on 2026-05-12; specs reconciled from EPA + evspecifications mirrors. IIHS Top Safety Pick+ status carries over from 2025 (testing on 2025 Long Range AWD); the Juniper structure is unchanged for 2026. Sole-trim atomic rule applied to trim_family model-y-standard (Standard RWD is the only trim in its family because Standard AWD shares the family only as 'is_shared_with_trim_family'; actually Standard AWD has different image set — see below)."
+        },
+        {
+          "trim": "Standard AWD",
+          "trim_slug": "standard-awd",
+          "trim_family": "model-y-standard",
+          "is_base_trim": false,
+          "msrp_base": 41990,
+          "destination_fee": 1640,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 390,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": null,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 69,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 294,
+            "total_range_mi": 294,
+            "dc_fast_charge_peak_kw": 225,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11,
+            "mpge_combined": 127,
+            "plug_type": "Tesla NACS native"
+          },
+          "fuel_economy": {
+            "city_mpg": 133,
+            "highway_mpg": 120,
+            "combined_mpg": 127,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 600
+          },
+          "performance": {
+            "zero_to_60_sec": 5.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 125,
+            "towing_capacity_lb": 3500,
+            "payload_capacity_lb": null
+          },
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "255/45R18"
+          },
+          "safety": null,
+          "features": null,
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y/model-y-standard/front_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y/model-y-standard/rear_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y/model-y-standard/side_profile.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y/model-y-standard/interior_dashboard.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.tesla.com/modely/design",
+            "powertrain": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50304",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50304",
+            "performance.zero_to_60_sec": "https://www.basenor.com/blogs/news/tesla-2026-model-3-model-y-lineup-revamped-full-pricing-what-to-do",
+            "dimensions": "https://www.evspecifications.com/en/model/1a863ff",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2025/TESLA/MODEL%20Y",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/top-safety-picks/2025/all/tesla",
+            "features": "https://www.basenor.com/blogs/news/tesla-2026-model-3-model-y-lineup-revamped-full-pricing-what-to-do",
+            "warranty": "https://www.tesla.com/support/vehicle-warranty"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "standard-rwd",
+            "msrp_delta_usd": 2000,
+            "changes": [
+              "Adds front motor for AWD-electric drivetrain (~390 combined hp vs. 295)",
+              "EPA range drops to 294 mi (vs. 321) due to added front motor and weight",
+              "0-60 drops to ~5.5 sec (vs. 6.8)",
+              "Combined MPGe 127 (vs. 138) — AWD efficiency cost"
+            ]
+          },
+          "notes": "Standard AWD adds the front motor and slightly increases price; non-powertrain specs (dimensions, features, safety, warranty, interior) carry over from Standard RWD and are set to null per spec §6.3. EPA id=50304 confirms 294 mi range and 127 MPGe; Tesla had not separately listed an MSRP in the EPA record so MSRP $41,990 ($2,000 over RWD) is taken from reconciled secondary reporting (basenor 2026 lineup). Trim_family shared with Standard RWD."
+        },
+        {
+          "trim": "Long Range RWD",
+          "trim_slug": "long-range-rwd",
+          "trim_family": "model-y-long-range",
+          "is_base_trim": false,
+          "msrp_base": 44990,
+          "destination_fee": 1640,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 295,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": null,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 78.4,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 357,
+            "total_range_mi": 357,
+            "dc_fast_charge_peak_kw": 250,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 134,
+            "plug_type": "Tesla NACS native"
+          },
+          "fuel_economy": {
+            "city_mpg": 144,
+            "highway_mpg": 123,
+            "combined_mpg": 134,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 550
+          },
+          "performance": {
+            "zero_to_60_sec": 5.4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 125,
+            "towing_capacity_lb": 3500,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 188.6,
+            "width_in": 75.9,
+            "height_in": 63.9,
+            "wheelbase_in": 113.8,
+            "ground_clearance_in": 6.6,
+            "curb_weight_lb": 4191,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 29,
+              "behind_1st_row": 74,
+              "max_with_seats_folded": 74,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "255/45R19"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 15.4,
+            "driver_display_in": null,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Tesla Premium 15-speaker with subwoofer",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "rear 8-inch touchscreen for back-seat climate and media",
+              "adaptive dampers (vs. passive on Standard)",
+              "ambient interior lighting",
+              "Autopilot Autosteer included",
+              "NACS DC fast charging up to 250 kW",
+              "power-folding heated mirrors"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y/model-y-long-range/front_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y/model-y-long-range/rear_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y/model-y-long-range/side_profile.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y/model-y-long-range/interior_dashboard.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.tesla.com/modely/design",
+            "powertrain": "https://www.evspecifications.com/en/model/dc2d400",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49743",
+            "performance.zero_to_60_sec": "https://www.tesla.com/modely",
+            "dimensions": "https://www.evspecifications.com/en/model/dc2d400",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2025/TESLA/MODEL%20Y",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/top-safety-picks/2025/all/tesla",
+            "features": "https://www.basenor.com/blogs/news/tesla-2026-model-3-model-y-lineup-revamped-full-pricing-what-to-do",
+            "warranty": "https://www.tesla.com/support/vehicle-warranty"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "standard-rwd",
+            "msrp_delta_usd": 5000,
+            "changes": [
+              "Larger 78.4 kWh battery raises EPA range from 321 to 357 miles",
+              "0-60 drops to 5.4 sec (vs. 6.8)",
+              "DC fast charging peak rises to 250 kW (vs. 225 kW Standard)",
+              "Adds Autopilot Autosteer",
+              "Adds Tesla Premium 15-speaker audio with subwoofer",
+              "Adds adaptive dampers, ambient lighting, rear 8\" screen",
+              "Adds ventilated seats and memory driver's seat",
+              "Larger 19\" wheels standard (vs. 18\" on Standard)"
+            ]
+          },
+          "notes": "EPA range 357 mi (id 49743). 8-yr/120k battery warranty applies to Long Range trims (vs. 100k on Standard). Spec blocks unchanged from base set to null per spec §6.3 (safety, warranty). Trim_family model-y-long-range covers Long Range RWD and Long Range AWD."
+        },
+        {
+          "trim": "Long Range AWD",
+          "trim_slug": "long-range-awd",
+          "trim_family": "model-y-long-range",
+          "is_base_trim": false,
+          "msrp_base": 48990,
+          "destination_fee": 1640,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 444,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": null,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 78.4,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 327,
+            "total_range_mi": 327,
+            "dc_fast_charge_peak_kw": 250,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 123,
+            "plug_type": "Tesla NACS native"
+          },
+          "fuel_economy": {
+            "city_mpg": 130,
+            "highway_mpg": 115,
+            "combined_mpg": 123,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 600
+          },
+          "performance": {
+            "zero_to_60_sec": 4.6,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 125,
+            "towing_capacity_lb": 3500,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 188.6,
+            "width_in": 75.9,
+            "height_in": 63.9,
+            "wheelbase_in": 113.8,
+            "ground_clearance_in": 6.6,
+            "curb_weight_lb": 4416,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 29,
+              "behind_1st_row": 74,
+              "max_with_seats_folded": 74,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "255/45R19"
+          },
+          "safety": null,
+          "features": null,
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y/model-y-long-range/front_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y/model-y-long-range/rear_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y/model-y-long-range/side_profile.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y/model-y-long-range/interior_dashboard.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.tesla.com/modely/design",
+            "powertrain": "https://www.evspecifications.com/en/model/0bec401",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49744",
+            "performance.zero_to_60_sec": "https://www.tesla.com/modely",
+            "dimensions": "https://www.evspecifications.com/en/model/0bec401",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2025/TESLA/MODEL%20Y",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/top-safety-picks/2025/all/tesla",
+            "features": "https://www.basenor.com/blogs/news/tesla-2026-model-3-model-y-lineup-revamped-full-pricing-what-to-do",
+            "warranty": "https://www.tesla.com/support/vehicle-warranty"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "standard-rwd",
+            "msrp_delta_usd": 9000,
+            "changes": [
+              "Adds front motor for AWD-electric drivetrain (~444 combined hp vs. 295)",
+              "Larger 78.4 kWh battery; EPA range 327 mi (vs. 321 on Standard but 30 mi less than LR RWD due to AWD)",
+              "0-60 drops to 4.6 sec (vs. 6.8)",
+              "Combined MPGe 123 (vs. 138)",
+              "DC fast charging peak rises to 250 kW",
+              "All Long Range feature uplifts (Autopilot, 15-speaker premium audio, adaptive dampers, ventilated/memory seats, rear screen, ambient lighting)",
+              "Optional 7-seat third-row configuration available ($2,500)"
+            ]
+          },
+          "notes": "EPA range 327 mi (id 49744). Towing 3,500 lb requires Tesla's tow package option. 7-seat third-row is offered only on Long Range AWD ($2,500 option) — capacity field left at 5 seats reflecting the standard configuration; the 7-seat is treated as a paid option not a separate trim, per spec §6.5 (packages do not become trims). Shares trim_family with Long Range RWD."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Tesla restructured the Model Y configurator twice during the 2026 MY: October 2025 launch of Standard RWD/AWD, and a March/April 2026 rename (Long Range trims briefly labeled 'Premium'). The trim list here uses the names that appear on EPA fueleconomy.gov 2026 published entries (Standard RWD/AWD at id 50040/50041/50304 and Long Range RWD/AWD at id 49743/49744). Performance AWD (EPA id 50253) is split out under the Model Y Performance model entry per the performance-variant rule. tesla.com 403 on 2026-05-12; specs reconciled from EPA + evspecifications.com mirrors + secondary press. Tesla destination + order fee = $1,640. NHTSA 5-star and IIHS TSP+ ratings carry over from 2025 (no structural changes in Juniper refresh for 2026). Phase 4 image scrape: persistent low coverage (0% as of 2026-05-14) — tesla.com hard 403s both static fetch and headless Chromium. Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "Model Y Performance",
+      "model_slug": "model-y-performance",
+      "model_year": 2026,
+      "body_style": "suv-midsize",
+      "generation_context": "First Juniper-platform Model Y Performance, debuted globally August 2025 (US launch October 2025). Adds front and rear fascia restyling, a unique active rear spoiler, larger 21\" forged wheels, adaptive dampers, Sport seats with new heating/ventilation pattern, and a 460-hp dual-motor powertrain.",
+      "msrp_range": {
+        "low": 58880,
+        "high": 58880
+      },
+      "model_summary": "Performance variant of the Juniper-refresh Model Y with 460 horsepower, 0-60 in 3.3 seconds, adaptive damping suspension, larger brakes, and unique aero. Separated from the Model Y model entry per the catalog's performance-variant rule.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": 3,
+        "summary": "JD Power has not published a 2026 model-year VDS score specifically for the Model Y Performance. Consumer Reports' current Model Y predicted reliability of 3/5 nominally applies; the Performance's lower production volume yields less aggregate data.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/expert-reviews/2026-tesla-model-y-review"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet published (typical July release). However, JD Power's 2026 US EV Experience (EVX) Ownership Study scored the Model Y Performance at 797 out of 1000 in the premium BEV segment (segment average: 786), Tesla taking the top two positions with the Model 3 (804) and Model Y (797). Note: EVX is a long-term ownership satisfaction study and is methodologically distinct from APEAL, which measures new-buyer initial appeal.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the 2026 Model Y Performance as the most polished Tesla SUV yet, citing the adaptive dampers, sharper steering tune, sport seats, and the active rear spoiler. The 0-60 of 3.3 seconds is competitive with much pricier German performance SUVs. Common critiques are firm low-speed ride, 21\"-wheel range penalty, and the same Tesla-wide UI issues (stalkless indicators, screen-only HVAC).",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/car-news/2026-tesla-model-y-performance-first-drive-review.html",
+            "date": "2025-10-20"
+          },
+          {
+            "publication": "Electrek",
+            "url": "https://electrek.co/2025/08/29/tesla-launches-model-y-performance-in-europe-an-suv-that-goes-0-100-in-3-5s/",
+            "date": "2025-08-29"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owner-review sample sizes for the 2026 Model Y Performance are too small to summarize meaningfully on Edmunds/KBB this early. Early launch reviewer sentiment is broadly positive.",
+        "confidence": "low",
+        "sources": []
+      },
+      "trims": [
+        {
+          "trim": "Performance",
+          "trim_slug": "performance",
+          "trim_family": "model-y-performance",
+          "is_base_trim": true,
+          "msrp_base": 58880,
+          "destination_fee": 1640,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 460,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": null,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 84,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 306,
+            "total_range_mi": 306,
+            "dc_fast_charge_peak_kw": 250,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 105,
+            "plug_type": "Tesla NACS native"
+          },
+          "fuel_economy": {
+            "city_mpg": 111,
+            "highway_mpg": 100,
+            "combined_mpg": 105,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 700
+          },
+          "performance": {
+            "zero_to_60_sec": 3.3,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 155,
+            "towing_capacity_lb": 3500,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 188.8,
+            "width_in": 75.6,
+            "height_in": 63.4,
+            "wheelbase_in": 113.8,
+            "ground_clearance_in": 6.6,
+            "curb_weight_lb": 4482,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 30,
+              "behind_1st_row": 72,
+              "max_with_seats_folded": 72,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "255/35R21 (front), 275/35R21 (rear)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2025,
+            "iihs_top_safety_pick": "TSP+",
+            "iihs_rating_year": 2025,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 15.4,
+            "driver_display_in": null,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Tesla Premium 15-speaker with subwoofer",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Active rear spoiler that deploys at speed",
+              "Sport seats with deeper bolsters",
+              "Adaptive damper suspension tuned firmer than Long Range",
+              "Performance brake package: larger front rotors and calipers",
+              "21\" forged Performance wheels with staggered tires",
+              "Track Mode (Model Y Performance gets the Model 3 Performance Track Mode V3)",
+              "Autopilot Autosteer included",
+              "NACS DC fast charging up to 250 kW",
+              "Carbon-fiber trim interior accents"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "7yr/70k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": "8yr/120k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y-performance/model-y-performance/front_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y-performance/model-y-performance/rear_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y-performance/model-y-performance/side_profile.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.tesla.com/modely",
+              "local_path": "images/tesla/model-y-performance/model-y-performance/interior_dashboard.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.tesla.com/modely/design",
+            "powertrain": "https://www.evspecifications.com/en/model/e77e402",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50253",
+            "performance.zero_to_60_sec": "https://www.tesla.com/modely",
+            "dimensions": "https://www.evspecifications.com/en/model/e77e402",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2025/TESLA/MODEL%20Y",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/top-safety-picks/2025/all/tesla",
+            "features": "https://www.tesla.com/modely",
+            "warranty": "https://www.tesla.com/support/vehicle-warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Sole trim of Model Y Performance — is_base_trim: true with delta_from_base: null per sole-trim atomic rule. Manufacturer-published combined output is 460 hp (basenor/Edmunds/TFL consensus); evspecifications' aggregate motor sum of 461 kW (~618 hp peak motor) is not Tesla's published rating. EPA id 50253 confirms 306 mi range and 105 MPGe combined. 8-yr/120k battery warranty applies. MSRP $58,880 per April-2026 basenor lineup roundup (Tesla.com 403 on 2026-05-12); evspecifications mirror lists $57,490 (Oct-2025 launch price), then Tesla raised it. The April-2026 price is the more recent figure."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Split from the Model Y model entry per the performance-variant rule (instructions/01_research_brand.md Step 1 important note). Tesla markets the Performance variant on a dedicated tesla.com/modely sub-section. Single-trim model; sole-trim atomic rule applied. Specs reconciled from EPA fueleconomy.gov 2026 entry (id 50253), Tesla's Juniper Performance launch press, and evspecifications' Tesla data mirror. Phase 4 image scrape: persistent low coverage (0% as of 2026-05-14) — tesla.com hard 403s both static fetch and headless Chromium. Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "Model S",
+      "model_slug": "model-s",
+      "model_year": 2026,
+      "body_style": "sedan",
+      "generation_context": "Final 2026 MY of the Model S; refreshed with adaptive matrix LED headlights, new wheel designs, additional sound deadening, retuned air suspension, and a Luxe Package made standard (FSD Supervised, lifetime Supercharging credit bundle, 4-year service plan). Tesla wound down production in May 2026; remaining inventory and Signature Series cars are still sold new in the US.",
+      "msrp_range": {
+        "low": 94990,
+        "high": 94990
+      },
+      "model_summary": "Tesla's full-size luxury electric sedan. The 2026 base Model S is the dual-motor AWD long-range trim (the Plaid Tri-Motor is a separate model entry). The Luxe Package — FSD (Supervised), four years of premium connectivity and Protection Plan coverage, lifetime free Supercharging — is now standard, raising the cash price by $10,000 from the 2025 figure. Production ended in May 2026; new sales continue from inventory.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": 2,
+        "summary": "JD Power has not published a 2026 model-year VDS score for the Model S. Consumer Reports' most recent Model S predicted reliability is below average (~2/5), citing complaints around climate-control hardware, air-suspension issues, and infotainment.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/tesla/model-s"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet published (typical July release). The Model S was not included as an award-eligible model in JD Power's 2026 US EV Experience (EVX) Ownership Study premium BEV segment, which scored Tesla Model 3 (804) and Model Y (797) at the top of the segment (avg 786). Direct APEAL data for the Model S is not yet available.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers acknowledge the 2026 Model S as a polished but aging full-size EV: the adaptive matrix headlights, retuned suspension, and added insulation are welcome, but the 14-year-old platform shows its age against newer luxury EVs (Lucid Air, BMW i7, Mercedes EQS). Common critiques are the polarizing yoke option (still $1,000), the screen-only HVAC, and the recent end-of-production announcement reducing the model's future value.",
+        "links": [
+          {
+            "publication": "Electrek",
+            "url": "https://electrek.co/2026/04/01/tesla-model-s-x-production-over-only-inventory-left/",
+            "date": "2026-04-01"
+          },
+          {
+            "publication": "JD Power",
+            "url": "https://www.jdpower.com/cars/2026/tesla/model-s",
+            "date": "2026-02-01"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB owner-review pages for the 2026 Model S have small sample sizes given the end-of-production timing. Carryover sentiment from 2024-2025 Model S owners praises the cabin quietness, EPA range, and performance, with persistent complaints about service wait times and air-suspension reliability.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/tesla/model-s/2026/",
+          "https://www.kbb.com/tesla/model-s/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Model S",
+          "trim_slug": "model-s",
+          "trim_family": "model-s",
+          "is_base_trim": true,
+          "msrp_base": 94990,
+          "destination_fee": 1390,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 670,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": null,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 100,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 410,
+            "total_range_mi": 410,
+            "dc_fast_charge_peak_kw": 250,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 124,
+            "plug_type": "Tesla NACS native"
+          },
+          "fuel_economy": {
+            "city_mpg": 132,
+            "highway_mpg": 116,
+            "combined_mpg": 124,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 600
+          },
+          "performance": {
+            "zero_to_60_sec": 3.1,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 149,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 197.7,
+            "width_in": 78.2,
+            "height_in": 56.3,
+            "wheelbase_in": 116.5,
+            "ground_clearance_in": 4.6,
+            "curb_weight_lb": 4561,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 25
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "245/45R19"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 17,
+            "driver_display_in": 12.3,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Tesla Premium 22-speaker with subwoofer",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Rear-seat 9.4\" touchscreen for media/games/climate",
+              "Air suspension with adaptive damping (height-adjustable)",
+              "Adaptive matrix LED headlights",
+              "Heated rear seats standard, ventilated rear optional",
+              "Wood interior trim with ambient lighting",
+              "Tri-zone climate control with HEPA filtration",
+              "Tesla Luxe Package standard: FSD (Supervised), lifetime Supercharging, 4-year Protection Plan and Premium Connectivity",
+              "Optional steering yoke (no-cost option as of 2024; reverted to traditional round wheel as standard)",
+              "Front-view camera new for 2026 refresh",
+              "NACS DC fast charging up to 250 kW"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "7yr/70k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": "8yr/150k",
+            "complimentary_maintenance_yr_mi": "4yr/50k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.tesla.com/models",
+              "local_path": "images/tesla/model-s/model-s/front_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.tesla.com/models",
+              "local_path": "images/tesla/model-s/model-s/rear_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.tesla.com/models",
+              "local_path": "images/tesla/model-s/model-s/side_profile.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.tesla.com/models",
+              "local_path": "images/tesla/model-s/model-s/interior_dashboard.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.tesla.com/models/design",
+            "powertrain": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49741",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49741",
+            "performance.zero_to_60_sec": "https://www.tesla.com/models",
+            "dimensions": "https://www.tesla.com/models",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/TESLA/MODEL%20S",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/top-safety-picks/2026",
+            "features": "https://www.notateslaapp.com/news/3027/tesla-introduces-luxe-package-for-model-s-and-model-x-raises-price-by-10k",
+            "warranty": "https://www.tesla.com/support/vehicle-warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Sole trim of Model S — is_base_trim: true with delta_from_base: null per sole-trim atomic rule. MSRP $94,990 reflects the post-August-2025 Luxe Package mandatory bundle (was $84,990 pre-Luxe). Tesla ended Model S production in May 2026; sales continue from inventory and the limited Signature Series (350-unit invite-only run at $159,420) — those are not separate trim entries because they are not openly orderable lineup positions. EPA id 49741 confirms 410 mi range and 124 MPGe combined for the 19\"-wheel configuration. NHTSA and IIHS have not published 2026 Model S ratings; this is a low-volume model and prior-year ratings do not have valid 2026 carryover entries. ADAS booleans reflect base standard equipment — FSD (Supervised) is bundled but its automation features are NOT counted toward standard ADAS (the spec is conservative on this — Tesla's FSD Beta/Supervised is not equivalent to true L2+ in the ADAS sense for standard-equipment rating). Battery warranty is 8yr/150k for Model S (vs. 8yr/120k Model 3/Y Long Range, 8yr/100k Standard)."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Tesla wound down Model S production in May 2026 (Electrek 2026-04-01) but inventory cars are still available for new sale. The Signature Plaid (350-unit invite-only final run at ~$159,420) is offered but not a publicly-orderable trim — treated as outside the catalog. Plaid Tri-Motor is split as its own model entry per the performance-variant rule. Luxe Package was made standard August 2025, raising prices by $10,000. tesla.com 403 on 2026-05-12; specs taken from EPA + cars.com + tesla.com/support (warranty). NHTSA had not published a 2026 Model S overall rating as of the research date — set to null. Phase 4 image scrape: persistent low coverage (0% as of 2026-05-14) — tesla.com hard 403s both static fetch and headless Chromium. Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "Model S Plaid",
+      "model_slug": "model-s-plaid",
+      "model_year": 2026,
+      "body_style": "sedan",
+      "generation_context": "Final 2026 MY of the Tri-Motor Plaid Model S; 2026 refresh adds a redesigned front bumper for high-speed aero, carbon-ceramic brakes as standard (~33 lb lighter), reworked rear diffuser, and the Luxe Package made mandatory. Production ended in May 2026 alongside the regular Model S.",
+      "msrp_range": {
+        "low": 109990,
+        "high": 109990
+      },
+      "model_summary": "Top performance Tri-Motor Model S, with three permanent-magnet motors and carbon-sleeved rotors producing 1,020 horsepower and 0-60 in roughly 1.99 seconds. Separated from the Model S model entry per the performance-variant rule.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": 2,
+        "summary": "JD Power has not published a 2026 model-year VDS score for the Model S Plaid. Consumer Reports' below-average Model S predicted reliability covers all Plaid and non-Plaid Model S trims. Tri-Motor-specific reliability data is sparse.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/tesla/model-s"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet published (typical July release). The Model S Plaid was not included as an award-eligible model in JD Power's 2026 US EV Experience (EVX) Ownership Study premium BEV segment, which scored Tesla Model 3 (804) and Model Y (797) at the top of the segment (avg 786). Direct APEAL data for the Model S Plaid is not yet available.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the 2026 Plaid as the final and best-developed iteration of Tesla's Tri-Motor: standard carbon-ceramic brakes, improved aerodynamic balance, and the now-mandatory Luxe Package make it more livable than prior Plaids. The discontinuation announcement reframes the car as a collector vehicle for enthusiasts rather than a competitive luxury performance flagship.",
+        "links": [
+          {
+            "publication": "Electrek",
+            "url": "https://electrek.co/2026/04/11/tesla-signature-series-model-s-x-final-run-pricing/",
+            "date": "2026-04-11"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/tesla/model-s/2026/",
+            "date": "2026-05-13"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owner-review samples for the 2026 Plaid are very small. Carryover sentiment praises the acceleration and Track Pack handling improvements; common complaints concern range loss on 21\" wheels, harsh ride, and Tesla service experiences.",
+        "confidence": "low",
+        "sources": []
+      },
+      "trims": [
+        {
+          "trim": "Plaid",
+          "trim_slug": "plaid",
+          "trim_family": "model-s-plaid",
+          "is_base_trim": true,
+          "msrp_base": 109990,
+          "destination_fee": 1390,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 1020,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": null,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 100,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 368,
+            "total_range_mi": 368,
+            "dc_fast_charge_peak_kw": 250,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 110,
+            "plug_type": "Tesla NACS native"
+          },
+          "fuel_economy": {
+            "city_mpg": 114,
+            "highway_mpg": 105,
+            "combined_mpg": 110,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 700
+          },
+          "performance": {
+            "zero_to_60_sec": 1.99,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 200,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 197.7,
+            "width_in": 78.2,
+            "height_in": 56.3,
+            "wheelbase_in": 116.5,
+            "ground_clearance_in": 4.5,
+            "curb_weight_lb": 4766,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 25
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "265/35R19"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 17,
+            "driver_display_in": 12.3,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Tesla Premium 22-speaker with subwoofer",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Three permanent-magnet motors with carbon-fiber-sleeved rotors",
+              "Standard carbon-ceramic brake package (new for 2026)",
+              "200 mph top speed unlocked via Track Pack",
+              "Plaid-specific redesigned front bumper for high-speed downforce",
+              "Reworked rear diffuser and active rear spoiler",
+              "Air suspension with adaptive damping",
+              "Adaptive matrix LED headlights",
+              "Rear-seat 9.4\" touchscreen",
+              "Tesla Luxe Package standard: FSD (Supervised), lifetime Supercharging, 4-year Protection Plan and Premium Connectivity",
+              "Optional 21\" Arachnid wheel (range drops to 309 mi per EPA id 50252)",
+              "Optional steering yoke",
+              "NACS DC fast charging up to 250 kW"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "7yr/70k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": "8yr/150k",
+            "complimentary_maintenance_yr_mi": "4yr/50k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.tesla.com/models",
+              "local_path": "images/tesla/model-s-plaid/model-s-plaid/front_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.tesla.com/models",
+              "local_path": "images/tesla/model-s-plaid/model-s-plaid/rear_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.tesla.com/models",
+              "local_path": "images/tesla/model-s-plaid/model-s-plaid/side_profile.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.tesla.com/models",
+              "local_path": "images/tesla/model-s-plaid/model-s-plaid/interior_dashboard.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.tesla.com/models/design",
+            "powertrain": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49742",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49742",
+            "performance.zero_to_60_sec": "https://www.tesla.com/models",
+            "dimensions": "https://www.tesla.com/models",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/TESLA/MODEL%20S",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/top-safety-picks/2026",
+            "features": "https://www.tesla.com/models",
+            "warranty": "https://www.tesla.com/support/vehicle-warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Sole trim of Model S Plaid — is_base_trim: true with delta_from_base: null per sole-trim atomic rule. MSRP $109,990 reflects post-Luxe-Package pricing. EPA lists 2 Plaid wheel configs for 2026: id 49742 (19\" wheels, 368 mi, 110 MPGe) used as standard; id 50252 (21\" wheels, 309 mi, 93 MPGe) is the larger-wheel option not a separate trim. 200 mph top speed requires the Track Pack option (Plaid base top speed is 163 mph stock; 200 mph unlocked with carbon-ceramic brake + Track Pack hardware which became standard for 2026 MY). NHTSA/IIHS have not published 2026 entries. Production wound down May 2026."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Tesla wound down Model S Plaid production alongside the regular Model S in May 2026. Plaid is split from Model S model entry per the performance-variant rule. Single-trim model; sole-trim atomic rule applied. The 2026 refresh added standard carbon-ceramic brakes, the redesigned front bumper, and made the Luxe Package mandatory. tesla.com 403 on 2026-05-12; specs reconciled from EPA + secondary press. Phase 4 image scrape: persistent low coverage (0% as of 2026-05-14) — tesla.com hard 403s both static fetch and headless Chromium. Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "Model X",
+      "model_slug": "model-x",
+      "model_year": 2026,
+      "body_style": "suv-3row",
+      "generation_context": "Final 2026 MY of the falcon-wing Model X. The 2026 refresh adds adaptive matrix LED headlights, retuned air suspension, additional cabin insulation, and the Luxe Package made mandatory. Production wound down in May 2026 alongside the Model S.",
+      "msrp_range": {
+        "low": 99990,
+        "high": 99990
+      },
+      "model_summary": "Tesla's full-size luxury electric SUV with signature falcon-wing rear doors and three-row seating (5- or 6-seat standard; 7-seat available). The 2026 base Model X is the dual-motor AWD long-range trim (the Plaid Tri-Motor is a separate model entry). Production ended in May 2026; new sales continue from inventory.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": 2,
+        "summary": "JD Power has not published a 2026 model-year VDS score for the Model X. Consumer Reports' most recent Model X predicted reliability is below average (~2/5), driven primarily by falcon-wing-door hardware issues and air-suspension complaints.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/tesla/model-x"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet published (typical July release). The Model X was not included as an award-eligible model in JD Power's 2026 US EV Experience (EVX) Ownership Study premium BEV segment, which scored Tesla Model 3 (804) and Model Y (797) at the top of the segment (avg 786). Direct APEAL data for the Model X is not yet available.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers view the 2026 Model X as a polished but aging full-size electric SUV: the falcon-wing doors remain a polarizing feature, the third row is best for kids, and the platform shows its 10-year-old roots against newer luxury electric SUVs (Lucid Gravity, Rivian R1S, BMW iX). The 2026 refresh and Luxe Package bundle are appreciated; the end-of-production announcement reframes the model as a collector vehicle.",
+        "links": [
+          {
+            "publication": "Electrek",
+            "url": "https://electrek.co/2026/04/01/tesla-model-s-x-production-over-only-inventory-left/",
+            "date": "2026-04-01"
+          },
+          {
+            "publication": "JD Power",
+            "url": "https://www.jdpower.com/cars/2026/tesla/model-x",
+            "date": "2026-02-01"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB owner-review pages for the 2026 Model X have small sample sizes given end-of-production timing. Carryover 2024-2025 sentiment praises the cargo, range, and falcon-wing-door utility; common complaints concern door reliability and air-suspension issues.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/tesla/model-x/2026/",
+          "https://www.kbb.com/tesla/model-x/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Model X",
+          "trim_slug": "model-x",
+          "trim_family": "model-x",
+          "is_base_trim": true,
+          "msrp_base": 99990,
+          "destination_fee": 1390,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 670,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": null,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 100,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 352,
+            "total_range_mi": 352,
+            "dc_fast_charge_peak_kw": 250,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 105,
+            "plug_type": "Tesla NACS native"
+          },
+          "fuel_economy": {
+            "city_mpg": 110,
+            "highway_mpg": 99,
+            "combined_mpg": 105,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 700
+          },
+          "performance": {
+            "zero_to_60_sec": 3.8,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 149,
+            "towing_capacity_lb": 5000,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 198.3,
+            "width_in": 78.7,
+            "height_in": 66.3,
+            "wheelbase_in": 116.7,
+            "ground_clearance_in": 5.4,
+            "curb_weight_lb": 5148,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 14.8,
+              "behind_2nd_row": 35.2,
+              "behind_1st_row": 88,
+              "max_with_seats_folded": 88,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 6,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "265/45R20"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 17,
+            "driver_display_in": 12.3,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Tesla Premium 22-speaker with subwoofer",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Signature falcon-wing rear doors",
+              "Standard 6-seat captain's-chair configuration; 5-seat and 7-seat available at no cost",
+              "Rear-seat 9.4\" touchscreen",
+              "Air suspension with adaptive damping (height-adjustable)",
+              "Adaptive matrix LED headlights (new for 2026 refresh)",
+              "Heated rear seats standard",
+              "Tri-zone climate with HEPA filtration and Bioweapon Defense mode",
+              "Tesla Luxe Package standard: FSD (Supervised), lifetime Supercharging, 4-year Protection Plan and Premium Connectivity",
+              "Class-II tow package available (5,000 lb capacity)",
+              "Optional steering yoke",
+              "NACS DC fast charging up to 250 kW"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "7yr/70k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": "8yr/150k",
+            "complimentary_maintenance_yr_mi": "4yr/50k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.tesla.com/modelx",
+              "local_path": "images/tesla/model-x/model-x/front_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.tesla.com/modelx",
+              "local_path": "images/tesla/model-x/model-x/rear_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.tesla.com/modelx",
+              "local_path": "images/tesla/model-x/model-x/side_profile.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.tesla.com/modelx",
+              "local_path": "images/tesla/model-x/model-x/interior_dashboard.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.tesla.com/modelx/design",
+            "powertrain": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49745",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49745",
+            "performance.zero_to_60_sec": "https://www.tesla.com/modelx",
+            "dimensions": "https://www.tesla.com/modelx",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/TESLA/MODEL%20X",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/top-safety-picks/2026",
+            "features": "https://www.notateslaapp.com/news/3027/tesla-introduces-luxe-package-for-model-s-and-model-x-raises-price-by-10k",
+            "warranty": "https://www.tesla.com/support/vehicle-warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Sole trim of Model X — is_base_trim: true with delta_from_base: null per sole-trim atomic rule. MSRP $99,990 reflects post-August-2025 Luxe Package mandatory bundle (was $89,990 pre-Luxe). Body_style 'suv-3row' chosen per master_spec §5 (Model X is sold standard with 3 rows — 6-seat configuration is the default; 5- and 7-seat are also offered at no extra cost). EPA id 49745 confirms 352 mi range and 105 MPGe for the standard 20\" wheel configuration. NHTSA and IIHS have not published 2026 Model X ratings; set to null. Production ended May 2026; sales continue from remaining ~600-unit global inventory and the Signature Series invite-only run (not a separately-orderable trim)."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Model X production wound down in May 2026 (Electrek 2026-04-01); inventory cars are still sold new. Model X Plaid is split as its own model entry. Body_style is 'suv-3row' per master_spec §5 because Model X is offered standard with 3 rows of seats. tesla.com 403 on 2026-05-12; specs reconciled from EPA + cars.com + tesla.com/support. Phase 4 image scrape: persistent low coverage (0% as of 2026-05-14) — tesla.com hard 403s both static fetch and headless Chromium. Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "Model X Plaid",
+      "model_slug": "model-x-plaid",
+      "model_year": 2026,
+      "body_style": "suv-3row",
+      "generation_context": "Final 2026 MY of the Tri-Motor Plaid Model X; the 2026 refresh adds the same Luxe Package mandatory bundle, retuned air suspension, additional cabin insulation, and adaptive matrix LED headlights as the base Model X. Production wound down in May 2026.",
+      "msrp_range": {
+        "low": 114990,
+        "high": 114990
+      },
+      "model_summary": "Top performance Tri-Motor Model X, with three permanent-magnet motors producing 1,020 horsepower and 0-60 in roughly 2.5 seconds. Separated from the Model X model entry per the performance-variant rule.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": 2,
+        "summary": "JD Power has not published a 2026 model-year VDS score for the Model X Plaid. Consumer Reports' below-average Model X predicted reliability covers all Model X trims; Tri-Motor-specific data is sparse.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/tesla/model-x"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet published (typical July release). The Model X Plaid was not included as an award-eligible model in JD Power's 2026 US EV Experience (EVX) Ownership Study premium BEV segment, which scored Tesla Model 3 (804) and Model Y (797) at the top of the segment (avg 786). Direct APEAL data for the Model X Plaid is not yet available.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the Model X Plaid as a genuinely fast full-size electric SUV with three rows of seats and falcon-wing doors — a unique combination — but the platform's age and the end-of-production announcement temper enthusiasm. The 2026 refresh delivers small but welcome improvements; the Luxe Package bundle increases value but also price.",
+        "links": [
+          {
+            "publication": "Electrek",
+            "url": "https://electrek.co/2026/04/11/tesla-signature-series-model-s-x-final-run-pricing/",
+            "date": "2026-04-11"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/tesla/model-x/2026/",
+            "date": "2026-05-13"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owner-review samples for the 2026 Model X Plaid are very small. Carryover sentiment praises the acceleration and the unique combo of speed + 3 rows + falcon-wing doors; common complaints concern range loss on 22\" wheels and air-suspension reliability.",
+        "confidence": "low",
+        "sources": []
+      },
+      "trims": [
+        {
+          "trim": "Plaid",
+          "trim_slug": "plaid",
+          "trim_family": "model-x-plaid",
+          "is_base_trim": true,
+          "msrp_base": 114990,
+          "destination_fee": 1390,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 1020,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": null,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 100,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 335,
+            "total_range_mi": 335,
+            "dc_fast_charge_peak_kw": 250,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 100,
+            "plug_type": "Tesla NACS native"
+          },
+          "fuel_economy": {
+            "city_mpg": 105,
+            "highway_mpg": 94,
+            "combined_mpg": 100,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 750
+          },
+          "performance": {
+            "zero_to_60_sec": 2.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 163,
+            "towing_capacity_lb": 5000,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 198.3,
+            "width_in": 78.7,
+            "height_in": 66.3,
+            "wheelbase_in": 116.7,
+            "ground_clearance_in": 5.4,
+            "curb_weight_lb": 5390,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 14.8,
+              "behind_2nd_row": 35.2,
+              "behind_1st_row": 88,
+              "max_with_seats_folded": 88,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 6,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "265/45R20"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 17,
+            "driver_display_in": 12.3,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Tesla Premium 22-speaker with subwoofer",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Three permanent-magnet motors with carbon-fiber-sleeved rotors (1,020 hp)",
+              "Plaid-specific suspension calibration and carbon-fiber spoiler accents",
+              "Falcon-wing rear doors retained",
+              "Standard 6-seat captain's-chair configuration; 5- and 7-seat options",
+              "Rear-seat 9.4\" touchscreen",
+              "Air suspension with adaptive damping",
+              "Adaptive matrix LED headlights",
+              "Tesla Luxe Package standard: FSD (Supervised), lifetime Supercharging, 4-year Protection Plan and Premium Connectivity",
+              "Optional 22\" Turbine wheels (range penalty)",
+              "Class-II tow package available (5,000 lb)",
+              "Optional steering yoke"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "7yr/70k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": "8yr/150k",
+            "complimentary_maintenance_yr_mi": "4yr/50k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.tesla.com/modelx",
+              "local_path": "images/tesla/model-x-plaid/model-x-plaid/front_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.tesla.com/modelx",
+              "local_path": "images/tesla/model-x-plaid/model-x-plaid/rear_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.tesla.com/modelx",
+              "local_path": "images/tesla/model-x-plaid/model-x-plaid/side_profile.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.tesla.com/modelx",
+              "local_path": "images/tesla/model-x-plaid/model-x-plaid/interior_dashboard.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.tesla.com/modelx/design",
+            "powertrain": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49746",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49746",
+            "performance.zero_to_60_sec": "https://www.tesla.com/modelx",
+            "dimensions": "https://www.tesla.com/modelx",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/TESLA/MODEL%20X",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/top-safety-picks/2026",
+            "features": "https://www.tesla.com/modelx",
+            "warranty": "https://www.tesla.com/support/vehicle-warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Sole trim of Model X Plaid — is_base_trim: true with delta_from_base: null per sole-trim atomic rule. MSRP $114,990 reflects post-Luxe-Package pricing. EPA id 49746 confirms 335 mi range and 100 MPGe. 2.5 sec 0-60 figure is Tesla's manufacturer claim; some independent testing has measured slightly slower (~2.6-2.7 sec). Top speed 163 mph published — Plaid does not unlock the 200 mph mode on Model X. NHTSA/IIHS have not published 2026 entries. Production ended May 2026."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Model X Plaid production wound down in May 2026; sales continue from inventory and a Signature Series invite-only final run. Split from Model X model entry per the performance-variant rule. Single-trim model; sole-trim atomic rule applied. Phase 4 image scrape: persistent low coverage (0% as of 2026-05-14) — tesla.com hard 403s both static fetch and headless Chromium. Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "Cybertruck",
+      "model_slug": "cybertruck",
+      "model_year": 2026,
+      "body_style": "pickup-full-size",
+      "generation_context": "Cybertruck went on sale December 2023; 2026 MY introduced two AWD variants — a new lower-priced Standard AWD (initially $59,990 in Feb 2026, raised to $69,990 in March 2026) and the carryover Premium AWD ($79,990). The unloved RWD Long Range variant was discontinued in March 2026 after only ~173 sales. The Cyberbeast Tri-Motor is a separate model entry.",
+      "msrp_range": {
+        "low": 69990,
+        "high": 79990
+      },
+      "model_summary": "Tesla's stainless-steel-bodied full-size electric pickup with a tri-row stainless monocoque structure, ultra-hard 30X cold-rolled steel exterior, and unique angular styling. Two dual-motor AWD trims for 2026: Standard AWD (coil suspension, simpler interior, $69,990) and Premium AWD (air suspension, full-spec interior, $79,990). The 845-hp Tri-Motor Cyberbeast is a separate model entry.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": 1,
+        "summary": "JD Power has not published a 2026 VDS score for the Cybertruck. Consumer Reports' current Cybertruck predicted reliability is the lowest in its database (~1/5), reflecting eight recalls in 2024-2025 and ongoing quality complaints (panel-fit, drive-by-wire steering hardware, charging hardware). The new 7-year/70,000-mile high-priced propulsion-related-part warranty Tesla added for 2026 model year EXCLUDES the Cybertruck.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/tesla/cybertruck",
+          "https://www.notateslaapp.com/news/3130/tesla-adds-7-year-propulsion-warranty-for-2026-model-years"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power has not published a 2026 model-year APEAL score for the Cybertruck. Owner sentiment on satisfaction is mixed: enthusiast owners praise the design and performance; mainstream-truck buyers complain about real-world towing range, panel fit, and ride harshness.",
+        "confidence": "low",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the 2026 Cybertruck as polarizing but capable: stainless body is genuinely strong, 0-60 of ~4.1 seconds is supercar-quick for a full-size pickup, but real-world towing range is poor (300+ mi rated drops below 150 mi towing a moderate load), panel gaps are inconsistent, and the absence of CarPlay/Android Auto is notable at this price. The price cut to $59,990 (then up to $69,990) made the Standard AWD a more credible purchase. IIHS Top Safety Pick+ award for 2025-2026 (vehicles built after April 2025) was a meaningful achievement for a debut truck.",
+        "links": [
+          {
+            "publication": "InsideEVs",
+            "url": "https://insideevs.com/news/787859/tesla-cybertruck-price-cut-2026/",
+            "date": "2026-02-15"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/tesla/cybertruck/2026/",
+            "date": "2026-05-13"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB owner-review sample sizes for the 2026 Cybertruck are growing but still skewed by early-adopter enthusiasm. Common praise: design, acceleration, towing torque, Supercharger access. Common complaints: panel fit, drive-by-wire steering quirks, real-world towing range, repair lead times.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/tesla/cybertruck/2026/",
+          "https://www.kbb.com/tesla/cybertruck/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "AWD Standard",
+          "trim_slug": "awd-standard",
+          "trim_family": "cybertruck",
+          "is_base_trim": true,
+          "msrp_base": 69990,
+          "destination_fee": 2245,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 600,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": null,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 123,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 325,
+            "total_range_mi": 325,
+            "dc_fast_charge_peak_kw": 250,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": 79,
+            "plug_type": "Tesla NACS native"
+          },
+          "fuel_economy": {
+            "city_mpg": 85,
+            "highway_mpg": 72,
+            "combined_mpg": 79,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 950
+          },
+          "performance": {
+            "zero_to_60_sec": 4.1,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 112,
+            "towing_capacity_lb": 7500,
+            "payload_capacity_lb": 2006
+          },
+          "dimensions": {
+            "length_in": 223.7,
+            "width_in": 80,
+            "height_in": 70.5,
+            "wheelbase_in": 143.1,
+            "ground_clearance_in": 9.1,
+            "curb_weight_lb": 6680,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null,
+              "bed_length_in": 72,
+              "bed_volume_cuft": 67,
+              "frunk_cuft": 7
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "285/65R18 (LT all-season)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2026,
+            "iihs_top_safety_pick": "TSP+",
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 18.5,
+            "driver_display_in": null,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Tesla 7-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Coil-spring suspension with adaptive dampers (NO air suspension or ride-height adjustment, unlike Premium)",
+              "No rear-passenger 9.4\" touchscreen (deleted vs. Premium)",
+              "No 120V cabin power outlets (deleted vs. Premium)",
+              "Two simple small rear brake-light strips (no full rear LED light bar, unlike Premium)",
+              "No L-tracks in bed (no factory tie-down rail system, unlike Premium)",
+              "Motorized tonneau cover standard (carryover)",
+              "Steel exterior with cold-rolled 30X stainless",
+              "Drive-by-wire steering with steer-by-wire variable ratio",
+              "Tow package available (Class IV 2\" receiver, 7,500 lb capacity)",
+              "NACS DC fast charging up to 250 kW"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": "8yr/150k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.tesla.com/cybertruck",
+              "local_path": "images/tesla/cybertruck/cybertruck/front_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.tesla.com/cybertruck",
+              "local_path": "images/tesla/cybertruck/cybertruck/rear_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.tesla.com/cybertruck",
+              "local_path": "images/tesla/cybertruck/cybertruck/side_profile.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.tesla.com/cybertruck",
+              "local_path": "images/tesla/cybertruck/cybertruck/interior_dashboard.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.tesla.com/cybertruck/design",
+            "powertrain": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50039",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50039",
+            "performance.zero_to_60_sec": "https://www.tesla.com/cybertruck",
+            "dimensions": "https://www.kbb.com/tesla/cybertruck/2026/specs/",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/TESLA/CYBERTRUCK",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/tesla/cybertruck-crew-cab-pickup/2026",
+            "features": "https://www.tesla.com/cybertruck",
+            "warranty": "https://www.tesla.com/support/vehicle-warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Bed length and bed_volume_cuft added to cargo_volume_cuft per master_spec §3.8 truck rule. trunk_cuft set to null. frunk_cuft also added for completeness (7 cu ft tonneau-covered front trunk). EPA id 50039 confirms 325 mi range and 79 MPGe combined. MSRP $69,990 is the current post-March-2026 raised price (was $59,990 at Feb-2026 launch for 10 days; per InsideEVs reporting). Cybertruck is EXCLUDED from Tesla's new 7-year/70,000-mile high-priced propulsion-related-part warranty layer that applies to S/3/X/Y per the Tesla policy update. Towing 7,500 lb is the Standard AWD limit (vs. 11,000 lb on Premium AWD) per Tesla Oracle's detailed Feb-2026 comparison. NHTSA awarded 5-star overall rating to Cybertruck for 2024-2026 MY (post-April-2025 builds for IIHS TSP+)."
+        },
+        {
+          "trim": "AWD Premium",
+          "trim_slug": "awd-premium",
+          "trim_family": "cybertruck",
+          "is_base_trim": false,
+          "msrp_base": 79990,
+          "destination_fee": 2245,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": {
+            "zero_to_60_sec": 4.1,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 112,
+            "towing_capacity_lb": 11000,
+            "payload_capacity_lb": 2500
+          },
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "285/65R20 (Core wheels; optional 35\" all-terrain)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 18.5,
+            "driver_display_in": null,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Tesla Premium 15-speaker with subwoofer",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Air suspension with adaptive dampers (height-adjustable, 4 in. range)",
+              "Rear-passenger 9.4\" touchscreen",
+              "Full rear LED light bar (vs. simplified Standard)",
+              "Two 120V cabin power outlets",
+              "L-track tie-down rail system in bed",
+              "Standard 11,000 lb tow rating with Class IV hitch",
+              "Optional 35\" all-terrain tire and wheel package",
+              "Heated and ventilated front seats",
+              "Memory driver's seat",
+              "White interior option (no-cost)"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.tesla.com/cybertruck",
+              "local_path": "images/tesla/cybertruck/cybertruck/front_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.tesla.com/cybertruck",
+              "local_path": "images/tesla/cybertruck/cybertruck/rear_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.tesla.com/cybertruck",
+              "local_path": "images/tesla/cybertruck/cybertruck/side_profile.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.tesla.com/cybertruck",
+              "local_path": "images/tesla/cybertruck/cybertruck/interior_dashboard.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.tesla.com/cybertruck/design",
+            "powertrain": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50039",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50039",
+            "performance.zero_to_60_sec": "https://www.tesla.com/cybertruck",
+            "dimensions": "https://www.kbb.com/tesla/cybertruck/2026/specs/",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/TESLA/CYBERTRUCK",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/tesla/cybertruck-crew-cab-pickup/2026",
+            "features": "https://www.tesla.com/cybertruck",
+            "warranty": "https://www.tesla.com/support/vehicle-warranty"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "awd-standard",
+            "msrp_delta_usd": 10000,
+            "changes": [
+              "Adds air suspension with adaptive dampers (height-adjustable) vs. coil + adaptive dampers on Standard",
+              "Towing capacity rises to 11,000 lb (vs. 7,500 lb)",
+              "Payload rises to 2,500 lb (vs. 2,006 lb)",
+              "Adds rear 9.4\" touchscreen, full LED rear light bar, L-track bed tie-downs, two 120V outlets",
+              "Adds Tesla Premium 15-speaker audio with subwoofer (vs. 7-speaker)",
+              "Adds ventilated front seats, memory driver's seat",
+              "Larger 20\" Core wheels (vs. 18\" Standard); optional 35\" all-terrain package",
+              "Synthetic leather seats (vs. cloth)",
+              "White interior option available"
+            ]
+          },
+          "notes": "Premium AWD shares the same EPA range (325 mi) and 0-60 (4.1 sec) as Standard AWD per Tesla — air suspension and added weight offset gains. Powertrain block null because hp/motor are identical to Standard AWD. Spec blocks unchanged from base (powertrain, ev_specifics, fuel_economy, dimensions, safety, warranty) set to null per spec §6.3. Tow capacity, payload, sound system, materials, wheel size all differ — captured in features and performance blocks. Shares trim_family 'cybertruck' with Standard AWD."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Tesla revised the Cybertruck lineup multiple times during 2026 MY: (1) The slow-selling RWD Long Range trim was discontinued in March 2026 after ~173 sales; (2) The Standard AWD was introduced in February 2026 at $59,990 and raised to $69,990 within 10 days. Current 2026 lineup is Standard AWD + Premium AWD + Cyberbeast (separate model entry per the performance-variant rule). The discontinued Long Range RWD trim (EPA id 50249) is excluded from this catalog. EPA's 2026 entry for Cybertruck AWD (id 50039) shows MSRP $69,990 confirming Tesla's current Standard AWD pricing. Destination fee $1,390 + order fee $250 + additional regulatory fee for Cybertruck rounds to a published $2,245 total per Tesla support docs. tesla.com 403 on 2026-05-12; specs reconciled from EPA + secondary press (Tesla Oracle, InsideEVs, Autoblog). Phase 4 image scrape: persistent low coverage (0% as of 2026-05-14) — tesla.com hard 403s both static fetch and headless Chromium. Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "Cybertruck Cyberbeast",
+      "model_slug": "cybertruck-cyberbeast",
+      "model_year": 2026,
+      "body_style": "pickup-full-size",
+      "generation_context": "Tri-Motor halo Cybertruck variant. Launched late 2023 alongside the dual-motor Cybertruck; 2026 MY received a $15,000 price cut in February 2026 (from $114,990 to $99,990) alongside the AWD restructuring. The Cyberbeast is the only Cybertruck variant to retain three motors.",
+      "msrp_range": {
+        "low": 99990,
+        "high": 99990
+      },
+      "model_summary": "Top-performance Tri-Motor Cybertruck with a unique 845-hp, 740-lb-ft powertrain and 2.6 sec 0-60 mph. Separated from the regular Cybertruck model entry per the catalog's performance-variant rule. Marketed by Tesla as 'Cybertruck Cyberbeast' on tesla.com/cybertruck.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": 1,
+        "summary": "JD Power has not published a 2026 VDS score for the Cyberbeast. Consumer Reports' Cybertruck predicted reliability (~1/5) covers all variants; the Tri-Motor has slightly fewer production data points overall given lower volume. As with the Dual-Motor Cybertruck, the new Tesla 7-year/70,000-mile high-priced propulsion-related-part warranty layer does NOT apply.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/tesla/cybertruck",
+          "https://www.notateslaapp.com/news/3130/tesla-adds-7-year-propulsion-warranty-for-2026-model-years"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet published (typical July release). The Cybertruck Cyberbeast was not included as an award-eligible model in JD Power's 2026 US EV Experience (EVX) Ownership Study premium BEV segment, which scored Tesla Model 3 (804) and Model Y (797) at the top of the segment (avg 786). Direct APEAL data for the Cybertruck Cyberbeast is not yet available.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the Cyberbeast as Tesla's most impressive single-product feat in years from a powertrain perspective — 845 hp in a 6,800 lb pickup that does 0-60 in 2.6 sec is supercar territory. The 2026 $15K price cut to $99,990 made the value proposition more credible. Common critiques are real-world towing range, panel-fit issues, and the lack of a long-bed option.",
+        "links": [
+          {
+            "publication": "InsideEVs",
+            "url": "https://insideevs.com/news/787859/tesla-cybertruck-price-cut-2026/",
+            "date": "2026-02-15"
+          },
+          {
+            "publication": "T Sportline (spec sheet aggregation)",
+            "url": "https://tsportline.com/blogs/tesla-aftermarket-support/official-tesla-cybertruck-technical-specification-buyer-guide",
+            "date": "2026-01-10"
+          },
+          {
+            "publication": "Green Cars Compare",
+            "url": "https://greencarscompare.com/car/tesla-cybertruck-tri-motor-awd/",
+            "date": "2025-12-15"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owner-review sample sizes for the 2026 Cyberbeast are small but growing. Carryover sentiment from 2024-2025 Cyberbeast owners praises acceleration and presence; common complaints concern panel fit and real-world towing efficiency.",
+        "confidence": "low",
+        "sources": [
+          "https://www.kbb.com/tesla/cybertruck/2026/cyberbeast/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Cyberbeast",
+          "trim_slug": "cyberbeast",
+          "trim_family": "cybertruck-cyberbeast",
+          "is_base_trim": true,
+          "msrp_base": 99990,
+          "destination_fee": 2245,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 845,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 740,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 123,
+            "battery_usable_kwh": 117,
+            "electric_range_mi": 320,
+            "total_range_mi": 320,
+            "dc_fast_charge_peak_kw": 325,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 11.5,
+            "mpge_combined": null,
+            "plug_type": "Tesla NACS native"
+          },
+          "fuel_economy": {
+            "city_mpg": null,
+            "highway_mpg": null,
+            "combined_mpg": null,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 2.6,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 130,
+            "towing_capacity_lb": 11000,
+            "payload_capacity_lb": 2271
+          },
+          "dimensions": {
+            "length_in": 223.7,
+            "width_in": 80,
+            "height_in": 70.5,
+            "wheelbase_in": 143.1,
+            "ground_clearance_in": 9.1,
+            "curb_weight_lb": 6843,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null,
+              "bed_length_in": 72,
+              "bed_volume_cuft": 67,
+              "frunk_cuft": 7.1
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "285/65R20 (Core wheels); optional 35\" all-terrain"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2026,
+            "iihs_top_safety_pick": "TSP+",
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 18.5,
+            "driver_display_in": null,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Tesla Premium 15-speaker with subwoofer",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Tri-Motor configuration: 1 front PMSM + 2 rear induction motors",
+              "Cyberbeast-exclusive Locking differentials and unique Cyberbeast badging",
+              "Air suspension with adaptive damping (height-adjustable)",
+              "Bidirectional charging (Powershare) for V2H and V2L scenarios",
+              "Rear-passenger 9.4\" touchscreen",
+              "Full rear LED light bar",
+              "L-track tie-down rail system in bed",
+              "Two 120V and one 240V cabin power outlets (Powershare-enabled)",
+              "Motorized hard tonneau cover",
+              "Drive-by-wire steering with steer-by-wire variable ratio",
+              "Class IV 2\" tow receiver, 11,000 lb capacity",
+              "NACS DC fast charging up to 325 kW (800V architecture)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/50k",
+            "ev_battery_yr_mi": "8yr/150k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.tesla.com/cybertruck",
+              "local_path": "images/tesla/cybertruck-cyberbeast/cybertruck-cyberbeast/front_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.tesla.com/cybertruck",
+              "local_path": "images/tesla/cybertruck-cyberbeast/cybertruck-cyberbeast/rear_three_quarter.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.tesla.com/cybertruck",
+              "local_path": "images/tesla/cybertruck-cyberbeast/cybertruck-cyberbeast/side_profile.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.tesla.com/cybertruck",
+              "local_path": "images/tesla/cybertruck-cyberbeast/cybertruck-cyberbeast/interior_dashboard.jpg",
+              "credit": "Tesla, Inc.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.tesla.com/cybertruck/design",
+            "powertrain": "https://greencarscompare.com/car/tesla-cybertruck-tri-motor-awd/",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/bymodel/2026_Tesla.shtml",
+            "performance.zero_to_60_sec": "https://www.tesla.com/cybertruck",
+            "dimensions": "https://www.kbb.com/tesla/cybertruck/2026/specs/",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/TESLA/CYBERTRUCK",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/tesla/cybertruck-crew-cab-pickup/2026",
+            "features": "https://tsportline.com/blogs/tesla-aftermarket-support/official-tesla-cybertruck-technical-specification-buyer-guide",
+            "warranty": "https://www.tesla.com/support/vehicle-warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Sole trim of Cybertruck Cyberbeast — is_base_trim: true with delta_from_base: null per sole-trim atomic rule. EPA fueleconomy.gov has NOT published a specific 2026 entry for the Cyberbeast (long-bed exemption from labeling per EPA rule — see American Cars And Racing 2023 reporting). sources.fuel_economy set to the brand 2026 model-browse page per spec §4 rule for missing-EPA-entry cases; fuel_economy MPGe values left null and city/highway/combined null with a note. Per Tesla, the Cyberbeast's EPA-tested range is 320 miles (vs. 325 for AWD); efficiency is slightly lower than the AWD. MSRP $99,990 reflects the February 2026 $15,000 price cut from $114,990. Cybertruck excluded from new 7yr/70k high-priced propulsion warranty layer Tesla extended to other models for 2026. Top speed 130 mph (Cyberbeast limit per Tesla); IIHS TSP+ applies to post-April-2025 builds."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Cybertruck Cyberbeast is split from the regular Cybertruck model entry per the catalog's performance-variant rule (instructions/01_research_brand.md Step 1 important note). Tesla markets the Cyberbeast as a sub-line on tesla.com/cybertruck. Single-trim model; sole-trim atomic rule applied. EPA fueleconomy.gov does not have a specific 2026 Cyberbeast entry — sources.fuel_economy set to the 2026 brand model-browse page per spec §4 missing-EPA-entry rule. MSRP reflects the Feb-2026 price cut. tesla.com 403 on 2026-05-12; specs reconciled from secondary aggregators. Phase 4 image scrape: persistent low coverage (0% as of 2026-05-14) — tesla.com hard 403s both static fetch and headless Chromium. Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "brand": "Volkswagen",
+  "brand_slug": "volkswagen",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 9,
+  "trim_count": 31,
+  "total_images": 49,
+  "needs_scraping": 49,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 1,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "atlas/sel-premium-r-line",
+      "value": 5
+    }
+  ],
+  "fyis": []
+}

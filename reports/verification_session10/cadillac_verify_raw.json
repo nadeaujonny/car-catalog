@@ -1,0 +1,29 @@
+{
+  "brand": "Cadillac",
+  "brand_slug": "cadillac",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 18,
+  "trim_count": 42,
+  "total_images": 168,
+  "needs_scraping": 168,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 2,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "lyriq/sport",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "optiq/sport",
+      "value": 3
+    }
+  ],
+  "fyis": []
+}

@@ -1,0 +1,18 @@
+{
+  "brand": "Acura",
+  "brand_slug": "acura",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 6,
+  "trim_count": 19,
+  "total_images": 72,
+  "needs_scraping": 72,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 0,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [],
+  "fyis": []
+}

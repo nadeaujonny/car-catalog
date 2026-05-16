@@ -1,0 +1,1340 @@
+{
+  "brand": "McLaren",
+  "brand_slug": "mclaren",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Artura",
+      "model_slug": "artura",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "First-generation Artura, introduced 2022 as McLaren's first series-production high-performance hybrid (HPH) supercar built on the McLaren Carbon Lightweight Architecture (MCLA). 2025 MY refresh added 19 hp (from 671 hp to 690 hp) via engine recalibration plus revised eight-speed gearbox calibration. 2026 MY continues with new exterior/interior colorways and personalization options. Spider is sold separately as its own model entry in this catalog per the body-style rule.",
+      "msrp_range": {
+        "low": 254100,
+        "high": 254100
+      },
+      "model_summary": "McLaren's plug-in hybrid two-seat sports car, pairing a 3.0-litre twin-turbocharged V6 with an axial-flux electric motor for a combined 690 hp driving the rear wheels through an 8-speed dual-clutch transmission with E-Reverse. Positioned against the Ferrari 296 GTB and Lamborghini Temerario. Carries an EPA-rated 21 miles of all-electric range from a 7.4 kWh battery.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power Vehicle Dependability Study does not meaningfully sample McLaren due to low US sales volume, and Consumer Reports does not publish a predicted-reliability score for the Artura. No quantitative reliability rating is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for McLaren because of low US sales volume. No quantified APEAL score exists for the Artura.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the Artura as McLaren's most well-rounded supercar yet, with the twin-turbo V6 hybrid powertrain delivering instant torque and immense thrust from any speed. Praise focuses on the lightweight feel and chassis precision, plus the silent EV-only drive in town. Criticism centers on a relatively spartan infotainment system, vertical 8-inch touchscreen mounted in portrait orientation, and limited rear visibility versus rivals like the Ferrari 296 GTB.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/mclaren/artura",
+            "date": "2025-09-10"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/mclaren/artura/",
+            "date": "2025-08-15"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/mclaren/artura/",
+            "date": "2025-10-20"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the Artura due to small US owner population and limited consumer submissions. No quantitative star rating is available.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/mclaren/artura/",
+          "https://www.kbb.com/mclaren/artura/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Artura",
+          "trim_slug": "artura",
+          "trim_family": "artura",
+          "is_base_trim": true,
+          "msrp_base": 254100,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "phev",
+            "engine_displacement_l": 3,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 690,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 531,
+            "transmission": "8-speed dual-clutch SSG (Seamless Shift Gearbox) with E-Reverse",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 7.4,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 21,
+            "total_range_mi": 330,
+            "dc_fast_charge_peak_kw": null,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 2.3,
+            "mpge_combined": 39,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 18,
+            "highway_mpg": 18,
+            "combined_mpg": 18,
+            "fuel_tank_gal": 17.4,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3100
+          },
+          "performance": {
+            "zero_to_60_sec": 3,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 205,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 178.7,
+            "width_in": 75.3,
+            "height_in": 47,
+            "wheelbase_in": 103.9,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3303,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 5.7
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "Pirelli P Zero F: 235/35ZR19, R: 295/35ZR20 (staggered; intelligent Cyber Tyre with embedded sensors)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": false,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "Bowers & Wilkins 12-speaker (optional); 4-speaker McLaren audio standard",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Vertical portrait-orientation 8-inch HD touchscreen (McLaren Infotainment System II)",
+              "Dihedral doors",
+              "Carbon-fibre monocoque (MCLA)",
+              "Adaptive damper Proactive Damping Control",
+              "Driver-mode rocker switches in cluster (Comfort/Sport/Track) and Handling/Powertrain selectors",
+              "Electronically locking rear differential (E-Diff) — first in modern McLaren"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited (perforation)",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": "6yr/45k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://cars-assets-production.mclaren.com/5356/mclaren-artura-hero.jpg",
+              "local_path": "images/mclaren/artura/artura/front_three_quarter.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://cars-assets-production.mclaren.com/5340/mclaren-artura-design-rear.jpg",
+              "local_path": "images/mclaren/artura/artura/rear_three_quarter.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://cars-assets-production.mclaren.com/5343/mclaren-artura-lightness-front-.jpg",
+              "local_path": "images/mclaren/artura/artura/side_profile.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://cars-assets-production.mclaren.com/5344/mclaren-artura-lightness-cockpit-.jpg",
+              "local_path": "images/mclaren/artura/artura/interior_dashboard.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.hagerty.com/media/new-car-reviews/first-drive-2025-mclaren-artura-spider-top-down-horsepower-up/",
+            "powertrain": "https://cars.mclaren.com/us_en/artura",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=45395",
+            "performance.zero_to_60_sec": "https://cars.mclaren.com/us_en/artura",
+            "dimensions": "https://cars.mclaren.com/us_en/artura",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://cars.mclaren.com/us_en/artura",
+            "warranty": "https://cars.mclaren.com/us_en/ownership/extended-warranty-or-extended-service-contract"
+          },
+          "delta_from_base": null,
+          "notes": "McLaren does not publish US MSRP on cars.mclaren.com (consumer site) or any accessible primary press release as of 2026-05-13; msrp_base and destination_fee set to null per spec §13 ultra-luxury non-disclosure handling, consistent with Aston Martin/Ferrari/Maserati precedent in this catalog. Aggregator and dealer sites quote a starting price near $249,100 for the upgraded 2025+ Artura but no primary McLaren-published US MSRP exists. EPA fueleconomy.gov has only the original 2023 Artura entry (id=45395) for the 671-hp version; the 690-hp 2025/2026 powertrain recalibration was a software change and McLaren has stated that the gas-only EPA figures (18 mpg combined) and MPGe (39) carry over. Wheels are 19-inch front and 20-inch rear with bespoke Pirelli Cyber Tyre P Zero intelligent tires with embedded sensors. McLaren standard warranty per cars.mclaren.com is 3yr unlimited mileage basic; corrosion (anti-perforation) is 10yr unlimited; the high-voltage battery on the Artura is covered for 6 years (no mileage cap on the manufacturer-published value). MSRP source: Hagerty editorial spec page (per §4.6 scoped policy; manufacturer does not publish US MSRP). Hagerty's 2025 Artura Spider first-drive review (https://www.hagerty.com/media/new-car-reviews/first-drive-2025-mclaren-artura-spider-top-down-horsepower-up/) states the 2025 Artura Coupe starts at $254,100 (Spider starts at $278,800, a $19,700 premium over the Coupe)."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Powertrain.type set to 'phev' per spec §3 since Artura is a true plug-in hybrid with chargeable battery and EPA-rated all-electric driving range. Only EPA entry in fueleconomy.gov database is the 2023 (id=45395) — McLaren has confirmed the 2025/2026 power bump is software-only and EPA figures are unchanged. All ADAS booleans set to false except lane_departure_warning (which is standard per multiple reviews); McLaren's supercar design philosophy is minimal driver-assist tech. dealersites and KBB/Edmunds/cars.com retail prices are forbidden as primary MSRP source per §4 — null is the honest answer."
+    },
+    {
+      "model": "Artura Spider",
+      "model_slug": "artura-spider",
+      "model_year": 2026,
+      "body_style": "convertible",
+      "generation_context": "Convertible variant of the McLaren Artura, introduced February 2024 for 2025 MY. McLaren's first-ever high-performance hybrid convertible — neither the P1 nor Speedtail had convertible versions. Adds a retractable hard top, opens or closes in 11 seconds at speeds up to 31 mph. Shares the M630 V6 PHEV powertrain with the Artura Coupe (sold separately as its own model in this catalog per body-style rule).",
+      "msrp_range": {
+        "low": 278800,
+        "high": 278800
+      },
+      "model_summary": "Open-top version of the McLaren Artura PHEV supercar, with a retractable hardtop that does not compromise the 690-hp combined output, 0-60 mph 3.0-sec or 205 mph top speed of the coupe. Adds ~136 lbs versus the coupe for the roof mechanism and additional bracing. Marketed as the world's first plug-in-hybrid open-top supercar.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power Vehicle Dependability Study does not meaningfully sample McLaren due to low US sales volume, and Consumer Reports does not publish a predicted-reliability score for the Artura Spider. No quantitative reliability rating is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for McLaren because of low US sales volume. No quantified APEAL score exists for the Artura Spider.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Critics call the Artura Spider the more characterful version of the coupe, with the silent-running EV-only mode and the open-top format reinforcing the dual-character philosophy. The 11-second power retractable hardtop preserves cabin refinement when raised and the chassis stiffness is reportedly only marginally compromised versus the coupe. Reviewers note the same minor infotainment frustrations as the coupe and somewhat firm low-speed ride.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/mclaren/artura-spider",
+            "date": "2025-08-22"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/mclaren/artura-spider/",
+            "date": "2025-09-15"
+          },
+          {
+            "publication": "Hagerty",
+            "url": "https://www.hagerty.com/media/new-car-reviews/first-drive-2025-mclaren-artura-spider-top-down-horsepower-up/",
+            "date": "2025-07-10"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the Artura Spider due to small US owner population. No quantitative star rating is available.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/mclaren/artura-spider/",
+          "https://www.kbb.com/mclaren/artura-spider/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Artura Spider",
+          "trim_slug": "artura-spider",
+          "trim_family": "artura-spider",
+          "is_base_trim": true,
+          "msrp_base": 278800,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "phev",
+            "engine_displacement_l": 3,
+            "engine_config": "V6",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 690,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 531,
+            "transmission": "8-speed dual-clutch SSG (Seamless Shift Gearbox) with E-Reverse",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 7.4,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 21,
+            "total_range_mi": 330,
+            "dc_fast_charge_peak_kw": null,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 2.3,
+            "mpge_combined": 39,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 18,
+            "highway_mpg": 18,
+            "combined_mpg": 18,
+            "fuel_tank_gal": 17.4,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3100
+          },
+          "performance": {
+            "zero_to_60_sec": 3,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 205,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 178.7,
+            "width_in": 75.3,
+            "height_in": 47,
+            "wheelbase_in": 103.9,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3439,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 5.7
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "Pirelli P Zero F: 235/35ZR19, R: 295/35ZR20 (staggered; intelligent Cyber Tyre with embedded sensors)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": false,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "Bowers & Wilkins 12-speaker (optional); 4-speaker McLaren audio standard",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Retractable Hard Top (RHT) — opens/closes in 11 seconds at speeds up to 31 mph (50 km/h)",
+              "Vertical portrait-orientation 8-inch HD touchscreen (McLaren Infotainment System II)",
+              "Dihedral doors",
+              "Carbon-fibre monocoque (MCLA) with additional bracing for open-top body",
+              "Electronically locking rear differential (E-Diff)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited (perforation)",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": "6yr/45k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://cars-assets-production.mclaren.com/5349/mclaren-artura-spider-hero.jpg",
+              "local_path": "images/mclaren/artura-spider/artura-spider/front_three_quarter.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://cars-assets-production.mclaren.com/5355/mclaren-artura-spider-design-rear.jpg",
+              "local_path": "images/mclaren/artura-spider/artura-spider/rear_three_quarter.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://cars-assets-production.mclaren.com/5353/mclaren-artura-spider-power-side.jpg",
+              "local_path": "images/mclaren/artura-spider/artura-spider/side_profile.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://cars-assets-production.mclaren.com/5351/mclaren-artura-spider-lightness-interior.jpg",
+              "local_path": "images/mclaren/artura-spider/artura-spider/interior_dashboard.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.hagerty.com/media/new-car-reviews/first-drive-2025-mclaren-artura-spider-top-down-horsepower-up/",
+            "powertrain": "https://cars.mclaren.com/us_en/artura-spider",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=45395",
+            "performance.zero_to_60_sec": "https://cars.mclaren.com/us_en/artura-spider",
+            "dimensions": "https://cars.mclaren.com/us_en/artura-spider",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://cars.mclaren.com/us_en/artura-spider",
+            "warranty": "https://cars.mclaren.com/us_en/ownership/extended-warranty-or-extended-service-contract"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: is_base_trim true and delta_from_base null per spec §13 sole-trim atomic rule. McLaren does not publish US MSRP on cars.mclaren.com or any accessible primary press release as of 2026-05-13; msrp_base and destination_fee set to null per spec §13 ultra-luxury non-disclosure handling. Aggregators quote starting price near $273,800 for the Artura Spider but no primary McLaren-published US MSRP exists. The Artura Spider was treated by McLaren press as a 2025 MY for first deliveries mid-2025; 2026 MY continues with same 690-hp powertrain. EPA fueleconomy.gov source URL points to the 2023 Artura entry (id=45395, the only McLaren Automotive Artura on EPA's database); fuel economy values 18 mpg combined and 39 MPGe carry over since 2025+ power bump is software-only per McLaren statements. fuel_tank_gal 17.4 from EPA detail page. Pirelli P Zero F:235/35ZR19, R:295/35ZR20 — same staggered Cyber Tyre setup as Artura Coupe. Curb weight 3,439 lb (1,560 kg) vs 3,303 lb (1,498 kg) for the coupe — 136-lb increase for retractable hardtop and added bracing. MSRP source: Hagerty editorial spec page (per §4.6 scoped policy; manufacturer does not publish US MSRP). Hagerty's 2025 Artura Spider first-drive review (https://www.hagerty.com/media/new-car-reviews/first-drive-2025-mclaren-artura-spider-top-down-horsepower-up/) states the 2025 Artura Spider starts at $278,800."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Artura Spider split from Artura Coupe as its own model entry per spec §13 body-style rule (convertible separate from coupe) and matching Aston Martin Vantage/Vantage Roadster, Ferrari Roma/Roma Spider, McLaren 750S/750S Spider precedent. All other Artura specs identical to coupe."
+    },
+    {
+      "model": "750S",
+      "model_slug": "750s",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "Mid-cycle facelift of the McLaren Super Series, replacing the 720S in 2023 for 2024 MY. M840T 4.0-litre twin-turbo V8 retuned to 740 hp (750 PS) from the 720S's 710 hp, with weight reduced by 30 kg via lighter wheels, carbon-fibre seats, thinner glass and other detail changes. Carries McLaren's claim of being 'the lightest and most powerful series-production McLaren'. 2026 MY continues unchanged from 2024-25 with minor option-pack reshuffles. Spider is a separate model in this catalog per body-style rule.",
+      "msrp_range": {
+        "low": 324000,
+        "high": 324000
+      },
+      "model_summary": "McLaren's flagship series-production V8 supercar. The 4.0-litre M840T twin-turbocharged V8 produces 740 hp and 590 lb-ft of torque, driving the rear wheels through a 7-speed dual-clutch transmission for a 2.7-second 0-60 mph and a 206 mph top speed. Carbon-fibre Monocage II tub, double-wishbone suspension with Proactive Chassis Control III, and Linked Hydraulic Suspension. Positioned against the Ferrari 296 GTB and Lamborghini Temerario.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power Vehicle Dependability Study does not meaningfully sample McLaren due to low US sales volume, and Consumer Reports does not publish a predicted-reliability score for the 750S. No quantitative reliability rating is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for McLaren because of low US sales volume. No quantified APEAL score exists.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently rank the 750S among the very best driver's cars of the decade, praising the visceral V8 character, scalpel-like steering, and 2.7-second 0-60 mph in a sub-3,100-lb dry-weight chassis. The hydraulic Proactive Chassis Control III suspension is widely regarded as a benchmark. Critiques focus on the same simple cabin and tech package as the Artura — minor infotainment frustrations and limited storage for a daily-driver supercar.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/mclaren/750s",
+            "date": "2025-09-20"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/mclaren/750s/",
+            "date": "2025-08-30"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/mclaren/750s/",
+            "date": "2025-10-12"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the 750S due to small US owner population.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/mclaren/750s/",
+          "https://www.kbb.com/mclaren/750s/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "750S Coupe",
+          "trim_slug": "750s-coupe",
+          "trim_family": "750s-coupe",
+          "is_base_trim": true,
+          "msrp_base": 324000,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 4,
+            "engine_config": "V8",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 740,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 590,
+            "transmission": "7-speed dual-clutch SSG (Seamless Shift Gearbox) with short final drive",
+            "transmission_speeds": 7,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 15,
+            "highway_mpg": 21,
+            "combined_mpg": 17,
+            "fuel_tank_gal": 19,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4100
+          },
+          "performance": {
+            "zero_to_60_sec": 2.7,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 206,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 179.9,
+            "width_in": 76,
+            "height_in": 47.1,
+            "wheelbase_in": 105.1,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3062,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 5.3
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "Pirelli P Zero F: 245/35ZR19, R: 305/30ZR20 (staggered)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": false,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "Bowers & Wilkins 12-speaker Continuum (optional); 4-speaker McLaren audio standard",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Vertical portrait-orientation 8-inch HD touchscreen (McLaren Infotainment System II)",
+              "Carbon-fibre Monocage II tub",
+              "Linked Hydraulic Suspension (LHS) with Proactive Chassis Control III",
+              "Carbon-ceramic brakes with 6-piston front / 4-piston rear calipers",
+              "Standard carbon-fibre racing seats (lightest configuration)",
+              "Active rear wing with 'aero airbrake' function",
+              "Dihedral doors"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited (perforation)",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://cars-assets-production.mclaren.com/2595/mclaren-750s-hero.jpg",
+              "local_path": "images/mclaren/750s/750s-coupe/front_three_quarter.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://cars-assets-production.mclaren.com/191/mclaren-750s-enquiry.jpg",
+              "local_path": "images/mclaren/750s/750s-coupe/rear_three_quarter.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://cars-assets-production.mclaren.com/788/mclaren-750s-badge-detail-lightness.jpg",
+              "local_path": "images/mclaren/750s/750s-coupe/side_profile.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://cars-assets-production.mclaren.com/787/mclaren-750s-interior-lightness.jpg",
+              "local_path": "images/mclaren/750s/750s-coupe/interior_dashboard.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.hagerty.com/media/new-car-reviews/2024-mclaren-750s-first-drive-supercar-state-of-the-art/",
+            "powertrain": "https://cars.mclaren.com/us_en/750S",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&make=McLaren+Automotive&pageno=1&srchtyp=newMake&year1=2026&year2=2026",
+            "performance.zero_to_60_sec": "https://cars.mclaren.com/us_en/750S",
+            "dimensions": "https://cars.mclaren.com/us_en/750S",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://cars.mclaren.com/us_en/750S",
+            "warranty": "https://cars.mclaren.com/us_en/ownership/extended-warranty-or-extended-service-contract"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim within model: is_base_trim true and delta_from_base null per sole-trim atomic rule. McLaren does not publish US MSRP on cars.mclaren.com or any accessible primary press release as of 2026-05-13; msrp_base and destination_fee set to null per spec §13 ultra-luxury non-disclosure handling. Aggregator and dealer sites quote a starting price near $359,600 + $5,500 destination for the 2026 750S Coupe but no primary McLaren-published US MSRP exists. EPA has not published a 2026 McLaren 750S entry as of 2026-05-13 (fueleconomy.gov powersearch returns 0 results for 2024-2026); sources.fuel_economy points to the brand model-browse page per spec §4 EPA-unavailable fallback rule. Fuel economy values are sourced from the 720S 2022 EPA entry (id=44610, mechanically very similar — same 4.0L M840T V8) at 15/21/17 mpg; McLaren announced 750S has 'lower CO2 emissions than the 720S' so 17 mpg combined is the best-available carryover estimate. WLTP combined is 23.7 mpg / 12.2 L/100km per McLaren UK. Premium fuel required. Per McLaren 2023 launch, the 'lightest configuration' DIN curb weight is 3,062 lb. Bowers & Wilkins 12-speaker Continuum audio system is an option, not standard. Dimensions per Wikipedia: L 179.9 in × W 76.0 in (without mirrors, derived from 85.1 with mirrors) × H 47.1 in × WB 105.1 in. MSRP source: Hagerty editorial spec page (per §4.6 scoped policy; manufacturer does not publish US MSRP). Hagerty's 2024 750S first-drive review (https://www.hagerty.com/media/new-car-reviews/2024-mclaren-750s-first-drive-supercar-state-of-the-art/) states the 750S Coupe starts at $324,000 (excluding $5,000 transport/port and $2,240 Americas Accessory Pack)."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Single-trim model with only the 750S Coupe; the 750S Spider is split as a separate model entry per body-style rule, and the 750S Le Mans Special Edition is split as a separate model per limited-production performance-variant rule. Per spec §13 ultra-luxury non-disclosure handling, MSRP is null. NHTSA and IIHS have not crash-tested any McLaren model (low-volume luxury supercar exempt per §13). JD Power VDS / APEAL do not sample McLaren in their public results due to low volume; confidence:unknown for reliability and customer_satisfaction blocks."
+    },
+    {
+      "model": "750S Spider",
+      "model_slug": "750s-spider",
+      "model_year": 2026,
+      "body_style": "convertible",
+      "generation_context": "Convertible variant of the McLaren 750S Coupe, introduced 2023 alongside the coupe. Retractable Hard Top (RHT) glides up or down in 11 seconds at speeds up to 31 mph. 49 kg added for roof mechanism over the Coupe; DIN curb weight is 3,170 lb. Carbon-fibre Monocage II tub allows convertible variant without significant chassis stiffening penalty.",
+      "msrp_range": {
+        "low": 345000,
+        "high": 345000
+      },
+      "model_summary": "Open-top version of the McLaren 740-hp 750S supercar. Retains 2.8-second 0-60 mph and 206 mph top speed despite the retractable hardtop, with the carbon-fibre Monocage II monocoque allowing the chop without major chassis stiffening. Targeted against the Ferrari 296 GTS and Lamborghini Temerario Spyder.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power Vehicle Dependability Study does not meaningfully sample McLaren due to low US sales volume. No quantitative reliability rating is available for the 750S Spider.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for McLaren because of low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Critics agree the 750S Spider is essentially the coupe with the roof off — same razor-sharp dynamics, identical 0-60 mph time, the same hydraulic-link Proactive Chassis Control III tune, and only a ~108-lb weight penalty. The convertible adds the visceral V8 soundtrack at the cost of slightly more cowl shake on broken roads. Reviewers praise the 11-second roof operation and full performance with roof up or down.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/mclaren/750s-spider",
+            "date": "2025-09-25"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/mclaren/750s-spider/",
+            "date": "2025-09-05"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/mclaren/750s-spider/",
+            "date": "2025-10-18"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the 750S Spider due to small US owner population.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/mclaren/750s-spider/",
+          "https://www.kbb.com/mclaren/750s-spider/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "750S Spider",
+          "trim_slug": "750s-spider",
+          "trim_family": "750s-spider",
+          "is_base_trim": true,
+          "msrp_base": 345000,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 4,
+            "engine_config": "V8",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 740,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 590,
+            "transmission": "7-speed dual-clutch SSG (Seamless Shift Gearbox) with short final drive",
+            "transmission_speeds": 7,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 15,
+            "highway_mpg": 21,
+            "combined_mpg": 17,
+            "fuel_tank_gal": 19,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4100
+          },
+          "performance": {
+            "zero_to_60_sec": 2.8,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 206,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 179.9,
+            "width_in": 76,
+            "height_in": 47.1,
+            "wheelbase_in": 105.1,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3170,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 5.3
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "Pirelli P Zero F: 245/35ZR19, R: 305/30ZR20 (staggered)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": false,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "Bowers & Wilkins 12-speaker Continuum (optional); 4-speaker McLaren audio standard",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Retractable Hard Top (RHT) — opens/closes in 11 seconds at speeds up to 31 mph (50 km/h)",
+              "Vertical portrait-orientation 8-inch HD touchscreen (McLaren Infotainment System II)",
+              "Carbon-fibre Monocage II tub (no chassis stiffening required for convertible)",
+              "Linked Hydraulic Suspension (LHS) with Proactive Chassis Control III",
+              "Carbon-ceramic brakes",
+              "Active rear wing with 'aero airbrake' function",
+              "Dihedral doors"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited (perforation)",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://cars-assets-production.mclaren.com/2596/mclaren-750s-spider-hero.jpg",
+              "local_path": "images/mclaren/750s-spider/750s-spider/front_three_quarter.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://cars-assets-production.mclaren.com/205/mclaren-750s-spider-rear-wing-engagement.jpg",
+              "local_path": "images/mclaren/750s-spider/750s-spider/rear_three_quarter.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://cars-assets-production.mclaren.com/208/mclaren-750s-spider-road-power.jpg",
+              "local_path": "images/mclaren/750s-spider/750s-spider/side_profile.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://cars-assets-production.mclaren.com/204/mclaren-750s-spider-interior-lightness.jpg",
+              "local_path": "images/mclaren/750s-spider/750s-spider/interior_dashboard.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.hagerty.com/media/new-car-reviews/2024-mclaren-750s-first-drive-supercar-state-of-the-art/",
+            "powertrain": "https://cars.mclaren.com/us_en/750s-spider",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&make=McLaren+Automotive&pageno=1&srchtyp=newMake&year1=2026&year2=2026",
+            "performance.zero_to_60_sec": "https://cars.mclaren.com/us_en/750s-spider",
+            "dimensions": "https://cars.mclaren.com/us_en/750s-spider",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://cars.mclaren.com/us_en/750s-spider",
+            "warranty": "https://cars.mclaren.com/us_en/ownership/extended-warranty-or-extended-service-contract"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim within model: is_base_trim true and delta_from_base null per sole-trim atomic rule. McLaren does not publish US MSRP on cars.mclaren.com or any accessible primary press release as of 2026-05-13; msrp_base and destination_fee set to null per spec §13 ultra-luxury non-disclosure handling. Aggregator and dealer sites quote a starting price near $386,700 for the 2026 750S Spider but no primary McLaren-published US MSRP exists. EPA has not published a 2026 McLaren 750S Spider entry as of 2026-05-13 (fueleconomy.gov powersearch returns 0 results for 2024-2026); sources.fuel_economy points to the brand model-browse page per spec §4 EPA-unavailable fallback rule. Fuel economy values are carryover from 720S Spider 2022 EPA entry (id=44611) at 15/21/17 mpg. Premium fuel required. Curb weight 3,170 lb (1,438 kg) DIN — 108 lb heavier than coupe, primarily for retractable hardtop. 0-60 mph is 2.8 sec (0.1 sec slower than coupe's 2.7 sec) per McLaren consumer page; top speed unchanged at 206 mph. Pirelli P Zero F:245/35ZR19, R:305/30ZR20 — same staggered setup as Coupe. MSRP source: Hagerty editorial spec page (per §4.6 scoped policy; manufacturer does not publish US MSRP). Hagerty's 2024 750S first-drive review (https://www.hagerty.com/media/new-car-reviews/2024-mclaren-750s-first-drive-supercar-state-of-the-art/) states the 750S Spider starts at $345,000 (excluding transport/port fees)."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "750S Spider split from 750S Coupe as its own model entry per spec §13 body-style rule (convertible separate from coupe), matching Aston Martin Vantage/Vantage Roadster and Ferrari Roma/Roma Spider precedent."
+    },
+    {
+      "model": "750S Le Mans Special Edition",
+      "model_slug": "750s-le-mans-special-edition",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "Limited-edition coupe variant of the McLaren 750S celebrating the 30th anniversary (1995-2025) of McLaren F1 GTR #59 (Ueno Clinic livery) winning the 1995 24 Hours of Le Mans outright. Strictly limited to 50 units worldwide. Adds the McLaren Special Operations (MSO) High Downforce Kit (HDK) for ~10% more downforce, exclusive Le Mans five-spoke wheels in stealth finish, bespoke interior themes, and choice of two heritage liveries (Le Mans Grey or McLaren Orange). Same M840T V8 and 740-hp powertrain as the standard 750S Coupe.",
+      "msrp_range": {
+        "low": null,
+        "high": null
+      },
+      "model_summary": "50-unit limited-edition coupe based on the 750S Coupe, distinguished by the MSO High Downforce Kit aerodynamic package (revised front bumper, larger splitter, louvred under-wing panel, raised active rear wing) that adds ~10% downforce over the standard 750S, Le Mans-bespoke stealth-finish wheels, and Le Mans Grey or McLaren Orange livery options. Mechanically identical to the standard 750S Coupe.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "Limited-edition (50-unit) variant of the 750S; JD Power VDS and Consumer Reports do not publish reliability ratings for McLaren due to low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for McLaren because of low US sales volume; limited-edition status further excludes from any sample.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Coverage describes the 750S Le Mans as a celebration model with the MSO High Downforce Kit (HDK) becoming standard, distinguishing it from the regular 750S where the HDK is a separate option pack. Reviewers note the 10% downforce gain over the standard 750S, distinctive Le Mans-bespoke wheels and exterior trim, plus three-tier bespoke interior themes referencing the 1995 24 Hours of Le Mans winning livery. Powertrain unchanged from the 740-hp 750S Coupe.",
+        "links": [
+          {
+            "publication": "Robb Report",
+            "url": "https://robbreport.com/motors/cars/mclaren-750s-le-mans-just-unveiled-1236793018/",
+            "date": "2025-06-12"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish owner-review aggregates for the 50-unit 750S Le Mans Special Edition due to extreme rarity and small US owner population.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "trims": [
+        {
+          "trim": "750S Le Mans Special Edition",
+          "trim_slug": "750s-le-mans-special-edition",
+          "trim_family": "750s-le-mans-special-edition",
+          "is_base_trim": true,
+          "msrp_base": null,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 4,
+            "engine_config": "V8",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 740,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 590,
+            "transmission": "7-speed dual-clutch SSG (Seamless Shift Gearbox) with short final drive",
+            "transmission_speeds": 7,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 15,
+            "highway_mpg": 21,
+            "combined_mpg": 17,
+            "fuel_tank_gal": 19,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4100
+          },
+          "performance": {
+            "zero_to_60_sec": 2.7,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 206,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 179.9,
+            "width_in": 76,
+            "height_in": 47.1,
+            "wheelbase_in": 105.1,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3062,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 5.3
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 19,
+            "tire_spec": "Pirelli P Zero F: 245/35ZR19, R: 305/30ZR20 — Le Mans-bespoke five-spoke forged alloy wheels with stealth finish and machined Le Mans branding"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": false,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": 10.25,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "Bowers & Wilkins 12-speaker Continuum (optional); 4-speaker McLaren audio standard",
+            "sunroof": "none",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "MSO High Downforce Kit (HDK) standard — revised front bumper and splitter, louvred under-wing panel, raised active rear spoiler — adds ~10% downforce vs standard 750S",
+              "Two heritage exterior liveries: Le Mans Grey (echoing 1995 Ueno Clinic #59 F1 GTR livery) or McLaren Orange",
+              "Le Mans-bespoke five-spoke forged alloy wheels in stealth finish with machined Le Mans branding",
+              "Le Mans-bespoke interior themes with bespoke Alcantara/leather mix and contrasting stitching",
+              "Le Mans 24-Hour anniversary edition badging",
+              "Carbon-fibre Monocage II tub (shared with 750S)",
+              "Linked Hydraulic Suspension (LHS) with Proactive Chassis Control III",
+              "Carbon-ceramic brakes",
+              "Limited to 50 units worldwide"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited (perforation)",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://cars-assets-production.mclaren.com/1592/mclaren-750s-lemans-gallery-5.jpg",
+              "local_path": "images/mclaren/750s-le-mans-special-edition/750s-le-mans-special-edition/front_three_quarter.jpg",
+              "credit": "McLaren Automotive / McLaren Special Operations (MSO)",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://cars-assets-production.mclaren.com/1589/mclaren-750s-lemans-gallery-2.jpg",
+              "local_path": "images/mclaren/750s-le-mans-special-edition/750s-le-mans-special-edition/rear_three_quarter.jpg",
+              "credit": "McLaren Automotive / McLaren Special Operations (MSO)",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://cars-assets-production.mclaren.com/1594/mclaren-750s-lemans-gallery-8.jpg",
+              "local_path": "images/mclaren/750s-le-mans-special-edition/750s-le-mans-special-edition/side_profile.jpg",
+              "credit": "McLaren Automotive / McLaren Special Operations (MSO)",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://cars-assets-production.mclaren.com/1590/mclaren-750s-lemans-gallery-3.jpg",
+              "local_path": "images/mclaren/750s-le-mans-special-edition/750s-le-mans-special-edition/interior_dashboard.jpg",
+              "credit": "McLaren Automotive / McLaren Special Operations (MSO)",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://cars.mclaren.com/us_en/750s-le-mans-special-edition",
+            "powertrain": "https://cars.mclaren.com/us_en/750s-le-mans-special-edition",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&make=McLaren+Automotive&pageno=1&srchtyp=newMake&year1=2026&year2=2026",
+            "performance.zero_to_60_sec": "https://cars.mclaren.com/us_en/750s-le-mans-special-edition",
+            "dimensions": "https://cars.mclaren.com/us_en/750s-le-mans-special-edition",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://cars.mclaren.com/us_en/750s-le-mans-special-edition",
+            "warranty": "https://cars.mclaren.com/us_en/ownership/extended-warranty-or-extended-service-contract"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim within model: is_base_trim true and delta_from_base null per sole-trim atomic rule. Powertrain, dimensions, performance all identical to the standard 750S Coupe — the 'Le Mans Special Edition' identity is exterior/interior trim, bespoke wheels and exterior livery, plus standard inclusion of the MSO High Downforce Kit (HDK) which adds ~10% downforce. McLaren does not publish US MSRP for the 750S Le Mans Special Edition on cars.mclaren.com or any accessible primary press release as of 2026-05-13; per spec §13 ultra-luxury non-disclosure rules, msrp_base and destination_fee set to null. EPA has not published a 2026 McLaren entry, so sources.fuel_economy points to the brand model-browse page per spec §4 EPA-unavailable fallback. Fuel economy values are carryover from 720S 2022 EPA entry. All 4 image angles sourced from cars.mclaren.com's Le Mans Edition page CDN at cars-assets-production.mclaren.com — direct .jpg assets confirmed image/jpeg content-type. MSRP not findable from allowed editorial sources as of 2026-05-15."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Split as a separate model entry from the standard 750S per spec §13 performance-variant rule (own cars.mclaren.com model page at /us_en/750s-le-mans-special-edition, distinct bespoke exterior/interior trim, MSO HDK aero package, limited 50-unit production). Mechanically identical to the standard 750S Coupe but commercially distinct. Matches Aston Martin Vanquish/Vantage S precedent of dedicated MSO/Special Operations models. Coupe-only — no 750S Spider Le Mans variant exists. Production runs concurrently with regular 750S; cars are allocated via McLaren Special Operations through US retailers."
+    },
+    {
+      "model": "GTS",
+      "model_slug": "gts",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "Mid-cycle facelift of the McLaren GT, renamed GTS for 2024 MY. M840TE 4.0-litre twin-turbo V8 retuned to 626 hp (635 PS) from the GT's 612 hp. Lighter wheels, lighter interior, and 22 lb total weight reduction yield class-leading 412 bhp/ton power-to-weight ratio. 2026 MY adds standard Papaya Start/Stop button (McLaren racing-derived heritage cue), Performance Trim and Jet Black TechLux contrast stitching options. McLaren positions the GTS as a daily-drivable supercar with luggage space versus the more focused 750S. Coupe body style only — no Spider variant exists.",
+      "msrp_range": {
+        "low": null,
+        "high": null
+      },
+      "model_summary": "McLaren's most usable supercar, replacing the prior GT. The 4.0-litre M840TE twin-turbocharged V8 produces 626 hp and 465 lb-ft of torque, driving the rear wheels through a 7-speed SSG dual-clutch transmission for a 3.1-second 0-60 mph and 203 mph top speed. McLaren's most practical mid-engine layout with 20.1 cu-ft total cargo (front trunk + behind-engine load bay) makes the GTS marketable as a daily-driver alternative to the Bentley Continental GT or Aston Martin DB12, while remaining a true mid-engine supercar.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power Vehicle Dependability Study does not meaningfully sample McLaren due to low US sales volume. No quantitative reliability rating is available for the GTS.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for McLaren because of low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers position the GTS as the most usable supercar McLaren has built — a mid-engine carbon-tub supercar with real cargo space and a calmer suspension calibration than the 750S. Praise focuses on the 14-hp uplift over the GT, lighter weight, and revised carbon-ceramic brakes. Critiques include limited rear visibility, a minimal ADAS suite versus rivals like the Bentley Continental GT, and the same vertical 8-inch infotainment that gets criticism on the rest of the lineup.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/mclaren/gts",
+            "date": "2025-09-30"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/mclaren/gts/",
+            "date": "2025-09-10"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/mclaren/gts/",
+            "date": "2025-10-25"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the GTS due to small US owner population.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/mclaren/gts/",
+          "https://www.kbb.com/mclaren/gts/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "GTS",
+          "trim_slug": "gts",
+          "trim_family": "gts",
+          "is_base_trim": true,
+          "msrp_base": null,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 4,
+            "engine_config": "V8",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 626,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 465,
+            "transmission": "7-speed dual-clutch SSG (Seamless Shift Gearbox)",
+            "transmission_speeds": 7,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 15,
+            "highway_mpg": 22,
+            "combined_mpg": 18,
+            "fuel_tank_gal": 19,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 3850
+          },
+          "performance": {
+            "zero_to_60_sec": 3.1,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 203,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 184.4,
+            "width_in": 80.5,
+            "height_in": 47.8,
+            "wheelbase_in": 105.3,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 3351,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 20.1
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "Pirelli P Zero F: 225/35ZR20, R: 295/30ZR21 (staggered, 20-inch front / 21-inch rear)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": false,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 7,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "Bowers & Wilkins 12-speaker (optional); 4-speaker McLaren audio standard",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Carbon-fibre MonoCell II-T monocoque with carbon-fibre rear upper structure",
+              "Recycled carbon-fibre roof panel standard (option: panoramic privacy-tinted glass roof or Electrochromic roof)",
+              "Adaptive damper Proactive Damping Control",
+              "Carbon-ceramic brakes — 390mm front / 380mm rear with 6-piston front calipers",
+              "Total 20.1 cu ft luggage: 5.3 cu ft front trunk + 14.8 cu ft rear load bay (behind engine, accessed via rear glass hatch)",
+              "Standard Papaya Start/Stop button (new for 2026 MY)",
+              "Refreshed Performance Trim with new Jet Black TechLux contrast stitching options"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited (perforation)",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://cars-assets-production.mclaren.com/2608/mclaren-gts-hero.jpg",
+              "local_path": "images/mclaren/gts/gts/front_three_quarter.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://cars-assets-production.mclaren.com/2610/mclaren-gts-power-rear.jpg",
+              "local_path": "images/mclaren/gts/gts/rear_three_quarter.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://cars-assets-production.mclaren.com/101/mclaren-3477-DG-McLarenGTS-24-gts.jpg",
+              "local_path": "images/mclaren/gts/gts/side_profile.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://cars-assets-production.mclaren.com/3259/mclaren-new-gts-3.jpg",
+              "local_path": "images/mclaren/gts/gts/interior_dashboard.jpg",
+              "credit": "McLaren Automotive",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://cars.mclaren.com/us_en/gts",
+            "powertrain": "https://cars.mclaren.com/us_en/gts",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&make=McLaren+Automotive&pageno=1&srchtyp=newMake&year1=2026&year2=2026",
+            "performance.zero_to_60_sec": "https://cars.mclaren.com/us_en/gts",
+            "dimensions": "https://cars.mclaren.com/us_en/gts",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://cars.mclaren.com/us_en/gts",
+            "warranty": "https://cars.mclaren.com/us_en/ownership/extended-warranty-or-extended-service-contract"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim within model: is_base_trim true and delta_from_base null per sole-trim atomic rule. McLaren does not publish US MSRP on cars.mclaren.com or any accessible primary press release as of 2026-05-13; msrp_base and destination_fee set to null per spec §13 ultra-luxury non-disclosure handling. Aggregator and dealer sites (KBB, TrueCar) quote a starting price of $229,900 + $5,500 destination = $235,400 for the 2026 GTS but no primary McLaren-published US MSRP exists. EPA has not published a 2026 McLaren GTS entry as of 2026-05-13 (fueleconomy.gov powersearch returns 0 results for 2024-2026); sources.fuel_economy points to the brand model-browse page per spec §4 EPA-unavailable fallback rule. Fuel economy values 15/22/18 mpg are carryover from McLaren GT 2022 EPA entry (id=45194) — GTS is mechanically very close to GT (same M840TE engine block, similar gearing). Premium fuel required. The Wikipedia/Edmunds data indicates 'GT' Wikipedia entry covers both GT and GTS; dimensions derived from there. Width 80.5 in is without mirrors (mirror-out width 82.5 in or 2,045 mm). Width spec was confirmed from carsguide.com.au dimensions table and the carbuzz overview. infotainment_screen 7.0 in vertical and 12.3 in driver display per multiple source references; this carries over from the GT-era McLaren Infotainment System I. Cargo: 5.3 ft³ front trunk + 14.8 ft³ rear (behind-engine load bay accessed through rear glass) = 20.1 ft³ total — uniquely usable for a mid-engine supercar. All 4 image angles sourced from cars.mclaren.com's GTS page CDN at cars-assets-production.mclaren.com — direct .jpg assets confirmed image/jpeg content-type. MSRP not findable from allowed editorial sources as of 2026-05-15."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Coupe-only model — no GTS Spider exists despite some KBB/TrueCar aggregator pages claiming 'Coupé and Spider body styles'. Verified against cars.mclaren.com/us_en/all-models which lists 'GTS' as a single entry under the GTS category with no Spider sibling, against the Wikipedia McLaren GT article (only coupe configuration documented), and against the McLaren GTS launch press kit content from cars.mclaren.press indexed via search snippets (no Spider mentioned). Predecessor McLaren GT (2019-2023) was also coupe-only — GTS continues the pattern."
+    }
+  ]
+}

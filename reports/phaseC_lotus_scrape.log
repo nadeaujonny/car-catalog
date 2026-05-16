@@ -1,0 +1,36 @@
+Reset 24 image entries with needs_scraping:true to their model page URLs.
+Brand: lotus
+Models in JSON: 3
+Models with page URLs: 3
+Playwright fallback: enabled
+
+Scraping 3 model pages…
+
+  fetch https://www.lotuscars.com/en-US/emira  …  static ok (0 raw candidates)
+    playwright https://www.lotuscars.com/en-US/emira  …  ok but 0 candidates
+  fetch https://www.lotuscars.com/en-US/eletre  …  static ok (0 raw candidates)
+    playwright https://www.lotuscars.com/en-US/eletre  …  ok but 0 candidates
+  fetch https://www.lotuscars.com/en-US/emeya  …  static ok (0 raw candidates)
+    playwright https://www.lotuscars.com/en-US/emeya  …  ok but 0 candidates
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          lotus
+Pages attempted:                3
+Pages failed:                   3
+  - https://www.lotuscars.com/en-US/emira  (no candidates after static + playwright)
+  - https://www.lotuscars.com/en-US/eletre  (no candidates after static + playwright)
+  - https://www.lotuscars.com/en-US/emeya  (no candidates after static + playwright)
+Pages escalated to Playwright:  3 of 3
+  Playwright successes:         0
+  Playwright failures:          3
+Image entries rewritten:        0
+  via text/URL pattern match:   0
+  via positional fallback:      0
+Image entries unchanged:        24
+
+Models with unresolved angles:
+  emira: 16 entries  (e.g. turbo-se/front_three_quarter, turbo-se/rear_three_quarter, turbo-se/side_profile)
+  eletre: 4 entries  (e.g. carbon/front_three_quarter, carbon/rear_three_quarter, carbon/side_profile)
+  emeya: 4 entries  (e.g. r/front_three_quarter, r/rear_three_quarter, r/side_profile)

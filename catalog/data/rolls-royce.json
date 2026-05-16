@@ -1,0 +1,1869 @@
+{
+  "brand": "Rolls-Royce",
+  "brand_slug": "rolls-royce",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Phantom",
+      "model_slug": "phantom",
+      "model_year": 2026,
+      "body_style": "sedan",
+      "generation_context": "Eighth-generation Phantom (Phantom VIII), introduced 2017; updated as Phantom Series II in May 2022 with refreshed front fascia, new wheel designs, and digital interface enhancements. Two body lengths offered: Phantom (standard wheelbase) and Phantom Extended.",
+      "msrp_range": {
+        "low": null,
+        "high": null
+      },
+      "model_summary": "Rolls-Royce's flagship four-door sedan, hand-built on a bespoke aluminum spaceframe and powered by a 6.75L twin-turbocharged V12 driving the rear wheels. Offered in standard wheelbase and Extended (EWB) forms; the Extended adds approximately 8.7 inches of rear legroom. No Black Badge variant is offered for Phantom.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power Vehicle Dependability Study does not meaningfully sample Rolls-Royce due to its very low US sales volume, and Consumer Reports does not publish a predicted-reliability score for the Phantom. No quantitative reliability rating is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Rolls-Royce because of low US sales volume. Owner sentiment in press coverage is consistently very positive on craftsmanship and ride quality, but no quantified APEAL score exists.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the Phantom as the benchmark of full-size luxury, praising the unmatched 'magic carpet' ride from the bespoke aluminum platform, the near-silent 6.75L twin-turbo V12, and the meticulous bespoke craftsmanship of the cabin. Common critiques are the predictable but striking thirst (EPA 14 mpg combined), low driver involvement compared to sportier flagships, and prices that climb quickly into seven figures with options.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/rolls-royce/phantom",
+            "date": "2025-09-30"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/rolls-royce/phantom/",
+            "date": "2025-08-15"
+          },
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/rolls-royce/phantom",
+            "date": "2025-11-10"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the Phantom due to the very small US owner population and limited number of consumer submissions. No quantitative star rating is available.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/rolls-royce/phantom/",
+          "https://www.kbb.com/rolls-royce/phantom/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Phantom",
+          "trim_slug": "phantom",
+          "trim_family": "phantom-swb",
+          "is_base_trim": true,
+          "msrp_base": null,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 6.75,
+            "engine_config": "V12",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 563,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 664,
+            "transmission": "8-speed automatic (ZF 8HP)",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 12,
+            "highway_mpg": 19,
+            "combined_mpg": 14,
+            "fuel_tank_gal": 23.8,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4950
+          },
+          "performance": {
+            "zero_to_60_sec": 5.1,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 155,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 227.2,
+            "width_in": 79.4,
+            "height_in": 64.8,
+            "wheelbase_in": 139.8,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 5644,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 19
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "255/40R22 front / 285/35R22 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "none",
+            "sound_system": "Rolls-Royce Bespoke Audio 18-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "Bespoke aluminum spaceframe (Architecture of Luxury)",
+              "Self-leveling air suspension (Planar)",
+              "Flagbearer camera-aided suspension preview",
+              "Satellite Aided Transmission",
+              "Power-closing coach doors (rear-hinged)",
+              "Illuminated Spirit of Ecstasy and Starlight headliner",
+              "Hand-stitched bespoke leather and wood veneer interior"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/unlimited",
+            "powertrain_yr_mi": "4yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "4yr/unlimited"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/phantom-100/page-components/phantom/phantom-discover/D-Expanding-image-mask-01-P100.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg",
+              "local_path": "images/rolls-royce/phantom/phantom-swb/front-three-quarter.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/phantom-100/page-components/phantom/phantom-discover/D-Regular-image-02-P100.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg",
+              "local_path": "images/rolls-royce/phantom/phantom-swb/rear-three-quarter.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/phantom-100/page-components/phantom/phantom-discover/D-Regular-image-01-P100.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg",
+              "local_path": "images/rolls-royce/phantom/phantom-swb/side-profile.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/phantom-100/page-components/phantom/phantom-discover/D-Expanding-image-fade-02-P100-EXTRA.png/jcr:content/renditions/cq5dam.web.1920.png",
+              "local_path": "images/rolls-royce/phantom/phantom-swb/interior-dashboard.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.rolls-roycemotorcars.com/en_US/showroom/phantom.html",
+            "powertrain": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0389193EN/rolls-royce-phantom:-a-new-expression?language=en",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49331",
+            "performance.zero_to_60_sec": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0447467EN/rolls-royce-phantom:-100-years-of-perfection?language=en",
+            "dimensions": "https://www.rolls-roycemotorcars.com/en_US/showroom/phantom-in-detail.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/ROLLS-ROYCE",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.rolls-roycemotorcars.com/en_US/showroom/phantom-in-detail.html",
+            "warranty": "https://www.rolls-roycemotorcars.com/en_US/ownership/your-motor-car.html"
+          },
+          "delta_from_base": null,
+          "notes": "Rolls-Royce does not publish an MSRP on its consumer site (cars are commissioned via Bespoke configuration); msrp_base and destination_fee set to null per spec §4 forbidden-source rule (dealer sites, content farms, KBB/Edmunds excluded as primary for MSRP). Cars.com lists base around $527,750-$550,000 for cross-reference but is not cited as primary. Image URLs are consumer-page URLs requiring follow-up scrape. NHTSA and IIHS have not crash-tested the Phantom; safety ratings null. Phantom is a single-line model (no Black Badge variant offered). 0-60 figure from Rolls-Royce; some independent tests report 5.3 sec. Apple CarPlay added 2022 update; Android Auto not offered. Phantom Series II refresh introduced 2022, current as MY2026. MSRP not findable from allowed editorial sources as of 2026-05-15."
+        },
+        {
+          "trim": "Phantom Extended",
+          "trim_slug": "phantom-extended",
+          "trim_family": "phantom-ewb",
+          "is_base_trim": false,
+          "msrp_base": null,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 12,
+            "highway_mpg": 19,
+            "combined_mpg": 14,
+            "fuel_tank_gal": 23.8,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4950
+          },
+          "performance": {
+            "zero_to_60_sec": 5.2,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 155,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 235.5,
+            "width_in": 79.4,
+            "height_in": 65.2,
+            "wheelbase_in": 148.5,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 5752,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 19
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "255/40R22 front / 285/35R22 rear"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "none",
+            "sound_system": "Rolls-Royce Bespoke Audio 18-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "220 mm (8.7 in) extended wheelbase over standard Phantom",
+              "Privacy Suite glass partition available as bespoke option",
+              "Rear-cabin reading lamps and rear-seat champagne fridge available",
+              "Power-closing coach doors (rear-hinged)",
+              "Starlight headliner (extended)"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/phantom-100/page-components/phantom/phantom-discover/D-Expanding-image-mask-01-P100.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg",
+              "local_path": "images/rolls-royce/phantom/phantom-ewb/front-three-quarter.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/phantom-100/page-components/phantom/phantom-discover/D-Regular-image-02-P100.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg",
+              "local_path": "images/rolls-royce/phantom/phantom-ewb/rear-three-quarter.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/phantom-100/page-components/phantom/phantom-discover/D-Regular-image-01-P100.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg",
+              "local_path": "images/rolls-royce/phantom/phantom-ewb/side-profile.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/phantom-100/page-components/phantom/phantom-discover/D-Expanding-image-fade-02-P100-EXTRA.png/jcr:content/renditions/cq5dam.web.1920.png",
+              "local_path": "images/rolls-royce/phantom/phantom-ewb/interior-dashboard.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_rear_seats",
+              "url": "https://www.rolls-roycemotorcars.com/en_US/showroom/phantom.html",
+              "local_path": "images/rolls-royce/phantom/phantom-ewb/interior-rear-seats.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.rolls-roycemotorcars.com/en_US/showroom/phantom-extended.html",
+            "powertrain": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0389193EN/rolls-royce-phantom:-a-new-expression?language=en",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49332",
+            "performance.zero_to_60_sec": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0447467EN/rolls-royce-phantom:-100-years-of-perfection?language=en",
+            "dimensions": "https://www.guideautoweb.com/en/makes/rolls-royce/phantom/2026/specifications/extended-wheelbase/",
+            "features": "https://www.rolls-roycemotorcars.com/en_US/showroom/phantom-extended.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "phantom",
+            "msrp_delta_usd": null,
+            "changes": [
+              "Adds 8.7 in (220 mm) wheelbase and 8.3 in overall length for substantially more rear legroom",
+              "Curb weight increases approximately +108 lb from the longer body",
+              "0-60 mph time approximately 0.1 sec slower (155 mph limited top speed unchanged)",
+              "Optional Privacy Suite glass partition between front and rear cabins available as bespoke commission",
+              "Otherwise mechanically identical to standard Phantom (same 6.75L twin-turbo V12, 8-speed automatic, RWD, suspension)"
+            ]
+          },
+          "notes": "Rolls-Royce does not publish US MSRP for Phantom EWB on its consumer or press sites (cars commissioned via Bespoke configuration); msrp_base null per §4.6 ultra-luxury non-disclosure rule. MSRP not findable from allowed editorial sources as of 2026-05-15 (Car and Driver, MotorTrend, Hagerty editorial pages do not attribute a specific Phantom Extended figure). Cars.com lists $550,000 starting price for Phantom EWB and dealer sites report MSRP around $607,750 — both excluded as primary sources per §4.1. Per spec convention, powertrain, safety, and warranty blocks set to null (unchanged from base Phantom). Manufacturer 0-60 figure 5.2 sec; some independent tests report 5.3-5.4 sec."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Phantom is offered in two body lengths (standard and Extended) as separate marketing lines. No Black Badge variant. MSRP/destination figures set to null because Rolls-Royce does not publish US MSRP on its consumer site or accessible press releases — per spec §4 dealer sites, content farms (Carbuzz, Autoblog, autoevolution) and Wikipedia are forbidden as primary sources for MSRP. EPA fuel economy IDs 49331 (standard) and 49332 (Extended) verified. NHTSA and IIHS have not published crash test ratings for the Phantom Series II; safety ratings null. Image entries are consumer-page URLs flagged needs_scraping for follow-up CDN asset extraction. Phantom Series II refresh introduced May 2022, current for MY2026."
+    },
+    {
+      "model": "Ghost",
+      "model_slug": "ghost",
+      "model_year": 2026,
+      "body_style": "sedan",
+      "generation_context": "Second-generation Ghost, introduced 2020 on Rolls-Royce's bespoke aluminum spaceframe (Architecture of Luxury); refreshed as Ghost Series II for the 2025 model year with new front fascia, updated digital interface (SPIRIT), and Whispers connected services. Two body lengths: Ghost (standard wheelbase) and Ghost Extended.",
+      "msrp_range": {
+        "low": 332500,
+        "high": 332500
+      },
+      "model_summary": "Rolls-Royce's mid-size four-door sedan; a more driver-focused sibling to the Phantom, hand-built on the shared aluminum spaceframe and powered by a 6.75L twin-turbocharged V12 with all-wheel drive and all-wheel steering. Series II refresh introduced for MY2025 is carried forward into MY2026. The performance-focused Black Badge Ghost is sold as a separate model entry per Rolls-Royce marketing.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS does not meaningfully sample Rolls-Royce due to its very low US sales volume, and Consumer Reports does not publish a predicted-reliability score for the Ghost. No quantitative reliability rating is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Rolls-Royce due to low US sales volume. Press coverage indicates consistently very positive owner sentiment.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the Ghost Series II as the most accomplished and driver-focused four-door Rolls-Royce of the modern era, praising the silky 6.75L twin-turbo V12, Planar suspension, and the restrained Series II styling refresh. Common critiques are the predictable thirst (14 mpg combined), pricing that climbs into mid-six figures with bespoke options, and the slightly more reserved cabin presence compared to the larger Phantom.",
+        "links": [
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/ghost",
+            "date": "2025-06-10"
+          },
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/rolls-royce/ghost",
+            "date": "2025-08-22"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/rolls-royce/ghost/",
+            "date": "2025-10-04"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the Ghost due to the very small US owner population. No quantitative star rating is available.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/rolls-royce/ghost/",
+          "https://www.kbb.com/rolls-royce/ghost/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Ghost",
+          "trim_slug": "ghost",
+          "trim_family": "ghost-swb",
+          "is_base_trim": true,
+          "msrp_base": 332500,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 6.75,
+            "engine_config": "V12",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 563,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 627,
+            "transmission": "8-speed automatic (ZF 8HP)",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 12,
+            "highway_mpg": 19,
+            "combined_mpg": 14,
+            "fuel_tank_gal": 21.8,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4950
+          },
+          "performance": {
+            "zero_to_60_sec": 4.6,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 155,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 212.6,
+            "width_in": 77,
+            "height_in": 61,
+            "wheelbase_in": 129.7,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 5445,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 17
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "255/45R21 front / 285/40R21 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "none",
+            "sound_system": "Rolls-Royce Bespoke Audio 18-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "Bespoke aluminum spaceframe (Architecture of Luxury)",
+              "Planar Suspension System with camera-aided Flagbearer preview",
+              "All-wheel steering (rear-axle)",
+              "Satellite Aided Transmission",
+              "SPIRIT digital architecture and Whispers connected app",
+              "Power-closing coach doors (rear-hinged)",
+              "Starlight headliner with shooting stars",
+              "Illuminated Pantheon grille"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/unlimited",
+            "powertrain_yr_mi": "4yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "4yr/unlimited"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.rolls-roycemotorcars.com/en_US/showroom/ghost.html",
+              "local_path": "images/rolls-royce/ghost/ghost-swb/front-three-quarter.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.rolls-roycemotorcars.com/en_US/showroom/ghost.html",
+              "local_path": "images/rolls-royce/ghost/ghost-swb/rear-three-quarter.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/1-0-home/page-properties/ghost-series-2-campaign/main-menu-side-nav/D-SIDE-NAV-GSII.jpg/jcr:content/renditions/original",
+              "local_path": "images/rolls-royce/ghost/ghost-swb/side-profile.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.rolls-roycemotorcars.com/en_US/showroom/ghost.html",
+              "local_path": "images/rolls-royce/ghost/ghost-swb/interior-dashboard.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.hagerty.com/media/new-car-reviews/review-2021-rolls-royce-ghost/",
+            "powertrain": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0445483EN/ghost-series-ii:-the-most-advanced-driver-focused-v12-rolls-royce-ever-created?language=en",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49333",
+            "performance.zero_to_60_sec": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0445483EN/ghost-series-ii:-the-most-advanced-driver-focused-v12-rolls-royce-ever-created?language=en",
+            "dimensions": "https://www.rolls-roycemotorcars.com/en_US/showroom/ghost-in-detail.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/ROLLS-ROYCE",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.rolls-roycemotorcars.com/en_US/showroom/ghost.html",
+            "warranty": "https://www.rolls-roycemotorcars.com/en_US/ownership/your-motor-car.html"
+          },
+          "delta_from_base": null,
+          "notes": "MSRP and destination fee set to null because Rolls-Royce does not publish US MSRP on its consumer site, and dealer/content-farm sites are forbidden as primary per spec §4. Cars.com lists $368,000 for cross-reference; autoevolution and press reporting cite ~$355,000 at Series II launch; neither cited as primary. Image URLs are consumer-page URLs requiring follow-up scrape. NHTSA and IIHS have not crash-tested the Ghost; safety ratings null. 0-60 figure 4.6 sec from Rolls-Royce. Series II refresh launched MY2025, current for MY2026. MSRP source: Hagerty editorial spec page (per §4.6 scoped policy; manufacturer does not publish US MSRP). Hagerty's 2021 Ghost review (https://www.hagerty.com/media/new-car-reviews/review-2021-rolls-royce-ghost/) states a base price of $332,500 (2021 MY first-generation Series I; reflects launch MSRP. Current Series II MY2026 pricing not directly disclosed by Rolls-Royce or covered in newer Hagerty editorial)."
+        },
+        {
+          "trim": "Ghost Extended",
+          "trim_slug": "ghost-extended",
+          "trim_family": "ghost-ewb",
+          "is_base_trim": false,
+          "msrp_base": null,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 12,
+            "highway_mpg": 19,
+            "combined_mpg": 14,
+            "fuel_tank_gal": 21.8,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4950
+          },
+          "performance": {
+            "zero_to_60_sec": 4.8,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 155,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 218.9,
+            "width_in": 77,
+            "height_in": 61,
+            "wheelbase_in": 136,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 5552,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 17
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "255/45R21 front / 285/40R21 rear"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "none",
+            "sound_system": "Rolls-Royce Bespoke Audio 18-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "170 mm (6.7 in) extended wheelbase over standard Ghost",
+              "Rear-cabin Privacy Suite available as bespoke option",
+              "Available rear individual seats with theatre-style table package",
+              "Power-closing coach doors with longer rear door"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.rolls-roycemotorcars.com/en_US/showroom/ghost.html",
+              "local_path": "images/rolls-royce/ghost/ghost-ewb/front-three-quarter.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.rolls-roycemotorcars.com/en_US/showroom/ghost.html",
+              "local_path": "images/rolls-royce/ghost/ghost-ewb/rear-three-quarter.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/1-0-home/page-properties/ghost-series-2-campaign/main-menu-side-nav/D-SIDE-NAV-GSII.jpg/jcr:content/renditions/original",
+              "local_path": "images/rolls-royce/ghost/ghost-ewb/side-profile.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.rolls-roycemotorcars.com/en_US/showroom/ghost.html",
+              "local_path": "images/rolls-royce/ghost/ghost-ewb/interior-dashboard.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_rear_seats",
+              "url": "https://www.rolls-roycemotorcars.com/en_US/showroom/ghost.html",
+              "local_path": "images/rolls-royce/ghost/ghost-ewb/interior-rear-seats.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.rolls-roycemotorcars.com/en_US/showroom/ghost-extended.html",
+            "powertrain": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0445483EN/ghost-series-ii:-the-most-advanced-driver-focused-v12-rolls-royce-ever-created?language=en",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49334",
+            "dimensions": "https://www.rolls-roycemotorcars.com/en_US/showroom/ghost-extended.html",
+            "features": "https://www.rolls-roycemotorcars.com/en_US/showroom/ghost-extended.html"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "ghost",
+            "msrp_delta_usd": null,
+            "changes": [
+              "Adds approximately 170 mm (6.7 in) of wheelbase and overall length, increasing rear legroom",
+              "Curb weight increases approximately +107 lb from longer body",
+              "0-60 mph time approximately 0.2 sec slower (155 mph limited top speed unchanged)",
+              "Available rear individual seats with theatre-style folding table package as bespoke option",
+              "Otherwise mechanically identical to standard Ghost (same 6.75L twin-turbo V12, 8-speed automatic, AWD, suspension)"
+            ]
+          },
+          "notes": "Rolls-Royce does not publish US MSRP for Ghost Extended on its consumer or press sites; msrp_base null per §4.6 ultra-luxury non-disclosure rule. MSRP not findable from allowed editorial sources as of 2026-05-15. Cars.com lists $418,000 starting MSRP for Ghost Extended — not cited as primary per §4.1. Per spec convention, powertrain, safety, and warranty blocks set to null (unchanged from base Ghost). EPA ID 49334 verified."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Ghost is offered in two body lengths (standard and Extended) as separate marketing lines. Black Badge Ghost is treated as a separate model entry per the performance-variant rule (§6.4) because Rolls-Royce markets it with its own model page (rolls-roycemotorcars.com/en_US/showroom/black-badge-ghost.html). MSRP/destination set to null because Rolls-Royce does not publish US MSRP on its consumer site; per spec §4 dealer sites, content farms, KBB/Edmunds excluded as primary. EPA IDs 49333 (Ghost) and 49334 (Ghost Extended) verified. NHTSA and IIHS have not published crash-test ratings for the Ghost; safety ratings null. Image entries are consumer-page URLs flagged needs_scraping for follow-up CDN asset extraction."
+    },
+    {
+      "model": "Ghost Black Badge",
+      "model_slug": "ghost-black-badge",
+      "model_year": 2026,
+      "body_style": "sedan",
+      "generation_context": "Second-generation Ghost Black Badge, introduced 2021; updated as Black Badge Ghost Series II for the 2025 model year alongside the standard Ghost Series II refresh. Carried forward into MY2026.",
+      "msrp_range": {
+        "low": 393500,
+        "high": 393500
+      },
+      "model_summary": "The driver-focused, more powerful Black Badge expression of the Ghost sedan. Uses a high-power tune of the same 6.75L twin-turbocharged V12 (592 hp / 664 lb-ft) with sharper transmission programming, dynamic dampers, and exclusive dark exterior trim and 22-inch wheels. Marketed by Rolls-Royce as its own model with a dedicated showroom page, separate from the standard Ghost line.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS does not meaningfully sample Rolls-Royce due to its very low US sales volume, and Consumer Reports does not publish a predicted-reliability score. No quantitative reliability rating is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Rolls-Royce due to low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the Black Badge Ghost Series II as the most agile and driver-focused four-door Rolls-Royce yet, praising the high-power 592 hp tune, dynamic Planar suspension calibration, and the menacing dark-chrome exterior treatment. Critiques focus on the modest power increase over the standard Ghost relative to the price premium and the inherent contradictions of a 5,500-lb performance sedan that is still tuned for comfort.",
+        "links": [
+          {
+            "publication": "Autocar",
+            "url": "https://www.autocar.co.uk/car-review/rolls-royce/ghost-black-badge",
+            "date": "2025-04-15"
+          },
+          {
+            "publication": "Motoring Research",
+            "url": "https://www.motoringresearch.com/car-reviews/rolls-royce-ghost-black-badge-2025/",
+            "date": "2025-05-20"
+          },
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/ghost",
+            "date": "2025-06-10"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish owner-review aggregates for Black Badge Ghost due to the very small US owner population.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/rolls-royce/ghost/",
+          "https://www.kbb.com/rolls-royce/ghost/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Black Badge Ghost",
+          "trim_slug": "black-badge-ghost",
+          "trim_family": "ghost-black-badge",
+          "is_base_trim": true,
+          "msrp_base": 393500,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 6.75,
+            "engine_config": "V12",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 592,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 664,
+            "transmission": "8-speed automatic (ZF 8HP, Black Badge tuned)",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 12,
+            "highway_mpg": 19,
+            "combined_mpg": 14,
+            "fuel_tank_gal": 21.8,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4950
+          },
+          "performance": {
+            "zero_to_60_sec": 4.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 155,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 212.6,
+            "width_in": 77,
+            "height_in": 61,
+            "wheelbase_in": 129.7,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 5500,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 17
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "255/40R22 front / 285/35R22 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "none",
+            "sound_system": "Rolls-Royce Bespoke Audio 18-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "High-power tune of the 6.75L twin-turbo V12 (+29 hp / +37 lb-ft vs Ghost)",
+              "Black Badge Planar Suspension System with electronically controlled dampers",
+              "Low mode unlocks transmission Sport-style behavior via gear-selector stalk",
+              "Exclusive dark-chrome Pantheon grille and badging (darkened Spirit of Ecstasy)",
+              "22-inch part-polished seven-spoke forged wheels (exclusive to Black Badge Ghost)",
+              "Infinity-symbol badges and Technical Carbon interior fascia",
+              "Starlight headliner with bright shooting stars",
+              "Standard rear-wheel steering and AWD"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/unlimited",
+            "powertrain_yr_mi": "4yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "4yr/unlimited"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/bb-ghost-sii/in-detail-/D-EXP-FRONT34-BG-BBGSII-IN-DETAIL.jpg/jcr:content/renditions/original",
+              "local_path": "images/rolls-royce/ghost-black-badge/ghost-black-badge/front-three-quarter.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/bb-ghost-sii/in-detail-/D-REAR-BBGSII-IN-DETAIL.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg",
+              "local_path": "images/rolls-royce/ghost-black-badge/ghost-black-badge/rear-three-quarter.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/bb-ghost-sii/in-detail-/D-CAROUSEL-A-IMG-01-BBGSII-IN-DETAIL.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg",
+              "local_path": "images/rolls-royce/ghost-black-badge/ghost-black-badge/side-profile.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/bb-ghost-sii/in-detail-/D-3-SET-IMG-BBGSII-IN-DETAIL.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg",
+              "local_path": "images/rolls-royce/ghost-black-badge/ghost-black-badge/interior-dashboard.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.hagerty.com/media/new-car-reviews/review-2022-rolls-royce-ghost-black-badge/",
+            "powertrain": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0445484EN/rolls-royce-presents-black-badge-ghost-series-ii:-a-daring-expression-of-luxury-and-power?language=en",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49335",
+            "performance.zero_to_60_sec": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0445484EN/rolls-royce-presents-black-badge-ghost-series-ii:-a-daring-expression-of-luxury-and-power?language=en",
+            "dimensions": "https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-ghost.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/ROLLS-ROYCE",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-ghost.html",
+            "warranty": "https://www.rolls-roycemotorcars.com/en_US/ownership/your-motor-car.html"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model (per sole-trim atomic rule: is_base_trim true, delta_from_base null). MSRP and destination set to null because Rolls-Royce does not publish US MSRP on its consumer site or accessible press releases; dealer sites and content farms (Cars.com lists $438,000; autoevolution cites $440,750) are forbidden as primary sources for MSRP per spec §4. Image URLs are consumer-page URLs flagged needs_scraping for follow-up scrape. NHTSA and IIHS have not published crash-test ratings; safety ratings null. Power output (592 hp / 664 lb-ft) from official press release (29 PS / 37 lb-ft over standard Ghost). 0-60 figure 4.5 sec from manufacturer. MSRP source: Hagerty editorial spec page (per §4.6 scoped policy; manufacturer does not publish US MSRP). Hagerty's 2022 Ghost Black Badge review (https://www.hagerty.com/media/new-car-reviews/review-2022-rolls-royce-ghost-black-badge/) states a base price of $393,500 (with as-tested $484,950). Reflects 2022 MY pricing; current Series II MY2026 pricing not directly disclosed by Rolls-Royce or covered in newer Hagerty editorial."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Black Badge Ghost split as its own model per performance-variant rule (§6.4) — Rolls-Royce markets it on its own dedicated showroom page (rolls-roycemotorcars.com/en_US/showroom/black-badge-ghost.html) and treats Black Badge as its own marque-within-marque line. Sole-trim model. MSRP/destination null because Rolls-Royce does not publish US MSRP on its consumer site; per spec §4 dealer sites, content farms, KBB/Edmunds excluded as primary. EPA ID 49335 verified. NHTSA/IIHS have not crash-tested Black Badge Ghost. Image entries flagged needs_scraping for follow-up CDN asset extraction."
+    },
+    {
+      "model": "Spectre",
+      "model_slug": "spectre",
+      "model_year": 2026,
+      "body_style": "coupe",
+      "generation_context": "First-generation Spectre, Rolls-Royce's first all-electric production model. Introduced 2023 for the 2024 model year on the brand's Architecture of Luxury aluminum spaceframe (shared with Phantom and Cullinan). Two-door grand-touring coupe.",
+      "msrp_range": {
+        "low": 422750,
+        "high": 422750
+      },
+      "model_summary": "Rolls-Royce's first all-electric vehicle: a two-door, four-seat ultra-luxury grand-touring coupe powered by dual permanently-excited synchronous motors (one per axle) totalling 577 hp, with a 102 kWh battery and approximately 264-277 miles of EPA range depending on wheel size. The performance-oriented Spectre Black Badge is sold as a separate model entry.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS does not meaningfully sample Rolls-Royce due to its very low US sales volume, and Consumer Reports does not publish a predicted-reliability score for the Spectre. As the brand's first BEV, long-term durability data is also limited.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Rolls-Royce due to low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently praise the Spectre's serenely quiet electric powertrain, the way the new platform exploits EV silence and torque to deliver a deeply Rolls-Royce experience, and the bespoke craftsmanship of the cabin. Common critiques are the substantial 6,400+ lb curb weight, EPA range under 280 miles for the largest GT coupe in the world, and the steep entry price.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/rolls-royce/spectre",
+            "date": "2025-07-12"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/rolls-royce/spectre/",
+            "date": "2025-09-08"
+          },
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/rolls-royce/spectre-coupe",
+            "date": "2025-11-15"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for Spectre due to the very small US owner population. No quantitative star rating is available.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/rolls-royce/spectre/",
+          "https://www.kbb.com/rolls-royce/spectre/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Spectre",
+          "trim_slug": "spectre",
+          "trim_family": "spectre",
+          "is_base_trim": true,
+          "msrp_base": 422750,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 577,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 664,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 102,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 277,
+            "total_range_mi": 277,
+            "dc_fast_charge_peak_kw": 195,
+            "dc_fast_charge_10_to_80_min": 34,
+            "ac_charge_kw": 22,
+            "mpge_combined": 77,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 74,
+            "highway_mpg": 82,
+            "combined_mpg": 77,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 4.4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 155,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 215.6,
+            "width_in": 79.4,
+            "height_in": 61.9,
+            "wheelbase_in": 126.4,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 6443,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 11
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "255/50R22 front / 285/45R22 rear (22-inch wheels standard; 23-inch available)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "none",
+            "sound_system": "Rolls-Royce Bespoke Audio 18-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "First fully-electric Rolls-Royce production model",
+              "Dual permanently-excited synchronous motors (front 190 kW, rear 360 kW)",
+              "Planar Suspension System with camera-aided Flagbearer preview",
+              "Power-closing coach doors (rear-hinged)",
+              "Starlight Doors (4,796 illuminated stars in each door panel)",
+              "Illuminated Pantheon grille",
+              "SPIRIT digital architecture and Whispers connected app",
+              "22-inch wheels standard, 23-inch optional"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/unlimited",
+            "powertrain_yr_mi": "4yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": "4yr/unlimited"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/spectre-discover/page-components/comp-update-dec-24/D-IMAGE-SPECTRE-DISCOVER%20(2).jpg/jcr:content/renditions/cq5dam.web.1920.jpeg",
+              "local_path": "images/rolls-royce/spectre/spectre/front-three-quarter.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.rolls-roycemotorcars.com/en_US/showroom/spectre.html",
+              "local_path": "images/rolls-royce/spectre/spectre/rear-three-quarter.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/1-0-home/page-properties/bb-spectre-side-nav/T-SIDE-NAV-BBS.jpg/jcr:content/renditions/original",
+              "local_path": "images/rolls-royce/spectre/spectre/side-profile.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/spectre-discover/page-components/comp-update-dec-24/D-PAR-BLOCK-02-02-SPECTRE-DISCOVER.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg",
+              "local_path": "images/rolls-royce/spectre/spectre/interior-dashboard.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.hagerty.com/media/new-car-reviews/2024-rolls-royce-spectre-is-near-perfect-ev/",
+            "powertrain": "https://www.rolls-roycemotorcars.com/en_US/showroom/spectre.html",
+            "ev_specifics": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49979",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49979",
+            "performance.zero_to_60_sec": "https://www.rolls-roycemotorcars.com/en_US/showroom/spectre.html",
+            "dimensions": "https://www.rolls-roycemotorcars.com/en_US/showroom/spectre.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/ROLLS-ROYCE",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.rolls-roycemotorcars.com/en_US/showroom/spectre-in-detail.html",
+            "warranty": "https://www.rolls-roycemotorcars.com/en_US/ownership/your-motor-car.html"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model (per sole-trim atomic rule: is_base_trim true, delta_from_base null). MSRP and destination set to null because Rolls-Royce does not publish US MSRP on its consumer site; dealer sites and content farms (Cars.com lists $395,000; press cite ~$420,000) are forbidden as primary per spec §4. EPA ID 49979 verified — 22-inch wheels configuration shown (277 mi range / 77 MPGe combined); 23-inch wheel option (EPA ID 49980) reduces range to 253 mi and MPGe to 70 combined but is treated as a wheel option within a single trim per spec §6.4. EV MPGe values mirrored into fuel_economy.city_mpg/highway_mpg/combined_mpg per spec §3.6 v1.1 convention. DC fast charge peak (195 kW) and 10-80% time (~34 min) from Rolls-Royce spec page. Image URLs are consumer-page URLs flagged needs_scraping for follow-up CDN extraction. NHTSA/IIHS have not crash-tested Spectre. MSRP source: Hagerty editorial spec page (per §4.6 scoped policy; manufacturer does not publish US MSRP). Hagerty's 2024 Spectre review (https://www.hagerty.com/media/new-car-reviews/2024-rolls-royce-spectre-is-near-perfect-ev/) states an estimated base price of $422,750 'with nothing but the essentials' (2024 MY launch pricing)."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Sole-trim model. Spectre is sold as a single trim with 22-inch wheels standard and 23-inch wheels as a wheel option that the EPA tracks separately (IDs 49979 and 49980); per spec §6.4 wheel size is treated as an option within a single trim. Black Badge Spectre is a separate model entry per performance-variant rule (§6.4) — Rolls-Royce markets it on its own dedicated showroom page. MSRP/destination set to null per spec §4 forbidden-source rule. NHTSA/IIHS have not crash-tested Spectre. Image entries flagged needs_scraping for follow-up CDN asset extraction. Trim_family is singleton — carries all 4 required image angles directly per §7."
+    },
+    {
+      "model": "Spectre Black Badge",
+      "model_slug": "spectre-black-badge",
+      "model_year": 2026,
+      "body_style": "coupe",
+      "generation_context": "First-generation Spectre Black Badge, introduced February 2025 for the 2025 model year and carried forward into MY2026. The most powerful production Rolls-Royce in the brand's history.",
+      "msrp_range": {
+        "low": null,
+        "high": null
+      },
+      "model_summary": "The performance-oriented Black Badge expression of the all-electric Spectre coupe. Uplifts the dual-motor electric powertrain to 650 hp in Infinity Mode (with 659 hp / 793 lb-ft achievable in Spirited Mode launch control), shaving 0-60 mph to 4.1 seconds. The most powerful Rolls-Royce ever produced. Marketed by Rolls-Royce as its own model with a dedicated showroom page.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS does not meaningfully sample Rolls-Royce due to its very low US sales volume, and Consumer Reports does not publish a predicted-reliability score. As an MY2025-launch BEV variant, long-term durability data is also limited.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Rolls-Royce due to low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the Black Badge Spectre as a startlingly quick GT for its 6,500+ lb mass, with the new Spirited and Infinity modes unlocking genuine sports-car acceleration while preserving Rolls-Royce ride quality. Common critiques are slightly reduced EPA range vs the standard Spectre (251-266 mi depending on wheel size), a six-figure premium over the standard Spectre, and the inherent contradictions of a near-7,000 lb performance coupe.",
+        "links": [
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/rolls-royce/spectre-coupe/black-badge/first-drive",
+            "date": "2025-04-25"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/car-news/2025-rolls-royce-spectre-black-badge-tested.html",
+            "date": "2025-05-08"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for Black Badge Spectre due to the very small US owner population.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/rolls-royce/spectre/",
+          "https://www.kbb.com/rolls-royce/spectre/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Black Badge Spectre",
+          "trim_slug": "black-badge-spectre",
+          "trim_family": "spectre-black-badge",
+          "is_base_trim": true,
+          "msrp_base": null,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 650,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 793,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 102,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 266,
+            "total_range_mi": 266,
+            "dc_fast_charge_peak_kw": 195,
+            "dc_fast_charge_10_to_80_min": 34,
+            "ac_charge_kw": 22,
+            "mpge_combined": 74,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 70,
+            "highway_mpg": 80,
+            "combined_mpg": 74,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 4.1,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 155,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 215.6,
+            "width_in": 79.4,
+            "height_in": 61.9,
+            "wheelbase_in": 126.4,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 6559,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 11
+            }
+          },
+          "capacity": {
+            "seats": 4,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 23,
+            "tire_spec": "23-inch five-spoke forged wheels (Black Badge exclusive); 22-inch also available"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "none",
+            "sound_system": "Rolls-Royce Bespoke Audio 18-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "Most powerful production Rolls-Royce ever (650 hp / 793 lb-ft in Infinity Mode)",
+              "Spirited Mode launch control (briefly delivers 659 hp / 1,075 Nm torque burst)",
+              "23-inch forged five-spoke wheels standard (22-inch optional)",
+              "Exclusive Vapour Violet exterior color and 'Technical Fibre' interior trim option",
+              "Cityscape illuminated fascia featuring the Black Badge Infinity symbol",
+              "Darkened chrome treatment on grille, badging, and trim (darkened Spirit of Ecstasy)",
+              "5,500 individual lighting elements across interior dashboard and door panels"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/unlimited",
+            "powertrain_yr_mi": "4yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": "4yr/unlimited"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/bb-spectre/page-components/D-EXP-IMG-01-BBS-PRODUCT.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg",
+              "local_path": "images/rolls-royce/spectre-black-badge/spectre-black-badge/front-three-quarter.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/bb-spectre/page-components/D-REAR-3-4-BBS-PRODUCT.jpg/jcr:content/renditions/original",
+              "local_path": "images/rolls-royce/spectre-black-badge/spectre-black-badge/rear-three-quarter.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/bb-spectre/page-components/D-REAR-TRACK-BBS-PRODUCT.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg",
+              "local_path": "images/rolls-royce/spectre-black-badge/spectre-black-badge/side-profile.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/bb-spectre/page-components/D-FASCIA-BBS-PRODUCT.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg",
+              "local_path": "images/rolls-royce/spectre-black-badge/spectre-black-badge/interior-dashboard.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-spectre.html",
+            "powertrain": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0448145EN/rolls-royce-announces-black-badge-spectre:-the-alter-ego-amplified?language=en",
+            "ev_specifics": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49977",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49977",
+            "performance.zero_to_60_sec": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0448145EN/rolls-royce-announces-black-badge-spectre:-the-alter-ego-amplified?language=en",
+            "dimensions": "https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-spectre.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/ROLLS-ROYCE",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-spectre.html",
+            "warranty": "https://www.rolls-roycemotorcars.com/en_US/ownership/your-motor-car.html"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model (per sole-trim atomic rule: is_base_trim true, delta_from_base null). MSRP and destination set to null because Rolls-Royce does not publish US MSRP on its consumer site; press reports cite $490,000 and Cars.com lists $465,000 — both forbidden as primary per spec §4. Power output: 485 kW (650 hp) in Infinity Mode is the headline figure per official press release; Spirited Mode briefly delivers 659 hp / 1,075 Nm (793 lb-ft) during launch. EPA ID 49977 verified (22-inch wheels: 266 mi range, 74 MPGe combined); 23-inch wheel option (ID 49978) reduces range to 251 mi and MPGe to 70 combined. EV MPGe values mirrored into fuel_economy fields per spec §3.6 v1.1. NHTSA/IIHS have not crash-tested. Image URLs are consumer-page URLs flagged needs_scraping for follow-up CDN extraction. MSRP not findable from allowed editorial sources as of 2026-05-15."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Sole-trim model. Spectre Black Badge split as separate model per performance-variant rule (§6.4) — Rolls-Royce markets it on its own dedicated showroom page (rolls-roycemotorcars.com/en_US/showroom/black-badge-spectre.html). MSRP/destination null per spec §4 forbidden-source rule. EPA IDs 49977 (22-inch) and 49978 (23-inch) verified — both belong to Black Badge Spectre; 23-inch is a wheel option within a single trim. NHTSA/IIHS have not crash-tested. Image entries flagged needs_scraping for follow-up CDN asset extraction. The most powerful production Rolls-Royce ever made."
+    },
+    {
+      "model": "Cullinan",
+      "model_slug": "cullinan",
+      "model_year": 2026,
+      "body_style": "suv-midsize",
+      "generation_context": "First-generation Cullinan, introduced 2018; updated as Cullinan Series II in May 2024 with a refreshed front fascia (new 'pixel' DRLs), updated digital interface (SPIRIT), and refined interior. Carried forward as MY2026.",
+      "msrp_range": {
+        "low": 335000,
+        "high": 335000
+      },
+      "model_summary": "Rolls-Royce's full-size luxury SUV: a five-seat, all-wheel-drive 4x4 built on the brand's bespoke aluminum spaceframe and powered by a 6.75L twin-turbocharged V12 (563 hp / 627 lb-ft). The performance-oriented Cullinan Black Badge is sold as a separate model entry. Cullinan can be ordered in a 4-seat 'individual rear seats' bespoke configuration but is most commonly delivered as a 5-seater.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS does not meaningfully sample Rolls-Royce due to its very low US sales volume, and Consumer Reports does not publish a predicted-reliability score for the Cullinan. No quantitative reliability rating is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Rolls-Royce due to low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the Cullinan Series II as the most opulent SUV in production, praising the magic-carpet air suspension, near-silent V12, and the refreshed Series II styling and interior. Common critiques are the predictable 14 mpg combined EPA rating, near-7,000 lb curb weight, and the upper-mid-six-figure price; some also note the SUV-on-Phantom-platform ride is more couch than off-roader despite the lift-mode hardware.",
+        "links": [
+          {
+            "publication": "Car and Driver",
+            "url": "https://www.caranddriver.com/rolls-royce/cullinan",
+            "date": "2025-06-15"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/rolls-royce/cullinan/",
+            "date": "2025-09-22"
+          },
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/rolls-royce/cullinan",
+            "date": "2025-08-12"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for Cullinan due to the very small US owner population.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/rolls-royce/cullinan/",
+          "https://www.kbb.com/rolls-royce/cullinan/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Cullinan",
+          "trim_slug": "cullinan",
+          "trim_family": "cullinan",
+          "is_base_trim": true,
+          "msrp_base": 335000,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 6.75,
+            "engine_config": "V12",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 563,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 627,
+            "transmission": "8-speed automatic (ZF 8HP)",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 12,
+            "highway_mpg": 19,
+            "combined_mpg": 14,
+            "fuel_tank_gal": 24,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4950
+          },
+          "performance": {
+            "zero_to_60_sec": 4.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 155,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 210.3,
+            "width_in": 78.7,
+            "height_in": 72,
+            "wheelbase_in": 130,
+            "ground_clearance_in": 6.8,
+            "curb_weight_lb": 5864,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 21,
+              "behind_1st_row": 60,
+              "max_with_seats_folded": 60,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "255/50R22 front / 285/45R22 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "none",
+            "sound_system": "Rolls-Royce Bespoke Audio 18-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "Bespoke aluminum spaceframe (Architecture of Luxury)",
+              "Self-leveling air suspension with off-road mode (raises ~1.6 in)",
+              "Optional 'Recreation Module' tailgate for tailgate entertaining",
+              "Optional 'Viewing Suite' rear-facing two-seat tailgate package",
+              "Coach (rear-hinged) rear doors with soft-close",
+              "Starlight headliner and Illuminated Pantheon grille",
+              "Series II refresh with 'pixel' DRL daytime running lamps",
+              "SPIRIT digital architecture and Whispers connected app"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/unlimited",
+            "powertrain_yr_mi": "4yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "4yr/unlimited"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.rolls-roycemotorcars.com/en_US/showroom/cullinan.html",
+              "local_path": "images/rolls-royce/cullinan/cullinan/front-three-quarter.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.rolls-roycemotorcars.com/en_US/showroom/cullinan.html",
+              "local_path": "images/rolls-royce/cullinan/cullinan/rear-three-quarter.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/common/navigation/desktop/D-SIDE-NAV-CSII.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg",
+              "local_path": "images/rolls-royce/cullinan/cullinan/side-profile.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/cullinan_s2/cs2_discover/page-components/D-PAR-BLOCK-B-01-CSII-DISCOVER.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg",
+              "local_path": "images/rolls-royce/cullinan/cullinan/interior-dashboard.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.hagerty.com/media/new-car-reviews/cullinan-is-a-real-rolls-royce-but-not-the-best-one/",
+            "powertrain": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0446707EN/cullinan-series-ii-and-black-badge-cullinan-series-ii-in-ibiza?language=en",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49606",
+            "performance.zero_to_60_sec": "https://www.rolls-roycemotorcars.com/en_US/showroom/cullinan.html",
+            "dimensions": "https://www.rolls-roycemotorcars.com/en_US/showroom/cullinan-in-detail.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/ROLLS-ROYCE",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.rolls-roycemotorcars.com/en_US/showroom/cullinan.html",
+            "warranty": "https://www.rolls-roycemotorcars.com/en_US/ownership/your-motor-car.html"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model (per sole-trim atomic rule: is_base_trim true, delta_from_base null). MSRP and destination set to null because Rolls-Royce does not publish US MSRP on its consumer site; dealer sites and content farms (Cars.com lists $436,000; dealers list ~$432,350) are forbidden as primary per spec §4. Cargo volume figures (21 cuft behind 2nd row, 60 cuft seats folded) from Cars.com cross-reference. Ground clearance 6.8 in standard / ~8.8 in off-road mode (air suspension raises ~2 in). EPA ID 49606 verified. NHTSA/IIHS have not crash-tested Cullinan. Image URLs are consumer-page URLs flagged needs_scraping. Note: Cullinan can be optioned in a 4-seat 'individual rear seat' bespoke layout — 5-seat configuration shown here is standard. MSRP source: Hagerty editorial spec page (per §4.6 scoped policy; manufacturer does not publish US MSRP). Hagerty's Cullinan review (https://www.hagerty.com/media/new-car-reviews/cullinan-is-a-real-rolls-royce-but-not-the-best-one/) states a starting price of $335,000. Reflects pre-Series-II launch MSRP; current Series II MY2026 pricing not directly disclosed by Rolls-Royce or covered in newer Hagerty editorial."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Sole-trim model. Black Badge Cullinan split as separate model per performance-variant rule (§6.4). Body style 'suv-midsize' per spec §5 — Cullinan is a 5-seat SUV without a 3rd-row option, so suv-3row is not applicable; suv-full-size is reserved for body-on-frame trucks like Yukon/Sequoia. MSRP/destination null per spec §4 forbidden-source rule. EPA ID 49606 verified. NHTSA/IIHS have not crash-tested Cullinan. Image entries flagged needs_scraping for follow-up CDN asset extraction. Series II refresh launched May 2024 — current for MY2026."
+    },
+    {
+      "model": "Cullinan Black Badge",
+      "model_slug": "cullinan-black-badge",
+      "model_year": 2026,
+      "body_style": "suv-midsize",
+      "generation_context": "First-generation Cullinan Black Badge, introduced 2019; updated as Black Badge Cullinan Series II in May 2024 alongside the standard Cullinan refresh. The Series II update brings the high-power 591 hp tune, 23-inch wheels (a Black Badge first), and darker exterior treatment. Carried forward as MY2026.",
+      "msrp_range": {
+        "low": 382000,
+        "high": 382000
+      },
+      "model_summary": "The driver-focused, more powerful Black Badge expression of the Cullinan SUV. Uses a high-power tune of the 6.75L twin-turbocharged V12 (591 hp / 664 lb-ft) with sharper transmission programming, Black Badge Planar suspension, exclusive 23-inch wheels, and darkened chrome trim. Marketed by Rolls-Royce as its own model with a dedicated showroom page.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS does not meaningfully sample Rolls-Royce due to its very low US sales volume, and Consumer Reports does not publish a predicted-reliability score. No quantitative reliability rating is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Rolls-Royce due to low US sales volume.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the Black Badge Cullinan Series II as the most driver-focused ultra-luxury SUV available, praising the high-power 591 hp tune and exclusive 23-inch wheels that finally give the Cullinan a more aggressive stance. Critiques focus on the modest power increase over the standard Cullinan relative to the price premium, persistent 14 mpg combined EPA, and a small share of customers ever exploiting the added performance.",
+        "links": [
+          {
+            "publication": "Car Magazine",
+            "url": "https://www.carmagazine.co.uk/car-reviews/rolls-royce/cullinan-black-badge/",
+            "date": "2025-04-30"
+          },
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/rolls-royce/cullinan",
+            "date": "2025-08-12"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for Black Badge Cullinan due to the very small US owner population.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/rolls-royce/cullinan/",
+          "https://www.kbb.com/rolls-royce/cullinan/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Black Badge Cullinan",
+          "trim_slug": "black-badge-cullinan",
+          "trim_family": "cullinan-black-badge",
+          "is_base_trim": true,
+          "msrp_base": 382000,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 6.75,
+            "engine_config": "V12",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 591,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 664,
+            "transmission": "8-speed automatic (ZF 8HP, Black Badge tuned)",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 12,
+            "highway_mpg": 19,
+            "combined_mpg": 14,
+            "fuel_tank_gal": 24,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 4950
+          },
+          "performance": {
+            "zero_to_60_sec": 4.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 155,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 210.3,
+            "width_in": 78.7,
+            "height_in": 72,
+            "wheelbase_in": 130,
+            "ground_clearance_in": 6.8,
+            "curb_weight_lb": 6173,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 21,
+              "behind_1st_row": 60,
+              "max_with_seats_folded": 60,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 23,
+            "tire_spec": "255/40R23 front / 295/35R23 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "none",
+            "sound_system": "Rolls-Royce Bespoke Audio 18-speaker",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "High-power tune of the 6.75L twin-turbo V12 (+28 hp / +37 lb-ft vs Cullinan)",
+              "Black Badge Planar Suspension System with electronically controlled dampers",
+              "Low mode unlocks sportier transmission behavior via gear-selector stalk",
+              "Exclusive 23-inch forged ten-spoke wheels (first 23-inch wheels on a Black Badge)",
+              "Darkened chrome Pantheon grille, badging, and trim",
+              "Cityscape illuminated fascia with Black Badge Infinity symbol",
+              "Body-colored lower trim (vs darker contrast on standard Cullinan)",
+              "Starlight headliner with bright shooting stars"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/unlimited",
+            "powertrain_yr_mi": "4yr/unlimited",
+            "corrosion_yr_mi": "10yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "4yr/unlimited"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/bb_cullinan_s2/page-components/D-EXP-IMG-BBCSII-IN-DETAIL.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg",
+              "local_path": "images/rolls-royce/cullinan-black-badge/cullinan-black-badge/front-three-quarter.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-cullinan.html",
+              "local_path": "images/rolls-royce/cullinan-black-badge/cullinan-black-badge/rear-three-quarter.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-cullinan.html",
+              "local_path": "images/rolls-royce/cullinan-black-badge/cullinan-black-badge/side-profile.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/bb_cullinan_s2/page-components/DT-CAROUSEL-03-BBCSII-INDETAIL.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg",
+              "local_path": "images/rolls-royce/cullinan-black-badge/cullinan-black-badge/interior-dashboard.jpg",
+              "credit": "Rolls-Royce Motor Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.hagerty.com/media/news/rolls-royce-black-badge-cullinan-is-382k-of-suv/",
+            "powertrain": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0446707EN/cullinan-series-ii-and-black-badge-cullinan-series-ii-in-ibiza?language=en",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49607",
+            "performance.zero_to_60_sec": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0446707EN/cullinan-series-ii-and-black-badge-cullinan-series-ii-in-ibiza?language=en",
+            "dimensions": "https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-cullinan.html",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/ROLLS-ROYCE",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.rolls-roycemotorcars.com/en_US/showroom/black-badge-cullinan.html",
+            "warranty": "https://www.rolls-roycemotorcars.com/en_US/ownership/your-motor-car.html"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model (per sole-trim atomic rule: is_base_trim true, delta_from_base null). MSRP and destination set to null because Rolls-Royce does not publish US MSRP on its consumer site; dealer sites and content farms (Cars.com lists $506,000; dealer sites list ~$502,350) are forbidden as primary per spec §4. Power output 591 hp / 664 lb-ft from official press release. Curb weight 6,173 lb (heavier than standard Cullinan due to dampers and 23-inch wheels). EPA ID 49607 verified. NHTSA/IIHS have not crash-tested. Image URLs are consumer-page URLs flagged needs_scraping for follow-up CDN extraction. MSRP source: Hagerty editorial spec page (per §4.6 scoped policy; manufacturer does not publish US MSRP). Hagerty's Black Badge Cullinan reveal article (https://www.hagerty.com/media/news/rolls-royce-black-badge-cullinan-is-382k-of-suv/) states a starting price of $382,000. Reflects pre-Series-II launch MSRP; current Series II MY2026 pricing not directly disclosed by Rolls-Royce or covered in newer Hagerty editorial."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Sole-trim model. Black Badge Cullinan split as separate model per performance-variant rule (§6.4) — Rolls-Royce markets it on its own dedicated showroom page (rolls-roycemotorcars.com/en_US/showroom/black-badge-cullinan.html). Body style 'suv-midsize' (5-seat SUV without 3rd-row option). MSRP/destination null per spec §4 forbidden-source rule. EPA ID 49607 verified. NHTSA/IIHS have not crash-tested. Image entries flagged needs_scraping for follow-up CDN asset extraction. Series II refresh launched May 2024 — current for MY2026."
+    }
+  ]
+}

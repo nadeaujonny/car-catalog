@@ -1,0 +1,61 @@
+Reset 0 image entries with needs_scraping:true to their model page URLs.
+Brand: mclaren
+Models in JSON: 6
+Models with page URLs: 6
+Playwright fallback: enabled
+
+Scraping 6 model pages…
+
+  fetch https://cars.mclaren.com/us_en/artura  …  static ok (84 raw candidates)
+  fetch https://cars.mclaren.com/us_en/artura-spider  …  static ok (84 raw candidates)
+  fetch https://cars.mclaren.com/us_en/750s  …  static ok (73 raw candidates)
+  fetch https://cars.mclaren.com/us_en/750s-spider  …  static ok (73 raw candidates)
+  fetch https://cars.mclaren.com/us_en/750s-le-mans-special-edition  …  static ok (64 raw candidates)
+  fetch https://cars.mclaren.com/us_en/gts  …  static ok (47 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          mclaren
+Pages attempted:                6
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 6
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        18
+  via text/URL pattern match:   18
+  via positional fallback:      0
+Image entries unchanged:        6
+
+Sample rewrites:
+  [9.0] artura/artura/front_three_quarter
+        → https://cars-assets-production.mclaren.com/5356/mclaren-artura-hero.jpg
+  [15.0] artura/artura/rear_three_quarter
+        → https://cars-assets-production.mclaren.com/5340/mclaren-artura-design-rear.jpg
+  [10.0] artura/artura/interior_dashboard
+        → https://cars-assets-production.mclaren.com/5344/mclaren-artura-lightness-cockpit-.jpg
+  [15.0] artura-spider/artura-spider/rear_three_quarter
+        → https://cars-assets-production.mclaren.com/5355/mclaren-artura-spider-design-rear.jpg
+  [7.0] artura-spider/artura-spider/side_profile
+        → https://cars-assets-production.mclaren.com/5353/mclaren-artura-spider-power-side.jpg
+  [7.0] artura-spider/artura-spider/interior_dashboard
+        → https://cars-assets-production.mclaren.com/5351/mclaren-artura-spider-lightness-interior.jpg
+  [7.0] 750s/750s-coupe/rear_three_quarter
+        → https://cars-assets-production.mclaren.com/191/mclaren-750s-enquiry.jpg
+  [7.0] 750s/750s-coupe/side_profile
+        → https://cars-assets-production.mclaren.com/788/mclaren-750s-badge-detail-lightness.jpg
+  [7.0] 750s/750s-coupe/interior_dashboard
+        → https://cars-assets-production.mclaren.com/787/mclaren-750s-interior-lightness.jpg
+  [7.0] 750s-spider/750s-spider/rear_three_quarter
+        → https://cars-assets-production.mclaren.com/205/mclaren-750s-spider-rear-wing-engagement.jpg
+  [7.0] 750s-spider/750s-spider/interior_dashboard
+        → https://cars-assets-production.mclaren.com/204/mclaren-750s-spider-interior-lightness.jpg
+  [21.0] 750s-le-mans-special-edition/750s-le-mans-special-edition/front_three_quarter
+        → https://cars-assets-production.mclaren.com/1592/mclaren-750s-lemans-gallery-5.jpg
+
+Models with unresolved angles:
+  artura: 1 entries  (e.g. artura/side_profile)
+  artura-spider: 1 entries  (e.g. artura-spider/front_three_quarter)
+  750s: 1 entries  (e.g. 750s-coupe/front_three_quarter)
+  750s-spider: 2 entries  (e.g. 750s-spider/front_three_quarter, 750s-spider/side_profile)
+  gts: 1 entries  (e.g. gts/interior_dashboard)

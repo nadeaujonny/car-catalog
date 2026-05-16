@@ -1,0 +1,74 @@
+Reset 131 image entries with needs_scraping:true to their model page URLs.
+Brand: subaru
+Models in JSON: 10
+Models with page URLs: 10
+Playwright fallback: enabled
+
+Scraping 10 model pages…
+
+  fetch https://www.subaru.com/vehicles/impreza  …  static ok (0 raw candidates)
+    playwright https://www.subaru.com/vehicles/impreza  …  ok (544 raw candidates)
+  fetch https://www.subaru.com/vehicles/crosstrek  …  static ok (0 raw candidates)
+    playwright https://www.subaru.com/vehicles/crosstrek  …  ok (600 raw candidates)
+  fetch https://www.subaru.com/vehicles/forester  …  static ok (0 raw candidates)
+    playwright https://www.subaru.com/vehicles/forester  …  ok (636 raw candidates)
+  fetch https://www.subaru.com/vehicles/outback  …  static ok (0 raw candidates)
+    playwright https://www.subaru.com/vehicles/outback  …  ok (560 raw candidates)
+  fetch https://www.subaru.com/vehicles/ascent  …  static ok (0 raw candidates)
+    playwright https://www.subaru.com/vehicles/ascent  …  ok (584 raw candidates)
+  fetch https://www.subaru.com/vehicles/brz  …  static ok (0 raw candidates)
+    playwright https://www.subaru.com/vehicles/brz  …  ok (536 raw candidates)
+  fetch https://www.subaru.com/vehicles/wrx  …  static ok (0 raw candidates)
+    playwright https://www.subaru.com/vehicles/wrx  …  ok (544 raw candidates)
+  fetch https://www.subaru.com/vehicles/solterra  …  static ok (0 raw candidates)
+    playwright https://www.subaru.com/vehicles/solterra  …  ok (576 raw candidates)
+  fetch https://www.subaru.com/vehicles/trailseeker  …  static ok (0 raw candidates)
+    playwright https://www.subaru.com/vehicles/trailseeker  …  ok (416 raw candidates)
+  fetch https://www.subaru.com/vehicles/uncharted  …  static ok (0 raw candidates)
+    playwright https://www.subaru.com/vehicles/uncharted  …  ok (528 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          subaru
+Pages attempted:                10
+Pages failed:                   0
+Pages escalated to Playwright:  10 of 10
+  Playwright successes:         10
+  Playwright failures:          0
+Image entries rewritten:        9
+  via text/URL pattern match:   0
+  via positional fallback:      9
+Image entries unchanged:        122
+
+Sample rewrites:
+  [pos] brz/limited/front_three_quarter
+        → https://s7d1.scene7.com/is/image/scomv2/609_MY26_BRZ_jelly_3247x1224?$2000wa$
+  [pos] brz/ts/front_three_quarter
+        → https://s7d1.scene7.com/is/image/scomv2/609_MY26_BRZ_jelly_3247x1224?$2000wa$
+  [pos] brz/series-yellow/front_three_quarter
+        → https://s7d1.scene7.com/is/image/scomv2/609_MY26_BRZ_jelly_3247x1224?$2000wa$
+  [pos] wrx/base/front_three_quarter
+        → https://s7d1.scene7.com/is/image/scomv2/609_MY26_WRX_jelly_3247x1224?$2000wa$
+  [pos] wrx/premium/front_three_quarter
+        → https://s7d1.scene7.com/is/image/scomv2/609_MY26_WRX_jelly_3247x1224?$1600wa$
+  [pos] wrx/limited/front_three_quarter
+        → https://s7d1.scene7.com/is/image/scomv2/609_MY26_WRX_jelly_3247x1224?$2000p$
+  [pos] wrx/gt/front_three_quarter
+        → https://s7d1.scene7.com/is/image/scomv2/609_MY26_WRX_jelly_3247x1224?$2000wa$
+  [pos] wrx/ts/front_three_quarter
+        → https://s7d1.scene7.com/is/image/scomv2/609_MY26_WRX_jelly_3247x1224?$2000wa$
+  [pos] wrx/series-yellow/front_three_quarter
+        → https://s7d1.scene7.com/is/image/scomv2/609_MY26_WRX_jelly_3247x1224?$2000wa$
+
+Models with unresolved angles:
+  impreza: 8 entries  (e.g. sport/front_three_quarter, sport/rear_three_quarter, sport/side_profile)
+  crosstrek: 16 entries  (e.g. base/front_three_quarter, base/rear_three_quarter, base/side_profile)
+  forester: 26 entries  (e.g. base/front_three_quarter, base/rear_three_quarter, base/side_profile)
+  outback: 12 entries  (e.g. premium/front_three_quarter, premium/rear_three_quarter, premium/side_profile)
+  ascent: 14 entries  (e.g. premium/front_three_quarter, premium/rear_three_quarter, premium/side_profile)
+  brz: 9 entries  (e.g. limited/rear_three_quarter, limited/side_profile, limited/interior_dashboard)
+  wrx: 12 entries  (e.g. base/rear_three_quarter, base/side_profile, base/interior_dashboard)
+  solterra: 10 entries  (e.g. premium/front_three_quarter, premium/rear_three_quarter, premium/side_profile)
+  trailseeker: 6 entries  (e.g. premium/front_three_quarter, premium/rear_three_quarter, premium/side_profile)
+  uncharted: 9 entries  (e.g. premium-fwd/front_three_quarter, premium-fwd/rear_three_quarter, premium-fwd/side_profile)

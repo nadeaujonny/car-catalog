@@ -1,0 +1,22 @@
+{
+  "brand_slug": "ram",
+  "notes": "ramtrucks.com is the consumer site. ramtrucks.com/ram-1500.html, /ram-2500.html, /ram-3500.html are the current-model-year canonical landing pages (2026 MY as of access). ProMaster (van), TRX (discontinued), and REV (EV, not yet launched) are excluded per catalog. Press fallback: press.stellantisnorthamerica.com if ramtrucks.com returns 403. Session-6 investigation finding: the slug_variants below already produce a high slug-match rate (21/22, 19/20, 6/7 candidates per page). Coverage is NOT bottlenecked by slug variants — the bottleneck is the angle-pattern matcher: ram-1500 and ram-3500 alt text uses prose like 'A silver 2026 Ram 1500 Laramie 4x4 Crew Cab traveling down a highway' with NO front/rear/side/interior tokens, so angleScore returns 0 for every slug-matched candidate. See reports/ram_candidates_raw.log and reports/ram_phase3_investigation.md. The 14/88 production coverage all comes from ram-2500 where alt strings contain 'angled front' / 'driver-side profile' tokens. Session-7 Phase-A3: added angle_url_patterns mapping ram-style hero/slider URL tokens to front_three_quarter. ramtrucks.com convention: the primary `*-vlp-hero-01-*` and `*-vlp-slider-01-*` images are the main marketing front-3/4 hero shot of the truck (alt text confirms moving-truck-on-highway compositions, conventionally framed front-3/4). The `*overview-hero*` variant (e.g. Power Wagon trim) follows the same convention. The `warranty-hero` token is deliberately excluded — those are warranty/financing graphics, not vehicle photography. No reliable URL tokens were observed for rear, side_profile, or interior_dashboard angles on ram pages, so only front_three_quarter is mapped. See reports/ram_angle_patterns_session7.md.",
+  "model_pages": {
+    "ram-1500": "https://www.ramtrucks.com/ram-1500.html",
+    "ram-2500": "https://www.ramtrucks.com/ram-2500.html",
+    "ram-3500": "https://www.ramtrucks.com/ram-3500.html"
+  },
+  "slug_variants": {
+    "ram-1500": ["ram-1500", "ram_1500", "ram 1500", "ram1500", "1500"],
+    "ram-2500": ["ram-2500", "ram_2500", "ram 2500", "ram2500", "2500"],
+    "ram-3500": ["ram-3500", "ram_3500", "ram 3500", "ram3500", "3500"]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)",
+  "angle_url_patterns": {
+    "front_three_quarter": [
+      "vlp[-_ ]hero[-_ ]?\\d",
+      "vlp[-_ ]slider[-_ ]?\\d",
+      "[-_/](?:overview|model)[-_ ]hero(?:[-_]|\\.|$)"
+    ]
+  }
+}

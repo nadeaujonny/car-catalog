@@ -1,0 +1,70 @@
+Brand: buick
+Referer header: https://www.buick.com/
+Found 48 image entries across 4 models.
+
+[1/48] encore-gx/preferred/front_three_quarter  ok (168440 bytes, image/avif)
+[2/48] encore-gx/preferred/rear_three_quarter  ok (50517 bytes, image/avif)
+[3/48] encore-gx/preferred/side_profile  ok (233303 bytes, image/avif)
+[4/48] encore-gx/preferred/interior_dashboard  ok (33203 bytes, image/avif)
+[5/48] encore-gx/sport-touring/front_three_quarter  ok (113146 bytes, image/avif)
+[6/48] encore-gx/sport-touring/rear_three_quarter  ok (25629 bytes, image/avif)
+[7/48] encore-gx/sport-touring/side_profile  ok (248977 bytes, image/avif)
+[8/48] encore-gx/sport-touring/interior_dashboard  ok (83211 bytes, image/avif)
+[9/48] encore-gx/avenir/front_three_quarter  ok (66702 bytes, image/avif)
+[10/48] encore-gx/avenir/rear_three_quarter  ok (187925 bytes, image/avif)
+[11/48] encore-gx/avenir/side_profile  ok (61233 bytes, image/avif)
+[12/48] encore-gx/avenir/interior_dashboard  ok (83211 bytes, image/avif)
+[13/48] envista/preferred/front_three_quarter  ok (89719 bytes, image/avif)
+[14/48] envista/preferred/rear_three_quarter  ok (38849 bytes, image/avif)
+[15/48] envista/preferred/side_profile  ok (137942 bytes, image/avif)
+[16/48] envista/preferred/interior_dashboard  ok (252972 bytes, image/avif)
+[17/48] envista/sport-touring/front_three_quarter  ok (26981 bytes, image/avif)
+[18/48] envista/sport-touring/rear_three_quarter  ok (17643 bytes, image/avif)
+[19/48] envista/sport-touring/side_profile  ok (45197 bytes, image/avif)
+[20/48] envista/sport-touring/interior_dashboard  ok (152154 bytes, image/avif)
+[21/48] envista/avenir/front_three_quarter  ok (8379 bytes, image/avif)
+[22/48] envista/avenir/rear_three_quarter  ok (25181 bytes, image/avif)
+[23/48] envista/avenir/side_profile  ok (30307 bytes, image/avif)
+[24/48] envista/avenir/interior_dashboard  ok (52806 bytes, image/avif)
+[25/48] envision/preferred/front_three_quarter  ok (156574 bytes, image/avif)
+[26/48] envision/preferred/rear_three_quarter  ok (126699 bytes, image/avif)
+[27/48] envision/preferred/side_profile  ok (49313 bytes, image/avif)
+[28/48] envision/preferred/interior_dashboard  ok (38444 bytes, image/avif)
+[29/48] envision/sport-touring/front_three_quarter  ok (92462 bytes, image/avif)
+[30/48] envision/sport-touring/rear_three_quarter  ok (38673 bytes, image/avif)
+[31/48] envision/sport-touring/side_profile  ok (45137 bytes, image/avif)
+[32/48] envision/sport-touring/interior_dashboard  ok (163203 bytes, image/avif)
+[33/48] envision/avenir/front_three_quarter  ok (56867 bytes, image/avif)
+[34/48] envision/avenir/rear_three_quarter  ok (106015 bytes, image/avif)
+[35/48] envision/avenir/side_profile  ok (46163 bytes, image/avif)
+[36/48] envision/avenir/interior_dashboard  ok (233570 bytes, image/avif)
+[37/48] enclave/preferred/front_three_quarter  ok (53473 bytes, image/avif)
+[38/48] enclave/preferred/rear_three_quarter  ok (72604 bytes, image/avif)
+[39/48] enclave/preferred/side_profile  ok (84831 bytes, image/avif)
+[40/48] enclave/preferred/interior_dashboard  ok (88563 bytes, image/avif)
+[41/48] enclave/sport-touring/front_three_quarter  ok (20565 bytes, image/avif)
+[42/48] enclave/sport-touring/rear_three_quarter  ok (10442 bytes, image/avif)
+[43/48] enclave/sport-touring/side_profile  ok (75911 bytes, image/avif)
+[44/48] enclave/sport-touring/interior_dashboard  ok (38386 bytes, image/avif)
+[45/48] enclave/avenir/front_three_quarter  ok (342787 bytes, image/avif)
+[46/48] enclave/avenir/rear_three_quarter  ok (38594 bytes, image/avif)
+[47/48] enclave/avenir/side_profile  ok (149163 bytes, image/avif)
+[48/48] enclave/avenir/interior_dashboard  ok (27976 bytes, image/avif)
+
+Updated catalog/data/buick.json and data/buick.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  buick
+Total images attempted: 48
+Successful:             48 (100.0%)
+Failed:                 0
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  (none)
+
+Models with zero successful images: 0 of 4

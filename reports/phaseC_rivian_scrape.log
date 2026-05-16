@@ -1,0 +1,56 @@
+Reset 19 image entries with needs_scraping:true to their model page URLs.
+Brand: rivian
+Models in JSON: 3
+Models with page URLs: 3
+Playwright fallback: enabled
+
+Scraping 3 model pages…
+
+  fetch https://rivian.com/r1t  …  static ok (561 raw candidates)
+  fetch https://rivian.com/r1s  …  static ok (565 raw candidates)
+  fetch https://rivian.com/r2  …  static ok (6335 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          rivian
+Pages attempted:                3
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 3
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        15
+  via text/URL pattern match:   15
+  via positional fallback:      0
+Image entries unchanged:        4
+
+Sample rewrites:
+  [6.9] r1t/dual-standard/front_three_quarter
+        → http://media.rivian.com/image/upload/v1717643535/riv-may/r1-modal/R1T-Front-trunk-01-3_2.jpg
+  [6.9] r1t/dual-standard/side_profile
+        → http://media.rivian.com/image/upload/v1717643182/riv-may/r1-blueprint/R1T-Spec-Side.webp
+  [6.9] r1t/dual-standard/interior_dashboard
+        → http://media.rivian.com/image/upload/v1717643556/riv-may/r1-modal/R1T-Interior-01-3_2.jpg
+  [6.9] r1t/dual-large/front_three_quarter
+        → https://media.rivian.com/rivian-main/image/upload/f_auto/q_auto:eco/v1717643535/riv-may/r1-modal/R1T-Front-trunk-01-3_2.jpg?_a=BAMAMieA0
+  [6.9] r1t/dual-max/front_three_quarter
+        → https://media.rivian.com/image/upload/v1717643535/riv-may/r1-modal/R1T-Front-trunk-01-3_2.jpg
+  [6.9] r1t/tri-max/front_three_quarter
+        → http://media.rivian.com/image/upload/v1717643537/riv-may/r1-modal/R1T-Front-trunk-02-1_1.jpg
+  [6.9] r1t/quad-max/front_three_quarter
+        → https://media.rivian.com/rivian-main/image/upload/f_auto/q_auto:eco/v1717643537/riv-may/r1-modal/R1T-Front-trunk-02-1_1.jpg?_a=BAMAMieA0
+  [6.9] r1s/dual-large/front_three_quarter
+        → http://media.rivian.com/image/upload/v1717643268/riv-may/r1-modal/R1S-Front-trunk-01-3_2.jpg
+  [6.9] r1s/dual-large/side_profile
+        → http://media.rivian.com/image/upload/v1717643179/riv-may/r1-blueprint/R1S-Spec-Side.png
+  [6.9] r1s/dual-large/interior_dashboard
+        → http://media.rivian.com/image/upload/v1717643278/riv-may/r1-modal/R1S-Interior-01-3_2.jpg
+  [6.9] r1s/dual-max/front_three_quarter
+        → https://media.rivian.com/rivian-main/image/upload/f_auto/q_auto:eco/v1717643268/riv-may/r1-modal/R1S-Front-trunk-01-3_2.jpg?_a=BAMAMieA0
+  [6.9] r1s/tri-max/front_three_quarter
+        → https://media.rivian.com/image/upload/v1717643268/riv-may/r1-modal/R1S-Front-trunk-01-3_2.jpg
+
+Models with unresolved angles:
+  r1t: 1 entries  (e.g. dual-standard/rear_three_quarter)
+  r1s: 1 entries  (e.g. dual-large/rear_three_quarter)
+  r2: 2 entries  (e.g. performance-launch-edition/rear_three_quarter, performance-launch-edition/interior_dashboard)

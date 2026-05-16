@@ -1,0 +1,60 @@
+{
+  "brand": "Rolls-Royce",
+  "brand_slug": "rolls-royce",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 7,
+  "trim_count": 9,
+  "total_images": 38,
+  "needs_scraping": 38,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 9,
+  "warning_count": 0,
+  "fyi_count": 0,
+  "blockers": [
+    {
+      "title": "msrp_base is null",
+      "where": "models[0].trims[0] (phantom/phantom)"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[0].trims[0].sources.performance.zero_to_60_sec (phantom/phantom)",
+      "value": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0447467EN/rolls-royce-phantom:-100-years-of-perfection?language=en"
+    },
+    {
+      "title": "msrp_base is null",
+      "where": "models[0].trims[1] (phantom/phantom-extended)"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[0].trims[1].sources.performance.zero_to_60_sec (phantom/phantom-extended)",
+      "value": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0447467EN/rolls-royce-phantom:-100-years-of-perfection?language=en"
+    },
+    {
+      "title": "msrp_base is null",
+      "where": "models[1].trims[1] (ghost/ghost-extended)"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[2].trims[0].sources.powertrain (ghost-black-badge/black-badge-ghost)",
+      "value": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0445484EN/rolls-royce-presents-black-badge-ghost-series-ii:-a-daring-expression-of-luxury-and-power?language=en"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[2].trims[0].sources.performance.zero_to_60_sec (ghost-black-badge/black-badge-ghost)",
+      "value": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0445484EN/rolls-royce-presents-black-badge-ghost-series-ii:-a-daring-expression-of-luxury-and-power?language=en"
+    },
+    {
+      "title": "msrp_base is null",
+      "where": "models[4].trims[0] (spectre-black-badge/black-badge-spectre)"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[6].trims[0].sources.msrp_base (cullinan-black-badge/black-badge-cullinan)",
+      "value": "https://www.hagerty.com/media/news/rolls-royce-black-badge-cullinan-is-382k-of-suv/"
+    }
+  ],
+  "warnings": [],
+  "fyis": []
+}

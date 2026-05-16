@@ -1,0 +1,160 @@
+# Subaru rendered-DOM dump (replays production extractCandidates) — generated 2026-05-15T05:40:50.914Z
+# slug_variants overlay: {"impreza":["impreza","imp"],"crosstrek":["crosstrek","ctk","ctka"],"forester":["forester","for","fora","forg","forh","forw"],"outback":["outback","obk","obka"],"ascent":["ascent","asc"],"brz":["brz"],"wrx":["wrx"],"solterra":["solterra","sol"],"trailseeker":["trailseeker","tsk"],"uncharted":["uncharted","unc"]}
+
+========================================
+### model: outback
+### page:  https://www.subaru.com/vehicles/outback
+### variants: ["outback","obk","obka"]
+========================================
+# total extracted (pre-dedupe): 560; deduped: 431
+# by source-tag:
+#     560  source@srcset
+# slug-matching (variants for "outback"): 100
+# host histogram (all):
+#    424  s7d1.scene7.com
+#      7  www.subaru.com
+# top URL-path tokens (slug-matching only):
+#    100  image
+#    100  scomv2
+#     96  obka
+#     48  feature
+#     32  gallery
+#     16  vechicle
+#     16  card
+#      8  compare
+#      8  fma
+#      8  local
+#      8  inventory
+#      4  my26
+#      4  obk
+#      4  jelly
+#      4  3247x1224
+
+# first 50 slug-matching candidate URLs (deduped by URL stem):
+  https://s7d1.scene7.com/is/image/scomv2/609_MY26_OBK_jelly_3247x1224
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_OBKA_vechicle_card_1_feature_1
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_OBKA_vechicle_card_1_feature_2
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_OBKA_compare_fma
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_OBKA_feature_1
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_OBKA_feature_2
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_OBKA_feature_3
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_OBKA_feature_4
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_OBKA_gallery_1
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_OBKA_gallery_2
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_OBKA_gallery_3
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_OBKA_gallery_4
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_OBKA_local_inventory
+      source: source@srcset
+
+========================================
+### model: trailseeker
+### page:  https://www.subaru.com/vehicles/trailseeker
+### variants: ["trailseeker","tsk"]
+========================================
+# total extracted (pre-dedupe): 520; deduped: 409
+# by source-tag:
+#     520  source@srcset
+# slug-matching (variants for "trailseeker"): 86
+# host histogram (all):
+#    402  s7d1.scene7.com
+#      7  www.subaru.com
+# top URL-path tokens (slug-matching only):
+#     86  image
+#     86  scomv2
+#     86  tsk
+#     32  feature
+#     32  gallery
+#     16  fma
+#      8  compare
+#      8  local
+#      8  inventory
+#      6  hero
+#      2  overview
+
+# first 50 slug-matching candidate URLs (deduped by URL stem):
+  https://s7d1.scene7.com/is/image/scomv2/26_TSK_overview_hero_lg_xl
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/609_26_TSK_hero_md_sm
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_TSK_compare_104_fma
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_TSK_feature_1
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_TSK_feature_2
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_TSK_feature_3
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_TSK_feature_4
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_TSK_gallery_1
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_TSK_gallery_2
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_TSK_gallery_3
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_TSK_gallery_4
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_TSK_local_inventory_104_fma
+      source: source@srcset
+
+========================================
+### model: wrx
+### page:  https://www.subaru.com/vehicles/wrx
+### variants: ["wrx"]
+========================================
+# total extracted (pre-dedupe): 544; deduped: 420
+# by source-tag:
+#     544  source@srcset
+# slug-matching (variants for "wrx"): 84
+# host histogram (all):
+#    412  s7d1.scene7.com
+#      8  www.subaru.com
+# top URL-path tokens (slug-matching only):
+#     84  image
+#     84  scomv2
+#     84  wrx
+#     32  feature
+#     32  gallery
+#      8  compare
+#      8  fma
+#      8  local
+#      8  inventory
+#      4  my26
+#      4  jelly
+#      4  3247x1224
+
+# first 50 slug-matching candidate URLs (deduped by URL stem):
+  https://s7d1.scene7.com/is/image/scomv2/609_MY26_WRX_jelly_3247x1224
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_WRX_104_compare_FMA
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_WRX_feature_1
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_WRX_feature_2
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_WRX_feature_3
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_WRX_feature_4
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_WRX_gallery_1
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_WRX_gallery_2
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_WRX_gallery_3
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_WRX_gallery_4
+      source: source@srcset
+  https://s7d1.scene7.com/is/image/scomv2/26_WRX_104_local_inventory
+      source: source@srcset

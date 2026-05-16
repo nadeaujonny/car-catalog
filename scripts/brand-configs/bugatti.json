@@ -1,0 +1,13 @@
+{
+  "brand_slug": "bugatti",
+  "notes": "bugatti.com consumer site (returned 403/429 during Phase 1 research). Direct asset URLs sourced from Bugatti newsroom CDN (bugatti-newsroom.imgix.net); the consumer model pages reference assets on bugatti.com/-/media. Ultra-luxury low-volume manufacturer — expect low coverage if consumer site stays gated. Tourbillon is the W16 successor (V16 hybrid); W16 Mistral is the final-production W16 roadster. Bolide and Chiron family are out of scope.",
+  "model_pages": {
+    "tourbillon":  "https://www.bugatti.com/en/models/tourbillon",
+    "w16-mistral": "https://www.bugatti.com/en/models/w16-mistral"
+  },
+  "slug_variants": {
+    "tourbillon":  ["tourbillon", "tourbillon-equipe-pur-sang"],
+    "w16-mistral": ["w16-mistral", "w16_mistral", "w16mistral", "mistral"]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

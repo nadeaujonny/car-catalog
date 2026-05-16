@@ -1,0 +1,76 @@
+Reset 128 image entries with needs_scraping:true to their model page URLs.
+Brand: audi
+Models in JSON: 25
+Models with page URLs: 25
+Playwright fallback: enabled
+
+Scraping 25 model pages…
+
+  fetch https://www.audiusa.com/en/models/a3/a3/2026/overview/  …  static ok (731 raw candidates)
+  fetch https://www.audiusa.com/en/models/a3/s3/2026/overview/  …  static ok (732 raw candidates)
+  fetch https://www.audiusa.com/en/models/a3/rs3-sedan/2026/overview/  …  static ok (730 raw candidates)
+  fetch https://www.audiusa.com/en/models/a5/a5/2026/overview/  …  static ok (250 raw candidates)
+  fetch https://www.audiusa.com/en/models/a5/s5/2026/overview/  …  static ok (248 raw candidates)
+  fetch https://www.audiusa.com/en/models/a6/a6-sedan/2026/overview/  …  static ok (253 raw candidates)
+  fetch https://www.audiusa.com/en/models/a6/a6-allroad/2026/overview/  …  static ok (680 raw candidates)
+  fetch https://www.audiusa.com/en/models/a8/a8-sedan/2026/overview/  …  static ok (701 raw candidates)
+  fetch https://www.audiusa.com/en/models/a8/s8-sedan/2026/overview/  …  static ok (730 raw candidates)
+  fetch https://www.audiusa.com/en/models/a6/rs6-avant/2026/overview/  …  static ok (732 raw candidates)
+  fetch https://www.audiusa.com/en/models/a7/rs7/2026/overview/  …  static ok (732 raw candidates)
+  fetch https://www.audiusa.com/en/models/q3/q3/2026/overview/  …  static ok (249 raw candidates)
+  fetch https://www.audiusa.com/en/models/q4/q4-e-tron/2026/overview/  …  static ok (767 raw candidates)
+  fetch https://www.audiusa.com/en/models/q4/q4-sportback-e-tron/2026/overview/  …  static ok (767 raw candidates)
+  fetch https://www.audiusa.com/en/models/q5/q5/2026/overview/  …  static ok (250 raw candidates)
+  fetch https://www.audiusa.com/en/models/q5/q5-sportback/2026/overview/  …  static ok (248 raw candidates)
+  fetch https://www.audiusa.com/en/models/q5/sq5/2026/overview/  …  static ok (247 raw candidates)
+  fetch https://www.audiusa.com/en/models/q5/sq5-sportback/2026/overview/  …  static ok (247 raw candidates)
+  fetch https://www.audiusa.com/en/models/q7/q7/2026/overview/  …  static ok (730 raw candidates)
+  fetch https://www.audiusa.com/en/models/q7/sq7/2026/overview/  …  static ok (732 raw candidates)
+  fetch https://www.audiusa.com/en/models/q8/q8/2026/overview/  …  static ok (729 raw candidates)
+  fetch https://www.audiusa.com/en/models/q8/sq8/2026/overview/  …  static ok (732 raw candidates)
+  fetch https://www.audiusa.com/en/models/q8/rsq8/2026/overview/  …  static ok (733 raw candidates)
+  fetch https://www.audiusa.com/en/models/e-tron-gt/s-e-tron-gt/2026/overview/  …  static ok (771 raw candidates)
+  fetch https://www.audiusa.com/en/models/e-tron-gt/rs-e-tron-gt/2026/overview/  …  static ok (773 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          audi
+Pages attempted:                25
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 25
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        126
+  via text/URL pattern match:   126
+  via positional fallback:      0
+Image entries unchanged:        2
+
+Sample rewrites:
+  [17.4] a3/premium-40-tfsi/front_three_quarter
+        → https://nar-dam.audi.com/adobe/assets/urn:aaid:aem:534563ac-e2b4-4dad-8860-24b5468ab022/as/1920x1920-MY25-A3-Front-Parked-5684.jpg?width=1152
+  [9.4] a3/premium-40-tfsi/rear_three_quarter
+        → https://nar-dam.audi.com/adobe/assets/urn:aaid:aem:7668cf55-c420-4500-95c7-8416453292d4/as/1920X1920_D3_MY26---A3---Rear-Profile---Parked---5676.jpg?width=1152
+  [32.4] a3/premium-40-tfsi/side_profile
+        → https://nar-dam.audi.com/adobe/assets/urn:aaid:aem:f7329f66-9441-4b17-bf7a-ebd078915098/as/1920X1920_D1_MY26---A3---Side-Profile---Parked---5686.jpg?width=1152
+  [21.4] a3/premium-40-tfsi/interior_dashboard
+        → https://nar-dam.audi.com/adobe/assets/urn:aaid:aem:8389d276-fb7a-428e-b72e-e80b22c64382/as/1920X1920_D2_MY26---A3---Interior---Driver---5696.jpg?width=1152
+  [17.4] a3/premium-plus-40-tfsi/front_three_quarter
+        → https://nar-dam.audi.com/adobe/assets/urn:aaid:aem:33a23327-6f8c-40b3-9eb7-f84eba736315/as/1920X1920_P4_MY26---A3---Front-Profile---Parked---5678.jpg?width=1152
+  [17.4] s3/s3/front_three_quarter
+        → https://nar-dam.audi.com/adobe/assets/urn:aaid:aem:51b32def-cd50-4a03-841b-49ecb36a3fea/as/1920x1920-D1-MY25-S3-Front-Profile-Parked-5766.jpg?width=1152
+  [22.4] s3/s3/rear_three_quarter
+        → https://nar-dam.audi.com/adobe/assets/urn:aaid:aem:b3ca8eee-323f-4d26-9caa-8b3eb2e71440/as/1920X1920_P2_MY26---S3---Back---Parked---5777.jpg?width=1152
+  [18.4] s3/s3/side_profile
+        → https://nar-dam.audi.com/adobe/assets/urn:aaid:aem:d3445652-8589-4121-8c73-7fd31d252882/as/1920X1920_P3_MY26---S3---Side---Profile---Driving---5768.jpg?width=1152
+  [21.4] s3/s3/interior_dashboard
+        → https://nar-dam.audi.com/adobe/assets/urn:aaid:aem:b3df7098-b199-422a-ba9b-7abeb4ceda6e/as/1920x1920_D2_MY26---S3---Interior---Driver---5780.jpg?width=1152
+  [26.4] rs-3/rs-3-performance/front_three_quarter
+        → https://nar-dam.audi.com/adobe/assets/urn:aaid:aem:690e5a3d-df35-4360-8962-cb73d0521f5b/as/1920x1920-P3-MY25-RS3-Exterior-FrontProfile-Driving-6174.jpg?width=1152
+  [26.4] rs-3/rs-3-performance/rear_three_quarter
+        → https://nar-dam.audi.com/adobe/assets/urn:aaid:aem:5025b6a6-f384-4117-b89b-62b49d443dc6/as/1920x1920-P4-RS3-Exterior-Rear-Parked-6185.jpg?width=1152
+  [18.4] rs-3/rs-3-performance/side_profile
+        → https://nar-dam.audi.com/adobe/assets/urn:aaid:aem:750fc817-a36e-40e8-ba17-ceedc3c20ca4/as/1920x1920-D1-MY25-RS3-Exterior-Profile-Parked-6184.jpg?width=1152
+
+Models with unresolved angles:
+  a6-allroad: 2 entries  (e.g. premium-plus-55-tfsi/front_three_quarter, prestige-55-tfsi/front_three_quarter)

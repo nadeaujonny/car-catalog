@@ -1,0 +1,64 @@
+{
+  "brand": "Subaru",
+  "brand_slug": "subaru",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 10,
+  "trim_count": 50,
+  "total_images": 131,
+  "needs_scraping": 131,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 9,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "forester/sport-onyx-edition",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "forester/sport-hybrid",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ascent/limited-bronze-edition",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ascent/onyx-edition-touring",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "brz/ts",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "brz/series-yellow",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "wrx/gt",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "wrx/ts",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "wrx/series-yellow",
+      "value": 5
+    }
+  ],
+  "fyis": []
+}

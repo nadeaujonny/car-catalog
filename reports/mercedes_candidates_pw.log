@@ -1,0 +1,875 @@
+
+========================================
+### model: sl-roadster
+### page:  https://www.mbusa.com/en/vehicles/class/sl/roadster
+### variants: ["sl","sl43","sl55","sl63","sl680"]
+========================================
+Total DOM <img> after render+scroll: 101
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-SL-ROADSTER-HERO-DR.jpg
+    alt: 2025 SL Roadster
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/preferences/inventory-preferences/Backplate_AMG_NON_VIN.jpg
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/232450/806/iris.jpg?q=COSY-EU-100-1713d0VXqrWFqtyO67PobzIr3eWsrrCsdRRzwQZUOBZbMw3SGtlaMtsd2HdcUfpOyXGEuTRJ0lVYrOB2qB5bApRTyI5uGoYQC30MQkzNB%25km7jA2jhKViSM%25vq4yjyLRsGWYaxUoWrH1zJin8w78foiZKq1M4FvTJTg9L6k6PDaGbSeWH0Rtsd9JTcUfA%250XGE5YrJbXSqxVc4n8wzofoiZ3L2M4FgTwTg735wrcldu63emlXja9Q6DF1s1n2nvligKfLlCVzWcY54I&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&POV=BE040,PZM&width=768&height=320&BKGND=9&IMGT=P27
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/232480/806/iris.jpg?q=COSY-EU-100-1713d0VXqrWFqtyO67PobzIr3eWsrrCsdRRzwQZUOBZbMw3SGtlaMtsd2HdcUfpOyXGEuTRJ0lVYrOB2qB5bApRTyI5uGoYQC30MQkzNB%25km7jA2jhKViSM%25vq4vZyLRgYVYaxU0drH1GMdn8w7O4oiZKiEM4FvRwTg9L6O6PDaSmSeWH0Itsd8BxcUfDO6XGE5YrJbXSqxVc4n8wzofoiZCqGM4FN8cTg9Pt36PDerpSeWst9tsLV79MOuljcVGyubdidhcfWF0FT3THuPsa28uKxvEOo7em&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&POV=BE040,PZM&width=768&height=320&BKGND=9&IMGT=P27
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/preferences/inventory-preferences/Backplate_AMG_REGISTRATION.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/preferences/inventory-preferences/Backplate_CPO_NON_VIN.jpg
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/232450/806/iris.png?q=COSY-EU-100-1713d0VXqrWFqtyO67PobzIr3eWsrrCsdRRzwQZUOBZbMw3SGtlaMtsd2HdcUfpOyXGEuTRJ0lVYrOB2qB5bApRTyI5uGoYQC30MQkzNB%25km7jA2jhKViSM%25vq4yjyLRsGWYaxCX8rH1zHdn8w7VxoiZKMXM4FvTQTg9LUO6PDaGqSeWFXMtsdBhGcUfAyYXOc6VRjtirH1Cndn8wuvloiZ4M1M4zuA1YtEWpTuPkEcNLFIT9ZxexrlrKE847dvE5jCDtyAib&BKGND=9&IMGT=P27&POV=be040%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,0,1920,1080);Resize,width=1152,height=480
+    alt: 
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-SL-ROADSTER-CH-1-1-DR.jpg
+    alt: SL AMG
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AFFALTERBACH-BADGE-CT-1-2-DR.jpg
+    alt: 2026-AFFALTERBACH-BADGE-CT-1-2-DR.jpg
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-PETRONAS-HERO-DR.jpg
+    alt: SL Performance
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-SL-ROADSTER-CL-1-4-DR.jpg
+    alt: SL Performance
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-SL-ROADSTER-CT-1-6-DR.jpg
+    alt: 2026-SL-ROADSTER-CT-1-6-DR.jpg
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-SL-ROADSTER-CR-1-5-DR.jpg
+    alt: SL Performance
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-SL-ROADSTER-CL-1-7-DR.jpg
+    alt: SL Performance
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-SL-ROADSTER-CH-2-1-DR.jpg
+    alt: SL Technology
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-SL-ROADSTER-CL-2-3-DR.jpg
+    alt: 2026 SL Technology
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-SL-ROADSTER-CR-2-4-1-DR.jpg
+    alt: 2026 SL technology
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-SL-ROADSTER-CH-3-1-DR.jpg
+    alt: 2026-SL-ROADSTER-CH-3-1-DR.jpg
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-SL-ROADSTER-CT-3-2-DR.jpg
+    alt: 2026-SL-ROADSTER-CT-3-2-DR.jpg
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-SL-ROADSTER-CR-3-4-DR.jpg
+    alt: 2026-SL-ROADSTER-CR-3-4-DR.jpg
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-SL-ROADSTER-CH-4-1-DR.jpg
+    alt: 2026-SL-ROADSTER-CH-4-1-DR.jpg
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-SL-ROADSTER-CL-4-3-DR.jpg
+    alt: 2026-SL-ROADSTER-CL-4-3-DR.jpg
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-SL-ROADSTER-CR-4-4-DR.jpg
+    alt: 2026-SL-ROADSTER-CR-4-4-DR.jpg
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-SL-ROADSTER-CT-4-6-1-DR.jpg
+    alt: 2026-SL-ROADSTER-CT-4-5-1-DR.jpg
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-SL-ROADSTER-CT-4-6-2-DR.jpg
+    alt: 2026-SL-ROADSTER-CT-4-5-2-DR.jpg
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-SL-ROADSTER-CT-4-5-2-DR.jpg
+    alt: SL 2026
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-SL-ROADSTER-CT-4-5-1-DR.jpg
+    alt: SL 2026
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-001-C-TE-DR.jpg
+    alt: Display AMG SL 63 S E PERFORMANCE in MANUFAKTUR Cirrus Silver Magno
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-002-C-TE-DR.jpg
+    alt: Display AMG SL 55 in Cirrus Silver with 20-inch AMG aero 10-spoke wheels
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-003-C-TE-DR.jpg
+    alt: Display AMG SL 63 in Sun Yellow with black 21-inch AMG multispoke Y-design wheels
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-004-C-TE-DR.jpg
+    alt: Display AMG SL 63 S E PERFORMANCE  in MANUFAKTUR Cirrus Silver Magno
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-005-L-TE-DR.jpg
+    alt: Display AMG SL 43  in Hyper Blue
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-006-L-TE-DR.jpg
+    alt: Display AMG SL 43  in Hyper Blue
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-007-L-TE-DR.jpg
+    alt: Display AMG SL 55 in Cirrus Silver with standard active rear spoiler
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-008-L-TE-DR.jpg
+    alt: Display AMG SL 63 in MANUFAKTUR Patagonia Red with 21-inch AMG multispoke Y-design wheels
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-009-L-TE-DR.jpg
+    alt: Display AMG SL 63 S E PERFORMANCE in MANUFAKTUR Night Black Magno
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-010-L-TE-DR.jpg
+    alt: Display AMG SL 43  in Hyper Blue with MANUFAKTUR Crystal White/Black Nappa leather
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-011-D-TE-DR.jpg
+    alt: Display AMG SL 55  in Selenite Grey with black 21-inch AMG forged cross-spoke wheels
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-012-D-TE-DR.jpg
+    alt: Display AMG SL 43   in Hyper Blue with MANUFAKTUR Crystal White/Black Nappa leather
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-013-D-TE-DR.jpg
+    alt: Display AMG SL 63 S E PERFORMANCE in MANUFAKTUR Cirrus Silver Magno
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-014-D-TE-DR.jpg
+    alt: Display AMG SL 55 in Cirrus Silver with 20-inch AMG aero 10-spoke wheels
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-015-C-TE-DR.jpg
+    alt: Display AMG SL 55 in Red Pepper/Black Nappa leather
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-016-C-TE-DR.jpg
+    alt: Display AMG SL 55 with standard 12.3-inch digital instrument cluster
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-017-C-TE-DR.jpg
+    alt: Display AMG SL 63 S E PERFORMANCE  in MANUFAKTUR Savanna Beige/Black Nappa leather
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-018-C-TI-DR.jpg
+    alt: Display AMG SL 55 with standard 12.3-inch digital instrument cluster
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-019-J-TE-DR.jpg
+    alt: Display AMG SL 55 in MANUFAKTUR Macchiato Beige/Titan Grey Nappa leather
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-020-J-TE-DR.jpg
+    alt: Display AMG SL 55  in MANUFAKTUR Macchiato Beige/Titan Grey Nappa leather
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-021-J-TE-DR.jpg
+    alt: Display AMG SL 63 S E PERFORMANCE in MANUFAKTUR Savanna Beige/Black Nappa leather
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-022-J-TE-DR.jpg
+    alt: Display AMG SL 55 Performance in Black with standard 11.9-inch multimedia touchscreen
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-023-J-TE-DR.jpg
+    alt: Display AMG SL 55 in Sienna Brown/Black Nappa leather
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-024-J-TE-DR.jpg
+    alt: Display AMG SL 63 S E PERFORMANCE in MANUFAKTUR Savanna Beige/Black Nappa leather
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-025-S-TE-DR.jpg
+    alt: Display AMG SL 55 in MANUFAKTUR Macchiato Beige/Titan Grey Nappa leather
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-026-S-TE-DR.jpg
+    alt: Display AMG SL 63 S E PERFORMANCE in MANUFAKTUR Savanna Beige/Black Nappa leather
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-027-S-TE-DR.jpg
+    alt: Display AMG SL 55   in MANUFAKTUR Macchiato Beige/Titan Grey Nappa leather
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/gallery/gallery-type/2026-AMG-SL-ROADSTER-GAL-028-S-TE-DR.jpg
+    alt: Display AMG SL 55  in Red Pepper/Black Nappa leather
+MATCH[sl]: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/232450/806/iris.png?q=COSY-EU-100-1713d0VXqrWFqtyO67PobzIr3eWsrrCsdRRzwQZUOBZbMw3SGtlaMtsd2HdcUfpOyXGEuTRJ0lVYrOB2qB5bApRTyI5uGoYQC30MQkzNB%25km7jA2jhKViSM%25vq4yjyLRsGWYaxCX8rH1zHdn8w7VxoiZKMXM4FvTQTg9LUO6PDaGqSeWFXMtsdBhGcUfAyYXOc6VRjtirH1Cndn8wuvloiZ4M1M4zuA1YtEWpTuPkEcNLFIT9ZxexrlrKE847dvE5jCDtyAib&BKGND=9&IMGT=P27&POV=be040%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,0,1920,1080);Resize,width=2120,height=1150
+    alt: AMG SL 43 Roadster
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/cgt/2026-AMG-SL43-ROADSTER-CGT-DR.png
+    alt: SL43R Image
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/cgt/2026-AMG-SL55-ROADSTER-CGT-DR.png
+    alt: SL55R4 Image
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/cgt/2026-AMG-SL63-ROADSTER-CGT-DR.png
+    alt: SL63R4 Image
+MATCH[sl]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/cgt/2026-AMG-SL63SE-ROADSTER-CGT-DR.png
+    alt: SL63ER4 Image
+
+SUMMARY for sl-roadster: plausible=61, matched=53, missed=8
+
+========================================
+### model: gla-suv
+### page:  https://www.mbusa.com/en/vehicles/class/gla/suv
+### variants: ["gla","gla250"]
+========================================
+Total DOM <img> after render+scroll: 77
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/class-page/series/2026-GLA-SUV-HERO-DR.jpg
+    alt: 2026 GLA SUV
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/preferences/inventory-preferences/Backplate_NON_VIN.jpg
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/247746/806_056/iris.jpg?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtGyUtsd2sDcUfp8fXGEubSJ0l3IrOB2NMEbApjtwI5ux5xQC31SrkzNBtum7j871hKViX3%25vq4yTyLRhcVYax%255hrH1GBln8w0XyoiZKbgM4FvSlTg9LU26PDZcoSeW0eStsdB%25ycJtTjqNS8YaxB5krH1LIOn8wuzxoiZ4iYM4FgCrTg9PvV6PDe%25mSeWswMtsdUc3cUaqKDTb32VXq0xL6lyf%25XEd9B96N683eUHpi3v1LlbMKsh&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&POV=BE040,PZM&width=768&height=320&BKGND=9&IMGT=P27
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/247747/806_056/iris.jpg?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtGyUtsd2sDcUfp8fXGEubSJ0l3IrOB2NMEbApjtwI5ux5xQC31SrkzNBtum7j871hKViX3%25vq4yTyLRhcVYax%255hrH1GBln8w0XyoiZKbgM4FvSlTg9LU26PDZcoSeW0eStsdB%25ycJtTjqNS8YaxB5krH1LIOn8wuzxoiZ45YM4FgKjTg9Phk6PDe1oSeWstutsLV79MOuljcVGRvTEUdhcfWF0FT3THuPsa28uKxvEOo7em&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&POV=BE040,PZM&width=768&height=320&BKGND=9&IMGT=P27
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/preferences/inventory-preferences/Backplate_REGISTRATION.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/preferences/inventory-preferences/Backplate_CPO_NON_VIN.jpg
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/247746/806_056/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtGyUtsd2sDcUfp8fXGEubSJ0l3IrOB2NMEbApjtwI5ux5xQC31SrkzNBtum7j871hKViX3%25vq4yTyLRhcVYax%255hrH1GBln8w0XyoiZKbgM4FvSlTg9LU26PDZcoSeW0eStsdB%25ycJtTjqNS8YaxB5krH1LIOn8wuzxoiZ4iYM4FgCrTg9PvV6PDe%25mSeWswMtsdUc3cUaqKDTb32VXq0xL6lyf%25XEd9B96N683eUHpi3v1LlbMKsh&BKGND=9&IMGT=P27&POV=be040%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,0,1920,1080);Resize,width=1152,height=480
+    alt: 
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/class-page/series/2026-GLA-SUV-CH-1-1-DR.jpg
+    alt: Design
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/class-page/series/2026-GLA-SUV-CT-1-2-DR.jpg
+    alt: GLA
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/class-page/series/2026-GLA-SUV-CL-1-3-DR.jpg
+    alt: GLA
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/class-page/series/2026-GLA-SUV-CR-1-4-DR.jpg
+    alt: GLA
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/class-page/series/2026-GLA-SUV-CT-1-5-2-DR.jpg
+    alt: GLA
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/class-page/series/2026-GLA-SUV-CT-1-5-1-DR.jpg
+    alt: GLA
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/class-page/series/2026-GLA-SUV-CT-1-6-DR.jpg
+    alt: GLA
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/class-page/series/2026-GLA-SUV-CH-2-1-DR.jpg
+    alt: GLA
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/class-page/series/2026-GLA-SUV-CT-2-2-DR.jpg
+    alt: GLA
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/class-page/series/2026-GLA-SUV-CL-2-3-DR.jpg
+    alt: GLA
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/class-page/series/2026-GLA-SUV-CR-2-4-DR.jpg
+    alt: GLA
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/class-page/series/2026-GLA-SUV-CT-2-5-DR.jpg
+    alt: GLA
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/class-page/series/2026-GLA-SUV-CH-3-1-DR.jpg
+    alt: GLA
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/class-page/series/2026-GLA-SUV-CL-3-2-DR.jpg
+    alt: GLA
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/class-page/series/2026-GLA-SUV-CR-3-3-DR.jpg
+    alt: GLA
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/class-page/series/2026-GLA-SUV-CT-3-4-DR.jpg
+    alt: GLA
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/class-page/series/2026-GLA-SUV-CL-3-5-DR.jpg
+    alt: GLA
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-001-Q-TE-DR.jpg
+    alt: Display GLA 250 GLA 250 Pinnacle Trim in Polar White with AMG Night Package and black 20-inch AMG wheels
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-002-Q-TE-DR.jpg
+    alt: Display GLA 250 in Night Black with 18-inch twin 5-spoke aero wheels
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-003-Q-TE-DR.jpg
+    alt: Display GLA 250  in Cirrus Silver with 19-inch twin 5-spoke wheels
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-004-Q-TE-DR.jpg
+    alt: Display GLA 250 in Polar White with AMG Night Package and 19-inch AMG twin 5-spoke wheels w/black accents
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-005-Q-TE-DR.jpg
+    alt: Display GLA 250  in Polar White with AMG Night Package and Panorama roof
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-006-E-TE-DR.jpg
+    alt: Display GLA 250 in Cirrus Silver
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-007-E-TE-DR.jpg
+    alt: Display GLA 250  Pinnacle Trim in Polar White with AMG Night Package and 19-inch AMG twin 5-spoke wheels
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-008-E-TE-DR.jpg
+    alt: Display GLA 250  in Polar White with AMG Night Package and 19-inch AMG twin 5-spoke wheels
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-009-E-TE-DR.jpg
+    alt: Display GLA 250  in Starling Blue
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-010-C-TE-DR.jpg
+    alt: Display GLA 250 Pinnacle Trim in Polar White with black 20-inch AMG multispoke wheels
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-011-C-TE-DR.jpg
+    alt: Display GLA 250  Pinnacle Trim in Polar White with AMG Night Package
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-012-C-TE-DR.jpg
+    alt: Display GLA 250 4MATIC in Cirrus Silver
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-013-K-TI-DR.jpg
+    alt: Display GLA 250 4MATIC in Black MB-Tex
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-014-K-TI-DR.jpg
+    alt: Display GLA 250 Pinnacle Trim in Black leather
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-015-K-TI-DR.jpg
+    alt: Display GLA 250  Exclusive Trim in Black with Star Pattern trim and Driver Assistance Package
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-016-K-TI-DR.jpg
+    alt: Display GLA 250 Pinnacle Trim in Black MB-Tex/microfiber with AMG Night Package and Carbon Structure trim
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-017-K-TI-DR.jpg
+    alt: Display GLA 250  in Bahia Brown leather with Star Pattern trim
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-018-A-TI-DR.jpg
+    alt: Display GLA 250 in Classic Red/Black leather with AMG Night Package and Illuminated Star Pattern trim
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-019-A-TI-DR.jpg
+    alt: Display GLA 250  Pinnacle Trim in Black leather with AMG Night Package
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/gallery/series/gallery-type/2026-GLA-SUV-GAL-020-A-TI-DR.jpg
+    alt: Display GLA 250 Exclusive Trim in Classic Red/Black leather with AMG Night Package and Illuminated Star Pattern trim
+MATCH[gla]: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/247746/806_056/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtGyUtsd2sDcUfp8fXGEubSJ0l3IrOB2NMEbApjtwI5ux5xQC31SrkzNBtum7j871hKViX3%25vq4yTyLRhcVYax%255hrH1GBln8w0XyoiZKbgM4FvSlTg9LU26PDZcoSeW0eStsdB%25ycJtTjqNS8YaxB5krH1LIOn8wuzxoiZ4iYM4FgCrTg9PvV6PDe%25mSeWswMtsdUc3cUaqKDTb32VXq0xL6lyf%25XEd9B96N683eUHpi3v1LlbMKsh&BKGND=9&IMGT=P27&POV=be040%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,0,1920,1080);Resize,width=2120,height=1150
+    alt: GLA 250 SUV
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/cgt/2026-GLA250-SUV-CGT-D.png
+    alt: GLA250W Image
+MATCH[gla]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gla-class/cgt/2026-GLA250-4M-SUV-CGT-D.png
+    alt: GLA250W4 Image
+
+SUMMARY for gla-suv: plausible=48, matched=41, missed=7
+
+========================================
+### model: glb-suv
+### page:  https://www.mbusa.com/en/vehicles/class/glb/suv
+### variants: ["glb","glb250"]
+========================================
+Total DOM <img> after render+scroll: 79
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-HERO-DR.jpg
+    alt: GLB SUV
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/preferences/inventory-preferences/Backplate_NON_VIN.jpg
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/247646/806/iris.jpg?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtle9tsd2HdcUfpO6XGEubYJ0l3ofOB2NS1bApRARI5ux6YQC30M1kzNBtum7j86ZhKViKw%25vq4JNyLRg32YaxPrSrH1yJRn8wYzyoiZB5pM4FAOrTg9LQe6PDacpSeWHnStsd8B3cUfDO6XGE5GXJ0lCrnOIJtR1qXgoiZC7%25M4F8mQTg9jvZ6PDePoSeWsKMtsdUHxcUfGryXGE09SJ0lBOVOBi1aftkV3xb15Z8fun2rbpldCdcqcgVGB4NPVHF8ukSa0Y&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&POV=BE040,PZM&width=768&height=320&BKGND=9&IMGT=P27
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/247647/806/iris.jpg?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtle9tsd2HdcUfpO6XGEubYJ0l3ofOB2NS1bApRARI5ux6YQC30M1kzNBtum7j86ZhKViKw%25vq4JNyLRg32YaxPrSrH1yJRn8wYzyoiZB5pM4FAOrTg9LQe6PDacpSeWHnStsd8B3cUfDO6XGE5GXJ0lCrnOIJtR1qXgoiZC7%25M4F8mQTg9jvZ6PDePoSeWsKMtsdUHxcUfGryXGE09SJ0lBOVOBi1aftkV3xb15Z8fuA2rbpldCdcqcgVGB4NPVHF8ukSa0Y&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&POV=BE040,PZM&width=768&height=320&BKGND=9&IMGT=P27
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/preferences/inventory-preferences/Backplate_REGISTRATION.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/preferences/inventory-preferences/Backplate_CPO_NON_VIN.jpg
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/247646/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtle9tsd2HdcUfpO6XGEubYJ0l3ofOB2NS1bApRARI5ux6YQC30M1kzNBtum7j86ZhKViKw%25vq4JNyLRg32YaxPrSrH1yJRn8wYzyoiZB5pM4FAOrTg9LQe6PDacpSeWHnStsd8B3cUfDO6XGE5GXJ0lCrnOIJtR1qXgoiZC7%25M4F8mQTg9jvZ6PDePoSeWsKMtsdUHxcUfGryXGE09SJ0lBOVOBi1aftkV3xb15Z8fun2rbpldCdcqcgVGB4NPVHF8ukSa0Y&BKGND=9&IMGT=P27&POV=be040%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,0,1920,1080);Resize,width=1152,height=480
+    alt: 
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CH-1-1-DR.jpg
+    alt: GLB SUV DESIGN
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CT-1-2-DR.jpg
+    alt: GLB SUV DESIGN
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CL-1-3-DR.jpg
+    alt: GLB SUV DESIGN
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CR-1-4-DR.jpg
+    alt: GLB SUV DESIGN
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CT-1-5-02-DR.jpg
+    alt: GLB SUV DESIGN
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CT-1-5-01-DR.jpg
+    alt: GLB SUV DESIGN
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CH-2-1-DR.jpg
+    alt: GLB SUV VERSATILITY
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CT-2-2-DR.jpg
+    alt: GLB SUV VERSATILITY
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CL-2-3-DR.jpg
+    alt: GLB SUV VERSATILITY
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CR-2-4-DR.jpg
+    alt: GLB SUV VERSATILITY
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CL-2-5-DR.jpg
+    alt: GLB SUV VERSATILITY
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CT-2-6-01-DR.jpg
+    alt: GLB SUV VERSATILITY
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CT-2-6-02-DR.jpg
+    alt: GLB SUV VERSATILITY
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CT-2-6-03-DR.jpg
+    alt: GLB SUV VERSATILITY
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CH-3-1-DR.jpg
+    alt: GLB SUV INNOVATION
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CT-3-2-DR.jpg
+    alt: GLB SUV INNOVATION
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CT-3-3-DR.jpg
+    alt: GLB SUV INNOVATION
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CL-3-4-01-DR.jpg
+    alt: GLB SUV INNOVATION
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CL-3-4-02-DR.jpg
+    alt: GLB SUV INNOVATION
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/class-page/series/2026-GLB-SUV-CL-3-4-03-DR.jpg
+    alt: GLB SUV INNOVATION
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/gallery/series/gallery-type/2026-GLB-SUV-GAL-001-J-TE-DR.jpg
+    alt: Display GLB 250 4MATIC  GLB 250 4MATIC Pinnacle Trim in Mountain Grey with AMG Night Package
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/gallery/series/gallery-type/2026-GLB-SUV-GAL-002-J-TE-DR.jpg
+    alt: Display GLB 250 4MATIC  GLB 250 4MATIC in Mountain Grey with black 20-inch AMG multispoke wheels
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/gallery/series/gallery-type/2026-GLB-SUV-GAL-003-J-TE-DR.jpg
+    alt: Display GLB 250  GLB 250 Pinnacle Trim in Mountain Grey with black 20-inch AMG multispoke wheels
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/gallery/series/gallery-type/2026-GLB-SUV-GAL-004-J-TE-DR.jpg
+    alt: Display GLB 250 4MATIC  GLB 250 4MATIC in Mountain Grey with black 20-inch AMG multispoke wheels
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/gallery/series/gallery-type/2026-GLB-SUV-GAL-005-J-TE-DR.jpg
+    alt: Display GLB 250 4MATIC  GLB 250 4MATIC in MANUFAKTUR Patagonia Red with 19-inch twin 5-spoke wheels
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/gallery/series/gallery-type/2026-GLB-SUV-GAL-006-J-TE-DR.jpg
+    alt: Display GLB 250 4MATIC  GLB 250 4MATIC in Mountain Grey with black 20-inch AMG multispoke wheels
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/gallery/series/gallery-type/2026-GLB-SUV-GAL-007-B-TI-DR.jpg
+    alt: Display GLB 250  GLB 250 Pinnacle Trim in Bahia Brown MB-Tex/microfiber and Panorama roof
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/gallery/series/gallery-type/2026-GLB-SUV-GAL-008-B-TI-DR.jpg
+    alt: Display GLB 250 GLB 250 Pinnacle Trim in Bahia Brown MB-Tex/microfiber with AMG Night Package and Illuminated Star Pattern trim
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/gallery/series/gallery-type/2026-GLB-SUV-GAL-009-B-TI-DR.jpg
+    alt: Display GLB 250  GLB 250 Pinnacle Trim in Bahia Brown MB-Tex/microfiber with AMG Night Package
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/gallery/series/gallery-type/2026-GLB-SUV-GAL-010-B-TI-DR.jpg
+    alt: Display GLB 250  GLB 250 Pinnacle Trim in Bahia Brown MB-Tex/microfiber with AMG Night Package and Illuminated Star Pattern trim
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/gallery/series/gallery-type/2026-GLB-SUV-GAL-011-C-TE-DR.jpg
+    alt: Display GLB 250 GLB 250 Pinnacle Trim in MANUFAKTUR Patagonia Red with 19-inch twin 5-spoke wheels
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/gallery/series/gallery-type/2026-GLB-SUV-GAL-012-C-TE-DR.jpg
+    alt: Display GLB 250 4MATIC  GLB 250 4MATIC in Mountain Grey with black 20-inch AMG multispoke wheels
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/gallery/series/gallery-type/2026-GLB-SUV-GAL-013-C-TE-DR.jpg
+    alt: Display GLB 250 4MATIC  GLB 250 4MATIC in MANUFAKTUR Patagonia Red with 19-inch twin 5-spoke wheels
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/gallery/series/gallery-type/2026-GLB-SUV-GAL-014-C-TE-DR.jpg
+    alt: Display GLB 250  GLB 250 in MANUFAKTUR Patagonia Red with standard power liftgate
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/gallery/series/gallery-type/2026-GLB-SUV-GAL-015-A-TI-DR.jpg
+    alt: Display GLB 250 GLB 250 in Black leather with AMG Night Package and 3rd-row seats
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/gallery/series/gallery-type/2026-GLB-SUV-GAL-016-A-TI-DR.jpg
+    alt: Display GLB 250 GLB 250 Pinnacle Trim in Bahia Brown MB-Tex/microfiber with AMG Night Package and Illuminated Star Pattern trim
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/gallery/series/gallery-type/2026-GLB-SUV-GAL-017-A-TI-DR.jpg
+    alt: Display GLB 250 GLB 250 Pinnacle Trim in Bahia Brown MB-Tex/microfiber with AMG Night Package and Illuminated Star Pattern trim
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/gallery/series/gallery-type/2026-GLB-SUV-GAL-018-A-TI-DR.jpg
+    alt: Display GLB 250  GLB 250 in Black leather with AMG Night Package and 3rd-row seats
+MATCH[glb]: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/247646/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtle9tsd2HdcUfpO6XGEubYJ0l3ofOB2NS1bApRARI5ux6YQC30M1kzNBtum7j86ZhKViKw%25vq4JNyLRg32YaxPrSrH1yJRn8wYzyoiZB5pM4FAOrTg9LQe6PDacpSeWHnStsd8B3cUfDO6XGE5GXJ0lCrnOIJtR1qXgoiZC7%25M4F8mQTg9jvZ6PDePoSeWsKMtsdUHxcUfGryXGE09SJ0lBOVOBi1aftkV3xb15Z8fun2rbpldCdcqcgVGB4NPVHF8ukSa0Y&BKGND=9&IMGT=P27&POV=be040%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,0,1920,1080);Resize,width=1920,height=1150
+    alt: GLB 250 SUV
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/cgt/2026-GLB250-SUV-CGT-D.png
+    alt: GLB250W Image
+MATCH[glb]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/glb-class/cgt/2026-GLB250-4M-SUV-CGT-DR.png
+    alt: GLB250W4 Image
+
+SUMMARY for glb-suv: plausible=49, matched=42, missed=7
+
+========================================
+### model: amg-gt-coupe
+### page:  https://www.mbusa.com/en/vehicles/class/amg-gt-2-door/mercedes-amg-gt-2-door-coupe
+### variants: ["amg-gt","amggt","gt55","gt63"]
+========================================
+Total DOM <img> after render+scroll: 108
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-HERO-DR.jpg
+    alt: 2026-AMG-GT-COUPE-HERO-DR.jpg
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/preferences/inventory-preferences/Backplate_AMG_NON_VIN.jpg
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/192342/806/iris.jpg?q=COSY-EU-100-1713d0VXqrWFqtyO67PobzIr3eWsrrCsdRRzwQZgk4ZbMw3SGtlaMtsd2HdcUfpMqXGEjGBJ0lVohOB2sQObApvnyI5uL5qQC3as7kzNH%25km7j82DhKVi%25N%25vqeUDyLR5cHYaxCaWrH1zmrn8w7PcoiZx6YM4FsIPTg9Ukm6tTnuNpMLhKV0%25F%25vqGugyLRlzdYaxHoErHAlGqhTWFEnlAoW7ZV1JnwxV4V%25d%25CWLH59zW0uBZTmGaX&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&POV=BE040,PZM&width=768&height=320&BKGND=9&IMGT=P27
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/192380/806/iris.jpg?q=COSY-EU-100-1713d0VXqrWFqtyO67PobzIr3eWsrrCsdRRzwQZgk4ZbMw3SGtlaMtsd2HdcUfpMqXGEjGBJ0lVohOB2sQObApvnyI5uL5qQC3as7kzNH%25km7j8h3hKVPs9%25vqAtayLR5LDYaxCkYrH1zgtn8wRTyoiZeIQM6oY2ulnKkzNUmwm7js2ihKVf5%25%25vqLrdyLRa3XYaBEUVmMDZfrEBnDzxzxXr1RjijhWh5DvaAFCDGp0wMkULc&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&POV=BE040,PZM&width=768&height=320&BKGND=9&IMGT=P27
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/preferences/inventory-preferences/Backplate_AMG_REGISTRATION.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/preferences/inventory-preferences/Backplate_CPO_NON_VIN.jpg
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/192342/806/iris.png?q=COSY-EU-100-1713d0VXqrWFqtyO67PobzIr3eWsrrCsdRRzwQZgk4ZbMw3SGtlaMtsd2HdcUfpMqXGEjGBJ0lVohOB2sQObApvnyI5uL5qQC3as7kzNH%25km7j82DhKVi%25N%25vqeUDyLR5cHYaxCaWrH1zmrn8w7PcoiZx6YM4FsIPTg9Ukm6tTnuNpMLhKV0%25F%25vqGugyLRlzdYaxHoErHAlGqhTWFEnlAoW7ZV1JnwxV4V%25d%25CWLH59zW0uBZTmGaX&BKGND=9&IMGT=P27&POV=be040%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,0,1920,1080);Resize,width=1152,height=480
+    alt: 
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CH-1-1-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CH-1-1-DR.jpg
+MISS: https://www.mbusa.com/content/dam/mb-nafta/ca/myco/my26/amg-sl-class/class-page/2026-AFFALTERBACH-BADGE-CT-1-2-DR.jpg
+    alt: 2026-AFFALTERBACH-BADGE-CT-1-2-DR.jpg
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/sl-class/class-page/2026-PETRONAS-HERO-DR.jpg
+    alt: 2026-PETRONAS-HERO-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CL-1-4-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CL-1-4-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CR-1-5-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CR-1-5-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CL-1-7-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CL-1-7-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CR-1-8-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CL-1-7-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CT-1-9-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CT-1-9-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CT-2-2-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CT-2-2-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CL-2-3-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CL-2-3-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CR-2-4-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CR-2-4-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CT-2-5-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CT-2-5-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CL-2-6-1-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CL-2-6-1-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CL-2-6-2-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CL-2-6-2-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CL-2-6-3-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CL-2-6-3-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CR-2-7-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CR-2-7-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CH-3-1-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CH-3-1-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CL-3-3-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CL-3-3-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CR-3-4-1-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CR-3-4-1-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CR-3-4-2-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CR-3-4-2-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CT-3-5-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CT-3-5-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CT-3-6-1-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CT-3-6-1-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CT-3-6-2-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CT-3-6-1-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CT-3-6-3-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CT-3-6-3-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CT-3-6-4-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CT-3-6-4-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CT-3-6-5-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CT-3-6-5-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CH-4-1-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CH-4-1-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CT-4-2-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CT-4-2-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CL-4-3-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CL-4-3-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CR-4-4-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CR-4-4-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CT-4-5-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CT-4-5-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CT-4-6-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CT-4-6-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/class-page/2026-AMG-GT-COUPE-CT-4-7-DR.jpg
+    alt: 2026-AMG-GT-COUPE-CT-4-7-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-001-Q-TE-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-001-Q-FE-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/ca/myco/my26/amg-gt-class/amg-gt-2-dr-coupe/gallery/gallery-type/MBCAN-2026-AMG-GT-COUPE-GAL-002-Q-TE-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-002-Q-FE-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/ca/myco/my26/amg-gt-class/amg-gt-2-dr-coupe/gallery/gallery-type/MBCAN-2026-AMG-GT-COUPE-GAL-003-Q-TE-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-003-Q-FE-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-004-Q-TE-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-004-Q-FE-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-005-Q-TE-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-005-Q-FE-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-006-E-TE-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-006-E-FE-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-007-E-TE-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-007-E-FE-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-008-E-TE-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-008-E-FE-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-009-E-TE-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-009-E-FE-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-010-C-TE-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-010-C-FE-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-011-C-TE-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-011-C-FE-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-012-C-TE-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-012-C-FE-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-013-K-TI-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-013-K-FI-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-014-K-TI-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-014-K-FI-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-015-K-TI-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-015-K-FI-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-016-K-TI-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-016-K-FI-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-017-K-TI-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-017-K-FI-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-018-A-TI-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-018-A-FI-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-019-A-TI-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-019-A-FI-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-020-A-TI-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-020-A-FI-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-021-A-TI-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-021-A-FI-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-022-A-TI-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-022-A-FI-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-023-A-TI-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-023-A-FI-DR.jpg
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/gallery/gallery-type/2026-AMG-GT-COUPE-GAL-024-A-TI-DR.jpg
+    alt: 2026-AMG-GT-COUPE-GAL-024-A-FI-DR.jpg
+MATCH[amg-gt]: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/192342/806/iris.png?q=COSY-EU-100-1713d0VXqrWFqtyO67PobzIr3eWsrrCsdRRzwQZgk4ZbMw3SGtlaMtsd2HdcUfpMqXGEjGBJ0lVohOB2sQObApvnyI5uL5qQC3as7kzNH%25km7j82DhKVi%25N%25vqeUDyLR5cHYaxCaWrH1zmrn8w7PcoiZx6YM4FsIPTg9Ukm6tTnuNpMLhKV0%25F%25vqGugyLRlzdYaxHoErHAlGqhTWFEnlAoW7ZV1JnwxV4V%25d%25CWLH59zW0uBZTmGaX&BKGND=9&IMGT=P27&POV=be040%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,0,1920,1080);Resize,width=2120,height=1150
+    alt: AMG GT 43 Coupe
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/cgt/2026-AMG-GT43-COUPE-CGT-DR.png
+    alt: AMGGT43 Image
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/cgt/2026-AMG-GT55-COUPE-CGT-DR.png
+    alt: AMGGT55 Image
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/cgt/2026-AMG-GT63-COUPE-CGT-DR.png
+    alt: AMGGT63 Image
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/cgt/2026-AMG-GT63SE-COUPE-CGT-DR.png
+    alt: AMGGT63E Image
+MATCH[amg-gt]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/amg-gt-class/amg-gt-2-dr/cgt/2026-AMG-GT63-PRO-COUPE-CGT-DR.png
+    alt: AMGGT63X Image
+
+SUMMARY for amg-gt-coupe: plausible=71, matched=62, missed=9
+
+========================================
+### model: eqe-sedan
+### page:  https://www.mbusa.com/en/vehicles/class/eqe/sedan
+### variants: ["eqe-sedan","eqe_sedan","eqe320v","eqe350v","eqe500v","amgeqev"]
+========================================
+Total DOM <img> after render+scroll: 59
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MATCH[eqe-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqe-class/eqe-sedan/class-page/series/2026-EQE-SEDAN-CPH-XL.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/eq-common-assets/EQS_Background_Image_Blue-XL.png
+    alt: 
+MATCH[eqe-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqe-class/eqe-sedan/class-page/series/2026-EQE-SEDAN-FWSH-1-1-XL.jpg
+    alt: 
+MATCH[eqe-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqe-class/eqe-sedan/class-page/series/2026-EQE-SEDAN-FWSH-1-2-XL.jpg
+    alt: 2026-EQE-SEDAN-FWSH-1-2-XL.jpg
+MATCH[eqe-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqe-class/eqe-sedan/class-page/series/2026-EQE-SEDAN-HWL-1-3-01-XL.jpg
+    alt: 
+MATCH[eqe-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqe-class/eqe-sedan/class-page/series/2026-EQE-SEDAN-HWR-1-4-01-XL.jpg
+    alt: 
+MATCH[eqe-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqe-class/eqe-sedan/class-page/series/2026-EQE-SEDAN-HWR-1-4-02-XL.jpg
+    alt: 
+MATCH[eqe-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqe-class/eqe-sedan/class-page/series/2026-EQE-SEDAN-FWSH-2-1-XL.jpg
+    alt: 2026-EQE-SEDAN-FWSH-2-1-XL.jpg
+MATCH[eqe-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqe-class/eqe-sedan/class-page/series/2026-EQE-SEDAN-HWL-2-2-01-XL.jpg
+    alt: 
+MATCH[eqe-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqe-class/eqe-sedan/class-page/series/2026-EQE-SEDAN-HWR-2-3-01-XL.jpg
+    alt: 
+MATCH[eqe-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqe-class/eqe-sedan/class-page/series/2026-EQE-SEDAN-HWR-2-3-02-XL.jpg
+    alt: 
+MATCH[eqe-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqe-class/eqe-sedan/class-page/series/2026-EQE-SEDAN-FWSH-3-1-XL.jpg
+    alt: 2026-EQE-SEDAN-FWSH-3-1-XL.jpg
+MATCH[eqe-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqe-class/eqe-sedan/class-page/series/2026-EQE-SEDAN-HWL-3-2-01-XL.jpg
+    alt: 
+MATCH[eqe-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqe-class/eqe-sedan/class-page/series/2026-EQE-SEDAN-HWR-3-3-01-XL.jpg
+    alt: 
+MATCH[eqe-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqe-class/eqe-sedan/class-page/series/2026-EQE-SEDAN-HWR-3-3-02-XL.jpg
+    alt: 
+MATCH[eqe-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqe-class/eqe-sedan/gallery/series/gallery-type/2026-EQE-SEDAN-Gallery_028-XL.jpg
+    alt: 
+MATCH[eqe-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqe-class/eqe-sedan/gallery/series/gallery-type/2026-EQE-SEDAN-Gallery_001-XL.jpg
+    alt: 
+MATCH[eqe-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqe-class/eqe-sedan/gallery/series/gallery-type/2026-EQE-SEDAN-Gallery_002-XL.jpg
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/295112/806_056/iris.png?q=COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtGeFtsd0YGcUfp86XGEuiRJ0l3IhOB2NQcbApjkoI5uVcZQC3qv3kzNRL6m7jZ6ShKVFsM%25vq9JTyLRzLyYax7NxrH1eJdn8wsOcoiZUidM4FGTjTg90kO6PDBIDSeWTmOtsd6HTcUfKm6XGE4yBJ0lgotOB2PWEbApeIyI5usQDQC3UkTkzNGLnm7j0ajhKVBHE%25vq8JTyLRiXJYnymdEW%255OB2GB1bAp5AXI5uC4JQCPFi2J%25xVZkF7m87ol3MkNulKlO1OsxACeqUx4Wgj%25Xi5o&BKGND=9&IMGT=P27&POV=be320%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,130,1920,950);Resize,width=1440,height=600
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/295121/806_056/iris.png?q=COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtGeFtsd0YGcUfp86XGEuiRJ0l3IhOB2NQcbApjkoI5uVcZQC3qv3kzNRL6m7jZ6ShKVFsM%25vq9JTyLRzLyYax7NxrH1eJdn8wsOcoiZUidM4FGTjTg90kO6PDBIDSeWTmOtsd6HTcUfKm6XGE4yBJ0lgotOB2PWEbApeIyI5usQDQC3UkTkzNGLnm7j0ajhKVBHE%25vq8JTyLRiXJYnymdEW%255OB2GB1bAp5AXI5uC4JQCPFi2J%25xVZkF7m87Ix3MkNulKlO1OsxACeqUx4Wgj%25Xi5o&BKGND=9&IMGT=P27&POV=be320%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,130,1920,950);Resize,width=1440,height=600
+    alt: 
+
+SUMMARY for eqe-sedan: plausible=21, matched=17, missed=4
+
+========================================
+### model: eqs-sedan
+### page:  https://www.mbusa.com/en/vehicles/class/eqs/sedan
+### variants: ["eqs-sedan","eqs_sedan","eqs450r","eqs450w","eqs580w"]
+========================================
+Total DOM <img> after render+scroll: 58
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MATCH[eqs-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-sedan/class-page/series/2026-EQS-SEDAN-CPH-XL.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/eq-common-assets/EQS_Background_Image_Blue-XL.png
+    alt: 
+MATCH[eqs-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-sedan/class-page/series/2026-EQS-SEDAN-FWSH-1-1-XL.jpg
+    alt: 
+MATCH[eqs-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-sedan/class-page/series/2026-EQS-SEDAN-FWSH-1-2-XL.jpg
+    alt: 
+MATCH[eqs-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-sedan/class-page/series/2026-EQS-SEDAN-HS-1-3-XL.jpg
+    alt: 
+MATCH[eqs-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-sedan/class-page/series/2026-EQS-SEDAN-HWL-1-4-01-XL.jpg
+    alt: 
+MATCH[eqs-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-sedan/class-page/series/2026-EQS-SEDAN-HWL-1-4-02-XL.jpg
+    alt: 
+MATCH[eqs-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-sedan/class-page/series/2026-EQS-SEDAN-HWR-1-5-XL.jpg
+    alt: 
+MATCH[eqs-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-sedan/class-page/series/2026-EQS-SEDAN-FWSH-2-1-XL.jpg
+    alt: 
+MATCH[eqs-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-sedan/class-page/series/2026-EQS-SEDAN-HWR-2-2-01-XL.jpg
+    alt: 
+MATCH[eqs-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-sedan/class-page/series/2026-EQS-SEDAN-HWR-2-2-02-XL.jpg
+    alt: 
+MATCH[eqs-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-sedan/class-page/series/2026-EQS-SEDAN-FWSH-2-3-01-XL.jpg
+    alt: 
+MATCH[eqs-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-sedan/class-page/series/2026-EQS-SEDAN-FWSH-3-1-XL.jpg
+    alt: 2026-EQS-SEDAN-FWSH-3-1-XL.jpg
+MATCH[eqs-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-sedan/class-page/series/2026-EQS-SEDAN-HWL-3-2-01-XL.jpg
+    alt: 
+MATCH[eqs-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-sedan/class-page/series/2026-EQS-SEDAN-HWL-3-2-02-XL.jpg
+    alt: 
+MATCH[eqs-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-sedan/class-page/series/2026-EQS-SEDAN-HWR-3-3-01-XL.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/preferences/inventory-preferences/Backplate_EQ_NON_VIN.png
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/297123/806/iris.jpg?q=COSY-EU-100-1713d0VXq0WFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtlKStsd2HTcUfp8cXGEuiEJ0l34xOB2NQnbApj7bI5ux5zQC31g3kzNwP9m7jZcohKV5SM%25vqCv%25yLRzAHYax75prH1eJtn8ws8WoiZU7pM4FGTjTg90kO6PDBIFSeWznMtsd7kTcUfi%250XGE4GjJ0lgotOB2PScbApeIoI5usKYQC3vSrkzNL6Sm%25kbFDZQGtsdHhDcUfeUqXGEsrNJ0lwDhOB2ABcbAp5koI5gZ8lXhRjwQZzk4zbpuoQ3pE7EJxJeRB5PVsRiD4Nhc8An&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&POV=BE040,PZM&width=768&height=320&BKGND=9&IMGT=P27
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/297124/806/iris.jpg?q=COSY-EU-100-1713d0VXq0WFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtlKStsd2HTcUfp8cXGEuiEJ0l34xOB2NQnbApj7bI5ux5zQC31g3kzNwP9m7jZcohKV5SM%25vqCv%25yLRzAHYax75prH1eJtn8wsz2oiZUMNM4FGQJTg90bZ6PDCroSeWzQMtsd8hGcUfiUNXGE4nSJ0lg6tOB2PbnbApe7yI5uK6YQC3vT6khQOZ9wIUSeWam9tsdPsVcUfeY3XGE19mJ0lB0tOB2AQnbA4wHEcmqN1IwCQiCOHpnIu2fzfXRXPq0Agjeq89i3mtHBr&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&POV=BE040,PZM&width=768&height=320&BKGND=9&IMGT=P27
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/preferences/inventory-preferences/Backplate_EQ_REGISTRATION.png
+    alt: 
+MATCH[eqs-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-sedan/gallery/gallery-class/2026-EQS-SEDAN-GAL-026-XL.jpg
+    alt: 
+MATCH[eqs-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-sedan/gallery/gallery-class/2026-EQS-SEDAN-GAL-001-XL.jpg
+    alt: 
+MATCH[eqs-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-sedan/gallery/gallery-class/2026-EQS-SEDAN-GAL-002-XL.jpg
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/297144/806/iris.png?q=COSY-EU-100-1713d0VXqrWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlKStsd2HTcUfp8cXGEuiEJ0l34xOB2NQnbApj7bI5ux5zQC31g3kzNwP9m7jZcohKVFHt%25vqCtTyLRzLyYax758rH1KCun8wsOcoiZUidM4FGKuTg906V6PDBmbSeWAQ9tsd7oTcUfKMqXGEvhSJ0lgYAOB2PBqbApeTXI5uscJQC3UXpkzNGm6m7j0aohKVHXM%25vq8cXyr%25kWfDhAJ0l4YfOB2GB1bAp0MqI5u9fYQC3zCOkzN7%256m7sDgubYwR9hDv%25evqgj6hVNpLpIZIGwC7Ux0wPfeqYOgzT&BKGND=9&IMGT=P27&POV=be320%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,130,1920,950);Resize,width=1440,height=600
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/297123/806/iris.png?q=COSY-EU-100-1713d0VXq0WFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtlKStsd2HTcUfp8cXGEuiEJ0l34xOB2NQnbApj7bI5ux5zQC31g3kzNwP9m7jZcohKV5SM%25vqCv%25yLRzAHYax75prH1eJtn8ws8WoiZU7pM4FGTjTg90kO6PDBIFSeWznMtsd7oVcUfKm6XGE4yBJ0lg0VOB2PMcbApetXI5usQMQC3UvrkzNLtnm7jaSthymI9WFk0cUf8%25WXGEsGRJ0lUnjOB2ZW%25bAp5AXI5uCmMQCPFi2J%25xVZkF7mg7Iu3MkNulKlO1OsxACeqUx4Wgj%25Xi5o&BKGND=9&IMGT=P27&POV=be320%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,130,1920,950);Resize,width=1440,height=600
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/297124/806/iris.png?q=COSY-EU-100-1713d0VXq0WFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtlKStsd2HTcUfp8cXGEuiEJ0l34xOB2NQnbApj7bI5ux5zQC31g3kzNwP9m7jZcohKV5SM%25vqCv%25yLRzAHYax75prH1eJtn8wsz2oiZUMNM4FGQJTg90bZ6PDCroSeWzQMtsd8hGcUfiUNXGE4nSJ0lg6tOB2PbnbApe7yI5uK6YQC3vT6khQOZ9wIUSeWam9tsdPsVcUfeY3XGE19mJ0lB0tOB2AQnbA4wHEcmqN1IwCQiCOHpnIu2fzfXRXPq0Agjeq89i3mtHBr&BKGND=9&IMGT=P27&POV=be320%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,130,1920,950);Resize,width=1440,height=600
+    alt: 
+
+SUMMARY for eqs-sedan: plausible=27, matched=18, missed=9
+
+========================================
+### model: maybach-s-class
+### page:  https://www.mbusa.com/en/vehicles/class/maybach-s-class/sedan
+### variants: ["maybach-s","maybach_s","maybachs","s580z","s680z"]
+========================================
+Total DOM <img> after render+scroll: 69
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/class-page/series/S_maybach-design-hero.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/class-page/series/S_maybach-design-slideshow-1.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/class-page/series/S_maybach-design-slideshow-2.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/class-page/series/S_maybach-design-slideshow-3.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/class-page/series/S_maybach-design-slideshow-4.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/class-page/series/S_maybach-design-slideshow-5.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/ca/myco/my24/s-class/maybach-sedan/class-page/series/S_maybach-design-slideshow-6.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/class-page/series/S_maybach-innovation-hero-video.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my25/s-class/s-maybach/class-page/series/S_maybach-quote-signature.png
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/class-page/series/S_maybach-innovation-image-1.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/ca/myco/my25/s-class/s-maybach/class-page/series/S_maybach-innovation-image-2.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/ca/myco/my25/s-class/s-maybach/class-page/series/S_maybach-innovation-image-3.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/class-page/series/S_maybach-performance-hero.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/class-page/series/S_maybach-performance-slideshow-1.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/class-page/series/S_maybach-performance-slideshow-2.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/class-page/series/S_maybach-performance-slideshow-3.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/class-page/series/S_maybach-performance-slideshow-4.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/class-page/series/S_maybach-performance-slideshow-5.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/preferences/inventory-preferences/Backplate_MAYBACH_NON_VIN.jpg
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/223976/806/iris.jpg?q=COSY-EU-100-1713d0VXqbSFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtle2tsd2vtcUfp86XGEuiXJ0l34AOB2NQnbApjtwI5uVczQC3qkOkzNRLkm7jxafhKVFSQ%25vq9tayLRDLHYaxW0SrH1dB%25n8wfA2oiZEkXM4FaIJTg9HQn6PD8ksSeWieStsd4HTcUfg8yXGEPbXJ0leIxOB2sQFbApUTyI5uG6JQC30SQkzNHTnm7j8yZhKViYh%25vq4uTyLRg3mYaxPrhrH1enun8wsbyoiZUJYM4FA4fTg95zV6PDC7uSeWzajtsd7oNcUfKXjXGE4yBJ0lg0hOB2PMcbApeTpI5usf2QC3UX3kzNGJum7j0hohKVB%25t%25vqA8TyLR5iHYaxC4qrH1qJin8wRO3oiZx6YM4FsIuTg9Ukm6tTnuNpMLhKV00E%25vq7UTyLRKOyYax2NSrH18Jun8wi8woiZ4iIM4FgKuTg735wrcldu63eIu0Rk9Q6DF1s1n2nvligKfLlCVzWcY54I&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&POV=BE040,PZM&width=768&height=320&BKGND=9&IMGT=P27
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/223979/806/iris.jpg?q=COSY-EU-100-1713d0VXqbSFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtle2tsd2vtcUfp86XGEuiXJ0l34AOB2NQnbApjtwI5uVczQC3qkOkzNRLkm7jxafhKVFSQ%25vq9tayLRDLHYaxW0SrH1dB%25n8wfA2oiZEkXM4FaIJTg9HQn6PD8ksSeWieStsd4HTcUfg8yXGEPbXJ0leIxOB2sQFbApUTyI5uG6JQC30SQkzNHTnm7j8yZhKViYh%25vq4uTyLRg3mYaxPrhrH1enun8wsbyoiZrMlM4FA4fTg95zV6PDC7uSeWzajtsd7oNcUfKXjXGE4yBJ0lg0hOB2PMcbApeTpI5usf2QC3UX3kzNGJum7j0hohKVB%25t%25vqA8TyLR5iHYaxC4qrH1qJin8wRO3oiZx6YM4FsIuTg9Ukm6tTnuNpMLhKV00E%25vq7UTyLRKOyYax2NSrH18Jun8wi8woiZ4iIM4FgKuTg9PxO6PKNCZnX2f3SNsQ3BxNDkSW9wUwopoL24PvEa2zq7dXrCgQ&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&POV=BE040,PZM&width=768&height=320&BKGND=9&IMGT=P27
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/preferences/inventory-preferences/Backplate_MAYBACH_REGISTRATION.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/preferences/inventory-preferences/Backplate_CPO_NON_VIN.jpg
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/223976/806/iris.png?q=COSY-EU-100-1713d0VXqbSFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtle2tsd2vtcUfp86XGEuiXJ0l34AOB2NQnbApjtwI5uVczQC3qkOkzNRLkm7jxafhKVFSQ%25vq9tayLRDLHYaxW0SrH1dB%25n8wfA2oiZEkXM4FaIJTg9HQn6PD8ksSeWieStsd4HTcUfg8yXGEPbXJ0leIxOB2sQFbApUTyI5uG6JQC30SQkzNHTnm7j8yZhKViYh%25vq4uTyLRg3mYaxPrhrH1enun8wsbyoiZUJYM4FA4fTg95zV6PDC7uSeWzajtsd7oNcUfKXjXGE4yBJ0lg0hOB2PMcbApeTpI5usf2QC3UX3kzNGJum7j0hohKVB%25t%25vqA8TyLR5iHYaxC4qrH1qJin8wRO3oiZx6YM4FsIuTg9Ukm6tTnuNpMLhKV00E%25vq7UTyLRKOyYax2NSrH18Jun8wi8woiZ4iIM4FgKuTg735wrcldu63eIu0Rk9Q6DF1s1n2nvligKfLlCVzWcY54I&BKGND=9&IMGT=P27&POV=be040%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Crop,rect=(0,0,1920,1080);Resize,width=1152,height=480
+    alt: 
+MATCH[maybach-s]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-001-L-TE-DR.jpg
+    alt: Display Mercedes Maybach S 580 Maybach S 580 in Cirrus Silver/Obsidian Black
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-002-L-TE-DR.jpg
+    alt: 2026-S-MAYBACH-GAL-002-L-FE-DR.jpg
+MATCH[maybach-s]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-003-L-TE-DR.jpg
+    alt: Display Mercedes-Maybach S 580 Maybach S 580 in Graphite Grey with 21-inch
+MATCH[maybach-s]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-004-L-TE-DR.jpg
+    alt: Display Mercedes-Maybach S 580  Maybach S 580 in Graphite Grey with 21-inch
+MATCH[maybach-s]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-005-L-TE-DR.jpg
+    alt: Display Mercedes-Maybach S 580 Maybach S 580 in Graphite Grey
+MATCH[maybach-s]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-006-L-TE-DR.jpg
+    alt: Display Mercedes-Maybach S 580  Maybach S 580 in Obsidian Black with 21-inch
+MATCH[maybach-s]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-007-D-TE-DR.jpg
+    alt: Display Mercedes-Maybach S 580 Maybach S 580 in Cirrus Silver/Nautical Blue with 20-inch forged wheels
+MATCH[maybach-s]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-008-D-TE-DR.jpg
+    alt: Display Mercedes-Maybach S 580 Maybach S 580 in Graphite Grey
+MATCH[maybach-s]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-009-D-TE-DR.jpg
+    alt: Display Mercedes-Maybach S 580 Maybach S 580 in Selenite Grey/Cirrus Silver with 21-inch
+MATCH[maybach-s]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-010-D-TE-DR.jpg
+    alt: Display Mercedes-Maybach S 580  Maybach S 580 in Cirrus Silver/Obsidian Black with 20-inch forged wheels
+MATCH[maybach-s]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-011-O-TI-DR.jpg
+    alt: Display Mercedes-Maybach S 580 Maybach S 580 with Macchiato Beige/Bronze Brown Pearl leather
+MATCH[maybach-s]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-012-O-TI-DR.jpg
+    alt: Display Mercedes-Maybach S 580 Maybach S 580 with standard 12.3-inch digital instrument cluster
+MATCH[maybach-s]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-013-O-TI-DR.jpg
+    alt: Display Mercedes-Maybach S 580 Maybach S 580 with Nappa leather grab handles
+MATCH[maybach-s]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-014-O-TI-DR.jpg
+    alt: Display Mercedes-Maybach S 580 Maybach S 580 with brushed metal pedals
+MATCH[maybach-s]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-015-O-TI-DR.jpg
+    alt: Display Mercedes-Maybach S 580 Maybach S 580 with standard 12.3-inch digital instrument cluster
+MATCH[maybach-s]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-016-O-TI-DR.jpg
+    alt: Display Mercedes-Maybach S 580 Maybach S 580 with Sienna Brown/Black leather
+MATCH[maybach-s]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-017-C-TI-DR.jpg
+    alt: Display Mercedes-Maybach S 580 Maybach S 580 with Black leather
+MATCH[maybach-s]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-018-C-TI-DR.jpg
+    alt: Display Mercedes-Maybach S 580 Maybach S 580 with Burmester® High-End 4D Surround Sound system
+MATCH[maybach-s]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-019-C-TI-DR.jpg
+    alt: Display Mercedes-Maybach S 580 Maybach S 580 with standard illuminated door sills
+MATCH[maybach-s]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/s-sedan-maybach/gallery/series/gallery-type/2026-S-MAYBACH-GAL-020-C-TI-DR.jpg
+    alt: Display Mercedes-Maybach S 580 Maybach S 580 with 12.8-inch OLED touchscreen central multimedia display
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/223976/806/iris.png?q=COSY-EU-100-1713d0VXqbSFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtle2tsd2vtcUfp86XGEuiXJ0l34AOB2NQnbApjtwI5uVczQC3qkOkzNRLkm7jxafhKVFSQ%25vq9tayLRDLHYaxW0SrH1dB%25n8wfA2oiZEkXM4FaIJTg9HQn6PD8ksSeWieStsd4HTcUfg8yXGEPbXJ0leIxOB2sQFbApUTyI5uG6JQC30SQkzNHTnm7j8yZhKViYh%25vq4uTyLRg3mYaxPrhrH1enun8wsbyoiZUJYM4FA4fTg95zV6PDC7uSeWzajtsd7oNcUfKXjXGE4yBJ0lg0hOB2PMcbApeTpI5usf2QC3UX3kzNGJum7j0hohKVB%25t%25vqA8TyLR5iHYaxC4qrH1qJin8wRO3oiZx6YM4FsIuTg9Ukm6tTnuNpMLhKV00E%25vq7UTyLRKOyYax2NSrH18Jun8wi8woiZ4iIM4FgKuTg735wrcldu63eIu0Rk9Q6DF1s1n2nvligKfLlCVzWcY54I&BKGND=9&IMGT=P27&POV=be040%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Resize,width=720,height=390
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/223979/806/iris.png?q=COSY-EU-100-1713d0VXqbSFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtle2tsd2vtcUfp86XGEuiXJ0l34AOB2NQnbApjtwI5uVczQC3qkOkzNRLkm7jxafhKVFSQ%25vq9tayLRDLHYaxW0SrH1dB%25n8wfA2oiZEkXM4FaIJTg9HQn6PD8ksSeWieStsd4HTcUfg8yXGEPbXJ0leIxOB2sQFbApUTyI5uG6JQC30SQkzNHTnm7j8yZhKViYh%25vq4uTyLRg3mYaxPrhrH1enun8wsbyoiZrMlM4FA4fTg95zV6PDC7uSeWzajtsd7oNcUfKXjXGE4yBJ0lg0hOB2PMcbApeTpI5usf2QC3UX3kzNGJum7j0hohKVB%25t%25vqA8TyLR5iHYaxC4qrH1qJin8wRO3oiZx6YM4FsIuTg9Ukm6tTnuNpMLhKV00E%25vq7UTyLRKOyYax2NSrH18Jun8wi8woiZ4iIM4FgKuTg9PxO6PKNCZnX2f3SNsQ3BxNDkSW9wUwopoL24PvEa2zq7dXrCgQ&BKGND=9&IMGT=P27&POV=be040%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Resize,width=720,height=390
+    alt: 
+
+SUMMARY for maybach-s-class: plausible=47, matched=19, missed=28
+
+========================================
+### model: maybach-gls
+### page:  https://www.mbusa.com/en/vehicles/class/maybach-gls/suv
+### variants: ["maybach-gls","maybachgls","gls600"]
+========================================
+Total DOM <img> after render+scroll: 48
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/preferences/inventory-preferences/Backplate_MAYBACH_NON_VIN.jpg
+    alt: 
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/167987/806/iris.jpg?q=COSY-EU-100-1713d0VXqbSFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaMtsd2HtcUfp8qXGEubSJ0l3IrOB2NW2bApjdCI5uVcZQC3qvWkzNwTdm7jZ7ohKVFsM%25vq98cyLRzc6Yax7XhrH1KHrn8wvz4oiZL7NM4FaSMTg9HtV6PD8%25oSeWiyStsd4ZtcUfgXyXGEP5jJ0l7YVOB2Kr%25bApvAbI5uLmIQC3akrkzNHmbm7j8hfhKViHF%25vqmr9yLRsLFYaxU0drH1GCln8w7O4oiZKiXM4FvSlTg9LY96PDarsSeWHthtsd8B3cUfiA1XGE45dJ0ldYhOB2frcbApEnbI5uK5zQC3vT6khQOZ9wIUSeWaaItsdLvNcUfeU1XGEsajJ0lUHhOB2GW2bAp0otI5u9fIQC3zMrkzN7zNm7jKG3hKVvpM%25vqLykyL0fsjko9wdYf0AGgRaRcYxqN8NmDmA9KLBZ59U2G1oQsvt&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&POV=BE040,PZM&width=768&height=320&BKGND=9&IMGT=P27
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/preferences/inventory-preferences/Backplate_MAYBACH_REGISTRATION.jpg
+    alt: 
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/ca/myco/my26/maybach/gls-maybach/gallery/gallery-type/MBCAN-2026-GLS-MAYBACH-SUV-GAL-001-Q-TE-DR.jpg
+    alt: Display Maybach GLS 600  in Kalahari Gold/Obsidian Black
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-002-Q-TE-DR.jpg
+    alt: Display Maybach GLS 600  in Kalahari Gold/Obsidian Black
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-003-Q-TE-DR.jpg
+    alt: Display Maybach GLS 600 in Kalahari Gold/Obsidian Black with 23-inch forged monoblock wheels
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-004-Q-TE-DR.jpg
+    alt: Display Maybach GLS 600  in Kalahari Gold/Obsidian Black
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-005-Q-TE-DR.jpg
+    alt: Display Maybach GLS 600  in Twilight Blue
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-006-N-TE-DR.jpg
+    alt: Display Maybach GLS 600  in Kalahari Gold/Obsidian Black with 23-inch forged monoblock wheels
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-007-N-TE-DR.jpg
+    alt: Display Maybach GLS 600  in Kalahari Gold/Obsidian Black with 23-inch forged monoblock wheels
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-008-N-TE-DR.jpg
+    alt: Display Maybach GLS 600  in Kalahari Gold/Obsidian Black with 23-inch forged monoblock wheels
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-009-N-TE-DR.jpg
+    alt: Display Maybach GLS 600  in Nautical Blue/Cirrus Silver
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-010-N-TE-DR.jpg
+    alt: Display Maybach GLS 600  in Kalahari Gold/Obsidian Black
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-011-N-TE-DR.jpg
+    alt: Display  Maybach GLS 600  in Kalahari Gold/Obsidian Black
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-012-D-TE-DR.jpg
+    alt: Display Maybach GLS 600  in Kalahari Gold/Obsidian Black
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-013-D-TE-DR.jpg
+    alt: Display Maybach GLS 600  in Kalahari Gold/Obsidian Black with 23-inch forged monoblock wheels
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my25/gls-class/gallery/type/2025-GLS-MAYBACH-SUV-GAL-014-D-TE-DR.jpg
+    alt: Display Maybach GLS 600  in Kalahari Gold/Obsidian Black
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-015-D-TE-DR.jpg
+    alt: Display Maybach GLS 600  in Nautical Blue/Cirrus Silver
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-016-R-TI-DR.jpg
+    alt: Display Maybach GLS 600  in MANUFAKTUR Crystal White/Silver Grey Pearl Exclusive Nappa leather
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-017-R-TI-DR.jpg
+    alt: Display Maybach GLS 600  in MANUFAKTUR Crystal White/Silver Grey Pearl Exclusive Nappa leather
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-018-R-TI-DR.jpg
+    alt: Display Maybach GLS 600  in MANUFAKTUR Mahogany/Macchiato Beige Exclusive Nappa leather
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-019-R-TI-DR.jpg
+    alt: Display Maybach GLS 600  in MANUFAKTUR Crystal White/Silver Grey Pearl Exclusive Nappa leather
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-020-R-TI-DR.jpg
+    alt: Display Maybach GLS 600 in MANUFAKTUR Crystal White/Silver Grey Pearl Exclusive Nappa leather
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-021-A-TI-DR.jpg
+    alt: Display Maybach GLS 600 in MANUFAKTUR Mahogany/Macchiato Beige Exclusive Nappa leather
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-022-A-TI-DR.jpg
+    alt: Display Maybach GLS 600  in MANUFAKTUR Crystal White/Silver Grey Pearl Exclusive Nappa leather
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-023-A-TI-DR.jpg
+    alt: Display Maybach GLS 600  in MANUFAKTUR Crystal White/Silver Grey Pearl Exclusive Nappa leather
+MATCH[maybach-gls]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/maybach/gls-maybach/gallery/type/2026-GLS-MAYBACH-SUV-GAL-024-A-TI-DR.jpg
+    alt: Display Maybach GLS 600  in MANUFAKTUR Crystal White/Silver Grey Pearl Exclusive Nappa leather
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/167987/806/iris.png?q=COSY-EU-100-1713d0VXqbSFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlaMtsd2HtcUfp8qXGEubSJ0l3IrOB2NW2bApjdCI5uVcZQC3qvWkzNwTdm7jZ7ohKVFsM%25vq98cyLRzc6Yax7XhrH1KHrn8wvz4oiZL7NM4FaSMTg9HtV6PD8%25oSeWiyStsd4ZtcUfgXyXGEP5jJ0l7YVOB2Kr%25bApvAbI5uLmIQC3akrkzNHmbm7j8hfhKViHF%25vqmr9yLRsLFYaxU0drH1GCln8w7O4oiZKiXM4FvSlTg9LY96PDarsSeWHthtsd8B3cUfiA1XGE45dJ0ldYhOB2frcbApEnbI5uK5zQC3vT6khQOZ9wIUSeWaaItsdLvNcUfeU1XGEsajJ0lUHhOB2GW2bAp0otI5u9fIQC3zMrkzN7zNm7jKG3hKVvpM%25vqLykyL0fsjko9wdYf0AGgRaRcYxqN8NmDmA9KLBZ59U2G1oQsvt&BKGND=9&IMGT=P27&POV=be040%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Resize,width=720,height=390
+    alt: 
+
+SUMMARY for maybach-gls: plausible=29, matched=24, missed=5
+
+========================================
+### model: maybach-eqs-suv
+### page:  https://www.mbusa.com/en/vehicles/class/maybach-eqs/suv
+### variants: ["maybach-eqs","maybacheqs","maybach_eqs","eqs680"]
+========================================
+Total DOM <img> after render+scroll: 68
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/class-page/EQS-maybach-design-hero.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/class-page/EQS-maybach-design-slideshow-1.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/class-page/EQS-maybach-design-slideshow-2.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/class-page/EQS-maybach-design-slideshow-3.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/class-page/EQS-maybach-design-slideshow-4.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/class-page/EQS-maybach-design-slideshow-5.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/class-page/EQS-maybach-design-slideshow-6.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/class-page/EQS-maybach-innovation-hero.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/class-page/EQS-maybach-quote-signature.png
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/class-page/EQS-maybach-innovation-image-1.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/class-page/EQS-maybach-innovation-image-2.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/class-page/EQS-maybach-innovation-image-3.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/class-page/EQS-maybach-performance-hero.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/class-page/EQS-maybach-performance-slideshow-1.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/class-page/EQS-maybach-performance-slideshow-2.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/class-page/EQS-maybach-performance-slideshow-3.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/class-page/EQS-maybach-performance-slideshow-4.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/class-page/EQS-maybach-performance-slideshow-5.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-001-Q-TE-DR.jpg
+    alt: 2026-EQS-MAYBACH-SUV-GAL-001-Q-FE-DR.jpg
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-002-Q-TE-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-003-Q-TE-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-004-Q-TE-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-005-Q-TE-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-006-N-TE-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-007-N-TE-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-008-N-TE-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-009-N-TE-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-010-N-TE-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-011-N-TE-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-012-D-TE-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-013-D-TE-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-014-D-TE-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-015-D-TE-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-016-R-TI-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-017-R-TI-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-018-R-TI-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-019-R-TI-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-020-R-TI-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-021-A-TI-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-022-A-TI-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-023-A-TI-DR.jpg
+    alt: EQS Maybach
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/eqs-class/eqs-suv-maybach/gallery/gallery-type/2026-EQS-MAYBACH-SUV-GAL-024-A-TI-DR.jpg
+    alt: EQS Maybach
+MISS: https://media.oneweb.mercedes-benz.com/images/dynamic/nafta/US/296955/806/iris.png?q=COSY-EU-100-1713d0VXqbSeqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtGyFtsd1HpcUfwOuXGEZ93J0lF6NOB2NB1bApjACI5uV5qQC3qsOkzNRUkm7jxGDhKV10L%25vqwBcyLRZn6YaxFohrH19Mrn8wDTboiZWqYM4FdRPTg9fYn6PDErNSeWl0utsd2BTcUfpAcXGEu5EJ0l3CrOB2qrcbApRnoI5ux5zQC31CRkzNwPnm7jZejhKVFsW%25vq9JTyLRDOfYaxWNErH1djun8wvOcoiZLbYM4FaIPTg9HQE6PD8P6SeWie2tsd4vpcUfg8kXGEPi3J0leIJOB2sQ1bApUk9I5uG6JQC30XFkzNBm6m7jAajhKViSF%25vq4tTyLRgLyYaxPaprH1eCln8wsz4oiZU6oM4FGSPTg90hO6PDB1bSeWAtItsd5ctcUfCX1XGEz5BJ0l7CZOB2Kn%25bApJnlI5uOeuQC3bXwkzNImZm7jgefhKVPs9%25vqerZyLRsQWYaxUrYrH1Gnfn8w0PcoiZKbgM4Fv4lTg9Lvp6PDacpSeWHXUtsd8YTcUfirfXGE49jJ0lg6hOB2PS1bApetCI5usc2QC3UkQkzNGm6m7j0aZhKVBHM%25vqA8ayLR5i2YaxC4qrH1qJ%25n8wPz2oiZekXM4FsmMTg9Uhk6PDGmhSc6o3juTa%25vqGUDyLRKLHYaxvaprH1LBdn8waAcoiZH5ZM4F8SjTg9itk6PD4%256SeWgnUtsdPcTcUfeY%25XGEsrNJ0lUn7OB2GnVbAp0ohI5u94MQC3zMrkzN7zwm7jK7jhKVvKt%25vqLrcyLRaOVYaxHNSrHAlGqhTWFEnliorepL1JnwxV4V%25d%25CWLH59zW0uBZTmGaX&BKGND=9&IMGT=P27&POV=be040%2Cpzm&cp=5bGZs3ZqvblYTH6ckO0W3A&fb=1&im=Resize,width=720,height=390
+    alt: 
+
+SUMMARY for maybach-eqs-suv: plausible=44, matched=0, missed=44

@@ -1,0 +1,701 @@
+{
+  "brand": "Lamborghini",
+  "brand_slug": "lamborghini",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Revuelto",
+      "model_slug": "revuelto",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "LB744 chassis, first generation Revuelto; unveiled March 2023 as the Aventador successor. First V12 HPEV (High Performance Electrified Vehicle) from Lamborghini, combining a new naturally aspirated 6.5L V12 with three electric motors and an 8-speed DCT.",
+      "msrp_range": {
+        "low": 608358,
+        "high": 608358
+      },
+      "model_summary": "Mid-engine plug-in hybrid two-seat supercar with a naturally aspirated 6.5L V12 and three electric motors producing 1,001 hp combined. Single-trim US lineup; the limited-run NA63 (63-unit North America tribute) shares the same powertrain and is not separately priced. Production through 2026 is reported to be sold out.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS does not meaningfully sample low-volume exotics like the Revuelto, and Consumer Reports does not publish a predicted-reliability score for it. The Revuelto is a third-year design built on Lamborghini's new LB744 PHEV architecture; long-term reliability data is not available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Lamborghini due to low US sales volume. Owner enthusiasm in third-party press is consistently very high, but no quantified APEAL score is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the Revuelto as an astronomical leap forward from the Aventador in handling, ride comfort, and daily usability while preserving the drama of a naturally aspirated 6.5L V12. The PHEV system is praised as a performance multiplier (1,001 hp combined, 2.5-second 0-100 kph) rather than an efficiency play; the 3.8 kWh battery yields only about 5-6 miles of electric range. Common critiques are the eye-watering price, the impracticality typical of the class, and a small electric-only range that limits the PHEV's real-world utility.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/car-news/2025-lamborghini-revuelto-first-drive-review.html",
+            "date": "2025-03-15"
+          },
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/lamborghini/revuelto",
+            "date": "2026-01-20"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the Revuelto due to the very small US owner population and the limited number of submissions to consumer-review platforms. Press coverage indicates owner sentiment is overwhelmingly positive on engine character, handling, and daily usability vs the Aventador.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/lamborghini/revuelto/",
+          "https://www.kbb.com/lamborghini/revuelto/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Revuelto",
+          "trim_slug": "revuelto",
+          "trim_family": "revuelto",
+          "is_base_trim": true,
+          "msrp_base": 608358,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "phev",
+            "engine_displacement_l": 6.5,
+            "engine_config": "V12",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 1001,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 793,
+            "transmission": "8-speed dual-clutch automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 3.8,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 6,
+            "total_range_mi": null,
+            "dc_fast_charge_peak_kw": null,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 7,
+            "mpge_combined": null,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 10,
+            "highway_mpg": 17,
+            "combined_mpg": 12,
+            "fuel_tank_gal": 21.1,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 5750
+          },
+          "performance": {
+            "zero_to_60_sec": 2.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 217,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 194.7,
+            "width_in": 80,
+            "height_in": 45.7,
+            "wheelbase_in": 109.4,
+            "ground_clearance_in": 3.7,
+            "curb_weight_lb": 4189,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 4.6
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "265/35ZR20 front / 345/30ZR21 rear (forged alloys; 21\" rear standard)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8.4,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Sonus Faber 10-speaker (optional; standard 6-speaker audio)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Three-screen HMI: 12.3\" digital cluster + 8.4\" portrait center touchscreen + 9.1\" passenger display",
+              "Two-finger swipe to move infotainment content between any of the three screens",
+              "Active aerodynamics with multiple positions for downforce vs efficiency",
+              "Rear-wheel steering and torque vectoring via twin front electric motors",
+              "Four-wheel drive in pure-electric mode via twin front e-motors",
+              "Selectable Citta / Strada / Sport / Corsa / Recharge / Hybrid / Performance / Corsa+ drive modes",
+              "Carbon-fiber monocoque (\"Monofuselage\") chassis",
+              "Carbon-ceramic CCMR brakes standard"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": "8yr/unlimited",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.lamborghini.com/en-en/models/revuelto",
+              "local_path": "images/lamborghini/revuelto/revuelto/front_three_quarter.jpg",
+              "credit": "Automobili Lamborghini S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.lamborghini.com/en-en/models/revuelto",
+              "local_path": "images/lamborghini/revuelto/revuelto/rear_three_quarter.jpg",
+              "credit": "Automobili Lamborghini S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.lamborghini.com/en-en/models/revuelto",
+              "local_path": "images/lamborghini/revuelto/revuelto/side_profile.jpg",
+              "credit": "Automobili Lamborghini S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/0_facelift_2025/model_details_new/revuelto_2/Revuelto_03-Interior-H_Chapter-Main_Still-B-optim.jpg",
+              "local_path": "images/lamborghini/revuelto/revuelto/interior_dashboard.jpg",
+              "credit": "Automobili Lamborghini S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.caranddriver.com/lamborghini/revuelto-2025",
+            "powertrain": "https://www.lamborghini.com/en-en/models/revuelto",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49993",
+            "performance.zero_to_60_sec": "https://www.lamborghini.com/en-en/models/revuelto",
+            "dimensions": "https://www.lamborghini.com/en-en/models/revuelto",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/LAMBORGHINI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/search?query=2026+Lamborghini+Revuelto",
+            "features": "https://www.lamborghini.com/en-en/news/the-new-human-machine-interface-of-lamborghini-revuelto",
+            "warranty": "https://www.lamborghini.com/en-en/warranty-extension"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base $608,358 filled from Car and Driver per §4.6 scoped policy relaxation for ultra-luxury brands with manufacturer non-disclosure (Lamborghini does not publish US MSRP on its consumer site or in the NA63 press release). MSRP source: Car and Driver editorial spec page (per §4.6 scoped policy; manufacturer does not publish US MSRP). Confidence: medium. Destination fee remains null. EPA classifies the 2026 Revuelto as a hybrid (12 MPG combined, premium gas) rather than a PHEV — no MPGe or all-electric range is published on fueleconomy.gov despite Lamborghini marketing the car as an HPEV/plug-in hybrid; brand-stated electric range is approximately 6 miles WLTP. Battery capacity 3.8 kWh and AC charge ~7 kW (Mode 3 Type 2 in Europe; CCS1 in US) per Lamborghini specs. NHTSA and IIHS have not crash-tested the Revuelto. Limited NA63 (63-unit US/Canada-only tribute series) shares the same powertrain and core specs and is not split into a separate trim because no separate MSRP is disclosed. Image URLs are consumer-page references with needs_scraping true; media.lamborghini.com asset paths could not be resolved without an authenticated session."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Single-trim model in the 2026 US lineup. Limited NA63 (63 units, US+Canada only) noted in trim notes but not split — pricing not disclosed and powertrain is identical to base. Body-style mapping: sports-car. Warranty figures sourced from Lamborghini Sarasota dealer info reflecting Automobili Lamborghini SpA's published US new-vehicle warranty (3yr/unlimited basic and powertrain, 12yr/unlimited anti-perforation); EV-battery coverage matches the federal-minimum 8yr/unlimited PHEV battery warranty applicable to US-market PHEVs. All images flagged needs_scraping: true — consumer-page URLs used as placeholders pending Phase 4 CDN extraction."
+    },
+    {
+      "model": "Temerario",
+      "model_slug": "temerario",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "First-generation Temerario; unveiled August 2024 at Monterey Car Week as the Huracán successor. Lamborghini's second HPEV after the Revuelto, pairing an all-new 4.0L twin-turbo V8 that revs to 10,000 rpm with three electric motors (two front axle, one between engine and transmission). Customer deliveries began Q1 2026.",
+      "msrp_range": {
+        "low": 390000,
+        "high": 390000
+      },
+      "model_summary": "Mid-engine plug-in hybrid two-seat sports car succeeding the Huracán. Single trim in the US market with extensive Ad Personam customization rather than discrete higher trims. Produces 907 hp combined and 538 lb-ft, hits 60 mph in 2.7 seconds, and tops 213 mph. The Temerario Super Trofeo (racing) and Temerario GT3 (track-only) variants exist but are not road-legal US trims and are excluded.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS does not meaningfully sample low-volume exotics like the Temerario, and Consumer Reports does not publish a predicted-reliability score. The Temerario is a first-year all-new design with a brand-new 10,000-rpm twin-turbo V8 and triple-motor PHEV system; long-term reliability data is not available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Lamborghini. First-drive press coverage indicates very high enthusiasm for the engine character and handling, but no quantified APEAL data is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Edmunds called the Temerario \"one of the fastest, friendliest Lambos you'll ever drive\" and the quickest supercar they had ever tested. Top Gear and Motor Trend praise the new 10,000-rpm twin-turbo V8's character and the three-motor hybrid system's intelligent torque-fill, plus markedly better daily usability than the Huracán. Common critiques are the steep starting price before mandatory gas-guzzler tax and very expensive option packages, and only ~5 miles of EV-only range from the small 3.8 kWh battery.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/car-news/2026-lamborghini-temerario-first-drive-review.html",
+            "date": "2026-02-04"
+          },
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/lamborghini/temerario-prototype/first-drive",
+            "date": "2025-11-08"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Customer deliveries only began in Q1 2026, so Edmunds and KBB owner-review pages have no submissions yet. Carscoops reports two nearly-new Temerarios already listed for sale under 60 miles, but that does not indicate an owner-satisfaction trend.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/lamborghini/temerario/",
+          "https://www.kbb.com/lamborghini/temerario/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Temerario",
+          "trim_slug": "temerario",
+          "trim_family": "temerario",
+          "is_base_trim": true,
+          "msrp_base": 390000,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "phev",
+            "engine_displacement_l": 4,
+            "engine_config": "V8",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 907,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 538,
+            "transmission": "8-speed dual-clutch automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 3.8,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 5,
+            "total_range_mi": null,
+            "dc_fast_charge_peak_kw": null,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 7,
+            "mpge_combined": 24,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 14,
+            "highway_mpg": 19,
+            "combined_mpg": 16,
+            "fuel_tank_gal": 21.1,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 2.7,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 213,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 185.3,
+            "width_in": 78.6,
+            "height_in": 47.3,
+            "wheelbase_in": 104.6,
+            "ground_clearance_in": 3.5,
+            "curb_weight_lb": 3726,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 4.2
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/35ZR20 front / 325/30ZR21 rear (forged alloys standard; carbon fiber wheels optional $26,200)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8.4,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Sonus Faber",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Three-display HMI: 12.3\" digital cluster + 8.4\" portrait center touchscreen + 9.1\" passenger display ($4,000 option)",
+              "Lamborghini Vision Unit (multi-camera array enabling dashcam, driving memories, Lamborghini Telemetry 2.0)",
+              "Augmented reality navigation",
+              "10,000-rpm redline twin-turbo V8 — highest-revving production V8",
+              "Three electric motors: two front-axle radial-flux + one axial-flux between engine and DCT",
+              "Rear-wheel steering and torque vectoring via front e-motors",
+              "Carbon-ceramic CCMR brakes standard",
+              "Optional Alleggerita lightweight package ($45,900 to $78,600 depending on finish) saves 25+ kg and adds 67% downforce / 62% aero efficiency",
+              "Optional carbon fiber wheels ($26,200)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": "8yr/unlimited",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/0_facelift_2025/model_details_new/temerario_2/aero/Temerario_01-Aero-H_Card-Front-last.jpg",
+              "local_path": "images/lamborghini/temerario/temerario/front_three_quarter.jpg",
+              "credit": "Automobili Lamborghini S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/0_facelift_2025/model_details_new/temerario_2/still_exterior/Temerario_02-Exterior-H_Card-Rear-last-optim.jpg",
+              "local_path": "images/lamborghini/temerario/temerario/rear_three_quarter.jpg",
+              "credit": "Automobili Lamborghini S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.lamborghini.com/en-en/models/temerario",
+              "local_path": "images/lamborghini/temerario/temerario/side_profile.jpg",
+              "credit": "Automobili Lamborghini S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/0_facelift_2025/model_details_new/temerario_2/Temerario_04-Interior-H_Chapter-Main_Still-B-optim.jpg",
+              "local_path": "images/lamborghini/temerario/temerario/interior_dashboard.jpg",
+              "credit": "Automobili Lamborghini S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.caranddriver.com/reviews/a65463484/2026-lamborghini-temerario-drive/",
+            "powertrain": "https://www.lamborghini.com/en-en/models/temerario",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49994",
+            "performance.zero_to_60_sec": "https://www.lamborghini.com/en-en/models/temerario",
+            "dimensions": "https://www.lamborghini.com/en-en/models/temerario",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/LAMBORGHINI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/search?query=2026+Lamborghini+Temerario",
+            "features": "https://www.lamborghini.com/en-en/models/temerario",
+            "warranty": "https://www.lamborghini.com/en-en/warranty-extension"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. msrp_base $390,000 filled from Car and Driver per §4.6 scoped policy relaxation for ultra-luxury brands with manufacturer non-disclosure (Lamborghini does not publish US MSRP on its consumer site or in any reachable manufacturer press release). MSRP source: Car and Driver editorial first-drive review (per §4.6 scoped policy; manufacturer does not publish US MSRP). The figure is presented in Car and Driver's specifications panel under 'PRICE (C/D EST)' with the text 'U.S. deliveries start early in 2026, with pricing starting at an estimated $390,000.' Confidence: medium. Destination fee remains null (Lamborghini does not publish US destination fee). Gas-guzzler tax applies in the US (~$2,100-$2,600 estimated) but is dealer-billed separately and not folded into msrp_base. Combined torque 538 lb-ft (730 Nm) is the consistent manufacturer figure. Battery capacity 3.8 kWh and ~5-6 mi electric range per EPA + brand. EPA classifies the Temerario as PHEV (24 MPGe combined, 16 MPG gas-only). Image URLs are consumer-page references with needs_scraping true."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Single-trim model. Temerario Super Trofeo (one-make race series) and Temerario GT3 (FIA GT3-spec) variants exist but are not road-legal US-market trims — excluded. Convertible/Spyder variants are not yet on sale as of May 2026; spy shots reported but not in production. Body-style mapping: sports-car. All images flagged needs_scraping: true."
+    },
+    {
+      "model": "Urus SE",
+      "model_slug": "urus-se",
+      "model_year": 2026,
+      "body_style": "suv-midsize",
+      "generation_context": "Facelift of the original Urus (introduced 2018, MLB Evo platform), launched as the SE plug-in-hybrid variant in April 2024 with US deliveries from late 2024. The Urus SE replaces the outgoing Urus S and Urus Performante ICE variants for the 2025/2026 model years — it is the only Urus offered new in the US for 2026.",
+      "msrp_range": {
+        "low": 258000,
+        "high": 258000
+      },
+      "model_summary": "Plug-in hybrid Super-SUV pairing a 4.0L twin-turbo V8 with a 141 kW electric motor and 25.9 kWh battery for 789 hp combined, 37 miles of EPA-rated electric range, and 3.4-second 0-60. Single-trim US lineup for 2026 — Lamborghini phased out the ICE-only Urus S and Urus Performante for MY25. A higher-performance Urus SE Performante variant is reportedly being developed for later debut but is not yet in production.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS does not meaningfully sample Lamborghini due to low US volume, and Consumer Reports does not publish a predicted-reliability score for the Urus. The Urus shares its MLB Evo platform and 4.0L twin-turbo V8 with the Audi RS Q8, Bentley Bentayga, and Porsche Cayenne (the SE PHEV system is shared with the Bentley Continental GT and Porsche Panamera Turbo S E-Hybrid). The underlying ICE drivetrain is a known quantity but the new PHEV system has no long-term US data.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Lamborghini. Press coverage frames the SE as a meaningful improvement on the outgoing Urus in noise refinement and around-town manners, with no quantified APEAL data available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the Urus SE for delivering near-Performante straight-line pace (3.4 s to 60) plus an unexpectedly refined 37-mile EV mode for daily commuting, with materially better around-town manners than the outgoing ICE Urus. Edmunds called it \"the best of every world\" and The Drive enjoyed the dual personality. Common critiques are the steep price relative to its MLB Evo platform-mates (Bentayga, Cayenne Turbo E-Hybrid, RS Q8), substantial 5,500+ lb curb weight that blunts agility versus the Performante, and that the EV-only range is a luxury more than a real efficiency play.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/car-news/2025-lamborghini-urus-se-hybrid-first-drive-review.html",
+            "date": "2024-08-22"
+          },
+          {
+            "publication": "The Drive",
+            "url": "https://www.thedrive.com/car-reviews/2025-lamborghini-urus-se-review",
+            "date": "2024-10-30"
+          },
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/lamborghini/urus",
+            "date": "2026-01-12"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the Urus SE due to the small US owner population and limited consumer-review submissions. Carryover sentiment from the prior Urus generation in press coverage is positive on daily usability and family-friendly cabin, mixed on fuel/electric efficiency.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/lamborghini/urus/",
+          "https://www.kbb.com/lamborghini/urus/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Urus SE",
+          "trim_slug": "urus-se",
+          "trim_family": "urus-se",
+          "is_base_trim": true,
+          "msrp_base": 258000,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "phev",
+            "engine_displacement_l": 4,
+            "engine_config": "V8",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 789,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 701,
+            "transmission": "8-speed automatic (ZF 8HP)",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 25.9,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 35,
+            "total_range_mi": 450,
+            "dc_fast_charge_peak_kw": null,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 7.2,
+            "mpge_combined": 48,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": null,
+            "highway_mpg": null,
+            "combined_mpg": 20,
+            "fuel_tank_gal": 19.8,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2250
+          },
+          "performance": {
+            "zero_to_60_sec": 3.4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 194,
+            "towing_capacity_lb": 7716,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 201.3,
+            "width_in": 79.4,
+            "height_in": 64.5,
+            "wheelbase_in": 118.2,
+            "ground_clearance_in": 6.7,
+            "curb_weight_lb": 5523,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 21.8,
+              "behind_1st_row": 56.4,
+              "max_with_seats_folded": 56.4,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "285/45R22 front / 325/40R22 rear (22\" standard; 21\" and 23\" optional)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Bang & Olufsen 3D Premium",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "PHEV system shared with Bentley Continental GT and Porsche Panamera Turbo S E-Hybrid",
+              "100% electric AWD drive in EV mode (Strada Hybrid + Citta)",
+              "Eight drive modes via ANIMA: Strada, Sport, Corsa, Terra, Sabbia, Neve plus Citta (EV) and Recharge (battery save)",
+              "Active rear torque vectoring",
+              "Four-wheel steering",
+              "Adaptive air suspension with five ride heights (max 250 mm / 9.8 in)",
+              "Carbon-ceramic brakes standard",
+              "New 9.1\" passenger touchscreen co-pilot display",
+              "Front-end facelift inspired by Urus Performante styling"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/unlimited",
+            "powertrain_yr_mi": "3yr/unlimited",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "3yr/unlimited",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.lamborghini.com/en-en/models/urus/urus-se",
+              "local_path": "images/lamborghini/urus-se/urus-se/front_three_quarter.jpg",
+              "credit": "Automobili Lamborghini S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.lamborghini.com/en-en/models/urus/urus-se",
+              "local_path": "images/lamborghini/urus-se/urus-se/rear_three_quarter.jpg",
+              "credit": "Automobili Lamborghini S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.lamborghini.com/en-en/models/urus/urus-se",
+              "local_path": "images/lamborghini/urus-se/urus-se/side_profile.jpg",
+              "credit": "Automobili Lamborghini S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/0_facelift_2025/model_details_new/urus_se_2/Urus_03-Interior-H_Card-Tamburo_Loop-optim.jpg",
+              "local_path": "images/lamborghini/urus-se/urus-se/interior_dashboard.jpg",
+              "credit": "Automobili Lamborghini S.p.A.",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.lamborghini.com/en-en/news/lamborghini-urus-se-debuts-in-us",
+            "powertrain": "https://www.lamborghini.com/en-en/models/urus/urus-se",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49755",
+            "performance.zero_to_60_sec": "https://www.lamborghini.com/en-en/models/urus/urus-se",
+            "dimensions": "https://www.lamborghini.com/en-en/models/urus/urus-se",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/LAMBORGHINI",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/search?query=2026+Lamborghini+Urus",
+            "features": "https://www.lamborghini.com/en-en/models/urus/urus-se",
+            "warranty": "https://www.lamborghini.com/en-en/warranty-extension"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model: is_base_trim true with delta_from_base null per atomic sole-trim rule. MSRP $258,000 from Lamborghini's US-debut press release; destination fee not disclosed by Lamborghini on its consumer site or press release — destination_fee set to null per instruction. Combined power 789 hp (800 CV) per Lamborghini's US press release; Wikipedia lists 799/810 hp using a different CV-to-hp conversion. Combined torque 701 lb-ft (950 Nm) per Lamborghini specs. EPA classifies the 2026 Urus SE as a PHEV: 48 MPGe combined (charge-depleting) and 20 MPG combined (charge-sustaining) per fueleconomy.gov ID 49755; EPA reports 35 mi all-electric range while Lamborghini quotes 37+ mi WLTP — both values noted. Per spec §3.6: city/highway gas-only MPG are not separately broken out on EPA's PHEV pages, so they are null with combined_mpg = 20. Tow rating 3,500 kg / 7,716 lb per Lamborghini Urus tech specs. NHTSA/IIHS have not crash-tested the 2026 Urus. Image URLs are consumer-page references with needs_scraping true."
+        }
+      ],
+      "researched_at": "2026-05-12",
+      "notes": "Single-trim Urus model in 2026 US lineup — Urus S and Urus Performante (ICE) were officially discontinued for MY25 per Lamborghini communications and auto-press coverage; only the Urus SE PHEV continues. Body-style mapping: suv-midsize (closest taxonomy match for the \"Super-SUV\" segment Lamborghini coined; the Urus is sized similar to other midsize luxury SUVs like the Cayenne and Bentayga). Cargo numbers reflect a 2-row 5-seat SUV: behind_2nd_row = 21.8 cuft, max with rear seats folded = 56.4 cuft. All images flagged needs_scraping: true."
+    }
+  ]
+}

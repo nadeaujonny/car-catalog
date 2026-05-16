@@ -1,0 +1,307 @@
+# mazda candidate dump - 2026-05-15T03:24:00.238Z
+# blacklist: /(?:Promo-Banner|Global-Nav|global-nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb|shopping-icons|interior-swatches|exterior-color-swatches|color-?swatch|content-hub|musa-homepage|main-nav|mdp\.addons)/i
+# slug_variants (current config):
+#   mazda3-sedan: ["mazda3-sedan","mazda3sedan","mazda-3-sedan","m3-sedan","m3sedan"]
+#   mazda3-hatchback: ["mazda3-hatchback","mazda3hatchback","mazda-3-hatchback","m3-hatchback","m3hatchback","m3hb"]
+#   cx-30: ["cx-30","cx30"]
+#   cx-5: ["cx-5","cx5"]
+#   cx-50: ["cx-50","cx50"]
+#   cx-50-hybrid: ["cx-50-hybrid","cx50-hybrid","cx50hybrid","cx-50hybrid"]
+#   cx-70: ["cx-70","cx70"]
+#   cx-70-phev: ["cx-70-phev","cx70-phev","cx70phev"]
+#   cx-90: ["cx-90","cx90"]
+#   cx-90-phev: ["cx-90-phev","cx90-phev","cx90phev"]
+#   mx-5-miata: ["mx-5-miata","mx5-miata","mx5miata","miata","mx-5-st","mx5-st"]
+#   mx-5-miata-rf: ["mx-5-miata-rf","mx5miata-rf","miata-rf","mx-5-rf","mx5-rf"]
+
+
+================================================================================
+PAGE: cx-5  https://www.mazdausa.com/vehicles/cx-5
+================================================================================
+raw candidates: 435
+unique-by-path: 46
+
+hosts:
+    46  www.mazdausa.com
+
+top path prefixes (host/seg1/seg2/seg3):
+    19  www.mazdausa.com/adobe/dynamicmedia/deliver
+    17  www.mazdausa.com/content/dam/musa
+    10  www.mazdausa.com/content/musa/us
+
+slug-match counts (current variants):
+     0  mazda3-sedan
+     0  mazda3-hatchback
+     0  cx-30
+    33  cx-5
+     0  cx-50
+     0  cx-50-hybrid
+     0  cx-70
+     0  cx-70-phev
+     1  cx-90
+     0  cx-90-phev
+     0  mx-5-miata
+     0  mx-5-miata-rf
+  ANY: 34 of 46
+
+sample UN-matched candidates (URL + alt, first 40):
+  https://www.mazdausa.com/adobe/dynamicmedia/deliver/dm-aid--dd5ba2ad-1220-4034-8bb8-96fe71540891/mazda-navigation-promo-cr.jpg?quality=82&preferwebp=true
+     alt: Mazda – Safest New Car Brand by Consumer Reports Mazda – Safest New Car Brand by Consumer Reports
+  https://www.mazdausa.com/adobe/dynamicmedia/deliver/dm-aid--82c38604-239a-44f7-b718-b6aaca993bdd/view-inventory-find-your-next-mazda.jpg?quality=82&preferwebp=true
+     alt: Find Your Next Mazda Find Your Next Mazda
+  https://www.mazdausa.com/adobe/dynamicmedia/deliver/dm-aid--c6366c92-3e95-4180-90fb-61735018fc87/1769453638462.jpg?quality=82&preferwebp=true
+     alt: The Mazda Difference The Mazda Difference
+  https://www.mazdausa.com/adobe/dynamicmedia/deliver/dm-aid--61e4e43f-07cb-474c-89cd-b84a3930c18d/1765348131605.jpg?quality=82&preferwebp=true
+     alt: Mazda Central Mazda Central
+  https://www.mazdausa.com/adobe/dynamicmedia/deliver/dm-aid--3ac56f61-fae3-4957-a4da-1f626716544f/mymazda-sign-in.jpg?quality=82&preferwebp=true
+     alt: MyMazda App MyMazda App
+  https://www.mazdausa.com/adobe/dynamicmedia/deliver/dm-aid--ca5e54b6-6fe9-4bbc-9376-ae796ad83c94/maintaining-your-mazda-vehicle-find-a-service-dealer-near-you.jpg?quality=82&preferwebp=true
+     alt: Mazda Service Appointments Mazda Service Appointments
+  https://www.mazdausa.com/adobe/dynamicmedia/deliver/dm-aid--c4e0e406-ab3c-47be-9acb-1bc5ff6b57e7/nav-owners-02-desktop.jpg?quality=82&preferwebp=true
+     alt: Mazda Accessories Mazda Accessories
+  https://www.mazdausa.com/content/dam/musa/quick-links/gallery_quick_links/search-inventory.png
+     alt: Search Inventory
+  https://www.mazdausa.com/content/dam/musa/quick-links/gallery_quick_links/test-drive.png
+     alt: Test Drive a Mazda
+  https://www.mazdausa.com/content/dam/musa/quick-links/gallery_quick_links/build-price.png
+     alt: Build and Price
+  https://www.mazdausa.com/content/dam/musa/quick-links/gallery_quick_links/special-offers.png
+     alt: Special Offers
+  https://www.mazdausa.com/content/dam/musa/quick-links/mazda-ev-models-to-fit-your-life.jpeg
+     alt: background
+
+sample MATCHED candidates (first 20):
+  [cx-90] https://www.mazdausa.com/adobe/dynamicmedia/deliver/dm-aid--9b5ab29c-dc9c-476d-a9ce-e023aa1312d1/build-and-price-your-vehicle-2025-mazda-cx-90.jpg?quality=82&preferwebp=true
+     alt: 2026 Mazda CX-90 2026 Mazda CX-90
+  [cx-5] https://www.mazdausa.com/adobe/dynamicmedia/deliver/dm-aid--c28cea91-131c-44f9-bd8d-0f015f2a6bb6/view-mazda-special-offers-and-incentives.jpg?quality=82&preferwebp=true
+     alt: 2026 Mazda CX-5 2026 Mazda CX-5
+  [cx-5] https://www.mazdausa.com/adobe/dynamicmedia/deliver/dm-aid--2cea180c-65de-4f32-8715-b0a955980cdd/hero-desktop.jpg?quality=82&preferwebp=true
+     alt: The All-New 2026 Mazda CX-5 The All-New 2026 Mazda CX-5
+  [cx-5] https://www.mazdausa.com/content/dam/musa/overview/cx-5/02-incentives/overview-offer-jelly-desktop.png
+  [cx-5] https://www.mazdausa.com/adobe/dynamicmedia/deliver/dm-aid--5ee9be81-80bc-4e9b-9b21-4a075274b65a/design-full-width.jpg?quality=82&preferwebp=true
+     alt: 2026 Mazda CX-5 – Parked in Driveway 2026 Mazda CX-5 – Parked in Driveway
+  [cx-5] https://www.mazdausa.com/adobe/dynamicmedia/deliver/dm-aid--320225f2-613c-498f-9ab8-3221cfff6920/design-carousel-1.jpg?quality=82&preferwebp=true
+     alt: 2026 Mazda CX-5 – Cargo Space 2026 Mazda CX-5 – Cargo Space
+  [cx-5] https://www.mazdausa.com/adobe/dynamicmedia/deliver/dm-aid--2e8d34ae-9aee-4e75-bf4c-7d7bbf3e7e57/design-carousel-2.jpg?quality=82&preferwebp=true
+     alt: 2026 Mazda CX-5 – Interior Cabin 2026 Mazda CX-5 – Interior Cabin
+  [cx-5] https://www.mazdausa.com/adobe/dynamicmedia/deliver/dm-aid--7b0694ab-64c1-4f9b-9501-9e6140867311/design-carousel-3.jpg?quality=82&preferwebp=true
+     alt: 2026 Mazda CX-5 – Interior Finishes 2026 Mazda CX-5 – Interior Finishes
+  [cx-5] https://www.mazdausa.com/adobe/dynamicmedia/deliver/dm-aid--339f7a5b-44e4-4db1-b762-86dde6e1ec0f/design-carousel-4.jpg?quality=82&preferwebp=true
+     alt: 2026 Mazda CX-5 – Top View 2026 Mazda CX-5 – Top View
+  [cx-5] https://www.mazdausa.com/adobe/dynamicmedia/deliver/dm-aid--b37df99a-0111-44ef-8e5b-4d38bfabab02/design-carousel-5.jpg?quality=82&preferwebp=true
+     alt: 2026 Mazda CX-5 – Interior View of the Front Cabin 2026 Mazda CX-5 – Interior View of the Front Cabi
+  [cx-5] https://www.mazdausa.com/content/musa/us/en/vehicles/2026/cx-5/_jcr_content/root/mainContentContainer/videoplaylist/image.coreimg.png/1778704499395/1769558686971.png
+     alt: I-Activsense® Safety Technology I-Activsense® Safety Technology
+  [cx-5] https://www.mazdausa.com/content/musa/us/en/vehicles/2026/cx-5/_jcr_content/root/mainContentContainer/videoplaylist/image.coreimg.82.300.png/1778704499395/1769558686971.png
+     alt: I-Activsense® Safety Technology I-Activsense® Safety Technology
+  [cx-5] https://www.mazdausa.com/content/musa/us/en/vehicles/2026/cx-5/_jcr_content/root/mainContentContainer/videoplaylist/image.coreimg.82.480.png/1778704499395/1769558686971.png
+     alt: I-Activsense® Safety Technology I-Activsense® Safety Technology
+  [cx-5] https://www.mazdausa.com/content/musa/us/en/vehicles/2026/cx-5/_jcr_content/root/mainContentContainer/videoplaylist/image.coreimg.82.600.png/1778704499395/1769558686971.png
+     alt: I-Activsense® Safety Technology I-Activsense® Safety Technology
+  [cx-5] https://www.mazdausa.com/content/musa/us/en/vehicles/2026/cx-5/_jcr_content/root/mainContentContainer/videoplaylist/image.coreimg.82.800.png/1778704499395/1769558686971.png
+     alt: I-Activsense® Safety Technology I-Activsense® Safety Technology
+  [cx-5] https://www.mazdausa.com/content/musa/us/en/vehicles/2026/cx-5/_jcr_content/root/mainContentContainer/videoplaylist/image.coreimg.82.1000.png/1778704499395/1769558686971.png
+     alt: I-Activsense® Safety Technology I-Activsense® Safety Technology
+  [cx-5] https://www.mazdausa.com/content/musa/us/en/vehicles/2026/cx-5/_jcr_content/root/mainContentContainer/videoplaylist/image.coreimg.82.1200.png/1778704499395/1769558686971.png
+     alt: I-Activsense® Safety Technology I-Activsense® Safety Technology
+  [cx-5] https://www.mazdausa.com/content/musa/us/en/vehicles/2026/cx-5/_jcr_content/root/mainContentContainer/videoplaylist/image.coreimg.82.1600.png/1778704499395/1769558686971.png
+     alt: I-Activsense® Safety Technology I-Activsense® Safety Technology
+  [cx-5] https://www.mazdausa.com/content/musa/us/en/vehicles/2026/cx-5/_jcr_content/root/mainContentContainer/videoplaylist/image.coreimg.82.2000.png/1778704499395/1769558686971.png
+     alt: I-Activsense® Safety Technology I-Activsense® Safety Technology
+  [cx-5] https://www.mazdausa.com/content/musa/us/en/vehicles/2026/cx-5/_jcr_content/root/mainContentContainer/videoplaylist/image.coreimg.82.2600.png/1778704499395/1769558686971.png
+     alt: I-Activsense® Safety Technology I-Activsense® Safety Technology
+
+================================================================================
+PAGE: cx-90  https://www.mazdausa.com/vehicles/cx-90
+================================================================================
+raw candidates: 285
+unique-by-path: 103
+
+hosts:
+   103  www.mazdausa.com
+
+top path prefixes (host/seg1/seg2/seg3):
+    77  www.mazdausa.com/siteassets/vehicles/2026
+     7  www.mazdausa.com/siteassets/vehicles/2025
+     7  www.mazdausa.com/siteassets/vehicles/shopping-icons
+     3  www.mazdausa.com/siteassets/global-nav/shopping-tools
+     3  www.mazdausa.com/siteassets/global-nav/owners
+     2  www.mazdausa.com/siteassets/images/01_musa-homepage-redesign
+     2  www.mazdausa.com/siteassets/global-nav/vehicles
+     2  www.mazdausa.com/siteassets/global-nav/what-drives-us-mazda-difference
+
+slug-match counts (current variants):
+     1  mazda3-sedan
+     1  mazda3-hatchback
+     1  cx-30
+     1  cx-5
+     3  cx-50
+     1  cx-50-hybrid
+     2  cx-70
+     1  cx-70-phev
+    74  cx-90
+     5  cx-90-phev
+     2  mx-5-miata
+     1  mx-5-miata-rf
+  ANY: 84 of 103
+
+sample UN-matched candidates (URL + alt, first 40):
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/build-price-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/dealer-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/request-a-quote-white.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/Mazda-Schedule-a-Drive-w?t=45
+     alt: Mazda Schedule a Drive Mazda Schedule a Drive
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/search-inventory-white.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/special-offers-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/raq-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/images/01_musa-homepage-redesign/001_homepage-hero/2026/03_march/desktop/main-nav-shopping-desktop-v3.jpg?w=320
+  https://www.mazdausa.com/siteassets/global-nav/vehicles/electrification/navbar-hero/small-image-mobile/mazda-ev-models-to-fit-your-life?w=480
+  https://www.mazdausa.com/siteassets/global-nav/vehicles/electrification/navbar-hero/large-image-desktop/mazda-ev-models-to-fit-your-life?w=767
+  https://www.mazdausa.com/siteassets/global-nav/shopping-tools/01_explore-tout/build-and-price-your-vehicle-2025-mazda-cx-90?w=320
+  https://www.mazdausa.com/siteassets/global-nav/shopping-tools/02_shop-tout/view-inventory-find-your-next-mazda?w=320
+  https://www.mazdausa.com/siteassets/global-nav/shopping-tools/03_buy-tout/view-mazda-special-offers-and-incentives?w=320
+  https://www.mazdausa.com/siteassets/global-nav/what-drives-us-mazda-difference/nav-touts/01_the-mazda-difference/the-mazda-difference-creating-exceptional-vehicles?w=320
+  https://www.mazdausa.com/siteassets/global-nav/what-drives-us-mazda-difference/nav-touts/02_mazda-central/mazda-central-explore-topics-that-matter-to-you?w=320
+  https://www.mazdausa.com/siteassets/global-nav/owners/01_maintaining-your-mazda/maintaining-your-mazda-vehicle-find-a-service-dealer-near-you?w=320
+  https://www.mazdausa.com/siteassets/global-nav/owners/02_making-it-yours/nav-owners-02-desktop.jpg?w=320
+  https://www.mazdausa.com/siteassets/global-nav/owners/03_mymazda-login/mymazda-sign-in?w=320
+  https://www.mazdausa.com/siteassets/images/01_musa-homepage-redesign/001_homepage-hero/2026/03_march/desktop/main-nav-shopping-desktop-2x-v2.jpg?w=320
+
+sample MATCHED candidates (first 20):
+  [cx-70] https://www.mazdausa.com/siteassets/vehicles/2026/cx-70/04_btv/002_sprites/model-selector/turbo-3-premium---jetblack/my26-cx70-3-3-turbo-s-premium-plus-jetblack-animatedms.png?w=208
+     alt: 2026 Mazda CX-70
+  [cx-90] https://www.mazdausa.com/siteassets/vehicles/2025/cx-90--cx-90-phev/06_btv/cx-90-inline/002_sprites/model-selector/my25-cx90-inline-turbo-s-premium-plus-artisan-red-ms.png?w=208
+     alt: 2026 Mazda CX-90
+  [cx-30] https://www.mazdausa.com/siteassets/vehicles/2026/cx-30/04_btv/002_sprites/model-selector/trim---hero-color/my26-cx30-2-5-turbo-premium-plus-polymetal-gray-animatedms.png?w=208
+     alt: 2026 MAZDA CX-30
+  [cx-50] https://www.mazdausa.com/siteassets/vehicles/2026/cx-50/04_btv/002_sprites/model-selector/new-12.18-premium-plus/my26-cx50-2-5-turbo-premiumplus-polymetalgray-animatedms.png?w=208
+     alt: 2026 MAZDA CX-50
+  [cx-5] https://www.mazdausa.com/siteassets/vehicles/2026/cx-5/04_btv/002_sprites/model-selector/trim---hero-color/my26-2-5-premiumplus-soulred-animatedms.png?w=208
+     alt: 2026 MAZDA CX-5
+  [cx-70] https://www.mazdausa.com/siteassets/vehicles/2026/cx-70-phev/04_btv/002_sprites/model-selector/phev-sc-plus---rhodium-white/my26-cx70-phev-sc-plus-rhodiumwhite-animatedms.png?w=208
+     alt: 2026 Mazda CX-70
+  [cx-90] https://www.mazdausa.com/siteassets/vehicles/2025/cx-90--cx-90-phev/06_btv/cx-90-phev/002_sprites/model-selector/my25-cx90-phev-premium-plus-rhodium-white-ms.png?w=208
+     alt: 2026 Mazda CX-90
+  [cx-50] https://www.mazdausa.com/siteassets/vehicles/2025/cx-50-hybrid/04_btv/002_sprites/model-selector/hybrid-premium-plus/2025-cx50-hybrid-premium-plus-wind-chill-pearl-animatedms.png?w=208
+     alt: 2026 CX-50 Hybrid
+  [mazda3-hatchback] https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-hatchback/04_btv/002_sprites/model-selector/2.5-s-turbo-premium-plus---soul-red-crystal/my25-m3hb-2-5-turbo-premium-plus-soulredcrystal-metallic-animatedms.png?w=208
+     alt: 2026 MAZDA3 HATCHBACK
+  [mazda3-sedan] https://www.mazdausa.com/siteassets/vehicles/2025/mazda3-sedan/04_btv/002_sprites/model/my25-m3-sedan-turbo-premium-plus-polymental-gray-ms.png?w=208
+     alt: 2026 MAZDA3 SEDAN
+  [mx-5-miata] https://www.mazdausa.com/siteassets/vehicles/2026/mx-5-st/04_btv/002_sprites/model-selector/grand-touring---aero-gray/my26-mx-5-st-gt-aerogray-animatedms.png?w=208
+     alt: 2026 MAZDA MX-5 MIATA
+  [mx-5-miata] https://www.mazdausa.com/siteassets/vehicles/2026/mx-5-rf/04_btv/002_sprites/model-selector/grand-touring---soul-red/2026-mx5-rf-gt-soulred-animatedms.png?w=208
+     alt: 2026 MAZDA MX-5 MIATA RF
+  [cx-90] https://www.mazdausa.com/siteassets/vehicles/2026/cx-90/01_vlp/001_hero/iihs-badge/2025-tsp-box-rgb.png
+  [cx-90] https://www.mazdausa.com/siteassets/vehicles/2026/cx-90/01_vlp/001_hero/desktop/2026-cx-90-inline-hero-desktop.jpg
+     alt: 2026 Mazda CX-90 3 Row SUV 2026 Mazda CX-90 3 Row SUV
+  [cx-90] https://www.mazdausa.com/siteassets/vehicles/2026/cx-90/01_vlp/002_design/1_2-col-tout/desktop/2026-cx-90-inline-tout-left.jpg?w=1800%201800w
+     alt: 2026 Mazda CX-90 – Panoramic Moonroof 2026 Mazda CX-90 – Panoramic Moonroof
+  [cx-90] https://www.mazdausa.com/siteassets/vehicles/2026/cx-90/01_vlp/002_design/1_2-col-tout/desktop/2026-cx-90-inline-tout-right.jpg?w=1800%201800w
+     alt: 2026 Mazda CX-90 – Premium Interior 2026 Mazda CX-90 – Premium Interior
+  [cx-90] https://www.mazdausa.com/siteassets/vehicles/2026/cx-90/01_vlp/002_design/5050/desktop/2026-cx-90-inline-50-50-left.jpg?w=1280%201280w
+     alt: 2026 Mazda CX-90 – Sophisticated Black Accents 2026 Mazda CX-90 – Sophisticated Black Accents
+  [cx-90] https://www.mazdausa.com/siteassets/vehicles/2026/cx-90/01_vlp/002_design/carousel/desktop/2026-cx-90-inline-desktop-carousel-001.jpg
+     alt: 2026 Mazda CX-90 – 3 Row Seating Configuration Options 2026 Mazda CX-90 – 3 Row Seating Configuratio
+  [cx-90] https://www.mazdausa.com/siteassets/vehicles/2026/cx-90/01_vlp/002_design/carousel/desktop/2026-cx-90-inline-desktop-carousel-002.jpg
+     alt: 2026 Mazda CX-90 – Expansive Cargo Space 2026 Mazda CX-90 – Expansive Cargo Space
+  [cx-90] https://www.mazdausa.com/siteassets/vehicles/2026/cx-90/01_vlp/002_design/gallery-grid/desktop/2026-cx-90-inline-desktop-gallery-main.jpg?w={width}
+     alt: 2026 Mazda CX-90 – Exterior Sculpting 2026 Mazda CX-90 – Exterior Sculpting
+
+================================================================================
+PAGE: mazda3-sedan  https://www.mazdausa.com/vehicles/mazda3-sedan
+================================================================================
+raw candidates: 264
+unique-by-path: 84
+
+hosts:
+    84  www.mazdausa.com
+
+top path prefixes (host/seg1/seg2/seg3):
+    61  www.mazdausa.com/siteassets/vehicles/2026
+     7  www.mazdausa.com/siteassets/vehicles/shopping-icons
+     4  www.mazdausa.com/siteassets/vehicles/2025
+     3  www.mazdausa.com/siteassets/global-nav/shopping-tools
+     3  www.mazdausa.com/siteassets/global-nav/owners
+     2  www.mazdausa.com/siteassets/images/01_musa-homepage-redesign
+     2  www.mazdausa.com/siteassets/global-nav/vehicles
+     2  www.mazdausa.com/siteassets/global-nav/what-drives-us-mazda-difference
+
+slug-match counts (current variants):
+    54  mazda3-sedan
+     3  mazda3-hatchback
+     5  cx-30
+     1  cx-5
+     2  cx-50
+     1  cx-50-hybrid
+     2  cx-70
+     1  cx-70-phev
+     2  cx-90
+     2  cx-90-phev
+     2  mx-5-miata
+     1  mx-5-miata-rf
+  ANY: 65 of 84
+
+sample UN-matched candidates (URL + alt, first 40):
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/build-price-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/dealer-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/request-a-quote-white.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/Mazda-Schedule-a-Drive-w?t=45
+     alt: Mazda Schedule a Drive Mazda Schedule a Drive
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2019-style-with-hover/white/search-inventory-white.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/special-offers-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/vehicles/shopping-icons/2023-icons/white/raq-fff2x.png?t=45
+  https://www.mazdausa.com/siteassets/images/01_musa-homepage-redesign/001_homepage-hero/2026/03_march/desktop/main-nav-shopping-desktop-v3.jpg?w=320
+  https://www.mazdausa.com/siteassets/global-nav/vehicles/electrification/navbar-hero/small-image-mobile/mazda-ev-models-to-fit-your-life?w=480
+  https://www.mazdausa.com/siteassets/global-nav/vehicles/electrification/navbar-hero/large-image-desktop/mazda-ev-models-to-fit-your-life?w=767
+  https://www.mazdausa.com/siteassets/global-nav/shopping-tools/01_explore-tout/build-and-price-your-vehicle-2025-mazda-cx-90?w=320
+  https://www.mazdausa.com/siteassets/global-nav/shopping-tools/02_shop-tout/view-inventory-find-your-next-mazda?w=320
+  https://www.mazdausa.com/siteassets/global-nav/shopping-tools/03_buy-tout/view-mazda-special-offers-and-incentives?w=320
+  https://www.mazdausa.com/siteassets/global-nav/what-drives-us-mazda-difference/nav-touts/01_the-mazda-difference/the-mazda-difference-creating-exceptional-vehicles?w=320
+  https://www.mazdausa.com/siteassets/global-nav/what-drives-us-mazda-difference/nav-touts/02_mazda-central/mazda-central-explore-topics-that-matter-to-you?w=320
+  https://www.mazdausa.com/siteassets/global-nav/owners/01_maintaining-your-mazda/maintaining-your-mazda-vehicle-find-a-service-dealer-near-you?w=320
+  https://www.mazdausa.com/siteassets/global-nav/owners/02_making-it-yours/nav-owners-02-desktop.jpg?w=320
+  https://www.mazdausa.com/siteassets/global-nav/owners/03_mymazda-login/mymazda-sign-in?w=320
+  https://www.mazdausa.com/siteassets/images/01_musa-homepage-redesign/001_homepage-hero/2026/03_march/desktop/main-nav-shopping-desktop-2x-v2.jpg?w=320
+
+sample MATCHED candidates (first 20):
+  [cx-70] https://www.mazdausa.com/siteassets/vehicles/2026/cx-70/04_btv/002_sprites/model-selector/turbo-3-premium---jetblack/my26-cx70-3-3-turbo-s-premium-plus-jetblack-animatedms.png?w=208
+     alt: 2026 Mazda CX-70
+  [cx-90] https://www.mazdausa.com/siteassets/vehicles/2025/cx-90--cx-90-phev/06_btv/cx-90-inline/002_sprites/model-selector/my25-cx90-inline-turbo-s-premium-plus-artisan-red-ms.png?w=208
+     alt: 2026 Mazda CX-90
+  [cx-30] https://www.mazdausa.com/siteassets/vehicles/2026/cx-30/04_btv/002_sprites/model-selector/trim---hero-color/my26-cx30-2-5-turbo-premium-plus-polymetal-gray-animatedms.png?w=208
+     alt: 2026 MAZDA CX-30
+  [cx-50] https://www.mazdausa.com/siteassets/vehicles/2026/cx-50/04_btv/002_sprites/model-selector/new-12.18-premium-plus/my26-cx50-2-5-turbo-premiumplus-polymetalgray-animatedms.png?w=208
+     alt: 2026 MAZDA CX-50
+  [cx-5] https://www.mazdausa.com/siteassets/vehicles/2026/cx-5/04_btv/002_sprites/model-selector/trim---hero-color/my26-2-5-premiumplus-soulred-animatedms.png?w=208
+     alt: 2026 MAZDA CX-5
+  [cx-70] https://www.mazdausa.com/siteassets/vehicles/2026/cx-70-phev/04_btv/002_sprites/model-selector/phev-sc-plus---rhodium-white/my26-cx70-phev-sc-plus-rhodiumwhite-animatedms.png?w=208
+     alt: 2026 Mazda CX-70
+  [cx-90] https://www.mazdausa.com/siteassets/vehicles/2025/cx-90--cx-90-phev/06_btv/cx-90-phev/002_sprites/model-selector/my25-cx90-phev-premium-plus-rhodium-white-ms.png?w=208
+     alt: 2026 Mazda CX-90
+  [cx-50] https://www.mazdausa.com/siteassets/vehicles/2025/cx-50-hybrid/04_btv/002_sprites/model-selector/hybrid-premium-plus/2025-cx50-hybrid-premium-plus-wind-chill-pearl-animatedms.png?w=208
+     alt: 2026 CX-50 Hybrid
+  [mazda3-hatchback] https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-hatchback/04_btv/002_sprites/model-selector/2.5-s-turbo-premium-plus---soul-red-crystal/my25-m3hb-2-5-turbo-premium-plus-soulredcrystal-metallic-animatedms.png?w=208
+     alt: 2026 MAZDA3 HATCHBACK
+  [mazda3-sedan] https://www.mazdausa.com/siteassets/vehicles/2025/mazda3-sedan/04_btv/002_sprites/model/my25-m3-sedan-turbo-premium-plus-polymental-gray-ms.png?w=208
+     alt: 2026 MAZDA3 SEDAN
+  [mx-5-miata] https://www.mazdausa.com/siteassets/vehicles/2026/mx-5-st/04_btv/002_sprites/model-selector/grand-touring---aero-gray/my26-mx-5-st-gt-aerogray-animatedms.png?w=208
+     alt: 2026 MAZDA MX-5 MIATA
+  [mx-5-miata] https://www.mazdausa.com/siteassets/vehicles/2026/mx-5-rf/04_btv/002_sprites/model-selector/grand-touring---soul-red/2026-mx5-rf-gt-soulred-animatedms.png?w=208
+     alt: 2026 MAZDA MX-5 MIATA RF
+  [mazda3-sedan] https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-sedan/01_vlp/001_hero/iihs-badge/2025-tsp-box-rgb.png
+     alt: 2025 IIHS Top Safety Pick+ 2025 IIHS Top Safety Pick+
+  [mazda3-sedan] https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-sedan/01_vlp/001_hero/desktop/2026-m3-sedan-hero-desktop.jpg
+     alt: 2026 Mazda 3 Sedan Compact Car 2026 Mazda 3 Sedan Compact Car
+  [mazda3-sedan] https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-sedan/01_vlp/002_design/a_large-carousel/desktop/2026-m3-sedan-desktop-carousel-001.jpg
+     alt: 2026 Mazda 3 Sedan – Leather Interior 2026 Mazda 3 Sedan – Leather Interior
+  [mazda3-sedan] https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-sedan/01_vlp/002_design/a_large-carousel/desktop/2026-m3-sedan-desktop-carousel-002.jpg
+     alt: 2026 Mazda 3 Sedan – 18 Inch Black Alloy Wheels 2026 Mazda 3 Sedan – 18 Inch Black Alloy Wheels
+  [mazda3-sedan] https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-sedan/01_vlp/002_design/b_cross-shop-5050/desktop/5050-crossover-my25-m3hb-2-5-turbo-premium-plus-soulred_desktop.png?w=1280%201280w
+     alt: 2026 Mazda 3 Hatchback 2026 Mazda 3 Hatchback
+  [mazda3-sedan] https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-sedan/01_vlp/002_design/c_small-gallery/desktop/2026-m3-sedan-desktop-gallery-002.jpg?w={width}
+     alt: 2026 Mazda 3 Sedan – Humancentric Cockpit 2026 Mazda 3 Sedan – Humancentric Cockpit
+  [mazda3-sedan] https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-sedan/01_vlp/002_design/c_small-gallery/desktop/2026-m3-sedan-desktop-gallery-main.jpg?w={width}
+     alt: 2026 Mazda 3 Sedan – 2.5L Turbo with i-Activ AWD® 2026 Mazda 3 Sedan – 2.5L Turbo with i-Activ AWD®
+  [mazda3-sedan] https://www.mazdausa.com/siteassets/vehicles/2026/mazda3-sedan/01_vlp/002_design/c_small-gallery/desktop/2026-m3-sedan-desktop-gallery-001.jpg?w={width}
+     alt: 2026 Mazda 3 Sedan – Dignified Aesthetic 2026 Mazda 3 Sedan – Dignified Aesthetic

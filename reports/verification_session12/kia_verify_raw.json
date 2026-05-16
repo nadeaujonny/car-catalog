@@ -1,0 +1,18 @@
+{
+  "brand": "Kia",
+  "brand_slug": "kia",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 16,
+  "trim_count": 69,
+  "total_images": 64,
+  "needs_scraping": 64,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 0,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [],
+  "fyis": []
+}

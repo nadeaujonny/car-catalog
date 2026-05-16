@@ -1,0 +1,82 @@
+Reset 168 image entries with needs_scraping:true to their model page URLs.
+Brand: cadillac
+Models in JSON: 18
+Models with page URLs: 17
+Playwright fallback: enabled
+
+Scraping 17 model pages…
+
+  fetch https://www.cadillac.com/sedans/ct4  …  static ok (1184 raw, 359 slug-matching)
+  fetch https://www.cadillac.com/shopping/configurator/car/2026/ct4v/ct4v  …  static ok (3 raw, 0 slug-matching)
+    playwright https://www.cadillac.com/shopping/configurator/car/2026/ct4v/ct4v  …  ok but 0 candidates
+  fetch https://www.cadillac.com/sedans/ct4-v-blackwing  …  static ok (1145 raw, 88 slug-matching)
+  fetch https://www.cadillac.com/sedans/ct5  …  static ok (1125 raw, 269 slug-matching)
+  fetch https://www.cadillac.com/shopping/configurator/car/2026/ct5v/ct5v  …  static ok (3 raw, 0 slug-matching)
+    playwright https://www.cadillac.com/shopping/configurator/car/2026/ct5v/ct5v  …  ok but 0 candidates
+  fetch https://www.cadillac.com/sedans/ct5-v-blackwing  …  static ok (1438 raw, 3 slug-matching)
+  fetch https://www.cadillac.com/suvs/xt5  …  static ok (1146 raw, 237 slug-matching)
+  fetch https://www.cadillac.com/electric/lyriq  …  static ok (1183 raw, 347 slug-matching)
+  fetch https://www.cadillac.com/electric/lyriq/v-series  …  static ok (1247 raw, 334 slug-matching)
+  fetch https://www.cadillac.com/electric/optiq  …  static ok (1162 raw, 341 slug-matching)
+  fetch https://www.cadillac.com/electric/optiq/v-series  …  static ok (1168 raw, 274 slug-matching)
+  fetch https://www.cadillac.com/electric/vistiq  …  static ok (1122 raw, 183 slug-matching)
+  fetch https://www.cadillac.com/electric/escalade-iq  …  static ok (1147 raw, 237 slug-matching)
+  fetch https://www.cadillac.com/electric/escalade-iql  …  static ok (1106 raw, 153 slug-matching)
+  fetch https://www.cadillac.com/suvs/escalade  …  static ok (1196 raw, 499 slug-matching)
+  fetch https://www.cadillac.com/suvs/escalade/v-series  …  static ok (1064 raw, 176 slug-matching)
+  fetch https://www.cadillac.com/electric/celestiq  …  static ok (252 raw, 165 slug-matching)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          cadillac
+Pages attempted:                17
+Pages failed:                   2
+  - https://www.cadillac.com/shopping/configurator/car/2026/ct4v/ct4v  (no candidates after static + playwright)
+  - https://www.cadillac.com/shopping/configurator/car/2026/ct5v/ct5v  (no candidates after static + playwright)
+Pages escalated to Playwright:  2 of 17
+  Playwright successes:         0
+  Playwright failures:          2
+Image entries rewritten:        127
+  via text/URL pattern match:   127
+  via brand-specific angle:     0
+  via positional fallback:      0
+Brand-specific angle matches:   0
+Resolution upgrades:            122 URLs preferred larger variants
+Image entries unchanged:        41
+
+Sample rewrites:
+  [26.0] ct4/luxury/front_three_quarter
+        → https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/in-page-gallery/my25-ct4-mov-gallery-exterior-front-drivers-side-v2.jpg?imwidth=1920
+  [26.0] ct4/luxury/rear_three_quarter
+        → https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/my25-ct4-mov-gallery-exterior-rear-drivers-side.jpg?imwidth=1920
+  [32.4] ct4/luxury/side_profile
+        → https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/my25-ct4-mov-gallery-exterior-side-profile.jpg?imwidth=3000
+  [32.0] ct4/luxury/interior_dashboard
+        → https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/in-page-gallery/my25-ct4-mov-gallery-interior-passenger-view.jpg?imwidth=1920
+  [26.0] ct4/premium-luxury/front_three_quarter
+        → https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/in-page-gallery/my25-ct4-mov-gallery-exterior-front-drivers-side-v2.jpg?imwidth=1920
+  [26.0] ct4/premium-luxury/rear_three_quarter
+        → https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/my25-ct4-mov-gallery-exterior-rear-drivers-side.jpg?imwidth=1920
+  [32.4] ct4/premium-luxury/side_profile
+        → https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/my25-ct4-mov-gallery-exterior-side-profile.jpg?imwidth=3000
+  [32.0] ct4/premium-luxury/interior_dashboard
+        → https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/in-page-gallery/my25-ct4-mov-gallery-interior-passenger-view.jpg?imwidth=1920
+  [26.0] ct4/sport/front_three_quarter
+        → https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/in-page-gallery/my25-ct4-mov-gallery-exterior-front-drivers-side-v2.jpg?imwidth=1920
+  [26.0] ct4/sport/rear_three_quarter
+        → https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/my25-ct4-mov-gallery-exterior-rear-drivers-side.jpg?imwidth=1920
+  [32.4] ct4/sport/side_profile
+        → https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/my25-ct4-mov-gallery-exterior-side-profile.jpg?imwidth=3000
+  [32.0] ct4/sport/interior_dashboard
+        → https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/in-page-gallery/my25-ct4-mov-gallery-interior-passenger-view.jpg?imwidth=1920
+
+Models with unresolved angles:
+  ct4-v: 4 entries  (e.g. v-series/front_three_quarter, v-series/rear_three_quarter, v-series/side_profile)
+  ct4-v-blackwing: 4 entries  (e.g. v-series-blackwing/front_three_quarter, v-series-blackwing/rear_three_quarter, v-series-blackwing/side_profile)
+  ct5-v: 4 entries  (e.g. v-series/front_three_quarter, v-series/rear_three_quarter, v-series/side_profile)
+  ct5-v-blackwing: 3 entries  (e.g. v-series-blackwing/rear_three_quarter, v-series-blackwing/side_profile, v-series-blackwing/interior_dashboard)
+  lyriq: 2 entries  (e.g. luxury/rear_three_quarter, sport/rear_three_quarter)
+  optiq: 2 entries  (e.g. luxury/rear_three_quarter, sport/rear_three_quarter)
+  escalade-esv: 20 entries  (e.g. 1sa/front_three_quarter, 1sa/rear_three_quarter, 1sa/side_profile)
+  escalade-v: 2 entries  (e.g. v-series/front_three_quarter, v-series/interior_dashboard)

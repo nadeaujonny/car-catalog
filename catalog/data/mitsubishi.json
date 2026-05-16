@@ -1,0 +1,2917 @@
+{
+  "brand": "Mitsubishi",
+  "brand_slug": "mitsubishi",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Outlander",
+      "model_slug": "outlander",
+      "model_year": 2026,
+      "body_style": "suv-3row",
+      "generation_context": "4th-gen, introduced for 2022 MY; 2026 mid-cycle refresh introduces all-new 1.5L turbocharged 4-cylinder with 48-volt mild-hybrid system replacing the prior 2.5L NA I4, new LE trim, Yamaha audio, plus exterior/interior styling and tech updates",
+      "msrp_range": {
+        "low": 29995,
+        "high": 44790
+      },
+      "model_summary": "Mid-size 3-row compact crossover SUV that shares its platform with the Nissan Rogue. For 2026 the Outlander receives a significant powertrain overhaul — Mitsubishi's first mild-hybrid system on its all-new 1.5L turbocharged 4-cylinder rated at 174 hp/206 lb-ft (177 hp/207 lb-ft per manufacturer engine spec) — plus a new LE trim slotted between ES and SE, a returning RALLIART trim, and a new Yamaha-engineered audio system on upper trims.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power has not published a 2026 VDS score specific to the Outlander; the brand-level 2026 Mitsubishi Quality & Reliability is rated 75/100 (Average). Consumer Reports has not published a predicted reliability score for the 2026 model since the powertrain is brand-new (replacing the 2.5L NA I4). RepairPal historically rates the prior-generation Outlander 4.0/5 (Above Average) but that pre-dates the 2026 mild-hybrid system overhaul.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/mitsubishi/outlander"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet been published as of May 2026 (the APEAL study typically publishes in July). Mitsubishi has historically scored below mass-market average in APEAL and frequently has insufficient sample size for individual model ranking. Will be revisited when 2026 APEAL is released.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently praise the 2026 Outlander's value proposition, surprisingly upscale interior (especially with the optional Yamaha audio and semi-aniline leather), strong standard safety equipment, and the brand's class-leading 10-year/100,000-mile powertrain warranty. The new 1.5L turbocharged mild-hybrid engine delivers modest fuel-economy gains (28 combined mpg FWD) but is criticized for a numb, droning CVT-paired feel under acceleration, and the third row remains best suited to children or short trips. The S-AWC all-wheel drive system earns plaudits for snow and rough-weather performance.",
+        "links": [
+          {
+            "publication": "U.S. News",
+            "url": "https://cars.usnews.com/cars-trucks/mitsubishi/outlander",
+            "date": "2026-01-20"
+          },
+          {
+            "publication": "JD Power",
+            "url": "https://www.jdpower.com/cars/2026/mitsubishi/outlander",
+            "date": "2026-02-15"
+          },
+          {
+            "publication": "Everyman Driver",
+            "url": "https://www.everymandriver.com/2026-mitsubishi-outlander-review-the-budget-3-row-suv-people-keep-overlooking-plus-videos-on-everyman-driver/",
+            "date": "2026-03-10"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": 4,
+        "edmunds_sample_size": 39,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owners praise the comfortable seats, quiet ride, upscale interior feel, and S-AWC all-wheel-drive performance in snow. Common complaints include cabin noise on highway, occasional infotainment glitches/Apple CarPlay disconnects, and cramped third-row seating unsuitable for adults.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.edmunds.com/mitsubishi/outlander/2026/consumer-reviews/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "ES FWD",
+          "trim_slug": "es-fwd",
+          "trim_family": "es",
+          "is_base_trim": true,
+          "msrp_base": 29995,
+          "destination_fee": 1745,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 1.5,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 174,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 206,
+            "transmission": "CVT (2-step shift mode)",
+            "transmission_speeds": null,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 26,
+            "highway_mpg": 31,
+            "combined_mpg": 28,
+            "fuel_tank_gal": 14.5,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2150
+          },
+          "performance": {
+            "zero_to_60_sec": null,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 2000,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 185.8,
+            "width_in": 74.7,
+            "height_in": 68.7,
+            "wheelbase_in": 106.5,
+            "ground_clearance_in": 8.3,
+            "curb_weight_lb": 3681,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 10.9,
+              "behind_2nd_row": 33.5,
+              "behind_1st_row": 64.3,
+              "max_with_seats_folded": 64.3,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "235/60R18 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 4,
+            "nhtsa_rating_year": 2026,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "8-speaker Yamaha audio",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "12.3-inch Smartphone-link Display Audio with Navigation",
+              "SiriusXM 360L",
+              "Forward Collision Mitigation with Pedestrian Detection",
+              "Blind Spot Warning with Rear Cross Traffic Alert",
+              "Lane Departure Warning + Lane Keep Assist",
+              "USB-C charge ports"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "5yr/60k",
+            "powertrain_yr_mi": "10yr/100k",
+            "corrosion_yr_mi": "7yr/100k",
+            "roadside_yr_mi": "5yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "2yr/30k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/pfa/2026-mitsubishi-outlander-front-seat-driver-m.jpg",
+              "local_path": "images/mitsubishi/outlander/es/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/interior/2026-mitsubishi-outlander-digital-rear-view-mirror.jpg",
+              "local_path": "images/mitsubishi/outlander/es/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/exterior/2026-mitsubishi-outlander-power-side-mirrors.jpg",
+              "local_path": "images/mitsubishi/outlander/es/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/interior/2026-mitsubishi-outlander-quilted-leather-seat.jpg",
+              "local_path": "images/mitsubishi/outlander/es/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.mitsubishicars.com/cars-and-suvs/outlander/trims",
+            "powertrain": "https://www.mitsubishicars.com/cars-and-suvs/outlander",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50114",
+            "performance": "https://www.mitsubishicars.com/cars-and-suvs/outlander",
+            "dimensions": "https://www.mitsubishicars.com/cars-and-suvs/outlander/specs",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/mitsubishi/outlander-4-door-suv/2026",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/outlander/trims",
+            "warranty": "https://www.mitsubishicars.com/owners/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Base trim of the Outlander. Powertrain.type classified as 'ice' per project convention for 48V mild-hybrid (MHEV) systems (matching Audi precedent); the press release labels this 'Mitsubishi's first mild-hybrid system'. Engine output: manufacturer-engine spec is 177 hp/207 lb-ft, EPA test data and reviews cite 174 hp/206 lb-ft as the system rating — using the system/manufacturer-combined figure here. Cargo and dimensions sourced from mitsubishicars.com specs (with values consistent with mitsubishi-motors.ca and EPA tank). IIHS has rated 2026 Outlander 'Good' in small overlap front (driver and passenger), 'Good' in side, but TSP/TSP+ designation not posted on the IIHS page — set null pending full evaluation."
+        },
+        {
+          "trim": "LE FWD",
+          "trim_slug": "le-fwd",
+          "trim_family": "le",
+          "is_base_trim": true,
+          "msrp_base": 32345,
+          "destination_fee": 1745,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/45R20 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "8-speaker Yamaha audio",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "20-inch alloy wheels",
+              "LED fog lights",
+              "leather-wrapped steering wheel",
+              "synthetic-leather seating",
+              "rear USB-C ports",
+              "adaptive cruise control"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/pfa/2026-mitsubishi-outlander-front-seat-driver-m.jpg",
+              "local_path": "images/mitsubishi/outlander/le/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/interior/2026-mitsubishi-outlander-digital-rear-view-mirror.jpg",
+              "local_path": "images/mitsubishi/outlander/le/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/exterior/2026-mitsubishi-outlander-power-side-mirrors.jpg",
+              "local_path": "images/mitsubishi/outlander/le/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/interior/2026-mitsubishi-outlander-quilted-leather-seat.jpg",
+              "local_path": "images/mitsubishi/outlander/le/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.mitsubishicars.com/cars-and-suvs/outlander/trims",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/outlander/trims"
+          },
+          "delta_from_base": null,
+          "notes": "New-for-2026 trim slotted between ES and SE. Singleton trim_family per sole-trim atomic rule (is_base_trim:true + delta_from_base:null). Powertrain (1.5L turbo MHEV, FWD) is unchanged from ES so spec block is null. Step-up content vs ES: heated front seats, synthetic-leather seating, wireless phone charger, system-level adaptive cruise, 20-inch alloys (vs 18-inch), LED fog lights, leather-wrapped steering, rear USB-C ports."
+        },
+        {
+          "trim": "SE FWD",
+          "trim_slug": "se-fwd",
+          "trim_family": "se",
+          "is_base_trim": true,
+          "msrp_base": 34345,
+          "destination_fee": 1745,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/45R20 all-season (two-tone finish)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "8-speaker Yamaha audio",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "20-inch two-tone alloy wheels",
+              "Multi-View Camera System (360-degree)",
+              "Power-folding side mirrors",
+              "Power liftgate with adjustable height memory",
+              "MI-PILOT Assist with Navi-link Adaptive Cruise Control",
+              "Traffic sign recognition",
+              "Heated steering wheel",
+              "Power driver's seat"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/pfa/2026-mitsubishi-outlander-front-seat-driver-m.jpg",
+              "local_path": "images/mitsubishi/outlander/se/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/interior/2026-mitsubishi-outlander-digital-rear-view-mirror.jpg",
+              "local_path": "images/mitsubishi/outlander/se/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/exterior/2026-mitsubishi-outlander-power-side-mirrors.jpg",
+              "local_path": "images/mitsubishi/outlander/se/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/interior/2026-mitsubishi-outlander-quilted-leather-seat.jpg",
+              "local_path": "images/mitsubishi/outlander/se/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.mitsubishicars.com/cars-and-suvs/outlander/trims",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/outlander/trims"
+          },
+          "delta_from_base": null,
+          "notes": "Mid-line trim. Singleton trim_family per sole-trim atomic rule (is_base_trim:true + delta_from_base:null). Powertrain (1.5L turbo MHEV, FWD) is unchanged from ES so spec block is null. Step-up content vs ES: heated+power 8-way driver seat, synthetic leather, heated steering wheel + remote start, Multi-View Camera, power liftgate, MI-PILOT Assist standard, 20-inch two-tone wheels, traffic sign recognition. SE Tech Package adds panoramic sunroof, 12-speaker Yamaha audio, 12.3-inch full digital driver display, and additional comfort items for $37,545 (FWD) / $39,345 (S-AWC) — treated here as a package per spec §6.5."
+        },
+        {
+          "trim": "SEL FWD",
+          "trim_slug": "sel-fwd",
+          "trim_family": "sel",
+          "is_base_trim": true,
+          "msrp_base": 39045,
+          "destination_fee": 1745,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/45R20 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "8-speaker Yamaha audio (12-speaker Dynamic Sound Yamaha Ultimate available with Premium Package)",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Tri-zone (3-zone) automatic climate control",
+              "Heated rear seats",
+              "8-way power driver seat with memory",
+              "Ventilated front seats",
+              "Leather seating surfaces",
+              "Power panoramic sunroof",
+              "Full digital driver display"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/pfa/2026-mitsubishi-outlander-front-seat-driver-m.jpg",
+              "local_path": "images/mitsubishi/outlander/sel/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/interior/2026-mitsubishi-outlander-digital-rear-view-mirror.jpg",
+              "local_path": "images/mitsubishi/outlander/sel/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/exterior/2026-mitsubishi-outlander-power-side-mirrors.jpg",
+              "local_path": "images/mitsubishi/outlander/sel/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/interior/2026-mitsubishi-outlander-quilted-leather-seat.jpg",
+              "local_path": "images/mitsubishi/outlander/sel/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.mitsubishicars.com/cars-and-suvs/outlander/trims",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/outlander/trims"
+          },
+          "delta_from_base": null,
+          "notes": "Top non-special-edition trim. Singleton trim_family per sole-trim atomic rule (is_base_trim:true + delta_from_base:null). Powertrain (1.5L turbo MHEV, FWD) is unchanged from ES so spec block is null. Step-up content vs ES: leather seating, ventilated front seats, heated rear seats, power panoramic sunroof, tri-zone automatic climate, 8-way power driver seat with memory, full digital driver display, MI-PILOT Assist adaptive cruise. SEL Premium Package ($42,095 starting) adds 10.8-inch HUD, semi-aniline leather, digital rearview mirror, and Dynamic Sound Yamaha Ultimate 12-speaker audio — treated here as a package per spec §6.5."
+        },
+        {
+          "trim": "RALLIART S-AWC",
+          "trim_slug": "ralliart-s-awc",
+          "trim_family": "ralliart",
+          "is_base_trim": true,
+          "msrp_base": 39645,
+          "destination_fee": 1745,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 1.5,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 174,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 206,
+            "transmission": "CVT (2-step shift mode)",
+            "transmission_speeds": null,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 26,
+            "highway_mpg": 30,
+            "combined_mpg": 27,
+            "fuel_tank_gal": 14.5,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2200
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/45R20 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "8-speaker Yamaha audio",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "S-AWC (Super All-Wheel Control) standard",
+              "RALLIART-specific exterior badging and styling",
+              "Distinctive RALLIART trim accents",
+              "Multi-View Camera System (360-degree)",
+              "MI-PILOT Assist with Navi-link",
+              "Power liftgate",
+              "20-inch black-painted alloy wheels"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/pfa/2026-mitsubishi-outlander-front-seat-driver-m.jpg",
+              "local_path": "images/mitsubishi/outlander/ralliart/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/interior/2026-mitsubishi-outlander-digital-rear-view-mirror.jpg",
+              "local_path": "images/mitsubishi/outlander/ralliart/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/exterior/2026-mitsubishi-outlander-power-side-mirrors.jpg",
+              "local_path": "images/mitsubishi/outlander/ralliart/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/interior/2026-mitsubishi-outlander-quilted-leather-seat.jpg",
+              "local_path": "images/mitsubishi/outlander/ralliart/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.mitsubishicars.com/cars-and-suvs/outlander/trims",
+            "powertrain": "https://www.mitsubishicars.com/cars-and-suvs/outlander",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50130",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/outlander/trims"
+          },
+          "delta_from_base": null,
+          "notes": "RALLIART is a heritage-themed S-AWC trim returning for 2026. Singleton trim_family per sole-trim atomic rule (is_base_trim:true + delta_from_base:null). Mechanically uses the same 1.5L mild-hybrid turbo as ES but with S-AWC AWD (and consequent lower 27 mpg combined per EPA ID 50130). RALLIART is a styling/equipment package, not a higher-output performance trim. Step-up content vs ES: S-AWC standard, distinctive RALLIART exterior styling and badging, 20-inch black alloy wheels, MI-PILOT Assist + Multi-View Camera, heated steering wheel + power driver seat, power liftgate."
+        },
+        {
+          "trim": "Trail Edition S-AWC",
+          "trim_slug": "trail-edition-s-awc",
+          "trim_family": "trail-edition",
+          "is_base_trim": true,
+          "msrp_base": 39645,
+          "destination_fee": 1745,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 1.5,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 174,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 206,
+            "transmission": "CVT (2-step shift mode)",
+            "transmission_speeds": null,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 26,
+            "highway_mpg": 30,
+            "combined_mpg": 27,
+            "fuel_tank_gal": 14.5,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2200
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "235/60R18 all-terrain-oriented"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "8-speaker Yamaha audio",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Black Dynamic Shield front fascia",
+              "Black roof rails",
+              "Trail-specific bumper / fender / corner protectors",
+              "Black side moldings and door-handle covers",
+              "S-AWC standard",
+              "18-inch wheels (smaller than other top trims for sidewall flex)",
+              "MI-PILOT Assist with Navi-link",
+              "Multi-View Camera"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/pfa/2026-mitsubishi-outlander-front-seat-driver-m.jpg",
+              "local_path": "images/mitsubishi/outlander/trail-edition/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/interior/2026-mitsubishi-outlander-digital-rear-view-mirror.jpg",
+              "local_path": "images/mitsubishi/outlander/trail-edition/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/exterior/2026-mitsubishi-outlander-power-side-mirrors.jpg",
+              "local_path": "images/mitsubishi/outlander/trail-edition/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/interior/2026-mitsubishi-outlander-quilted-leather-seat.jpg",
+              "local_path": "images/mitsubishi/outlander/trail-edition/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.mitsubishicars.com/cars-and-suvs/outlander/trims",
+            "powertrain": "https://www.mitsubishicars.com/cars-and-suvs/outlander",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50130",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/outlander/trims"
+          },
+          "delta_from_base": null,
+          "notes": "Outdoor-themed trim co-priced with RALLIART. Singleton trim_family per sole-trim atomic rule (is_base_trim:true + delta_from_base:null). Shares 1.5L mild-hybrid turbo with ES but with S-AWC AWD (27 mpg combined per EPA ID 50130). Trail Edition is appearance/protection package, not a mechanical off-road variant. 18-inch wheels are smaller than SE/SEL/RALLIART 20-inch but still on-road oriented; no skid plates or low-range gearing. Step-up content vs ES: S-AWC standard, Black Dynamic Shield front fascia, black roof rails, trim-specific protective accents, synthetic-leather heated seating, MI-PILOT adaptive cruise, Multi-View Camera, bumper/fender/corner protectors."
+        },
+        {
+          "trim": "Black Edition S-AWC",
+          "trim_slug": "black-edition-s-awc",
+          "trim_family": "black-edition",
+          "is_base_trim": true,
+          "msrp_base": 44790,
+          "destination_fee": 1745,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 1.5,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 174,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 206,
+            "transmission": "CVT (2-step shift mode)",
+            "transmission_speeds": null,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 26,
+            "highway_mpg": 30,
+            "combined_mpg": 27,
+            "fuel_tank_gal": 14.5,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2200
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/45R20 all-season (black-painted alloy)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "12-speaker Dynamic Sound Yamaha Ultimate",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Black semi-aniline premium leather seating surfaces",
+              "20-inch black alloy wheels",
+              "Black exterior badges and trim accents",
+              "Black outer door-handle covers",
+              "S-AWC standard",
+              "Tri-zone automatic climate control",
+              "Power panoramic sunroof",
+              "Heated rear seats"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/pfa/2026-mitsubishi-outlander-front-seat-driver-m.jpg",
+              "local_path": "images/mitsubishi/outlander/black-edition/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/interior/2026-mitsubishi-outlander-digital-rear-view-mirror.jpg",
+              "local_path": "images/mitsubishi/outlander/black-edition/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/exterior/2026-mitsubishi-outlander-power-side-mirrors.jpg",
+              "local_path": "images/mitsubishi/outlander/black-edition/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander/my26/desing/interior/2026-mitsubishi-outlander-quilted-leather-seat.jpg",
+              "local_path": "images/mitsubishi/outlander/black-edition/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.kbb.com/mitsubishi/outlander/2026/black-edition/",
+            "powertrain": "https://www.mitsubishicars.com/cars-and-suvs/outlander",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50130",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/outlander/trims"
+          },
+          "delta_from_base": null,
+          "notes": "Range-topping non-PHEV Outlander trim. Singleton trim_family per sole-trim atomic rule (is_base_trim:true + delta_from_base:null). Built on SEL spec with black-themed visual upgrades. KBB Black Edition price page used for msrp_base since dealer/press listings showed $44,790 consistently. Step-up content vs ES: S-AWC standard, black semi-aniline premium leather seating, 20-inch black alloy wheels, black exterior badges, 12-speaker Dynamic Sound Yamaha Ultimate audio, panoramic sunroof, ventilated front seats + heated rear seats + tri-zone climate."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "2026 Outlander undergoes its largest mid-cycle refresh: brand-new 1.5L turbocharged 4-cylinder with 48V mild-hybrid system replaces the prior 2.5L NA I4 (system output 174 hp/206 lb-ft per EPA + manufacturer-combined). All trims share this powertrain — RALLIART, Trail Edition, and Black Edition are styling/equipment packages, not performance variants. SE Tech Package ($37,545 FWD / $39,345 S-AWC starting) and SEL Premium Package ($42,095 starting) treated as packages per spec §6.5, not separate trims. S-AWC (Super All-Wheel Control) is optional on ES/LE/SE/SEL and standard on RALLIART, Trail Edition, and Black Edition. Black Edition is a new-for-2026 trim. Image URLs are mitsubishicars.com consumer-site page URLs flagged needs_scraping (no direct CDN/media.mitsubishicars.com asset URLs found for individual trim images). All cargo volumes and dimensions are common across trims."
+    },
+    {
+      "model": "Outlander PHEV",
+      "model_slug": "outlander-phev",
+      "model_year": 2026,
+      "body_style": "suv-3row",
+      "generation_context": "4th-gen, introduced for 2023 MY; 2026 mid-cycle refresh adds bigger 22.7 kWh battery (vs 20 kWh), 297 hp system output (vs 248 hp), 45 mi EPA all-electric range (vs 38 mi), 73 MPGe combined, plus new Black Edition trim",
+      "msrp_range": {
+        "low": 43245,
+        "high": 55440
+      },
+      "model_summary": "Mid-size 3-row compact plug-in-hybrid SUV with twin-motor AWD (S-AWC), built on the same platform as the gas Outlander. The 2026 refresh significantly upgrades the powertrain: a new 22.7 kWh lithium-ion battery boosts EPA-rated electric range to 45 miles and MPGe combined to 73; total system output rises 49 hp to 297 hp. CHAdeMO DC fast-charge support continues (10-80% in ~29 min); the Outlander PHEV is one of only two PHEVs sold in North America that uses CHAdeMO rather than CCS.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power has not published a 2026 VDS score specific to the Outlander PHEV; the brand-level 2026 Mitsubishi Quality & Reliability is rated 75/100 (Average). Consumer Reports has not yet published a predicted reliability score for the 2026 model year, in part because the new larger battery, increased system output, and updated thermal management constitute significant changes to the powertrain.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/mitsubishi/outlander-phev"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet been published as of May 2026 (the APEAL study typically publishes in July). Mitsubishi has historically scored below mass-market average in APEAL and the PHEV's low-volume status frequently leaves it outside the statistically significant ranking. Will be revisited when 2026 APEAL is released.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers credit the 2026 Outlander PHEV's increased system power, longer 45-mile electric range, and the new Black Edition's upscale interior treatment. The CHAdeMO DC fast-charge port is widely flagged as a drawback because public CHAdeMO infrastructure is shrinking in North America as the market converges on NACS/CCS. The vehicle still falls short of class-leader Toyota RAV4 Prime in some efficiency metrics but offers seven-passenger seating that most PHEV rivals do not.",
+        "links": [
+          {
+            "publication": "JD Power",
+            "url": "https://www.jdpower.com/cars/2026/mitsubishi/outlander-phev",
+            "date": "2026-04-01"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/mitsubishi/outlander-phev/",
+            "date": "2026-03-15"
+          },
+          {
+            "publication": "KBB",
+            "url": "https://www.kbb.com/mitsubishi/outlander-phev/",
+            "date": "2026-04-10"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "2026 Outlander PHEV only began arriving at US dealers in early May 2026 (research date 2026-05-13), so owner-review sample sizes are still very small. Prior-generation owner reviews are mixed: praise for genuine electric-mode driving, S-AWC AWD traction, and 7-passenger versatility; complaints about gas-mode highway efficiency and the diminishing CHAdeMO public charging network.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/mitsubishi/outlander-phev/",
+          "https://www.kbb.com/mitsubishi/outlander-phev/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "ES S-AWC",
+          "trim_slug": "es-s-awc",
+          "trim_family": "phev-es",
+          "is_base_trim": true,
+          "msrp_base": 43245,
+          "destination_fee": 1745,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "phev",
+            "engine_displacement_l": 2.4,
+            "engine_config": "I4",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 297,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": null,
+            "transmission": "single-speed (twin-motor electric + ICE)",
+            "transmission_speeds": null,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 22.7,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 45,
+            "total_range_mi": 420,
+            "dc_fast_charge_peak_kw": 50,
+            "dc_fast_charge_10_to_80_min": 29,
+            "ac_charge_kw": 7.4,
+            "mpge_combined": 73,
+            "plug_type": null
+          },
+          "fuel_economy": {
+            "city_mpg": null,
+            "highway_mpg": null,
+            "combined_mpg": 27,
+            "fuel_tank_gal": 14,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 1400
+          },
+          "performance": {
+            "zero_to_60_sec": 6.5,
+            "zero_to_60_source": "estimated",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 2000,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 185.4,
+            "width_in": 74.7,
+            "height_in": 68.7,
+            "wheelbase_in": 106.5,
+            "ground_clearance_in": 8.3,
+            "curb_weight_lb": 4795,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 10.9,
+              "behind_2nd_row": 33.5,
+              "behind_1st_row": 64.3,
+              "max_with_seats_folded": 64.3,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "235/60R18 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2026,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "8-speaker Yamaha audio",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "S-AWC (Super All-Wheel Control) twin-motor 4WD standard",
+              "Charge mode and Save mode driver-selectable",
+              "Forward Collision Mitigation with Pedestrian Detection",
+              "Blind Spot Warning with Rear Cross Traffic Alert",
+              "Lane Departure Warning + Lane Keep Assist",
+              "EV-mode priority button",
+              "Onboard 240V/J1772 + CHAdeMO DC fast-charge ports"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "5yr/60k",
+            "powertrain_yr_mi": "10yr/100k",
+            "corrosion_yr_mi": "7yr/100k",
+            "roadside_yr_mi": "5yr/unlimited",
+            "ev_battery_yr_mi": "10yr/100k",
+            "complimentary_maintenance_yr_mi": "2yr/30k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/cars-and-suvs/outlander-phev",
+              "local_path": "images/mitsubishi/outlander-phev/phev-es/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/cars-and-suvs/outlander-phev",
+              "local_path": "images/mitsubishi/outlander-phev/phev-es/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/cars/outlander-phev/2025/primary/hero/2025-PHEV-SEL-Premium-graphite.png?width=2160&quality=70&auto=webp",
+              "local_path": "images/mitsubishi/outlander-phev/phev-es/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/cars-and-suvs/outlander-phev",
+              "local_path": "images/mitsubishi/outlander-phev/phev-es/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.prnewswire.com/news-releases/2026-mitsubishi-outlander-plug-in-hybrid-mid-cycle-refresh-pricing-to-start-at-43-245--302713854.html",
+            "powertrain": "https://www.prnewswire.com/news-releases/2026-mitsubishi-outlander-plug-in-hybrid-mid-cycle-refresh-pricing-to-start-at-43-245--302713854.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50310",
+            "performance": "https://topelectricsuv.com/first-look-review/mitsubishi-outlander-phev-updated/",
+            "dimensions": "https://www.mitsubishicars.com/cars-and-suvs/outlander/specs",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/mitsubishi/outlander-4-door-suv/2026",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "features": "https://www.prnewswire.com/news-releases/2026-mitsubishi-outlander-plug-in-hybrid-mid-cycle-refresh-pricing-to-start-at-43-245--302713854.html",
+            "warranty": "https://www.mitsubishicars.com/owners/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Base trim of the 2026 Outlander PHEV. PHEV powertrain.type per spec §4 EV/PHEV rule: fuel_economy.combined_mpg is the EPA charge-sustaining (gas-only) value (27 mpg per EPA ID 50310); ev_specifics.mpge_combined is the EPA charge-depleting MPGe value (73 MPGe per EPA ID 50310). EPA does not separate gas-mode city/highway in this entry — only combined gas (27) and combined MPGe (73) are published — so fuel_economy.city_mpg and highway_mpg are set null. plug_type is null because the schema enum does not include CHAdeMO; the Outlander PHEV uses J1772 (AC L2) + CHAdeMO (DC fast) — one of only two PHEVs in North America still on CHAdeMO. NHTSA assigned a 5-star overall rating to the prior-MY Outlander PHEV; carried forward here as MY26 testing not yet published. Curb weight estimated at ~4,795 lb based on prior MY + ~85 lb battery upsize."
+        },
+        {
+          "trim": "SE S-AWC",
+          "trim_slug": "se-s-awc",
+          "trim_family": "phev-se",
+          "is_base_trim": true,
+          "msrp_base": null,
+          "destination_fee": 1745,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/45R20 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "8-speaker Yamaha audio",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "S-AWC standard",
+              "20-inch alloy wheels",
+              "MI-PILOT Assist with Navi-link Adaptive Cruise Control",
+              "Multi-View Camera System (360-degree)",
+              "Power liftgate",
+              "Heated steering wheel + power driver seat",
+              "Synthetic-leather heated seating"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/cars-and-suvs/outlander-phev",
+              "local_path": "images/mitsubishi/outlander-phev/phev-se/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/cars-and-suvs/outlander-phev",
+              "local_path": "images/mitsubishi/outlander-phev/phev-se/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/cars/outlander-phev/2025/primary/hero/2025-PHEV-SEL-Premium-graphite.png?width=2160&quality=70&auto=webp",
+              "local_path": "images/mitsubishi/outlander-phev/phev-se/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/cars-and-suvs/outlander-phev",
+              "local_path": "images/mitsubishi/outlander-phev/phev-se/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.prnewswire.com/news-releases/2026-mitsubishi-outlander-plug-in-hybrid-mid-cycle-refresh-pricing-to-start-at-43-245--302713854.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50310",
+            "features": "https://www.prnewswire.com/news-releases/2026-mitsubishi-outlander-plug-in-hybrid-mid-cycle-refresh-pricing-to-start-at-43-245--302713854.html"
+          },
+          "delta_from_base": null,
+          "notes": "Singleton trim_family per sole-trim atomic rule (is_base_trim:true + delta_from_base:null). MSRP set to null because the official Mitsubishi press release only published ES ($43,245) and Black Edition ($55,440) MSRPs at the time of research — SE and SEL pricing not published by manufacturer ('announced closer to launch'); MSRP not findable from allowed editorial sources as of 2026-05-15. Powertrain, ev_specifics, fuel_economy, performance, dimensions, safety all unchanged from PHEV ES so spec blocks null. Step-up content vs ES: 20-inch alloy wheels, MI-PILOT Assist adaptive cruise, Multi-View Camera, power liftgate, heated steering wheel, power driver seat, synthetic-leather seating."
+        },
+        {
+          "trim": "SEL S-AWC",
+          "trim_slug": "sel-s-awc",
+          "trim_family": "phev-sel",
+          "is_base_trim": true,
+          "msrp_base": null,
+          "destination_fee": 1745,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/45R20 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "12-speaker Dynamic Sound Yamaha Ultimate",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "S-AWC standard",
+              "Heated and ventilated front seats with semi-aniline leather available",
+              "Heated rear seats",
+              "Power panoramic sunroof",
+              "Tri-zone automatic climate control",
+              "8-way power driver seat with memory",
+              "Full digital driver display",
+              "12-speaker Dynamic Sound Yamaha Ultimate audio"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/cars-and-suvs/outlander-phev",
+              "local_path": "images/mitsubishi/outlander-phev/phev-sel/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/cars-and-suvs/outlander-phev",
+              "local_path": "images/mitsubishi/outlander-phev/phev-sel/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/cars/outlander-phev/2025/primary/hero/2025-PHEV-SEL-Premium-graphite.png?width=2160&quality=70&auto=webp",
+              "local_path": "images/mitsubishi/outlander-phev/phev-sel/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/cars-and-suvs/outlander-phev",
+              "local_path": "images/mitsubishi/outlander-phev/phev-sel/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.prnewswire.com/news-releases/2026-mitsubishi-outlander-plug-in-hybrid-mid-cycle-refresh-pricing-to-start-at-43-245--302713854.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50310",
+            "features": "https://www.prnewswire.com/news-releases/2026-mitsubishi-outlander-plug-in-hybrid-mid-cycle-refresh-pricing-to-start-at-43-245--302713854.html"
+          },
+          "delta_from_base": null,
+          "notes": "Singleton trim_family per sole-trim atomic rule (is_base_trim:true + delta_from_base:null). MSRP set to null because the official Mitsubishi press release only published ES ($43,245) and Black Edition ($55,440) MSRPs at the time of research — SEL pricing not published by manufacturer ('announced closer to launch'); MSRP not findable from allowed editorial sources as of 2026-05-15. Powertrain, ev_specifics, fuel_economy, performance, dimensions, safety all unchanged from PHEV ES so spec blocks null. Step-up content vs ES: leather + ventilated front seats, heated rear seats, panoramic sunroof, tri-zone climate, 8-way power driver seat with memory, full digital driver display, 12-speaker Dynamic Sound Yamaha Ultimate audio."
+        },
+        {
+          "trim": "Black Edition S-AWC",
+          "trim_slug": "black-edition-s-awc",
+          "trim_family": "phev-black-edition",
+          "is_base_trim": true,
+          "msrp_base": 55440,
+          "destination_fee": 1745,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "255/45R20 all-season (black alloy)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 12.3,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "12-speaker Dynamic Sound Yamaha Ultimate",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "New-for-2026 trim built on SEL spec",
+              "Black semi-aniline premium leather seating surfaces",
+              "20-inch black alloy wheels",
+              "Black exterior badges and trim accents",
+              "10.8-inch Head-Up Display",
+              "Digital rearview mirror",
+              "Power panoramic sunroof",
+              "Tri-zone automatic climate control",
+              "12-speaker Yamaha Ultimate audio"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/cars-and-suvs/outlander-phev",
+              "local_path": "images/mitsubishi/outlander-phev/phev-black-edition/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/cars-and-suvs/outlander-phev",
+              "local_path": "images/mitsubishi/outlander-phev/phev-black-edition/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/cars/outlander-phev/2025/primary/hero/2025-PHEV-SEL-Premium-graphite.png?width=2160&quality=70&auto=webp",
+              "local_path": "images/mitsubishi/outlander-phev/phev-black-edition/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/cars-and-suvs/outlander-phev",
+              "local_path": "images/mitsubishi/outlander-phev/phev-black-edition/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.prnewswire.com/news-releases/2026-mitsubishi-outlander-plug-in-hybrid-mid-cycle-refresh-pricing-to-start-at-43-245--302713854.html",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50310",
+            "features": "https://www.prnewswire.com/news-releases/2026-mitsubishi-outlander-plug-in-hybrid-mid-cycle-refresh-pricing-to-start-at-43-245--302713854.html"
+          },
+          "delta_from_base": null,
+          "notes": "Range-topping PHEV trim, new for 2026. Singleton trim_family per sole-trim atomic rule (is_base_trim:true + delta_from_base:null). Powertrain, ev_specifics, fuel_economy, performance, dimensions, safety all unchanged from PHEV ES so spec blocks null. Step-up content vs ES: built on SEL spec with black exterior/interior treatment, 10.8-inch HUD, semi-aniline leather, digital rearview mirror, 20-inch black wheels, panoramic sunroof, 12-speaker Yamaha Ultimate audio, ventilated front seats + heated rear seats + tri-zone climate."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "2026 Outlander PHEV mid-cycle refresh: 22.7 kWh battery (vs 20 kWh), 297 hp total system output (vs 248 hp prior), 45 mi all-electric range (vs 38 mi), 73 MPGe combined (vs 64 prior), new front fascia/lights, new Yamaha audio, redesigned center console, new Black Edition trim. EPA published only one 2026 PHEV entry (ID 50310) — all trims share these EPA values. Mitsubishi's official press release published MSRPs only for ES ($43,245) and Black Edition ($55,440); SE and SEL MSRPs not yet officially released as of 2026-05-13 (research date) — set to null per spec honesty rule. CHAdeMO DC fast-charge port unique among current US-market PHEVs (only the Outlander PHEV continues to use CHAdeMO rather than CCS1/NACS); ev_specifics.plug_type set to null because the schema enum does not include CHAdeMO. Towing rated at 2,000 lb same as gas Outlander."
+    },
+    {
+      "model": "Outlander Sport",
+      "model_slug": "outlander-sport",
+      "model_year": 2026,
+      "body_style": "suv-compact",
+      "generation_context": "3rd-gen RVR / Outlander Sport platform; in production largely unchanged since 2011 with periodic refreshes. For 2026 the lineup carries over from 2025 with the relaunch of the entry-level 'S' trim at $24,995 (which boosted the model to Mitsubishi's volume leader in Q1 2026).",
+      "msrp_range": {
+        "low": 24995,
+        "high": 29695
+      },
+      "model_summary": "Subcompact 2-row crossover SUV — Mitsubishi's longest-running and most affordable nameplate, sized below the Outlander. The 2026 lineup adds a new entry-level S trim at $24,995 (which became the brand's quarterly volume leader) plus Trail Edition and returning RALLIART variants. Standard 2.0L 148 hp 4-cylinder with CVT and standard AWC all-wheel drive on every trim; the top SEL gets a 2.4L 168 hp engine.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power has not published a 2026 VDS score specific to the Outlander Sport; brand-level 2026 Mitsubishi Quality & Reliability is rated 75/100 (Average). The platform is mature (in production since 2011) which historically correlates with established repair patterns, but Consumer Reports has not assigned a recent predicted-reliability score for the model.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/mitsubishi/outlander-sport"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet been published as of May 2026 (the APEAL study typically publishes in July). The aging Outlander Sport platform has insufficient JD Power sample size for an individual ranking. Will be revisited when 2026 APEAL is released.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers position the Outlander Sport as a budget-focused subcompact crossover competitive on price (cheapest Mitsubishi at $24,995) and warranty, with standard AWC AWD on every trim as a key differentiator. Critics consistently flag the aging interior, modest 148 hp output, droning CVT under acceleration, and dated infotainment relative to newer rivals like the Kia Seltos and Hyundai Kona. Strong value, basic feature set.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/mitsubishi/outlander-sport/",
+            "date": "2026-02-10"
+          },
+          {
+            "publication": "KBB",
+            "url": "https://www.kbb.com/mitsubishi/outlander-sport/",
+            "date": "2026-03-15"
+          },
+          {
+            "publication": "Carfax",
+            "url": "https://www.carfax.com/Research-Mitsubishi-Outlander-Sport_w520",
+            "date": "2026-04-01"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": 28,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owner sentiment is generally favorable on value, AWC traction in winter weather, and Mitsubishi warranty length; common complaints center on highway noise, slow acceleration, dated interior materials, and cramped rear cargo area vs the larger Outlander.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/mitsubishi/outlander-sport/2026/consumer-reviews/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "2.0 S",
+          "trim_slug": "s",
+          "trim_family": "s",
+          "is_base_trim": true,
+          "msrp_base": 24995,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 148,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 145,
+            "transmission": "CVT",
+            "transmission_speeds": null,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 23,
+            "highway_mpg": 29,
+            "combined_mpg": 26,
+            "fuel_tank_gal": 15.8,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2300
+          },
+          "performance": {
+            "zero_to_60_sec": null,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 171.9,
+            "width_in": 71.3,
+            "height_in": 64.8,
+            "wheelbase_in": 105.1,
+            "ground_clearance_in": 8.5,
+            "curb_weight_lb": 3120,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 21.7,
+              "behind_1st_row": 49.5,
+              "max_with_seats_folded": 49.5,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/55R18 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 4,
+            "nhtsa_rating_year": 2026,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": false,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": null,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "4-speaker audio",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "All-Wheel Control (AWC) standard",
+              "Automatic climate control",
+              "Rain-sensing wipers",
+              "LED headlights",
+              "Standard lane departure warning",
+              "8-inch Display Audio touchscreen"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "5yr/60k",
+            "powertrain_yr_mi": "10yr/100k",
+            "corrosion_yr_mi": "7yr/100k",
+            "roadside_yr_mi": "5yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "2yr/30k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/interior/2026-mitsubishi-outlander-sport-suv-front-seating.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/s/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/exterior/2026-mitsubishi-outlander-sport-suv-rear.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/s/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/performance/2026-mitsubishi-outlander-sport-suv-side-profile-driving-d.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/s/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/interior/2026-mitsubishi-outlander-sport-suv-dashboard.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/s/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.mitsubishicars.com/cars-and-suvs/outlander-sport/trims",
+            "powertrain": "https://www.mitsubishicars.com/cars-and-suvs/outlander-sport",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50128",
+            "dimensions": "https://www.mitsubishicars.com/cars-and-suvs/outlander-sport/specs",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/mitsubishi/outlander-sport-4-door-suv/2026",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/MITSUBISHI/OUTLANDER%20SPORT/SUV/AWD",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/outlander-sport/trims",
+            "warranty": "https://www.mitsubishicars.com/owners/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Base trim — new for 2026 (re-launched entry-level S; Mitsubishi reports this trim made Outlander Sport its volume leader in Q1 2026). AWC AWD standard on every Outlander Sport trim. Manufacturer destination fee for Outlander Sport is $1,495 (lower than the Outlander's $1,745). EPA fuel tank capacity (15.8 gal per ID 50128) differs from CarBuzz's listing of 16.6 gal; using EPA per spec source hierarchy. IIHS small overlap front evaluation is Acceptable (incomplete), no TSP — set iihs values to null/null."
+        },
+        {
+          "trim": "2.0 ES",
+          "trim_slug": "es",
+          "trim_family": "es",
+          "is_base_trim": true,
+          "msrp_base": 26595,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/55R18 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": null,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "4-speaker audio",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Auto-dimming rearview mirror",
+              "Automatic headlights with high beam function",
+              "Forward Collision Mitigation with Pedestrian Detection",
+              "LED fog lights",
+              "AWC standard"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/interior/2026-mitsubishi-outlander-sport-suv-front-seating.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/es/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/exterior/2026-mitsubishi-outlander-sport-suv-rear.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/es/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/performance/2026-mitsubishi-outlander-sport-suv-side-profile-driving-d.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/es/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/interior/2026-mitsubishi-outlander-sport-suv-dashboard.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/es/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.mitsubishicars.com/cars-and-suvs/outlander-sport/trims",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/outlander-sport/trims"
+          },
+          "delta_from_base": null,
+          "notes": "Singleton trim_family per sole-trim atomic rule (is_base_trim:true + delta_from_base:null). Powertrain/dimensions/EPA fuel economy unchanged from 2.0 S. Step-up content vs S: auto-dimming rearview mirror, automatic headlights with high beam function, Forward Collision Mitigation with Pedestrian Detection added (key safety upgrade), LED fog lights."
+        },
+        {
+          "trim": "2.0 LE",
+          "trim_slug": "le",
+          "trim_family": "le",
+          "is_base_trim": true,
+          "msrp_base": 27495,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/55R18 all-season (black alloy)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": null,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "4-speaker audio",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "18-inch black alloy wheels",
+              "Black seating with red accent stitching",
+              "Leather-wrapped steering wheel and parking brake",
+              "Enhanced interior trim",
+              "AWC standard"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/interior/2026-mitsubishi-outlander-sport-suv-front-seating.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/le/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/exterior/2026-mitsubishi-outlander-sport-suv-rear.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/le/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/performance/2026-mitsubishi-outlander-sport-suv-side-profile-driving-d.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/le/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/interior/2026-mitsubishi-outlander-sport-suv-dashboard.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/le/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.mitsubishicars.com/cars-and-suvs/outlander-sport/trims",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/outlander-sport/trims"
+          },
+          "delta_from_base": null,
+          "notes": "Singleton trim_family per sole-trim atomic rule (is_base_trim:true + delta_from_base:null). Powertrain/dimensions/EPA fuel economy unchanged from 2.0 S. Step-up content vs S: 18-inch black alloy wheels, black seating with red accent stitching, leather-wrapped steering wheel and parking brake, enhanced interior trim."
+        },
+        {
+          "trim": "2.0 SE",
+          "trim_slug": "se",
+          "trim_family": "se",
+          "is_base_trim": true,
+          "msrp_base": 28845,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/55R18 all-season (two-tone)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": null,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "6-speaker audio",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "18-inch two-tone wheels",
+              "6-speaker audio",
+              "Blind Spot Warning with Lane Change Assist",
+              "Soft-touch seating",
+              "Push button start",
+              "Power-folding side mirrors",
+              "AWC standard"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/interior/2026-mitsubishi-outlander-sport-suv-front-seating.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/se/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/exterior/2026-mitsubishi-outlander-sport-suv-rear.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/se/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/performance/2026-mitsubishi-outlander-sport-suv-side-profile-driving-d.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/se/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/interior/2026-mitsubishi-outlander-sport-suv-dashboard.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/se/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.mitsubishicars.com/cars-and-suvs/outlander-sport/trims",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/outlander-sport/trims"
+          },
+          "delta_from_base": null,
+          "notes": "Singleton trim_family per sole-trim atomic rule (is_base_trim:true + delta_from_base:null). Powertrain/dimensions/EPA fuel economy unchanged from 2.0 S. Step-up content vs S: 18-inch two-tone wheels, 6-speaker audio, Blind Spot Warning with Lane Change Assist, soft-touch synthetic-leather seating, heated front seats, push button start, power-folding mirrors."
+        },
+        {
+          "trim": "2.0 RALLIART",
+          "trim_slug": "ralliart",
+          "trim_family": "ralliart",
+          "is_base_trim": true,
+          "msrp_base": 29245,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/55R18 all-season (RALLIART styling)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": null,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "6-speaker audio",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "RALLIART branding on floor mats, grille, spoiler, mudflaps, side graphics",
+              "Idle start-stop switch",
+              "Forward Collision Mitigation",
+              "Blind Spot Warning",
+              "AWC standard"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/interior/2026-mitsubishi-outlander-sport-suv-front-seating.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/ralliart/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/exterior/2026-mitsubishi-outlander-sport-suv-rear.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/ralliart/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/performance/2026-mitsubishi-outlander-sport-suv-side-profile-driving-d.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/ralliart/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/interior/2026-mitsubishi-outlander-sport-suv-dashboard.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/ralliart/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.mitsubishicars.com/cars-and-suvs/outlander-sport/trims",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/outlander-sport/trims"
+          },
+          "delta_from_base": null,
+          "notes": "Singleton trim_family per sole-trim atomic rule (is_base_trim:true + delta_from_base:null). Powertrain/dimensions/EPA fuel economy unchanged from 2.0 S. RALLIART is a styling package only, not a performance trim — same 148 hp 2.0L 4-cylinder as the rest of the 2.0L lineup. Step-up content vs S: RALLIART-branded floor mats, grille, spoiler, mudflaps and side graphics; idle stop-start switch; Forward Collision Mitigation + Blind Spot Warning safety tech."
+        },
+        {
+          "trim": "2.0 Trail Edition",
+          "trim_slug": "trail-edition",
+          "trim_family": "trail-edition",
+          "is_base_trim": true,
+          "msrp_base": 29495,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/55R18 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": null,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "6-speaker audio",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Black mud flaps",
+              "Hood protector",
+              "Fender effects + side protection",
+              "Trail Package Rear and Front Protectors",
+              "Trail-themed black exterior styling",
+              "AWC standard"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/interior/2026-mitsubishi-outlander-sport-suv-front-seating.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/trail-edition/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/exterior/2026-mitsubishi-outlander-sport-suv-rear.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/trail-edition/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/performance/2026-mitsubishi-outlander-sport-suv-side-profile-driving-d.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/trail-edition/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/interior/2026-mitsubishi-outlander-sport-suv-dashboard.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/trail-edition/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.mitsubishicars.com/cars-and-suvs/outlander-sport/trims",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/outlander-sport/trims"
+          },
+          "delta_from_base": null,
+          "notes": "Singleton trim_family per sole-trim atomic rule (is_base_trim:true + delta_from_base:null). Powertrain/dimensions/EPA fuel economy unchanged from 2.0 S. Trail Edition is an appearance package — no mechanical off-road upgrades (no skid plates, no low-range, same AWC system). Step-up content vs S: black mud flaps, hood protector, fender effects, Trail Package Rear and Front Protectors, trail-themed black exterior styling, heated front seats with synthetic-leather, 6-speaker audio."
+        },
+        {
+          "trim": "2.4 SEL",
+          "trim_slug": "sel",
+          "trim_family": "sel",
+          "is_base_trim": true,
+          "msrp_base": 29695,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2.4,
+            "engine_config": "I4",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 168,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 167,
+            "transmission": "CVT",
+            "transmission_speeds": null,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 23,
+            "highway_mpg": 28,
+            "combined_mpg": 25,
+            "fuel_tank_gal": 15.8,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2400
+          },
+          "performance": {
+            "zero_to_60_sec": null,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/55R18 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": null,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "6-speaker audio",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "2.4L MIVEC DOHC 4-Cylinder engine (168 hp)",
+              "Leather-appointed seating",
+              "4-way power driver seat",
+              "Enhanced comfort features",
+              "AWC standard"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/interior/2026-mitsubishi-outlander-sport-suv-front-seating.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/sel/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/exterior/2026-mitsubishi-outlander-sport-suv-rear.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/sel/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/performance/2026-mitsubishi-outlander-sport-suv-side-profile-driving-d.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/sel/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/outlander-sport/my26/design/interior/2026-mitsubishi-outlander-sport-suv-dashboard.jpg",
+              "local_path": "images/mitsubishi/outlander-sport/sel/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.mitsubishicars.com/cars-and-suvs/outlander-sport/trims",
+            "powertrain": "https://www.mitsubishicars.com/cars-and-suvs/outlander-sport",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50129",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/outlander-sport/trims"
+          },
+          "delta_from_base": null,
+          "notes": "Top trim — sole Outlander Sport trim with the 2.4L MIVEC NA I4 (168 hp/167 lb-ft) replacing the 2.0L 148 hp engine; EPA-rated 23/28/25 city/hwy/combined per ID 50129 (vs 23/29/26 for 2.0L lineup). Different powertrain line from the 2.0L S — using separate powertrain/fuel_economy spec blocks accordingly. Singleton trim_family per sole-trim atomic rule. Step-up content vs S: 2.4L engine (vs 2.0L), leather seating, 4-way power driver seat, 6-speaker audio, heated front seats."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Aging subcompact crossover; carry-over for 2026 with relaunched entry-level 2.0 S trim ($24,995) that became Mitsubishi's volume leader in Q1 2026. AWC AWD standard on every trim. Two powertrain lines exist: 2.0L 148 hp NA I4 (S, ES, LE, SE, RALLIART, Trail Edition) and 2.4L 168 hp NA I4 (SEL only). 2.4 SEL is technically its own powertrain line — but treated as singleton trim_family with is_base_trim:true delta:null per atomic rule (consistent with the rest of the lineup approach). Mitsubishi Outlander Sport destination fee is $1,495 (vs $1,745 on Outlander/Outlander PHEV); confirmed via S 2026 list price tables. EPA fuel tank capacity 15.8 gal differs from CarBuzz/dealer literature listing 16.6 gal — used EPA value per source hierarchy. IIHS has only Acceptable small overlap front and incomplete crashworthiness ratings; no TSP awarded. NHTSA assigns 4-star overall to AWD models."
+    },
+    {
+      "model": "Eclipse Cross",
+      "model_slug": "eclipse-cross",
+      "model_year": 2026,
+      "body_style": "suv-compact",
+      "generation_context": "1st-gen Eclipse Cross facelift; in US sales since 2018 with major restyling in 2022 (longer rear, conventional taillights replacing split design). For 2026 the lineup carries over from 2025 with minimal changes — standard hood badging added on SEL and SEL Touring.",
+      "msrp_range": {
+        "low": 27695,
+        "high": 31845
+      },
+      "model_summary": "Compact 2-row crossover SUV positioned between Outlander Sport and Outlander in the Mitsubishi lineup. Every 2026 Eclipse Cross uses a 152 hp 1.5L turbocharged 4-cylinder with CVT and standard S-AWC all-wheel drive. The aging Eclipse Cross continues largely unchanged for 2026 — minimal restyling, no new powertrain, no Trail Edition (Trail Edition is only available on Outlander and Outlander Sport).",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power has not published a 2026 VDS score specific to the Eclipse Cross; brand-level 2026 Mitsubishi Quality & Reliability is rated 75/100 (Average). The platform is mature and largely unchanged since 2022, suggesting established service patterns, but Consumer Reports has not published a current-year predicted-reliability score.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/mitsubishi/eclipse-cross"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet been published as of May 2026 (the APEAL study typically publishes in July). The Eclipse Cross is low-volume and typically falls outside JD Power's statistically significant sample threshold. Will be revisited when 2026 APEAL is released.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the 2026 Eclipse Cross as competitively priced and well-equipped for the segment, with standard S-AWC AWD on every trim and Mitsubishi's exceptional 10/100 powertrain warranty as key strengths. Critics consistently note the aging design, modest 152 hp output, dated infotainment, and concerning IIHS crashworthiness deficits — Poor ratings in moderate overlap front and side crash tests significantly limit the safety story relative to the 5-star NHTSA overall rating.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/mitsubishi/eclipse-cross/",
+            "date": "2026-01-15"
+          },
+          {
+            "publication": "KBB",
+            "url": "https://www.kbb.com/mitsubishi/eclipse-cross/",
+            "date": "2026-02-20"
+          },
+          {
+            "publication": "Carfax",
+            "url": "https://www.carfax.com/Research-Mitsubishi-Eclipse-Cross_w9463",
+            "date": "2026-03-10"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owner sample sizes for the 2026 Eclipse Cross are small. Common praise: value pricing, standard AWD on every trim, Mitsubishi warranty length. Common complaints: dated infotainment, slow acceleration, cramped rear seat for adults, low resale value relative to mainstream competitors.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/mitsubishi/eclipse-cross/",
+          "https://www.kbb.com/mitsubishi/eclipse-cross/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "ES 1.5T S-AWC",
+          "trim_slug": "es",
+          "trim_family": "es",
+          "is_base_trim": true,
+          "msrp_base": 27695,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 1.5,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 152,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 184,
+            "transmission": "CVT (8-step manual mode)",
+            "transmission_speeds": null,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 25,
+            "highway_mpg": 28,
+            "combined_mpg": 26,
+            "fuel_tank_gal": 15.8,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2300
+          },
+          "performance": {
+            "zero_to_60_sec": null,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 1500,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 179,
+            "width_in": 71.1,
+            "height_in": 66.5,
+            "wheelbase_in": 105.1,
+            "ground_clearance_in": 8.5,
+            "curb_weight_lb": 3472,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 23.4,
+              "behind_1st_row": 50.1,
+              "max_with_seats_folded": 50.1,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 16,
+            "tire_spec": "215/70R16 all-season (two-tone alloy)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2026,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": null,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "6-speaker audio",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "S-AWC (Super All-Wheel Control) with Active Yaw Control standard",
+              "1.5L direct-injection turbocharged engine",
+              "Forward Collision Mitigation with Pedestrian Detection",
+              "Lane Departure Warning",
+              "8-inch Smartphone-link Display Audio",
+              "Heated front seats",
+              "16-inch two-tone alloy wheels",
+              "LED headlights and taillights"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "5yr/60k",
+            "powertrain_yr_mi": "10yr/100k",
+            "corrosion_yr_mi": "7yr/100k",
+            "roadside_yr_mi": "5yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": "2yr/30k"
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-red-front.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/es/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-red-angled-back-m.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/es/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-heated-side-mirror.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/es/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-interior-m.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/es/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.mitsubishicars.com/cars-and-suvs/eclipse-cross/trims",
+            "powertrain": "https://www.mitsubishicars.com/cars-and-suvs/eclipse-cross",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49866",
+            "dimensions": "https://www.mitsubishicars.com/cars-and-suvs/eclipse-cross/specs",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/mitsubishi/eclipse-cross-4-door-suv/2026",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/eclipse-cross/trims",
+            "warranty": "https://www.mitsubishicars.com/owners/warranty"
+          },
+          "delta_from_base": null,
+          "notes": "Base trim of Eclipse Cross. S-AWC AWD standard on every trim. EPA ID 49866 specifically lists 'ES 4WD' as 25/28/26 city/hwy/combined (a separate EPA entry from the heavier higher trims). NHTSA assigns 5-star overall to the Eclipse Cross — carries forward from prior MY (the platform/safety equipment is essentially unchanged). IIHS results are Poor in moderate overlap front and Poor in side crash test — no TSP designation; iihs_rating_year set to null since no award."
+        },
+        {
+          "trim": "LE 1.5T S-AWC",
+          "trim_slug": "le",
+          "trim_family": "le",
+          "is_base_trim": true,
+          "msrp_base": 29295,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 25,
+            "highway_mpg": 26,
+            "combined_mpg": 25,
+            "fuel_tank_gal": 15.8,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2400
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/55R18 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": null,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "6-speaker audio",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "8-inch touchscreen display",
+              "Automatic high beam",
+              "Rain-sensing wipers",
+              "S-AWC standard",
+              "18-inch alloy wheels"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-red-front.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/le/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-red-angled-back-m.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/le/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-heated-side-mirror.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/le/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-interior-m.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/le/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.mitsubishicars.com/cars-and-suvs/eclipse-cross/trims",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49865",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/eclipse-cross/trims"
+          },
+          "delta_from_base": null,
+          "notes": "Singleton trim_family per sole-trim atomic rule (is_base_trim:true + delta_from_base:null). LE upsizes wheels to 18-inch which drops EPA combined to 25 mpg (vs 26 on ES with 16-inch wheels) — using EPA ID 49865 (general Eclipse Cross 4WD entry). Step-up content vs ES: 8-inch touchscreen, automatic high beam, rain-sensing wipers, 18-inch wheels."
+        },
+        {
+          "trim": "SE 1.5T S-AWC",
+          "trim_slug": "se",
+          "trim_family": "se",
+          "is_base_trim": true,
+          "msrp_base": 30395,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 25,
+            "highway_mpg": 26,
+            "combined_mpg": 25,
+            "fuel_tank_gal": 15.8,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2400
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/55R18 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": null,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "6-speaker audio",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "8-way power driver seat",
+              "LED headlights with auto leveling",
+              "Blind Spot Warning",
+              "Synthetic suede + faux-leather interior surfaces",
+              "Push-button start",
+              "S-AWC standard"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-red-front.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/se/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-red-angled-back-m.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/se/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-heated-side-mirror.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/se/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-interior-m.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/se/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.mitsubishicars.com/cars-and-suvs/eclipse-cross/trims",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49865",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/eclipse-cross/trims"
+          },
+          "delta_from_base": null,
+          "notes": "Singleton trim_family per sole-trim atomic rule (is_base_trim:true + delta_from_base:null). 18-inch wheels — same 25/26/25 EPA as LE per ID 49865. Step-up content vs ES: 8-way power driver seat, LED auto-leveling headlights, Blind Spot Warning, synthetic-suede + faux-leather interior, push-button start. SE Pano package ($31,395) adds panoramic sunroof — treated as a package per spec §6.5."
+        },
+        {
+          "trim": "RALLIART 1.5T S-AWC",
+          "trim_slug": "ralliart",
+          "trim_family": "ralliart",
+          "is_base_trim": true,
+          "msrp_base": 31245,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 25,
+            "highway_mpg": 26,
+            "combined_mpg": 25,
+            "fuel_tank_gal": 15.8,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2400
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/55R18 all-season (RALLIART styling)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": null,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "6-speaker audio",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "RALLIART Black Mud Flaps",
+              "RALLIART Front Lower Trim",
+              "RALLIART-branded badging and accents",
+              "Blind Spot Warning",
+              "S-AWC standard"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-red-front.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/ralliart/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-red-angled-back-m.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/ralliart/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-heated-side-mirror.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/ralliart/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-interior-m.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/ralliart/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.mitsubishicars.com/cars-and-suvs/eclipse-cross/trims",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49865",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/eclipse-cross/trims"
+          },
+          "delta_from_base": null,
+          "notes": "Singleton trim_family per sole-trim atomic rule (is_base_trim:true + delta_from_base:null). RALLIART is a styling/badging package — same 152 hp 1.5L turbo as the rest of the lineup. Same 25/26/25 EPA as other 18-inch wheeled trims per ID 49865. Step-up content vs ES: RALLIART Black Mud Flaps, RALLIART Front Lower Trim, RALLIART-branded badging."
+        },
+        {
+          "trim": "Black Edition 1.5T S-AWC",
+          "trim_slug": "black-edition",
+          "trim_family": "black-edition",
+          "is_base_trim": true,
+          "msrp_base": 31545,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 25,
+            "highway_mpg": 26,
+            "combined_mpg": 25,
+            "fuel_tank_gal": 15.8,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2400
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/55R18 all-season (black alloy)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": null,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "6-speaker audio",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Black door handle trim",
+              "Black roof rails",
+              "Sport pedals",
+              "Black exterior accents",
+              "S-AWC standard"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-red-front.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/black-edition/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-red-angled-back-m.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/black-edition/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-heated-side-mirror.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/black-edition/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-interior-m.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/black-edition/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.mitsubishicars.com/cars-and-suvs/eclipse-cross/trims",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49865",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/eclipse-cross/trims"
+          },
+          "delta_from_base": null,
+          "notes": "Singleton trim_family per sole-trim atomic rule (is_base_trim:true + delta_from_base:null). Black-themed visual package built on SE spec. Same 25/26/25 EPA per ID 49865. Step-up content vs ES: black door handle trim, black roof rails, sport pedals, black exterior accents, all SE comfort/safety features."
+        },
+        {
+          "trim": "SEL 1.5T S-AWC",
+          "trim_slug": "sel",
+          "trim_family": "sel",
+          "is_base_trim": true,
+          "msrp_base": 31845,
+          "destination_fee": 1495,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 25,
+            "highway_mpg": 26,
+            "combined_mpg": 25,
+            "fuel_tank_gal": 15.8,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2400
+          },
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "225/55R18 all-season"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 8,
+            "driver_display_in": null,
+            "apple_carplay": "wired",
+            "android_auto": "wired",
+            "sound_system": "8-speaker Mitsubishi Power Sound System",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": true,
+            "remote_start": false,
+            "notable_other": [
+              "Leather seating surfaces",
+              "Heated steering wheel",
+              "8-way power passenger seat",
+              "Multi-View Camera System (360-degree)",
+              "Head-Up Display",
+              "Adaptive cruise control",
+              "Rear cross-traffic alert + rear auto-braking",
+              "S-AWC standard",
+              "Standard hood badging (new for 2026)"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-red-front.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/sel/front_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-red-angled-back-m.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/sel/rear_three_quarter.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-heated-side-mirror.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/sel/side_profile.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/cars/eclipse-cross/my26/2026-mitsubishi-eclipse-cross-interior-m.jpg",
+              "local_path": "images/mitsubishi/eclipse-cross/sel/interior_dashboard.jpg",
+              "credit": "Mitsubishi Motors North America",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.mitsubishicars.com/cars-and-suvs/eclipse-cross/trims",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49865",
+            "features": "https://www.mitsubishicars.com/cars-and-suvs/eclipse-cross/trims"
+          },
+          "delta_from_base": null,
+          "notes": "Top trim — leather, Head-Up Display, adaptive cruise, Multi-View Camera, Mitsubishi Power Sound System. Singleton trim_family per sole-trim atomic rule (is_base_trim:true + delta_from_base:null). Same 25/26/25 EPA per ID 49865. SEL Touring package ($33,695) adds panoramic sunroof and additional luxury features — treated as a package per spec §6.5. Standard hood badging is new for 2026 per the press release."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Aging compact crossover (US sales since 2018, last major restyling 2022); minimal changes for 2026 per the official press release: standard hood badging added on SEL and SEL Touring. All 2026 Eclipse Cross trims share the same 152 hp 1.5L turbocharged I4 with CVT and standard S-AWC AWD. 6 marketed trims (ES, LE, SE, RALLIART, Black Edition, SEL); SE Pano (sunroof variant of SE) and SEL Touring treated as packages per spec §6.5 rather than separate trims. Eclipse Cross destination fee is $1,495 (Mitsubishi's lower-tier vehicles destination). EPA has two 2026 entries — ID 49866 ('ES 4WD' at 25/28/26) and ID 49865 ('4WD' at 25/26/25); ES uses 16-inch wheels which yield the better 26 mpg combined, while LE/SE/RALLIART/Black Edition/SEL all use 18-inch wheels and get 25 mpg combined. NHTSA assigns 5-star overall rating; IIHS results have Poor scores in moderate overlap front and side crash tests — no TSP awarded. No Trail Edition variant for Eclipse Cross (despite Mitsubishi's general 2026 Trail Edition push across Outlander and Outlander Sport)."
+    }
+  ]
+}

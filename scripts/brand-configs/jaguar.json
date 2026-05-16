@@ -1,0 +1,11 @@
+{
+  "brand_slug": "jaguar",
+  "notes": "Jaguar US is mid-transition to EV-only. MY26 lineup is F-PACE only (final ICE model year; last F-PACE built at Solihull on 2025-12-19). Consumer-site Specifications page returns 'information unavailable' for F-PACE; Phase 1 sourced image URLs primarily from the JLR media CDN (media.production.jlrms.com). The jaguar.com/en-us 'All Models' tile listing still shows stale tiles for I-PACE/E-PACE/F-TYPE/XF but only F-PACE is bookable. media.jaguar.com is the JLR press subdomain.",
+  "model_pages": {
+    "f-pace": "https://www.jaguar.com/en-us/jdx/all-models/f-pace/models/index.html"
+  },
+  "slug_variants": {
+    "f-pace": ["f-pace", "fpace", "f_pace"]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

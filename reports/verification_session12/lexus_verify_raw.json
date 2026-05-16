@@ -1,0 +1,35 @@
+{
+  "brand": "Lexus",
+  "brand_slug": "lexus",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 11,
+  "trim_count": 54,
+  "total_images": 216,
+  "needs_scraping": 216,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 4,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "sedan base trim has null trunk_cuft",
+      "where": "es/es-350h-premium-fwd"
+    },
+    {
+      "title": "sedan base trim has null trunk_cuft",
+      "where": "es/es-350e-premium-fwd"
+    },
+    {
+      "title": "sedan base trim has null trunk_cuft",
+      "where": "es/es-500e-premium-awd"
+    },
+    {
+      "title": "PHEV base trim has null fuel_economy.combined_mpg (charge-sustaining MPG missing)",
+      "where": "tx/tx-550hplus-luxury-awd"
+    }
+  ],
+  "fyis": []
+}

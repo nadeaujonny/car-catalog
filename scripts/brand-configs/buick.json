@@ -1,0 +1,18 @@
+{
+  "brand_slug": "buick",
+  "notes": "buick.com consumer site. SUV-only brand. All models use /suvs/<model-slug> path.",
+  "model_pages": {
+    "encore-gx": "https://www.buick.com/suvs/encore-gx",
+    "envista": "https://www.buick.com/suvs/envista",
+    "envision": "https://www.buick.com/suvs/envision",
+    "enclave": "https://www.buick.com/suvs/enclave"
+  },
+  "slug_variants": {
+    "encore-gx": [
+      "encore-gx",
+      "encoregx",
+      "encore_gx"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

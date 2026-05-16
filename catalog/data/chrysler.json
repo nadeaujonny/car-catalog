@@ -1,0 +1,1050 @@
+{
+  "brand": "Chrysler",
+  "brand_slug": "chrysler",
+  "researched_at": "2026-05-15",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Pacifica",
+      "model_slug": "pacifica",
+      "model_year": 2026,
+      "body_style": "minivan",
+      "generation_context": "2nd-gen Pacifica (Stellantis RU platform, Windsor Assembly), introduced 2016 as a 2017 model; for 2026 the brand celebrates its centennial with a 100th Anniversary Edition package on Select trims",
+      "msrp_range": {
+        "low": 42465,
+        "high": 58090
+      },
+      "model_summary": "The Pacifica is Chrysler's three-row minivan, currently offered in Select, Limited, and Pinnacle trims with a 287-hp 3.6L Pentastar V6 and a 9-speed TorqueFlite automatic. Front-wheel drive is standard and all-wheel drive is a $2,995 option on every gas trim. The Plug-in Hybrid variant is catalogued separately as a distinct model.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power's 2026 US Vehicle Dependability Study did not rank Chrysler at the brand level due to insufficient sample size, and JD Power's per-model Pacifica page lists no published 2026 numeric reliability score. Consumer Reports' predicted-reliability for the 2026 Pacifica is unavailable in publicly accessible summary pages.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/chrysler/pacifica",
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Chrysler Pacifica or for the Chrysler brand overall.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/chrysler/pacifica"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently rate the 2026 Pacifica a top-tier minivan for its 287-hp Pentastar V6, segment-exclusive Stow 'n Go second- and third-row seating, available AWD (unique against Toyota Sienna and Honda Odyssey gas trims), and refined ride. Common critiques are mediocre fuel economy compared to hybrid rivals (22 MPG FWD combined vs. 36 MPG Sienna Hybrid), modest-to-marginal IIHS moderate-overlap crash performance, and infotainment quirks reported by some long-term owners.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/chrysler/pacifica/2026/",
+            "date": "2026-02-15"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/chrysler/pacifica/2026/",
+            "date": "2026-01-22"
+          },
+          {
+            "publication": "U.S. News",
+            "url": "https://cars.usnews.com/cars-trucks/chrysler/pacifica",
+            "date": "2026-03-10"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": 4,
+        "edmunds_sample_size": 36,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds owners average roughly 4 stars on a small 2026-MY sample. Owners praise roomy interior, smooth ride, Stow 'n Go versatility, and family-friendly tech; common complaints are infotainment/touchscreen reliability, transmission and cruise-control fault reports, and occasional electrical gremlins.",
+        "confidence": "medium",
+        "sources": [
+          "https://www.edmunds.com/chrysler/pacifica/2026/consumer-reviews/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Select",
+          "trim_slug": "select",
+          "trim_family": "pacifica",
+          "is_base_trim": true,
+          "msrp_base": 42465,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3.6,
+            "engine_config": "V6",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 287,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 262,
+            "transmission": "948TE TorqueFlite 9-speed automatic",
+            "transmission_speeds": 9,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 19,
+            "highway_mpg": 28,
+            "combined_mpg": 22,
+            "fuel_tank_gal": 19,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2700
+          },
+          "performance": {
+            "zero_to_60_sec": 7.3,
+            "zero_to_60_source": "motortrend",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 3600,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 204.3,
+            "width_in": 79.6,
+            "height_in": 69.9,
+            "wheelbase_in": 121.6,
+            "ground_clearance_in": 5.1,
+            "curb_weight_lb": 4521,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 32.3,
+              "behind_2nd_row": 87.5,
+              "behind_1st_row": 140.5,
+              "max_with_seats_folded": 140.5,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "235/65R17 BSW all-season (Yokohama Avid S34)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2026,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.1,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Stow 'n Go second- and third-row seating with in-floor bins",
+              "Power-sliding side doors and power liftgate",
+              "Uconnect 5 with 10.1-in. touchscreen, wireless Android Auto / Apple CarPlay, SiriusXM 360L",
+              "Three-zone automatic climate control",
+              "Adaptive cruise with Stop and Go, Blind-Spot Monitoring with Rear Cross Path, Lane Departure Warning-Plus, Pedestrian AEB standard",
+              "AWD available at +$2,995 (FWD standard)",
+              "100th Anniversary Edition package available adding Est. 1925 badging, Luster Gray polished wheels, Safety Sphere Group (front parking assist + 360 camera) for $1,925"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_001PFv4u5t8qsiqm3387n5njop5b7bj__mid.jpg",
+              "local_path": "images/chrysler/pacifica/pacifica/front_three_quarter.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_004PFdrl99e6ev5gl84ikmqhkahrsac__mid.jpg",
+              "local_path": "images/chrysler/pacifica/pacifica/rear_three_quarter.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_002PFuf2d1iamc9q4fr2amqo0qtono2__mid.jpg",
+              "local_path": "images/chrysler/pacifica/pacifica/side_profile.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_037PF8hk3nl0po0brmclojva02da9fg__mid.jpg",
+              "local_path": "images/chrysler/pacifica/pacifica/interior_dashboard.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27056&mid=722",
+            "destination_fee": "https://www.edmunds.com/chrysler/pacifica/2026/",
+            "powertrain": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27041",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49434",
+            "performance.zero_to_60_sec": "https://www.motortrend.com/cars/chrysler/pacifica/2026/",
+            "dimensions": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27041",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/chrysler/pacifica-minivan/2026",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27040",
+            "warranty": "https://www.chrysler.com/warranty.html"
+          },
+          "delta_from_base": null,
+          "notes": "Base trim of the Pacifica gas powertrain line. Stellantis published launch MSRP $42,465 in the June 2025 press kit. The 100th Anniversary Edition is treated as a $1,925 package on Select per spec §6.5 (not a separate trim). AWD is a +$2,995 driveline option, not a separate trim, since Chrysler markets it as a per-trim option rather than a selectable line. Towing capacity per spec sheet is 3,600 lb when equipped with Trailer-tow Group (Limited/Pinnacle only); Select is non-tow-capable from the factory without the package."
+        },
+        {
+          "trim": "Limited",
+          "trim_slug": "limited",
+          "trim_family": "pacifica",
+          "is_base_trim": false,
+          "msrp_base": 49605,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "245/60R18 BSW all-season self-sealing (Pirelli)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 10.1,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Alpine 13-speaker premium audio",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Hands-free power-sliding doors and hands-free power liftgate",
+              "Heated second-row captain's chairs",
+              "Dual-pane panoramic sunroof standard",
+              "Premium Nappa leather seating",
+              "Uconnect 5 NAV with 10.1-in. display, navigation",
+              "Stow 'n Vac integrated vacuum (packaged with Uconnect Theater Family Group)",
+              "Trailer-tow Group available (3,600-lb towing)",
+              "AWD available at +$2,995"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_031PFr401ml0n8ddbbvkhl71cmu1636__mid.jpg",
+              "local_path": "images/chrysler/pacifica/pacifica/limited-front_three_quarter.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_033PFb4qnghqoskr8644tg6fko18dbo__mid.jpg",
+              "local_path": "images/chrysler/pacifica/pacifica/limited-rear_three_quarter.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_029PFa9gph0of28jrj8e7ic97doipma__mid.jpg",
+              "local_path": "images/chrysler/pacifica/pacifica/limited-side_profile.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_034PF40a6ro5cistoe9nqpv986tb3av__mid.jpg",
+              "local_path": "images/chrysler/pacifica/pacifica/limited-interior_dashboard.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.edmunds.com/chrysler/pacifica/2026/st-402090259/features-specs/",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27040"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "select",
+            "msrp_delta_usd": 7140,
+            "changes": [
+              "Adds dual-pane panoramic sunroof (standard, vs. optional on Select)",
+              "Adds hands-free power-sliding doors and hands-free power liftgate",
+              "Adds premium Nappa leather seating with ventilated front seats and heated second-row seats",
+              "Adds Alpine 13-speaker premium audio (vs. 6-speaker on Select)",
+              "Adds Uconnect 5 NAV with TomTom navigation, footwell courtesy lamps and rear ambient lighting",
+              "Adds 18-in. polished aluminum wheels with 245/60R18 self-sealing tires (vs. 17-in. on Select)",
+              "Adds 8-way power front passenger seat with Stow 'n Assist",
+              "Trailer-tow Group available (enables 3,600-lb towing); Stow 'n Vac available via Uconnect Theater Family Group"
+            ]
+          },
+          "notes": "Mid-level Pacifica gas trim. msrp_base per Edmunds 2026 trim-specific pricing page ($49,605 base MSRP, $52,950 AWD). Stellantis press releases for 2026 published only Select and 100th Anniversary launch prices. Spec blocks (powertrain, fuel_economy, performance, dimensions, safety, warranty) are null because they match the Select base trim. AWD is +$2,995 (Edmunds shows $52,950 AWD - $49,605 FWD = $3,345 differential including some Limited-AWD-specific content)."
+        },
+        {
+          "trim": "Pinnacle",
+          "trim_slug": "pinnacle",
+          "trim_family": "pacifica",
+          "is_base_trim": false,
+          "msrp_base": 58090,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": null,
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/50R20 BSW all-season self-sealing (Pirelli)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 10.1,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon 19-speaker with 10-in. subwoofer",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Premium quilted sepia Nappa leather seats with second-row lumbar pillows",
+              "Second-row captain's chairs (no Stow 'n Go in second row)",
+              "Third-row power-folding Stow 'n Go bench",
+              "Integrated Ultra console with wireless charging",
+              "Hands-free power-sliding doors, hands-free power liftgate, second- and third-row retractable shades",
+              "Uconnect 5 NAV with 10.1-in. touchscreen + Chrysler Connect, SiriusXM 360L, Maps OTA",
+              "Standard Safety Sphere Group (360-degree camera + front park assist with stop)",
+              "Trailer-tow Group available (3,600-lb towing); Uconnect Theater Family Group available with Amazon Fire TV seatback screens and Stow 'n Vac",
+              "AWD available at +$2,995"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_018PFkjiu621140bsop23t2q50m27eu__mid.jpg",
+              "local_path": "images/chrysler/pacifica/pacifica/pinnacle-front_three_quarter.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_020PF4862p3i387c6ma8oklaa2bn76p__mid.jpg",
+              "local_path": "images/chrysler/pacifica/pacifica/pinnacle-rear_three_quarter.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_019PF2ca3ffo27rbc2otl7a3ioftaoo__mid.jpg",
+              "local_path": "images/chrysler/pacifica/pacifica/pinnacle-side_profile.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_024PFr0g4etgf3g9ac7r7pths3nlh41__mid.jpg",
+              "local_path": "images/chrysler/pacifica/pacifica/pinnacle-interior_dashboard.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.kbb.com/chrysler/pacifica/2026/pinnacle/",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27040"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "select",
+            "msrp_delta_usd": 15625,
+            "changes": [
+              "Adds premium quilted sepia Nappa leather seating with second-row lumbar pillows (vs. Caprice leatherette on Select)",
+              "Swaps second-row Stow 'n Go bins for second-row captain's chairs; third-row gains power-folding stow operation",
+              "Adds Harman Kardon 19-speaker premium audio with 10-in. subwoofer (vs. 6-speaker on Select)",
+              "Adds dual-pane panoramic sunroof, hands-free power-sliding doors and liftgate",
+              "Adds standard 360-degree surround-view camera, Safety Sphere Group, integrated Ultra console with wireless charging",
+              "Adds 20-in. polished aluminum wheels with 245/50R20 self-sealing tires (vs. 17-in. on Select)",
+              "Adds Uconnect 5 NAV with TomTom navigation, footwell courtesy lamps, rear ambient lighting, second- and third-row retractable shades, illuminated map pocket",
+              "Trailer-tow Group available (3,600-lb towing); Uconnect Theater Family Group available with Amazon Fire TV seatback screens"
+            ]
+          },
+          "notes": "Top gas trim. msrp_base per KBB 2026 Pinnacle pricing page ($58,090 FWD). Stellantis published only Select and 100th Anniversary MSRPs in 2026 press materials. Spec blocks (powertrain/fuel_economy/performance/dimensions/safety/warranty) match Select base. AWD is +$2,995."
+        }
+      ],
+      "researched_at": "2026-05-15",
+      "notes": "Pacifica gas powertrain line. The 100th Anniversary Edition is a $1,925 package on Select (per Stellantis press kit and feature-availability PDF), not a separate trim per spec §6.5. AWD ($2,995) is a per-trim driveline option, not a separate trim line, since Chrysler markets it as an option on the build-and-price tool rather than as a selectable trim line. EPA fuel economy IDs verified individually: 49434 (FWD). IIHS scored 2026 Pacifica with Good small-overlap (driver+passenger) but Marginal moderate-overlap front, Acceptable side, Acceptable headlights — no Top Safety Pick designation. NHTSA gave the 2026 Pacifica 5-star overall (5/5 front, 5/5 side, 4/5 rollover). All 4 required image angles are direct-asset URLs to the Stellantis press CDN at s3.amazonaws.com/chryslermedia.iconicweb.com — verified extension .jpg."
+    },
+    {
+      "model": "Pacifica Hybrid",
+      "model_slug": "pacifica-hybrid",
+      "model_year": 2026,
+      "body_style": "minivan",
+      "generation_context": "2nd-gen Pacifica PHEV powertrain line on the same Stellantis RU platform as the gas Pacifica; PHEV launched alongside the original 2017 MY. For 2026 Chrysler offers it in Select and Pinnacle trims only (no Limited PHEV per official Feature Availability PDF).",
+      "msrp_range": {
+        "low": 51070,
+        "high": 60465
+      },
+      "model_summary": "The Pacifica Plug-in Hybrid is the PHEV variant of the Chrysler Pacifica minivan, combining a 3.6L Atkinson-cycle Pentastar V6 with two electric motors and a 16-kWh lithium-ion battery for 32 miles of EPA all-electric range and 82 MPGe combined. It is FWD-only and forgoes Stow 'n Go second-row seating (the battery occupies the under-floor space). For 2026 Chrysler offers Plug-in Hybrid Select and Plug-in Hybrid Pinnacle trims.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power has not published a 2026 numeric reliability score for the Pacifica Plug-in Hybrid; Chrysler brand sample falls below JD Power's inclusion threshold for the 2026 VDS. Consumer Reports does not publish a 2026 predicted-reliability score in publicly accessible summaries.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/chrysler/pacifica",
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Chrysler Pacifica Hybrid or for the Chrysler brand overall.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/chrysler/pacifica"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently rate the Pacifica Plug-in Hybrid as the only PHEV minivan sold in the US, praising its 32-mile electric range, 82 MPGe combined rating, and the ability to do daily commuting on battery alone. Critiques: loss of second-row Stow 'n Go (battery is under the floor), heavier curb weight (~5,010 lb vs. 4,521 lb gas FWD), FWD-only (no AWD option), and price premium of ~$8,600 over the gas Select.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/chrysler/pacifica/2026/plug-in-hybrid/",
+            "date": "2026-02-20"
+          },
+          {
+            "publication": "MotorTrend",
+            "url": "https://www.motortrend.com/cars/chrysler/pacifica/2026/",
+            "date": "2026-01-22"
+          },
+          {
+            "publication": "U.S. News",
+            "url": "https://cars.usnews.com/cars-trucks/chrysler/pacifica",
+            "date": "2026-03-10"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Public Edmunds and KBB owner-review aggregates for the 2026 Pacifica Plug-in Hybrid have limited 2026-MY sample. Historical (2021-2025) owner sentiment praises electric daily-commute capability and fuel savings; common complaints are sliding-door electrical issues, infotainment quirks, and loss of Stow 'n Go versatility.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/chrysler/pacifica/2026/plug-in-hybrid/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Plug-in Hybrid Select",
+          "trim_slug": "plug-in-hybrid-select",
+          "trim_family": "pacifica-hybrid",
+          "is_base_trim": true,
+          "msrp_base": 51070,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "phev",
+            "engine_displacement_l": 3.6,
+            "engine_config": "V6",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 260,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": null,
+            "transmission": "eFlite electrically variable transmission",
+            "transmission_speeds": null,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 16,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 32,
+            "total_range_mi": 520,
+            "dc_fast_charge_peak_kw": null,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": 6.6,
+            "mpge_combined": 82,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 30,
+            "highway_mpg": 30,
+            "combined_mpg": 30,
+            "fuel_tank_gal": 16.5,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 1350
+          },
+          "performance": {
+            "zero_to_60_sec": 7.8,
+            "zero_to_60_source": "motortrend",
+            "top_speed_mph": null,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 204.3,
+            "width_in": 79.6,
+            "height_in": 69.9,
+            "wheelbase_in": 121.6,
+            "ground_clearance_in": 5.1,
+            "curb_weight_lb": 5010,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 32.3,
+              "behind_2nd_row": 87.5,
+              "behind_1st_row": 140.5,
+              "max_with_seats_folded": 140.5,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "235/65R17 BSW all-season (Yokohama Avid S34)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2026,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.1,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "none",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Second-row captain's chairs standard (no Stow 'n Go; battery occupies under-floor space)",
+              "Third-row Stow 'n Go bench retained",
+              "Power-sliding side doors, power liftgate",
+              "Uconnect 5 with 10.1-in. touchscreen, wireless Android Auto/CarPlay",
+              "Adaptive cruise with Stop and Go, Blind-Spot Monitoring with Rear Cross Path, Lane Departure Warning-Plus, Pedestrian AEB standard",
+              "16-kWh, 96-cell Li-ion battery at 360-volt nominal; 6.6-kW onboard AC charger (Level 2 ~2 hours at 240V)",
+              "100th Anniversary Edition package available (+$1,495 over Select PHEV)",
+              "FWD only — AWD not available on PHEV"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": "10yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_005PFj1n06btea7kqfj8qkoomsgfucp__mid.jpg",
+              "local_path": "images/chrysler/pacifica-hybrid/pacifica-hybrid/select-front_three_quarter.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_007PF5cpr4441l8tp8erntu8u82dhtd__mid.jpg",
+              "local_path": "images/chrysler/pacifica-hybrid/pacifica-hybrid/select-rear_three_quarter.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_006PFbr3gd6vqbej04uares8seoprib__mid.jpg",
+              "local_path": "images/chrysler/pacifica-hybrid/pacifica-hybrid/select-side_profile.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_036PFr4io6m7iku4o9iv2ucvil7iuva__mid.jpg",
+              "local_path": "images/chrysler/pacifica-hybrid/pacifica-hybrid/select-interior_dashboard.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27056&mid=722",
+            "destination_fee": "https://www.edmunds.com/chrysler/pacifica/2026/plug-in-hybrid/",
+            "powertrain": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27042",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49762",
+            "performance.zero_to_60_sec": "https://www.motortrend.com/cars/chrysler/pacifica/2026/",
+            "dimensions": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27042",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/chrysler/pacifica-minivan/2026",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27040",
+            "warranty": "https://www.chrysler.com/warranty.html"
+          },
+          "delta_from_base": null,
+          "notes": "Base trim of the Pacifica PHEV powertrain line. Per spec §6.2 multi-powertrain rule, each powertrain line has its own base trim — this is the PHEV-line base. EPA fueleconomy.gov ID 49762 verified individually as 2026 Chrysler Pacifica Hybrid. Total system power 260 hp combined (Motor A 84 hp + Motor B 114 hp + Atkinson V6); Chrysler does not separately publish a combined system torque figure. CCS1 plug type per Stellantis spec; DC fast charging not supported on Pacifica PHEV. EV battery warranty 10yr/100k is the federal-mandated minimum for PHEV high-voltage battery components."
+        },
+        {
+          "trim": "Plug-in Hybrid Pinnacle",
+          "trim_slug": "plug-in-hybrid-pinnacle",
+          "trim_family": "pacifica-hybrid",
+          "is_base_trim": false,
+          "msrp_base": 60465,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": null,
+          "ev_specifics": null,
+          "fuel_economy": null,
+          "performance": null,
+          "dimensions": {
+            "length_in": 204.3,
+            "width_in": 79.6,
+            "height_in": 69.9,
+            "wheelbase_in": 121.6,
+            "ground_clearance_in": 5.1,
+            "curb_weight_lb": 5010,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 32.3,
+              "behind_2nd_row": 87.5,
+              "behind_1st_row": 140.5,
+              "max_with_seats_folded": 140.5,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 18,
+            "tire_spec": "235/60R18 BSW all-season (Michelin Premier or Nexen N'Priz RH7)"
+          },
+          "safety": null,
+          "features": {
+            "infotainment_screen_in": 10.1,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "Harman Kardon 20-speaker premium audio",
+            "sunroof": "panoramic",
+            "seat_material": "nappa_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Premium quilted sepia Nappa leather seating with second-row lumbar pillows",
+              "Second-row captain's chairs (PHEV does not offer second-row Stow 'n Go regardless of trim)",
+              "Third-row Stow 'n Go bench (manual fold; power-fold third-row is gas Pinnacle only)",
+              "Integrated Ultra console with wireless charging",
+              "Hands-free power-sliding doors, hands-free power liftgate, second- and third-row retractable shades",
+              "Uconnect 5 NAV with 10.1-in. touchscreen, navigation, Chrysler Connect, SiriusXM 360L",
+              "Standard Safety Sphere Group (360-degree camera + front park assist with stop)",
+              "Heavy-duty PHEV suspension; FWD-only (AWD not offered on PHEV)"
+            ]
+          },
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_021PFhedemfatgpigmskbmeamt5hcsn__mid.jpg",
+              "local_path": "images/chrysler/pacifica-hybrid/pacifica-hybrid/pinnacle-front_three_quarter.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_022PF6tmtngol7qnh7ucm3loppc8hpp__mid.jpg",
+              "local_path": "images/chrysler/pacifica-hybrid/pacifica-hybrid/pinnacle-rear_three_quarter.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_015PF7d1i22maar7kuag5a85qu1gf70__mid.jpg",
+              "local_path": "images/chrysler/pacifica-hybrid/pacifica-hybrid/pinnacle-side_profile.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH026_025PFtstipen2ek0a15slljm7lsvjel__mid.jpg",
+              "local_path": "images/chrysler/pacifica-hybrid/pacifica-hybrid/pinnacle-interior_dashboard.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.edmunds.com/chrysler/pacifica/2026/plug-in-hybrid/",
+            "dimensions": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27042",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27040"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "plug-in-hybrid-select",
+            "msrp_delta_usd": 9395,
+            "changes": [
+              "Adds premium quilted sepia Nappa leather with second-row lumbar pillows (vs. Caprice leatherette on Select)",
+              "Adds Harman Kardon 20-speaker premium audio (vs. 6-speaker on Select)",
+              "Adds dual-pane panoramic sunroof, hands-free power-sliding doors, hands-free power liftgate",
+              "Adds standard 360-degree surround-view camera and Safety Sphere Group (front park assist with stop)",
+              "Adds integrated Ultra console with wireless charging, ventilated front seats",
+              "Adds 18-in. polished aluminum wheels with Baltic Gray pockets and 235/60R18 tires (vs. 17-in. on Select)",
+              "Adds Uconnect 5 NAV with TomTom navigation, rear ambient lighting, second- and third-row retractable shades, illuminated map pocket",
+              "Uconnect Theater Family Group with Amazon Fire TV seatback screens available as option"
+            ]
+          },
+          "notes": "Top PHEV trim. msrp_base per Edmunds 2026 Pacifica Plug-in Hybrid pricing page ($60,465 base MSRP). Stellantis 2026 press kit published only the Select PHEV and 100th Anniversary PHEV launch MSRPs. Spec blocks powertrain/fuel_economy/performance/safety/warranty match the Select PHEV base; dimensions retained because curb weight slightly differs from gas Pacifica. PHEV is FWD-only (Pacifica PHEV does not offer AWD). The 'Select Premium PHEV' trim quoted by some aggregators does not appear in the Stellantis Feature Availability PDF and is treated as an option-package configuration rather than a separate trim."
+        }
+      ],
+      "researched_at": "2026-05-15",
+      "notes": "Pacifica Plug-in Hybrid is catalogued as a separate model from the gas Pacifica per spec §6.2 — its powertrain line is structurally distinct (Atkinson-cycle 3.6L V6 + dual electric motors with 16-kWh battery and electrically variable transmission, vs. standard 3.6L Pentastar V6 with 9-speed automatic in the gas Pacifica). For 2026 the PHEV is offered in two trims (Plug-in Hybrid Select and Plug-in Hybrid Pinnacle) per the official Feature Availability PDF; the Limited trim is gas-only for 2026. The 100th Anniversary Edition PHEV is treated as a $1,495 package on the Select PHEV per spec §6.5 (not a separate trim). EPA fueleconomy.gov ID 49762 verified individually as 2026 Chrysler Pacifica Hybrid: 82 MPGe combined, 32 mi all-electric range, 520 mi total range, 30 MPG charge-sustaining. Per spec §3.6 PHEV handling, city/highway/combined_mpg are populated with the gasoline-mode 30/30/30 (the same combined number EPA publishes for charge-sustaining operation; city and highway not separately broken out on EPA's PHEV summary page), and the 82 MPGe charge-depleting figure is in ev_specifics.mpge_combined. PHEV is FWD-only — no AWD option. NHTSA and IIHS ratings carry from the Pacifica platform (5-star NHTSA overall; Marginal IIHS moderate-overlap, no TSP)."
+    },
+    {
+      "model": "Voyager",
+      "model_slug": "voyager",
+      "model_year": 2026,
+      "body_style": "minivan",
+      "generation_context": "Reintroduced for 2025 as the entry-level Stellantis RU-platform minivan sharing the gas Pacifica's body, chassis, and powertrain; sold only as a single LX trim",
+      "msrp_range": {
+        "low": 39995,
+        "high": 39995
+      },
+      "model_summary": "The Voyager is Chrysler's budget-friendly minivan, re-introduced for 2025 MY and continuing as a 2026 model in a single LX trim. It shares the gas Pacifica's body, 287-hp 3.6L Pentastar V6, and 9-speed automatic, but at a lower price point with simpler equipment. FWD only.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power has not published a separate 2026 Voyager reliability score; the model shares mechanicals with the Pacifica and inherits the same Chrysler-brand-level absence from the 2026 VDS due to sample size. Consumer Reports does not publish a 2026 predicted-reliability number in publicly accessible summaries.",
+        "confidence": "low",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "The JD Power 2026 US APEAL Study has not yet been published as of 2026-05-15 (scheduled release: July 21, 2026). No 2026 APEAL data exists yet for the Chrysler Voyager or for the Chrysler brand overall.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/cars/2026/chrysler/voyager"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers position the 2026 Voyager as the segment's value pick — a Pacifica-bodied minivan with the same 287-hp V6 and Stow 'n Go seating at a much lower starting price. Praise focuses on a sub-$40k entry MSRP, V6 power that out-pulls 4-cyl rivals, and standard heated front seats and wireless smartphone integration; critiques are halogen reflector headlamps (IIHS rates them Poor), no panoramic roof or leather option, and FWD-only without an AWD upgrade path.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/chrysler/voyager/",
+            "date": "2026-02-05"
+          },
+          {
+            "publication": "U.S. News",
+            "url": "https://cars.usnews.com/cars-trucks/chrysler/voyager",
+            "date": "2026-03-12"
+          },
+          {
+            "publication": "Kelley Blue Book",
+            "url": "https://www.kbb.com/chrysler/voyager/",
+            "date": "2026-02-18"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Voyager owner-review aggregates are still thin for 2026 MY because the model was just reintroduced for 2025. Historical 2020-2022 Voyager owners praised value and Pacifica-derived ride quality; complaints centered on infotainment and noted equipment gaps relative to the Pacifica.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/chrysler/voyager/",
+          "https://www.kbb.com/chrysler/voyager/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "LX",
+          "trim_slug": "lx",
+          "trim_family": "lx",
+          "is_base_trim": true,
+          "msrp_base": 39995,
+          "destination_fee": 1995,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3.6,
+            "engine_config": "V6",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 287,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 262,
+            "transmission": "948TE TorqueFlite 9-speed automatic",
+            "transmission_speeds": 9,
+            "drivetrain": "FWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 19,
+            "highway_mpg": 28,
+            "combined_mpg": 22,
+            "fuel_tank_gal": 19,
+            "fuel_type_required": "regular",
+            "epa_annual_fuel_cost_usd": 2700
+          },
+          "performance": {
+            "zero_to_60_sec": 7.3,
+            "zero_to_60_source": "motortrend",
+            "top_speed_mph": null,
+            "towing_capacity_lb": 3600,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 204.3,
+            "width_in": 79.6,
+            "height_in": 69.9,
+            "wheelbase_in": 121.6,
+            "ground_clearance_in": 5.1,
+            "curb_weight_lb": 4521,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": 32.3,
+              "behind_2nd_row": 87.5,
+              "behind_1st_row": 140.5,
+              "max_with_seats_folded": 140.5,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 7,
+            "rows": 3
+          },
+          "wheels_tires": {
+            "wheel_size_in": 17,
+            "tire_spec": "235/65R17 BSW all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": 5,
+            "nhtsa_rating_year": 2026,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": 2026,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.1,
+            "driver_display_in": 7,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "6-speaker",
+            "sunroof": "none",
+            "seat_material": "cloth",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Second- and third-row Stow 'n Go seating with in-floor storage bins",
+              "Power-sliding side doors and power liftgate standard",
+              "10.1-inch Uconnect 5 touchscreen with wireless Android Auto / Apple CarPlay",
+              "Active noise cancellation",
+              "Adaptive cruise control standard",
+              "Blind-Spot Monitoring with Rear Cross Path detection",
+              "Seven airbags including side-curtain for all three rows",
+              "ParkView rear backup camera with rear park assist",
+              "FWD only — Voyager LX does not offer AWD"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "5yr/60k",
+            "corrosion_yr_mi": "5yr/unlimited",
+            "roadside_yr_mi": "5yr/60k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH025_050PFkdbfrndndlo6aicchdmvcqtl8c__mid.jpg",
+              "local_path": "images/chrysler/voyager/lx/front_three_quarter.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH025_053PF8o07junr5g7cj73g1vf02ec847__mid.jpg",
+              "local_path": "images/chrysler/voyager/lx/rear_three_quarter.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH025_052PFukdot9mne45p0v179ob4d01o4s__mid.jpg",
+              "local_path": "images/chrysler/voyager/lx/side_profile.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/libraryImages/CH025_017PFpj92licnjacq5bbtddbbetp045__mid.jpg",
+              "local_path": "images/chrysler/voyager/lx/interior_dashboard.jpg",
+              "credit": "Stellantis North America / Chrysler",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26177",
+            "destination_fee": "https://www.edmunds.com/chrysler/voyager/",
+            "powertrain": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26223&mid=3",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49435",
+            "performance.zero_to_60_sec": "https://www.motortrend.com/cars/chrysler/pacifica/2026/",
+            "dimensions": "https://media.stellantisnorthamerica.com/newsrelease.do?id=27041",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings/vehicle/chrysler/voyager-minivan/2026",
+            "features": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26223&mid=3",
+            "warranty": "https://www.chrysler.com/warranty.html"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim Voyager LX — per spec §6.2 sole-trim atomic rule, this is is_base_trim:true with delta_from_base:null. Stellantis published the 2025 MY MSRP at $39,995 in September 2024 and Edmunds/KBB carry that as the 2026 LX starting MSRP into Q2 2026 (Stellantis has not separately announced a 2026 MY price change). The Voyager shares the Pacifica body, dimensions, engine, transmission, and EPA fuel economy ratings — dimensions/EPA cite the Pacifica spec PDF and the dedicated Voyager EPA ID (49435). IIHS rates Voyager headlights Poor (halogen reflectors are standard and only equipment — no LED upgrade path on LX), so no TSP designation. NHTSA gives 5-star overall."
+        }
+      ],
+      "researched_at": "2026-05-15",
+      "notes": "Voyager is a single-model, single-trim entry-level minivan that shares the Pacifica's body and powertrain. Per spec §6.4 it is its own model (not a Pacifica trim) because Chrysler markets it on a separate consumer page (chrysler.com/voyager.html) and assigns it a distinct nameplate. Per spec §6.2 sole-trim atomic rule, the LX is is_base_trim:true with delta_from_base:null. EPA fueleconomy.gov ID 49435 verified individually as 2026 Chrysler Voyager (separate from Pacifica's 49434). IIHS 2026 rating: Good small overlap (driver + passenger), Acceptable side, Poor headlights, Acceptable pedestrian — no Top Safety Pick due to headlights. NHTSA gave 5-star overall."
+    }
+  ]
+}

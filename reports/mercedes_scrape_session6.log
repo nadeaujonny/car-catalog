@@ -1,0 +1,112 @@
+Reset 317 image entries with needs_scraping:true to their model page URLs.
+Brand: mercedes-benz
+Models in JSON: 25
+Models with page URLs: 25
+Playwright fallback: enabled
+
+Scraping 25 model pages…
+
+  fetch https://www.mbusa.com/en/vehicles/class/cla/sedan  …  static ok (58 raw, 25 slug-matching)
+  fetch https://www.mbusa.com/en/vehicles/class/c-class/sedan  …  static ok (62 raw, 29 slug-matching)
+  fetch https://www.mbusa.com/en/vehicles/class/cle/coupe  …  static ok (62 raw, 29 slug-matching)
+  fetch https://www.mbusa.com/en/vehicles/class/cle/cabriolet  …  static ok (62 raw, 28 slug-matching)
+  fetch https://www.mbusa.com/en/vehicles/class/e-class/sedan  …  static ok (57 raw, 23 slug-matching)
+  fetch https://www.mbusa.com/en/vehicles/class/e-class/wagon  …  static ok (62 raw, 29 slug-matching)
+  fetch https://www.mbusa.com/en/vehicles/class/s-class/sedan  …  static ok (56 raw, 22 slug-matching)
+  fetch https://www.mbusa.com/en/vehicles/class/maybach-s-class/sedan  …  static ok (22 raw, 1 slug-matching)
+    playwright https://www.mbusa.com/en/vehicles/class/maybach-s-class/sedan  …  ok (114 raw candidates)
+  fetch https://www.mbusa.com/en/vehicles/class/amg-gt-2-door/mercedes-amg-gt-2-door-coupe  …  static ok (38 raw, 0 slug-matching)
+    playwright https://www.mbusa.com/en/vehicles/class/amg-gt-2-door/mercedes-amg-gt-2-door-coupe  …  ok (155 raw candidates)
+  fetch https://www.mbusa.com/en/vehicles/class/amg-gt-4-door/mercedes-amg-gt-4-door-coupe  …  static ok (28 raw, 2 slug-matching)
+    playwright https://www.mbusa.com/en/vehicles/class/amg-gt-4-door/mercedes-amg-gt-4-door-coupe  …  ok (80 raw candidates)
+  fetch https://www.mbusa.com/en/vehicles/class/sl/roadster  …  static ok (28 raw, 0 slug-matching)
+    playwright https://www.mbusa.com/en/vehicles/class/sl/roadster  …  ok (143 raw candidates)
+  fetch https://www.mbusa.com/en/vehicles/class/gla/suv  …  static ok (22 raw, 0 slug-matching)
+    playwright https://www.mbusa.com/en/vehicles/class/gla/suv  …  ok (106 raw candidates)
+  fetch https://www.mbusa.com/en/vehicles/class/glb/suv  …  static ok (25 raw, 0 slug-matching)
+    playwright https://www.mbusa.com/en/vehicles/class/glb/suv  …  ok (107 raw candidates)
+  fetch https://www.mbusa.com/en/vehicles/class/glc/suv  …  static ok (57 raw, 23 slug-matching)
+  fetch https://www.mbusa.com/en/vehicles/class/glc/coupe  …  static ok (55 raw, 23 slug-matching)
+  fetch https://www.mbusa.com/en/vehicles/class/gle/suv  …  static ok (59 raw, 23 slug-matching)
+  fetch https://www.mbusa.com/en/vehicles/class/gle/coupe  …  static ok (53 raw, 21 slug-matching)
+  fetch https://www.mbusa.com/en/vehicles/class/gls/suv  …  static ok (56 raw, 23 slug-matching)
+  fetch https://www.mbusa.com/en/vehicles/class/maybach-gls/suv  …  static ok (4 raw, 0 slug-matching)
+    playwright https://www.mbusa.com/en/vehicles/class/maybach-gls/suv  …  ok (68 raw candidates)
+  fetch https://www.mbusa.com/en/vehicles/class/g-class/suv  …  static ok (56 raw, 23 slug-matching)
+  fetch https://www.mbusa.com/en/vehicles/class/eqe/sedan  …  static ok (13 raw, 0 slug-matching)
+    playwright https://www.mbusa.com/en/vehicles/class/eqe/sedan  …  ok (99 raw candidates)
+  fetch https://www.mbusa.com/en/vehicles/class/eqe/suv  …  static ok (11 raw, 0 slug-matching)
+    playwright https://www.mbusa.com/en/vehicles/class/eqe/suv  …  ok (97 raw candidates)
+  fetch https://www.mbusa.com/en/vehicles/class/eqs/sedan  …  static ok (13 raw, 0 slug-matching)
+    playwright https://www.mbusa.com/en/vehicles/class/eqs/sedan  …  ok (102 raw candidates)
+  fetch https://www.mbusa.com/en/vehicles/class/eqs/suv  …  static ok (13 raw, 0 slug-matching)
+    playwright https://www.mbusa.com/en/vehicles/class/eqs/suv  …  ok (97 raw candidates)
+  fetch https://www.mbusa.com/en/vehicles/class/maybach-eqs/suv  …  static ok (22 raw, 1 slug-matching)
+    playwright https://www.mbusa.com/en/vehicles/class/maybach-eqs/suv  …  ok (102 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          mercedes-benz
+Pages attempted:                25
+Pages failed:                   0
+Pages escalated to Playwright:  12 of 25
+  Playwright successes:         12
+  Playwright failures:          0
+Image entries rewritten:        102
+  via text/URL pattern match:   70
+  via positional fallback:      32
+Image entries unchanged:        215
+
+Sample rewrites:
+  [7.0] cla/cla-250-plus/front_three_quarter
+        → https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cla-sedan/class-page/series/2026-CLA-SEDAN-IH-5.jpg
+  [7.0] cla/cla-350-4matic/front_three_quarter
+        → https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cla-sedan/class-page/series/2026-CLA-SEDAN-IH-5.jpg
+  [8.0] c-class/c-300/interior_dashboard
+        → https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-IH-3.jpg
+  [8.0] c-class/c-300-4matic/interior_dashboard
+        → https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-IH-3.jpg
+  [8.0] c-class/amg-c-43-4matic/interior_dashboard
+        → https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-IH-3.jpg
+  [8.0] c-class/amg-c-63-s-e-performance/interior_dashboard
+        → https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-IH-3.jpg
+  [8.0] cle-coupe/cle-300-4matic/interior_dashboard
+        → https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-IH-3.jpg
+  [8.0] cle-coupe/cle-450-4matic/interior_dashboard
+        → https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-IH-3.jpg
+  [8.0] cle-coupe/amg-cle-53-4matic-plus/interior_dashboard
+        → https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/cle-class/cle-coupe/class-page/series/2026-CLE-COUPE-IH-3.jpg
+  [10.0] e-class-sedan/e-350/interior_dashboard
+        → https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-IH-2.jpg
+  [10.0] e-class-sedan/e-350-4matic/interior_dashboard
+        → https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-IH-2.jpg
+  [10.0] e-class-sedan/e-450-4matic/interior_dashboard
+        → https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-IH-2.jpg
+
+Models with unresolved angles:
+  cla: 6 entries  (e.g. cla-250-plus/rear_three_quarter, cla-250-plus/side_profile, cla-250-plus/interior_dashboard)
+  c-class: 12 entries  (e.g. c-300/front_three_quarter, c-300/rear_three_quarter, c-300/side_profile)
+  cle-coupe: 9 entries  (e.g. cle-300-4matic/front_three_quarter, cle-300-4matic/rear_three_quarter, cle-300-4matic/side_profile)
+  cle-cabriolet: 12 entries  (e.g. cle-300-4matic-cabriolet/front_three_quarter, cle-300-4matic-cabriolet/rear_three_quarter, cle-300-4matic-cabriolet/side_profile)
+  e-class-sedan: 12 entries  (e.g. e-350/front_three_quarter, e-350/rear_three_quarter, e-350/side_profile)
+  e-class-wagon: 2 entries  (e.g. amg-e-53-hybrid-4matic-plus-wagon/side_profile, amg-e-53-hybrid-4matic-plus-wagon/cargo_area)
+  s-class: 8 entries  (e.g. s-500-4matic/front_three_quarter, s-500-4matic/interior_dashboard, s-580-4matic/front_three_quarter)
+  maybach-s-class: 8 entries  (e.g. maybach-s-580-4matic/rear_three_quarter, maybach-s-580-4matic/side_profile, maybach-s-580-4matic/interior_dashboard)
+  amg-gt-coupe: 12 entries  (e.g. amg-gt-55-4matic-plus/rear_three_quarter, amg-gt-55-4matic-plus/side_profile, amg-gt-55-4matic-plus/interior_dashboard)
+  amg-gt-4-door-coupe: 12 entries  (e.g. amg-gt-43-4-door-coupe/rear_three_quarter, amg-gt-43-4-door-coupe/side_profile, amg-gt-43-4-door-coupe/interior_dashboard)
+  sl-roadster: 10 entries  (e.g. amg-sl-43/side_profile, amg-sl-43/interior_dashboard, amg-sl-55-4matic/side_profile)
+  gla-suv: 6 entries  (e.g. gla-250/rear_three_quarter, gla-250/side_profile, gla-250/interior_dashboard)
+  glb-suv: 6 entries  (e.g. glb-250/rear_three_quarter, glb-250/side_profile, glb-250/interior_dashboard)
+  glc-suv: 10 entries  (e.g. glc-300/rear_three_quarter, glc-300/side_profile, glc-300-4matic/rear_three_quarter)
+  glc-coupe: 6 entries  (e.g. glc-300-4matic-coupe/rear_three_quarter, glc-300-4matic-coupe/side_profile, amg-glc-43-4matic-coupe/rear_three_quarter)
+  gle-suv: 15 entries  (e.g. gle-350/side_profile, gle-350/interior_dashboard, gle-350-4matic/rear_three_quarter)
+  gle-coupe: 6 entries  (e.g. gle-450-4matic-coupe/rear_three_quarter, gle-450-4matic-coupe/side_profile, amg-gle-53-4matic-plus-coupe/rear_three_quarter)
+  gls-suv: 9 entries  (e.g. gls-450-4matic/front_three_quarter, gls-450-4matic/side_profile, gls-450-4matic/interior_dashboard)
+  maybach-gls: 5 entries  (e.g. maybach-gls-600-4matic/front_three_quarter, maybach-gls-600-4matic/rear_three_quarter, maybach-gls-600-4matic/side_profile)
+  g-class: 12 entries  (e.g. g-550/front_three_quarter, g-550/rear_three_quarter, g-550/side_profile)
+  eqe-sedan: 6 entries  (e.g. eqe-320-plus/rear_three_quarter, eqe-320-plus/interior_dashboard, eqe-320-4matic/rear_three_quarter)
+  eqe-suv: 9 entries  (e.g. eqe-320-plus/rear_three_quarter, eqe-320-plus/side_profile, eqe-320-plus/interior_dashboard)
+  eqs-sedan: 12 entries  (e.g. eqs-450-plus/rear_three_quarter, eqs-450-plus/side_profile, eqs-450-plus/interior_dashboard)
+  eqs-suv: 6 entries  (e.g. eqs-400-4matic/rear_three_quarter, eqs-400-4matic/side_profile, eqs-400-4matic/interior_dashboard)
+  maybach-eqs-suv: 4 entries  (e.g. maybach-eqs-680-suv/rear_three_quarter, maybach-eqs-680-suv/side_profile, maybach-eqs-680-suv/interior_dashboard)

@@ -1,0 +1,99 @@
+{
+  "brand": "Ram",
+  "brand_slug": "ram",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "model_count": 3,
+  "trim_count": 22,
+  "total_images": 88,
+  "needs_scraping": 88,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 16,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ram-1500/express",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ram-1500/big-horn",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ram-1500/warlock",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ram-1500/rebel",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ram-1500/limited-longhorn",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ram-1500/tungsten",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ram-2500/big-horn",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ram-2500/rebel",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ram-2500/laramie",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ram-2500/limited",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ram-2500/limited-longhorn",
+      "value": 5
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "ram-2500/power-wagon",
+      "value": "fuel_economy"
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ram-3500/big-horn",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ram-3500/laramie",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ram-3500/limited",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "ram-3500/limited-longhorn",
+      "value": 5
+    }
+  ],
+  "fyis": []
+}

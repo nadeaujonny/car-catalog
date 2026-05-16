@@ -1,0 +1,18 @@
+{
+  "brand": "Mini",
+  "brand_slug": "mini",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 7,
+  "trim_count": 11,
+  "total_images": 38,
+  "needs_scraping": 38,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 0,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [],
+  "fyis": []
+}

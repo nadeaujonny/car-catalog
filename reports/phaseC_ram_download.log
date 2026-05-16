@@ -1,0 +1,114 @@
+Brand: ram
+Found 88 image entries across 3 models.
+
+[1/88] ram-1500/tradesman/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[2/88] ram-1500/tradesman/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[3/88] ram-1500/tradesman/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[4/88] ram-1500/tradesman/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[5/88] ram-1500/express/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[6/88] ram-1500/express/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[7/88] ram-1500/express/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[8/88] ram-1500/express/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[9/88] ram-1500/big-horn/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[10/88] ram-1500/big-horn/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[11/88] ram-1500/big-horn/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[12/88] ram-1500/big-horn/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[13/88] ram-1500/warlock/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[14/88] ram-1500/warlock/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[15/88] ram-1500/warlock/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[16/88] ram-1500/warlock/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[17/88] ram-1500/laramie/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[18/88] ram-1500/laramie/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[19/88] ram-1500/laramie/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[20/88] ram-1500/laramie/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[21/88] ram-1500/rebel/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[22/88] ram-1500/rebel/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[23/88] ram-1500/rebel/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[24/88] ram-1500/rebel/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[25/88] ram-1500/limited/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[26/88] ram-1500/limited/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[27/88] ram-1500/limited/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[28/88] ram-1500/limited/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[29/88] ram-1500/limited-longhorn/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[30/88] ram-1500/limited-longhorn/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[31/88] ram-1500/limited-longhorn/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[32/88] ram-1500/limited-longhorn/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[33/88] ram-1500/rho/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[34/88] ram-1500/rho/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[35/88] ram-1500/rho/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[36/88] ram-1500/rho/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[37/88] ram-1500/tungsten/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[38/88] ram-1500/tungsten/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[39/88] ram-1500/tungsten/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[40/88] ram-1500/tungsten/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[41/88] ram-2500/tradesman/front_three_quarter  ok (24232 bytes, image/avif)
+[42/88] ram-2500/tradesman/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[43/88] ram-2500/tradesman/side_profile  ok (117770 bytes, image/avif)
+[44/88] ram-2500/tradesman/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[45/88] ram-2500/big-horn/front_three_quarter  ok (24232 bytes, image/avif)
+[46/88] ram-2500/big-horn/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[47/88] ram-2500/big-horn/side_profile  ok (117770 bytes, image/avif)
+[48/88] ram-2500/big-horn/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[49/88] ram-2500/rebel/front_three_quarter  ok (24232 bytes, image/avif)
+[50/88] ram-2500/rebel/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[51/88] ram-2500/rebel/side_profile  ok (117770 bytes, image/avif)
+[52/88] ram-2500/rebel/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[53/88] ram-2500/laramie/front_three_quarter  ok (24232 bytes, image/avif)
+[54/88] ram-2500/laramie/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[55/88] ram-2500/laramie/side_profile  ok (117770 bytes, image/avif)
+[56/88] ram-2500/laramie/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[57/88] ram-2500/power-wagon/front_three_quarter  ok (24232 bytes, image/avif)
+[58/88] ram-2500/power-wagon/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[59/88] ram-2500/power-wagon/side_profile  ok (117770 bytes, image/avif)
+[60/88] ram-2500/power-wagon/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[61/88] ram-2500/limited/front_three_quarter  ok (24232 bytes, image/avif)
+[62/88] ram-2500/limited/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[63/88] ram-2500/limited/side_profile  ok (117770 bytes, image/avif)
+[64/88] ram-2500/limited/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[65/88] ram-2500/limited-longhorn/front_three_quarter  ok (24232 bytes, image/avif)
+[66/88] ram-2500/limited-longhorn/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[67/88] ram-2500/limited-longhorn/side_profile  ok (117770 bytes, image/avif)
+[68/88] ram-2500/limited-longhorn/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[69/88] ram-3500/tradesman/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[70/88] ram-3500/tradesman/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[71/88] ram-3500/tradesman/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[72/88] ram-3500/tradesman/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[73/88] ram-3500/big-horn/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[74/88] ram-3500/big-horn/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[75/88] ram-3500/big-horn/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[76/88] ram-3500/big-horn/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[77/88] ram-3500/laramie/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[78/88] ram-3500/laramie/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[79/88] ram-3500/laramie/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[80/88] ram-3500/laramie/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[81/88] ram-3500/limited/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[82/88] ram-3500/limited/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[83/88] ram-3500/limited/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[84/88] ram-3500/limited/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[85/88] ram-3500/limited-longhorn/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[86/88] ram-3500/limited-longhorn/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[87/88] ram-3500/limited-longhorn/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[88/88] ram-3500/limited-longhorn/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+
+Updated catalog/data/ram.json and data/ram.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  ram
+Total images attempted: 88
+Successful:             14 (15.9%)
+Failed:                 74
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 74
+
+Models with zero successful images: 2 of 3
+  - ram-1500 (40 attempted)
+  - ram-3500 (20 attempted)
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html; charset=utf-8)] x74 — e.g. https://www.ramtrucks.com/ram-1500.html

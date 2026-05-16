@@ -1,0 +1,39 @@
+Reset 12 image entries with needs_scraping:true to their model page URLs.
+Brand: polestar
+Models in JSON: 2
+Models with page URLs: 2
+Playwright fallback: enabled
+
+Scraping 2 model pages…
+
+  fetch https://www.polestar.com/us/polestar-3/  …  static ok (1816 raw, 599 slug-matching)
+  fetch https://www.polestar.com/us/polestar-4-models/polestar-4-coupe/  …  static ok (1149 raw, 1035 slug-matching)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          polestar
+Pages attempted:                2
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 2
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        3
+  via text/URL pattern match:   3
+  via brand-specific angle:     0
+  via positional fallback:      0
+Brand-specific angle matches:   0
+Resolution upgrades:            2 URLs preferred larger variants
+Image entries unchanged:        9
+
+Sample rewrites:
+  [8.5] polestar-3/long-range-single-motor/front_three_quarter
+        → https://www.polestar.com/dato-assets/94392/1747312927-05-1-polestar-3-25-overview-interior-detail.png?fm=avif&only-imgix=true&fit=min&q=80&dpr=1&w=1440
+  [20.5] polestar-3/long-range-single-motor/interior_dashboard
+        → https://www.polestar.com/dato-assets/94392/1747312977-05-3-polestar-3-25-overview-interior-detail.png?fm=avif&only-imgix=true&fit=min&q=80&dpr=1&w=1440
+  [9.4] polestar-4/long-range-single-motor/interior_dashboard
+        → https://www.polestar.com/dato-assets/94392/1778561710-05-2-polestar-4-c-26-overview-interior-night-d-us.png?fm=avif&only-imgix=true&fit=min&q=50&dpr=2&w=1920
+
+Models with unresolved angles:
+  polestar-3: 4 entries  (e.g. long-range-single-motor/rear_three_quarter, long-range-single-motor/side_profile, long-range-dual-motor/front_three_quarter)
+  polestar-4: 5 entries  (e.g. long-range-single-motor/front_three_quarter, long-range-single-motor/rear_three_quarter, long-range-single-motor/side_profile)

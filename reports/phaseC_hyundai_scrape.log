@@ -1,0 +1,54 @@
+Reset 152 image entries with needs_scraping:true to their model page URLs.
+Brand: hyundai
+Models in JSON: 14
+Models with page URLs: 14
+Playwright fallback: enabled
+
+Scraping 14 model pages…
+
+  fetch https://www.hyundaiusa.com/us/en/vehicles/venue  …  static ok (111 raw candidates)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/elantra  …  static ok (127 raw candidates)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/elantra-n  …  static ok (133 raw candidates)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/sonata  …  static ok (457 raw candidates)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/kona  …  static ok (95 raw candidates)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/tucson  …  static ok (223 raw candidates)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/santa-cruz  …  static ok (165 raw candidates)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/santa-fe  …  static ok (207 raw candidates)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/palisade  …  static ok (44 raw candidates)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/ioniq-5  …  static ok (191 raw candidates)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/ioniq-5-n  …  static ok (159 raw candidates)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/ioniq-6-n  …  static ok (61 raw candidates)
+  fetch https://www.hyundaiusa.com/us/en/vehicles/ioniq-9  …  static ok (287 raw candidates)
+  fetch https://www.hyundainews.com/models/hyundai-nexo-2026-nexo/overview  …  static ok (0 raw candidates)
+    playwright https://www.hyundainews.com/models/hyundai-nexo-2026-nexo/overview  …  ok but 0 candidates
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          hyundai
+Pages attempted:                14
+Pages failed:                   1
+  - https://www.hyundainews.com/models/hyundai-nexo-2026-nexo/overview  (no candidates after static + playwright)
+Pages escalated to Playwright:  1 of 14
+  Playwright successes:         0
+  Playwright failures:          1
+Image entries rewritten:        0
+  via text/URL pattern match:   0
+  via positional fallback:      0
+Image entries unchanged:        152
+
+Models with unresolved angles:
+  venue: 5 entries  (e.g. se/front_three_quarter, se/rear_three_quarter, se/side_profile)
+  elantra: 17 entries  (e.g. se/front_three_quarter, se/rear_three_quarter, se/side_profile)
+  elantra-n: 4 entries  (e.g. elantra-n/front_three_quarter, elantra-n/rear_three_quarter, elantra-n/side_profile)
+  sonata: 15 entries  (e.g. se/front_three_quarter, se/rear_three_quarter, se/side_profile)
+  kona: 7 entries  (e.g. se/front_three_quarter, se/rear_three_quarter, se/side_profile)
+  tucson: 23 entries  (e.g. se/front_three_quarter, se/rear_three_quarter, se/side_profile)
+  santa-cruz: 11 entries  (e.g. se/front_three_quarter, se/rear_three_quarter, se/side_profile)
+  santa-fe: 18 entries  (e.g. se/front_three_quarter, se/rear_three_quarter, se/side_profile)
+  palisade: 19 entries  (e.g. se/front_three_quarter, se/rear_three_quarter, se/side_profile)
+  ioniq-5: 11 entries  (e.g. se-standard-range/front_three_quarter, se-standard-range/rear_three_quarter, se-standard-range/side_profile)
+  ioniq-5-n: 4 entries  (e.g. ioniq-5-n/front_three_quarter, ioniq-5-n/rear_three_quarter, ioniq-5-n/side_profile)
+  ioniq-6-n: 4 entries  (e.g. ioniq-6-n/front_three_quarter, ioniq-6-n/rear_three_quarter, ioniq-6-n/side_profile)
+  ioniq-9: 9 entries  (e.g. s/front_three_quarter, s/rear_three_quarter, s/side_profile)
+  nexo: 5 entries  (e.g. blue/front_three_quarter, blue/rear_three_quarter, blue/side_profile)

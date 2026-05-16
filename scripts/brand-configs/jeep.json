@@ -1,0 +1,33 @@
+{
+  "brand_slug": "jeep",
+  "notes": "jeep.com is the consumer site but returned 403 to WebFetch in Phase 4 session 3 (URLs verified via WebSearch only). Wrangler 4xe lives at /wrangler/wrangler-4xe.html under the main Wrangler tree. Wrangler Moab 392 is a Twelve4Twelve limited-edition variant at /twelve4twelve/wrangler-moab-392.html. Grand Cherokee L shares the Grand Cherokee tree and is presented via the /grand-cherokee/3-row-suv.html marketing page. Grand Cherokee 4xe has a 2026-prefixed path. Grand Wagoneer L does not have a dedicated consumer URL and shares /wagoneer/grand-wagoneer.html with the standard-wheelbase Grand Wagoneer. Recon is the new all-electric Trail Rated SUV launching mid-2026. Fallback for images when jeep.com is gated: press.stellantisnorthamerica.com newsroom imageGalleryId=1536, with assets served from s3.amazonaws.com/chryslermedia.iconicweb.com. Phase B (2026-05-14): wrangler-4xe and grand-cherokee-4xe URLs now redirect to the bare /wrangler.html and /grand-cherokee.html parent pages (or 404 in other path forms). WebSearch confirms Stellantis discontinued ALL 4xe PHEV models for the 2026 model year — there is no dedicated 2026 4xe consumer page anywhere. Both entries left UNCHANGED per keep-discontinued-models rule and FLAGGED for human review (the catalog team may want to drop these two models or repoint them to the parent page). Session 6 (2026-05-14): Phase C diagnosed match gap — the bare /<model>.html parent pages have only 2-5 hero images each with generic alt text that lacks angle keywords (front/rear/side/interior), so 170/220 image entries went un-rewritten. Switched primary pages to /<model>/gallery.html where they exist; these pages carry 40-90 angle-named candidates with rich alt text ('rear angle of', 'passenger-side profile', 'front end', 'interior') that fires the existing ANGLE_PATTERNS at scores 7-12. Models without a /gallery.html (recon, wrangler-moab-392, grand-cherokee-4xe, grand-cherokee-l at /grand-cherokee/3-row-suv.html) keep their existing URLs. Grand Wagoneer L shares the /wagoneer/grand-wagoneer/gallery.html with the standard Grand Wagoneer because Stellantis does not publish a separate L gallery — the alt text never carries an 'L' or 'extended' marker, so grand-wagoneer-l's slug_variants now include the bare 'grand-wagoneer' tokens as a fallback. Both models will independently claim the same gallery imagery (architecturally correct since they share the body). Added 3-row-suv URL-filename variants (grand-cherokee-3rowl, grand-cherokee-3row, 3rowl, 3row-suv) so the L's hero/gallery filename forms (jeep-grand-cherokee-3rowl-hero, jeep-grand-cherokee-3row-hero) all match. Tightened path_blacklist_regex to drop fox-factory partner-logo PNGs that appeared as noise on the parent pages.",
+  "model_pages": {
+    "wrangler":            "https://www.jeep.com/wrangler/gallery.html",
+    "wrangler-4xe":        "https://www.jeep.com/wrangler/wrangler-4xe.html",
+    "wrangler-moab-392":   "https://www.jeep.com/twelve4twelve/wrangler-moab-392.html",
+    "gladiator":           "https://www.jeep.com/gladiator/gallery.html",
+    "grand-cherokee":      "https://www.jeep.com/grand-cherokee/gallery.html",
+    "grand-cherokee-l":    "https://www.jeep.com/grand-cherokee/gallery.html",
+    "grand-cherokee-4xe":  "https://www.jeep.com/2026/grand-cherokee/grand-cherokee-4xe.html",
+    "compass":             "https://www.jeep.com/compass/gallery.html",
+    "cherokee":            "https://www.jeep.com/cherokee/gallery.html",
+    "grand-wagoneer":      "https://www.jeep.com/wagoneer/grand-wagoneer/gallery.html",
+    "grand-wagoneer-l":    "https://www.jeep.com/wagoneer/grand-wagoneer/gallery.html",
+    "recon":               "https://www.jeep.com/recon.html"
+  },
+  "slug_variants": {
+    "wrangler":           ["wrangler"],
+    "wrangler-4xe":       ["wrangler-4xe", "wrangler_4xe", "wrangler4xe", "4xe"],
+    "wrangler-moab-392":  ["wrangler-moab-392", "wrangler_moab_392", "moab-392", "moab_392", "moab392", "392"],
+    "gladiator":          ["gladiator"],
+    "grand-cherokee":     ["grand-cherokee", "grand_cherokee", "grandcherokee"],
+    "grand-cherokee-l":   ["grand-cherokee-l", "grand_cherokee_l", "grandcherokeel", "grand-cherokee-3-row", "grand-cherokee-3rowl", "grand-cherokee-3row", "3-row-suv", "3row-suv", "3rowl", "grand-cherokee", "grand_cherokee", "grandcherokee"],
+    "grand-cherokee-4xe": ["grand-cherokee-4xe", "grand_cherokee_4xe", "grandcherokee4xe", "gc-4xe"],
+    "compass":            ["compass"],
+    "cherokee":           ["cherokee"],
+    "grand-wagoneer":     ["grand-wagoneer", "grand_wagoneer", "grandwagoneer"],
+    "grand-wagoneer-l":   ["grand-wagoneer-l", "grand_wagoneer_l", "grandwagoneerl", "grand-wagoneer-extended", "grand-wagoneer-extended-wheelbase", "grand-wagoneer", "grand_wagoneer", "grandwagoneer"],
+    "recon":              ["recon"]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb|fox-factory-logo|jeep-fox-factory)"
+}

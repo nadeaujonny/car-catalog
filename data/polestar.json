@@ -1,0 +1,894 @@
+{
+  "brand": "Polestar",
+  "brand_slug": "polestar",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Polestar 3",
+      "model_slug": "polestar-3",
+      "model_year": 2026,
+      "body_style": "suv-midsize",
+      "generation_context": "1st-gen, introduced 2024; MY2026 carries over 400V architecture in US (800V refresh launches in UK first, US timing TBD)",
+      "msrp_range": {
+        "low": 67500,
+        "high": 79400
+      },
+      "model_summary": "All-electric midsize luxury SUV built on Volvo's SPA2 platform alongside the Volvo EX90. Three trims offered in the US for 2026: a rear-drive Long Range Single Motor, an all-wheel-drive Long Range Dual Motor, and a Performance Pack version with retuned chassis and Brembo brakes. EPA-estimated range tops out at 312 miles on the Dual Motor with 21-inch wheels.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power 2026 Vehicle Dependability Study does not rank Polestar (low US sales volume). JD Power 2026 US EV Experience (EVX) Ownership Study did not include the Polestar 3 or Polestar 4 in its 18 award-eligible models. Consumer Reports 2026 brand reliability rankings (Dec 2025) explicitly exclude Polestar for insufficient sample size, and the per-model 2026 Polestar 3 and Polestar 4 reliability pages display 'No Detailed Data Available'. Owner sentiment for the Polestar 3 on KBB/Edmunds remains a small-sample data source only.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds",
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study",
+          "https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/",
+          "https://www.consumerreports.org/cars/polestar/3/2026/reliability/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet published (typical July release). JD Power 2026 US EV Experience (EVX) Ownership Study did not include the Polestar 3 or Polestar 4 in its 18 award-eligible premium and mass market models (low US sales volume). No published JD Power customer-satisfaction score for the Polestar 3.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently praise the Polestar 3 for sharp handling, refined Volvo-derived interior, and composed ride for a 5,500-plus-pound SUV. Common criticisms center on infotainment menus that bury common controls, modest EPA range relative to comparable luxury EVs, and high pricing. The 2026 MY800V refresh announced for late 2025 (faster charging, more power, longer range) is launching in Europe first; US 2026 inventory remains the 400V configuration.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/polestar/3/",
+            "date": "2025-09-15"
+          },
+          {
+            "publication": "JD Power",
+            "url": "https://www.jdpower.com/cars/expert-reviews/2026-polestar-4-review-first-drive",
+            "date": "2025-11-01"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": 3,
+        "edmunds_sample_size": 13,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owners on Edmunds (13 reviews, 3.0/5) praise the way the car drives, its design, and quiet cabin with strong audio, while citing problems with infotainment software, charging glitches, and uneven Polestar Space service.",
+        "confidence": "low",
+        "sources": [
+          "https://www.edmunds.com/polestar/3/2025/consumer-reviews/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Long Range Single Motor",
+          "trim_slug": "long-range-single-motor",
+          "trim_family": "polestar-3",
+          "is_base_trim": true,
+          "msrp_base": 67500,
+          "destination_fee": 1400,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 299,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 361,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": 1,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 111,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 286,
+            "total_range_mi": 286,
+            "dc_fast_charge_peak_kw": 250,
+            "dc_fast_charge_10_to_80_min": 30,
+            "ac_charge_kw": 11,
+            "mpge_combined": 95,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 102,
+            "highway_mpg": 88,
+            "combined_mpg": 95,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 800
+          },
+          "performance": {
+            "zero_to_60_sec": 7.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 112,
+            "towing_capacity_lb": 2000,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 192.9,
+            "width_in": 77.4,
+            "height_in": 63.7,
+            "wheelbase_in": 117.5,
+            "ground_clearance_in": 8.2,
+            "curb_weight_lb": 5298,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 17.1,
+              "behind_1st_row": 49.8,
+              "max_with_seats_folded": 49.8,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "20-inch Aero, Michelin Primacy 4 all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 14.5,
+            "driver_display_in": 9,
+            "apple_carplay": "wireless",
+            "android_auto": "none",
+            "sound_system": "10-speaker 300W high-performance audio",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Bio-attributed WeaveTech upholstery standard",
+              "Built-in Google with Google Maps, Assistant, Play Store",
+              "Pilot Pack standard (Adaptive Cruise Control with Pilot Assist, Lane Change Assist, Park Assist Pilot)",
+              "Front and rear ground clearance approximately 8.2 in (208 mm front / 205 mm rear)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.polestar.com/dato-assets/94392/1747312927-05-1-polestar-3-25-overview-interior-detail.png?fm=avif&only-imgix=true&fit=min&q=80&dpr=1&w=1440",
+              "local_path": "images/polestar/polestar-3/polestar-3/front_three_quarter.jpg",
+              "credit": "Polestar US",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.polestar.com/us/polestar-3/",
+              "local_path": "images/polestar/polestar-3/polestar-3/rear_three_quarter.jpg",
+              "credit": "Polestar US",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.polestar.com/us/polestar-3/",
+              "local_path": "images/polestar/polestar-3/polestar-3/side_profile.jpg",
+              "credit": "Polestar US",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.polestar.com/dato-assets/94392/1747312977-05-3-polestar-3-25-overview-interior-detail.png?fm=avif&only-imgix=true&fit=min&q=80&dpr=1&w=1440",
+              "local_path": "images/polestar/polestar-3/polestar-3/interior_dashboard.jpg",
+              "credit": "Polestar US",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.polestar.com/us/polestar-3/specifications/",
+            "powertrain": "https://www.polestar.com/us/polestar-3/specifications/",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50232",
+            "performance.zero_to_60_sec": "https://www.polestar.com/us/polestar-3/specifications/",
+            "dimensions": "https://www.polestar.com/us/polestar-3/specifications/",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.polestar.com/us/polestar-3/specifications/",
+            "warranty": "https://www.polestar.com/us/polestar-4/warranty-and-service/"
+          },
+          "delta_from_base": null,
+          "notes": "EPA fueleconomy.gov ID 50232 cites the 20-inch Aero wheel configuration (286 mi EPA range, 95 MPGe combined). A 21-inch wheel option (EPA ID 50233) is rated 291 mi / 97 MPGe combined. Polestar's spec page cites 'up to 350 miles' EPA range, which corresponds to the prior MY25 entry with optimal aero wheels; EPA's MY26 listings are more conservative and used here per project rules. NHTSA has not rated the 2026 Polestar 3, and IIHS has not crash-tested any Polestar 3 model year. Warranty cited from Polestar 4 warranty-and-service page, which uses standard Polestar warranty terms applied brand-wide. Polestar provides 4 years of complimentary roadside assistance; corrosion warranty 12 years against perforation."
+        },
+        {
+          "trim": "Long Range Dual Motor",
+          "trim_slug": "long-range-dual-motor",
+          "trim_family": "polestar-3",
+          "is_base_trim": false,
+          "msrp_base": 73400,
+          "destination_fee": 1400,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 489,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 620,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 111,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 312,
+            "total_range_mi": 312,
+            "dc_fast_charge_peak_kw": 250,
+            "dc_fast_charge_10_to_80_min": 30,
+            "ac_charge_kw": 11,
+            "mpge_combined": 90,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 95,
+            "highway_mpg": 84,
+            "combined_mpg": 90,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 850
+          },
+          "performance": {
+            "zero_to_60_sec": 4.8,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 130,
+            "towing_capacity_lb": 3500,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 192.9,
+            "width_in": 77.4,
+            "height_in": 63.5,
+            "wheelbase_in": 117.5,
+            "ground_clearance_in": 8,
+            "curb_weight_lb": 5686,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 17.1,
+              "behind_1st_row": 49.8,
+              "max_with_seats_folded": 49.8,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 21,
+            "tire_spec": "21-inch alloy, Pirelli P Zero or Michelin Primacy all-season"
+          },
+          "safety": null,
+          "features": null,
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.polestar.com/us/polestar-3/",
+              "local_path": "images/polestar/polestar-3/polestar-3/front_three_quarter.jpg",
+              "credit": "Polestar US",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.polestar.com/us/polestar-3/specifications/",
+            "powertrain": "https://www.polestar.com/us/polestar-3/specifications/",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50229",
+            "performance.zero_to_60_sec": "https://www.polestar.com/us/polestar-3/specifications/",
+            "dimensions": "https://www.polestar.com/us/polestar-3/specifications/"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "long-range-single-motor",
+            "msrp_delta_usd": 5900,
+            "changes": [
+              "Adds front motor for AWD: total system output rises from 299 hp / 361 lb-ft to 489 hp / 620 lb-ft",
+              "0-60 mph drops from 7.5 sec to 4.8 sec; top speed rises from 112 to 130 mph",
+              "Dual-chamber active air suspension replaces passive coil-spring setup",
+              "Standard 21-inch alloy wheels (20-inch Aero on LRSM)",
+              "Towing capacity rises from 2,000 lb to 3,500 lb",
+              "Curb weight up by approximately 390 lb due to second motor and air suspension",
+              "EPA range with standard 21-inch wheels: 312 mi (90 MPGe), vs 286 mi (95 MPGe) for LRSM"
+            ]
+          },
+          "notes": "Long Range Dual Motor inherits all interior features, sunroof, safety/ADAS package, infotainment and warranty terms from the base LR Single Motor trim. Images shared with trim_family 'polestar-3'. EPA listing 50229 cites 21-inch wheels for the 312 mi range; a 22-inch wheel option (EPA ID 50230) reduces range to 281 mi / 81 MPGe combined."
+        },
+        {
+          "trim": "Long Range Dual Motor with Performance Pack",
+          "trim_slug": "long-range-dual-motor-performance-pack",
+          "trim_family": "polestar-3",
+          "is_base_trim": false,
+          "msrp_base": 79400,
+          "destination_fee": 1400,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 517,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 671,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 111,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 281,
+            "total_range_mi": 281,
+            "dc_fast_charge_peak_kw": 250,
+            "dc_fast_charge_10_to_80_min": 30,
+            "ac_charge_kw": 11,
+            "mpge_combined": 81,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 85,
+            "highway_mpg": 76,
+            "combined_mpg": 81,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 950
+          },
+          "performance": {
+            "zero_to_60_sec": 4.5,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 130,
+            "towing_capacity_lb": 3500,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 192.9,
+            "width_in": 77.4,
+            "height_in": 63.5,
+            "wheelbase_in": 117.5,
+            "ground_clearance_in": 8,
+            "curb_weight_lb": 5791,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 17.1,
+              "behind_1st_row": 49.8,
+              "max_with_seats_folded": 49.8,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "22-inch forged Performance, Pirelli P Zero summer"
+          },
+          "safety": null,
+          "features": null,
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.polestar.com/us/polestar-3/",
+              "local_path": "images/polestar/polestar-3/polestar-3/front_three_quarter.jpg",
+              "credit": "Polestar US",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.polestar.com/us/polestar-3/specifications/",
+            "powertrain": "https://www.polestar.com/us/polestar-3/specifications/",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50231",
+            "performance.zero_to_60_sec": "https://www.polestar.com/us/polestar-3/specifications/",
+            "dimensions": "https://www.polestar.com/us/polestar-3/specifications/"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "long-range-single-motor",
+            "msrp_delta_usd": 11900,
+            "changes": [
+              "Performance software boost: total output 517 hp / 671 lb-ft (vs 299/361 base, 489/620 LR Dual Motor)",
+              "0-60 mph drops to 4.5 sec (vs 7.5 base; 0.3 sec quicker than LR Dual Motor)",
+              "Polestar Engineered chassis tuning with retuned active air suspension",
+              "Brembo performance brakes with Swedish gold calipers",
+              "22-inch forged Performance wheels with Pirelli P Zero summer tires (custom-developed)",
+              "Swedish gold accents inside (seatbelts, valve caps, brake calipers)",
+              "Towing capacity unchanged from LR Dual Motor at 3,500 lb",
+              "EPA range drops to 281 mi / 81 MPGe combined vs 286/95 base — Performance trade-off"
+            ]
+          },
+          "notes": "Performance Pack inherits sunroof, safety/ADAS, infotainment, sound system, sunroof and warranty terms from the base LR Single Motor trim. Brembo brakes and Swedish gold accents are signature Polestar Engineered touches. Images shared with trim_family 'polestar-3'."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Three trims in the 2026 US lineup: Long Range Single Motor (RWD), Long Range Dual Motor (AWD), Long Range Dual Motor with Performance Pack. EPA publishes additional wheel-size variants (LRSM with 21\" wheels at ID 50233; LRDM with 22\" wheels at ID 50230) which are option packages rather than distinct trims and therefore not separated here. The 2026 800V architecture refresh announced October 2025 with 350 kW DC charging, 333/544/680 hp configurations, and longer range launches first in the UK in early 2026; US availability has not been confirmed by Polestar, so 2026 US inventory remains the 400V configuration documented here. Image URLs flagged needs_scraping:true; polestar.com US returns JS-rendered HTML to WebFetch."
+    },
+    {
+      "model": "Polestar 4",
+      "model_slug": "polestar-4",
+      "model_year": 2026,
+      "body_style": "suv-midsize",
+      "generation_context": "1st-gen, US sales launched 2025 for MY26",
+      "msrp_range": {
+        "low": 56400,
+        "high": 67400
+      },
+      "model_summary": "All-electric midsize SUV-coupe positioned between the Polestar 2 and Polestar 3. Distinctive for omitting a rear window in favor of a digital rearview mirror and aerodynamic sloping roofline. Built in Busan, South Korea for the 2026 US market; three configurations offered. Powertrain ranges from a 272 hp rear-drive single motor up to a 544 hp dual-motor with Performance Pack chassis tuning.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power 2026 Vehicle Dependability Study does not rank Polestar (low US sales volume). JD Power 2026 US EV Experience (EVX) Ownership Study did not include the Polestar 3 or Polestar 4 in its 18 award-eligible models. Consumer Reports 2026 brand reliability rankings (Dec 2025) explicitly exclude Polestar for insufficient sample size, and the per-model 2026 Polestar 3 and Polestar 4 reliability pages display 'No Detailed Data Available'. Owner sentiment for the Polestar 4 on KBB/Edmunds remains a small-sample data source only.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-vehicle-dependability-study-vds",
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study",
+          "https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/",
+          "https://www.consumerreports.org/cars/polestar/4/2026/reliability/"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power 2026 APEAL Study has not yet published (typical July release). JD Power 2026 US EV Experience (EVX) Ownership Study did not include the Polestar 3 or Polestar 4 in its 18 award-eligible premium and mass market models (low US sales volume). No published JD Power customer-satisfaction score for the Polestar 4.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the Polestar 4's swift acceleration (3.7 sec 0-60 mph in Dual Motor) and minimalist Scandinavian interior with a large 15.4-inch center display. Common criticisms focus on the missing rear glass and reliance on a digital rearview mirror, infotainment menus that bury common controls, and cargo utility that is compromised versus the more upright Polestar 3. Polestar has issued over-the-air updates addressing several initial launch complaints.",
+        "links": [
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/polestar/4/",
+            "date": "2025-11-15"
+          },
+          {
+            "publication": "Edmunds",
+            "url": "https://www.edmunds.com/car-news/2026-polestar-4-second-drive-review.html",
+            "date": "2026-01-20"
+          },
+          {
+            "publication": "JD Power",
+            "url": "https://www.jdpower.com/cars/expert-reviews/2026-polestar-4-review-first-drive",
+            "date": "2025-12-01"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": 2.8,
+        "kbb_sample_size": 4,
+        "summary": "KBB owner reviews (4 reviews, 2.8/5 overall) score 4.5/5 for quality and 3.5/5 for reliability; 50% recommend. Sample size is small. Praise centers on quiet ride, design, and acceleration; complaints focus on software glitches and the digital rearview mirror experience.",
+        "confidence": "low",
+        "sources": [
+          "https://www.kbb.com/polestar/4/"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Long Range Single Motor",
+          "trim_slug": "long-range-single-motor",
+          "trim_family": "polestar-4",
+          "is_base_trim": true,
+          "msrp_base": 56400,
+          "destination_fee": 1400,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 272,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 253,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": 1,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 100,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 310,
+            "total_range_mi": 310,
+            "dc_fast_charge_peak_kw": 200,
+            "dc_fast_charge_10_to_80_min": 30,
+            "ac_charge_kw": 11,
+            "mpge_combined": 95,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 100,
+            "highway_mpg": 90,
+            "combined_mpg": 95,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 800
+          },
+          "performance": {
+            "zero_to_60_sec": 6.9,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 124,
+            "towing_capacity_lb": 2000,
+            "payload_capacity_lb": 1069
+          },
+          "dimensions": {
+            "length_in": 190.5,
+            "width_in": 81.4,
+            "height_in": 60.4,
+            "wheelbase_in": 118,
+            "ground_clearance_in": 6.5,
+            "curb_weight_lb": 4938,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 18.6,
+              "behind_1st_row": 54.2,
+              "max_with_seats_folded": 54.2,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "20-inch Aero, Pirelli P Zero E all-season"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 15.4,
+            "driver_display_in": 10.2,
+            "apple_carplay": "wireless",
+            "android_auto": "none",
+            "sound_system": "8-speaker high-performance audio",
+            "sunroof": "panoramic",
+            "seat_material": "synthetic_leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": true,
+            "notable_other": [
+              "Bio-attributed MicroTech upholstery standard",
+              "8.9-inch digital rearview mirror (no physical rear window)",
+              "Built-in Google with Google Maps, Assistant, Play Store",
+              "Pilot Pack standard (Adaptive Cruise Control with Pilot Assist, Lane Change Assist, Park Assist Pilot)",
+              "5G connectivity, Wi-Fi, Bluetooth"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/50k",
+            "powertrain_yr_mi": "4yr/50k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.polestar.com/us/polestar-4-models/polestar-4-coupe/",
+              "local_path": "images/polestar/polestar-4/polestar-4/front_three_quarter.jpg",
+              "credit": "Polestar US",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.polestar.com/us/polestar-4-models/polestar-4-coupe/",
+              "local_path": "images/polestar/polestar-4/polestar-4/rear_three_quarter.jpg",
+              "credit": "Polestar US",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.polestar.com/us/polestar-4-models/polestar-4-coupe/",
+              "local_path": "images/polestar/polestar-4/polestar-4/side_profile.jpg",
+              "credit": "Polestar US",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.polestar.com/dato-assets/94392/1778561710-05-2-polestar-4-c-26-overview-interior-night-d-us.png?fm=avif&only-imgix=true&fit=min&q=50&dpr=2&w=1920",
+              "local_path": "images/polestar/polestar-4/polestar-4/interior_dashboard.jpg",
+              "credit": "Polestar US",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.polestar.com/us/polestar-4/specifications/",
+            "powertrain": "https://www.polestar.com/us/polestar-4/specifications/",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50033",
+            "performance.zero_to_60_sec": "https://www.polestar.com/us/polestar-4/specifications/",
+            "dimensions": "https://www.polestar.com/us/polestar-4/specifications/",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/ratings",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.polestar.com/us/polestar-4/specifications/",
+            "warranty": "https://www.polestar.com/us/polestar-4/warranty-and-service/"
+          },
+          "delta_from_base": null,
+          "notes": "Built in Busan, South Korea for 2026 US market (shift from earlier China production plan to reduce tariff exposure). NHTSA has not rated the 2026 Polestar 4. IIHS has not crash-tested any Polestar 4 model year. Pilot Pack is standard on 2026 US-spec Polestar 4 (was a $2,000 option on initial 2025 launch). Polestar provides 4 years of complimentary roadside assistance and unlimited-mile corrosion warranty (12 yr perforation)."
+        },
+        {
+          "trim": "Long Range Dual Motor",
+          "trim_slug": "long-range-dual-motor",
+          "trim_family": "polestar-4",
+          "is_base_trim": false,
+          "msrp_base": 62900,
+          "destination_fee": 1400,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 544,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 506,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 100,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 280,
+            "total_range_mi": 280,
+            "dc_fast_charge_peak_kw": 200,
+            "dc_fast_charge_10_to_80_min": 30,
+            "ac_charge_kw": 11,
+            "mpge_combined": 85,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 90,
+            "highway_mpg": 80,
+            "combined_mpg": 85,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 900
+          },
+          "performance": {
+            "zero_to_60_sec": 3.7,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 124,
+            "towing_capacity_lb": 3500,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 190.5,
+            "width_in": 81.4,
+            "height_in": 60.4,
+            "wheelbase_in": 118,
+            "ground_clearance_in": 6.5,
+            "curb_weight_lb": 5192,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 18.6,
+              "behind_1st_row": 54.2,
+              "max_with_seats_folded": 54.2,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "20-inch Aero, Pirelli P Zero E all-season"
+          },
+          "safety": null,
+          "features": null,
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.polestar.com/us/polestar-4-models/polestar-4-coupe/",
+              "local_path": "images/polestar/polestar-4/polestar-4/front_three_quarter.jpg",
+              "credit": "Polestar US",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.polestar.com/us/polestar-4/specifications/",
+            "powertrain": "https://www.polestar.com/us/polestar-4/specifications/",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50034",
+            "performance.zero_to_60_sec": "https://www.polestar.com/us/polestar-4/specifications/",
+            "dimensions": "https://www.polestar.com/us/polestar-4/specifications/"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "long-range-single-motor",
+            "msrp_delta_usd": 6500,
+            "changes": [
+              "Adds front motor for AWD: total system output rises from 272 hp / 253 lb-ft to 544 hp / 506 lb-ft",
+              "0-60 mph drops from 6.9 sec to 3.7 sec (3.2-second improvement)",
+              "Towing capacity rises from 2,000 lb to 3,500 lb",
+              "Curb weight up by 254 lb due to second motor and additional cooling hardware",
+              "EPA range drops from 310 mi to 280 mi due to lower efficiency under dual-motor load",
+              "Combined MPGe drops from 95 to 85"
+            ]
+          },
+          "notes": "Long Range Dual Motor inherits dashboard layout, sunroof, safety/ADAS package, infotainment and warranty from the base LR Single Motor trim. Top speed unchanged from base at 124 mph (governed). Images shared with trim_family 'polestar-4'."
+        },
+        {
+          "trim": "Long Range Dual Motor with Performance Pack",
+          "trim_slug": "long-range-dual-motor-performance-pack",
+          "trim_family": "polestar-4",
+          "is_base_trim": false,
+          "msrp_base": 67400,
+          "destination_fee": 1400,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 544,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 506,
+            "transmission": "single-speed direct drive",
+            "transmission_speeds": 1,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 100,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 255,
+            "total_range_mi": 255,
+            "dc_fast_charge_peak_kw": 200,
+            "dc_fast_charge_10_to_80_min": 30,
+            "ac_charge_kw": 11,
+            "mpge_combined": 77,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": 80,
+            "highway_mpg": 74,
+            "combined_mpg": 77,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": 1000
+          },
+          "performance": {
+            "zero_to_60_sec": 3.7,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 124,
+            "towing_capacity_lb": 3500,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 190.5,
+            "width_in": 81.4,
+            "height_in": 60.4,
+            "wheelbase_in": 118,
+            "ground_clearance_in": 6.5,
+            "curb_weight_lb": 5258,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 18.6,
+              "behind_1st_row": 54.2,
+              "max_with_seats_folded": 54.2,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 22,
+            "tire_spec": "22-inch forged Performance, Pirelli P Zero summer"
+          },
+          "safety": null,
+          "features": null,
+          "warranty": null,
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.polestar.com/us/polestar-4-models/polestar-4-coupe/",
+              "local_path": "images/polestar/polestar-4/polestar-4/front_three_quarter.jpg",
+              "credit": "Polestar US",
+              "is_shared_with_trim_family": true,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.polestar.com/us/polestar-4/specifications/",
+            "powertrain": "https://www.polestar.com/us/polestar-4/specifications/",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50035",
+            "performance.zero_to_60_sec": "https://www.polestar.com/us/polestar-4/specifications/",
+            "dimensions": "https://www.polestar.com/us/polestar-4/specifications/"
+          },
+          "delta_from_base": {
+            "from_trim_slug": "long-range-single-motor",
+            "msrp_delta_usd": 11000,
+            "changes": [
+              "AWD dual-motor configuration: 544 hp / 506 lb-ft (vs 272/253 base)",
+              "0-60 mph drops from 6.9 sec to 3.7 sec",
+              "Performance Pack adds $4,500 over LR Dual Motor: specially tuned active ZF dampers with coil-spring (CCD) suspension, Polestar Engineered chassis tuning",
+              "Brembo brakes: 392x34mm front, 364x26mm rear (vs standard rotors)",
+              "22-inch forged Performance wheels with Pirelli P Zero summer tires (vs 20-inch Aero all-seasons)",
+              "Swedish gold accents on seat belts, brake calipers, and rotary control",
+              "EPA range drops to 255 mi (vs 310 mi base) due to larger wheels, summer tires, and AWD load; combined MPGe 77",
+              "Performance Pack adds no extra horsepower vs LR Dual Motor (chassis + brakes only)"
+            ]
+          },
+          "notes": "Performance Pack option adds $4,500 over the LR Dual Motor base price. EPA fueleconomy.gov treats this as a separate trim entry (ID 50035) due to wheel/tire-driven efficiency differences. Inherits dashboard, sunroof, safety/ADAS, infotainment, sound system and warranty from the LR Single Motor base trim. Curb weight estimate based on Performance Pack adding approximately 66 lb of additional hardware (wheels, brakes, dampers) over LR Dual Motor; exact figure not published by Polestar."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Three trims for 2026 US lineup: Long Range Single Motor (RWD, base), Long Range Dual Motor (AWD), and Long Range Dual Motor with Performance Pack. Production moved to Busan, South Korea (Renault Korea) for 2026 to avoid US tariffs on China-built EVs. Pilot Pack (ADAS) made standard for 2026 (previously a $2,000 option). Image URLs flagged needs_scraping:true; polestar.com US is JS-rendered."
+    }
+  ]
+}

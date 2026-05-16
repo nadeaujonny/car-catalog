@@ -1,0 +1,145 @@
+=== lexus scrape ===
+  [13.0] is/is-350-f-sport-awd/interior_dashboard
+        → https://tmna.assetscs.toyota.com/is/image/lexusaemcs/lexus/images/models/is/2026/flexgrid/crafted/Lexus-ISG-large-feature-design-desktop-1920x822-LEX-ISG-MY26-0106.jpg?wid=1920&hei=822
+
+Models with unresolved angles:
+  is: 4 entries  (e.g. is-350-f-sport-design-rwd/side_profile, is-350-f-sport-design-awd/side_profile, is-350-f-sport-rwd/side_profile)
+  es: 4 entries  (e.g. es-350h-premium-awd/side_profile, es-350h-premium-plus-awd/side_profile, es-350e-luxury-fwd/side_profile)
+  ls: 3 entries  (e.g. ls-500-awd-heritage-edition/rear_three_quarter, ls-500-awd-heritage-edition/side_profile, ls-500-awd-heritage-edition/interior_dashboard)
+  lc: 4 entries  (e.g. lc-500-coupe/rear_three_quarter, lc-500-coupe/side_profile, lc-500-convertible/rear_three_quarter)
+  nx: 9 entries  (e.g. nx-350h-fwd/side_profile, nx-350h-awd/rear_three_quarter, nx-350h-awd/side_profile)
+  rx: 8 entries  (e.g. rx-350-fwd/side_profile, rx-350-awd/front_three_quarter, rx-350-awd/side_profile)
+  gx: 12 entries  (e.g. gx-550-premium/rear_three_quarter, gx-550-premium/side_profile, gx-550-premium-plus/rear_three_quarter)
+  lx: 19 entries  (e.g. lx-600-premium/rear_three_quarter, lx-600-premium/side_profile, lx-600-f-sport-handling/front_three_quarter)
+  tx: 5 entries  (e.g. tx-350-fwd/side_profile, tx-350-awd/rear_three_quarter, tx-350-awd/side_profile)
+  ux: 9 entries  (e.g. ux-300h-fwd/side_profile, ux-300h-premium/side_profile, ux-300h-f-sport-design/rear_three_quarter)
+  rz: 10 entries  (e.g. rz-350e-fwd/side_profile, rz-350e-premium-fwd/rear_three_quarter, rz-350e-premium-fwd/side_profile)
+=== lexus download ===
+Failed:                 87
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 87
+
+Models with zero successful images: 0 of 11
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html;charset=utf-8)] x87 — e.g. https://www.lexus.com/models/IS
+=== porsche scrape ===
+        → https://a.storyblok.com/f/322327/2616x712/d6633ff9e2/911-gt3-side.png/m/1200x327/smart/filters:format(avif)?dpl=dpl_C1AdcW6YX5eGe5ddxr4Q9XcB17WM
+
+Models with unresolved angles:
+  911: 29 entries  (e.g. carrera/front_three_quarter, carrera/rear_three_quarter, carrera/interior_dashboard)
+  911-gt3: 2 entries  (e.g. gt3/interior_dashboard, gt3-touring/interior_dashboard)
+  911-gt3-rs: 4 entries  (e.g. gt3-rs/front_three_quarter, gt3-rs/side_profile, gt3-rs/rear_three_quarter)
+  718-cayman-gt4-rs: 4 entries  (e.g. gt4-rs/front_three_quarter, gt4-rs/side_profile, gt4-rs/rear_three_quarter)
+  718-spyder-rs: 4 entries  (e.g. spyder-rs/front_three_quarter, spyder-rs/side_profile, spyder-rs/rear_three_quarter)
+  taycan: 10 entries  (e.g. taycan/front_three_quarter, taycan/rear_three_quarter, taycan/interior_dashboard)
+  panamera: 11 entries  (e.g. panamera/front_three_quarter, panamera/rear_three_quarter, panamera/interior_dashboard)
+  cayenne: 7 entries  (e.g. cayenne/front_three_quarter, cayenne/rear_three_quarter, cayenne/interior_dashboard)
+  cayenne-coupe: 4 entries  (e.g. cayenne-coupe/rear_three_quarter, cayenne-coupe/interior_dashboard, cayenne-turbo-gt/rear_three_quarter)
+  cayenne-electric: 4 entries  (e.g. cayenne-electric/front_three_quarter, cayenne-electric/interior_dashboard, cayenne-s-electric/front_three_quarter)
+  macan: 7 entries  (e.g. macan/front_three_quarter, macan/rear_three_quarter, macan/interior_dashboard)
+  macan-electric: 7 entries  (e.g. macan-electric/front_three_quarter, macan-electric/rear_three_quarter, macan-electric/interior_dashboard)
+=== porsche download ===
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 77
+
+Models with zero successful images: 3 of 16
+  - 911-gt3-rs (4 attempted)
+  - 718-cayman-gt4-rs (4 attempted)
+  - 718-spyder-rs (4 attempted)
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html)] x77 — e.g. https://www.porsche.com/usa/models/911/
+=== polestar scrape ===
+  via text/URL pattern match:   3
+  via positional fallback:      0
+Image entries unchanged:        9
+
+Sample rewrites:
+  [7.0] polestar-3/long-range-single-motor/front_three_quarter
+        → https://www.polestar.com/dato-assets/94392/1747312927-05-1-polestar-3-25-overview-interior-detail.png?fm=avif&only-imgix=true&fit=min&q=80&dpr=1&w=1440
+  [19.0] polestar-3/long-range-single-motor/interior_dashboard
+        → https://www.polestar.com/dato-assets/94392/1747312977-05-3-polestar-3-25-overview-interior-detail.png?fm=avif&only-imgix=true&fit=min&q=80&dpr=1&w=1440
+  [7.8] polestar-4/long-range-single-motor/interior_dashboard
+        → https://www.polestar.com/dato-assets/94392/1778561741-05-2-polestar-4-c-26-overview-interior-night-m-us.png?fm=avif&only-imgix=true&fit=min&q=35&dpr=3&w=600
+
+Models with unresolved angles:
+  polestar-3: 4 entries  (e.g. long-range-single-motor/rear_three_quarter, long-range-single-motor/side_profile, long-range-dual-motor/front_three_quarter)
+  polestar-4: 5 entries  (e.g. long-range-single-motor/front_three_quarter, long-range-single-motor/rear_three_quarter, long-range-single-motor/side_profile)
+=== polestar download ===
+Failed:                 9
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 9
+
+Models with zero successful images: 0 of 2
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html)] x9 — e.g. https://www.polestar.com/us/polestar-3/
+=== volkswagen scrape ===
+  [7.1] tiguan/se-r-line-black/interior_dashboard
+        → https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_USP_MY26Tiguan_Interior?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xMjgwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJjcxZTM=
+  [7.1] tiguan/sel-r-line-turbo/front_three_quarter
+        → https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_USP_MY26Tiguan_Exterior?Zml0PWNyb3AsMSZmbXQ9cG5nJndpZD0xMjgwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJjcxZTM=
+
+Models with unresolved angles:
+  jetta: 3 entries  (e.g. s/front_three_quarter, s/rear_three_quarter, s/side_profile)
+  jetta-gli: 4 entries  (e.g. autobahn/front_three_quarter, autobahn/rear_three_quarter, autobahn/side_profile)
+  golf-gti: 2 entries  (e.g. s/rear_three_quarter, s/side_profile)
+  golf-r: 4 entries  (e.g. golf-r/front_three_quarter, golf-r/rear_three_quarter, golf-r/side_profile)
+  taos: 2 entries  (e.g. s/front_three_quarter, s/side_profile)
+  tiguan: 2 entries  (e.g. s/rear_three_quarter, se-r-line-black/rear_three_quarter)
+  atlas: 4 entries  (e.g. se/front_three_quarter, se/side_profile, sel-premium-r-line/front_three_quarter)
+  atlas-cross-sport: 6 entries  (e.g. se/rear_three_quarter, se/side_profile, se/interior_dashboard)
+  id-4: 3 entries  (e.g. pro/rear_three_quarter, pro/side_profile, pro/interior_dashboard)
+=== volkswagen download ===
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 30
+
+Models with zero successful images: 2 of 9
+  - jetta-gli (4 attempted)
+  - golf-r (4 attempted)
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html;charset=utf-8)] x30 — e.g. https://www.vw.com/en/models/jetta.html
+=== subaru scrape ===
+        → https://s7d1.scene7.com/is/image/scomv2/609_MY26_WRX_jelly_3247x1224?$2000wa$
+  [pos] wrx/series-yellow/front_three_quarter
+        → https://s7d1.scene7.com/is/image/scomv2/609_MY26_WRX_jelly_3247x1224?$2000wa$
+
+Models with unresolved angles:
+  impreza: 8 entries  (e.g. sport/front_three_quarter, sport/rear_three_quarter, sport/side_profile)
+  crosstrek: 16 entries  (e.g. base/front_three_quarter, base/rear_three_quarter, base/side_profile)
+  forester: 26 entries  (e.g. base/front_three_quarter, base/rear_three_quarter, base/side_profile)
+  outback: 12 entries  (e.g. premium/front_three_quarter, premium/rear_three_quarter, premium/side_profile)
+  ascent: 14 entries  (e.g. premium/front_three_quarter, premium/rear_three_quarter, premium/side_profile)
+  brz: 9 entries  (e.g. limited/rear_three_quarter, limited/side_profile, limited/interior_dashboard)
+  wrx: 12 entries  (e.g. base/rear_three_quarter, base/side_profile, base/interior_dashboard)
+  solterra: 10 entries  (e.g. premium/front_three_quarter, premium/rear_three_quarter, premium/side_profile)
+  trailseeker: 6 entries  (e.g. premium/front_three_quarter, premium/rear_three_quarter, premium/side_profile)
+  uncharted: 9 entries  (e.g. premium-fwd/front_three_quarter, premium-fwd/rear_three_quarter, premium-fwd/side_profile)
+=== subaru download ===
+Models with zero successful images: 8 of 10
+  - impreza (8 attempted)
+  - crosstrek (16 attempted)
+  - forester (26 attempted)
+  - outback (12 attempted)
+  - ascent (14 attempted)
+  - solterra (10 attempted)
+  - trailseeker (6 attempted)
+  - uncharted (9 attempted)
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html;charset=utf-8)] x122 — e.g. https://www.subaru.com/vehicles/impreza

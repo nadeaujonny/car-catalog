@@ -1,0 +1,145 @@
+=== rivian scrape ===
+  [6.9] r1s/dual-large/front_three_quarter
+        → http://media.rivian.com/image/upload/v1717643268/riv-may/r1-modal/R1S-Front-trunk-01-3_2.jpg
+  [6.9] r1s/dual-large/side_profile
+        → http://media.rivian.com/image/upload/v1717643179/riv-may/r1-blueprint/R1S-Spec-Side.png
+  [6.9] r1s/dual-large/interior_dashboard
+        → http://media.rivian.com/image/upload/v1717643278/riv-may/r1-modal/R1S-Interior-01-3_2.jpg
+  [6.9] r1s/dual-max/front_three_quarter
+        → https://media.rivian.com/rivian-main/image/upload/f_auto/q_auto:eco/v1717643268/riv-may/r1-modal/R1S-Front-trunk-01-3_2.jpg?_a=BAMAMieA0
+  [6.9] r1s/tri-max/front_three_quarter
+        → https://media.rivian.com/image/upload/v1717643268/riv-may/r1-modal/R1S-Front-trunk-01-3_2.jpg
+
+Models with unresolved angles:
+  r1t: 1 entries  (e.g. dual-standard/rear_three_quarter)
+  r1s: 1 entries  (e.g. dual-large/rear_three_quarter)
+  r2: 2 entries  (e.g. performance-launch-edition/rear_three_quarter, performance-launch-edition/interior_dashboard)
+=== rivian download ===
+Failed:                 4
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 4
+
+Models with zero successful images: 0 of 3
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html; charset=utf-8)] x4 — e.g. https://rivian.com/r1t
+=== gmc scrape ===
+        → https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/interior/my26-sierra-1500-mov-interior-feature-1-1280x640-26PGSRLD100731.jpg?imwidth=800
+  [21.4] sierra-1500/elevation/interior_dashboard
+        → https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/interior/my26-sierra-1500-mov-interior-scroller-3-1280x960-26PGSRLD99143.jpg?imwidth=800
+  [23.4] sierra-1500/slt/front_three_quarter
+        → https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/safety/my26-sierra-1500-mov-safety-1280x640-26PGSRLD91254.jpg?imwidth=800
+  [18.4] sierra-1500/slt/side_profile
+        → https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/interior/my26-sierra-1500-mov-interior-feature-1-1280x640-26PGSRLD100731.jpg?imwidth=800
+  [21.4] sierra-1500/slt/interior_dashboard
+        → https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/interior/my26-sierra-1500-mov-interior-scroller-3-1280x960-26PGSRLD99143.jpg?imwidth=800
+
+Models with unresolved angles:
+  sierra-1500: 9 entries  (e.g. pro/rear_three_quarter, sle/rear_three_quarter, elevation/rear_three_quarter)
+  sierra-hd: 13 entries  (e.g. sierra-2500hd-pro/rear_three_quarter, sierra-2500hd-sle/rear_three_quarter, sierra-2500hd-slt/rear_three_quarter)
+  canyon: 8 entries  (e.g. elevation/rear_three_quarter, elevation/side_profile, at4/rear_three_quarter)
+  yukon-xl: 20 entries  (e.g. elevation/front_three_quarter, elevation/rear_three_quarter, elevation/side_profile)
+=== gmc download ===
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 50
+
+Models with zero successful images: 1 of 10
+  - yukon-xl (20 attempted)
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html;charset=utf-8)] x50 — e.g. https://www.gmc.com/trucks/sierra/1500
+=== honda scrape ===
+        → https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/civic-sedan/Mini-Gallery-Landing-OP/2026-honda-civic-sedan-sport-meteorite-gray-metallic-rear-01.jpg?sc_lang=en&mw=767&hash=5EE0E9C460D4EE5DD80E30D819CD80CD
+  [33.4] civic/sport-hybrid/interior_dashboard
+        → https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/civic-sedan/Full-Gallery-OP/Interior/Modal/2026-honda-civic-sedan-sport-touring-hybrid-dashboard-center-console-05.jpg?sc_lang=en&mw=1439&hash=E502F0A7061D38F1D0D5643DBCC9006A
+
+Models with unresolved angles:
+  civic-hatchback: 7 entries  (e.g. sport/front_three_quarter, sport/side_profile, sport-hybrid/front_three_quarter)
+  civic-type-r: 2 entries  (e.g. type-r/front_three_quarter, type-r/side_profile)
+  accord: 6 entries  (e.g. se/rear_three_quarter, ex-l-hybrid/rear_three_quarter, sport-l-hybrid/front_three_quarter)
+  prelude: 2 entries  (e.g. hybrid-two-tone/front_three_quarter, hybrid-two-tone/rear_three_quarter)
+  hr-v: 2 entries  (e.g. sport/rear_three_quarter, ex-l/rear_three_quarter)
+  cr-v: 6 entries  (e.g. ex/rear_three_quarter, ex-l/side_profile, ex-l/rear_three_quarter)
+  pilot: 21 entries  (e.g. sport/front_three_quarter, sport/rear_three_quarter, sport/side_profile)
+  prologue: 6 entries  (e.g. ex/rear_three_quarter, ex/side_profile, touring/side_profile)
+  ridgeline: 7 entries  (e.g. sport/side_profile, rtl/front_three_quarter, rtl/side_profile)
+  odyssey: 12 entries  (e.g. ex-l/front_three_quarter, ex-l/rear_three_quarter, ex-l/side_profile)
+=== honda download ===
+Failed:                 51
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 51
+
+Models with zero successful images: 0 of 13
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html; charset=utf-8)] x51 — e.g. https://automobiles.honda.com/civic-hatchback
+=== cadillac scrape ===
+        → https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/my25-ct4-mov-gallery-exterior-rear-drivers-side.jpg?imwidth=800
+  [30.4] ct4/sport/side_profile
+        → https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/my25-ct4-mov-gallery-exterior-side-profile.jpg?imwidth=800
+  [30.4] ct4/sport/interior_dashboard
+        → https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/in-page-gallery/my25-ct4-mov-gallery-interior-passenger-view.jpg?imwidth=800
+
+Models with unresolved angles:
+  ct4-v: 4 entries  (e.g. v-series/front_three_quarter, v-series/rear_three_quarter, v-series/side_profile)
+  ct4-v-blackwing: 4 entries  (e.g. v-series-blackwing/front_three_quarter, v-series-blackwing/rear_three_quarter, v-series-blackwing/side_profile)
+  ct5-v: 4 entries  (e.g. v-series/front_three_quarter, v-series/rear_three_quarter, v-series/side_profile)
+  ct5-v-blackwing: 3 entries  (e.g. v-series-blackwing/rear_three_quarter, v-series-blackwing/side_profile, v-series-blackwing/interior_dashboard)
+  lyriq: 2 entries  (e.g. luxury/rear_three_quarter, sport/rear_three_quarter)
+  optiq: 2 entries  (e.g. luxury/rear_three_quarter, sport/rear_three_quarter)
+  escalade-esv: 20 entries  (e.g. 1sa/front_three_quarter, 1sa/rear_three_quarter, 1sa/side_profile)
+  escalade-v: 2 entries  (e.g. v-series/front_three_quarter, v-series/interior_dashboard)
+=== cadillac download ===
+  wrong-content-type: 40
+
+Models with zero successful images: 4 of 18
+  - ct4-v (4 attempted)
+  - ct4-v-blackwing (4 attempted)
+  - ct5-v (4 attempted)
+  - escalade-esv (20 attempted)
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html; charset=utf-8)] x7 — e.g. https://www.cadillac.com/shopping/configurator/car/2026/ct4v/ct4v
+  [wrong-content-type (text/html;charset=utf-8)] x33 — e.g. https://www.cadillac.com/sedans/ct4-v-blackwing
+  [status-502] x1 — e.g. https://www.cadillac.com/shopping/configurator/car/2026/ct5v/ct5v
+=== alfa-romeo scrape ===
+  [15.0] stelvio/stelvio/rear_three_quarter
+        → https://www.alfaromeousa.com/content/dam/alfa/us/stelvio/2026/performance/my26-alfa-stelvio-performance-gallery-traction-v3-mobile.jpg
+  [30.0] stelvio/stelvio/side_profile
+        → https://www.alfaromeousa.com/content/dam/alfa/us/stelvio/2026/exterior/my26-alfa-stelvio-exterior-gallery-main-mobile.jpg
+  [18.0] stelvio/stelvio/interior_dashboard
+        → https://www.alfaromeousa.com/content/dam/alfa/us/stelvio/2026/interior/my26-alfa-stelvio-interior-gallery-wireless-charging-mobile.jpg
+  [7.0] stelvio/stelvio-veloce/front_three_quarter
+        → https://www.alfaromeousa.com/content/dam/alfa/us/stelvio/2026/interior/my26-alfa-stelvio-interior-gallery-main-mobile.jpg
+  [11.0] stelvio/stelvio-veloce/interior_dashboard
+        → https://www.alfaromeousa.com/content/dam/alfa/us/stelvio/2026/technology/my26-alfa-stelvio-technology-content-grid-01-all-breakpoints.jpg
+
+Models with unresolved angles:
+  giulia: 2 entries  (e.g. giulia/rear_three_quarter, giulia-veloce/rear_three_quarter)
+  stelvio: 2 entries  (e.g. stelvio-veloce/rear_three_quarter, stelvio-veloce/side_profile)
+  tonale: 6 entries  (e.g. sprint/rear_three_quarter, sprint/side_profile, veloce/rear_three_quarter)
+=== alfa-romeo download ===
+Failed:                 10
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 10
+
+Models with zero successful images: 0 of 3
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html;charset=utf-8)] x10 — e.g. https://www.alfaromeousa.com/models/giulia

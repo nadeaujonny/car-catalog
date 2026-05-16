@@ -1,0 +1,56 @@
+Reset 28 image entries with needs_scraping:true to their model page URLs.
+Brand: alfa-romeo
+Models in JSON: 3
+Models with page URLs: 3
+Playwright fallback: enabled
+
+Scraping 3 model pages…
+
+  fetch https://www.alfaromeousa.com/models/giulia  …  static ok (142 raw candidates)
+  fetch https://www.alfaromeousa.com/models/stelvio  …  static ok (144 raw candidates)
+  fetch https://www.alfaromeousa.com/models/tonale  …  static ok (69 raw candidates)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          alfa-romeo
+Pages attempted:                3
+Pages failed:                   0
+Pages escalated to Playwright:  0 of 3
+  Playwright successes:         0
+  Playwright failures:          0
+Image entries rewritten:        18
+  via text/URL pattern match:   18
+  via positional fallback:      0
+Image entries unchanged:        10
+
+Sample rewrites:
+  [17.0] giulia/giulia/front_three_quarter
+        → https://www.alfaromeousa.com/content/dam/alfa/us/giulia/2026/overview/my26-alfa-giulia-overview-hero-main-mobile.jpg
+  [7.0] giulia/giulia/side_profile
+        → https://www.alfaromeousa.com/content/dam/alfa/us/giulia/2026/exterior/my26-alfa-giulia-exterior-gallery-main-mobile.jpg
+  [11.0] giulia/giulia/interior_dashboard
+        → https://www.alfaromeousa.com/content/dam/alfa/us/giulia/2026/performance/my26-alfa-giulia-performance-gallery-drive-mode-selector-mobile.jpg
+  [15.0] giulia/giulia-veloce/front_three_quarter
+        → https://www.alfaromeousa.com/content/dam/alfa/us/giulia/2026/performance/my26-alfa-giulia-performance-gallery-main-v2-mobile.jpg
+  [7.0] giulia/giulia-veloce/side_profile
+        → https://www.alfaromeousa.com/content/dam/alfa/us/giulia/2026/performance/my26-alfa-giulia-performance-gallery-active-awd-mobile.jpg
+  [7.0] giulia/giulia-veloce/interior_dashboard
+        → https://www.alfaromeousa.com/content/dam/alfa/us/giulia/2026/interior/my26-alfa-giulia-interior-gallery-main-mobile.jpg
+  [17.0] stelvio/stelvio/front_three_quarter
+        → https://www.alfaromeousa.com/content/dam/alfa/us/stelvio/2026/overview/my26-alfa-stelvio-overview-hero-main-mobile.jpg
+  [15.0] stelvio/stelvio/rear_three_quarter
+        → https://www.alfaromeousa.com/content/dam/alfa/us/stelvio/2026/performance/my26-alfa-stelvio-performance-gallery-traction-v3-mobile.jpg
+  [30.0] stelvio/stelvio/side_profile
+        → https://www.alfaromeousa.com/content/dam/alfa/us/stelvio/2026/exterior/my26-alfa-stelvio-exterior-gallery-main-mobile.jpg
+  [18.0] stelvio/stelvio/interior_dashboard
+        → https://www.alfaromeousa.com/content/dam/alfa/us/stelvio/2026/interior/my26-alfa-stelvio-interior-gallery-wireless-charging-mobile.jpg
+  [7.0] stelvio/stelvio-veloce/front_three_quarter
+        → https://www.alfaromeousa.com/content/dam/alfa/us/stelvio/2026/interior/my26-alfa-stelvio-interior-gallery-main-mobile.jpg
+  [11.0] stelvio/stelvio-veloce/interior_dashboard
+        → https://www.alfaromeousa.com/content/dam/alfa/us/stelvio/2026/technology/my26-alfa-stelvio-technology-content-grid-01-all-breakpoints.jpg
+
+Models with unresolved angles:
+  giulia: 2 entries  (e.g. giulia/rear_three_quarter, giulia-veloce/rear_three_quarter)
+  stelvio: 2 entries  (e.g. stelvio-veloce/rear_three_quarter, stelvio-veloce/side_profile)
+  tonale: 6 entries  (e.g. sprint/rear_three_quarter, sprint/side_profile, veloce/rear_three_quarter)

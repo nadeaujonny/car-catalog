@@ -1,0 +1,24 @@
+{
+  "brand": "Lamborghini",
+  "brand_slug": "lamborghini",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 3,
+  "trim_count": 3,
+  "total_images": 12,
+  "needs_scraping": 12,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 1,
+  "warning_count": 0,
+  "fyi_count": 0,
+  "blockers": [
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[0].trims[0].sources.features (revuelto/revuelto)",
+      "value": "https://www.lamborghini.com/en-en/news/the-new-human-machine-interface-of-lamborghini-revuelto"
+    }
+  ],
+  "warnings": [],
+  "fyis": []
+}

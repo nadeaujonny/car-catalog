@@ -1,0 +1,94 @@
+{
+  "brand": "Land Rover",
+  "brand_slug": "land-rover",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "model_count": 11,
+  "trim_count": 36,
+  "total_images": 144,
+  "needs_scraping": 144,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 15,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "defender-110/trophy-edition",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "defender-110/x",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "defender-130/outbound",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "defender-130/x",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "defender-octa/octa-black",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "discovery/dynamic-se",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "discovery/tempest-edition",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "range-rover/sv-black",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "range-rover-sport/autobiography",
+      "value": 5
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "range-rover-sport/battersea-edition",
+      "value": "dimensions"
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "range-rover-sport-sv/sv-black",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "range-rover-sport-sv/sv-carbon",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "range-rover-velar/belgravia-edition",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "range-rover-velar/belgravia-edition-satin",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "range-rover-evoque/hoxton-edition",
+      "value": 5
+    }
+  ],
+  "fyis": []
+}

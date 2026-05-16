@@ -1,0 +1,476 @@
+{
+  "brand": "Bugatti",
+  "brand_slug": "bugatti",
+  "researched_at": "2026-05-15",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Tourbillon",
+      "model_slug": "tourbillon",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "All-new Bugatti hyper sports car revealed at Molsheim on June 21, 2024 as successor to the Chiron and the first Bugatti in more than 20 years not powered by the W16 engine. Built on an entirely new carbon-composite chassis with a Cosworth-developed 8.3L naturally aspirated V16 paired with three electric motors and a new 8-speed dual-clutch transmission. Customer deliveries begin in 2026 with hand-assembly at the Bugatti Atelier in Molsheim. Production limited to 250 units globally.",
+      "msrp_range": {
+        "low": 4100000,
+        "high": 4100000
+      },
+      "model_summary": "Mid-engine plug-in-hybrid two-seat hyper sports car combining an 8.3L naturally aspirated V16 (1,000 hp) with three electric motors (combined 800 hp) for 1,800 hp total. 8-speed dual-clutch gearbox, all-wheel drive with full torque vectoring, 25 kWh / 800V battery providing over 37 miles WLTP electric range. Top speed limited to 236 mph and 276 mph with Speed Key. Production limited to 250 units; the first Bugatti without a W16 engine in over two decades.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS does not meaningfully sample Bugatti due to extremely low US sales volume, and Consumer Reports does not publish a predicted-reliability score for the Tourbillon. As an all-new hyper sports car with a clean-sheet powertrain and platform, no long-term reliability data exists.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Bugatti due to extremely low US sales volume. No quantified APEAL score is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Press coverage of the Tourbillon, based on prototype rides and engineering disclosures, frames it as a deliberate rejection of the all-screen hypercar trend in favor of an analogue, watchmaking-inspired cabin paired with a clean-sheet Cosworth-developed V16 hybrid powertrain. Praise centers on the engineering ambition (T800 carbon monocoque, 3D-printed aluminum suspension, fixed-hub steering wheel, Swiss-watchmaker instrument cluster) and on Bugatti's commitment to a non-touchscreen, mechanical interior. The car had not entered series production at the time of this research, so wheel-time reviews of customer-spec cars were not yet available.",
+        "links": [
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-news/supercars/bugatti-tourbillon-1800bhp-v16-hybrid-hypercar-replace-chiron",
+            "date": "2024-06-21"
+          },
+          {
+            "publication": "Motor Authority",
+            "url": "https://www.motorauthority.com/news/1143588_bugatti-tourbillon-price-hp-photos-specs",
+            "date": "2024-06-21"
+          },
+          {
+            "publication": "duPont REGISTRY News",
+            "url": "https://news.dupontregistry.com/bugatti/bugatti-tourbillon-price-specs-photos/",
+            "date": "2025-04-15"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the Tourbillon — customer deliveries are only beginning in 2026 and total production is capped at 250 units globally; no consumer-review platform has sufficient sample size.",
+        "confidence": "low",
+        "sources": []
+      },
+      "trims": [
+        {
+          "trim": "Tourbillon",
+          "trim_slug": "tourbillon",
+          "trim_family": "tourbillon",
+          "is_base_trim": true,
+          "msrp_base": 4100000,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "phev",
+            "engine_displacement_l": 8.3,
+            "engine_config": "V16",
+            "aspiration": "naturally_aspirated",
+            "horsepower_hp": 1800,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 664,
+            "transmission": "8-speed longitudinal dual-clutch transmission (DCT)",
+            "transmission_speeds": 8,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 24.8,
+            "battery_usable_kwh": null,
+            "electric_range_mi": 37,
+            "total_range_mi": null,
+            "dc_fast_charge_peak_kw": null,
+            "dc_fast_charge_10_to_80_min": null,
+            "ac_charge_kw": null,
+            "mpge_combined": null,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": null,
+            "highway_mpg": null,
+            "combined_mpg": null,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 2,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 276,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 183.9,
+            "width_in": 80.7,
+            "height_in": 46.8,
+            "wheelbase_in": 107.9,
+            "ground_clearance_in": null,
+            "curb_weight_lb": 4398,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "Michelin Pilot Sport Cup 2 bespoke; Front 285/35 R20, Rear 345/30 R21 (staggered)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": false,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": false,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": null,
+            "driver_display_in": null,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": "Bespoke Bugatti audio with panel-exciter transducers (no traditional speakers/woofers; existing interior panels act as speakers)",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Swiss-made analogue mechanical instrument cluster (600+ parts, titanium with sapphire and ruby gemstones, weighs 700g)",
+              "Fixed-hub steering wheel — instrument cluster remains stationary while the rim rotates",
+              "Crystal-glass and anodized aluminum center console; pull-to-start / push-to-cease engine lever",
+              "Hidden HD touchscreen deploys from top of center console (portrait reverse camera in 2 sec, full landscape in 5 sec)",
+              "Electrically actuated dihedral doors (operable from key fob)",
+              "T800 next-generation carbon-composite monocoque with structural battery integration",
+              "3D-printed aluminum suspension (45% lighter than Chiron) with multi-link front and rear",
+              "AI-developed 3D-printed hollow airfoil rear suspension arm",
+              "Carboceramic brakes with bespoke brake-by-wire system and movable pedal box",
+              "Front e-axle: 2x 250 kW PSM e-motors with SiC MOSFET inverters, full torque vectoring (3,000 Nm at wheels combined, 24,000 rpm)",
+              "Rear P2.5 e-motor: 250 kW PSM, 240 Nm, 24,000 rpm with SiC inverter",
+              "Electronic limited-slip differential (ELSD) rated up to 2,500 Nm",
+              "800V traction battery, 25 kWh gross, oil-cooled, 600+ kW peak output, integrated as structural element of the monocoque",
+              "Cosworth-co-developed naturally aspirated V16 weighs only 252 kg",
+              "Front frunk packaged between two front radiators",
+              "Active rear wing (downforce at low speed, airbrake under deceleration, submerged at top speed)",
+              "Equipe Pur Sang option package: dedicated splitter, rear wing with endplates, 8-pipe exhaust, directional 20\"/21\" wheels, Performance Seats, Black Poli interior, Medium Carbon Fiber Interior Package",
+              "Bespoke Bugatti Tourbillon Lookbox configuration experience (23 exterior colors, 20 leathers, 10 Alcantaras, 7 carpets, 8 seatbelt colors, 7 carbon designs)",
+              "0-200 km/h in <5.0 sec; 0-300 km/h in <10.0 sec; 0-400 km/h in <25.0 sec",
+              "Top speed limited to 380 km/h (236 mph); 445 km/h (276 mph) unlocked with Speed Key"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/unlimited",
+            "powertrain_yr_mi": "4yr/unlimited",
+            "corrosion_yr_mi": "4yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://bugatti-newsroom.imgix.net/8a123aa409bf4d3885d54f3ebdbb98a8/BUGATTI-World-Premiere-Presskit-Images-01-1.jpg",
+              "local_path": "images/bugatti/tourbillon/tourbillon/front_three_quarter.jpg",
+              "credit": "Bugatti Automobiles S.A.S.",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://bugatti-newsroom.imgix.net/22a79d72f8d5426d9816bfe6e16cd225/BUGATTI-World-Premiere-Presskit-Images-02.jpg",
+              "local_path": "images/bugatti/tourbillon/tourbillon/rear_three_quarter.jpg",
+              "credit": "Bugatti Automobiles S.A.S.",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://bugatti-newsroom.imgix.net/c7149e20a9254039a303fcc2d919fcab/BUGATTI-World-Premiere-Presskit-Images-04.jpg",
+              "local_path": "images/bugatti/tourbillon/tourbillon/side_profile.jpg",
+              "credit": "Bugatti Automobiles S.A.S.",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://bugatti-newsroom.imgix.net/aab77334198d402bb2508135a6d3d5df/02 BUGATTI Tourbillon EPS.jpg",
+              "local_path": "images/bugatti/tourbillon/tourbillon/interior_dashboard.jpg",
+              "credit": "Bugatti Automobiles S.A.S.",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://newsroom.bugatti.com/en/press-releases/the-bugatti-tourbillon-an-automotive-icon-pour-leternite",
+            "powertrain": "https://newsroom.bugatti.com/en/press-releases/the-bugatti-tourbillon-an-automotive-icon-pour-leternite",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/bymodel/2026_Bugatti.shtml",
+            "performance.zero_to_60_sec": "https://newsroom.bugatti.com/en/press-releases/the-bugatti-tourbillon-an-automotive-icon-pour-leternite",
+            "dimensions": "https://newsroom.bugatti.com/en/press-releases/the-bugatti-tourbillon-an-automotive-icon-pour-leternite",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle-manufacturers/bugatti",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://newsroom.bugatti.com/en/press-releases/the-bugatti-tourbillon-an-automotive-icon-pour-leternite",
+            "warranty": "https://www.bugatti.com/en/"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model (production limited to 250 units globally); is_base_trim true with delta_from_base null applied atomically per spec §6.2. MSRP based on Bugatti's manufacturer-disclosed EUR 3.8M net starting price and the publicly reported $4.1M USD equivalent at unveil (per spec §4.6 scoped MSRP source policy: Bugatti publishes EUR pricing in its press release but no formal US MSRP — Motor Authority, duPont Registry, Top Gear, and other editorial outlets quote ~$4.1M USD at current rates, and bespoke specifications routinely push delivered US prices to ~$4.6M including duties, freight, and Gas Guzzler tax). confidence: medium on MSRP. Dimensions converted to inches from the official Bugatti Tourbillon technical specifications PDF (newsroom.bugatti.com / bugatti-newsroom.imgix.net): length 4,671 mm (183.9 in), width 2,051 mm without mirrors (80.7 in), height 1,189 mm (46.8 in), wheelbase 2,740 mm (107.9 in). Curb weight 1,995 kg DIN-empty (4,398 lb). Tires 285/35 R20 front and 345/30 R21 rear (Michelin Pilot Sport Cup 2 bespoke); the Equipe Pur Sang option swaps to directional 20\"/21\" wheels with the same tire-size split. Battery 24.8 kWh gross, 800V architecture, oil-cooled, structural. WLTP electric range >60 km (37 miles); EPA has not certified this vehicle and consumption/CO2 figures are not yet subject to EU directive 1999/94/EC per the manufacturer PDF (type approval pending as of 06.2024). fueleconomy.gov has no 2026 Tourbillon entry — sources.fuel_economy points to the 2026 Bugatti brand model-browse page per spec §4.5 EPA-unavailable fallback. 0-100 km/h is 2.0 sec per manufacturer; 0-60 mph not separately published — value is set to 2.0 sec as the closest manufacturer-published figure (0-62 mph = 0-100 km/h). Top speed 380 km/h (236 mph) limited / 445 km/h (276 mph) with Speed Key — top_speed_mph stored as 276 (the unlocked figure). ADAS booleans all false: the Bugatti press materials describe a deliberately analogue interior with a hidden touchscreen and no published list of driver-assistance features (a focused hyper sports car typical pattern; no published evidence of AEB/LKA/ACC standard fitment). infotainment_screen_in and driver_display_in set to null: the instrument cluster is fully analogue (mechanical watch-style) and the central touchscreen is hidden/deployable with screen size not publicly disclosed. apple_carplay/android_auto set to none: no published support for CarPlay or Android Auto on the deployable touchscreen. NHTSA and IIHS have not crash-tested any current Bugatti model and there is no per-vehicle page for the Tourbillon — sources.safety points to brand roll-up URLs per spec §4.5. JD Power VDS/APEAL and Consumer Reports do not sample Bugatti due to extremely low US sales volume; reliability and customer_satisfaction confidence set to unknown. Standard Bugatti warranty is 4 years / unlimited mileage covering all components; specific EV battery warranty terms not yet separately published for the Tourbillon. Parent company: Bugatti Rimac (joint venture; as of May 2026, Rimac Group 55% / Porsche AG 45% — Porsche announced sale of its stake to a HOF Capital-led consortium on April 24, 2026 but completion is pending regulatory clearance and expected before end of 2026). Manufacturer hand-assembly at the Bugatti Atelier, Molsheim, France."
+        }
+      ],
+      "researched_at": "2026-05-15",
+      "notes": "Bolide deliberately excluded: it is a track-only vehicle and not street-legal in the US, matching the project precedent of excluding track-only specials (Aston Martin Valkyrie AMR Pro, Lotus Evija, McLaren W1). Chiron family deliberately excluded: production ended in 2024 and the Tourbillon is its on-sale successor. Tourbillon is the first Bugatti in over 20 years not powered by the W16 engine and the first Bugatti hybrid. The Cosworth-developed V16 is naturally aspirated. Three e-motors (two on the front e-axle, one P2.5 at the rear) total 800 hp / 588 kW, paired with the 1,000 hp V16 for 1,800 hp combined. 0-100 km/h <2.0 sec, 0-200 km/h <5.0 sec, 0-300 km/h <10.0 sec, 0-400 km/h <25.0 sec per Bugatti technical specifications PDF (status 06.2024). Sources for spec data sourced primarily from the official Bugatti newsroom press release (newsroom.bugatti.com) and the Bugatti-published technical specifications PDF; the bugatti.com consumer site returned HTTP 403/429 during research (typical ultra-luxury pattern). All image URLs verified directly on bugatti-newsroom.imgix.net CDN and return Content-Type: image/jpg."
+    },
+    {
+      "model": "W16 Mistral",
+      "model_slug": "w16-mistral",
+      "model_year": 2025,
+      "body_style": "convertible",
+      "generation_context": "Limited-run open-top hypercar revealed August 2022 at Pebble Beach as the final road-going Bugatti to use the 8.0L quad-turbocharged W16 engine introduced with the 2005 Veyron. Production limited to 99 units, all pre-sold prior to first deliveries. First customer cars left the Bugatti Atelier in Molsheim on February 19, 2025; production continues into 2025-2026. On November 9, 2024 a specially-equipped Mistral set a verified open-top top-speed world record of 453.91 km/h (282.04 mph) at the ATP Automotive Testing Papenburg track, certified by SGS-TÜV Saar GmbH.",
+      "msrp_range": {
+        "low": 5400000,
+        "high": 5400000
+      },
+      "model_summary": "Mid-engine open-top two-seat hypercar built as the swansong for Bugatti's 8.0L quad-turbocharged W16, producing 1,578 hp and 1,180 lb-ft of torque sent through a 7-speed DSG dual-clutch to permanent all-wheel drive. 0-100 km/h in 2.4 sec; top speed mode 273 mph (420 km/h) — independently verified as the fastest open-top car at 282.04 mph in November 2024. Production capped at 99 units, all sold.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power VDS does not meaningfully sample Bugatti due to extremely low US sales volume, and Consumer Reports does not publish a predicted-reliability score for the W16 Mistral. As a hand-built 99-unit hypercar built on the mature Chiron Super Sport mechanical package, the W16 powertrain has Bugatti's longest production track record (since 2005 Veyron), but no quantitative reliability data is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL does not publish scores for Bugatti due to extremely low US sales volume. No quantified APEAL score is available.",
+        "confidence": "unknown",
+        "sources": []
+      },
+      "professional_reviews": {
+        "summary": "Reviewers describe the W16 Mistral as the most theatrical version of the Chiron-era hypercar — an open-top sendoff for the quad-turbo W16 that puts the listener directly in the path of 70,000 liters/minute of intake airflow. Praise centers on engine sound, the verified 282 mph open-top top-speed record set in November 2024, and a bespoke roadster body that engineers re-skinned and revalidated for high-speed convertible use. Critiques are unanimously rooted in price and availability (all 99 units pre-sold; secondary-market asking prices have surfaced above $10M) rather than the car itself.",
+        "links": [
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/bugatti/mistral",
+            "date": "2025-06-10"
+          },
+          {
+            "publication": "Autocar",
+            "url": "https://www.autocar.co.uk/car-review/bugatti/mistral",
+            "date": "2025-05-15"
+          },
+          {
+            "publication": "evo",
+            "url": "https://www.evo.co.uk/bugatti/mistral",
+            "date": "2024-11-15"
+          }
+        ],
+        "confidence": "high"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Edmunds and KBB do not publish meaningful owner-review aggregates for the W16 Mistral — total production is only 99 units globally and no consumer-review platform has sufficient sample size. Press coverage from secondary-market reports indicates strong demand (one Mistral re-listed at $10.5M post-delivery).",
+        "confidence": "low",
+        "sources": []
+      },
+      "trims": [
+        {
+          "trim": "W16 Mistral",
+          "trim_slug": "w16-mistral",
+          "trim_family": "w16-mistral",
+          "is_base_trim": true,
+          "msrp_base": 5400000,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 8,
+            "engine_config": "V16",
+            "aspiration": "twin_turbocharged",
+            "horsepower_hp": 1578,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 1180,
+            "transmission": "7-speed DSG dual-clutch gearbox",
+            "transmission_speeds": 7,
+            "drivetrain": "AWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": null,
+            "highway_mpg": null,
+            "combined_mpg": null,
+            "fuel_tank_gal": 25.6,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 2.4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 273,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 184.8,
+            "width_in": 80.1,
+            "height_in": 47.6,
+            "wheelbase_in": 106.7,
+            "ground_clearance_in": 4.5,
+            "curb_weight_lb": 4497,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "Bespoke Michelin: Front 285/30 R20 ZR (Y) BG2 on 10J x 20 ET55 wheels; Rear 355/25 R21 ZR (Y) BG2 on 13.5J x 21 ET71 wheels (staggered)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": false,
+              "lane_keeping_assist": false,
+              "lane_departure_warning": false,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": false,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": null,
+            "driver_display_in": null,
+            "apple_carplay": "none",
+            "android_auto": "none",
+            "sound_system": null,
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": false,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": false,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": false,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Final Bugatti to use the 8.0L quad-turbocharged W16 engine (introduced 2005 with the Veyron)",
+              "Two-stage BUGATTI quad-turbocharger system with water/air intercooling",
+              "Open-roof, no fixed roof structure — bespoke carbon fiber monocoque reengineered for roadster duty",
+              "Reengineered intake system positioned behind the cockpit: at full load draws ~70,000 liters of air per minute",
+              "Five driving programs: Lift, EB, Autobahn, Handling, Top Speed (controlled steering, dampers, ESC, ASR, inter-wheel lock vary by mode)",
+              "Double-wishbone suspension front and rear with adaptive ride-height control (80–125 mm depending on mode)",
+              "Carbon-ceramic brakes: 420 mm front discs / 400 mm rear discs; 8-piston front / 6-piston rear calipers",
+              "BorgWarner front-axle controlled longitudinal differential; rear-axle differential with controlled inter-wheel lock",
+              "Permanent all-wheel drive",
+              "Verified November 9, 2024 open-top top-speed world record: 453.91 km/h (282.04 mph) at ATP Automotive Testing Papenburg, certified by SGS-TÜV Saar GmbH — pilot Andy Wallace",
+              "Top speed mode: 273 mph (420 km/h); EB / Autobahn / Handling modes capped at 236 mph (380 km/h)",
+              "0-200 km/h in 5.6 sec; 0-300 km/h in 12.1 sec; 0-400 km/h in approximately 29.0 sec",
+              "WLTP combined fuel consumption 21.8 L/100 km; CO2 emissions 495 g/km combined; efficiency class G",
+              "Front track 1,749 mm / rear track 1,661 mm",
+              "Limited to 99 units globally, all pre-sold",
+              "Hand-built at the Bugatti Atelier, Molsheim, France"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "4yr/unlimited",
+            "powertrain_yr_mi": "4yr/unlimited",
+            "corrosion_yr_mi": "4yr/unlimited",
+            "roadside_yr_mi": "4yr/unlimited",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://bugatti-newsroom.imgix.net/94d073638c0641f3839a7df78f716c93/01 BUGATTI_Roadster_launch-set_dynamic.jpg",
+              "local_path": "images/bugatti/w16-mistral/w16-mistral/front_three_quarter.jpg",
+              "credit": "Bugatti Automobiles S.A.S.",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://bugatti-newsroom.imgix.net/329e97f7c837451cb355628912a57a40/02 BUGATTI_Roadster_launch-set_dynamic.jpg",
+              "local_path": "images/bugatti/w16-mistral/w16-mistral/rear_three_quarter.jpg",
+              "credit": "Bugatti Automobiles S.A.S.",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://bugatti-newsroom.imgix.net/ca977f60e3114b5583c2ea17cfe9eb84/03 BUGATTI_Roadster_launch-set_dynamic.jpg",
+              "local_path": "images/bugatti/w16-mistral/w16-mistral/side_profile.jpg",
+              "credit": "Bugatti Automobiles S.A.S.",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://bugatti-newsroom.imgix.net/e783b8fa042844d4adc32aa299b2cc76/01 BUGATTI 1rst Mistral Deliveries-1.jpg",
+              "local_path": "images/bugatti/w16-mistral/w16-mistral/interior_dashboard.jpg",
+              "credit": "Bugatti Automobiles S.A.S.",
+              "is_shared_with_trim_family": false,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.topgear.com/car-reviews/bugatti/mistral",
+            "powertrain": "https://bugatti-newsroom.imgix.net/687a1f84e4a10282f1c9db98/technical-specifications-w16-mistral-en.pdf",
+            "fuel_economy": "https://bugatti-newsroom.imgix.net/687a1f84e4a10282f1c9db98/technical-specifications-w16-mistral-en.pdf",
+            "performance.zero_to_60_sec": "https://bugatti-newsroom.imgix.net/687a1f84e4a10282f1c9db98/technical-specifications-w16-mistral-en.pdf",
+            "dimensions": "https://bugatti-newsroom.imgix.net/687a1f84e4a10282f1c9db98/technical-specifications-w16-mistral-en.pdf",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle-manufacturers/bugatti",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://bugatti-newsroom.imgix.net/687a1f84e4a10282f1c9db98/technical-specifications-w16-mistral-en.pdf",
+            "warranty": "https://www.bugatti.com/en/"
+          },
+          "delta_from_base": null,
+          "notes": "Sole-trim model (production limited to 99 units globally, all pre-sold); is_base_trim true with delta_from_base null applied atomically per spec §6.2. MSRP based on Bugatti's manufacturer-disclosed €5 million net starting price and the publicly reported ~$5-5.8M USD equivalent (Top Gear, evo, Autocar all confirm €5M base; Robb Report quotes $5M starting price; current FX makes this ~$5.4M); confidence: medium on MSRP since Bugatti does not publish a US MSRP. Per spec §4.6 scoped MSRP source policy: Top Gear editorial price reporting cited; manufacturer does not publish US MSRP. All technical specs sourced directly from the official Bugatti newsroom technical specifications PDF (status 07.2025): engine W16 7,993 cm³ / 4 turbochargers / 1,177 kW (1,600 PS / 1,578 hp) at 7,050 rpm / 1,600 Nm (1,180 lb-ft) torque 2,250–7,000 rpm; 7-speed DSG dual-clutch; permanent AWD; DIN-empty weight 2,040 kg (4,497 lb); length 4,694 mm (184.8 in), width without mirrors 2,034 mm (80.1 in), height 1,209 mm normal mode (47.6 in), wheelbase 2,711 mm (106.7 in), ground clearance EB-mode 115 mm front / 116 mm rear (~4.5 in), fuel tank 97 L (25.6 US gal). Tires 285/30 R20 front and 355/25 R21 rear on 10J x 20 ET55 / 13.5J x 21 ET71 wheels. WLTP combined fuel consumption 21.8 L/100 km, CO2 495 g/km (efficiency class G). EPA has not published a US fueleconomy.gov entry for the W16 Mistral (Bugatti vehicles are generally Gas-Guzzler-taxed but not US-EPA-certified for individual MPG figures); fuel_economy mpg fields set to null with manufacturer WLTP figures noted. Top speed: 420 km/h (273 mph) in Top Speed mode per manufacturer; the November 2024 verified record of 453.91 km/h (282 mph) was achieved with a specially-prepared single car. ADAS booleans all false: the Bugatti technical specifications PDF lists no driver-assistance features for the W16 Mistral; the open-top roadster targets pure driving experience over electronic assistance. infotainment_screen_in/driver_display_in/sound_system set to null/none: not disclosed in the technical specifications PDF and not separately published. NHTSA and IIHS have not crash-tested the W16 Mistral (low-volume hypercar pattern); sources.safety points to brand roll-up URLs per spec §4.5. Standard Bugatti warranty 4 years / unlimited mileage per Bugatti's published warranty terms. Parent company: Bugatti Rimac (joint venture; Rimac Group 55% / Porsche AG 45% as of May 2026 — Porsche stake sale to HOF Capital consortium signed April 2026, completion pending end-2026)."
+        }
+      ],
+      "researched_at": "2026-05-15",
+      "notes": "W16 Mistral is the second model in the Bugatti current US lineup alongside the Tourbillon — the final road-going W16 Bugatti, marketed as the swansong for the engine. Production limited to 99 units globally, all pre-sold; first deliveries to US customers began February 19, 2025. The technical specifications PDF is dated 07.2025 (last revision). Top speed records: Top Speed mode is 273 mph (420 km/h) per the manufacturer's homologated spec; on November 9, 2024 a specially-prepared development Mistral piloted by Andy Wallace set an SGS-TÜV-Saar-verified open-top road-car top-speed world record of 453.91 km/h (282.04 mph) at ATP Papenburg — note this record run used a one-off variant, not the standard customer car which is rated to 273 mph. All image URLs verified on the bugatti-newsroom.imgix.net CDN and return Content-Type: image/jpg. The Bugatti consumer site (www.bugatti.com) returned HTTP 403/429 during research — Bugatti newsroom press releases and the published technical specifications PDF used as primary sources per standard ultra-luxury fallback pattern (the technical specifications PDF is hosted on Bugatti's own newsroom CDN at bugatti-newsroom.imgix.net, so it is a manufacturer primary source even though it was discovered via a third-party search hit)."
+    }
+  ]
+}

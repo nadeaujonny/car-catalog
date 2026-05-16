@@ -1,0 +1,37 @@
+Brand: lamborghini
+Referer header: https://www.lamborghini.com/
+Found 12 image entries across 3 models.
+
+[1/12] revuelto/revuelto/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[2/12] revuelto/revuelto/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[3/12] revuelto/revuelto/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[4/12] revuelto/revuelto/interior_dashboard  ok (238676 bytes, image/webp)
+[5/12] temerario/temerario/front_three_quarter  ok (85917 bytes, image/webp)
+[6/12] temerario/temerario/rear_three_quarter  ok (94201 bytes, image/webp)
+[7/12] temerario/temerario/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[8/12] temerario/temerario/interior_dashboard  ok (169349 bytes, image/webp)
+[9/12] urus-se/urus-se/front_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[10/12] urus-se/urus-se/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[11/12] urus-se/urus-se/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[12/12] urus-se/urus-se/interior_dashboard  ok (104232 bytes, image/webp)
+
+Updated catalog/data/lamborghini.json and data/lamborghini.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  lamborghini
+Total images attempted: 12
+Successful:             5 (41.7%)
+Failed:                 7
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 7
+
+Models with zero successful images: 0 of 3
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html; charset=utf-8)] x7 — e.g. https://www.lamborghini.com/en-en/models/revuelto

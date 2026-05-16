@@ -1,0 +1,121 @@
+Brand: volvo
+Referer header: https://www.volvocars.com/
+Found 95 image entries across 8 models.
+
+[1/95] xc40/b4-core-fwd/front_three_quarter  ok (57398 bytes, image/webp)
+[2/95] xc40/b4-core-fwd/rear_three_quarter  ok (55136 bytes, image/webp)
+[3/95] xc40/b4-core-fwd/side_profile  ok (182970 bytes, image/webp)
+[4/95] xc40/b4-core-fwd/interior_dashboard  ok (205746 bytes, image/webp)
+[5/95] xc40/b4-plus-fwd/front_three_quarter  ok (161602 bytes, image/webp)
+[6/95] xc40/b5-core-awd/front_three_quarter  ok (169126 bytes, image/webp)
+[7/95] xc40/b5-plus-awd/front_three_quarter  ok (396376 bytes, image/webp)
+[8/95] xc40/b5-ultra-awd/front_three_quarter  ok (27068 bytes, image/avif)
+[9/95] xc40/b5-ultra-black-edition-awd/front_three_quarter  ok (57398 bytes, image/webp)
+[10/95] xc40/b5-ultra-black-edition-awd/rear_three_quarter  ok (55136 bytes, image/webp)
+[11/95] xc40/b5-ultra-black-edition-awd/side_profile  ok (182970 bytes, image/webp)
+[12/95] xc40/b5-ultra-black-edition-awd/interior_dashboard  ok (205746 bytes, image/webp)
+[13/95] xc60/b5-core/front_three_quarter  ok (68158 bytes, image/webp)
+[14/95] xc60/b5-core/rear_three_quarter  ok (59690 bytes, image/webp)
+[15/95] xc60/b5-core/side_profile  ok (48534 bytes, image/avif)
+[16/95] xc60/b5-core/interior_dashboard  ok (58687 bytes, image/avif)
+[17/95] xc60/b5-plus/front_three_quarter  ok (122854 bytes, image/webp)
+[18/95] xc60/b5-ultra/front_three_quarter  ok (167718 bytes, image/webp)
+[19/95] xc60/b5-ultra-black-edition/front_three_quarter  ok (68158 bytes, image/webp)
+[20/95] xc60/b5-ultra-black-edition/rear_three_quarter  ok (59690 bytes, image/webp)
+[21/95] xc60/b5-ultra-black-edition/side_profile  ok (48534 bytes, image/avif)
+[22/95] xc60/b5-ultra-black-edition/interior_dashboard  ok (58687 bytes, image/avif)
+[23/95] xc60/t8-core/front_three_quarter  ok (68158 bytes, image/webp)
+[24/95] xc60/t8-core/rear_three_quarter  ok (59690 bytes, image/webp)
+[25/95] xc60/t8-core/side_profile  ok (48534 bytes, image/avif)
+[26/95] xc60/t8-core/interior_dashboard  ok (58687 bytes, image/avif)
+[27/95] xc60/t8-plus/front_three_quarter  ok (122854 bytes, image/webp)
+[28/95] xc60/t8-ultra/front_three_quarter  ok (167718 bytes, image/webp)
+[29/95] xc60/t8-ultra-black-edition/front_three_quarter  ok (68158 bytes, image/webp)
+[30/95] xc60/t8-ultra-black-edition/rear_three_quarter  ok (59690 bytes, image/webp)
+[31/95] xc60/t8-ultra-black-edition/side_profile  ok (48534 bytes, image/avif)
+[32/95] xc60/t8-ultra-black-edition/interior_dashboard  ok (58687 bytes, image/avif)
+[33/95] xc60/t8-polestar-engineered/front_three_quarter  ok (68158 bytes, image/webp)
+[34/95] xc60/t8-polestar-engineered/rear_three_quarter  ok (59690 bytes, image/webp)
+[35/95] xc60/t8-polestar-engineered/side_profile  ok (48534 bytes, image/avif)
+[36/95] xc60/t8-polestar-engineered/interior_dashboard  ok (58687 bytes, image/avif)
+[37/95] xc90/b5-core/front_three_quarter  ok (82574 bytes, image/webp)
+[38/95] xc90/b5-core/rear_three_quarter  ok (62472 bytes, image/webp)
+[39/95] xc90/b5-core/side_profile  ok (55644 bytes, image/avif)
+[40/95] xc90/b5-core/interior_dashboard  ok (87261 bytes, image/avif)
+[41/95] xc90/b5-plus/front_three_quarter  ok (118024 bytes, image/webp)
+[42/95] xc90/b5-ultra/front_three_quarter  ok (221952 bytes, image/webp)
+[43/95] xc90/b6-core/front_three_quarter  ok (410458 bytes, image/webp)
+[44/95] xc90/b6-plus/front_three_quarter  ok (36483 bytes, image/avif)
+[45/95] xc90/b6-ultra/front_three_quarter  ok (46380 bytes, image/avif)
+[46/95] xc90/t8-core/front_three_quarter  ok (82574 bytes, image/webp)
+[47/95] xc90/t8-core/rear_three_quarter  ok (62472 bytes, image/webp)
+[48/95] xc90/t8-core/side_profile  ok (55644 bytes, image/avif)
+[49/95] xc90/t8-core/interior_dashboard  ok (87261 bytes, image/avif)
+[50/95] xc90/t8-plus/front_three_quarter  ok (118024 bytes, image/webp)
+[51/95] xc90/t8-ultra/front_three_quarter  ok (221952 bytes, image/webp)
+[52/95] v60-cross-country/b5-plus/front_three_quarter  ok (135102 bytes, image/webp)
+[53/95] v60-cross-country/b5-plus/rear_three_quarter  ok (129652 bytes, image/webp)
+[54/95] v60-cross-country/b5-plus/side_profile  ok (184440 bytes, image/webp)
+[55/95] v60-cross-country/b5-plus/interior_dashboard  ok (238616 bytes, image/webp)
+[56/95] v60-cross-country/b5-ultra/front_three_quarter  ok (317514 bytes, image/webp)
+[57/95] ex30/single-motor-plus/front_three_quarter  ok (53408 bytes, image/webp)
+[58/95] ex30/single-motor-plus/rear_three_quarter  ok (51930 bytes, image/webp)
+[59/95] ex30/single-motor-plus/side_profile  ok (42504 bytes, image/avif)
+[60/95] ex30/single-motor-plus/interior_dashboard  ok (54190 bytes, image/avif)
+[61/95] ex30/twin-motor-performance-plus/front_three_quarter  ok (162848 bytes, image/webp)
+[62/95] ex30/twin-motor-performance-ultra/front_three_quarter  ok (22724 bytes, image/avif)
+[63/95] ex30/cross-country-twin-motor-ultra/front_three_quarter  ok (53408 bytes, image/webp)
+[64/95] ex30/cross-country-twin-motor-ultra/rear_three_quarter  ok (51930 bytes, image/webp)
+[65/95] ex30/cross-country-twin-motor-ultra/side_profile  ok (42504 bytes, image/avif)
+[66/95] ex30/cross-country-twin-motor-ultra/interior_dashboard  ok (54190 bytes, image/avif)
+[67/95] ex40/single-motor-plus/front_three_quarter  ok (54672 bytes, image/webp)
+[68/95] ex40/single-motor-plus/rear_three_quarter  ok (54778 bytes, image/webp)
+[69/95] ex40/single-motor-plus/side_profile  ok (50555 bytes, image/avif)
+[70/95] ex40/single-motor-plus/interior_dashboard  ok (153466 bytes, image/webp)
+[71/95] ex40/twin-motor-plus/front_three_quarter  ok (362312 bytes, image/webp)
+[72/95] ex40/twin-motor-ultra-black-edition/front_three_quarter  ok (54672 bytes, image/webp)
+[73/95] ex40/twin-motor-ultra-black-edition/rear_three_quarter  ok (54778 bytes, image/webp)
+[74/95] ex40/twin-motor-ultra-black-edition/side_profile  ok (50555 bytes, image/avif)
+[75/95] ex40/twin-motor-ultra-black-edition/interior_dashboard  ok (153466 bytes, image/webp)
+[76/95] ex90/single-motor-plus/front_three_quarter  ok (57218 bytes, image/webp)
+[77/95] ex90/single-motor-plus/rear_three_quarter  ok (59806 bytes, image/webp)
+[78/95] ex90/single-motor-plus/side_profile  ok (52445 bytes, image/avif)
+[79/95] ex90/single-motor-plus/interior_dashboard  ok (66214 bytes, image/avif)
+[80/95] ex90/twin-motor-plus/front_three_quarter  ok (169554 bytes, image/webp)
+[81/95] ex90/twin-motor-ultra/front_three_quarter  ok (26694 bytes, image/avif)
+[82/95] ex90/twin-motor-performance-plus/front_three_quarter  ok (57218 bytes, image/webp)
+[83/95] ex90/twin-motor-performance-plus/rear_three_quarter  ok (59806 bytes, image/webp)
+[84/95] ex90/twin-motor-performance-plus/side_profile  ok (52445 bytes, image/avif)
+[85/95] ex90/twin-motor-performance-plus/interior_dashboard  ok (66214 bytes, image/avif)
+[86/95] ex90/twin-motor-performance-ultra/front_three_quarter  ok (169554 bytes, image/webp)
+[87/95] es90/single-motor/front_three_quarter  FAIL (status — HTTP 404 Not Found)
+[88/95] es90/single-motor/rear_three_quarter  FAIL (status — HTTP 404 Not Found)
+[89/95] es90/single-motor/side_profile  FAIL (status — HTTP 404 Not Found)
+[90/95] es90/single-motor/interior_dashboard  FAIL (status — HTTP 404 Not Found)
+[91/95] es90/twin-motor/front_three_quarter  FAIL (status — HTTP 404 Not Found)
+[92/95] es90/twin-motor-performance/front_three_quarter  FAIL (status — HTTP 404 Not Found)
+[93/95] es90/twin-motor-performance/rear_three_quarter  FAIL (status — HTTP 404 Not Found)
+[94/95] es90/twin-motor-performance/side_profile  FAIL (status — HTTP 404 Not Found)
+[95/95] es90/twin-motor-performance/interior_dashboard  FAIL (status — HTTP 404 Not Found)
+
+Updated catalog/data/volvo.json and data/volvo.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  volvo
+Total images attempted: 95
+Successful:             86 (90.5%)
+Failed:                 9
+
+Failed by HTTP status:
+  404: 9
+
+Failed by other error kind:
+  (none)
+
+Models with zero successful images: 1 of 8
+  - es90 (9 attempted)
+
+Failure breakdown (one example per group):
+  [status-404] x9 — e.g. https://www.volvocars.com/us/cars/es90/

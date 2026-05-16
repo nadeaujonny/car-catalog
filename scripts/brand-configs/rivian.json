@@ -1,0 +1,15 @@
+{
+  "brand_slug": "rivian",
+  "notes": "rivian.com consumer pages are heavily JS-rendered — WebFetch returns only page titles (per session 3). 40 image entries in data/rivian.json are flagged needs_scraping. stories.rivian.com returns 403 to WebFetch. Model page URLs verified 2026-05-13 by WebFetch title check.",
+  "model_pages": {
+    "r1t": "https://rivian.com/r1t",
+    "r1s": "https://rivian.com/r1s",
+    "r2": "https://rivian.com/r2"
+  },
+  "slug_variants": {
+    "r1t": ["r1t", "r1-t", "r1_t"],
+    "r1s": ["r1s", "r1-s", "r1_s"],
+    "r2": ["r2", "r-2", "r_2"]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

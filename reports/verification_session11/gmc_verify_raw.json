@@ -1,0 +1,139 @@
+{
+  "brand": "GMC",
+  "brand_slug": "gmc",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "model_count": 10,
+  "trim_count": 52,
+  "total_images": 208,
+  "needs_scraping": 208,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 24,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "sierra-1500/sle",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "sierra-1500/elevation",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "sierra-hd/sierra-2500hd-sle",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "sierra-hd/sierra-2500hd-slt",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "sierra-hd/sierra-2500hd-at4",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "sierra-hd/sierra-2500hd-denali",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "sierra-hd/sierra-3500hd-sle",
+      "value": 5
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "sierra-hd/sierra-3500hd-slt",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "sierra-hd/sierra-3500hd-at4",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "sierra-hd/sierra-3500hd-denali",
+      "value": 4
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "sierra-hd/sierra-2500hd-at4x",
+      "value": "fuel_economy"
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "sierra-hd/sierra-2500hd-denali-ultimate",
+      "value": "fuel_economy"
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "sierra-hd/sierra-3500hd-denali-ultimate",
+      "value": "fuel_economy"
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "canyon/at4",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "yukon/at4",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "yukon/at4-ultimate",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "yukon/denali-ultimate",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "yukon-xl/at4",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "yukon-xl/at4-ultimate",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "yukon-xl/denali-ultimate",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "terrain/at4",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "acadia/at4",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "acadia/denali",
+      "value": 4
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "acadia/denali-ultimate",
+      "value": 3
+    }
+  ],
+  "fyis": []
+}

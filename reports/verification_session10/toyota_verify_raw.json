@@ -1,0 +1,749 @@
+{
+  "brand": "Toyota",
+  "brand_slug": "toyota",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 23,
+  "trim_count": 127,
+  "total_images": 140,
+  "needs_scraping": 3,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 9,
+  "blocker_count": 119,
+  "warning_count": 38,
+  "fyi_count": 0,
+  "blockers": [
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[0].sources.destination_fee (4runner/sr5)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-toyota-4runner-518140/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[0].sources.dimensions (4runner/sr5)",
+      "value": "https://www.cars.com/research/toyota-4runner-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[1].sources.msrp_base (4runner/trd-sport)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-toyota-4runner-518140/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[2].sources.msrp_base (4runner/trd-sport-premium)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-toyota-4runner-518140/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[3].sources.msrp_base (4runner/trd-off-road)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-toyota-4runner-518140/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[3].sources.dimensions (4runner/trd-off-road)",
+      "value": "https://www.cars.com/research/toyota-4runner-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[4].sources.msrp_base (4runner/trd-off-road-premium)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-toyota-4runner-518140/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[5].sources.msrp_base (4runner/limited)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-toyota-4runner-518140/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[6].sources.msrp_base (4runner/platinum)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-toyota-4runner-518140/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[6].sources.destination_fee (4runner/platinum)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-toyota-4runner-518140/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[6].sources.dimensions (4runner/platinum)",
+      "value": "https://www.cars.com/research/toyota-4runner-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[7].sources.msrp_base (4runner/trailhunter)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-toyota-4runner-518140/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[7].sources.dimensions (4runner/trailhunter)",
+      "value": "https://www.cars.com/research/toyota-4runner-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[8].sources.msrp_base (4runner/trd-pro)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-toyota-4runner-518140/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[8].sources.dimensions (4runner/trd-pro)",
+      "value": "https://www.cars.com/research/toyota-4runner-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[1].trims[0].sources.dimensions (bz/xle)",
+      "value": "https://www.cars.com/research/toyota-bz-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[2].trims[0].sources.dimensions (bz-woodland/woodland)",
+      "value": "https://www.cars.com/research/toyota-bz_woodland-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[3].trims[0].sources.dimensions (c-hr/se)",
+      "value": "https://www.cars.com/research/toyota-c-hr-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[4].trims[0].sources.destination_fee (camry/le)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-toyota-camry-516554/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[4].trims[0].sources.dimensions (camry/le)",
+      "value": "https://www.cars.com/research/toyota-camry-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[5].trims[0].sources.destination_fee (corolla/le)",
+      "value": "https://www.cars.com/research/toyota-corolla-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[5].trims[0].sources.dimensions (corolla/le)",
+      "value": "https://www.cars.com/research/toyota-corolla-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[5].trims[3].sources.destination_fee (corolla/hybrid-le)",
+      "value": "https://www.cars.com/research/toyota-corolla_hybrid-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[5].trims[3].sources.dimensions (corolla/hybrid-le)",
+      "value": "https://www.cars.com/research/toyota-corolla_hybrid-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[6].trims[0].sources.dimensions (corolla-cross/l)",
+      "value": "https://www.cars.com/research/toyota-corolla_cross-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[6].trims[3].sources.dimensions (corolla-cross/hybrid-s)",
+      "value": "https://www.cars.com/research/toyota-corolla_cross_hybrid-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[7].trims[0].sources.dimensions (corolla-hatchback/se)",
+      "value": "https://www.cars.com/research/toyota-corolla_hatchback-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[8].trims[0].sources.dimensions (crown/xle)",
+      "value": "https://www.cars.com/research/toyota-crown-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[8].trims[3].sources.dimensions (crown/platinum)",
+      "value": "https://www.cars.com/research/toyota-crown-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[9].trims[0].sources.dimensions (crown-signia/xle)",
+      "value": "https://www.cars.com/research/toyota-crown_signia-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[10].trims[0].sources.dimensions (gr-corolla/core)",
+      "value": "https://www.cars.com/research/toyota-gr_corolla-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[11].trims[0].sources.dimensions (gr-supra/3-0)",
+      "value": "https://www.cars.com/research/toyota-gr_supra-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[12].trims[0].sources.dimensions (gr86/base)",
+      "value": "https://www.cars.com/research/toyota-gr86-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[13].trims[0].sources.dimensions (grand-highlander/le)",
+      "value": "https://www.cars.com/research/toyota-grand_highlander-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[14].trims[0].sources.dimensions (highlander/xle)",
+      "value": "https://www.cars.com/research/toyota-highlander-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[15].trims[0].sources.dimensions (land-cruiser/1958)",
+      "value": "https://www.cars.com/research/toyota-land_cruiser-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[16].trims[0].sources.dimensions (mirai/xle)",
+      "value": "https://www.cars.com/research/toyota-mirai-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[17].trims[0].sources.destination_fee (prius/le)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-toyota-prius-511527/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[17].trims[0].sources.dimensions (prius/le)",
+      "value": "https://www.cars.com/research/toyota-prius-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[17].trims[2].sources.msrp_base (prius/xle)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-toyota-prius-511527/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[17].trims[3].sources.msrp_base (prius/nightshade)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-toyota-prius-511527/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[17].trims[4].sources.msrp_base (prius/limited)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-toyota-prius-511527/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[17].trims[5].sources.destination_fee (prius/phev-se)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-toyota-prius-511527/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[17].trims[5].sources.dimensions (prius/phev-se)",
+      "value": "https://www.cars.com/research/toyota-prius_plug-in_hybrid-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[17].trims[8].sources.msrp_base (prius/phev-xse-premium)",
+      "value": "https://www.cars.com/articles/how-much-is-the-2026-toyota-prius-511527/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[18].trims[0].sources.destination_fee (rav4/hybrid-le)",
+      "value": "https://carbuzz.com/2026-toyota-rav4-pricing/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[18].trims[0].sources.dimensions (rav4/hybrid-le)",
+      "value": "https://www.cars.com/research/toyota-rav4-2026/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[18].trims[1].sources.msrp_base (rav4/hybrid-le-awd)",
+      "value": "https://carbuzz.com/2026-toyota-rav4-pricing/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[18].trims[2].sources.msrp_base (rav4/hybrid-se)",
+      "value": "https://carbuzz.com/2026-toyota-rav4-pricing/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[18].trims[3].sources.msrp_base (rav4/hybrid-xle-premium)",
+      "value": "https://carbuzz.com/2026-toyota-rav4-pricing/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[18].trims[4].sources.msrp_base (rav4/hybrid-xse-awd)",
+      "value": "https://carbuzz.com/2026-toyota-rav4-pricing/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[18].trims[5].sources.msrp_base (rav4/hybrid-limited-awd)",
+      "value": "https://carbuzz.com/2026-toyota-rav4-pricing/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[18].trims[6].sources.msrp_base (rav4/hybrid-woodland-awd)",
+      "value": "https://carbuzz.com/2026-toyota-rav4-pricing/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[18].trims[7].sources.msrp_base (rav4/phev-se-awd)",
+      "value": "https://carbuzz.com/2026-toyota-rav4-pricing/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[18].trims[7].sources.destination_fee (rav4/phev-se-awd)",
+      "value": "https://carbuzz.com/2026-toyota-rav4-pricing/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[18].trims[8].sources.msrp_base (rav4/phev-xse-awd)",
+      "value": "https://carbuzz.com/2026-toyota-rav4-pricing/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[18].trims[9].sources.msrp_base (rav4/phev-woodland-awd)",
+      "value": "https://carbuzz.com/2026-toyota-rav4-pricing/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[18].trims[10].sources.msrp_base (rav4/phev-gr-sport-awd)",
+      "value": "https://carbuzz.com/2026-toyota-rav4-pricing/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[19].trims[0].sources.dimensions (sequoia/sr5)",
+      "value": "https://www.cars.com/research/toyota-sequoia-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[20].trims[0].sources.dimensions (sienna/le)",
+      "value": "https://www.cars.com/research/toyota-sienna-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[21].trims[0].sources.dimensions (tacoma/sr)",
+      "value": "https://www.cars.com/research/toyota-tacoma-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[22].trims[0].sources.dimensions (tundra/sr)",
+      "value": "https://www.cars.com/research/toyota-tundra-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[22].trims[5].sources.dimensions (tundra/trd-pro)",
+      "value": "https://www.cars.com/research/toyota-tundra-2026/"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "corolla/se family=se-ice"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "corolla/hybrid-xle family=xle-hybrid"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "corolla-cross/le family=le-ice"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "corolla-cross/hybrid-se family=se-hybrid"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "corolla-cross/hybrid-xse family=xse-hybrid"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "corolla-hatchback/xse family=xse"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "gr-corolla/premium-plus family=premium-plus"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "gr-supra/3-0-premium family=3-0-premium"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "gr-supra/mkv-final-edition family=mkv-final-edition"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "gr86/premium family=premium"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "gr86/yuzu-edition family=yuzu"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "grand-highlander/xle family=xle-ice"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "grand-highlander/limited family=limited-ice"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "grand-highlander/platinum family=platinum-ice"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "grand-highlander/hybrid-xle family=xle-hybrid"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "grand-highlander/hybrid-limited family=limited-hybrid"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "grand-highlander/hybrid-nightshade family=nightshade-hybrid"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "grand-highlander/hybrid-platinum family=platinum-hybrid"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "grand-highlander/hybrid-max-platinum family=platinum-hybrid-max"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "highlander/hybrid-limited family=limited-hybrid"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "highlander/hybrid-platinum family=platinum-hybrid"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "land-cruiser/land-cruiser family=land-cruiser"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "prius/phev-xse family=xse-phev"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "rav4/hybrid-se family=se-hybrid"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "rav4/hybrid-xle-premium family=xle-premium-hybrid"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "rav4/hybrid-xse-awd family=xse-hybrid"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "rav4/phev-se-awd family=se-phev"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "rav4/phev-xse-awd family=xse-phev"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "rav4/phev-woodland-awd family=woodland-phev"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "sequoia/sr5 family=sr5"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "sequoia/limited family=limited"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "sequoia/trd-pro family=trd-pro"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "sequoia/1794 family=1794"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "sequoia/platinum family=platinum"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "sequoia/capstone family=capstone"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "sienna/le family=le"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "sienna/xle family=xle"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "sienna/xse family=xse"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "sienna/woodland family=woodland"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "sienna/limited family=limited"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "sienna/platinum family=platinum"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "tacoma/sr family=sr-ice"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "tacoma/sr5 family=sr5-ice"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "tacoma/trd-prerunner family=trd-prerunner-ice"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "tacoma/trd-sport family=trd-sport-ice"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "tacoma/trd-off-road family=trd-offroad-ice"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "tacoma/limited family=limited-ice"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "tacoma/trailhunter family=trailhunter-hybrid"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "tacoma/trd-pro family=trd-pro-hybrid"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "tundra/sr family=sr-ice"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "tundra/sr5 family=sr5-ice"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "tundra/limited family=limited-ice"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "tundra/platinum family=platinum-ice"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "tundra/1794 family=1794-ice"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "tundra/trd-pro family=trd-pro-hybrid"
+    },
+    {
+      "title": "Singleton trim_family with 0 images (§7 violation)",
+      "where": "tundra/capstone family=capstone-hybrid"
+    }
+  ],
+  "warnings": [
+    {
+      "title": "Model has <4 total images across all trims",
+      "where": "gr-corolla",
+      "value": 1
+    },
+    {
+      "title": "Model has <4 total images across all trims",
+      "where": "gr-supra",
+      "value": 1
+    },
+    {
+      "title": "Model has <4 total images across all trims",
+      "where": "gr86",
+      "value": 1
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "grand-highlander/hybrid-le",
+      "value": "dimensions"
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "grand-highlander/hybrid-max-limited",
+      "value": "dimensions"
+    },
+    {
+      "title": "Model has <4 total images across all trims",
+      "where": "grand-highlander",
+      "value": 3
+    },
+    {
+      "title": "Model has <4 total images across all trims",
+      "where": "land-cruiser",
+      "value": 1
+    },
+    {
+      "title": "Model has <4 total images across all trims",
+      "where": "sequoia",
+      "value": 0
+    },
+    {
+      "title": "Model has <4 total images across all trims",
+      "where": "sienna",
+      "value": 0
+    },
+    {
+      "title": "Base trim missing sources entries",
+      "where": "tacoma/trailhunter",
+      "value": "dimensions"
+    },
+    {
+      "title": "Model has <4 total images across all trims",
+      "where": "tacoma",
+      "value": 0
+    },
+    {
+      "title": "Model has <4 total images across all trims",
+      "where": "tundra",
+      "value": 0
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "4runner/sr5 family=sr5-ice",
+      "value": 2
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "4runner/platinum family=platinum-hybrid",
+      "value": 2
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "c-hr/xse family=xse",
+      "value": 2
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "corolla-cross/l family=l-ice",
+      "value": 2
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "corolla-cross/xle family=xle-ice",
+      "value": 3
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "corolla-cross/hybrid-s family=s-hybrid",
+      "value": 3
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "corolla-hatchback/fx-edition family=fx",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "gr-corolla/core family=core",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "gr-supra/3-0 family=3-0",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "gr86/base family=base",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "grand-highlander/le family=le-ice",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "grand-highlander/hybrid-le family=le-hybrid",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "grand-highlander/hybrid-max-limited family=limited-hybrid-max",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "highlander/xle family=xle-ice",
+      "value": 2
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "highlander/xse family=xse-ice",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "highlander/limited family=limited-ice",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "highlander/platinum family=platinum-ice",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "highlander/hybrid-xle family=xle-hybrid",
+      "value": 2
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "land-cruiser/1958 family=1958",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "prius/xle family=xle-hybrid",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "prius/limited family=limited-hybrid",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "prius/phev-nightshade family=nightshade-phev",
+      "value": 3
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "prius/phev-xse-premium family=xse-premium-phev",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "rav4/hybrid-limited-awd family=limited-hybrid",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "rav4/hybrid-woodland-awd family=woodland-hybrid",
+      "value": 1
+    },
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "rav4/phev-gr-sport-awd family=gr-sport-phev",
+      "value": 1
+    }
+  ],
+  "fyis": []
+}

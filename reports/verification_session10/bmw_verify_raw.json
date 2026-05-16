@@ -1,0 +1,337 @@
+{
+  "brand": "BMW",
+  "brand_slug": "bmw",
+  "researched_at": "2026-05-11",
+  "schema_version": "1.1",
+  "model_count": 30,
+  "trim_count": 74,
+  "total_images": 284,
+  "needs_scraping": 20,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 60,
+  "warning_count": 2,
+  "fyi_count": 0,
+  "blockers": [
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[0].trims[0].sources.dimensions (2-series-coupe/230i)",
+      "value": "https://carbuzz.com/cars/bmw/2-series-coupe/2026/specs-and-trims/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[2].sources.powertrain (2-series-coupe/m240i)",
+      "value": "https://www.cars.com/research/bmw-m240-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[0].trims[3].sources.powertrain (2-series-coupe/m240i-xdrive)",
+      "value": "https://www.cars.com/research/bmw-m240-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[1].trims[0].sources.dimensions (2-series-gran-coupe/228-gran-coupe)",
+      "value": "https://www.cars.com/research/bmw-228_gran_coupe-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[1].trims[0].sources.warranty (2-series-gran-coupe/228-gran-coupe)",
+      "value": "https://www.cars.com/research/bmw-228_gran_coupe-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[1].trims[2].sources.warranty (2-series-gran-coupe/m235-xdrive-gran-coupe)",
+      "value": "https://www.cars.com/research/bmw-228_gran_coupe-2026/"
+    },
+    {
+      "title": "Forbidden source (autoblog.com) in professional_reviews.links",
+      "where": "models[1].professional_reviews.links[1] (2-series-gran-coupe)",
+      "value": "https://www.autoblog.com/cars/bmw/2-series-gran-coupe/2026",
+      "publication": "Autoblog"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[2].trims[0].sources.safety.nhtsa_overall_rating (3-series/330i)",
+      "value": "https://www.cars.com/research/bmw-330-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[2].trims[1].sources.msrp_base (3-series/330i-xdrive)",
+      "value": "https://www.cars.com/research/bmw-330-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[2].trims[2].sources.msrp_base (3-series/m340i)",
+      "value": "https://www.cars.com/research/bmw-m340-2026/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[2].trims[3].sources.msrp_base (3-series/m340i-xdrive)",
+      "value": "https://www.cars.com/research/bmw-m340-2026/"
+    },
+    {
+      "title": "Forbidden source (autoblog.com) in professional_reviews.links",
+      "where": "models[2].professional_reviews.links[2] (3-series)",
+      "value": "https://www.autoblog.com/cars/bmw/3-series/2026",
+      "publication": "Autoblog"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[3].trims[0].sources.dimensions (4-series-coupe/430i-coupe)",
+      "value": "https://www.cars.com/research/bmw-430-2026/specs/470220/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[3].trims[2].sources.dimensions (4-series-coupe/m440i-coupe)",
+      "value": "https://www.cars.com/research/bmw-m440-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (autoblog.com) in professional_reviews.links",
+      "where": "models[3].professional_reviews.links[1] (4-series-coupe)",
+      "value": "https://www.autoblog.com/reviews/2026-bmw-430i-coupe-5-reasons-to-love-it-2-reasons-to-think-twice",
+      "publication": "Autoblog"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[5].trims[0].sources.dimensions (4-series-gran-coupe/430i-gran-coupe)",
+      "value": "https://www.cars.com/research/bmw-430_gran_coupe-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[5].trims[2].sources.msrp_base (4-series-gran-coupe/m440i-gran-coupe)",
+      "value": "https://www.cars.com/research/bmw-m440_gran_coupe-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[5].trims[2].sources.dimensions (4-series-gran-coupe/m440i-gran-coupe)",
+      "value": "https://www.cars.com/research/bmw-m440_gran_coupe-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[7].trims[0].sources.dimensions (7-series/740i)",
+      "value": "https://www.cars.com/research/bmw-740-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[7].trims[2].sources.dimensions (7-series/750e-xdrive)",
+      "value": "https://www.cars.com/research/bmw-750e-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[7].trims[3].sources.dimensions (7-series/760i-xdrive)",
+      "value": "https://www.cars.com/research/bmw-760-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[8].trims[0].sources.dimensions (x1/xdrive28i)",
+      "value": "https://www.carbuzz.com/cars/bmw/x1/2026/specs-and-trims/"
+    },
+    {
+      "title": "Forbidden source (autoblog.com) in professional_reviews.links",
+      "where": "models[8].professional_reviews.links[1] (x1)",
+      "value": "https://www.autoblog.com/cars/bmw/x1/2026",
+      "publication": "Autoblog"
+    },
+    {
+      "title": "Forbidden source (iseecars.com) in sources map",
+      "where": "models[9].trims[0].sources.dimensions (x2/xdrive28i)",
+      "value": "https://www.iseecars.com/car/bmw-x2-dimensions"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[10].trims[0].sources.dimensions (x3/30-xdrive)",
+      "value": "https://www.cars.com/research/bmw-x3-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[12].trims[0].sources.dimensions (x6/x6-xdrive40i)",
+      "value": "https://carbuzz.com/cars/bmw/x6/2026/specs-and-trims/"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[14].trims[0].sources.destination_fee (alpina-xb7/alpina-xb7)",
+      "value": "https://www.press.bmwgroup.com/usa/article/detail/T0456017EN_US/2026-bmw-alpina-xb7-manufaktur:-limited-to-120-units-marking-the-close-of-a-chapter"
+    },
+    {
+      "title": "Forbidden dealer source in sources map",
+      "where": "models[14].trims[0].sources.performance.towing_capacity_lb (alpina-xb7/alpina-xb7)",
+      "value": "https://www.press.bmwgroup.com/usa/article/detail/T0456017EN_US/2026-bmw-alpina-xb7-manufaktur:-limited-to-120-units-marking-the-close-of-a-chapter"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[14].trims[0].sources.dimensions (alpina-xb7/alpina-xb7)",
+      "value": "https://www.cars.com/research/bmw-alpina_xb7-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[14].trims[0].sources.dimensions.cargo_volume_cuft (alpina-xb7/alpina-xb7)",
+      "value": "https://www.cars.com/research/bmw-alpina_xb7-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[14].trims[0].sources.wheels_tires (alpina-xb7/alpina-xb7)",
+      "value": "https://www.cars.com/research/bmw-alpina_xb7-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (iseecars.com) in sources map",
+      "where": "models[15].trims[0].sources.destination_fee (xm/xm-label)",
+      "value": "https://www.iseecars.com/car/bmw-xm-price"
+    },
+    {
+      "title": "Forbidden source (motor1.com) in professional_reviews.links",
+      "where": "models[15].professional_reviews.links[2] (xm)",
+      "value": "https://www.motor1.com/news/762447/2026-bmw-xm-label/",
+      "publication": "Motor1"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[16].trims[0].sources.dimensions (z4/z4-sdrive30i)",
+      "value": "https://www.cars.com/research/bmw-z4-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (wikipedia) in sources map",
+      "where": "models[16].trims[1].sources.dimensions (z4/z4-m40i)",
+      "value": "https://en.wikipedia.org/wiki/BMW_Z4_(G29)"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[17].trims[0].sources.dimensions (m2/m2-coupe)",
+      "value": "https://www.cars.com/research/bmw-m2-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (motor1.com) in sources map",
+      "where": "models[18].trims[0].sources.destination_fee (m3/m3-manual)",
+      "value": "https://www.motor1.com/news/761544/2026-bmw-m3-price-increase/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[18].trims[0].sources.dimensions (m3/m3-manual)",
+      "value": "https://carbuzz.com/cars/bmw/m3-sedan/2026/specs-and-trims/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[18].trims[0].sources.features (m3/m3-manual)",
+      "value": "https://carbuzz.com/cars/bmw/m3-sedan/2026/specs-and-trims/"
+    },
+    {
+      "title": "Forbidden source (motor1.com) in sources map",
+      "where": "models[18].trims[1].sources.destination_fee (m3/m3-competition)",
+      "value": "https://www.motor1.com/news/761544/2026-bmw-m3-price-increase/"
+    },
+    {
+      "title": "Forbidden source (motor1.com) in sources map",
+      "where": "models[18].trims[2].sources.destination_fee (m3/m3-competition-xdrive)",
+      "value": "https://www.motor1.com/news/761544/2026-bmw-m3-price-increase/"
+    },
+    {
+      "title": "Forbidden source (autoblog.com) in professional_reviews.links",
+      "where": "models[19].professional_reviews.links[2] (m4-coupe)",
+      "value": "https://www.autoblog.com/cars/bmw/m4/2026",
+      "publication": "Autoblog"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[20].trims[0].sources.msrp_base (m4-convertible/competition-xdrive-convertible)",
+      "value": "https://www.cars.com/research/bmw-m4-2026/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[21].trims[0].sources.msrp_base (m5-sedan/m5-sedan)",
+      "value": "https://carbuzz.com/pricing-2026-bmw-m5-sedan-unchanged/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[21].trims[0].sources.destination_fee (m5-sedan/m5-sedan)",
+      "value": "https://carbuzz.com/pricing-2026-bmw-m5-sedan-unchanged/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[21].trims[0].sources.wheels_tires (m5-sedan/m5-sedan)",
+      "value": "https://www.cars.com/research/bmw-m5-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[22].trims[0].sources.msrp_base (m5-touring/m5-touring)",
+      "value": "https://carbuzz.com/2026-bmw-m5-touring-price-increase/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in sources map",
+      "where": "models[22].trims[0].sources.dimensions (m5-touring/m5-touring)",
+      "value": "https://carbuzz.com/cars/bmw/m5-touring/2026/specs-and-trims/"
+    },
+    {
+      "title": "Forbidden source (carbuzz.com) in professional_reviews.links",
+      "where": "models[22].professional_reviews.links[2] (m5-touring)",
+      "value": "https://carbuzz.com/cars/bmw/m5-touring/2026/",
+      "publication": "CarBuzz"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[23].trims[0].sources.wheels_tires (x5-m-competition/x5-m-competition)",
+      "value": "https://www.cars.com/research/bmw-x5_m-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[26].trims[0].sources.dimensions (i5/edrive40)",
+      "value": "https://www.cars.com/research/bmw-i5-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[26].trims[1].sources.dimensions (i5/xdrive40)",
+      "value": "https://www.cars.com/research/bmw-i5-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (cars.com) in sources map",
+      "where": "models[26].trims[2].sources.dimensions (i5/m60-xdrive)",
+      "value": "https://www.cars.com/research/bmw-i5-2026/specs/"
+    },
+    {
+      "title": "Forbidden source (wikipedia) in sources map",
+      "where": "models[27].trims[0].sources.dimensions (i7/edrive50)",
+      "value": "https://en.wikipedia.org/wiki/BMW_7_Series_(G70)"
+    },
+    {
+      "title": "Forbidden source (wikipedia) in sources map",
+      "where": "models[27].trims[1].sources.dimensions (i7/xdrive60)",
+      "value": "https://en.wikipedia.org/wiki/BMW_7_Series_(G70)"
+    },
+    {
+      "title": "Forbidden source (wikipedia) in sources map",
+      "where": "models[27].trims[2].sources.dimensions (i7/m70-xdrive)",
+      "value": "https://en.wikipedia.org/wiki/BMW_7_Series_(G70)"
+    },
+    {
+      "title": "Forbidden source (autoblog.com) in professional_reviews.links",
+      "where": "models[27].professional_reviews.links[1] (i7)",
+      "value": "https://www.autoblog.com/cars/bmw/i7/2026",
+      "publication": "Autoblog"
+    },
+    {
+      "title": "Forbidden source (iseecars.com) in sources map",
+      "where": "models[28].trims[0].sources.dimensions (ix/ix-xdrive45)",
+      "value": "https://www.iseecars.com/car/bmw-ix-dimensions"
+    },
+    {
+      "title": "Forbidden source (iseecars.com) in sources map",
+      "where": "models[28].trims[2].sources.dimensions (ix/ix-m70-xdrive)",
+      "value": "https://www.iseecars.com/car/bmw-ix-dimensions"
+    },
+    {
+      "title": "Forbidden source (wikipedia) in sources map",
+      "where": "models[29].trims[0].sources.dimensions (ix3/ix3-50-xdrive)",
+      "value": "https://en.wikipedia.org/wiki/BMW_iX3"
+    }
+  ],
+  "warnings": [
+    {
+      "title": "Singleton trim_family with <4 images",
+      "where": "m4-coupe/m4-competition-xdrive-coupe family=m4-coupe-xdrive",
+      "value": 2
+    },
+    {
+      "title": "EV base trim has null fuel_economy.combined_mpg while ev_specifics.mpge_combined populated (spec §3.6 v1.1 mirror)",
+      "where": "ix3/ix3-50-xdrive"
+    }
+  ],
+  "fyis": []
+}

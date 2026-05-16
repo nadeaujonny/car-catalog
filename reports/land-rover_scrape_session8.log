@@ -1,0 +1,77 @@
+Reset 144 image entries with needs_scraping:true to their model page URLs.
+Brand: land-rover
+Models in JSON: 11
+Models with page URLs: 11
+Playwright fallback: enabled
+
+Scraping 11 model pages…
+
+  fetch https://www.landroverusa.com/defender/defender-90/index.html  …  static ok (35 raw, 7 slug-matching)
+  fetch https://www.landroverusa.com/defender/defender-110/index.html  …  static ok (39 raw, 9 slug-matching)
+  fetch https://www.landroverusa.com/defender/defender-130/index.html  …  static ok (35 raw, 7 slug-matching)
+  fetch https://www.landroverusa.com/defender/defender-octa/index.html  …  static ok (3 raw, 3 slug-matching)
+  fetch https://www.landroverusa.com/discovery/index.html  …  static ok (2 raw, 2 slug-matching)
+    playwright https://www.landroverusa.com/discovery/index.html  …  ok (2 raw candidates)
+  fetch https://www.landroverusa.com/discovery/discovery-sport/index.html  …  static ok (7 raw, 5 slug-matching)
+  fetch https://www.rangerover.com/en-us/range-rover/index.html  …  static ok (39 raw, 39 slug-matching)
+  fetch https://www.rangerover.com/en-us/range-rover-sport/index.html  …  static ok (21 raw, 16 slug-matching)
+  fetch https://www.rangerover.com/en-us/range-rover-sport/sv.html  …  static ok (3 raw, 2 slug-matching)
+    playwright https://www.rangerover.com/en-us/range-rover-sport/sv.html  …  ok (3 raw candidates)
+  fetch https://www.rangerover.com/en-us/range-rover-velar/index.html  …  static ok (14 raw, 11 slug-matching)
+  fetch https://www.rangerover.com/en-us/range-rover-evoque/index.html  …  static ok (12 raw, 8 slug-matching)
+
+========================================
+  SCRAPE SUMMARY
+========================================
+Brand:                          land-rover
+Pages attempted:                11
+Pages failed:                   0
+Pages escalated to Playwright:  2 of 11
+  Playwright successes:         2
+  Playwright failures:          0
+Image entries rewritten:        45
+  via text/URL pattern match:   45
+  via brand-specific angle:     0
+  via positional fallback:      0
+Brand-specific angle matches:   0
+Resolution upgrades:            0 URLs preferred larger variants
+Image entries unchanged:        99
+
+Sample rewrites:
+  [14.0] defender-90/v8/front_three_quarter
+        → https://jlr.scene7.com/is/image/jlr/L663_26MY_NAS_Sedona_90_Front3Q-1
+  [7.2] defender-90/v8/side_profile
+        → https://www.landroverusa.com/content/dam/lrdx/local/us/L663_26MY_NAS_Sedona_90_Side.jpg
+  [15.0] defender-110/s/front_three_quarter
+        → https://www.landroverusa.com/content/dam/lrdx/global/l663/26my/markets/us/L66326US_303104383_125.jpg.res/JLRHASH8170EE64E5093EB50AF81CDAF791D08DEC765194/L66326US_303104383_125.jpg
+  [7.0] defender-110/s/side_profile
+        → https://www.landroverusa.com/content/dam/lrdx/global/l663/26my/int/L66326GL_303104383_035.jpg.res/JLRHASHE7A76E7A7EF975DF16F4C47AFC3EACDA5B32239A/L66326GL_303104383_035.jpg
+  [15.0] defender-110/x-dynamic-se/front_three_quarter
+        → https://www.landroverusa.com/content/dam/lrdx/global/l663/26my/markets/us/L66326US_303104383_125.jpg.res/JLRHASH8170EE64E5093EB50AF81CDAF791D08DEC765194/L66326US_303104383_125.jpg
+  [7.0] defender-110/x-dynamic-se/side_profile
+        → https://www.landroverusa.com/content/dam/lrdx/global/l663/26my/int/L66326GL_303104383_035.jpg.res/JLRHASHE7A76E7A7EF975DF16F4C47AFC3EACDA5B32239A/L66326GL_303104383_035.jpg
+  [15.0] defender-110/trophy-edition/front_three_quarter
+        → https://www.landroverusa.com/content/dam/lrdx/global/l663/26my/markets/us/L66326US_303104383_125.jpg.res/JLRHASH8170EE64E5093EB50AF81CDAF791D08DEC765194/L66326US_303104383_125.jpg
+  [7.0] defender-110/trophy-edition/side_profile
+        → https://www.landroverusa.com/content/dam/lrdx/global/l663/26my/int/L66326GL_303104383_035.jpg.res/JLRHASHE7A76E7A7EF975DF16F4C47AFC3EACDA5B32239A/L66326GL_303104383_035.jpg
+  [15.0] defender-110/x/front_three_quarter
+        → https://www.landroverusa.com/content/dam/lrdx/global/l663/26my/markets/us/L66326US_303104383_125.jpg.res/JLRHASH8170EE64E5093EB50AF81CDAF791D08DEC765194/L66326US_303104383_125.jpg
+  [7.0] defender-110/x/side_profile
+        → https://www.landroverusa.com/content/dam/lrdx/global/l663/26my/int/L66326GL_303104383_035.jpg.res/JLRHASHE7A76E7A7EF975DF16F4C47AFC3EACDA5B32239A/L66326GL_303104383_035.jpg
+  [15.0] defender-110/v8/front_three_quarter
+        → https://www.landroverusa.com/content/dam/lrdx/global/l663/26my/markets/us/L66326US_303104383_125.jpg.res/JLRHASH8170EE64E5093EB50AF81CDAF791D08DEC765194/L66326US_303104383_125.jpg
+  [7.0] defender-110/v8/side_profile
+        → https://www.landroverusa.com/content/dam/lrdx/global/l663/26my/int/L66326GL_303104383_035.jpg.res/JLRHASHE7A76E7A7EF975DF16F4C47AFC3EACDA5B32239A/L66326GL_303104383_035.jpg
+
+Models with unresolved angles:
+  defender-90: 2 entries  (e.g. v8/rear_three_quarter, v8/interior_dashboard)
+  defender-110: 10 entries  (e.g. s/rear_three_quarter, s/interior_dashboard, x-dynamic-se/rear_three_quarter)
+  defender-130: 15 entries  (e.g. s/front_three_quarter, s/rear_three_quarter, s/interior_dashboard)
+  defender-octa: 8 entries  (e.g. octa/front_three_quarter, octa/rear_three_quarter, octa/side_profile)
+  discovery: 16 entries  (e.g. s/front_three_quarter, s/rear_three_quarter, s/side_profile)
+  discovery-sport: 4 entries  (e.g. landmark-edition/front_three_quarter, landmark-edition/rear_three_quarter, landmark-edition/side_profile)
+  range-rover: 8 entries  (e.g. se/rear_three_quarter, se/interior_dashboard, autobiography/rear_three_quarter)
+  range-rover-sport: 15 entries  (e.g. se/front_three_quarter, se/rear_three_quarter, se/interior_dashboard)
+  range-rover-sport-sv: 9 entries  (e.g. sv/front_three_quarter, sv/rear_three_quarter, sv/interior_dashboard)
+  range-rover-velar: 8 entries  (e.g. s/rear_three_quarter, s/interior_dashboard, belgravia-edition/rear_three_quarter)
+  range-rover-evoque: 4 entries  (e.g. s/rear_three_quarter, s/interior_dashboard, hoxton-edition/rear_three_quarter)

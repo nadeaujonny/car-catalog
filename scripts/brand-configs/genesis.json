@@ -1,0 +1,26 @@
+{
+  "brand_slug": "genesis",
+  "notes": "genesis.com/us/en/<model> consumer site. Electrified GV70 shares some assets with GV70; configured here as its own model_pages entry. Phase B 2026-05-14: all 8 URLs were 404 with the /vehicles/<model>.html pattern; site now uses /us/en/<model> (no /vehicles/ segment, no .html suffix) - all 8 updated and verified OK.",
+  "model_pages": {
+    "g70": "https://www.genesis.com/us/en/g70",
+    "g80": "https://www.genesis.com/us/en/g80",
+    "g90": "https://www.genesis.com/us/en/g90",
+    "gv60": "https://www.genesis.com/us/en/gv60",
+    "gv70": "https://www.genesis.com/us/en/gv70",
+    "electrified-gv70": "https://www.genesis.com/us/en/electrified-gv70",
+    "gv80": "https://www.genesis.com/us/en/gv80",
+    "gv80-coupe": "https://www.genesis.com/us/en/gv80-coupe"
+  },
+  "slug_variants": {
+    "electrified-gv70": [
+      "electrified-gv70",
+      "electrifiedgv70",
+      "gv70-electrified"
+    ],
+    "gv80-coupe": [
+      "gv80-coupe",
+      "gv80coupe"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

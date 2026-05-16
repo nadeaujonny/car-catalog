@@ -1,0 +1,110 @@
+Brand: mazda
+Referer header: https://www.mazdausa.com/
+Found 84 image entries across 12 models.
+
+[1/84] mazda3-sedan/2-5-s/front_three_quarter  cached (30124 bytes)
+[2/84] mazda3-sedan/2-5-s/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[3/84] mazda3-sedan/2-5-s/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[4/84] mazda3-sedan/2-5-s/interior_dashboard  ok (305320 bytes, image/jpeg)
+[5/84] mazda3-sedan/2-5-turbo-premium-plus/front_three_quarter  ok (328496 bytes, image/png)
+[6/84] mazda3-sedan/2-5-turbo-premium-plus/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[7/84] mazda3-sedan/2-5-turbo-premium-plus/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[8/84] mazda3-sedan/2-5-turbo-premium-plus/interior_dashboard  ok (305320 bytes, image/jpeg)
+[9/84] mazda3-hatchback/2-5-s/front_three_quarter  ok (41690 bytes, image/png)
+[10/84] mazda3-hatchback/2-5-s/rear_three_quarter  ok (24652 bytes, image/jpeg)
+[11/84] mazda3-hatchback/2-5-s/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[12/84] mazda3-hatchback/2-5-s/interior_dashboard  ok (262115 bytes, image/jpeg)
+[13/84] mazda3-hatchback/2-5-s-premium/front_three_quarter  ok (41690 bytes, image/png)
+[14/84] mazda3-hatchback/2-5-s-premium/rear_three_quarter  ok (24652 bytes, image/jpeg)
+[15/84] mazda3-hatchback/2-5-s-premium/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[16/84] mazda3-hatchback/2-5-s-premium/interior_dashboard  ok (262115 bytes, image/jpeg)
+[17/84] mazda3-hatchback/2-5-turbo-premium-plus/front_three_quarter  ok (41690 bytes, image/png)
+[18/84] mazda3-hatchback/2-5-turbo-premium-plus/rear_three_quarter  ok (24652 bytes, image/jpeg)
+[19/84] mazda3-hatchback/2-5-turbo-premium-plus/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[20/84] mazda3-hatchback/2-5-turbo-premium-plus/interior_dashboard  ok (262115 bytes, image/jpeg)
+[21/84] cx-30/2-5-s/front_three_quarter  ok (270228 bytes, image/png)
+[22/84] cx-30/2-5-s/rear_three_quarter  ok (49574 bytes, image/jpeg)
+[23/84] cx-30/2-5-s/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[24/84] cx-30/2-5-s/interior_dashboard  ok (339949 bytes, image/jpeg)
+[25/84] cx-30/2-5-turbo-aire-edition/front_three_quarter  ok (270228 bytes, image/png)
+[26/84] cx-30/2-5-turbo-aire-edition/rear_three_quarter  ok (49574 bytes, image/jpeg)
+[27/84] cx-30/2-5-turbo-aire-edition/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[28/84] cx-30/2-5-turbo-aire-edition/interior_dashboard  ok (339949 bytes, image/jpeg)
+[29/84] cx-5/2-5-s/front_three_quarter  ok (108576 bytes, image/webp)
+[30/84] cx-5/2-5-s/rear_three_quarter  FAIL (wrong-content-type — content-type text/html;charset=utf-8)
+[31/84] cx-5/2-5-s/side_profile  ok (168563 bytes, image/png)
+[32/84] cx-5/2-5-s/interior_dashboard  ok (65036 bytes, image/webp)
+[33/84] cx-50/2-5-s-select/front_three_quarter  ok (317390 bytes, image/png)
+[34/84] cx-50/2-5-s-select/rear_three_quarter  ok (49655 bytes, image/jpeg)
+[35/84] cx-50/2-5-s-select/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[36/84] cx-50/2-5-s-select/interior_dashboard  ok (199116 bytes, image/jpeg)
+[37/84] cx-50/2-5-turbo/front_three_quarter  ok (317390 bytes, image/png)
+[38/84] cx-50/2-5-turbo/rear_three_quarter  ok (49655 bytes, image/jpeg)
+[39/84] cx-50/2-5-turbo/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[40/84] cx-50/2-5-turbo/interior_dashboard  ok (199116 bytes, image/jpeg)
+[41/84] cx-50-hybrid/hybrid-preferred/front_three_quarter  ok (324735 bytes, image/png)
+[42/84] cx-50-hybrid/hybrid-preferred/rear_three_quarter  ok (49655 bytes, image/jpeg)
+[43/84] cx-50-hybrid/hybrid-preferred/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[44/84] cx-50-hybrid/hybrid-preferred/interior_dashboard  ok (320266 bytes, image/jpeg)
+[45/84] cx-70/3-3-turbo-preferred/front_three_quarter  ok (25558 bytes, image/jpeg)
+[46/84] cx-70/3-3-turbo-preferred/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[47/84] cx-70/3-3-turbo-preferred/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[48/84] cx-70/3-3-turbo-preferred/interior_dashboard  ok (55091 bytes, image/jpeg)
+[49/84] cx-70/3-3-turbo-s-premium/front_three_quarter  ok (25558 bytes, image/jpeg)
+[50/84] cx-70/3-3-turbo-s-premium/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[51/84] cx-70/3-3-turbo-s-premium/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[52/84] cx-70/3-3-turbo-s-premium/interior_dashboard  ok (55091 bytes, image/jpeg)
+[53/84] cx-70-phev/phev-sc/front_three_quarter  ok (35203 bytes, image/png)
+[54/84] cx-70-phev/phev-sc/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[55/84] cx-70-phev/phev-sc/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[56/84] cx-70-phev/phev-sc/interior_dashboard  ok (46137 bytes, image/jpeg)
+[57/84] cx-90/3-3-turbo-select/front_three_quarter  ok (40637 bytes, image/jpeg)
+[58/84] cx-90/3-3-turbo-select/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[59/84] cx-90/3-3-turbo-select/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[60/84] cx-90/3-3-turbo-select/interior_dashboard  ok (1030397 bytes, image/jpeg)
+[61/84] cx-90/3-3-turbo-s-premium-sport/front_three_quarter  ok (40637 bytes, image/jpeg)
+[62/84] cx-90/3-3-turbo-s-premium-sport/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[63/84] cx-90/3-3-turbo-s-premium-sport/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[64/84] cx-90/3-3-turbo-s-premium-sport/interior_dashboard  ok (1030397 bytes, image/jpeg)
+[65/84] cx-90-phev/phev-preferred/front_three_quarter  ok (393159 bytes, image/png)
+[66/84] cx-90-phev/phev-preferred/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[67/84] cx-90-phev/phev-preferred/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[68/84] cx-90-phev/phev-preferred/interior_dashboard  ok (276029 bytes, image/jpeg)
+[69/84] mx-5-miata/sport/front_three_quarter  ok (20897 bytes, image/jpeg)
+[70/84] mx-5-miata/sport/rear_three_quarter  ok (21999 bytes, image/jpeg)
+[71/84] mx-5-miata/sport/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[72/84] mx-5-miata/sport/interior_dashboard  ok (322051 bytes, image/jpeg)
+[73/84] mx-5-miata/grand-touring-6at/front_three_quarter  ok (20897 bytes, image/jpeg)
+[74/84] mx-5-miata/grand-touring-6at/rear_three_quarter  ok (21999 bytes, image/jpeg)
+[75/84] mx-5-miata/grand-touring-6at/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[76/84] mx-5-miata/grand-touring-6at/interior_dashboard  ok (322051 bytes, image/jpeg)
+[77/84] mx-5-miata-rf/grand-touring-6mt/front_three_quarter  ok (306210 bytes, image/png)
+[78/84] mx-5-miata-rf/grand-touring-6mt/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[79/84] mx-5-miata-rf/grand-touring-6mt/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[80/84] mx-5-miata-rf/grand-touring-6mt/interior_dashboard  ok (117965 bytes, image/jpeg)
+[81/84] mx-5-miata-rf/grand-touring-6at/front_three_quarter  ok (306210 bytes, image/png)
+[82/84] mx-5-miata-rf/grand-touring-6at/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[83/84] mx-5-miata-rf/grand-touring-6at/side_profile  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[84/84] mx-5-miata-rf/grand-touring-6at/interior_dashboard  ok (117965 bytes, image/jpeg)
+
+Updated catalog/data/mazda.json and data/mazda.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  mazda
+Total images attempted: 84
+Successful:             53 (63.1%)
+Failed:                 31
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 31
+
+Models with zero successful images: 0 of 12
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html; charset=utf-8)] x30 — e.g. https://www.mazdausa.com/vehicles/mazda3-sedan
+  [wrong-content-type (text/html;charset=utf-8)] x1 — e.g. https://www.mazdausa.com/vehicles/cx-5

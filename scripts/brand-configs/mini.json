@@ -1,0 +1,46 @@
+{
+  "brand_slug": "mini",
+  "notes": "miniusa.com/model/<model> consumer site. JCW variants live under /model/john-cooper-works/<variant>.html. URLs HEAD-checked 2026-05-14 (session 5): all 7 return 200. Prior config had 4 dead URLs (hardtop-2-door, jcw-hardtop, jcw-convertible, jcw-countryman) — replaced this session. hardtop-4-door.html still 200 but 301-redirects to 4-door.html; using the canonical 4-door.html. MINI CDN quirk: JCW images are NOT reliably namespaced by model in the URL path — JCW Countryman exterior shots are hosted under .../mini-convertible/2025/jcw/. The session-5 scraper matches on alt text too, so the hyphenated jcw-* variants resolve these correctly. Press fallback: press.bmwgroup.com USA (same press infrastructure as BMW).",
+  "model_pages": {
+    "cooper-hardtop-2-door": "https://www.miniusa.com/model/2-door.html",
+    "cooper-hardtop-4-door": "https://www.miniusa.com/model/4-door.html",
+    "cooper-convertible": "https://www.miniusa.com/model/convertible.html",
+    "jcw-2-door": "https://www.miniusa.com/model/john-cooper-works/2-door.html",
+    "jcw-convertible": "https://www.miniusa.com/model/john-cooper-works/convertible.html",
+    "countryman": "https://www.miniusa.com/model/countryman.html",
+    "jcw-countryman-all4": "https://www.miniusa.com/model/john-cooper-works/countryman.html"
+  },
+  "slug_variants": {
+    "cooper-hardtop-2-door": [
+      "cooper-hardtop-2-door",
+      "hardtop-2-door",
+      "hardtop2door",
+      "cooper-2-door"
+    ],
+    "cooper-hardtop-4-door": [
+      "cooper-hardtop-4-door",
+      "hardtop-4-door",
+      "hardtop4door",
+      "cooper-4-door"
+    ],
+    "cooper-convertible": [
+      "cooper-convertible",
+      "convertible"
+    ],
+    "jcw-2-door": [
+      "jcw-2-door",
+      "jcw-hardtop",
+      "jcw2door"
+    ],
+    "jcw-convertible": [
+      "jcw-convertible",
+      "jcwconvertible"
+    ],
+    "jcw-countryman-all4": [
+      "jcw-countryman-all4",
+      "jcw-countryman",
+      "jcwcountryman"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb|/homepage/|/blogs?/)"
+}

@@ -1,0 +1,147 @@
+{
+  "brand_slug": "ford",
+  "notes": "ford.com consumer site. Mustang variants (Dark Horse, GTD, Mach-E Rally) share the /mustang/ tree with sub-pages. F-150 specialty variants (Raptor, Raptor R) live under /trucks/f150/. Super Duty variants (F-250/350/450) live under /super-duty/. Session B (2026-05-14): site migrated variant sub-pages from /models/<full-name> to /models/<short-name> (dark-horse, raptor, rally, etc.); mustang-gtd moved to /performance/mustang-gtd/; escape moved to /suvs-crossovers/escape/; Super Duty series pages are now /trucks/super-duty/<series>/ (Ford serves a shared Super Duty template for f-250/f-350/f-450, all return 200). f-150-raptor-r has no dedicated consumer page — Ford covers Raptor R content on the F-150 Raptor page, so it points there. Adopted canonical trailing-slash URLs throughout. Session 6 (2026-05-14, phase-C-bis): added filename-code slug variants — ford.com asset filenames use internal product codes (MST=Mustang, MME=Mustang Mach-E, BRO=Bronco, BRS/BROS/broncosport=Bronco Sport, FSD=Ford Super Duty, F15=F-150 abbreviated, dhsc=Dark Horse SC, MachE concatenated). The catalogs' default slug_variants (e.g. f-150, f150) only match filenames where the model name appears with separators, missing the abbreviated codes Ford uses on most asset filenames. Cross-model collisions vetted: BRO does not match BRS/BROS (different chars after BR), bronco does not match broncosport (no boundary after `bronco`), f15 does not match f150 (no boundary after 15 in `F150`), dhsc does not match dark-horse (different chars).",
+  "model_pages": {
+    "mustang": "https://www.ford.com/cars/mustang/",
+    "mustang-dark-horse": "https://www.ford.com/cars/mustang/models/dark-horse/",
+    "mustang-dark-horse-sc": "https://www.ford.com/cars/mustang/models/dark-horse-sc/",
+    "mustang-gtd": "https://www.ford.com/performance/mustang-gtd/",
+    "mustang-mach-e": "https://www.ford.com/suvs/mach-e/",
+    "mustang-mach-e-rally": "https://www.ford.com/suvs/mach-e/models/rally/",
+    "bronco-sport": "https://www.ford.com/suvs/bronco-sport/",
+    "bronco": "https://www.ford.com/suvs/bronco/",
+    "bronco-raptor": "https://www.ford.com/suvs/bronco/models/raptor/",
+    "escape": "https://www.ford.com/suvs-crossovers/escape/",
+    "explorer": "https://www.ford.com/suvs/explorer/",
+    "expedition": "https://www.ford.com/suvs/expedition/",
+    "maverick": "https://www.ford.com/trucks/maverick/",
+    "ranger": "https://www.ford.com/trucks/ranger/",
+    "ranger-raptor": "https://www.ford.com/trucks/ranger/models/raptor/",
+    "f-150": "https://www.ford.com/trucks/f150/",
+    "f-150-raptor": "https://www.ford.com/trucks/f150/models/raptor/",
+    "f-150-raptor-r": "https://www.ford.com/trucks/f150/models/raptor/",
+    "f-150-lightning": "https://www.ford.com/trucks/f150-lightning/",
+    "f-250-super-duty": "https://www.ford.com/trucks/super-duty/f-250/",
+    "f-350-super-duty": "https://www.ford.com/trucks/super-duty/f-350/",
+    "f-450-super-duty": "https://www.ford.com/trucks/super-duty/f-450/"
+  },
+  "slug_variants": {
+    "mustang": [
+      "mustang",
+      "mst"
+    ],
+    "mustang-dark-horse": [
+      "mustang-dark-horse",
+      "dark-horse",
+      "darkhorse"
+    ],
+    "mustang-dark-horse-sc": [
+      "mustang-dark-horse-sc",
+      "dark-horse-sc",
+      "darkhorse-sc",
+      "dhsc"
+    ],
+    "mustang-gtd": [
+      "mustang-gtd",
+      "gtd"
+    ],
+    "mustang-mach-e": [
+      "mustang-mach-e",
+      "mach-e",
+      "mache",
+      "mme"
+    ],
+    "mustang-mach-e-rally": [
+      "mustang-mach-e-rally",
+      "mach-e-rally",
+      "mache-rally",
+      "mme-rally"
+    ],
+    "bronco": [
+      "bronco",
+      "bro"
+    ],
+    "bronco-sport": [
+      "bronco-sport",
+      "broncosport",
+      "brs",
+      "bros",
+      "bspt"
+    ],
+    "bronco-raptor": [
+      "bronco-raptor",
+      "broncoraptor",
+      "bro-rptr",
+      "bronco-rptr"
+    ],
+    "ranger-raptor": [
+      "ranger-raptor",
+      "rangerraptor",
+      "rgr-rptr",
+      "ranger-rptr"
+    ],
+    "f-150": [
+      "f-150",
+      "f150",
+      "f15"
+    ],
+    "f-150-raptor": [
+      "f-150-raptor",
+      "f150-raptor",
+      "f150raptor",
+      "f150-rptr",
+      "f15-rptr",
+      "f15-raptor"
+    ],
+    "f-150-raptor-r": [
+      "f-150-raptor-r",
+      "f150-raptor-r",
+      "raptorr",
+      "f150-rptrr",
+      "f15-rptrr"
+    ],
+    "f-150-lightning": [
+      "f-150-lightning",
+      "f150-lightning",
+      "lightning",
+      "lightninglux"
+    ],
+    "f-250-super-duty": [
+      "f-250-super-duty",
+      "f250",
+      "f-250",
+      "f250-super-duty",
+      "f250-superduty",
+      "f250xl",
+      "f250xlt",
+      "f250lariat",
+      "f250tremor",
+      "f250kr"
+    ],
+    "f-350-super-duty": [
+      "f-350-super-duty",
+      "f350",
+      "f-350",
+      "f350-super-duty",
+      "f350-superduty",
+      "f350xl",
+      "f350xlt",
+      "f350lariat",
+      "f350tremor",
+      "f350kr",
+      "f350lar"
+    ],
+    "f-450-super-duty": [
+      "f-450-super-duty",
+      "f450",
+      "f-450",
+      "f450-super-duty",
+      "f450-superduty",
+      "f450xl",
+      "f450xlt",
+      "f450lariat",
+      "f450kr"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

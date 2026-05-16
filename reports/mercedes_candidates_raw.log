@@ -1,0 +1,239 @@
+
+========================================
+### model: e-class-sedan
+### page:  https://www.mbusa.com/en/vehicles/class/e-class/sedan
+### variants for this model: ["e-class-sedan","e_class_sedan","e-sedan","e350","e450","e53"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 57
+Unique by URL: 33
+
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MATCH[e-class-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/2026-E-SEDAN-HC-D.jpg
+    alt: E-Class Sedan
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/chevron-left.png
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/chevron-right.png
+    alt: 
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-EH-1.jpg
+    alt: Standard AMG styling
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/plus.png
+    alt: Expand
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/minus.png
+    alt: Collapse
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-EH-2.jpg
+    alt: Star-pattern grille
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-EH-3.jpg
+    alt: LED headlamps and taillamps
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-EH-4.jpg
+    alt: Sizable wheel selection
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-EH-5.jpg
+    alt: Standard Panorama roof
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/left.png
+    alt: Previous
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/right.png
+    alt: Next
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-IH-1.jpg
+    alt: Intuitive touch controls
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-IH-2.jpg
+    alt: Wraparound cockpit
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-IH-3.jpg
+    alt: Finely crafted cabin
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-IH-4.jpg
+    alt: Memorable seating
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-IH-5.jpg
+    alt: Flexibly spacious
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-SH-1.jpg
+    alt: Proactive safety
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-SH-2.jpg
+    alt: Foresight for reversing
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-SH-3.jpg
+    alt: Smarter cruising
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-SH-4.jpg
+    alt: Center air bag
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-TH-1.jpg
+    alt: Artificial intelligence, genuine smarts
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-TH-2.jpg
+    alt: Situational awareness
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-TH-3.jpg
+    alt: Digital recognition
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-TH-4.jpg
+    alt: Eyes on your world
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-EP-AMG.jpg
+    alt: Outrageous power. Sensible efficiency.
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/EP-AMG-FRAME.png
+    alt: 
+MATCH[e-sedan]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/series-(ncm)/2026-E-SEDAN-HC-M.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-electric.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-shopping.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-account.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/model-spotlight/model_big_bg.png
+    alt: background
+
+SUMMARY for e-class-sedan: matched=21, missed=12, total=33
+
+========================================
+### model: gle-suv
+### page:  https://www.mbusa.com/en/vehicles/class/gle/suv
+### variants for this model: ["gle-suv","gle_suv","gle350","gle450","gle53","gle63"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 59
+Unique by URL: 33
+
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-HC-D.jpg
+    alt: GLE SUV
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/chevron-left.png
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/chevron-right.png
+    alt: 
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-EH-1.jpg
+    alt: LED headlamps and taillamps
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/plus.png
+    alt: Expand
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/minus.png
+    alt: Collapse
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-EH-2.jpg
+    alt: Aluminum roof rails
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-EH-3.jpg
+    alt: Available AMG styling
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-EH-4.jpg
+    alt: Available Panorama roof
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-EH-5.jpg
+    alt: Available illuminated running boards
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/left.png
+    alt: Previous
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/right.png
+    alt: Next
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-IH-1.jpg
+    alt: Heated power front seats
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-IH-2.jpg
+    alt: Available Burmester Surround Sound
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-IH-3.jpg
+    alt: 64-color ambient lighting
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-IH-4.jpg
+    alt: Available massaging front seats
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-IH-5.jpg
+    alt: Flexible rear cabin
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-SH-1.jpg
+    alt: Blind Spot Assist with Exit Warning
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-SH-2.jpg
+    alt: Proactive safety
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-SH-3.jpg
+    alt: Surround View System
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-SH-4.jpg
+    alt: GUARD 360° security
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-TH-1.jpg
+    alt: Artificial intelligence, genuine smarts
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-TH-2.jpg
+    alt: Dual digital displays
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-TH-3.jpg
+    alt: Wireless smartphone integration
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-TH-4.jpg
+    alt: Available air suspension
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-EP-AMG.jpg
+    alt: Predominantly dominant. Decidedly distinctive.
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/EP-AMG-FRAME.png
+    alt: 
+MATCH[gle-suv]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/gle-class/gle-suv/class-page/series-(ncm)/2026-GLE-SUV-HC-M.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-electric.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-shopping.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-account.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/model-spotlight/model_big_bg.png
+    alt: background
+
+SUMMARY for gle-suv: matched=21, missed=12, total=33
+
+========================================
+### model: c-class
+### page:  https://www.mbusa.com/en/vehicles/class/c-class/sedan
+### variants for this model: ["c-class","c_class","cclass","c300"]
+========================================
+
+Total raw candidates (after isPlausibleImageURL + blacklist): 62
+Unique by URL: 38
+
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb-dark.png
+    alt: Dark Shade Logo
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-HC-D.jpg
+    alt: C-Class Sedan
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/chevron-left.png
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/class-page-2025/chevron-right.png
+    alt: 
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-EH-1.jpg
+    alt: Supersized wheels, no extra charge
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/plus.png
+    alt: Expand
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/minus.png
+    alt: Collapse
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-EH-4.jpg
+    alt: The price of the sky is falling
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-EH-2.jpg
+    alt: Appealing from road to roof
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-EH-3.jpg
+    alt: LED lighting
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-EH-5.jpg
+    alt: AMG Line and Night Package
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/left.png
+    alt: Previous
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/right.png
+    alt: Next
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-IH-1.jpg
+    alt: Memorable seating
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-IH-2.jpg
+    alt: Spectrum of styles
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-IH-3.jpg
+    alt: Finely crafted cabin
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/wirelessconnections.jpg
+    alt: Wireless connections
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-IH-5.jpg
+    alt: Digital recognition
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-SH-1.jpg
+    alt: Center air bag
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-SH-2.jpg
+    alt: Hands-free parking
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-SH-3.jpg
+    alt: Foresight for reversing
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-SH-4.jpg
+    alt: Virtual watchdog
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-TH-1.jpg
+    alt: Artificial intelligence, genuine smarts
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-TH-2.jpg
+    alt: Situational awareness
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-TH-3.jpg
+    alt: 5G communications module
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-TH-4.jpg
+    alt: Digital Vehicle Key
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-EP-AMG.jpg
+    alt: Hand-built power, high-tech strength
+MISS: https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/EP-AMG-FRAME.png
+    alt: 
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-HC-M.jpg
+    alt: 
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-electric.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-shopping.jpg
+    alt: background
+MISS: https://www.mbusa.com/content/dam/mb-nafta/demo/nav-account.jpg
+    alt: background
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-MS-LR-001.jpg
+    alt: background
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-MS-LR-004.jpg
+    alt: background
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-MS-M-001.jpg
+    alt: background
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/2026-C-SEDAN-MS-M-002.jpg
+    alt: background
+MATCH[c-class]: https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/c-class/class-page/series-ncm/20

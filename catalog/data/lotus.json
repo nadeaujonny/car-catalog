@@ -1,0 +1,1193 @@
+{
+  "brand": "Lotus",
+  "brand_slug": "lotus",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "models": [
+    {
+      "model": "Emira",
+      "model_slug": "emira",
+      "model_year": 2026,
+      "body_style": "sports-car",
+      "generation_context": "Single-generation Emira, introduced for 2022 MY as the final ICE Lotus; 2026 MY launched June 5, 2025 with new V6 SE flagship and renamed Turbo SE",
+      "msrp_range": {
+        "low": 106900,
+        "high": 118400
+      },
+      "model_summary": "Two-seat mid-engine sports car positioned as the final internal-combustion Lotus. The Emira offers two distinct powertrains for 2026: a Mercedes-AMG-sourced 2.0L turbocharged inline-four with 8-speed dual-clutch transmission (Turbo SE, 400 hp), and the original Toyota-sourced 3.5L supercharged V6 with 6-speed manual or 6-speed automatic (V6 SE, 400 hp). The 2026 update brings a revamped cooling system, recalibrated dampers, and a new compression mount for the V6 manual transmission.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power does not publish VDS for Lotus due to low US sales volume. Consumer Reports has insufficient sample for a numeric predicted-reliability score. Long-term ownership data is sparse.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.lotuscars.com/en-US/emira"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL study does not include Lotus due to low US sales volume.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.lotuscars.com/en-US/emira"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers consistently praise the Emira's hydraulic steering, balanced mid-engine chassis, and Lotus driving feel, calling it one of the last analog sports cars. The V6 SE with manual transmission is the enthusiast favorite while the Turbo SE offers stronger straight-line pace with a modern Mercedes-AMG drivetrain. Common criticisms include premium pricing, a 36-month warranty that lags rivals, and EPA fuel economy notably below the segment average.",
+        "links": [
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/lotus/emira",
+            "date": "2026-01-15"
+          },
+          {
+            "publication": "Autocar",
+            "url": "https://www.autocar.co.uk/car-review/lotus/emira-v6",
+            "date": "2025-04-04"
+          },
+          {
+            "publication": "Hagerty",
+            "url": "https://www.hagerty.com/media/news/lotus-adds-emira-v-6-se-for-2026/",
+            "date": "2025-06-05"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Sample sizes on owner-review platforms are too small to produce a meaningful aggregate rating. Forum-level commentary from Emira owners is generally positive on driving dynamics and styling but mixed on early-build quality control and the limited 3yr/36k US warranty.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.lotuscars.com/en-US/emira"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Turbo SE",
+          "trim_slug": "turbo-se",
+          "trim_family": "emira-turbo-se",
+          "is_base_trim": true,
+          "msrp_base": 106900,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 400,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 354,
+            "transmission": "8-speed dual-clutch automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 18,
+            "highway_mpg": 26,
+            "combined_mpg": 21,
+            "fuel_tank_gal": 13.9,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2850
+          },
+          "performance": {
+            "zero_to_60_sec": 4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 181,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 173.7,
+            "width_in": 74.6,
+            "height_in": 48.2,
+            "wheelbase_in": 101.3,
+            "ground_clearance_in": 4.9,
+            "curb_weight_lb": 3097,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 5.3
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/35 R20 front; 295/30 R20 rear"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "KEF 10-speaker premium audio",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Hydraulic-assist steering (rare in modern sports cars)",
+              "Mid-engine Mercedes-AMG M139 2.0L turbo I4",
+              "AP Racing 4-piston front brake calipers with 370mm front discs",
+              "Lotus Drivers' Pack standard (sports suspension, cross-drilled brake discs, launch control)",
+              "Extended Black Pack with black exhaust tips and lower aero elements"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "3yr/36k",
+            "corrosion_yr_mi": "3yr/36k",
+            "roadside_yr_mi": "3yr/36k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/a54e65d170804d9d96fdbfafb2d1faf8?v=ccd1fcf4",
+              "local_path": "images/lotus/emira/emira-turbo-se/front_three_quarter.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9ece3276e55f43a9a530c9b17c7795e9?v=98e3183f",
+              "local_path": "images/lotus/emira/emira-turbo-se/rear_three_quarter.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/01d83644b24d47c8b1d36ab385762ca9?v=321a9367",
+              "local_path": "images/lotus/emira/emira-turbo-se/side_profile.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/3e86a72bd8424170b7ab89b7a95ae892?v=fe14109f",
+              "local_path": "images/lotus/emira/emira-turbo-se/interior_dashboard.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.lotuscars.com/en/press/news/lotus-introduces-2026-emira-v6-se-and-emira-turbo",
+            "powertrain": "https://www.lotuscars.com/en/press/models/emira",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50045",
+            "performance.zero_to_60_sec": "https://www.lotuscars.com/en/press/models/emira",
+            "dimensions": "https://www.lotuscars.com/en-US/emira/specifications",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/LOTUS/EMIRA",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.lotuscars.com/en-US/emira/specifications",
+            "warranty": "https://www.lotuscars.com/en-IT/lotus-warranty/emira"
+          },
+          "delta_from_base": null,
+          "notes": "Sole trim of the I4 turbocharged powertrain line. EPA 2026 lists only the I4 turbo (id 50045) for Lotus Emira; V6 has separate entries via the 2025 EPA listings. NHTSA and IIHS have not crash-tested the Emira due to low US volume; both ratings are null. ADAS features (AEB, LDW/LKA, ACC, blind spot) standard per Mercedes-AMG drivetrain integration. Lotus US warranty is 3yr/36k full vehicle coverage (no separate powertrain or corrosion period). Image URLs are page URLs pending Phase 4 scrape from media.lotuscars.com or lotuscars.com/en/press/galleries/emira."
+        },
+        {
+          "trim": "Turbo SE Racing Line",
+          "trim_slug": "turbo-se-racing-line",
+          "trim_family": "emira-turbo-se-racing-line",
+          "is_base_trim": true,
+          "msrp_base": 109900,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 2,
+            "engine_config": "I4",
+            "aspiration": "turbocharged",
+            "horsepower_hp": 400,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 354,
+            "transmission": "8-speed dual-clutch automatic",
+            "transmission_speeds": 8,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 18,
+            "highway_mpg": 26,
+            "combined_mpg": 21,
+            "fuel_tank_gal": 13.9,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": 2850
+          },
+          "performance": {
+            "zero_to_60_sec": 4,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 181,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 173.7,
+            "width_in": 74.6,
+            "height_in": 48.2,
+            "wheelbase_in": 101.3,
+            "ground_clearance_in": 4.9,
+            "curb_weight_lb": 3097,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 5.3
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/35 R20 front; 295/30 R20 rear (Michelin Pilot Sport Cup 2)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "KEF 10-speaker premium audio",
+            "sunroof": "none",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Racing Line package adds carbon-look interior accents and Alcantara steering wheel",
+              "Includes Michelin Pilot Sport Cup 2 tires (semi-slick)",
+              "Yellow brake calipers (visual differentiation)",
+              "Lotus Drivers' Pack standard",
+              "Extended Black Pack standard"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "3yr/36k",
+            "corrosion_yr_mi": "3yr/36k",
+            "roadside_yr_mi": "3yr/36k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/a54e65d170804d9d96fdbfafb2d1faf8?v=ccd1fcf4",
+              "local_path": "images/lotus/emira/emira-turbo-se-racing-line/front_three_quarter.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9ece3276e55f43a9a530c9b17c7795e9?v=98e3183f",
+              "local_path": "images/lotus/emira/emira-turbo-se-racing-line/rear_three_quarter.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/01d83644b24d47c8b1d36ab385762ca9?v=321a9367",
+              "local_path": "images/lotus/emira/emira-turbo-se-racing-line/side_profile.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/3e86a72bd8424170b7ab89b7a95ae892?v=fe14109f",
+              "local_path": "images/lotus/emira/emira-turbo-se-racing-line/interior_dashboard.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.lotuscars.com/en/press/news/lotus-introduces-2026-emira-v6-se-and-emira-turbo",
+            "powertrain": "https://www.lotuscars.com/en/press/models/emira",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50045",
+            "performance.zero_to_60_sec": "https://www.lotuscars.com/en/press/models/emira",
+            "dimensions": "https://www.lotuscars.com/en-US/emira/specifications",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/LOTUS/EMIRA",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.lotuscars.com/en-US/emira/specifications",
+            "warranty": "https://www.lotuscars.com/en-IT/lotus-warranty/emira"
+          },
+          "delta_from_base": null,
+          "notes": "Racing Line is treated as a separate trim_family per lotuscars.com US pricing portal which lists distinct base MSRPs for Turbo SE ($106,900) vs Turbo SE Racing Line ($109,900). The Racing Line adds the Michelin Pilot Sport Cup 2 semi-slick tires, yellow brake calipers, and Alcantara interior touches per Lotus configurator. Sole-trim atomic rule applied — singleton trim_family with is_base_trim:true + delta_from_base:null. Per spec §6.4 Racing Line is marketed as a selectable trim variant not a package."
+        },
+        {
+          "trim": "V6 SE",
+          "trim_slug": "v6-se",
+          "trim_family": "emira-v6-se",
+          "is_base_trim": true,
+          "msrp_base": 112900,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3.5,
+            "engine_config": "V6",
+            "aspiration": "supercharged",
+            "horsepower_hp": 400,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 310,
+            "transmission": "6-speed manual (6-speed automatic optional)",
+            "transmission_speeds": 6,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 16,
+            "highway_mpg": 24,
+            "combined_mpg": 19,
+            "fuel_tank_gal": 15.3,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 4.3,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 180,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 173.7,
+            "width_in": 74.6,
+            "height_in": 48.2,
+            "wheelbase_in": 101.3,
+            "ground_clearance_in": 4.9,
+            "curb_weight_lb": 3212,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 5.3
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/35 R20 front; 295/30 R20 rear (Goodyear Eagle F1 Supersport)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "KEF 10-speaker premium audio",
+            "sunroof": "none",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Toyota-sourced 3.5L supercharged V6 (final ICE Lotus engine)",
+              "Standard 6-speed manual with revised compression mount for 2026 (6-speed automatic available)",
+              "Red brake calipers",
+              "Extended Black Pack standard",
+              "New 2026 suspension damper calibration and refined wheel alignment",
+              "Hydraulic-assist steering"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "3yr/36k",
+            "corrosion_yr_mi": "3yr/36k",
+            "roadside_yr_mi": "3yr/36k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/a54e65d170804d9d96fdbfafb2d1faf8?v=ccd1fcf4",
+              "local_path": "images/lotus/emira/emira-v6-se/front_three_quarter.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9ece3276e55f43a9a530c9b17c7795e9?v=98e3183f",
+              "local_path": "images/lotus/emira/emira-v6-se/rear_three_quarter.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/01d83644b24d47c8b1d36ab385762ca9?v=321a9367",
+              "local_path": "images/lotus/emira/emira-v6-se/side_profile.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/3e86a72bd8424170b7ab89b7a95ae892?v=fe14109f",
+              "local_path": "images/lotus/emira/emira-v6-se/interior_dashboard.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.lotuscars.com/en/press/news/lotus-introduces-2026-emira-v6-se-and-emira-turbo",
+            "powertrain": "https://www.lotuscars.com/en/press/models/emira",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/bymodel/2026_Lotus_Emira.shtml",
+            "performance.zero_to_60_sec": "https://www.lotuscars.com/en/press/models/emira",
+            "dimensions": "https://www.lotuscars.com/en-US/emira/specifications",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/LOTUS/EMIRA",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.lotuscars.com/en-US/emira/specifications",
+            "warranty": "https://www.lotuscars.com/en-IT/lotus-warranty/emira"
+          },
+          "delta_from_base": null,
+          "notes": "Sole trim of the V6 supercharged powertrain line (separate from the I4 Turbo line per multi-powertrain rule). EPA 2026 has not yet published a discrete V6 entry on fueleconomy.gov (the 2026 Lotus model browse page lists only the I4 turbo, id 50045); MPG values 16/24/19 carry from the mechanically-identical 2025 Lotus Emira V6 6MT (EPA id 49130) which Lotus has not materially changed for 2026. sources.fuel_economy points to the 2026 Lotus Emira model browse page per spec §4 EPA-unavailable fallback rule. ADAS adaptive cruise control set false because the 2026 V6 SE retains hydraulic steering and uses a more traditional driver-aid suite without radar-based ACC per Lotus consumer site. NHTSA/IIHS have not crash-tested the Emira."
+        },
+        {
+          "trim": "V6 SE Racing Line",
+          "trim_slug": "v6-se-racing-line",
+          "trim_family": "emira-v6-se-racing-line",
+          "is_base_trim": true,
+          "msrp_base": 118400,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ice",
+            "engine_displacement_l": 3.5,
+            "engine_config": "V6",
+            "aspiration": "supercharged",
+            "horsepower_hp": 400,
+            "horsepower_source": "manufacturer-engine",
+            "torque_lb_ft": 310,
+            "transmission": "6-speed manual (6-speed automatic optional)",
+            "transmission_speeds": 6,
+            "drivetrain": "RWD"
+          },
+          "ev_specifics": null,
+          "fuel_economy": {
+            "city_mpg": 16,
+            "highway_mpg": 24,
+            "combined_mpg": 19,
+            "fuel_tank_gal": 15.3,
+            "fuel_type_required": "premium",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 4.3,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 180,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 173.7,
+            "width_in": 74.6,
+            "height_in": 48.2,
+            "wheelbase_in": 101.3,
+            "ground_clearance_in": 4.9,
+            "curb_weight_lb": 3212,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 5.3
+            }
+          },
+          "capacity": {
+            "seats": 2,
+            "rows": 1
+          },
+          "wheels_tires": {
+            "wheel_size_in": 20,
+            "tire_spec": "245/35 R20 front; 295/30 R20 rear (Michelin Pilot Sport Cup 2)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": false,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": false,
+              "rear_automatic_braking": false,
+              "driver_attention_monitoring": false
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 10.25,
+            "driver_display_in": 12.3,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "KEF 10-speaker premium audio",
+            "sunroof": "none",
+            "seat_material": "alcantara_mix",
+            "heated_seats_front": true,
+            "ventilated_seats_front": false,
+            "heated_steering_wheel": false,
+            "power_seats_driver": true,
+            "memory_seats_driver": false,
+            "wireless_phone_charging": true,
+            "head_up_display": false,
+            "remote_start": false,
+            "notable_other": [
+              "Racing Line trim level — adds Alcantara mix interior, two-tone seats, carbon-look accents",
+              "Michelin Pilot Sport Cup 2 semi-slick tires standard",
+              "Yellow brake calipers",
+              "Forged 5-spoke 20-inch wheels in diamond-cut finish",
+              "Extended Black Pack and Drivers' Pack standard"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "3yr/36k",
+            "powertrain_yr_mi": "3yr/36k",
+            "corrosion_yr_mi": "3yr/36k",
+            "roadside_yr_mi": "3yr/36k",
+            "ev_battery_yr_mi": null,
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/a54e65d170804d9d96fdbfafb2d1faf8?v=ccd1fcf4",
+              "local_path": "images/lotus/emira/emira-v6-se-racing-line/front_three_quarter.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/9ece3276e55f43a9a530c9b17c7795e9?v=98e3183f",
+              "local_path": "images/lotus/emira/emira-v6-se-racing-line/rear_three_quarter.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/01d83644b24d47c8b1d36ab385762ca9?v=321a9367",
+              "local_path": "images/lotus/emira/emira-v6-se-racing-line/side_profile.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/3e86a72bd8424170b7ab89b7a95ae892?v=fe14109f",
+              "local_path": "images/lotus/emira/emira-v6-se-racing-line/interior_dashboard.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.lotuscars.com/en/press/news/lotus-introduces-2026-emira-v6-se-and-emira-turbo",
+            "powertrain": "https://www.lotuscars.com/en/press/models/emira",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/bymodel/2026_Lotus_Emira.shtml",
+            "performance.zero_to_60_sec": "https://www.lotuscars.com/en/press/models/emira",
+            "dimensions": "https://www.lotuscars.com/en-US/emira/specifications",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/LOTUS/EMIRA",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.lotuscars.com/en-US/emira/specifications",
+            "warranty": "https://www.lotuscars.com/en-IT/lotus-warranty/emira"
+          },
+          "delta_from_base": null,
+          "notes": "V6 SE Racing Line is the top-priced regular-production 2026 Emira at $118,400 (per Lotus press release pricing). Treated as a separate trim_family per the same reasoning as Turbo SE Racing Line — different MSRP, different standard tires/wheels, different visual character. Sole-trim atomic rule applied. EPA fuel_economy source uses 2026 Lotus Emira model-browse page since EPA has not published the V6 separately for 2026."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Lotus Emira is the final ICE Lotus per Lotus Cars marketing. 2026 MY launched June 5, 2025. Four selectable trims at lotuscars.com/en-US pricing portal: Turbo SE ($106,900), Turbo SE Racing Line ($109,900), V6 SE ($112,900), V6 SE Racing Line ($118,400). Each trim treated as its own trim_family because they have distinct standard tires, brake caliper colors, interior trim, and visually-distinct package elements per F-150/Sierra precedent. Multi-powertrain model: Turbo SE is the I4 turbo base; V6 SE is the V6 supercharged base. Both Racing Line trims are sole-trim entries with is_base_trim:true + delta_from_base:null per spec §6.4 sole-trim atomic rule. EPA 2026 has only published the I4 turbo entry (id 50045); V6 entry mirrors 2025 EPA data (id 49130/49131) since Lotus has not changed the V6 mechanical package. Lotus US distribution does not destination-fee separately per Lotus communications; included in MSRP. NHTSA and IIHS have not crash-tested any Lotus model — null safety with notes per spec §13 ultra-luxury convention. Image URLs are page URLs flagged needs_scraping for Phase 4 follow-up at media.lotuscars.com or lotuscars.com/en/press/galleries/emira. Phase 4 image scrape: persistent low coverage (0% as of 2026-05-14) — lotuscars.com is JS-rendered and the rendered DOM has no usable <img> candidates. Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "Eletre",
+      "model_slug": "eletre",
+      "model_year": 2026,
+      "body_style": "suv-midsize",
+      "generation_context": "First-generation Eletre, introduced 2023 internationally; US sale launched 2024-2025 with Carbon-only trim due to 100% China-EV tariff",
+      "msrp_range": {
+        "low": 229900,
+        "high": 229900
+      },
+      "model_summary": "All-electric five-passenger 'Hyper-SUV' assembled in Wuhan, China. Dual-motor AWD producing 905 horsepower and 727 lb-ft of torque from a 112 kWh battery, with 0-62 mph in 2.95 seconds and a Lotus-claimed 280 miles of WLTP range. The Eletre Carbon — the only US-market trim due to the 100% tariff on Chinese-built EVs — adds extensive interior and exterior carbon fiber, KEF 23-speaker Reference audio, a 15.1-inch OLED touchscreen, and a switchable electrochromic glass roof.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power does not publish VDS for Lotus due to low US sales volume. Consumer Reports has insufficient sample for a numeric predicted-reliability score. As a new Chinese-built EV from Geely-owned Lotus Tech, long-term US reliability data is essentially absent.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.lotuscars.com/en-US/eletre"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL study does not include Lotus due to low US sales volume.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.lotuscars.com/en-US/eletre"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the Eletre's striking 'porous' aerodynamic styling, lavishly executed KEF audio, switchable glass roof, and sub-three-second acceleration. The carbon-fiber-rich interior is largely admired though some switchgear feels less premium than rival German competitors. The 100% US tariff on Chinese-built EVs pushes the Carbon trim to $229,900 in the US — more than double the European-market Eletre 900 — making value the most-cited criticism.",
+        "links": [
+          {
+            "publication": "Motor Authority",
+            "url": "https://www.motorauthority.com/news/1144446_lotus-eletre-carbon-price",
+            "date": "2024-09-12"
+          },
+          {
+            "publication": "Green Car Reports",
+            "url": "https://www.greencarreports.com/news/1144452_lotus-eletre-electric-suv-us-price",
+            "date": "2024-09-13"
+          },
+          {
+            "publication": "Electrek",
+            "url": "https://electrek.co/2024/09/12/lotus-launches-ultra-luxe-carbon-variant-eletre-hyper-suv-north-america/",
+            "date": "2024-09-12"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owner-review sample sizes on Edmunds and KBB are too small to produce a meaningful aggregate rating for the Lotus Eletre. Forum-level commentary skews positive on driving dynamics and presence but cites concerns about real-world charging speeds and US service-network density.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.lotuscars.com/en-US/eletre"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "Carbon",
+          "trim_slug": "carbon",
+          "trim_family": "eletre-carbon",
+          "is_base_trim": true,
+          "msrp_base": 229900,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 905,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 727,
+            "transmission": "2-speed automatic (rear axle)",
+            "transmission_speeds": 2,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 112,
+            "battery_usable_kwh": 109,
+            "electric_range_mi": null,
+            "total_range_mi": null,
+            "dc_fast_charge_peak_kw": 350,
+            "dc_fast_charge_10_to_80_min": 18,
+            "ac_charge_kw": 22,
+            "mpge_combined": null,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": null,
+            "highway_mpg": null,
+            "combined_mpg": null,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 2.95,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 165,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 200.9,
+            "width_in": 79.5,
+            "height_in": 64.2,
+            "wheelbase_in": 118.9,
+            "ground_clearance_in": 6.3,
+            "curb_weight_lb": 5930,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": 21.6,
+              "behind_1st_row": 54.1,
+              "max_with_seats_folded": 54.1,
+              "trunk_cuft": null
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 23,
+            "tire_spec": "275/35 R23 front; 315/30 R23 rear (Pirelli P-Zero)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 15.1,
+            "driver_display_in": 12.6,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "KEF Reference 23-speaker with Uni-Q and Uni-Core",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "Extended carbon fiber exterior pack (Stardust black satin paint)",
+              "Extended carbon fiber interior pack with carbon-trimmed seatbelts",
+              "Electrochromic panoramic glass roof switchable between opaque and clear (10 settings)",
+              "29-inch dual-zone augmented-reality head-up display",
+              "Rear-axle 2-speed gearbox for ride/range optimization",
+              "Rear-wheel steering, active roll control, brake-based torque vectoring",
+              "5 massage modes with ventilated and heated front seats",
+              "Bridge of Weir premium leather (three colorways)",
+              "Soft-close electric doors",
+              "Retractable roof-mounted LiDAR (deployable in select markets)",
+              "Optional 10-piston carbon ceramic brakes (420mm front)",
+              "Six drive modes (Tour, Range, Sport, Off-Road, Individual, Track)",
+              "Standard Lotus Chapman Bespoke personalization program"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "5yr/100k",
+            "powertrain_yr_mi": "5yr/100k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "5yr/100k",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/65fb515f5e45491683fc61722155f829?v=b91aa09a",
+              "local_path": "images/lotus/eletre/eletre-carbon/front_three_quarter.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.lotuscars.com/en-US/eletre",
+              "local_path": "images/lotus/eletre/eletre-carbon/rear_three_quarter.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.lotuscars.com/en-US/eletre",
+              "local_path": "images/lotus/eletre/eletre-carbon/side_profile.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://wlt-p-001.sitecorecontenthub.cloud/api/public/content/402f7afa13914b69a250a0d965def3a9?v=46a9b148",
+              "local_path": "images/lotus/eletre/eletre-carbon/interior_dashboard.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true,
+              "downloaded": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.lotuscars.com/en-US/eletre",
+            "powertrain": "https://www.lotuscars.com/en-US/eletre/specifications",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2026&year2=2026&make=Lotus&srchtyp=ymm&rowLimit=200",
+            "performance.zero_to_60_sec": "https://www.lotuscars.com/en-US/eletre/specifications",
+            "dimensions": "https://www.lotuscars.com/en-US/eletre/specifications",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/LOTUS/ELETRE",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.lotuscars.com/en-US/eletre/specifications",
+            "warranty": "https://www.lotuscars.com/en-SE/lotus-warranty/eletre"
+          },
+          "delta_from_base": null,
+          "notes": "The Lotus Eletre Carbon is the only US-market trim of the Eletre per lotuscars.com/en-US (which lists only 'Eletre Carbon' at $229,900 starting). Lotus's other markets offer six trims (600 / 600 GT / 600 GT SE / 600 Sport SE / 900 Sport / 900 Sport Carbon) but the 100% US tariff on Chinese-built EVs (Eletre is assembled in Wuhan, China) makes lower trims economically unviable for US sale per Motor Authority and Electrek reporting. The $229,900 represents an ~$85,000 markup over the pre-tariff Eletre R MSRP of $145,000. EPA has NOT published a fueleconomy.gov entry for the Lotus Eletre at any model year (Chinese-built EVs from Geely's Lotus Tech are not yet US-EPA-tested per fueleconomy.gov PowerSearch 2026); sources.fuel_economy points to the EPA brand-browse search URL per spec §4 EPA-unavailable fallback rule. The 280-mile range Lotus claims is WLTP (European cycle); EPA would typically rate this 12-18% lower (~230-250 mi est. but not published). MPGe values left null for the same reason. plug_type set to 'CCS1' for US market (NACS adoption announced by Lotus for future models but Eletre Carbon retains CCS1 in current US delivery). NHTSA and IIHS have not crash-tested the Eletre (Chinese-built low-volume luxury EV — null per spec §13). ADAS suite standard given the 350kW DC charging-equipped premium positioning. Image URLs are page URLs flagged needs_scraping for Phase 4."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Eletre is sold in the US only as the Carbon trim at $229,900 starting per lotuscars.com/en-US. The 100% US tariff on Chinese-built EVs (introduced May 2024 by the Biden administration, retained under Trump per 2026 trade-policy reporting) forced Lotus to skip lower-MSRP trims for US sale — only the highest-content Carbon variant carries enough margin to absorb a portion of the tariff. International markets get six trims (600 / 600 GT / 600 GT SE / 600 Sport SE / 900 Sport / 900 Sport Carbon) per Lotus's April 2025 lineup revamp, but none of those have been listed by Lotus for US sale as of 2026-05-13. EPA fueleconomy.gov has no entry for the Eletre at any model year. NHTSA and IIHS have not crash-tested any Eletre. Lotus's Q4 2025 earnings call cited 'tariff headwinds' for a 44% revenue plunge and 46% delivery drop; Lotus Technology slashed EV sales targets 78% in 2025-26 specifically due to US tariff exposure. All 4 image entries flagged needs_scraping. Single-trim model — atomic rule applied (is_base_trim:true + delta_from_base:null). Phase 4 image scrape: persistent low coverage (0% as of 2026-05-14) — lotuscars.com is JS-rendered and the rendered DOM has no usable <img> candidates. Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    },
+    {
+      "model": "Emeya",
+      "model_slug": "emeya",
+      "model_year": 2026,
+      "body_style": "sedan",
+      "generation_context": "First-generation Emeya, unveiled September 2023; US sale launched 2024-2025 with Emeya R as the sole US trim",
+      "msrp_range": {
+        "low": null,
+        "high": null
+      },
+      "model_summary": "All-electric five-door 'Hyper-GT' liftback sedan assembled in Wuhan, China. Dual-motor AWD with 905 horsepower and 726 lb-ft of torque from a 102 kWh battery (98.9 kWh usable), 0-62 mph in 2.78 seconds, and Lotus-claimed range of up to 379 miles WLTP. The Emeya R — the only US-market trim — adds 800V architecture supporting 350-420 kW DC fast charging, a 15.1-inch OLED touchscreen, KEF Reference 23-speaker audio, and a Level 2+ ADAS suite. Positioned as a direct rival to the Porsche Taycan, Lucid Air, and Tesla Model S.",
+      "reliability": {
+        "jd_power_vds_score": null,
+        "jd_power_vds_year": null,
+        "consumer_reports_predicted_reliability": null,
+        "summary": "JD Power does not publish VDS for Lotus due to low US sales volume. Consumer Reports has insufficient sample for a numeric predicted-reliability score. As a new Chinese-built EV from Geely-owned Lotus Tech, long-term US reliability data is essentially absent.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.lotuscars.com/en-US/emeya"
+        ]
+      },
+      "customer_satisfaction": {
+        "jd_power_apeal_score": null,
+        "jd_power_apeal_year": null,
+        "summary": "JD Power APEAL study does not include Lotus due to low US sales volume.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.lotuscars.com/en-US/emeya"
+        ]
+      },
+      "professional_reviews": {
+        "summary": "Reviewers praise the Emeya R's sub-three-second acceleration, KEF Reference audio, switchable carbon-fiber interior, and the 800V architecture's 350-420 kW charging speed. Common criticisms include real-world range falling well below the 379-mile WLTP claim (around 250 miles in mixed driving), the absence of Lotus's traditional steering feel, and US MSRP that Lotus has not formally announced — making direct value comparisons with the Taycan and Lucid Air difficult.",
+        "links": [
+          {
+            "publication": "Top Gear",
+            "url": "https://www.topgear.com/car-reviews/lotus/emeya",
+            "date": "2026-02-14"
+          },
+          {
+            "publication": "Autocar",
+            "url": "https://www.autocar.co.uk/car-review/lotus/emeya",
+            "date": "2026-03-10"
+          },
+          {
+            "publication": "InsideEVs",
+            "url": "https://insideevs.com/reviews/725170/lotus-emeya-first-drive-review/",
+            "date": "2024-09-18"
+          }
+        ],
+        "confidence": "medium"
+      },
+      "owner_reviews": {
+        "edmunds_star_rating": null,
+        "edmunds_sample_size": null,
+        "kbb_star_rating": null,
+        "kbb_sample_size": null,
+        "summary": "Owner-review sample sizes on Edmunds and KBB are too small to produce a meaningful aggregate rating for the Lotus Emeya. The model only launched US sales in 2025 and is sold in low volumes due to tariff-driven pricing.",
+        "confidence": "unknown",
+        "sources": [
+          "https://www.lotuscars.com/en-US/emeya"
+        ]
+      },
+      "trims": [
+        {
+          "trim": "R",
+          "trim_slug": "r",
+          "trim_family": "emeya-r",
+          "is_base_trim": true,
+          "msrp_base": null,
+          "destination_fee": null,
+          "msrp_as_equipped_estimate": null,
+          "powertrain": {
+            "type": "ev",
+            "engine_displacement_l": null,
+            "engine_config": "none",
+            "aspiration": "electric",
+            "horsepower_hp": 905,
+            "horsepower_source": "manufacturer-combined",
+            "torque_lb_ft": 726,
+            "transmission": "2-speed automatic (rear axle)",
+            "transmission_speeds": 2,
+            "drivetrain": "AWD-electric"
+          },
+          "ev_specifics": {
+            "battery_capacity_kwh": 102,
+            "battery_usable_kwh": 98.9,
+            "electric_range_mi": null,
+            "total_range_mi": null,
+            "dc_fast_charge_peak_kw": 350,
+            "dc_fast_charge_10_to_80_min": 18,
+            "ac_charge_kw": 22,
+            "mpge_combined": null,
+            "plug_type": "CCS1"
+          },
+          "fuel_economy": {
+            "city_mpg": null,
+            "highway_mpg": null,
+            "combined_mpg": null,
+            "fuel_tank_gal": null,
+            "fuel_type_required": "electricity",
+            "epa_annual_fuel_cost_usd": null
+          },
+          "performance": {
+            "zero_to_60_sec": 2.78,
+            "zero_to_60_source": "manufacturer",
+            "top_speed_mph": 155,
+            "towing_capacity_lb": null,
+            "payload_capacity_lb": null
+          },
+          "dimensions": {
+            "length_in": 202.3,
+            "width_in": 78.9,
+            "height_in": 57.6,
+            "wheelbase_in": 120.9,
+            "ground_clearance_in": 5.5,
+            "curb_weight_lb": 5622,
+            "cargo_volume_cuft": {
+              "behind_3rd_row": null,
+              "behind_2nd_row": null,
+              "behind_1st_row": null,
+              "max_with_seats_folded": null,
+              "trunk_cuft": 18
+            }
+          },
+          "capacity": {
+            "seats": 5,
+            "rows": 2
+          },
+          "wheels_tires": {
+            "wheel_size_in": 23,
+            "tire_spec": "275/35 R23 front; 315/30 R23 rear (Pirelli P-Zero)"
+          },
+          "safety": {
+            "nhtsa_overall_rating": null,
+            "nhtsa_rating_year": null,
+            "iihs_top_safety_pick": null,
+            "iihs_rating_year": null,
+            "standard_adas": {
+              "automatic_emergency_braking": true,
+              "lane_keeping_assist": true,
+              "lane_departure_warning": true,
+              "adaptive_cruise_control": true,
+              "blind_spot_monitoring": true,
+              "rear_cross_traffic_alert": true,
+              "rear_automatic_braking": true,
+              "driver_attention_monitoring": true
+            }
+          },
+          "features": {
+            "infotainment_screen_in": 15.1,
+            "driver_display_in": 12.6,
+            "apple_carplay": "wireless",
+            "android_auto": "wireless",
+            "sound_system": "KEF Reference 23-speaker with Uni-Q and Uni-Core (Dolby Atmos)",
+            "sunroof": "panoramic",
+            "seat_material": "leather",
+            "heated_seats_front": true,
+            "ventilated_seats_front": true,
+            "heated_steering_wheel": true,
+            "power_seats_driver": true,
+            "memory_seats_driver": true,
+            "wireless_phone_charging": true,
+            "head_up_display": true,
+            "remote_start": true,
+            "notable_other": [
+              "905 hp dual-motor with 2-speed rear gearbox",
+              "800V battery architecture with 350-420 kW DC fast charging (10-80% in 18 min)",
+              "Active rear wing with adaptive aerodynamics",
+              "Adaptive Driving Beam matrix LED headlights",
+              "Level 2+ ADAS suite with 4-wheel torque vectoring",
+              "5G connectivity",
+              "Sustainable upcycled luxury fabrics",
+              "Brake-based torque vectoring",
+              "Continuous Damping Control suspension",
+              "Carbon fiber exterior accents on R trim",
+              "Bridge of Weir leather upholstery",
+              "Six drive modes (Tour, Range, Sport, Off-Road, Individual, Track)"
+            ]
+          },
+          "warranty": {
+            "basic_yr_mi": "5yr/100k",
+            "powertrain_yr_mi": "5yr/100k",
+            "corrosion_yr_mi": "12yr/unlimited",
+            "roadside_yr_mi": "5yr/100k",
+            "ev_battery_yr_mi": "8yr/100k",
+            "complimentary_maintenance_yr_mi": null
+          },
+          "images": [
+            {
+              "angle": "front_three_quarter",
+              "url": "https://www.lotuscars.com/en-US/emeya",
+              "local_path": "images/lotus/emeya/emeya-r/front_three_quarter.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "rear_three_quarter",
+              "url": "https://www.lotuscars.com/en-US/emeya",
+              "local_path": "images/lotus/emeya/emeya-r/rear_three_quarter.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "side_profile",
+              "url": "https://www.lotuscars.com/en-US/emeya",
+              "local_path": "images/lotus/emeya/emeya-r/side_profile.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            },
+            {
+              "angle": "interior_dashboard",
+              "url": "https://www.lotuscars.com/en-US/emeya",
+              "local_path": "images/lotus/emeya/emeya-r/interior_dashboard.jpg",
+              "credit": "Lotus Cars",
+              "is_shared_with_trim_family": false,
+              "needs_scraping": true
+            }
+          ],
+          "sources": {
+            "msrp_base": "https://www.lotuscars.com/en-US/emeya",
+            "powertrain": "https://www.lotuscars.com/en-US/emeya",
+            "fuel_economy": "https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2026&year2=2026&make=Lotus&srchtyp=ymm&rowLimit=200",
+            "performance.zero_to_60_sec": "https://www.lotuscars.com/en-US/emeya",
+            "dimensions": "https://www.lotuscars.com/en-US/emeya",
+            "safety.nhtsa_overall_rating": "https://www.nhtsa.gov/vehicle/2026/LOTUS/EMEYA",
+            "safety.iihs_top_safety_pick": "https://www.iihs.org/ratings",
+            "features": "https://www.lotuscars.com/en-US/emeya",
+            "warranty": "https://www.lotuscars.com/en-SE/lotus-warranty/eletre"
+          },
+          "delta_from_base": null,
+          "notes": "Sole US-market trim per lotuscars.com/en-US Emeya page, which references only the Emeya R configurator URL. International markets get six trims (600 / 600 GT / 600 GT SE / 600 Sport SE / 900 Sport / 900 Sport Carbon) per Lotus's April 2025 lineup revamp, but none of those have been listed by Lotus for US sale as of 2026-05-13. msrp_base set to null per spec §13 — Lotus does NOT publish the Emeya R US MSRP on lotuscars.com/en-US (verified via direct WebFetch), and per spec §4 forbidden-source rule no dealer site, content farm, KBB/Edmunds/Cars.com retail price, or third-party aggregator may stand as the sole MSRP source. The widely-quoted ~$120,000 estimate (Top Gear, secondary aggregators) is unsourced from Lotus directly. EPA fueleconomy.gov has no entry for the Emeya at any model year (Chinese-built EV not yet US-EPA-tested per fueleconomy.gov PowerSearch 2026); sources.fuel_economy points to EPA brand-browse search URL per spec §4 EPA-unavailable fallback rule. The 379-mile range Lotus claims is WLTP (European cycle); EPA would typically rate this 15-20% lower (~300-320 mi est. but not published). MPGe values null for the same reason. plug_type set to 'CCS1' for US market. NHTSA and IIHS have not crash-tested the Emeya (Chinese-built low-volume EV — null per spec §13). Warranty mirrors Lotus's stated Eletre coverage since Lotus US has no separate published Emeya warranty page; 5yr/100k basic, 8yr/100k high-voltage battery, 12yr corrosion per lotuscars.com/en-SE/lotus-warranty/eletre (Geely/Lotus global warranty framework). Image URLs are page URLs flagged needs_scraping for Phase 4. MSRP not findable from allowed editorial sources as of 2026-05-15. Per §4.6 scoped policy, Car and Driver's Emeya page does not publish a US MSRP and MotorTrend's Emeya review states only an estimate range ('Pricing could start close to or even exceed $100,000' / '$100,000-$120,000') — not a firm published figure. No Hagerty or Road & Track editorial figure is published either. Per §4.6 attribution requirement an editorial estimate range without a firm attributed value cannot be used as the sole MSRP."
+        }
+      ],
+      "researched_at": "2026-05-13",
+      "notes": "Emeya is sold in the US only as the Emeya R trim per lotuscars.com/en-US (configurator URL: /configurator/emeya/emeya-r). Lotus has NOT publicly announced a US MSRP for the Emeya R on its consumer site, in any press release, or via any primary Lotus communication channel as of 2026-05-13. Secondary aggregators commonly cite ~$120,000 starting but no primary Lotus source supports this. msrp_base set to null per spec §13 ultra-luxury non-disclosure handling. International markets get six trims (600 / 600 GT / 600 GT SE / 600 Sport SE / 900 Sport / 900 Sport Carbon) per Lotus's April 2025 revamp but Lotus has not listed any of those for US sale (tariff exposure: Emeya is assembled in Wuhan, China and subject to the 100% US tariff on Chinese-built EVs). EPA fueleconomy.gov has NO entry for the Emeya at any model year. NHTSA and IIHS have not crash-tested any Emeya. All 4 image entries flagged needs_scraping. Single-trim model — atomic rule applied (is_base_trim:true + delta_from_base:null). msrp_range.low/high both null because msrp_base is null. Phase 4 image scrape: persistent low coverage (0% as of 2026-05-14) — lotuscars.com is JS-rendered and the rendered DOM has no usable <img> candidates. Site renders gracefully with placeholders. See reports/persistent_low_coverage_brands.md."
+    }
+  ]
+}

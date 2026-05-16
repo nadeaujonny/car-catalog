@@ -1,0 +1,53 @@
+{
+  "brand": "Porsche",
+  "brand_slug": "porsche",
+  "researched_at": "2026-05-12",
+  "schema_version": "1.1",
+  "model_count": 16,
+  "trim_count": 62,
+  "total_images": 155,
+  "needs_scraping": 120,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 0,
+  "warning_count": 8,
+  "fyi_count": 0,
+  "blockers": [],
+  "warnings": [
+    {
+      "title": "sedan base trim has null trunk_cuft",
+      "where": "taycan/taycan-gts-sport-turismo"
+    },
+    {
+      "title": "sedan base trim has non-null behind_2nd_row",
+      "where": "taycan/taycan-gts-sport-turismo"
+    },
+    {
+      "title": "sedan base trim has null trunk_cuft",
+      "where": "panamera/panamera"
+    },
+    {
+      "title": "sedan base trim has non-null behind_2nd_row",
+      "where": "panamera/panamera"
+    },
+    {
+      "title": "sedan base trim has null trunk_cuft",
+      "where": "panamera/panamera-4-e-hybrid"
+    },
+    {
+      "title": "sedan base trim has non-null behind_2nd_row",
+      "where": "panamera/panamera-4-e-hybrid"
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "cayenne/cayenne-e-hybrid",
+      "value": 3
+    },
+    {
+      "title": "Base trim has >2 null spec blocks",
+      "where": "cayenne-coupe/cayenne-e-hybrid-coupe",
+      "value": 3
+    }
+  ],
+  "fyis": []
+}

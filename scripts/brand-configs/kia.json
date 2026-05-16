@@ -1,0 +1,82 @@
+{
+  "brand_slug": "kia",
+  "notes": "kia.com/us/en/<model> consumer site. Hybrid and PHEV variants of mainstream models live on the parent model's page (e.g., sportage-hybrid points to /sportage-hybrid). Phase B (2026-05): carnival and carnival-hybrid migrated from /carnival and /carnival-hybrid to /carnival-mpv and /carnival-mpv-hybrid (404 on old paths). Phase 3 session 6 (2026-05-14): kia.com hosts hybrid imagery under CDN folders named `<model>-hev` (sorento-hev, sportage-hev, niro-hev, carnival-hev) and PHEV under `<model>-phev` — these slug_variants additions close the match gap. K4 hatchback uses the URL token `k4hb`. Removed the bare `niro` variant from niro-hybrid: it collided with niro-ev imagery (the URL `kia-niro-ev-mmm` would also satisfy a bare `niro` match).\n\nSession 7 Phase A3 (2026-05-14): added angle_url_patterns. Kia's CDN URLs and alt text rarely carry English angle words; hero variants 1920/1440/1024 are empty-alt and only the small 375 variant has descriptive alt text. Standard ANGLE_PATTERNS catches the front/side cases via existing `front[-_ ]?view` (space-tolerant) and `(?:^|[-_/ ])side(?:...)` (also space-tolerant) rules. Only one brand pattern added:\n  - front_three_quarter ← `\\bgallery[-_]?ext\\d+\\b` (the kia in-page-gallery exterior-numbered files — verified front-3/4 on seltos ext1, k5 ext2, sorento ext3, niro-hev ext1). The `-ext` infix is the precision lever: without it `gallery-N` numbering picked up interior shots (sportage-hybrid `gallery-6` was a cabin shot) and rear shots (k4-hatchback `gallery-01`). Risk: low — `-ext` guarantees an exterior shot; kia's gallery convention puts a front-3/4 hero first.\nNo confident patterns for rear_three_quarter (the candidate `\\bthree[-_ ]?quarter[-_ ]?back\\b` alt-text pattern was tested and abandoned — kia's niro-hybrid 375 global-hero file alt says \"three-quarter back view\" but the actual image is a front 3/4 view; alt is mislabeled on the source CDN, so the pattern would mis-place that image), side_profile (standard `side` rule already catches kia's \"driver's-side view\" alts), or interior_dashboard (zero interior URLs surfaced on the 7-page static fetch). Hero-path patterns (`/global-hero/`, `mep-hero-v\\d`) were considered and rejected: kia chose different angles for different model heroes, so a single hero regex would create false positives. See reports/kia_angle_patterns_session7.md.",
+  "model_pages": {
+    "k4": "https://www.kia.com/us/en/k4",
+    "k4-hatchback": "https://www.kia.com/us/en/k4-hatchback",
+    "k5": "https://www.kia.com/us/en/k5",
+    "seltos": "https://www.kia.com/us/en/seltos",
+    "sportage": "https://www.kia.com/us/en/sportage",
+    "sportage-hybrid": "https://www.kia.com/us/en/sportage-hybrid",
+    "sportage-plug-in-hybrid": "https://www.kia.com/us/en/sportage-plug-in-hybrid",
+    "sorento": "https://www.kia.com/us/en/sorento",
+    "sorento-hybrid": "https://www.kia.com/us/en/sorento-hybrid",
+    "sorento-plug-in-hybrid": "https://www.kia.com/us/en/sorento-plug-in-hybrid",
+    "carnival": "https://www.kia.com/us/en/carnival-mpv",
+    "carnival-hybrid": "https://www.kia.com/us/en/carnival-mpv-hybrid",
+    "niro-hybrid": "https://www.kia.com/us/en/niro",
+    "niro-ev": "https://www.kia.com/us/en/niro-ev",
+    "ev6": "https://www.kia.com/us/en/ev6",
+    "ev9": "https://www.kia.com/us/en/ev9"
+  },
+  "slug_variants": {
+    "k4-hatchback": [
+      "k4-hatchback",
+      "k4hatchback",
+      "k4_hatchback",
+      "k4hb"
+    ],
+    "carnival": [
+      "carnival",
+      "carnival-mpv"
+    ],
+    "sportage-hybrid": [
+      "sportage-hybrid",
+      "sportagehybrid",
+      "sportage-hev"
+    ],
+    "sportage-plug-in-hybrid": [
+      "sportage-plug-in-hybrid",
+      "sportage-phev",
+      "sportage-plugin"
+    ],
+    "sorento-hybrid": [
+      "sorento-hybrid",
+      "sorentohybrid",
+      "sorento-hev"
+    ],
+    "sorento-plug-in-hybrid": [
+      "sorento-plug-in-hybrid",
+      "sorento-phev",
+      "sorento-plugin"
+    ],
+    "carnival-hybrid": [
+      "carnival-hybrid",
+      "carnivalhybrid",
+      "carnival-mpv-hybrid",
+      "carnival-hev"
+    ],
+    "niro-hybrid": [
+      "niro-hybrid",
+      "nirohybrid",
+      "niro-hev"
+    ],
+    "niro-ev": [
+      "niro-ev",
+      "niroev"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)",
+  "angle_url_patterns": {
+    "front_three_quarter": [
+      "\\bgallery[-_]?ext\\d+\\b",
+      "/360/36\\.(?:png|jpg|jpeg|webp)"
+    ],
+    "side_profile": [
+      "/360/04\\.(?:png|jpg|jpeg|webp)"
+    ],
+    "rear_three_quarter": [
+      "/360/18\\.(?:png|jpg|jpeg|webp)"
+    ]
+  }
+}

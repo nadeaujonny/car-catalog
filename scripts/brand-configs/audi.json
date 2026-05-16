@@ -1,0 +1,61 @@
+{
+  "brand_slug": "audi",
+  "notes": "Per PROJECT_STATE.md lessons #26 and STATUS.md row: audiusa.com returned 403 to WebFetch on all model pages during Phase 1 image-collection. media.audiusa.com mostly returns logo/nav-only content. Consumer-site URLs included here; expect 403s. media.audiusa.com is the documented alternative if the consumer site continues to block. Phase B (2026-05-14): URL check found audiusa.com migrated off the /us/web/en/...overview.html path to canonical /en/models/<tree>/<model>/2026/overview/. Updated all 25 URLs to the new canonical form. 10 also needed slug/tree fixes (researched via WebSearch): rs-3 a3/rs-3 -> a3/rs3-sedan; a5 a5/a5-sedan -> a5/a5; s5 a5/s5-sedan -> a5/s5; a8 a8/a8 -> a8/a8-sedan; s8 a8/s8 -> a8/s8-sedan; rs-6-avant a6/rs-6-avant -> a6/rs6-avant; rs-7 a7/rs-7 -> a7/rs7; q4-e-tron tree q4-e-tron -> q4; q4-sportback-e-tron tree q4-e-tron -> q4; rs-q8 q8/rs-q8 -> q8/rsq8. All 25 validated OK via check_urls.mjs --url.",
+  "model_pages": {
+    "a3": "https://www.audiusa.com/en/models/a3/a3/2026/overview/",
+    "s3": "https://www.audiusa.com/en/models/a3/s3/2026/overview/",
+    "rs-3": "https://www.audiusa.com/en/models/a3/rs3-sedan/2026/overview/",
+    "a5": "https://www.audiusa.com/en/models/a5/a5/2026/overview/",
+    "s5": "https://www.audiusa.com/en/models/a5/s5/2026/overview/",
+    "a6-sedan": "https://www.audiusa.com/en/models/a6/a6-sedan/2026/overview/",
+    "a6-allroad": "https://www.audiusa.com/en/models/a6/a6-allroad/2026/overview/",
+    "a8": "https://www.audiusa.com/en/models/a8/a8-sedan/2026/overview/",
+    "s8": "https://www.audiusa.com/en/models/a8/s8-sedan/2026/overview/",
+    "rs-6-avant": "https://www.audiusa.com/en/models/a6/rs6-avant/2026/overview/",
+    "rs-7": "https://www.audiusa.com/en/models/a7/rs7/2026/overview/",
+    "q3": "https://www.audiusa.com/en/models/q3/q3/2026/overview/",
+    "q4-e-tron": "https://www.audiusa.com/en/models/q4/q4-e-tron/2026/overview/",
+    "q4-sportback-e-tron": "https://www.audiusa.com/en/models/q4/q4-sportback-e-tron/2026/overview/",
+    "q5": "https://www.audiusa.com/en/models/q5/q5/2026/overview/",
+    "q5-sportback": "https://www.audiusa.com/en/models/q5/q5-sportback/2026/overview/",
+    "sq5": "https://www.audiusa.com/en/models/q5/sq5/2026/overview/",
+    "sq5-sportback": "https://www.audiusa.com/en/models/q5/sq5-sportback/2026/overview/",
+    "q7": "https://www.audiusa.com/en/models/q7/q7/2026/overview/",
+    "sq7": "https://www.audiusa.com/en/models/q7/sq7/2026/overview/",
+    "q8": "https://www.audiusa.com/en/models/q8/q8/2026/overview/",
+    "sq8": "https://www.audiusa.com/en/models/q8/sq8/2026/overview/",
+    "rs-q8": "https://www.audiusa.com/en/models/q8/rsq8/2026/overview/",
+    "s-e-tron-gt": "https://www.audiusa.com/en/models/e-tron-gt/s-e-tron-gt/2026/overview/",
+    "rs-e-tron-gt": "https://www.audiusa.com/en/models/e-tron-gt/rs-e-tron-gt/2026/overview/"
+  },
+  "slug_variants": {
+    "rs-3": [
+      "rs-3",
+      "rs3"
+    ],
+    "rs-6-avant": [
+      "rs-6-avant",
+      "rs6-avant",
+      "rs6"
+    ],
+    "rs-7": [
+      "rs-7",
+      "rs7"
+    ],
+    "rs-q8": [
+      "rs-q8",
+      "rsq8"
+    ],
+    "s-e-tron-gt": [
+      "s-e-tron-gt",
+      "se-tron-gt",
+      "s_e_tron_gt"
+    ],
+    "rs-e-tron-gt": [
+      "rs-e-tron-gt",
+      "rse-tron-gt",
+      "rs_e_tron_gt"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

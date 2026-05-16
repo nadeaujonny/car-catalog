@@ -1,0 +1,43 @@
+Brand: rivian
+Found 19 image entries across 3 models.
+
+[1/19] r1t/dual-standard/front_three_quarter  ok (2749030 bytes, image/jpeg)
+[2/19] r1t/dual-standard/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[3/19] r1t/dual-standard/side_profile  ok (96478 bytes, image/webp)
+[4/19] r1t/dual-standard/interior_dashboard  ok (2501241 bytes, image/jpeg)
+[5/19] r1t/dual-large/front_three_quarter  ok (91723 bytes, image/avif)
+[6/19] r1t/dual-max/front_three_quarter  ok (2749030 bytes, image/jpeg)
+[7/19] r1t/tri-max/front_three_quarter  ok (4813331 bytes, image/jpeg)
+[8/19] r1t/quad-max/front_three_quarter  ok (197364 bytes, image/avif)
+[9/19] r1s/dual-large/front_three_quarter  ok (3477789 bytes, image/jpeg)
+[10/19] r1s/dual-large/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[11/19] r1s/dual-large/side_profile  ok (331268 bytes, image/png)
+[12/19] r1s/dual-large/interior_dashboard  ok (2501241 bytes, image/jpeg)
+[13/19] r1s/dual-max/front_three_quarter  ok (129636 bytes, image/avif)
+[14/19] r1s/tri-max/front_three_quarter  ok (3477789 bytes, image/jpeg)
+[15/19] r1s/quad-max/front_three_quarter  ok (3704502 bytes, image/jpeg)
+[16/19] r2/performance-launch-edition/front_three_quarter  ok (52050 bytes, image/avif)
+[17/19] r2/performance-launch-edition/rear_three_quarter  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+[18/19] r2/performance-launch-edition/side_profile  ok (84446 bytes, image/avif)
+[19/19] r2/performance-launch-edition/interior_dashboard  FAIL (wrong-content-type — content-type text/html; charset=utf-8)
+
+Updated catalog/data/rivian.json and data/rivian.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  rivian
+Total images attempted: 19
+Successful:             15 (78.9%)
+Failed:                 4
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 4
+
+Models with zero successful images: 0 of 3
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html; charset=utf-8)] x4 — e.g. https://rivian.com/r1t

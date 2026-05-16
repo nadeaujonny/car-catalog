@@ -1,0 +1,58 @@
+{
+  "brand": "Lotus",
+  "brand_slug": "lotus",
+  "researched_at": "2026-05-13",
+  "schema_version": "1.1",
+  "model_count": 3,
+  "trim_count": 6,
+  "total_images": 24,
+  "needs_scraping": 24,
+  "modelsWithUnknownAllFour": 0,
+  "modelsLowImageCount": 0,
+  "blocker_count": 8,
+  "warning_count": 0,
+  "fyi_count": 0,
+  "blockers": [
+    {
+      "title": "Forbidden source (wikipedia) in sources map",
+      "where": "models[0].trims[0].sources.dimensions (emira/turbo-se)",
+      "value": "https://en.wikipedia.org/wiki/Lotus_Emira"
+    },
+    {
+      "title": "Forbidden source (wikipedia) in sources map",
+      "where": "models[0].trims[1].sources.dimensions (emira/turbo-se-racing-line)",
+      "value": "https://en.wikipedia.org/wiki/Lotus_Emira"
+    },
+    {
+      "title": "Forbidden source (wikipedia) in sources map",
+      "where": "models[0].trims[2].sources.dimensions (emira/v6-se)",
+      "value": "https://en.wikipedia.org/wiki/Lotus_Emira"
+    },
+    {
+      "title": "Forbidden source (wikipedia) in sources map",
+      "where": "models[0].trims[3].sources.dimensions (emira/v6-se-racing-line)",
+      "value": "https://en.wikipedia.org/wiki/Lotus_Emira"
+    },
+    {
+      "title": "Forbidden source (wikipedia) in sources map",
+      "where": "models[1].trims[0].sources.dimensions (eletre/carbon)",
+      "value": "https://en.wikipedia.org/wiki/Lotus_Eletre"
+    },
+    {
+      "title": "msrp_base is null",
+      "where": "models[2].trims[0] (emeya/r)"
+    },
+    {
+      "title": "Forbidden source (wikipedia) in sources map",
+      "where": "models[2].trims[0].sources.performance.zero_to_60_sec (emeya/r)",
+      "value": "https://en.wikipedia.org/wiki/Lotus_Emeya"
+    },
+    {
+      "title": "Forbidden source (wikipedia) in sources map",
+      "where": "models[2].trims[0].sources.dimensions (emeya/r)",
+      "value": "https://en.wikipedia.org/wiki/Lotus_Emeya"
+    }
+  ],
+  "warnings": [],
+  "fyis": []
+}

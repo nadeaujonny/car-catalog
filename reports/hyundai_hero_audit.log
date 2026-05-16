@@ -1,0 +1,115 @@
+# Hyundai hero-candidate audit — 2026-05-15T05:16:45.951Z
+
+model         |  cand | VBH | vlp-hero | ev-vlp-hero | <slug>-...-001 |
+--------------+-------+-----+----------+-------------+----------------+
+venue         |    57 |   0 |       11 |           0 |              0 |
+elantra       |    82 |   0 |       11 |           0 |              0 |
+elantra-n     |    81 |   0 |        1 |           0 |              0 |
+sonata        |   152 |   0 |       11 |          11 |              0 |
+kona          |    76 |   0 |        0 |           0 |              0 |
+tucson        |   114 |   1 |       11 |           0 |              0 |
+santa-cruz    |   104 |   0 |        0 |           0 |              0 |
+santa-fe      |   115 |   0 |       11 |           0 |              0 |
+palisade      |    75 |   1 |        1 |           0 |              0 |
+ioniq-5       |    98 |   0 |        0 |          11 |              0 |
+ioniq-5-n     |    88 |   0 |        0 |          11 |              0 |
+ioniq-6-n     |    34 |   0 |        0 |           0 |              0 |
+ioniq-9       |   131 |   0 |        0 |          11 |              0 |
+
+
+# Detail: distinct base filenames per token, per model
+
+========== venue ==========
+  vehicle-browse-hero: 0 URLs -> 0 distinct bases
+  vlp-hero (NOT ev-): 11 URLs -> 1 distinct base
+    - 2026-venue-vlp-hero
+  ev-vlp-hero: 0 URLs -> 0 distinct bases
+  <slug>-...-001: 0 URLs -> 0 distinct bases
+
+========== elantra ==========
+  vehicle-browse-hero: 0 URLs -> 0 distinct bases
+  vlp-hero (NOT ev-): 11 URLs -> 1 distinct base
+    - 2026-elantra-vlp-hero
+  ev-vlp-hero: 0 URLs -> 0 distinct bases
+  <slug>-...-001: 0 URLs -> 0 distinct bases
+
+========== elantra-n ==========
+  vehicle-browse-hero: 0 URLs -> 0 distinct bases
+  vlp-hero (NOT ev-): 1 URL -> 1 distinct base
+    - 2024-elantra-n-HNIE4017000H-vlp-hero-poster-9x5:Hero-Image
+  ev-vlp-hero: 0 URLs -> 0 distinct bases
+  <slug>-...-001: 0 URLs -> 0 distinct bases
+
+========== sonata ==========
+  vehicle-browse-hero: 0 URLs -> 0 distinct bases
+  vlp-hero (NOT ev-): 11 URLs -> 2 distinct bases
+    - 2026-sonata-ice-vlp-hero
+    - 2026-sonata-ice-vlp-hero-360
+  ev-vlp-hero: 11 URLs -> 1 distinct base
+    - 2026-sonata-hev-vlp-hero
+  <slug>-...-001: 0 URLs -> 0 distinct bases
+
+========== kona ==========
+  vehicle-browse-hero: 0 URLs -> 0 distinct bases
+  vlp-hero (NOT ev-): 0 URLs -> 0 distinct bases
+  ev-vlp-hero: 0 URLs -> 0 distinct bases
+  <slug>-...-001: 0 URLs -> 0 distinct bases
+
+========== tucson ==========
+  vehicle-browse-hero: 1 URL -> 1 distinct base
+    - 2025-tucson-vehicle-browse-hero
+  vlp-hero (NOT ev-): 11 URLs -> 2 distinct bases
+    - 2026-tucson-vlp-hero
+    - 2026-tucson-vlp-hero-v2
+  ev-vlp-hero: 0 URLs -> 0 distinct bases
+  <slug>-...-001: 0 URLs -> 0 distinct bases
+
+========== santa-cruz ==========
+  vehicle-browse-hero: 0 URLs -> 0 distinct bases
+  vlp-hero (NOT ev-): 0 URLs -> 0 distinct bases
+  ev-vlp-hero: 0 URLs -> 0 distinct bases
+  <slug>-...-001: 0 URLs -> 0 distinct bases
+
+========== santa-fe ==========
+  vehicle-browse-hero: 0 URLs -> 0 distinct bases
+  vlp-hero (NOT ev-): 11 URLs -> 1 distinct base
+    - 2026-santa-fe-vlp-hero-gse
+  ev-vlp-hero: 0 URLs -> 0 distinct bases
+  <slug>-...-001: 0 URLs -> 0 distinct bases
+
+========== palisade ==========
+  vehicle-browse-hero: 1 URL -> 1 distinct base
+    - 2025-palisade-vehicle-browse-hero
+  vlp-hero (NOT ev-): 1 URL -> 1 distinct base
+    - 2026-palisade-HNTP6002000HGEN-vlp-hero-poster-9x5:Hero-Image
+  ev-vlp-hero: 0 URLs -> 0 distinct bases
+  <slug>-...-001: 0 URLs -> 0 distinct bases
+
+========== ioniq-5 ==========
+  vehicle-browse-hero: 0 URLs -> 0 distinct bases
+  vlp-hero (NOT ev-): 0 URLs -> 0 distinct bases
+  ev-vlp-hero: 11 URLs -> 3 distinct bases
+    - 2026-ioniq-5-ev-vlp-hero
+    - 2026-ioniq-5-ev-vlp-hero-sse
+    - 2026-ioniq-5-ev-vlp-hero-sse-360
+  <slug>-...-001: 0 URLs -> 0 distinct bases
+
+========== ioniq-5-n ==========
+  vehicle-browse-hero: 0 URLs -> 0 distinct bases
+  vlp-hero (NOT ev-): 0 URLs -> 0 distinct bases
+  ev-vlp-hero: 11 URLs -> 1 distinct base
+    - 2025-ioniq-5n-ev-vlp-hero
+  <slug>-...-001: 0 URLs -> 0 distinct bases
+
+========== ioniq-6-n ==========
+  vehicle-browse-hero: 0 URLs -> 0 distinct bases
+  vlp-hero (NOT ev-): 0 URLs -> 0 distinct bases
+  ev-vlp-hero: 0 URLs -> 0 distinct bases
+  <slug>-...-001: 0 URLs -> 0 distinct bases
+
+========== ioniq-9 ==========
+  vehicle-browse-hero: 0 URLs -> 0 distinct bases
+  vlp-hero (NOT ev-): 0 URLs -> 0 distinct bases
+  ev-vlp-hero: 11 URLs -> 1 distinct base
+    - 2026-ioniq-9-ev-vlp-hero
+  <slug>-...-001: 0 URLs -> 0 distinct bases

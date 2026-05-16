@@ -1,0 +1,13 @@
+{
+  "brand_slug": "lucid",
+  "notes": "lucidmotors.com is the consumer site and is heavily JS-rendered (Next.js); per session 3 the 24 image entries for Air/Gravity were flagged needs_scraping. Each Air trim has its own page (/air-pure, /air-touring, /air-grand-touring, /air-sapphire) but the canonical model_page is /air; Gravity has a single /gravity model page. media.lucidmotors.com hosts attachment URLs (e.g., spec-sheet PDFs) that are served with text/html content-type (Next.js wrappers, not direct binaries), so they are not directly fetchable as PDFs by the scraper.",
+  "model_pages": {
+    "air":     "https://lucidmotors.com/air",
+    "gravity": "https://lucidmotors.com/gravity"
+  },
+  "slug_variants": {
+    "air":     ["air", "lucid-air"],
+    "gravity": ["gravity", "lucid-gravity"]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

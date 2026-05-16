@@ -1,0 +1,49 @@
+{
+  "brand_slug": "bentley",
+  "notes": "bentleymotors.com/en consumer site. Heavy JS site; pages are HTML-rendered but image extraction requires CDN paths under bentleymotors.com/-/media/ and bentleymotors.com/dam/. Press fallback: bentleymedia.com. Bentayga and Bentayga EWB share a parent /bentayga.html range page; EWB has its own dedicated URL under /models/bentayga/bentayga-ewb.html.",
+  "model_pages": {
+    "continental-gt":  "https://www.bentleymotors.com/en/models/continental-gt.html",
+    "continental-gtc": "https://www.bentleymotors.com/en/models/continental-gtc.html",
+    "flying-spur":     "https://www.bentleymotors.com/en/models/flying-spur.html",
+    "bentayga":        "https://www.bentleymotors.com/en/models/bentayga.html",
+    "bentayga-ewb":    "https://www.bentleymotors.com/en/models/bentayga/bentayga-ewb.html"
+  },
+  "slug_variants": {
+    "continental-gt": [
+      "continental-gt",
+      "continental_gt",
+      "continental-gt-coupe",
+      "continentalgt"
+    ],
+    "continental-gtc": [
+      "continental-gtc",
+      "continental_gtc",
+      "continental-gt-convertible",
+      "continental-gtc-convertible",
+      "continentalgtc"
+    ],
+    "flying-spur": [
+      "flying-spur",
+      "flying_spur",
+      "flyingspur"
+    ],
+    "bentayga": [
+      "bentayga",
+      "bentayga-v8",
+      "bentayga-hybrid",
+      "bentayga-azure",
+      "bentayga-s",
+      "bentayga-speed"
+    ],
+    "bentayga-ewb": [
+      "bentayga-ewb",
+      "bentayga_ewb",
+      "bentaygaewb",
+      "bentayga-extended-wheelbase",
+      "bentayga-extended_wheelbase",
+      "bentayga-ewb-azure",
+      "bentayga-ewb-mulliner"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}

@@ -1,0 +1,37 @@
+Brand: polestar
+Referer header: https://www.polestar.com/
+Found 12 image entries across 2 models.
+
+[1/12] polestar-3/long-range-single-motor/front_three_quarter  ok (117377 bytes, image/avif)
+[2/12] polestar-3/long-range-single-motor/rear_three_quarter  FAIL (wrong-content-type — content-type text/html)
+[3/12] polestar-3/long-range-single-motor/side_profile  FAIL (wrong-content-type — content-type text/html)
+[4/12] polestar-3/long-range-single-motor/interior_dashboard  ok (85768 bytes, image/avif)
+[5/12] polestar-3/long-range-dual-motor/front_three_quarter  FAIL (wrong-content-type — content-type text/html)
+[6/12] polestar-3/long-range-dual-motor-performance-pack/front_three_quarter  FAIL (wrong-content-type — content-type text/html)
+[7/12] polestar-4/long-range-single-motor/front_three_quarter  FAIL (wrong-content-type — content-type text/html)
+[8/12] polestar-4/long-range-single-motor/rear_three_quarter  FAIL (wrong-content-type — content-type text/html)
+[9/12] polestar-4/long-range-single-motor/side_profile  FAIL (wrong-content-type — content-type text/html)
+[10/12] polestar-4/long-range-single-motor/interior_dashboard  ok (538233 bytes, image/avif)
+[11/12] polestar-4/long-range-dual-motor/front_three_quarter  FAIL (wrong-content-type — content-type text/html)
+[12/12] polestar-4/long-range-dual-motor-performance-pack/front_three_quarter  FAIL (wrong-content-type — content-type text/html)
+
+Updated catalog/data/polestar.json and data/polestar.json with downloaded flags.
+
+========================================
+  SUMMARY
+========================================
+Brand:                  polestar
+Total images attempted: 12
+Successful:             3 (25.0%)
+Failed:                 9
+
+Failed by HTTP status:
+  (none)
+
+Failed by other error kind:
+  wrong-content-type: 9
+
+Models with zero successful images: 0 of 2
+
+Failure breakdown (one example per group):
+  [wrong-content-type (text/html)] x9 — e.g. https://www.polestar.com/us/polestar-3/

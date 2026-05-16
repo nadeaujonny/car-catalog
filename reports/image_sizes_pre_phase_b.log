@@ -1,0 +1,145 @@
+=== PER-BRAND IMAGE FILE SIZE SURVEY ===
+brand            files   avgKB  medKB  minKB  maxKB  tiny<20  small<50  large>200
+alfa-romeo           9     20     14     11     35        6         9          0
+acura               59     31      8      2    215       42        51          5
+land-rover          26     34     21     14     90       10        22          0
+cadillac           127     45     37      7     97       17        88          0
+chevrolet          228     49     45     10    142       12       146          0
+jeep               142     49     51      4    119       21        68          0
+nissan             140     53     38      6    296       36        80          2
+gmc                150     53     52     15    146        8        56          0
+kia                 14     70     50     20    164        0         7          0
+ram                 29     70     63     24    115        0         7          0
+volvo               64     72     55     20    354        1        18          4
+buick               16     72     38      7    247        6         9          2
+bentley             88     80     79      6    161       14        14          0
+genesis             65     91     80     20    215        0        20          3
+aston-martin        47     93     52     17    454        2        23          6
+maserati            22    101     96     10    208        3         8          3
+mini                32    111     44      9    828        6        18          3
+audi               126    114     82      9    398       18        34         25
+polestar             3    117    115     84    152        0         0          0
+infiniti            32    120    124     36    187        0         4          0
+lucid               20    134    137     19    267        4         4          2
+lamborghini          5    135    102     84    233        0         0          1
+ferrari              1    169    169    169    169        0         0          0
+mitsubishi          84    178     70     28   1190        0        14         12
+mazda               53    186    115     20   1006        0        22         22
+lexus               79    192    106     38   1203        0        13         19
+hyundai             21    197     65     14    700        4         9          8
+honda               99    209    204      0    606        9        14         51
+ford                96    215    195     23    743        0         9         47
+mercedes-benz      101    229    100     26   1132        0        12         20
+subaru               8    230    130    114    886        0         0          2
+mclaren             24    287    217     93   1565        0         0         13
+porsche             78    547     44      8   6289        5        46         17
+rivian               8   1156    258     51   3618        0         0          4
+rolls-royce         15   1332   1060    422   3022        0         0         15
+bmw                236   1497    212      3  28248       28        34        133
+volkswagen          19   2058   2708     71   4182        0         0         15
+toyota             133   3503   2981    428  10915        0         0        133
+jaguar              11  13916  12752   6467  23438        0         0         11
+
+Project-wide: 2510 files, 1266.5MB total, avg 517 KB
+
+
+=== SIZE-MARKER PATTERNS IN DOWNLOADED URLS (per brand) ===
+brand            dlURLs   .small./.medium./.  mobile/tablet/desk  Mobile/Desktop fil  /thumb/ or /thumbn  /sm|md|lg|xl path   -sm./-md./-lg./-xl  ?w=NNN query        ?width=NNN query    ?mw=NNN query       /NNN_NNN/ path siz  _NNNxNNN. filename  is/image scene7 ?$  
+acura                59  0                   0                   0                   0                   0                   0                   0                   0                   40                  0                   0                   0                   
+alfa-romeo           18  0                   17                  14                  0                   0                   0                   0                   0                   0                   0                   0                   0                   
+aston-martin         47  0                   5                   3                   0                   0                   0                   0                   0                   38                  0                   0                   0                   
+audi                126  0                   0                   0                   0                   0                   0                   0                   119                 0                   0                   0                   0                   
+bentley              88  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+bmw                 266  0                   3                   3                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+buick                48  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+cadillac            127  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+chevrolet           253  0                   0                   0                   0                   0                   26                  0                   0                   0                   0                   0                   0                   
+ferrari               1  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+ford                 96  0                   0                   0                   0                   0                   0                   0                   93                  0                   0                   0                   0                   
+genesis              77  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+gmc                 158  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+honda               161  0                   0                   0                   0                   0                   1                   2                   0                   43                  0                   8                   0                   
+hyundai              43  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+infiniti             32  0                   0                   0                   0                   0                   4                   0                   0                   0                   0                   0                   0                   
+jaguar               11  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+jeep                142  0                   137                 137                 0                   0                   0                   0                   0                   0                   0                   0                   0                   
+kia                  14  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+lamborghini           5  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+land-rover           26  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+lexus               129  0                   121                 121                 0                   0                   0                   0                   0                   0                   0                   0                   0                   
+lucid                20  0                   16                  20                  0                   0                   0                   0                   0                   0                   0                   0                   0                   
+maserati             22  0                   22                  19                  0                   0                   0                   0                   0                   0                   0                   0                   19                  
+mazda                53  0                   26                  12                  0                   0                   0                   24                  2                   0                   0                   0                   0                   
+mclaren              24  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+mercedes-benz       102  0                   0                   0                   0                   0                   12                  0                   0                   0                   0                   0                   0                   
+mini                 36  28                  34                  29                  0                   0                   0                   0                   0                   0                   0                   0                   0                   
+mitsubishi           84  0                   0                   0                   0                   0                   0                   0                   4                   0                   0                   0                   0                   
+nissan              140  0                   0                   0                   0                   0                   3                   0                   0                   0                   0                   0                   0                   
+polestar              3  0                   0                   0                   0                   0                   0                   3                   0                   0                   0                   0                   0                   
+porsche              78  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+ram                  29  0                   29                  29                  0                   0                   0                   0                   0                   0                   0                   0                   0                   
+rivian               15  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+rolls-royce          15  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+subaru               12  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   12                  
+toyota              133  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+volkswagen           19  0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   0                   
+volvo                86  0                   0                   0                   0                   0                   0                   86                  0                   0                   0                   0                   0                   
+
+
+=== SAMPLE URLS FROM BRANDS WITH AVG < 60 KB ===
+
+--- alfa-romeo (avg 20 KB, 9 files) ---
+  https://www.alfaromeousa.com/content/dam/alfa/us/giulia/2026/overview/my26-alfa-giulia-overview-hero-main-mobile.jpg
+  https://www.alfaromeousa.com/content/dam/alfa/us/giulia/2026/exterior/my26-alfa-giulia-exterior-gallery-main-mobile.jpg
+  https://www.alfaromeousa.com/content/dam/alfa/us/giulia/2026/performance/my26-alfa-giulia-performance-gallery-drive-mode-selector-mobile.jpg
+  https://www.alfaromeousa.com/content/dam/alfa/us/giulia/2026/performance/my26-alfa-giulia-performance-gallery-main-v2-mobile.jpg
+  https://www.alfaromeousa.com/content/dam/alfa/us/giulia/2026/performance/my26-alfa-giulia-performance-gallery-active-awd-mobile.jpg
+
+--- acura (avg 31 KB, 59 files) ---
+  https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Exterior/Detail/01-acura-2026-Integra-gallery-exterior-detail.jpg?mw=320&hash=1828166E6F94949110DC7FEEFCED5709
+  https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Exterior/Detail/02-acura-2026-Integra-gallery-exterior-detail.jpg?mw=320&hash=5DD4E9BEB3C164C94CD91089213E231A
+  https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Interior/Detail/09-acura-2026-Integra-gallery-interior-detail.jpg?mw=320&hash=9AAC233BFE6268481F7E035894E6D7B1
+  https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/overview-page/mini-gallery/Type-S/2026-Acura-Integra-overview-mini-gallery-thumb02.jpg?mw=604&hash=BE205DABED0307550A173B6ACD241B87
+  https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/INTEGRA/2026/gallery-page/Exterior/Detail/01-acura-2026-Integra-gallery-exterior-detail.jpg?mw=320&hash=1828166E6F94949110DC7FEEFCED5709
+
+--- land-rover (avg 34 KB, 26 files) ---
+  https://www.landroverusa.com/content/dam/lrdx/global/l550/24my/int/L55024GL_303101775_027_ALT.jpg
+  https://www.rangerover.com/content/dam/lrdx/global/l460/22my/markets/us/L460_22MY_072_US_HSE_SWB_DX.jpg.res/JLRHASHBE9D72139F33659ACFDB606DABA7251F780005B8/L460_22MY_072_US_HSE_SWB_DX.jpg
+  https://www.rangerover.com/content/dam/lrdx/global/l460/22my/markets/us/L460_22MY_095_US_BELGRAVIA_GREEN_DX.jpg.res/JLRHASH2801E0E306E850BE7BC7C0E6250AADF8BDD858CD/L460_22MY_095_US_BELGRAVIA_GREEN_DX.jpg
+  https://www.rangerover.com/content/dam/lrdx/global/l460/22my/markets/us/L460_22MY_072_US_HSE_SWB_DX.jpg.res/JLRHASHBE9D72139F33659ACFDB606DABA7251F780005B8/L460_22MY_072_US_HSE_SWB_DX.jpg
+  https://www.rangerover.com/content/dam/lrdx/global/l460/22my/markets/us/L460_22MY_095_US_BELGRAVIA_GREEN_DX.jpg.res/JLRHASH2801E0E306E850BE7BC7C0E6250AADF8BDD858CD/L460_22MY_095_US_BELGRAVIA_GREEN_DX.jpg
+
+--- cadillac (avg 45 KB, 127 files) ---
+  https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/in-page-gallery/my25-ct4-mov-gallery-exterior-front-drivers-side-v2.jpg?imwidth=800
+  https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/my25-ct4-mov-gallery-exterior-rear-drivers-side.jpg?imwidth=800
+  https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/my25-ct4-mov-gallery-exterior-side-profile.jpg?imwidth=800
+  https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/in-page-gallery/my25-ct4-mov-gallery-interior-passenger-view.jpg?imwidth=800
+  https://www.cadillac.com/content/dam/cadillac/na/us/english/index/vehicles/2025/sedans/ct4/overview/in-page-gallery/my25-ct4-mov-gallery-exterior-front-drivers-side-v2.jpg?imwidth=800
+
+--- chevrolet (avg 49 KB, 228 files) ---
+  https://www.chevrolet.com/content/dam/chevrolet/na/us/english/vdc-collections/2026/suvs/trax/trims/jpg/2026-trax-1sa-gvr-driver-front-3quarter-nav.jpg?imwidth=3000
+  https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2026/suvs/trax/gallery/01-images/2026-trax-gallery-preview-01.jpg?imwidth=1200
+  https://www.chevrolet.com/content/dam/chevrolet/na/us/english/vdc-collections/2026/suvs/trax/trims/jpg/2026-trax-1sa-gvr-driver-front-3quarter-nav.jpg?imwidth=3000
+  https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2026/suvs/trax/gallery/01-images/2026-trax-gallery-preview-01.jpg?imwidth=1200
+  https://www.chevrolet.com/content/dam/chevrolet/na/us/english/vdc-collections/2026/suvs/trax/trims/jpg/2026-trax-1sa-gvr-driver-front-3quarter-nav.jpg?imwidth=3000
+
+--- jeep (avg 49 KB, 142 files) ---
+  https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-exterior-image-2-mobile-v1.jpg.image.1000.jpg
+  https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-exterior-image-7-mobile-v1.jpg.image.1000.jpg
+  https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-interior-image-1-mobile.jpg.image.1000.jpg
+  https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-exterior-image-2-mobile-v1.jpg.image.1000.jpg
+  https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2026/wrangler/gallery/mobile/my26-wrangler-gallery-expanded-exterior-image-7-mobile-v1.jpg.image.1000.jpg
+
+--- nissan (avg 53 KB, 140 files) ---
+  https://www.nissanusa.com/content/dam/Nissan/us/vehicles/sentra/2026/overview/features/2026-nissan-sentra-front-view-stopped-crosswalk-exterior-styling.jpg
+  https://www.nissanusa.com/content/dam/Nissan/us/vehicles/sentra/2026/overview/mosaic/2026-nissan-sentra-rear-three-quarter-driving-performance.jpg
+  https://www.nissanusa.com/content/dam/Nissan/us/vehicles/sentra/vehicle-profile-assets/2026/model-2026-nissan-sentra-sr-energetic-ember.png.ximg.l_3_m.smart.png
+  https://www.nissanusa.com/content/dam/Nissan/us/vehicles/sentra/2026/gallery/interior/New/Smallgallery/Sentra_Gallery_Grid_2UP_26OMP_SENb032_coat_D.jpg
+  https://www.nissanusa.com/content/dam/Nissan/us/vehicles/sentra/2026/overview/features/2026-nissan-sentra-front-view-stopped-crosswalk-exterior-styling-t.jpg
+
+--- gmc (avg 53 KB, 150 files) ---
+  https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/safety/my26-sierra-1500-mov-safety-1280x640-26PGSRLD91254.jpg?imwidth=800
+  https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/interior/my26-sierra-1500-mov-interior-feature-1-1280x640-26PGSRLD100731.jpg?imwidth=800
+  https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/interior/my26-sierra-1500-mov-interior-scroller-3-1280x960-26PGSRLD99143.jpg?imwidth=800
+  https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/safety/my26-sierra-1500-mov-safety-1280x640-26PGSRLD91254.jpg?imwidth=800
+  https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2026/trucks/sierra-ld/overview/interior/my26-sierra-1500-mov-interior-feature-1-1280x640-26PGSRLD100731.jpg?imwidth=800

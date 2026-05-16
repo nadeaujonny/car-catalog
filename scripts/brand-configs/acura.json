@@ -1,0 +1,30 @@
+{
+  "brand_slug": "acura",
+  "notes": "Per PROJECT_STATE.md lesson #26: acura.com was gated to WebFetch during Phase 4 attempts; acuranews.com is a fallback option but also returned 403 during Phase 1 image-collection. Consumer-site URLs included here for completeness; expect possible 403s during scrape. Acura shares some CDN infrastructure with Honda. Phase B (2026-05-14): acura.com restructured to segment-prefixed paths — bare /<model> URLs now redirect. integra->/cars/integra, rdx->/suvs/rdx, mdx->/suvs/mdx (canonical redirects adopted). adx bare path redirected to /404; correct page is /suvs/adx. integra-type-s bare path redirected to /404 and there is no dedicated Type S page — it shares /cars/integra (same convention as mdx-type-s sharing the MDX page). mdx-type-s updated to canonical /suvs/mdx. All verified OK.",
+  "model_pages": {
+    "integra": "https://www.acura.com/cars/integra",
+    "integra-type-s": "https://www.acura.com/cars/integra",
+    "adx": "https://www.acura.com/suvs/adx",
+    "rdx": "https://www.acura.com/suvs/rdx",
+    "mdx": "https://www.acura.com/suvs/mdx",
+    "mdx-type-s": "https://www.acura.com/suvs/mdx"
+  },
+  "slug_variants": {
+    "integra": [
+      "integra",
+      "integra-sedan"
+    ],
+    "integra-type-s": [
+      "integra-type-s",
+      "integra_type_s",
+      "type-s",
+      "integra-types"
+    ],
+    "mdx-type-s": [
+      "mdx-type-s",
+      "mdx_type_s",
+      "mdx-types"
+    ]
+  },
+  "path_blacklist_regex": "(?:Promo-Banner|Global-Nav|nav[/_-]?jelly|favicon|sprite|icon|logo|placeholder|preview-thumb)"
+}
