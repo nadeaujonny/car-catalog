@@ -418,3 +418,6 @@ Other brands <50% (Mercedes-Benz, Land Rover, Ferrari, Ram, Volkswagen, Rolls-Ro
 Documented in `SESSION_NOTES.md` Session 16 entry with the exact push command.
 
 **Project state going forward.** The Car Catalog Project is at functional + portfolio completion. Optional follow-ups: APEAL fills (~July 2026 when JD Power publishes), quarterly freshness check (Q3 2026), Toyota singleton-with-<4-images warnings (28 remain), image weight optimization. None are blocking.
+
+## Recent fixes
+- 2026-05-18: Compare view brand→model→trim cascade fixed. See `reports/compare_fix.md`.

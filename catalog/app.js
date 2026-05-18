@@ -1482,7 +1482,10 @@ function buildCompareSlotCard(idx, slot, all, slotData) {
   function applySlot(newSlot) {
     slotData[idx] = newSlot;
     const tokens = slotData.map(s => {
-      if (!s.brand || !s.model) return "";
+      if (!s.brand) return "";
+      // Emit a brand-only token so the brand selection survives the hash round-trip
+      // before a model is picked; otherwise the Model dropdown can never populate.
+      if (!s.model) return s.brand.brand_slug;
       const t = s.trim ? `:${s.trim.trim_slug}` : "";
       return `${s.brand.brand_slug}:${s.model.model_slug}${t}`;
     });
